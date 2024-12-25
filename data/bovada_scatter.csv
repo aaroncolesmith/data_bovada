@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:28.884137,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,0.18779999999999997,0.7333,0.5455
 2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Oklahoma City Thunder,0.18420000000000003,0.8333,0.6491
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.17810000000000004,0.8333,0.6552
+2024-12-24 23:20:29.365493,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.1745,0.6,0.4255
 2024-12-24 23:20:29.345121,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,0.1587,0.4444,0.2857
 2024-12-24 23:20:29.205738,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Cleveland Cavaliers,0.1269,0.4444,0.3175
 2024-12-24 23:20:29.370619,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Phoenix Suns,0.12660000000000005,0.5348,0.4082
@@ -24,15 +25,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:29.187622,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.044800000000000006,0.3226,0.2778
 2024-12-24 23:20:29.330718,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,0.04459999999999997,0.3571,0.3125
 2024-12-24 23:20:29.723461,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 23.5,0.04139999999999999,0.5652,0.5238
-2024-12-24 23:20:29.601353,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 23.5,0.04139999999999999,0.5652,0.5238
 2024-12-24 23:20:29.712029,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 38.5,0.04139999999999999,0.5652,0.5238
+2024-12-24 23:20:29.601353,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Under 23.5,0.04139999999999999,0.5652,0.5238
+2024-12-24 23:20:29.520181,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,0.04070000000000007,0.9231,0.8824
 2024-12-24 23:20:29.292047,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,0.03990000000000005,0.75,0.7101
 2024-12-24 23:20:29.984145,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.03980000000000006,0.6552,0.6154
 2024-12-24 23:20:29.729117,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 40.5,0.03959999999999997,0.5744,0.5348
 2024-12-24 23:20:29.246876,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.036900000000000044,0.7143,0.6774
+2024-12-24 23:20:29.365493,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.0363,0.7333,0.697
 2024-12-24 23:20:29.311418,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.03610000000000002,0.5917,0.5556
 2024-12-24 23:20:29.683226,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 46.5,0.03600000000000003,0.5238,0.4878
 2024-12-24 23:20:29.215100,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,0.03179999999999994,0.5556,0.5238
+2024-12-25 01:54:20.575469,Potential Fights - Logan Paul vs Conor McGregor - To Win the Bout,Logan Paul,0.030399999999999983,0.5652,0.5348
 2024-12-24 23:20:29.340277,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,0.02960000000000007,0.6296,0.6
 2024-12-24 23:20:29.262967,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,No,0.027900000000000036,0.995,0.9671
 2024-12-24 23:20:29.921755,Super Bowl LIX - Super Bowl 59 - Winner,Detroit Lions,0.026100000000000012,0.2,0.1739
@@ -44,10 +48,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:29.354775,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,0.022199999999999998,0.2222,0.2
 2024-12-24 23:20:29.553533,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,De'Andre Hunter (ATL),0.022199999999999998,0.2222,0.2
 2024-12-24 23:20:28.562973,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.021999999999999964,0.3077,0.2857
-2024-12-24 23:20:29.583847,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 41.5,0.02169999999999994,0.5455,0.5238
-2024-12-24 23:20:29.642559,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 50.5,0.02169999999999994,0.5455,0.5238
 2024-12-24 23:20:28.731763,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.02169999999999994,0.5455,0.5238
+2024-12-24 23:20:29.583847,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 41.5,0.02169999999999994,0.5455,0.5238
 2024-12-24 23:20:29.671750,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 43.5,0.02169999999999994,0.5455,0.5238
+2024-12-24 23:20:29.642559,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 50.5,0.02169999999999994,0.5455,0.5238
 2024-12-24 23:20:29.408663,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,0.020799999999999985,0.3333,0.3125
 2024-12-24 23:20:29.225130,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.02049999999999999,0.1538,0.1333
 2024-12-24 23:20:29.277535,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,0.020299999999999985,0.9615,0.9412
@@ -61,16 +65,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:30.553385,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Naoya Inoue,0.01849999999999996,0.9709,0.9524
 2024-12-24 23:20:29.921755,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,0.01820000000000002,0.2,0.1818
 2024-12-24 23:20:29.943776,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.017600000000000005,0.3509,0.3333
-2024-12-24 23:20:29.196830,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.016600000000000004,0.0833,0.0667
 2024-12-24 23:20:29.425531,B League - Japan B-League 2024/25 - Outright,SeaHorses Mikawa,0.016600000000000004,0.0833,0.0667
+2024-12-24 23:20:29.196830,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.016600000000000004,0.0833,0.0667
 2024-12-24 23:20:29.578295,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Tristan da Silva (ORL),0.0163,0.0196,0.0033
-2024-12-24 23:20:29.246876,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.015700000000000006,0.1333,0.1176
 2024-12-24 23:20:29.187622,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,0.015700000000000006,0.1333,0.1176
+2024-12-24 23:20:29.246876,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.015700000000000006,0.1333,0.1176
 2024-12-24 23:20:29.235881,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.015699999999999936,0.9681,0.9524
 2024-12-24 23:20:29.187622,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.015400000000000025,0.4,0.3846
-2024-12-24 23:20:29.215100,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Southwest,0.015400000000000025,0.2857,0.2703
 2024-12-24 23:20:28.835497,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Benfica,0.015400000000000025,0.4,0.3846
+2024-12-24 23:20:29.215100,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Southwest,0.015400000000000025,0.2857,0.2703
 2024-12-24 23:20:29.425531,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,0.015100000000000002,0.1818,0.1667
+2024-12-24 23:20:29.578295,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Stephon Castle (SAS),0.014900000000000024,0.3226,0.3077
 2024-12-24 23:20:29.419856,Super Ligi - Turkey BSL 2024/25 - Outright,Bursaspor,0.0145,0.0244,0.0099
 2024-12-24 23:20:29.574272,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Jayson Tatum (BOS),0.014399999999999996,0.0769,0.0625
 2024-12-24 23:20:29.211035,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.01419999999999999,0.3846,0.3704
@@ -80,37 +85,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:29.370619,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.013600000000000001,0.3077,0.2941
 2024-12-24 23:20:29.487916,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Western Kentucky,0.0131,0.2353,0.2222
 2024-12-24 23:20:30.534124,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.0131,0.7778,0.7647
-2024-12-24 23:20:29.943776,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,0.012899999999999995,0.1667,0.1538
 2024-12-24 23:20:29.287236,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,0.012899999999999995,0.1667,0.1538
+2024-12-24 23:20:29.943776,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,0.012899999999999995,0.1667,0.1538
 2024-12-24 23:20:29.562040,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Mark Daigneault,0.012599999999999998,0.0278,0.0152
 2024-12-24 23:20:29.566116,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Giannis Antetokounmpo (MIL),0.012599999999999998,0.0278,0.0152
 2024-12-24 23:20:29.921755,Super Bowl LIX - Super Bowl 59 - Winner,Green Bay Packers,0.011899999999999994,0.0833,0.0714
+2024-12-25 01:54:20.562932,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.011600000000000055,0.5238,0.5122
 2024-12-24 23:20:29.257929,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,No,0.01150000000000001,0.3448,0.3333
 2024-12-24 23:20:28.738386,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.011199999999999988,0.9524,0.9412
 2024-12-24 23:20:29.492435,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Miami Ohio,0.011099999999999999,0.1111,0.1
 2024-12-24 23:20:29.179633,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.010499999999999982,0.2105,0.2
 2024-12-24 23:20:29.570183,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Cade Cunningham (DET),0.0102,0.0769,0.0667
-2024-12-24 23:20:29.425531,B League - Japan B-League 2024/25 - Outright,Kyoto Hannaryz,0.010100000000000001,0.0345,0.0244
 2024-12-24 23:20:29.419856,Super Ligi - Turkey BSL 2024/25 - Outright,Galatasaray SK,0.010100000000000001,0.0345,0.0244
-2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Houston Rockets,-0.0102,0.0667,0.0769
+2024-12-24 23:20:29.425531,B League - Japan B-League 2024/25 - Outright,Kyoto Hannaryz,0.010100000000000001,0.0345,0.0244
+2024-12-25 01:54:20.562932,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.010099999999999998,0.5455,0.5556
 2024-12-24 23:20:29.211035,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,-0.0102,0.0667,0.0769
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Payton Wilson (PIT),-0.0102,0.005,0.0152
+2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Houston Rockets,-0.0102,0.0667,0.0769
 2024-12-24 23:20:29.995341,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,-0.010599999999999998,0.4545,0.4651
 2024-12-24 23:20:29.252347,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.010699999999999987,0.3226,0.3333
 2024-12-24 23:20:29.235881,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,-0.010700000000000001,0.0278,0.0385
-2024-12-24 23:20:29.257929,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,-0.011099999999999999,0.7222,0.7333
 2024-12-24 23:20:29.211035,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.011099999999999999,0.1,0.1111
+2024-12-24 23:20:29.257929,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,-0.011099999999999999,0.7222,0.7333
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Kamari Lassiter (HOU),-0.0113,0.0066,0.0179
+2024-12-24 23:20:29.478760,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,-0.011700000000000016,0.2105,0.2222
 2024-12-24 23:20:29.943776,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,-0.011900000000000008,0.0833,0.0952
 2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Denver Nuggets,-0.0121,0.0435,0.0556
 2024-12-24 23:20:29.734939,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 39.5,-0.012199999999999989,0.5,0.5122
 2024-12-24 23:20:29.624885,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 50.5,-0.012199999999999989,0.5,0.5122
+2024-12-24 23:20:29.459132,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.012199999999999989,0.4878,0.5
 2024-12-24 23:20:29.537018,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.012299999999999978,0.3448,0.3571
 2024-12-24 23:20:29.562040,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,-0.012899999999999995,0.1538,0.1667
 2024-12-24 23:20:28.721184,League One - England League One 2024/25 - Winner,Reading,-0.0129,0.002,0.0149
 2024-12-24 23:20:29.419856,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,-0.013299999999999979,0.6296,0.6429
-2024-12-24 23:20:29.520181,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,-0.013899999999999996,0.1111,0.125
 2024-12-24 23:20:28.569209,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Ademola Lookman (Atalanta),-0.013899999999999996,0.1111,0.125
+2024-12-24 23:20:29.520181,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,-0.013899999999999996,0.1111,0.125
+2024-12-24 23:20:29.478760,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Cincinnati,-0.013999999999999999,0.0769,0.0909
 2024-12-24 23:20:29.225130,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.014000000000000012,0.9091,0.9231
 2024-12-24 23:20:29.943776,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Washington Commanders,-0.014099999999999994,0.0526,0.0667
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Edgerrin Cooper (GB),-0.014599999999999998,0.005,0.0196
@@ -132,8 +142,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:28.566075,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Fiorentina,-0.0203,0.0385,0.0588
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Andru Phillips (NYG),-0.0204,0.004,0.0244
 2024-12-24 23:20:29.354775,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,-0.020500000000000074,0.8462,0.8667
-2024-12-24 23:20:29.642559,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 50.5,-0.02169999999999994,0.5238,0.5455
 2024-12-24 23:20:29.583847,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 41.5,-0.02169999999999994,0.5238,0.5455
+2024-12-24 23:20:29.642559,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 50.5,-0.02169999999999994,0.5238,0.5455
 2024-12-24 23:20:29.671750,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 43.5,-0.02169999999999994,0.5238,0.5455
 2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Dallas Mavericks,-0.022000000000000006,0.0833,0.1053
 2024-12-24 23:20:29.241301,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.022199999999999998,0.2,0.2222
@@ -155,16 +165,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:29.425531,B League - Japan B-League 2024/25 - Outright,Chiba Jets,-0.028799999999999992,0.125,0.1538
 2024-12-24 23:20:29.683226,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 46.5,-0.028900000000000037,0.5455,0.5744
 2024-12-24 23:20:29.246876,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.029899999999999982,0.2778,0.3077
-2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tarheeb Still (LAC),-0.030199999999999998,0.0323,0.0625
 2024-12-24 23:20:29.196830,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Miami Heat,-0.030199999999999998,0.0323,0.0625
+2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Tarheeb Still (LAC),-0.030199999999999998,0.0323,0.0625
+2024-12-24 23:20:28.578862,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.030299999999999994,0.3333,0.3636
 2024-12-24 23:20:29.252347,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.030299999999999994,0.3333,0.3636
 2024-12-24 23:20:29.340277,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,-0.030299999999999994,0.4348,0.4651
-2024-12-24 23:20:28.578862,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.030299999999999994,0.3333,0.3636
 2024-12-24 23:20:29.219965,Western Conference - Conference Seeding  - To Be #1 Seed,Golden State Warriors,-0.031199999999999995,0.0244,0.0556
 2024-12-24 23:20:28.721184,League One - England League One 2024/25 - Winner,Lincoln City,-0.031200000000000002,0.0033,0.0345
 2024-12-24 23:20:29.574272,NBA Awards & League Leaders - NBA Awards 2024-25 - Regular Season MVP,Nikola Jokic (DEN),-0.031799999999999995,0.4444,0.4762
 2024-12-24 23:20:30.037038,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.0319,0.0066,0.0385
 2024-12-24 23:20:29.205738,Eastern Conference - Conference Seeding  - To Be #1 Seed ,Boston Celtics,-0.03370000000000006,0.6154,0.6491
+2024-12-25 01:54:20.575469,Potential Fights - Logan Paul vs Conor McGregor - To Win the Bout,Conor McGregor,-0.03480000000000005,0.5,0.5348
 2024-12-24 23:20:29.311418,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.035999999999999976,0.4762,0.5122
 2024-12-24 23:20:29.330718,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,-0.03990000000000005,0.7101,0.75
 2024-12-24 23:20:28.562973,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.04040000000000002,0.1818,0.2222
@@ -173,9 +184,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-24 23:20:29.694818,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,-0.04139999999999999,0.5238,0.5652
 2024-12-24 23:20:29.187622,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.04240000000000001,0.1176,0.16
 2024-12-24 23:20:29.292047,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,-0.04459999999999997,0.3125,0.3571
+2024-12-24 23:20:29.601353,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 23.5,-0.045499999999999985,0.5,0.5455
 2024-12-24 23:20:29.712029,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 38.5,-0.045499999999999985,0.5,0.5455
 2024-12-24 23:20:29.723461,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 23.5,-0.045499999999999985,0.5,0.5455
-2024-12-24 23:20:29.601353,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 23.5,-0.045499999999999985,0.5,0.5455
 2024-12-24 23:20:29.215100,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Pacific,-0.046599999999999975,0.2564,0.303
 2024-12-24 23:20:29.729117,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 40.5,-0.04700000000000004,0.4878,0.5348
 2024-12-24 23:20:29.262967,To Make the Playoffs - Brooklyn Nets 2024-25 - To Make the Playoffs,Yes,-0.047400000000000005,0.0526,0.1

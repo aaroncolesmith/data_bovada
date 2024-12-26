@@ -21,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 13:31:57.791106,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Tennessee Volunteers,0.013899999999999996,0.125,0.1111
 2024-12-26 12:52:11.919446,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,Stephen Curry (GSW),0.010700000000000001,0.0385,0.0278
 2024-12-26 13:31:57.780443,Regular Season Wins - Washington Nationals Wins - 2025 Regular Season - Washington Nationals Wins - 2025 Regular Season,Over 70.5,0.010699999999999932,0.5455,0.5348
+2024-12-26 20:29:58.520647,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,0.010499999999999982,0.2105,0.2
 2024-12-26 13:31:57.791106,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.0102,0.0769,0.0667
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),DAL Cowboys,-0.010100000000000001,0.0244,0.0345
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),NO Saints,-0.010700000000000001,0.0278,0.0385
@@ -31,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),NY Giants,-0.012700000000000003,0.0196,0.0323
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),CLE Browns,-0.012800000000000002,0.0217,0.0345
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.013,0.0066,0.0196
-2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),IND Colts,-0.013899999999999996,0.1111,0.125
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),MIN Vikings,-0.013899999999999996,0.1111,0.125
+2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),IND Colts,-0.013899999999999996,0.1111,0.125
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),NY Jets,-0.014099999999999998,0.0294,0.0435
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),LV Raiders,-0.014100000000000001,0.0385,0.0526
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),CAR Panthers,-0.014399999999999996,0.0625,0.0769

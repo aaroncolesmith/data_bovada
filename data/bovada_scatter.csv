@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-12-26 16:35:12.134813,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.3013,0.9565,0.6552
 2024-12-26 11:25:45.367672,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.1896,0.5122,0.3226
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.10119999999999998,0.1538,0.0526
 2024-12-26 13:31:57.515067,To Make The Playoffs - San Francisco Giants To Make The Playoffs - 2025 Regular Season - San Francisco Giants To Make The Playoffs - 2025 Regular Season,No,0.06659999999999999,0.7333,0.6667
@@ -29,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),NY Giants,-0.012700000000000003,0.0196,0.0323
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),CLE Browns,-0.012800000000000002,0.0217,0.0345
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.013,0.0066,0.0196
-2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),MIN Vikings,-0.013899999999999996,0.1111,0.125
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),IND Colts,-0.013899999999999996,0.1111,0.125
+2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),MIN Vikings,-0.013899999999999996,0.1111,0.125
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),NY Jets,-0.014099999999999998,0.0294,0.0435
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),LV Raiders,-0.014100000000000001,0.0385,0.0526
 2024-12-26 12:52:12.323667,Sunday 29th December - NFL Week 17 - Leaders - Highest Scoring Team (Sunday Only),CAR Panthers,-0.014399999999999996,0.0625,0.0769
@@ -52,3 +53,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 13:31:57.515067,To Make The Playoffs - San Francisco Giants To Make The Playoffs - 2025 Regular Season - San Francisco Giants To Make The Playoffs - 2025 Regular Season,Yes,-0.06670000000000004,0.3333,0.4
 2024-12-26 11:25:45.358208,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.0907,0.3175,0.4082
 2024-12-26 11:25:45.367672,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.18420000000000003,0.2703,0.4545
+2024-12-26 16:35:12.134813,AFC North - AFC North 2024/25 - AFC North Winner,Pittsburgh Steelers,-0.3013,0.0833,0.3846

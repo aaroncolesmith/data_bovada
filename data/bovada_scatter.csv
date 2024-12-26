@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-25 22:31:31.546413,NBL - Australia NBL 2024/25 - Regular Season League Winner,Sydney Kings,0.044499999999999984,0.2667,0.2222
 2024-12-26 01:55:00.526397,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.04099999999999998,0.3636,0.3226
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.0343,0.1176,0.0833
+2024-12-26 08:35:00.826509,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.030299999999999994,0.3333,0.303
 2024-12-25 22:31:31.543253,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,0.0286,0.1,0.0714
 2024-12-25 22:31:31.546413,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,0.028000000000000004,0.0476,0.0196
 2024-12-26 01:55:00.526397,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,0.02779999999999999,0.25,0.2222
@@ -15,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-25 23:27:32.314014,"Daily Specials - NBA Christmas Day Specials - Wednesday, December 25th - Late Games","A. Davis, N. Jokic & J. Nurkic 37+ Combined Rebounds",0.016699999999999993,0.2667,0.25
 2024-12-25 22:31:31.543253,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.015400000000000025,0.4,0.3846
 2024-12-26 02:58:01.181022,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.013999999999999999,0.0909,0.0769
-2024-12-25 21:27:24.651320,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.0131,0.7778,0.7647
 2024-12-25 22:31:32.311854,Boxing Lines - Panya Pradabsri vs Carlos Canizales - To Win the Bout,Panya Pradabsri,0.010599999999999998,0.4651,0.4545
 2024-12-26 01:55:00.985259,Boxing Lines - Panya Pradabsri vs Carlos Canizales - To Win the Bout,Panya Pradabsri,-0.010599999999999998,0.4545,0.4651
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Herbert (LAC),-0.0114,0.005,0.0164
@@ -23,7 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.013,0.0066,0.0196
 2024-12-26 02:58:01.181022,WNBA Championship - WNBA Championship 2025 - Championship Winner,Connecticut Sun,-0.015700000000000006,0.1176,0.1333
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Cameron Heyward (PIT),-0.0159,0.0164,0.0323
-2024-12-25 21:27:24.651320,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,-0.017299999999999982,0.2857,0.303
+2024-12-26 08:35:00.826509,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.017600000000000005,0.3333,0.3509
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.0179,0.0099,0.0278
 2024-12-26 02:58:01.952049,Boxing Lines - Panya Pradabsri vs Carlos Canizales - To Win the Bout,Panya Pradabsri,-0.019699999999999995,0.4348,0.4545
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),-0.022799999999999997,0.005,0.0278

@@ -1,6 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-12-26 11:25:45.367672,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.1896,0.5122,0.3226
 2024-12-26 02:58:01.578141,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.14659999999999998,0.3571,0.2105
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.10119999999999998,0.1538,0.0526
+2024-12-26 11:25:45.358208,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.04999999999999999,0.25,0.2
+2024-12-26 11:25:45.343976,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.04620000000000002,0.2,0.1538
+2024-12-26 11:25:45.358208,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.04409999999999997,0.2941,0.25
 2024-12-26 01:55:00.526397,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.04099999999999998,0.3636,0.3226
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.0343,0.1176,0.0833
 2024-12-26 08:35:00.826509,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.030299999999999994,0.3333,0.303
@@ -9,9 +13,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-25 23:27:32.314014,"Daily Specials - NBA Christmas Day Specials - Wednesday, December 25th - Late Games","A. Davis, N. Jokic & J. Nurkic 31+ Combined Rebounds",0.020299999999999985,0.6429,0.6226
 2024-12-26 01:55:00.526397,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Denver Broncos,0.018099999999999998,0.0526,0.0345
 2024-12-25 23:27:32.314014,"Daily Specials - NBA Christmas Day Specials - Wednesday, December 25th - Late Games","A. Davis, N. Jokic & J. Nurkic 37+ Combined Rebounds",0.016699999999999993,0.2667,0.25
+2024-12-26 11:25:45.594274,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Russell Westbrook (DEN),0.0145,0.0244,0.0099
 2024-12-26 02:58:01.181022,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.013999999999999999,0.0909,0.0769
 2024-12-26 01:55:00.985259,Boxing Lines - Panya Pradabsri vs Carlos Canizales - To Win the Bout,Panya Pradabsri,-0.010599999999999998,0.4545,0.4651
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Herbert (LAC),-0.0114,0.005,0.0164
+2024-12-26 11:25:45.353454,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,-0.011599999999999944,0.9565,0.9681
 2024-12-26 01:55:00.521468,Super Bowl LIX - Super Bowl 59 - Winner,Green Bay Packers,-0.011899999999999994,0.0714,0.0833
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Anthony Richardson (IND),-0.013,0.0066,0.0196
 2024-12-26 02:58:01.181022,WNBA Championship - WNBA Championship 2025 - Championship Winner,Connecticut Sun,-0.015700000000000006,0.1176,0.1333
@@ -19,8 +25,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-26 08:35:00.826509,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.017600000000000005,0.3333,0.3509
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Damar Hamlin (BUF),-0.0179,0.0099,0.0278
 2024-12-26 02:58:01.952049,Boxing Lines - Panya Pradabsri vs Carlos Canizales - To Win the Bout,Panya Pradabsri,-0.019699999999999995,0.4348,0.4545
+2024-12-26 11:25:45.334511,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,-0.0208,0.0625,0.0833
+2024-12-26 11:25:45.334511,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.022600000000000064,0.5122,0.5348
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),-0.022799999999999997,0.005,0.0278
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),-0.028800000000000048,0.8462,0.875
 2024-12-26 01:55:00.526397,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.03920000000000001,0.2941,0.3333
 2024-12-26 08:35:01.194311,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Tim Patrick (DET),-0.0403,0.0123,0.0526
+2024-12-26 11:25:45.343976,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.04239999999999999,0.8667,0.9091
 2024-12-26 02:58:01.578141,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.05339999999999989,0.7727,0.8261
+2024-12-26 11:25:45.358208,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.0907,0.3175,0.4082
+2024-12-26 11:25:45.367672,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.18420000000000003,0.2703,0.4545

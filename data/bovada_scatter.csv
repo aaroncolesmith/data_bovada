@@ -30,11 +30,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 13:31:28.663760,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.019199999999999995,0.9901,0.9709
 2024-12-27 13:31:28.525835,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.01820000000000002,0.2,0.1818
 2024-12-27 13:31:28.522692,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.01820000000000002,0.2,0.1818
-2024-12-27 09:29:52.705812,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.018099999999999998,0.0769,0.0588
 2024-12-27 14:31:38.504307,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,0.018099999999999998,0.0769,0.0588
+2024-12-27 09:29:52.705812,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,0.018099999999999998,0.0769,0.0588
 2024-12-27 13:31:28.519273,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.0179,0.1429,0.125
 2024-12-27 13:31:28.525835,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,0.0179,0.1429,0.125
-2024-12-27 06:37:30.375421,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.01680000000000001,0.2273,0.2105
 2024-12-27 13:31:28.607008,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.016699999999999993,0.4167,0.4
 2024-12-27 13:31:29.005278,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.016699999999999993,0.2667,0.25
 2024-12-27 09:29:52.715193,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.01629999999999998,0.2941,0.2778
@@ -43,8 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 13:31:28.522692,Championship - England Championship 2024/25 - Top 2 Finish,Blackburn Rovers,0.014099999999999998,0.0435,0.0294
 2024-12-27 09:29:52.691869,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,0.011899999999999994,0.0833,0.0714
 2024-12-27 17:29:05.796002,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,0.011700000000000016,0.2222,0.2105
-2024-12-27 13:31:28.519273,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.011199999999999995,0.0588,0.0476
 2024-12-27 13:31:28.519273,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.011199999999999995,0.0588,0.0476
+2024-12-27 13:31:28.519273,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.011199999999999995,0.0588,0.0476
 2024-12-27 13:31:28.525835,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.011199999999999995,0.0588,0.0476
 2024-12-27 13:31:28.509618,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,-0.010099999999999998,0.5455,0.5556
 2024-12-27 12:51:11.380327,League One - England League One 2024/25 - Top Goalscorer,Kyle Wootton,-0.010100000000000001,0.0244,0.0345

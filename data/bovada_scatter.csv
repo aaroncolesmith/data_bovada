@@ -36,7 +36,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 01:55:49.851832,National League - English National League 2024/25 - English National League Winner,York City,0.04099999999999998,0.3077,0.2667
 2024-12-27 01:55:49.863721,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.0393,0.6226,0.5833
 2024-12-27 02:58:08.348333,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.038899999999999935,0.8571,0.8182
-2024-12-26 18:36:11.425691,Daily Specials - NBA Daily Specials - Requested Specials,"Bucks 111+ Points, D.DeRozan & M.Monk 15+ Pts Each, L.Dort 1+ Three Made",0.0363,0.303,0.2667
 2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,0.03570000000000001,0.2857,0.25
 2024-12-27 01:55:49.743268,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.03420000000000001,0.9231,0.8889
 2024-12-27 01:55:49.746379,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,0.033299999999999996,0.8333,0.8
@@ -63,20 +62,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.018900000000000028,0.9804,0.9615
 2024-12-27 02:58:08.365906,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.01820000000000002,0.2,0.1818
 2024-12-27 02:58:08.365906,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,0.018099999999999998,0.0769,0.0588
-2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.01759999999999999,0.1176,0.1
 2024-12-27 01:55:49.777385,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.01759999999999999,0.1176,0.1
+2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.01759999999999999,0.1176,0.1
 2024-12-27 05:32:10.349814,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.01739999999999997,0.7674,0.75
+2024-12-27 06:37:30.375421,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.01680000000000001,0.2273,0.2105
 2024-12-27 01:55:49.746379,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.016699999999999993,0.2667,0.25
-2024-12-27 02:58:08.356348,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.015100000000000002,0.1818,0.1667
 2024-12-27 01:55:49.774170,League One - England League One 2024/25 - Winner,Birmingham City,0.015100000000000002,0.8333,0.8182
+2024-12-27 02:58:08.356348,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.015100000000000002,0.1818,0.1667
 2024-12-27 01:55:49.777385,League One - England League One 2024/25 - To Be Promoted,Birmingham City,0.01429999999999998,0.9852,0.9709
 2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,Notts County,0.014099999999999994,0.0667,0.0526
 2024-12-27 01:55:49.855556,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.013999999999999999,0.0909,0.0769
 2024-12-27 02:58:08.345222,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.0131,0.9655,0.9524
 2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,Salford City,0.012100000000000001,0.0244,0.0123
 2024-12-27 05:32:10.338930,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,0.011599999999999944,0.9681,0.9565
-2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.011199999999999995,0.0588,0.0476
 2024-12-27 01:55:49.746379,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.011199999999999995,0.0588,0.0476
+2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.011199999999999995,0.0588,0.0476
 2024-12-27 02:58:08.348333,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.011199999999999988,0.9524,0.9412
 2024-12-27 05:32:10.354480,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.010599999999999998,0.4651,0.4545
 2024-12-26 20:29:58.520647,Super Bowl LIX - Super Bowl 59 - Winner,Kansas City Chiefs,0.010499999999999982,0.2105,0.2
@@ -89,20 +89,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,-0.011199999999999995,0.0476,0.0588
 2024-12-27 02:58:08.365906,League Two - England League Two 2024/25 - To Finish Bottom,Cheltenham Town,-0.012100000000000001,0.0123,0.0244
 2024-12-27 02:58:09.517068,Potential Fights - Logan Paul vs Conor McGregor - To Win the Bout,Conor McGregor,-0.012199999999999989,0.4878,0.5
-2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.013899999999999996,0.1111,0.125
-2024-12-26 23:27:52.862950,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.013899999999999996,0.1111,0.125
 2024-12-26 23:27:52.862950,NBL - Australia NBL 2024/25 - To Make Grand Final,SE Melbourne Phoenix,-0.013899999999999996,0.1111,0.125
+2024-12-26 23:27:52.862950,NBL - Australia NBL 2024/25 - To Make Grand Final,Perth Wildcats,-0.013899999999999996,0.1111,0.125
+2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.013899999999999996,0.1111,0.125
 2024-12-27 02:58:08.356348,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,-0.013999999999999999,0.0769,0.0909
-2024-12-27 01:55:49.780530,League One - England League One 2024/25 - To Be Relegated,Reading,-0.013999999999999999,0.0769,0.0909
-2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.013999999999999999,0.0769,0.0909
 2024-12-27 01:55:49.870398,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Bournemouth,-0.013999999999999999,0.0769,0.0909
+2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.013999999999999999,0.0769,0.0909
+2024-12-27 01:55:49.780530,League One - England League One 2024/25 - To Be Relegated,Reading,-0.013999999999999999,0.0769,0.0909
 2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.014099999999999994,0.0526,0.0667
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.014099999999999998,0.0244,0.0385
 2024-12-26 22:31:36.927586,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.014499999999999999,0.0149,0.0294
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.0145,0.0099,0.0244
 2024-12-27 01:55:49.780530,League One - England League One 2024/25 - To Be Relegated,Leyton Orient,-0.014900000000000004,0.0196,0.0345
-2024-12-27 05:32:10.316204,Super Bowl LIX - Super Bowl 59 - Winner,Buffalo Bills,-0.015100000000000002,0.1667,0.1818
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,-0.015100000000000002,0.1667,0.1818
+2024-12-27 05:32:10.316204,Super Bowl LIX - Super Bowl 59 - Winner,Buffalo Bills,-0.015100000000000002,0.1667,0.1818
 2024-12-27 01:55:49.867224,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.015100000000000002,0.1667,0.1818
 2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.015400000000000025,0.3846,0.4
 2024-12-27 01:55:49.777385,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.016699999999999993,0.25,0.2667
@@ -117,8 +117,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 02:58:08.365906,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,-0.019099999999999992,0.0476,0.0667
 2024-12-27 01:55:49.788514,League Two - England League Two 2024/25 - Winner,Crewe Alexandra,-0.019099999999999992,0.0476,0.0667
 2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.021999999999999964,0.2857,0.3077
-2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.022199999999999998,0.2,0.2222
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.022199999999999998,0.7778,0.8
+2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.022199999999999998,0.2,0.2222
 2024-12-27 01:55:49.743268,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.02260000000000001,0.3774,0.4
 2024-12-27 01:55:49.870398,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,-0.022600000000000064,0.6,0.6226
 2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.02310000000000001,0.0769,0.1
@@ -150,8 +150,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 01:55:49.867224,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.04910000000000003,0.3509,0.4
 2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.04999999999999999,0.2,0.25
 2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.05449999999999999,0.4,0.4545
-2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.05559999999999998,0.5,0.5556
 2024-12-27 01:55:49.743268,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.05559999999999998,0.1111,0.1667
+2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.05559999999999998,0.5,0.5556
 2024-12-26 23:27:52.862950,NBL - Australia NBL 2024/25 - To Make Grand Final,Sydney Kings,-0.05559999999999998,0.4444,0.5
 2024-12-27 01:55:49.863721,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.055900000000000005,0.3077,0.3636
 2024-12-27 01:55:49.743268,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.05590000000000006,0.6364,0.6923
@@ -166,8 +166,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-27 02:58:08.359774,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.0917,0.2857,0.3774
 2024-12-26 22:31:36.930651,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,-0.0948,0.25,0.3448
 2024-12-26 23:27:52.862950,NBL - Australia NBL 2024/25 - To Make Grand Final,Melbourne United,-0.10109999999999997,0.4444,0.5455
-2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.10390000000000002,0.1818,0.2857
 2024-12-27 02:58:08.348333,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,-0.10390000000000002,0.1818,0.2857
+2024-12-27 02:58:08.368983,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.10390000000000002,0.1818,0.2857
 2024-12-27 01:55:49.783684,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,-0.11430000000000001,0.2857,0.4
 2024-12-27 02:58:08.348333,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,-0.13,0.4444,0.5744
 2024-12-27 02:58:08.372086,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.13639999999999997,0.5,0.6364

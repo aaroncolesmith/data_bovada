@@ -5,17 +5,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-28 06:36:00.442786,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.05710000000000001,0.2,0.1429
 2024-12-28 06:36:00.470783,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.0489,0.1739,0.125
 2024-12-28 06:36:00.611926,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.037800000000000056,0.5833,0.5455
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Real Madrid,0.030699999999999998,0.0833,0.0526
 2024-12-28 06:36:00.437757,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),0.0286,0.1,0.0714
 2024-12-28 06:36:00.431063,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.025300000000000003,0.1429,0.1176
 2024-12-28 08:33:12.473473,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,0.0242,0.0909,0.0667
+2024-12-28 11:25:30.042853,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.022199999999999998,0.2222,0.2
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.021699999999999997,0.4762,0.4545
 2024-12-28 06:36:00.575742,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,0.02100000000000002,0.3846,0.3636
 2024-12-28 06:36:00.475422,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.018100000000000005,0.4348,0.4167
+2024-12-28 11:25:30.042853,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.0179,0.1429,0.125
 2024-12-28 01:53:18.797362,NBL - Australia NBL 2024/25 - To Make Grand Final,Illawarra Hawks,0.01759999999999995,0.6667,0.6491
 2024-12-28 06:36:00.452165,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.0174,0.25,0.2326
 2024-12-28 06:36:00.475422,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,0.01629999999999998,0.2941,0.2778
 2024-12-28 06:36:00.437757,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),0.015899999999999997,0.1111,0.0952
 2024-12-28 06:36:00.437757,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Florida (FL),0.015300000000000001,0.0476,0.0323
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.015100000000000002,0.1818,0.1667
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,AS Monaco,0.015100000000000002,0.1818,0.1667
 2024-12-28 06:36:00.608449,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),0.014399999999999996,0.0769,0.0625
 2024-12-28 06:36:00.431063,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,0.013899999999999996,0.125,0.1111
 2024-12-28 06:36:00.466116,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.013899999999999968,0.2703,0.2564
@@ -27,20 +32,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-28 06:36:00.611926,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Taylor Jenkins,-0.010499999999999982,0.2,0.2105
 2024-12-28 06:36:00.608449,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.010999999999999996,0.0345,0.0455
 2024-12-28 06:36:00.427749,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.01100000000000001,0.5238,0.5348
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,-0.011099999999999999,0.1,0.1111
 2024-12-28 06:36:00.619035,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Victor Wembanyama (SAS),-0.011199999999999995,0.0323,0.0435
+2024-12-28 11:25:30.042853,Euroleague - Euroleague 2024/25 - Outright,Paris,-0.011199999999999995,0.0476,0.0588
 2024-12-28 08:33:12.473473,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.011700000000000016,0.2105,0.2222
 2024-12-28 06:36:00.604842,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.011700000000000016,0.2105,0.2222
 2024-12-28 06:36:00.447529,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,-0.011899999999999994,0.0714,0.0833
 2024-12-28 06:36:00.442786,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.0131,0.2222,0.2353
 2024-12-28 06:36:00.447529,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.013899999999999996,0.1111,0.125
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Bayern Munich,-0.014099999999999994,0.0526,0.0667
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Melbourne United,-0.01469999999999999,0.2353,0.25
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Brisbane Bullets,-0.015300000000000001,0.0323,0.0476
 2024-12-28 06:36:00.431063,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,-0.015400000000000025,0.3846,0.4
 2024-12-28 06:36:00.470783,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.01629999999999998,0.2778,0.2941
+2024-12-28 11:25:30.042853,Euroleague - Euroleague 2024/25 - Outright,Barcelona,-0.016600000000000004,0.0667,0.0833
 2024-12-28 06:36:00.619035,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Jalen Williams (OKC),-0.016699999999999993,0.25,0.2667
 2024-12-28 06:36:00.437757,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.01759999999999999,0.1,0.1176
 2024-12-28 06:36:00.452165,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.017900000000000027,0.8571,0.875
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Milano,-0.018099999999999998,0.0345,0.0526
+2024-12-28 11:25:30.046010,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Zalgiris,-0.018200000000000004,0.0294,0.0476
 2024-12-28 06:36:00.611926,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,-0.02049999999999999,0.1333,0.1538
 2024-12-28 06:36:00.456825,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.0208,0.0625,0.0833
 2024-12-28 06:36:00.626043,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Dalton Knecht (LAL),-0.024299999999999995,0.0345,0.0588

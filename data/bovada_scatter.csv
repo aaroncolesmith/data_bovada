@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-28 06:36:00.611926,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.037800000000000056,0.5833,0.5455
 2024-12-28 06:36:00.437757,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),0.0286,0.1,0.0714
 2024-12-28 06:36:00.431063,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.025300000000000003,0.1429,0.1176
+2024-12-28 08:33:12.473473,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,0.0242,0.0909,0.0667
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.021699999999999997,0.4762,0.4545
 2024-12-28 06:36:00.575742,Men's Basketball Conferences - Southern Conference Winner - Southern Conference Winner (Regular Season),Samford,0.02100000000000002,0.3846,0.3636
 2024-12-27 22:31:37.830361,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.019600000000000006,0.3226,0.303
@@ -34,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-28 06:36:00.427749,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.01100000000000001,0.5238,0.5348
 2024-12-28 06:36:00.619035,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Victor Wembanyama (SAS),-0.011199999999999995,0.0323,0.0435
 2024-12-28 06:36:00.604842,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.011700000000000016,0.2105,0.2222
+2024-12-28 08:33:12.473473,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.011700000000000016,0.2105,0.2222
 2024-12-28 06:36:00.447529,Western Conference - Western Conference 2024-25 - Western Conference Winner,Phoenix Suns,-0.011899999999999994,0.0714,0.0833
 2024-12-28 06:36:00.442786,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
 2024-12-28 01:53:18.790452,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,-0.0131,0.2222,0.2353

@@ -1,6 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-01-01 02:03:38.700088,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),0.1905,0.7143,0.5238
+2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.1795,0.3333,0.1538
 2024-12-31 19:23:12.679428,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),0.06649999999999999,0.0909,0.0244
 2024-12-31 19:23:12.675547,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),0.05870000000000003,0.5238,0.4651
+2025-01-01 02:03:38.707336,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.05249999999999999,0.9756,0.9231
 2024-12-31 14:30:43.087925,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Kerby Joseph (DET),0.05249999999999999,0.0769,0.0244
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.04909999999999999,0.1667,0.1176
 2024-12-31 17:29:14.664237,Positions - Finishing Position - Collin Morikawa - Finishing Position,13th or worse,0.04139999999999999,0.5652,0.5238
@@ -14,27 +17,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-31 14:30:43.542837,Tournament Match-Ups - Tournament Match-Up - B.H. An vs R. Henley - Tournament Match-Up,Byeong Hun An,0.02079999999999993,0.5556,0.5348
 2024-12-31 14:30:43.087925,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),0.020699999999999996,0.4651,0.4444
 2024-12-31 14:30:43.558840,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs M. McNealy - Tournament Match-Up,Maverick McNealy,0.01970000000000005,0.5652,0.5455
-2024-12-31 13:31:15.464609,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Robert MacIntyre,0.01970000000000005,0.5652,0.5455
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.019099999999999995,0.0435,0.0244
+2025-01-01 02:03:38.693396,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.018100000000000005,0.9412,0.9231
 2024-12-31 14:30:43.095368,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),0.017800000000000003,0.0244,0.0066
+2025-01-01 02:03:38.690034,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.016000000000000014,0.8077,0.7917
+2025-01-01 02:03:38.475365,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),0.015300000000000001,0.0588,0.0435
 2024-12-31 19:23:12.668738,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),0.015300000000000001,0.0476,0.0323
 2024-12-31 19:23:12.679428,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.014000000000000012,0.9231,0.9091
 2024-12-31 14:30:43.087925,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.011600000000000055,0.5238,0.5122
-2024-12-31 13:31:15.428627,Tournament Match-Ups - Tournament Match-Up - A. Bhatia vs A. Scott - Tournament Match-Up,Adam Scott,0.0116,0.4878,0.4762
-2024-12-31 13:31:15.460606,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs S. Im - Tournament Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
-2024-12-31 13:31:15.460606,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs S. Im - Tournament Match-Up,Sungjae Im,-0.01100000000000001,0.5238,0.5348
 2024-12-31 14:30:43.080839,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.011199999999999988,0.9412,0.9524
+2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Cameron Heyward (PIT),-0.0114,0.005,0.0164
 2024-12-31 17:29:14.608824,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,-0.012899999999999995,0.1538,0.1667
-2024-12-31 13:31:15.428627,Tournament Match-Ups - Tournament Match-Up - A. Bhatia vs A. Scott - Tournament Match-Up,Akshay Bhatia,-0.017299999999999982,0.5744,0.5917
 2024-12-31 19:23:12.675547,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Kerby Joseph (DET),-0.018099999999999998,0.0588,0.0769
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.018100000000000005,0.9231,0.9412
 2024-12-31 15:30:12.412262,Tournament Match-Ups - Tournament Match-Up - A. Bhatia vs A. Scott - Tournament Match-Up,Akshay Bhatia,-0.01880000000000004,0.5556,0.5744
 2024-12-31 19:23:12.668738,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.019000000000000003,0.0435,0.0625
 2024-12-31 17:29:14.733525,Tournament Match-Ups - Tournament Match-Up - A. Bhatia vs A. Scott - Tournament Match-Up,Akshay Bhatia,-0.02079999999999993,0.5348,0.5556
 2024-12-31 14:30:43.542837,Tournament Match-Ups - Tournament Match-Up - B.H. An vs R. Henley - Tournament Match-Up,Russell Henley,-0.022600000000000064,0.5122,0.5348
-2024-12-31 13:31:15.464609,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2024-12-31 14:30:43.558840,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs M. McNealy - Tournament Match-Up,Keegan Bradley,-0.023800000000000043,0.5,0.5238
 2024-12-31 17:29:14.651627,Positions - Finishing Position - Akshay Bhatia - Finishing Position,21st or better,-0.026499999999999968,0.5652,0.5917
 2024-12-31 16:34:41.625215,Positions - Finishing Position - Ludvig Aberg - Finishing Position,15th or better,-0.030399999999999983,0.5348,0.5652
 2024-12-31 17:29:14.664237,Positions - Finishing Position - Collin Morikawa - Finishing Position,12th or better,-0.045499999999999985,0.5,0.5455
 2024-12-31 17:29:14.655836,Positions - Finishing Position - Brian Harman - Finishing Position ,24th or better,-0.04700000000000004,0.4878,0.5348
+2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.062,0.0556,0.1176
+2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),-0.10939999999999994,0.7368,0.8462

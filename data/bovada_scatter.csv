@@ -11,14 +11,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-01 06:39:03.488980,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Penn State,0.033300000000000024,0.2,0.1667
 2025-01-01 13:30:53.479631,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - San Diego Padres Wins - 2025 Regular Season,Under 89.5,0.033299999999999996,0.5455,0.5122
 2025-01-01 06:39:03.287210,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.029000000000000026,0.4545,0.4255
-2025-01-01 03:04:56.296917,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Sam Goodman,0.027800000000000005,0.1111,0.0833
 2025-01-01 06:39:03.124412,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.02779999999999999,0.2778,0.25
-2025-01-01 14:30:50.962516,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
 2025-01-01 12:51:11.248946,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs M. McNealy - Tournament Match-Up,Keegan Bradley,0.023800000000000043,0.5238,0.5
+2025-01-01 14:30:50.962516,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
 2025-01-01 13:30:53.571105,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.019000000000000017,0.2857,0.2667
 2025-01-01 13:30:53.575919,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.018900000000000028,0.4444,0.4255
-2025-01-01 14:30:50.944928,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 67.5,0.017299999999999982,0.5917,0.5744
 2025-01-01 12:51:11.133573,Positions - Finishing Position - Brian Harman - Finishing Position ,25th or worse,0.017299999999999982,0.5917,0.5744
+2025-01-01 14:30:50.944928,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 67.5,0.017299999999999982,0.5917,0.5744
 2025-01-01 12:51:10.970372,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Naoya Inoue,0.0131,0.9655,0.9524
 2025-01-01 06:39:03.110428,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.0121,0.9877,0.9756
 2025-01-01 12:51:11.214215,Positions - Finishing Position - Xander Schauffele - Finishing Position,8th or better,0.01100000000000001,0.5348,0.5238
@@ -32,7 +31,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-01 13:30:53.575919,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.013999999999999999,0.0769,0.0909
 2025-01-01 12:51:10.970372,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Sam Goodman,-0.016700000000000007,0.0833,0.1
 2025-01-01 13:30:53.571105,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.017600000000000005,0.3333,0.3509
-2025-01-01 03:04:56.296917,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Naoya Inoue,-0.018100000000000005,0.9474,0.9655
 2025-01-01 06:39:03.124412,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.01820000000000002,0.1818,0.2
 2025-01-01 14:30:50.962516,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-01-01 12:51:11.248946,Tournament Match-Ups - Tournament Match-Up - K. Bradley vs M. McNealy - Tournament Match-Up,Maverick McNealy,-0.01970000000000005,0.5455,0.5652

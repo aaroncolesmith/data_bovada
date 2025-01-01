@@ -5,7 +5,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-12-31 19:23:12.675547,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),0.05870000000000003,0.5238,0.4651
 2025-01-01 02:03:38.707336,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.05249999999999999,0.9756,0.9231
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.04909999999999999,0.1667,0.1176
+2025-01-01 06:39:03.129045,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.04139999999999999,0.4762,0.4348
+2025-01-01 06:39:03.119721,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.03920000000000001,0.3333,0.2941
+2025-01-01 06:39:03.287210,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.029000000000000026,0.4545,0.4255
 2025-01-01 03:04:56.296917,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Sam Goodman,0.027800000000000005,0.1111,0.0833
+2025-01-01 06:39:03.124412,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.02779999999999999,0.2778,0.25
 2024-12-31 19:23:12.668738,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.02429999999999999,0.7917,0.7674
 2024-12-31 19:23:12.675547,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.02169999999999994,0.5455,0.5238
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Andy Reid,0.019099999999999995,0.0435,0.0244
@@ -14,10 +18,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-01 02:03:38.475365,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),0.015300000000000001,0.0588,0.0435
 2024-12-31 19:23:12.668738,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),0.015300000000000001,0.0476,0.0323
 2024-12-31 19:23:12.679428,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse (LAR),0.014000000000000012,0.9231,0.9091
+2025-01-01 06:39:03.110428,Central Division - Central Division 2024-25 - Central Division Winner,Cleveland Cavaliers,0.0121,0.9877,0.9756
+2025-01-01 06:39:03.287210,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.010099999999999998,0.4444,0.4545
 2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Cameron Heyward (PIT),-0.0114,0.005,0.0164
 2024-12-31 19:23:12.675547,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Kerby Joseph (DET),-0.018099999999999998,0.0588,0.0769
 2025-01-01 03:04:56.296917,Boxing Lines - Naoya Inoue vs Sam Goodman - To Win the Bout,Naoya Inoue,-0.018100000000000005,0.9474,0.9655
 2024-12-31 19:23:12.672116,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.018100000000000005,0.9231,0.9412
+2025-01-01 06:39:03.124412,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.01820000000000002,0.1818,0.2
 2024-12-31 19:23:12.668738,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Saquon Barkley (PHI),-0.019000000000000003,0.0435,0.0625
+2025-01-01 06:39:03.287210,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Giannis Antetokounmpo (MIL),-0.023799999999999988,0.1429,0.1667
+2025-01-01 06:39:03.119721,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.03570000000000001,0.25,0.2857
+2025-01-01 06:39:03.119721,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.0534,0.1905,0.2439
+2025-01-01 06:39:03.124412,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.05679999999999996,0.6491,0.7059
+2025-01-01 06:39:03.129045,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.0595,0.4167,0.4762
 2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),-0.062,0.0556,0.1176
 2025-01-01 02:03:38.696760,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),-0.10939999999999994,0.7368,0.8462

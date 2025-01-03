@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-02 20:30:24.430354,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.017600000000000005,0.3509,0.3333
 2025-01-02 21:27:36.487246,Boxing Lines - Austin Aokuso vs Leti Leti - To Win the Bout,Austin Aokuso,0.016799999999999926,0.8571,0.8403
 2025-01-02 21:27:35.097506,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.015400000000000025,0.4,0.3846
+2025-01-03 04:33:43.233356,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Bayer Leverkusen,0.015400000000000025,0.4,0.3846
 2025-01-02 21:27:36.491277,Boxing Lines - Justis Huni vs Shaun Potgieter - To Win the Bout,Justis Huni,0.0131,0.9655,0.9524
 2025-01-02 16:35:59.787048,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.010599999999999998,0.4651,0.4545
 2025-01-02 16:36:00.777892,Match-Ups - 1st Round Match-Up - H. Hall v N. Taylor - Requests,Nick Taylor,-0.011099999999999999,0.4651,0.4762
@@ -24,11 +25,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Phillies,-0.016600000000000004,0.0667,0.0833
 2025-01-02 21:27:36.491277,Boxing Lines - Justis Huni vs Shaun Potgieter - To Win the Bout,Shaun Potgieter,-0.016700000000000007,0.0833,0.1
 2025-01-02 21:27:36.487246,Boxing Lines - Austin Aokuso vs Leti Leti - To Win the Bout,Leti Leti,-0.01680000000000001,0.2105,0.2273
-2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
+2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 20:30:24.439644,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.021699999999999997,0.4545,0.4762
 2025-01-02 16:36:00.558935,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
-2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.023800000000000043,0.5,0.5238
 2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
+2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.023800000000000043,0.5,0.5238
 2025-01-02 16:36:00.541939,Scores - 1st Round Score - Sahith Theegala - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Mets,-0.0596,0.0833,0.1429

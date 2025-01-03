@@ -8,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Giants,0.024999999999999994,0.125,0.1
 2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 68.5,0.023800000000000043,0.5238,0.5
 2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
-2025-01-02 15:29:41.098081,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Robert MacIntyre,0.023800000000000043,0.5238,0.5
 2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Robert MacIntyre,0.02169999999999994,0.5455,0.5238
 2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
 2025-01-02 20:30:24.439644,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.019699999999999995,0.4545,0.4348
@@ -19,19 +18,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-02 21:27:36.491277,Boxing Lines - Justis Huni vs Shaun Potgieter - To Win the Bout,Justis Huni,0.0131,0.9655,0.9524
 2025-01-02 16:35:59.787048,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Ohio State,0.010599999999999998,0.4651,0.4545
 2025-01-02 16:36:00.777892,Match-Ups - 1st Round Match-Up - H. Hall v N. Taylor - Requests,Nick Taylor,-0.011099999999999999,0.4651,0.4762
-2025-01-02 15:29:40.940836,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,-0.012899999999999995,0.1538,0.1667
 2025-01-02 21:27:36.495233,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,-0.012899999999999995,0.1538,0.1667
 2025-01-02 19:24:04.106780,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.0131,0.2222,0.2353
 2025-01-02 16:35:59.787048,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.01469999999999999,0.2353,0.25
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Phillies,-0.016600000000000004,0.0667,0.0833
 2025-01-02 21:27:36.491277,Boxing Lines - Justis Huni vs Shaun Potgieter - To Win the Bout,Shaun Potgieter,-0.016700000000000007,0.0833,0.1
 2025-01-02 21:27:36.487246,Boxing Lines - Austin Aokuso vs Leti Leti - To Win the Bout,Leti Leti,-0.01680000000000001,0.2105,0.2273
-2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
-2025-01-02 15:29:41.098081,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.02169999999999994,0.5238,0.5455
+2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 20:30:24.439644,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.021699999999999997,0.4545,0.4762
 2025-01-02 16:36:00.558935,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
-2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.023800000000000043,0.5,0.5238
+2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-01-02 16:36:00.541939,Scores - 1st Round Score - Sahith Theegala - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Mets,-0.0596,0.0833,0.1429

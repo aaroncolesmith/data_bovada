@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Dodgers,0.4018,0.6875,0.2857
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Padres,0.0577,0.25,0.1923
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Orioles,0.05639999999999999,0.0909,0.0345
-2025-01-02 14:31:28.839593,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,0.045499999999999985,0.5455,0.5
 2025-01-02 16:36:00.541939,Scores - 1st Round Score - Sahith Theegala - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Mariners,0.028799999999999992,0.1538,0.125
 2025-01-02 16:36:00.558935,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 67.5,0.026499999999999968,0.5917,0.5652
@@ -10,13 +9,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 68.5,0.023800000000000043,0.5238,0.5
 2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
 2025-01-02 15:29:41.098081,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Robert MacIntyre,0.023800000000000043,0.5238,0.5
-2025-01-02 14:31:28.765059,The Sentry - 2/3 Balls - 1st Round 3-Balls - R. Campos / V. Hovland / B. Hun An - 1st Round 3-Balls,Byeong Hun An,0.021699999999999997,0.4762,0.4545
 2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Robert MacIntyre,0.02169999999999994,0.5455,0.5238
-2025-01-02 14:31:28.823123,Round Match-Ups - 1st Round Match-Up - C. Young vs T. Pendrith - 1st Round Match-Up,Cameron Young,0.02169999999999994,0.5455,0.5238
 2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
 2025-01-02 20:30:24.439644,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.019699999999999995,0.4545,0.4348
 2025-01-02 16:36:00.777892,Match-Ups - 1st Round Match-Up - H. Hall v N. Taylor - Requests,Harry Hall,0.018100000000000005,0.5833,0.5652
-2025-01-02 14:31:28.692939,Boxing Lines - Ernesto Mercado vs Jose Pedraza - To Win the Bout,Jose Pedraza,0.0179,0.1429,0.125
 2025-01-02 20:30:24.430354,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.017600000000000005,0.3509,0.3333
 2025-01-02 21:27:36.487246,Boxing Lines - Austin Aokuso vs Leti Leti - To Win the Bout,Austin Aokuso,0.016799999999999926,0.8571,0.8403
 2025-01-02 21:27:35.097506,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.015400000000000025,0.4,0.3846
@@ -28,10 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-02 19:24:04.106780,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.0131,0.2222,0.2353
 2025-01-02 16:35:59.787048,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.01469999999999999,0.2353,0.25
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Phillies,-0.016600000000000004,0.0667,0.0833
-2025-01-02 14:31:28.692939,Boxing Lines - Ernesto Mercado vs Jose Pedraza - To Win the Bout,Ernesto Mercado,-0.01660000000000006,0.9167,0.9333
 2025-01-02 21:27:36.491277,Boxing Lines - Justis Huni vs Shaun Potgieter - To Win the Bout,Shaun Potgieter,-0.016700000000000007,0.0833,0.1
 2025-01-02 21:27:36.487246,Boxing Lines - Austin Aokuso vs Leti Leti - To Win the Bout,Leti Leti,-0.01680000000000001,0.2105,0.2273
-2025-01-02 14:31:28.765059,The Sentry - 2/3 Balls - 1st Round 3-Balls - R. Campos / V. Hovland / B. Hun An - 1st Round 3-Balls,Viktor Hovland,-0.018900000000000028,0.4255,0.4444
 2025-01-02 16:36:00.554689,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 16:36:00.511534,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-01-02 15:29:41.098081,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.02169999999999994,0.5238,0.5455
@@ -39,7 +33,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-02 16:36:00.558935,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
 2025-01-02 16:36:00.481555,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-01-02 17:29:53.644143,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Max Greyserman,-0.023800000000000043,0.5,0.5238
-2025-01-02 14:31:28.823123,Round Match-Ups - 1st Round Match-Up - C. Young vs T. Pendrith - 1st Round Match-Up,Taylor Pendrith,-0.023800000000000043,0.5,0.5238
 2025-01-02 16:36:00.541939,Scores - 1st Round Score - Sahith Theegala - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
-2025-01-02 14:31:28.839593,Round Match-Ups - 1st Round Match-Up - M. Greyserman vs R. MacIntyre - 1st Round Match-Up,Robert MacIntyre,-0.045499999999999985,0.5,0.5455
 2025-01-03 01:55:47.799494,MLB Specials - MLB Specials 2025 - Which MLB Team Will Sign Roki Sasaki?,Mets,-0.0596,0.0833,0.1429

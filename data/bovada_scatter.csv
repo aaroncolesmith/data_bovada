@@ -9,11 +9,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 04:32:54.398387,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,0.09099999999999997,0.5455,0.4545
 2025-01-05 06:36:11.129746,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,0.08900000000000002,0.5238,0.4348
 2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,0.08889999999999998,0.8889,0.8
-2025-01-05 06:36:11.117784,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.0867,0.5122,0.4255
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.0867,0.5122,0.4255
+2025-01-05 06:36:11.117784,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.0867,0.5122,0.4255
 2025-01-05 05:30:33.090605,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 66.5,0.08660000000000001,0.5744,0.4878
-2025-01-05 04:32:54.395250,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.0857,0.8,0.7143
 2025-01-05 09:27:45.008092,League One - England League One 2024/25 - Top Goalscorer,Richard Kone,0.0857,0.2857,0.2
+2025-01-05 04:32:54.395250,League One - England League One 2024/25 - To Be Relegated,Cambridge United,0.0857,0.8,0.7143
 2025-01-05 03:03:09.978099,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),0.08080000000000004,0.4444,0.3636
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.07940000000000003,0.5238,0.4444
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.07939999999999997,0.5556,0.4762
@@ -68,11 +68,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,0.036199999999999996,0.1538,0.1176
 2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.0353,0.2353,0.2
 2025-01-05 10:32:18.540319,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Under 66.5,0.03489999999999999,0.5,0.4651
-2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.03420000000000001,0.1111,0.0769
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.03420000000000001,0.9231,0.8889
+2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.03420000000000001,0.1111,0.0769
 2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,0.033300000000000024,0.2,0.1667
 2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Bromley,0.03330000000000001,0.1,0.0667
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,0.03279999999999994,0.9852,0.9524
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Memphis Grizzlies,0.0321,0.0909,0.0588
 2025-01-05 09:27:45.881095,To Make The Playoffs - Athletics To Make The Playoffs - 2025 Regular Season - Athletics To Make The Playoffs - 2025 Regular Season,Yes,0.031799999999999995,0.1429,0.1111
 2025-01-05 03:37:48.253527,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.031400000000000095,0.7647,0.7333
 2025-01-05 08:32:34.171320,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.030899999999999983,0.2941,0.2632
@@ -80,8 +81,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 03:03:09.896502,League Two - England League Two 2024/25 - Winner,Salford City,0.0294,0.0588,0.0294
 2025-01-05 04:32:54.395250,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.028900000000000037,0.5744,0.5455
 2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.028799999999999992,0.1538,0.125
-2025-01-05 03:03:09.896502,League Two - England League Two 2024/25 - Winner,Walsall,0.027800000000000047,0.7778,0.75
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.027800000000000047,0.7778,0.75
+2025-01-05 03:03:09.896502,League Two - England League Two 2024/25 - Winner,Walsall,0.027800000000000047,0.7778,0.75
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.02779999999999999,0.25,0.2222
 2025-01-05 06:36:11.121739,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,0.0273,0.0323,0.005
 2025-01-05 10:32:18.522745,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 66.5,0.026499999999999968,0.5917,0.5652
@@ -90,25 +91,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 04:32:54.983588,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.024500000000000077,0.9412,0.9167
 2025-01-05 06:36:11.125766,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Ball State,0.0244,0.0323,0.0079
 2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Louis,0.0238,0.0952,0.0714
+2025-01-05 06:36:11.977391,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 66.5,0.023799999999999988,0.5,0.4762
 2025-01-05 07:26:06.766712,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.023799999999999988,0.2941,0.2703
 2025-01-05 09:27:45.145691,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Alexander Isak (Newcastle),0.023799999999999988,0.1667,0.1429
-2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,0.023799999999999988,0.5,0.4762
-2025-01-05 06:36:11.977391,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 66.5,0.023799999999999988,0.5,0.4762
 2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.023799999999999988,0.1667,0.1429
+2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,0.023799999999999988,0.5,0.4762
 2025-01-05 10:32:16.890270,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.02260000000000001,0.4,0.3774
 2025-01-05 06:36:11.141825,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,0.022499999999999964,0.7368,0.7143
-2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.021999999999999964,0.3077,0.2857
 2025-01-05 10:32:16.890270,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.021999999999999964,0.3077,0.2857
+2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.021999999999999964,0.3077,0.2857
 2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.021699999999999997,0.4762,0.4545
-2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.02100000000000002,0.3846,0.3636
 2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.02100000000000002,0.3846,0.3636
-2025-01-05 02:03:10.044868,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.02049999999999999,0.1538,0.1333
+2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.02100000000000002,0.3846,0.3636
 2025-01-05 04:32:54.395250,League One - England League One 2024/25 - To Be Relegated,Peterborough United,0.02049999999999999,0.1538,0.1333
+2025-01-05 02:03:10.044868,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.02049999999999999,0.1538,0.1333
 2025-01-05 05:30:32.305561,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.020299999999999985,0.2703,0.25
 2025-01-05 09:27:45.145691,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),0.02020000000000001,0.1111,0.0909
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Phoenix Suns,0.02020000000000001,0.1111,0.0909
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.02020000000000001,0.1111,0.0909
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.020199999999999996,0.9091,0.8889
 2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.020100000000000007,0.25,0.2299
+2025-01-05 13:29:31.267899,Round Match-Ups - Final Round Match-Ups - T. Hoge v H. Hall - Final Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,0.019600000000000003,0.0345,0.0149
 2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.019199999999999995,0.9901,0.9709
 2025-01-05 06:36:11.137847,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Mississippi State,0.019099999999999995,0.0435,0.0244
@@ -119,11 +122,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.019000000000000017,0.2857,0.2667
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.018900000000000028,0.9804,0.9615
 2025-01-05 06:36:11.990148,Scores - Final Round Score - Justin Thomas - Final Round Score,Over 66.5,0.01880000000000004,0.5744,0.5556
-2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,0.018200000000000004,0.0476,0.0294
 2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.018200000000000004,0.0476,0.0294
+2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,0.018200000000000004,0.0476,0.0294
 2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,0.018099999999999998,0.0769,0.0588
-2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.017900000000000027,0.875,0.8571
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Sacramento Kings,0.018099999999999998,0.0769,0.0588
 2025-01-05 08:32:34.156891,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.017900000000000027,0.875,0.8571
+2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.017900000000000027,0.875,0.8571
 2025-01-05 03:37:48.250504,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.0179,0.1429,0.125
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.017600000000000005,0.3509,0.3333
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.01759999999999995,0.6667,0.6491
@@ -132,21 +136,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 06:36:11.985901,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 67.5,0.016100000000000003,0.6078,0.5917
 2025-01-05 04:32:54.980294,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.015599999999999947,0.7299,0.7143
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,0.015100000000000002,0.8333,0.8182
-2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.014900000000000024,0.3226,0.3077
 2025-01-05 04:32:54.980294,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.014900000000000024,0.3226,0.3077
+2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.014900000000000024,0.3226,0.3077
 2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Tyrese Maxey (PHI),0.014899999999999997,0.0625,0.0476
 2025-01-05 10:32:18.553584,Scores - Final Round Score - Sungjae Im - Final Round Score,Under 67.5,0.014800000000000035,0.6226,0.6078
 2025-01-05 10:32:18.531543,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 67.5,0.014800000000000035,0.6226,0.6078
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Tranmere Rovers,0.014499999999999999,0.0294,0.0149
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Stade Lavallois,0.014100000000000001,0.0526,0.0385
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,0.014000000000000012,0.9231,0.9091
-2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,0.013999999999999999,0.0909,0.0769
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,0.013999999999999999,0.0909,0.0769
+2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,0.013999999999999999,0.0909,0.0769
 2025-01-05 03:03:09.978099,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),0.013899999999999996,0.125,0.1111
 2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.013800000000000034,0.3774,0.3636
 2025-01-05 04:32:54.966200,Super Bowl LIX - Super Bowl 59 -  Winner,Kansas City Chiefs,0.0131,0.2353,0.2222
-2025-01-05 10:32:16.893322,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.012899999999999995,0.1667,0.1538
 2025-01-05 07:26:06.705931,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kentucky,0.012899999999999995,0.1667,0.1538
+2025-01-05 10:32:16.893322,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.012899999999999995,0.1667,0.1538
 2025-01-05 06:36:11.133725,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.012799999999999978,0.2128,0.2
 2025-01-05 03:03:09.984754,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.012700000000000045,0.6491,0.6364
 2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Rhode Island,0.0121,0.0556,0.0435
@@ -154,50 +158,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 03:03:09.800124,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,0.011199999999999995,0.0588,0.0476
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,0.011199999999999988,0.9524,0.9412
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,0.011099999999999999,0.1111,0.1
+2025-01-05 13:29:31.225845,Round Match-Ups - Final Round Match-Ups - X. Schauffele v J. Thomas - Final Round Match-Ups,Justin Thomas,0.011099999999999999,0.4762,0.4651
 2025-01-05 08:32:34.147386,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.01100000000000001,0.5348,0.5238
-2025-01-05 10:32:16.915299,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.010899999999999993,0.1538,0.1429
-2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.010899999999999993,0.1538,0.1429
 2025-01-05 07:26:06.766712,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.010899999999999993,0.1538,0.1429
+2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.010899999999999993,0.1538,0.1429
+2025-01-05 10:32:16.915299,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.010899999999999993,0.1538,0.1429
+2025-01-05 10:32:18.496885,Round Match-Ups - Final Round Match-Ups - W. Clark v A. Scott - Final Round Match-Ups,Wyndham Clark,0.010699999999999932,0.5455,0.5348
 2025-01-05 10:32:18.513636,Round Match-Ups - Final Round Match-Ups - S. Im v H. Matsuyama - Final Round Match-Ups,Sungjae Im,0.010699999999999932,0.5455,0.5348
 2025-01-05 08:32:34.733939,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Kansas City Royals Wins - 2025 Regular Season,Under 82.5,0.010699999999999932,0.5455,0.5348
-2025-01-05 10:32:18.496885,Round Match-Ups - Final Round Match-Ups - W. Clark v A. Scott - Final Round Match-Ups,Wyndham Clark,0.010699999999999932,0.5455,0.5348
 2025-01-05 03:03:09.978099,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),0.0102,0.0769,0.0667
-2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.010199999999999987,0.9333,0.9231
 2025-01-05 03:37:48.250504,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,0.010199999999999987,0.9333,0.9231
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Sunderland,0.010199999999999987,0.9333,0.9231
+2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.010199999999999987,0.9333,0.9231
 2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,0.010100000000000001,0.0345,0.0244
 2025-01-05 08:32:34.180794,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.010099999999999998,0.4545,0.4444
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,0.010099999999999998,0.4545,0.4444
 2025-01-05 10:32:18.553584,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,-0.010099999999999998,0.4444,0.4545
 2025-01-05 10:32:18.531543,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,-0.010099999999999998,0.4444,0.4545
 2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Cincinnati,-0.010100000000000001,0.0244,0.0345
+2025-01-05 06:36:11.105639,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Pittsburgh,-0.0102,0.0667,0.0769
+2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,-0.0102,0.0667,0.0769
 2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),-0.0102,0.0667,0.0769
 2025-01-05 06:36:11.117784,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,-0.0102,0.0667,0.0769
-2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,-0.0102,0.0667,0.0769
-2025-01-05 06:36:11.105639,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Pittsburgh,-0.0102,0.0667,0.0769
-2025-01-05 06:36:11.125766,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Bowling Green,-0.010600000000000002,0.0217,0.0323
 2025-01-05 06:36:11.145858,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),San Francisco,-0.010600000000000002,0.0217,0.0323
-2025-01-05 08:32:34.166600,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.010700000000000001,0.0278,0.0385
+2025-01-05 06:36:11.125766,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Bowling Green,-0.010600000000000002,0.0217,0.0323
 2025-01-05 04:32:54.966200,Super Bowl LIX - Super Bowl 59 -  Winner,Los Angeles Rams,-0.010700000000000001,0.0278,0.0385
+2025-01-05 08:32:34.166600,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.010700000000000001,0.0278,0.0385
 2025-01-05 04:32:54.966200,Super Bowl LIX - Super Bowl 59 -  Winner,Buffalo Bills,-0.010899999999999993,0.1429,0.1538
 2025-01-05 02:03:10.533424,Boxing Lines - Ernesto Mercado vs Jose Pedraza - To Win the Bout,Jose Pedraza,-0.010899999999999993,0.1429,0.1538
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.010899999999999993,0.1429,0.1538
 2025-01-05 08:32:34.733939,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Kansas City Royals Wins - 2025 Regular Season,Over 82.5,-0.01100000000000001,0.5238,0.5348
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.011099999999999999,0.1,0.1111
-2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Manchester City,-0.011199999999999995,0.0476,0.0588
-2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.011199999999999995,0.0323,0.0435
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,-0.011199999999999995,0.0476,0.0588
-2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,-0.011199999999999995,0.0476,0.0588
+2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Manchester City,-0.011199999999999995,0.0476,0.0588
 2025-01-05 04:32:54.983588,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,-0.011199999999999995,0.0323,0.0435
+2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.011199999999999995,0.0323,0.0435
+2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,-0.011199999999999995,0.0476,0.0588
 2025-01-05 06:36:11.129746,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Southern Illinois,-0.0113,0.0066,0.0179
 2025-01-05 10:32:18.544766,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 67.5,-0.012199999999999989,0.4878,0.5
-2025-01-05 10:32:18.513636,Round Match-Ups - Final Round Match-Ups - S. Im v H. Matsuyama - Final Round Match-Ups,Hideki Matsuyama,-0.012199999999999989,0.5,0.5122
 2025-01-05 10:32:18.496885,Round Match-Ups - Final Round Match-Ups - W. Clark v A. Scott - Final Round Match-Ups,Adam Scott,-0.012199999999999989,0.5,0.5122
+2025-01-05 10:32:18.513636,Round Match-Ups - Final Round Match-Ups - S. Im v H. Matsuyama - Final Round Match-Ups,Hideki Matsuyama,-0.012199999999999989,0.5,0.5122
 2025-01-05 06:36:11.141825,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Charlotte,-0.012400000000000001,0.004,0.0164
-2025-01-05 06:36:11.141825,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.012899999999999995,0.1538,0.1667
-2025-01-05 02:03:10.513575,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,-0.012899999999999995,0.1538,0.1667
 2025-01-05 03:37:48.250504,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.012899999999999995,0.1538,0.1667
+2025-01-05 02:03:10.513575,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,-0.012899999999999995,0.1538,0.1667
 2025-01-05 06:36:11.129746,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Northern Iowa,-0.012899999999999995,0.1538,0.1667
+2025-01-05 06:36:11.141825,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.012899999999999995,0.1538,0.1667
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Peterborough United,-0.013,0.0066,0.0196
 2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,-0.0131,0.0345,0.0476
 2025-01-05 06:36:11.117784,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,-0.01319999999999999,0.25,0.2632
@@ -208,11 +213,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),BYU,-0.013900000000000003,0.0278,0.0417
 2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.013999999999999999,0.0769,0.0909
 2025-01-05 04:32:54.398387,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,-0.013999999999999999,0.0769,0.0909
-2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.014099999999999994,0.0526,0.0667
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,-0.014099999999999994,0.0526,0.0667
+2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.014099999999999994,0.0526,0.0667
+2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.014099999999999998,0.0244,0.0385
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Alexander Lacazette (Lyon),-0.014099999999999998,0.0244,0.0385
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,-0.014099999999999998,0.0244,0.0385
-2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Exeter City,-0.014099999999999998,0.0244,0.0385
 2025-01-05 03:03:09.864458,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.014100000000000001,0.9474,0.9615
 2025-01-05 05:30:32.295203,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,-0.01419999999999999,0.3704,0.3846
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Wycombe,-0.01429999999999998,0.9709,0.9852
@@ -221,33 +226,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Barrow FC,-0.0145,0.0099,0.0244
 2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.01469999999999999,0.2353,0.25
 2025-01-05 03:03:09.896502,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.014900000000000004,0.0196,0.0345
-2025-01-05 08:32:34.171320,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.015100000000000002,0.1667,0.1818
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.015100000000000002,0.1667,0.1818
+2025-01-05 08:32:34.171320,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.015100000000000002,0.1667,0.1818
 2025-01-05 03:03:09.864458,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.015700000000000006,0.1176,0.1333
 2025-01-05 06:36:11.101586,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.015899999999999997,0.0952,0.1111
 2025-01-05 06:36:11.137847,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Arkansas,-0.0165,0.0079,0.0244
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.016700000000000007,0.0833,0.1
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Clermont Foot,-0.017099999999999997,0.0123,0.0294
-2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.01759999999999995,0.6491,0.6667
 2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,-0.01759999999999995,0.6491,0.6667
-2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.0179,0.125,0.1429
+2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.01759999999999995,0.6491,0.6667
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.0179,0.125,0.1429
+2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.0179,0.125,0.1429
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.017900000000000027,0.8571,0.875
 2025-01-05 03:37:48.253527,Championship - England Championship 2024/25 - To Finish Bottom,Oxford United,-0.018099999999999998,0.0588,0.0769
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,-0.018099999999999998,0.0588,0.0769
+2025-01-05 13:29:31.225845,Round Match-Ups - Final Round Match-Ups - X. Schauffele v J. Thomas - Final Round Match-Ups,Xander Schauffele,-0.018100000000000005,0.5652,0.5833
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.018200000000000004,0.0294,0.0476
-2025-01-05 05:30:32.305561,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.01820000000000002,0.1818,0.2
-2025-01-05 09:27:45.135242,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.01820000000000002,0.1818,0.2
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,-0.01820000000000002,0.1818,0.2
+2025-01-05 05:30:32.305561,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.01820000000000002,0.1818,0.2
 2025-01-05 08:32:34.156891,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.01820000000000002,0.1818,0.2
-2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,-0.0189,0.0196,0.0385
+2025-01-05 09:27:45.135242,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.01820000000000002,0.1818,0.2
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Goncalo Ramos (PSG),-0.0189,0.0196,0.0385
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Fiorentina,-0.0189,0.0196,0.0385
+2025-01-05 05:30:31.880587,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,-0.0189,0.0196,0.0385
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.018900000000000028,0.4255,0.4444
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,-0.019099999999999992,0.0476,0.0667
 2025-01-05 06:36:11.109759,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,-0.019800000000000005,0.0278,0.0476
-2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.02020000000000001,0.0909,0.1111
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.02020000000000001,0.0909,0.1111
+2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.02020000000000001,0.0909,0.1111
 2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.0203,0.0385,0.0588
 2025-01-05 06:36:11.985901,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,-0.021699999999999997,0.4545,0.4762
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.021999999999999964,0.2857,0.3077
@@ -259,18 +265,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.023200000000000002,0.0244,0.0476
 2025-01-05 03:37:48.256510,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,-0.023200000000000002,0.0294,0.0526
 2025-01-05 10:32:18.522745,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 66.5,-0.023799999999999988,0.4762,0.5
+2025-01-05 13:29:31.267899,Round Match-Ups - Final Round Match-Ups - T. Hoge v H. Hall - Final Round Match-Ups,Tom Hoge,-0.023799999999999988,0.4762,0.5
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,-0.0242,0.0667,0.0909
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.0242,0.0667,0.0909
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,New Orleans Pelicans,-0.024299999999999995,0.0345,0.0588
 2025-01-05 05:30:31.871201,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,-0.024299999999999995,0.0345,0.0588
 2025-01-05 06:36:11.990148,Scores - Final Round Score - Justin Thomas - Final Round Score,Under 66.5,-0.024399999999999977,0.4878,0.5122
 2025-01-05 10:32:16.890270,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,-0.024999999999999994,0.1,0.125
 2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.024999999999999994,0.1,0.125
-2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.02560000000000001,0.3077,0.3333
 2025-01-05 03:37:48.250504,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.02560000000000001,0.3077,0.3333
+2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.02560000000000001,0.3077,0.3333
 2025-01-05 03:03:09.981584,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,-0.025600000000000067,0.6667,0.6923
 2025-01-05 06:36:11.113781,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Baylor,-0.025900000000000006,0.0455,0.0714
 2025-01-05 06:36:11.977391,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 66.5,-0.026499999999999968,0.5652,0.5917
 2025-01-05 06:36:11.121739,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Kennesaw State,-0.0269,0.0116,0.0385
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Golden State Warriors,-0.02779999999999999,0.2222,0.25
 2025-01-05 06:36:11.141825,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Wichita State,-0.028399999999999995,0.0625,0.0909
 2025-01-05 04:32:54.983588,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,-0.028799999999999992,0.125,0.1538
 2025-01-05 03:03:09.978099,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),-0.028900000000000037,0.5455,0.5744
@@ -280,6 +289,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 06:36:11.125766,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Central Michigan,-0.030699999999999998,0.0526,0.0833
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,-0.0321,0.0588,0.0909
 2025-01-05 03:03:09.864458,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.0321,0.0588,0.0909
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Los Angeles Clippers,-0.03330000000000001,0.0667,0.1
 2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.033300000000000024,0.1667,0.2
 2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.033399999999999985,0.1333,0.1667
 2025-01-05 03:37:48.250504,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.03370000000000001,0.3509,0.3846
@@ -289,25 +299,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 04:32:54.401512,League One - England League One 2024/25 - Top 2 Finish,Stockport County,-0.0344,0.0244,0.0588
 2025-01-05 10:32:18.540319,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 66.5,-0.03479999999999994,0.5652,0.6
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.03570000000000001,0.25,0.2857
-2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.03640000000000004,0.3636,0.4
 2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.03640000000000004,0.3636,0.4
+2025-01-05 03:37:48.259563,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.03640000000000004,0.3636,0.4
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),-0.03640000000000004,0.3636,0.4
 2025-01-05 03:03:09.896502,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.038299999999999994,0.0526,0.0909
-2025-01-05 09:27:45.155558,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.03889999999999999,0.1429,0.1818
 2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.03889999999999999,0.1429,0.1818
-2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.04040000000000002,0.1818,0.2222
-2025-01-05 03:03:09.984754,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.04040000000000002,0.1818,0.2222
+2025-01-05 09:27:45.155558,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.03889999999999999,0.1429,0.1818
 2025-01-05 03:37:48.256510,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.04040000000000002,0.1818,0.2222
+2025-01-05 03:03:09.984754,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.04040000000000002,0.1818,0.2222
+2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.04040000000000002,0.1818,0.2222
 2025-01-05 06:36:11.117784,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.04099999999999998,0.3226,0.3636
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.04169999999999999,0.125,0.1667
 2025-01-05 10:32:16.893322,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.0417,0.0833,0.125
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.04270000000000007,0.8462,0.8889
 2025-01-05 02:03:10.048755,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell (PHI),-0.042899999999999994,0.1,0.1429
-2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.042899999999999994,0.1,0.1429
 2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Ipswich Town,-0.042899999999999994,0.1,0.1429
+2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.042899999999999994,0.1,0.1429
 2025-01-05 04:32:54.401512,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.044399999999999995,0.5556,0.6
 2025-01-05 10:32:18.527160,Scores - Final Round Score - Harry Hall - Final Round Score,Over 67.5,-0.044399999999999995,0.5556,0.6
 2025-01-05 04:32:54.404618,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.044499999999999984,0.2222,0.2667
+2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Orlando Magic,-0.0448,0.0385,0.0833
 2025-01-05 06:36:11.105639,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),North Carolina,-0.045399999999999996,0.0455,0.0909
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.047599999999999976,0.2857,0.3333
 2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.04760000000000009,0.6667,0.7143
@@ -318,9 +329,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.05349999999999999,0.7647,0.8182
 2025-01-05 05:30:31.874315,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.05379999999999999,0.1,0.1538
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,-0.05559999999999998,0.1111,0.1667
+2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,De'Aaron Fox (SAC),-0.05559999999999998,0.1111,0.1667
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,-0.05559999999999998,0.4444,0.5
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.05559999999999998,0.5,0.5556
-2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,De'Aaron Fox (SAC),-0.05559999999999998,0.1111,0.1667
 2025-01-05 04:32:54.398387,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,-0.05639999999999999,0.0345,0.0909
 2025-01-05 05:30:31.883744,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,-0.056400000000000006,0.0769,0.1333
 2025-01-05 04:32:54.398387,League One - England League One 2024/25 - To Finish Bottom,Bristol Rovers,-0.05650000000000001,0.0435,0.1
@@ -328,8 +339,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 03:03:09.864458,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.0635,0.2222,0.2857
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.06659999999999999,0.2667,0.3333
 2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.06669999999999998,0.2,0.2667
-2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.06669999999999998,0.2,0.2667
 2025-01-05 03:37:48.289827,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.06669999999999998,0.1,0.1667
+2025-01-05 05:30:31.877453,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.06669999999999998,0.2,0.2667
 2025-01-05 10:32:16.890270,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,-0.06670000000000004,0.3333,0.4
 2025-01-05 02:03:10.048755,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske (LAR),-0.0713,0.0196,0.0909
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,-0.07469999999999999,0.5744,0.6491

@@ -1,11 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.16460000000000002,0.4545,0.2899
 2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,0.08889999999999998,0.8889,0.8
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.0867,0.5122,0.4255
 2025-01-05 09:27:45.008092,League One - England League One 2024/25 - Top Goalscorer,Richard Kone,0.0857,0.2857,0.2
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.07940000000000003,0.5238,0.4444
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,0.07450000000000001,0.5,0.4255
-2025-01-05 08:32:34.176057,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.0635,0.7778,0.7143
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,0.057699999999999974,0.3077,0.25
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.05550000000000002,0.2222,0.1667
 2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.0524,0.9524,0.9
@@ -15,14 +13,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,0.048100000000000004,0.2299,0.1818
 2025-01-05 10:32:18.527160,Scores - Final Round Score - Harry Hall - Final Round Score,Under 67.5,0.047099999999999975,0.5122,0.4651
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,0.044500000000000095,0.7778,0.7333
-2025-01-05 08:32:34.152184,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.044399999999999995,0.4444,0.4
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.04039999999999999,0.8182,0.7778
 2025-01-05 10:32:18.540319,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Under 66.5,0.03489999999999999,0.5,0.4651
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.03420000000000001,0.9231,0.8889
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.03420000000000001,0.1111,0.0769
 2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Memphis Grizzlies,0.0321,0.0909,0.0588
 2025-01-05 09:27:45.881095,To Make The Playoffs - Athletics To Make The Playoffs - 2025 Regular Season - Athletics To Make The Playoffs - 2025 Regular Season,Yes,0.031799999999999995,0.1429,0.1111
-2025-01-05 08:32:34.171320,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,0.030899999999999983,0.2941,0.2632
 2025-01-05 10:32:18.522745,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 66.5,0.026499999999999968,0.5917,0.5652
 2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.025499999999999967,0.4255,0.4
 2025-01-05 10:32:16.893322,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.025499999999999967,0.4255,0.4
@@ -34,9 +30,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 15:28:09.691637,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - Combined Player Stats Specials Early Games,"Mike Evans, Malik Nabers, D.J. Moore, Drake London and Brian Thomas Jr. to Combine for 450+ Receiving Yards",0.021999999999999964,0.3077,0.2857
 2025-01-05 15:28:09.691637,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - Combined Player Stats Specials Early Games,"Mike Evans, Malik Nabers, D.J. Moore, Drake London and Brian Thomas Jr. to Combine for 400+ Receiving Yards",0.021699999999999997,0.4762,0.4545
 2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.02100000000000002,0.3846,0.3636
-2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.02020000000000001,0.1111,0.0909
-2025-01-05 15:28:09.698805,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - RedZone Games & SNF,"K.Murray 1+ Anytime Touchdown & 50+ Rushing Yards, C.Sutton 82+ Receiving Yards, M.Evans 85+ Receiving Yards",0.02020000000000001,0.1111,0.0909
 2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Phoenix Suns,0.02020000000000001,0.1111,0.0909
+2025-01-05 15:28:09.698805,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - RedZone Games & SNF,"K.Murray 1+ Anytime Touchdown & 50+ Rushing Yards, C.Sutton 82+ Receiving Yards, M.Evans 85+ Receiving Yards",0.02020000000000001,0.1111,0.0909
+2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.02020000000000001,0.1111,0.0909
 2025-01-05 09:27:45.145691,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),0.02020000000000001,0.1111,0.0909
 2025-01-05 13:29:31.267899,Round Match-Ups - Final Round Match-Ups - T. Hoge v H. Hall - Final Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
 2025-01-05 09:27:45.032333,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,0.019099999999999995,0.0435,0.0244
@@ -44,12 +40,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 14:29:29.026427,Round Match-Ups - Final Round Match-Ups - T. Hoge v H. Hall - Final Round Match-Ups,Harry Hall,0.018100000000000005,0.5833,0.5652
 2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Sacramento Kings,0.018099999999999998,0.0769,0.0588
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.017900000000000027,0.875,0.8571
-2025-01-05 08:32:34.156891,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,0.017900000000000027,0.875,0.8571
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.017600000000000005,0.3509,0.3333
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.016699999999999993,0.2667,0.25
-2025-01-05 15:28:09.691637,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - Combined Player Stats Specials Early Games,"Mike Evans, Malik Nabers, D.J. Moore, Drake London and Brian Thomas Jr. to Combine for 500+ Receiving Yards",0.015100000000000002,0.1818,0.1667
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,0.015100000000000002,0.8333,0.8182
-2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Tyrese Maxey (PHI),0.014899999999999997,0.0625,0.0476
+2025-01-05 15:28:09.691637,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - Combined Player Stats Specials Early Games,"Mike Evans, Malik Nabers, D.J. Moore, Drake London and Brian Thomas Jr. to Combine for 500+ Receiving Yards",0.015100000000000002,0.1818,0.1667
 2025-01-05 10:32:18.553584,Scores - Final Round Score - Sungjae Im - Final Round Score,Under 67.5,0.014800000000000035,0.6226,0.6078
 2025-01-05 10:32:18.531543,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 67.5,0.014800000000000035,0.6226,0.6078
 2025-01-05 15:28:09.691637,NFL Weekly Specials - NFL Week 18 - RedZone Specials - Sunday January 5th - Combined Player Stats Specials Early Games,"Mike Evans, Malik Nabers, D.J. Moore, Drake London and Brian Thomas Jr. to Combine for 550+ Receiving Yards",0.01440000000000001,0.1053,0.0909
@@ -63,44 +57,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,0.011199999999999988,0.9524,0.9412
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,0.011099999999999999,0.1111,0.1
 2025-01-05 13:29:31.225845,Round Match-Ups - Final Round Match-Ups - X. Schauffele v J. Thomas - Final Round Match-Ups,Justin Thomas,0.011099999999999999,0.4762,0.4651
-2025-01-05 08:32:34.147386,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.01100000000000001,0.5348,0.5238
 2025-01-05 10:32:16.915299,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.010899999999999993,0.1538,0.1429
 2025-01-05 10:32:18.496885,Round Match-Ups - Final Round Match-Ups - W. Clark v A. Scott - Final Round Match-Ups,Wyndham Clark,0.010699999999999932,0.5455,0.5348
 2025-01-05 10:32:18.513636,Round Match-Ups - Final Round Match-Ups - S. Im v H. Matsuyama - Final Round Match-Ups,Sungjae Im,0.010699999999999932,0.5455,0.5348
-2025-01-05 08:32:34.733939,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Kansas City Royals Wins - 2025 Regular Season,Under 82.5,0.010699999999999932,0.5455,0.5348
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,0.010099999999999998,0.4545,0.4444
-2025-01-05 08:32:34.180794,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.010099999999999998,0.4545,0.4444
-2025-01-05 10:32:18.553584,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,-0.010099999999999998,0.4444,0.4545
 2025-01-05 14:29:28.967321,Round Match-Ups - Final Round Match-Ups - A. Rai v C. Bezuidenhout - Final Round Match-Ups,Aaron Rai,-0.010099999999999998,0.5455,0.5556
 2025-01-05 10:32:18.531543,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,-0.010099999999999998,0.4444,0.4545
-2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),-0.0102,0.0667,0.0769
+2025-01-05 10:32:18.553584,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,-0.010099999999999998,0.4444,0.4545
 2025-01-05 10:32:16.904125,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,-0.0102,0.0667,0.0769
 2025-01-05 15:28:09.666642,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,-0.010499999999999982,0.2,0.2105
-2025-01-05 08:32:34.166600,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Denver Nuggets,-0.010700000000000001,0.0278,0.0385
 2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.010899999999999993,0.1429,0.1538
-2025-01-05 08:32:34.733939,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Kansas City Royals Wins - 2025 Regular Season,Over 82.5,-0.01100000000000001,0.5238,0.5348
-2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.011099999999999999,0.1,0.1111
 2025-01-05 14:29:29.026427,Round Match-Ups - Final Round Match-Ups - T. Hoge v H. Hall - Final Round Match-Ups,Tom Hoge,-0.011099999999999999,0.4651,0.4762
-2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Manchester City,-0.011199999999999995,0.0476,0.0588
+2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.011099999999999999,0.1,0.1111
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,-0.011199999999999995,0.0476,0.0588
-2025-01-05 10:32:18.544766,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 67.5,-0.012199999999999989,0.4878,0.5
+2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Manchester City,-0.011199999999999995,0.0476,0.0588
 2025-01-05 10:32:18.496885,Round Match-Ups - Final Round Match-Ups - W. Clark v A. Scott - Final Round Match-Ups,Adam Scott,-0.012199999999999989,0.5,0.5122
+2025-01-05 10:32:18.544766,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 67.5,-0.012199999999999989,0.4878,0.5
 2025-01-05 10:32:18.513636,Round Match-Ups - Final Round Match-Ups - S. Im v H. Matsuyama - Final Round Match-Ups,Hideki Matsuyama,-0.012199999999999989,0.5,0.5122
 2025-01-05 15:28:09.666642,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,-0.0131,0.2222,0.2353
-2025-01-05 08:32:34.161763,Central Division - Central Division 2024-25 - Central Division Winner,Milwaukee Bucks,-0.013699999999999999,0.0141,0.0278
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,-0.013799999999999923,0.6226,0.6364
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,-0.014099999999999994,0.0526,0.0667
-2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Alexander Lacazette (Lyon),-0.014099999999999998,0.0244,0.0385
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,-0.014099999999999998,0.0244,0.0385
+2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Alexander Lacazette (Lyon),-0.014099999999999998,0.0244,0.0385
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Georges Mikautadze (Lyon),-0.014499999999999999,0.0149,0.0294
-2025-01-05 08:32:34.171320,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.015100000000000002,0.1667,0.1818
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.015100000000000002,0.1667,0.1818
 2025-01-05 10:32:17.109621,Ligue 2 - France Ligue 2 2024/25 - Outright,Clermont Foot,-0.017099999999999997,0.0123,0.0294
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.0179,0.125,0.1429
 2025-01-05 13:29:31.225845,Round Match-Ups - Final Round Match-Ups - X. Schauffele v J. Thomas - Final Round Match-Ups,Xander Schauffele,-0.018100000000000005,0.5652,0.5833
-2025-01-05 08:32:34.156891,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.01820000000000002,0.1818,0.2
-2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,-0.01820000000000002,0.1818,0.2
 2025-01-05 09:27:45.135242,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.01820000000000002,0.1818,0.2
+2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,-0.01820000000000002,0.1818,0.2
 2025-01-05 10:32:16.883857,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Fiorentina,-0.0189,0.0196,0.0385
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Goncalo Ramos (PSG),-0.0189,0.0196,0.0385
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,-0.019099999999999992,0.0476,0.0667
@@ -126,19 +111,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.04169999999999999,0.125,0.1667
 2025-01-05 10:32:16.893322,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.0417,0.0833,0.125
 2025-01-05 09:27:45.168357,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.04270000000000007,0.8462,0.8889
-2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.042899999999999994,0.1,0.1429
 2025-01-05 09:27:45.152404,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Ipswich Town,-0.042899999999999994,0.1,0.1429
+2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.042899999999999994,0.1,0.1429
 2025-01-05 10:32:18.527160,Scores - Final Round Score - Harry Hall - Final Round Score,Over 67.5,-0.044399999999999995,0.5556,0.6
 2025-01-05 13:29:30.370626,NBA Specials - Jimmy Butler Next Team - Trade/Free Agency destinations,Orlando Magic,-0.0448,0.0385,0.0833
 2025-01-05 10:32:16.907224,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.047599999999999976,0.2857,0.3333
 2025-01-05 09:27:45.145691,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),-0.050000000000000044,0.75,0.8
-2025-01-05 08:32:34.316902,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.05299999999999999,0.25,0.303
-2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.05559999999999998,0.5,0.5556
 2025-01-05 09:27:44.960941,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,-0.05559999999999998,0.4444,0.5
-2025-01-05 08:32:34.306186,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,De'Aaron Fox (SAC),-0.05559999999999998,0.1111,0.1667
+2025-01-05 09:27:45.162031,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.05559999999999998,0.5,0.5556
 2025-01-05 09:27:45.132041,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.06659999999999999,0.2667,0.3333
 2025-01-05 10:32:16.896352,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.06669999999999998,0.2,0.2667
 2025-01-05 10:32:16.890270,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,-0.06670000000000004,0.3333,0.4
 2025-01-05 09:27:45.165207,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,-0.07469999999999999,0.5744,0.6491
-2025-01-05 08:32:34.176057,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.08330000000000001,0.1667,0.25
 2025-01-05 09:27:45.008092,League One - England League One 2024/25 - Top Goalscorer,Jay Stansfield,-0.14890000000000003,0.4255,0.5744

@@ -23,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-06 05:32:30.482935,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Amen Thompson (HOU),0.029299999999999993,0.0769,0.0476
 2025-01-06 03:03:17.874666,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.028900000000000037,0.5744,0.5455
 2025-01-06 03:03:17.891218,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,0.028799999999999992,0.1538,0.125
-2025-01-06 03:03:17.878104,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Matz Sels,0.027999999999999997,0.1818,0.1538
 2025-01-06 04:34:23.468304,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,0.027999999999999997,0.1818,0.1538
+2025-01-06 03:03:17.878104,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Matz Sels,0.027999999999999997,0.1818,0.1538
 2025-01-06 02:00:54.654318,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.027999999999999997,0.1818,0.1538
 2025-01-06 03:03:17.881501,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Mohamed Salah (Liverpool),0.027800000000000047,0.7778,0.75
 2025-01-06 04:34:23.053272,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.025600000000000067,0.6923,0.6667
@@ -81,6 +81,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-06 04:34:23.381403,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,-0.012600000000000056,0.9286,0.9412
 2025-01-06 04:34:23.043681,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,-0.012700000000000045,0.6364,0.6491
 2025-01-06 04:34:23.050105,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.013800000000000034,0.3636,0.3774
+2025-01-06 05:32:30.503955,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.013899999999999996,0.1111,0.125
 2025-01-06 03:03:17.874666,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.013899999999999996,0.1111,0.125
 2025-01-06 03:03:17.888110,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,-0.013900000000000023,0.875,0.8889
 2025-01-06 05:32:30.486605,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),-0.014099999999999994,0.0526,0.0667

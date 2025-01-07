@@ -13,15 +13,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 01:56:59.373264,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,0.025300000000000003,0.1429,0.1176
 2025-01-07 03:00:15.608739,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.019000000000000017,0.2857,0.2667
 2025-01-07 03:00:15.611857,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.01759999999999995,0.6667,0.6491
-2025-01-06 18:37:32.420401,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.015899999999999997,0.2381,0.2222
-2025-01-06 18:37:32.420401,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.015899999999999997,0.2381,0.2222
 2025-01-06 20:29:34.054380,"Daily Specials - NBA Daily Specials - Requested Specials, Monday, 6th Jan","Bradley Beal 5+ Assists, Keon Johnson 7+ Rebounds",0.012700000000000003,0.0323,0.0196
-2025-01-06 18:37:32.420401,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.011099999999999999,0.1,0.1111
-2025-01-06 18:37:32.423563,NBL - Australia NBL 2024/25 - Regular Season League Winner,Tasmania JackJumpers,-0.011199999999999995,0.0476,0.0588
 2025-01-06 20:29:34.293682,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,-0.011700000000000016,0.2105,0.2222
 2025-01-06 20:29:34.293682,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Penn State,-0.012899999999999995,0.1538,0.1667
-2025-01-06 22:32:19.422221,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.0131,0.7647,0.7778
 2025-01-07 04:32:57.796627,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.0131,0.2222,0.2353
+2025-01-06 22:32:19.422221,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.0131,0.7647,0.7778
 2025-01-07 03:00:15.611857,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.013800000000000034,0.3636,0.3774
 2025-01-06 21:28:07.212752,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Andrew Van Ginkel,-0.015300000000000001,0.0323,0.0476
 2025-01-06 22:32:19.417341,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.017299999999999982,0.2857,0.303
@@ -36,7 +32,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 03:00:15.611857,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,-0.0635,0.7143,0.7778
 2025-01-06 21:28:07.212752,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),-0.06649999999999999,0.0244,0.0909
 2025-01-06 20:29:34.298443,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),-0.07189999999999999,0.005,0.0769
-2025-01-06 18:37:32.423563,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,-0.08330000000000004,0.6667,0.75
 2025-01-06 20:29:34.298443,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),-0.10039999999999999,0.2222,0.3226
-2025-01-06 18:37:32.423563,NBL - Australia NBL 2024/25 - Regular Season League Winner,Melbourne United,-0.12259999999999999,0.2,0.3226
 2025-01-06 21:28:07.212752,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),-0.14479999999999998,0.2,0.3448

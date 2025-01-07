@@ -43,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 08:34:49.919192,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,0.0189,0.0385,0.0196
 2025-01-07 12:53:19.271914,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,0.01849999999999996,0.9709,0.9524
 2025-01-07 12:53:19.275058,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,0.0179,0.1429,0.125
-2025-01-07 12:53:19.271914,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.0179,0.1429,0.125
 2025-01-07 08:34:49.905968,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,0.0179,0.1429,0.125
+2025-01-07 12:53:19.271914,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.0179,0.1429,0.125
 2025-01-07 03:00:15.611857,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.01759999999999995,0.6667,0.6491
 2025-01-07 08:34:49.962145,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.017300000000000093,0.7143,0.697
 2025-01-07 08:34:49.905968,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.015400000000000025,0.4,0.3846
@@ -56,6 +56,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 12:53:19.070078,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,0.014099999999999998,0.0385,0.0244
 2025-01-07 09:31:01.089527,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.01319999999999999,0.2632,0.25
 2025-01-07 12:53:20.425018,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,0.012899999999999995,0.1667,0.1538
+2025-01-07 13:34:13.275506,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,0.012899999999999995,0.1667,0.1538
 2025-01-07 08:34:49.905968,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,0.012899999999999995,0.1667,0.1538
 2025-01-07 09:31:02.119265,The Bahamas Golf Classic - The Bahamas Golf Classic - Winner,Christo Lamprecht,0.012700000000000003,0.0323,0.0196
 2025-01-07 08:34:49.901391,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Illinois,0.012700000000000003,0.0323,0.0196
@@ -65,8 +66,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 09:31:01.282118,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),0.010600000000000002,0.0323,0.0217
 2025-01-07 08:34:49.901391,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.0102,0.0769,0.0667
 2025-01-07 09:31:01.275099,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.0102,0.0769,0.0667
-2025-01-07 12:53:19.268729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.011099999999999999,0.1,0.1111
 2025-01-07 11:26:20.508078,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Tottenham Hotspur,-0.011099999999999999,0.1,0.1111
+2025-01-07 12:53:19.268729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,-0.011099999999999999,0.1,0.1111
 2025-01-07 09:31:01.089527,NBA Championship - NBA Championship 2024-25 - NBA Champion,Milwaukee Bucks,-0.0121,0.0435,0.0556
 2025-01-07 11:26:21.691316,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,-0.012899999999999995,0.1538,0.1667
 2025-01-07 04:32:57.796627,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.0131,0.2222,0.2353
@@ -75,8 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 12:53:19.275058,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,-0.014000000000000012,0.9091,0.9231
 2025-01-07 12:53:20.416989,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,Jai Opetaia,-0.014000000000000012,0.9091,0.9231
 2025-01-07 12:53:19.271914,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,-0.014000000000000012,0.9091,0.9231
-2025-01-07 09:31:01.292584,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),-0.014099999999999998,0.0244,0.0385
 2025-01-07 12:53:19.242555,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Fulham,-0.014099999999999998,0.0244,0.0385
+2025-01-07 09:31:01.292584,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),-0.014099999999999998,0.0244,0.0385
 2025-01-07 09:31:02.037635,Sony Open - Sony Open - Winner,Byeong Hun An,-0.014100000000000001,0.0385,0.0526
 2025-01-07 08:34:49.931713,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.01440000000000001,0.0909,0.1053
 2025-01-07 09:31:01.136267,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.014700000000000046,0.75,0.7647
@@ -97,8 +98,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 01:56:59.373264,A-League - Australia A-League 2024/25 - Grand Final Winner,Macarthur FC,-0.019099999999999992,0.0476,0.0667
 2025-01-07 12:53:19.278192,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,West Ham United,-0.019399999999999973,0.9756,0.995
 2025-01-07 12:53:20.516894,Main Markets - 1st Round Leader - Winner,Justin Lower,-0.021300000000000003,0.011,0.0323
-2025-01-07 04:32:57.796627,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.021999999999999964,0.2857,0.3077
 2025-01-07 12:53:19.268729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.021999999999999964,0.2857,0.3077
+2025-01-07 04:32:57.796627,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.021999999999999964,0.2857,0.3077
 2025-01-07 09:31:02.119265,The Bahamas Golf Classic - The Bahamas Golf Classic - Winner,Seung Taek Lee,-0.022099999999999998,0.0164,0.0385
 2025-01-07 12:53:19.271914,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
 2025-01-07 12:53:19.275058,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.0242,0.0667,0.0909

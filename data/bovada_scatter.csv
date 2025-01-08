@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Mike Vrabel,0.16670000000000001,0.5,0.3333
 2025-01-07 18:37:19.577171,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Matz Sels,0.12589999999999998,0.3077,0.1818
 2025-01-08 01:56:15.645347,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Liam Coen,0.11110000000000009,0.7778,0.6667
 2025-01-08 01:56:15.645347,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Ben Johnson,0.11110000000000003,0.4444,0.3333
@@ -17,13 +18,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 23:27:50.681290,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.02779999999999999,0.25,0.2222
 2025-01-07 23:27:50.337906,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.025600000000000067,0.6923,0.6667
 2025-01-07 23:27:50.626004,NFL Requested Specials - NFL Requested Specials - NFL Requested Specials Awards,"Josh Allen MVP, Jayden Daniels OROY, Saquon Barkley OPOY, Patrick Surtain DPOY & Kevin O’Connell Coach of the year",0.025600000000000067,0.6923,0.6667
-2025-01-08 01:56:15.641055,NFL Specials - Where Will Tyreek Hill Play Game 1 Of The 2025/26 Season - Where Will Tyreek Hill Play Game 1 Of The 2025/26 Season,Baltimore Ravens,0.023799999999999988,0.1667,0.1429
 2025-01-07 23:27:50.644245,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Kellen Moore,0.023799999999999988,0.1667,0.1429
+2025-01-08 01:56:15.641055,NFL Specials - Where Will Tyreek Hill Play Game 1 Of The 2025/26 Season - Where Will Tyreek Hill Play Game 1 Of The 2025/26 Season,Baltimore Ravens,0.023799999999999988,0.1667,0.1429
 2025-01-07 23:27:50.681290,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.023799999999999932,0.8571,0.8333
 2025-01-08 01:56:15.645347,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Kliff Kingsbury,0.02310000000000001,0.1,0.0769
 2025-01-08 01:56:14.840404,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.022199999999999998,0.2222,0.2
 2025-01-07 20:30:19.794084,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,0.020100000000000007,0.1739,0.1538
-2025-01-07 16:49:20.530351,Tournament Match-Ups - Tournament Match-Up - B. Harman vs D. Thompson - Tournament Match-Up,Davis Thompson,0.01970000000000005,0.5652,0.5455
 2025-01-07 23:27:50.621192,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.019699999999999995,0.4545,0.4348
 2025-01-07 23:27:50.626004,NFL Requested Specials - NFL Requested Specials - NFL Requested Specials Awards,"Josh Allen MVP, Saquon Barkley OPOY & Patrick Surtain DPOY",0.018999999999999906,0.7333,0.7143
 2025-01-07 18:37:20.252163,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.017299999999999982,0.4255,0.4082
@@ -37,13 +37,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 23:27:51.505030,The Bahamas Golf Classic - The Bahamas Golf Classic - Winner,Robby Shelton,0.014099999999999998,0.0385,0.0244
 2025-01-07 23:27:50.621192,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,0.013999999999999999,0.0909,0.0769
 2025-01-07 22:33:01.750316,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),0.01319999999999999,0.75,0.7368
-2025-01-07 16:49:19.037485,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.012899999999999995,0.1667,0.1538
 2025-01-08 01:56:15.645347,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Anthony Weaver,0.012600000000000007,0.0714,0.0588
 2025-01-08 01:56:15.617357,Super Bowl LIX - Super Bowl 59 -  Winner,Los Angeles Rams,0.012200000000000003,0.04,0.0278
 2025-01-07 22:33:01.771121,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),0.012199999999999989,0.5,0.4878
-2025-01-07 16:49:20.672701,TGL - Team Matchups - New York vs The Bay - Team Matchups,The Bay (MWLee/Aberg/Clark/Lowry),0.012199999999999989,0.5122,0.5
-2025-01-07 19:24:21.122087,TGL - Team Matchups - New York vs The Bay - Team Matchups,The Bay (MWLee/Aberg/Clark/Lowry),0.011600000000000055,0.5238,0.5122
 2025-01-07 23:27:51.441877,TGL - Team Matchups - New York vs The Bay - Team Matchups,The Bay (MWLee/Aberg/Clark/Lowry),0.011600000000000055,0.5238,0.5122
+2025-01-07 19:24:21.122087,TGL - Team Matchups - New York vs The Bay - Team Matchups,The Bay (MWLee/Aberg/Clark/Lowry),0.011600000000000055,0.5238,0.5122
 2025-01-07 20:30:20.094789,TGL - Team Matchups - New York vs The Bay - Team Matchups,New York (Schauffele/Fitzpatrick/Fowler/Young),0.01100000000000001,0.5348,0.5238
 2025-01-08 01:56:15.617357,Super Bowl LIX - Super Bowl 59 -  Winner,Buffalo Bills,0.010899999999999993,0.1538,0.1429
 2025-01-08 01:56:15.617357,Super Bowl LIX - Super Bowl 59 -  Winner,Los Angeles Chargers,0.010700000000000001,0.0385,0.0278
@@ -53,14 +51,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 22:33:02.589299,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs K. Kitayama - Tournament Match-Up,J.T. Poston,0.010099999999999998,0.5556,0.5455
 2025-01-07 18:37:20.252163,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,-0.010199999999999994,0.0333,0.0435
 2025-01-08 01:56:16.146006,Boxing Lines - Max McIntyre vs Abdulselam Saman - To Win the Bout,Abdulselam Saman,-0.0102,0.0667,0.0769
-2025-01-07 16:49:20.672701,TGL - Team Matchups - New York vs The Bay - Team Matchups,New York (Schauffele/Fitzpatrick/Fowler/Young),-0.010699999999999932,0.5348,0.5455
 2025-01-08 01:56:16.245422,Sony Open - Sony Open - Winner,Byeong Hun An,-0.010700000000000001,0.0278,0.0385
+2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Ben Johnson,-0.010899999999999993,0.1429,0.1538
 2025-01-08 01:56:14.840404,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,-0.010899999999999993,0.1429,0.1538
 2025-01-07 19:24:21.122087,TGL - Team Matchups - New York vs The Bay - Team Matchups,New York (Schauffele/Fitzpatrick/Fowler/Young),-0.01100000000000001,0.5238,0.5348
 2025-01-07 23:27:51.441877,TGL - Team Matchups - New York vs The Bay - Team Matchups,New York (Schauffele/Fitzpatrick/Fowler/Young),-0.01100000000000001,0.5238,0.5348
 2025-01-07 20:30:19.289176,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Wes Phillips,-0.011199999999999995,0.0323,0.0435
 2025-01-07 20:30:20.094789,TGL - Team Matchups - New York vs The Bay - Team Matchups,The Bay (MWLee/Aberg/Clark/Lowry),-0.011600000000000055,0.5122,0.5238
 2025-01-07 22:33:02.589299,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs K. Kitayama - Tournament Match-Up,Kurt Kitayama,-0.011600000000000055,0.5122,0.5238
+2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Leslie Frazier,-0.012899999999999995,0.1538,0.1667
+2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Kellen Moore,-0.012899999999999995,0.1538,0.1667
 2025-01-07 19:24:20.828579,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,David Nyika,-0.012899999999999995,0.1538,0.1667
 2025-01-08 01:56:14.840404,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,-0.0131,0.0345,0.0476
 2025-01-07 18:37:19.577171,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,-0.013999999999999999,0.0769,0.0909
@@ -71,7 +71,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-07 18:37:19.577171,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Nick Pope,-0.0189,0.0196,0.0385
 2025-01-07 22:33:01.750316,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.019000000000000017,0.2667,0.2857
 2025-01-07 20:30:19.794084,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,Jai Opetaia,-0.020199999999999996,0.8889,0.9091
-2025-01-07 16:49:20.530351,Tournament Match-Ups - Tournament Match-Up - B. Harman vs D. Thompson - Tournament Match-Up,Brian Harman,-0.023800000000000043,0.5,0.5238
 2025-01-07 22:33:01.767714,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Giannis Antetokounmpo (MIL),-0.024299999999999995,0.0526,0.0769
 2025-01-07 20:30:19.289176,NFL Specials - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26? - Who Will Be The Head Coach Of The Jacksonville Jaguars in 2025/26?,Kliff Kingsbury,-0.03420000000000001,0.0769,0.1111
 2025-01-08 02:57:28.269427,League One - England League One 2024/25 - Winner,Wycombe,-0.04240000000000001,0.0909,0.1333

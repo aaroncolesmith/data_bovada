@@ -17,10 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.241486,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,0.03959999999999997,0.5744,0.5348
 2025-01-08 06:37:33.479327,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.03640000000000004,0.4,0.3636
 2025-01-08 08:35:16.233478,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Ohio,0.0363,0.303,0.2667
-2025-01-08 02:57:28.269427,League One - England League One 2024/25 - Winner,Birmingham City,0.033399999999999985,0.8667,0.8333
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,0.031799999999999995,0.3175,0.2857
 2025-01-08 08:35:16.225508,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.03059999999999999,0.2632,0.2326
-2025-01-08 02:57:28.269427,League One - England League One 2024/25 - Winner,Huddersfield Town,0.028199999999999996,0.0667,0.0385
 2025-01-08 09:30:32.843886,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.02560000000000001,0.3333,0.3077
 2025-01-08 06:37:33.572198,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.023800000000000043,0.5238,0.5
 2025-01-08 08:35:16.225508,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,0.022600000000000064,0.5348,0.5122
@@ -34,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.199925,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.014899999999999997,0.0625,0.0476
 2025-01-08 12:53:01.539483,League Two - England League Two 2024/25 - Top Goalscorer,Nathan Lowe,0.01469999999999999,0.25,0.2353
 2025-01-08 08:35:16.241486,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.014500000000000013,0.2273,0.2128
-2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,0.014399999999999996,0.0769,0.0625
 2025-01-08 04:33:41.893102,Boxing Lines - Xavier Fletcher vs Freddy Doidoi - To Win the Bout,Freddy Doidoi,0.014399999999999996,0.0769,0.0625
+2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,0.014399999999999996,0.0769,0.0625
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Arizona,0.013999999999999999,0.0909,0.0769
 2025-01-08 12:53:03.463741,Main Markets - Team Cup - Winner,Continental Europe,0.013800000000000034,0.3774,0.3636
 2025-01-08 12:53:01.539483,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.0131,0.2353,0.2222
@@ -45,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.983666,Boxing Lines - Jai Opetaia vs David Nyika - To Win the Bout,Jai Opetaia,0.011099999999999999,0.9,0.8889
 2025-01-08 11:26:09.941369,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Tottenham Hotspur,0.011099999999999999,0.1111,0.1
 2025-01-08 10:35:06.531096,Round Match-Ups - 1st Round Match-Ups - R. Henley vs K. Kitayama - 1st Round Match-Ups,Kurt Kitayama,0.010599999999999998,0.4651,0.4545
+2025-01-08 15:31:15.273087,Round Match-Ups - 1st Round Match-Ups - A. Novak vs M. Thorbjornsen - 1st Round Match-Ups,Michael Thorbjornsen,0.010599999999999998,0.4651,0.4545
 2025-01-08 09:30:34.784805,TGL - TGL - Winner,Boston Common,0.010499999999999982,0.2105,0.2
 2025-01-08 08:35:16.241486,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),San Diego State,0.010399999999999993,0.2326,0.2222
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Georgia,0.010100000000000001,0.0345,0.0244
@@ -54,18 +53,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.241486,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,-0.010600000000000002,0.0217,0.0323
 2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,-0.010700000000000001,0.0278,0.0385
 2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,-0.010700000000000001,0.0278,0.0385
-2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Ben Johnson,-0.010899999999999993,0.1429,0.1538
 2025-01-08 09:30:32.834366,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.010899999999999993,0.1429,0.1538
+2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Ben Johnson,-0.010899999999999993,0.1429,0.1538
 2025-01-08 08:35:16.245519,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Texas,-0.0113,0.0066,0.0179
 2025-01-08 08:35:16.876881,Regular Season Wins - Washington Nationals Wins - 2025 Regular Season - Washington Nationals Wins - 2025 Regular Season,Under 70.5,-0.011600000000000055,0.5122,0.5238
 2025-01-08 08:35:16.827507,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - San Francisco Giants Wins - 2025 Regular Season,Under 79.5,-0.012199999999999989,0.5,0.5122
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,BYU,-0.012200000000000003,0.0278,0.04
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Penn State,-0.012200000000000003,0.0278,0.04
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.012899999999999995,0.1538,0.1667
-2025-01-08 09:30:32.949058,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.012899999999999995,0.1538,0.1667
 2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Leslie Frazier,-0.012899999999999995,0.1538,0.1667
 2025-01-08 05:32:14.896351,NFL Specials - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26? - Who Will Be The Head Coach Of The Las Vegas Raiders in 2025/26?,Kellen Moore,-0.012899999999999995,0.1538,0.1667
 2025-01-08 09:30:32.834366,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.012899999999999995,0.1538,0.1667
+2025-01-08 09:30:32.949058,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.012899999999999995,0.1538,0.1667
 2025-01-08 08:35:16.237480,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,-0.01319999999999999,0.25,0.2632
 2025-01-08 12:53:03.463741,Main Markets - Team Cup - Winner,GB & Ireland,-0.013799999999999923,0.6226,0.6364
 2025-01-08 09:30:32.847059,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.013800000000000034,0.3636,0.3774
@@ -80,15 +79,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,-0.014899999999999997,0.0476,0.0625
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,North Carolina,-0.014899999999999997,0.0476,0.0625
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,-0.015100000000000002,0.1667,0.1818
-2025-01-08 08:35:16.229487,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Sam Houston State,-0.015300000000000001,0.0323,0.0476
 2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Indiana,-0.015300000000000001,0.0323,0.0476
+2025-01-08 08:35:16.229487,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Sam Houston State,-0.015300000000000001,0.0323,0.0476
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),BYU,-0.015499999999999998,0.0123,0.0278
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Cincinnati,-0.0165,0.0079,0.0244
 2025-01-08 08:35:16.229487,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Liberty,-0.016699999999999937,0.5833,0.6
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arkansas,-0.017099999999999997,0.0417,0.0588
 2025-01-08 08:35:16.225508,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.017299999999999982,0.2857,0.303
-2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,-0.0174,0.2326,0.25
 2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0174,0.2326,0.25
+2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,-0.0174,0.2326,0.25
 2025-01-08 07:27:46.397401,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Madison Booker (Texas),-0.017800000000000003,0.0066,0.0244
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas,-0.018099999999999998,0.0345,0.0526
 2025-01-08 08:35:16.233478,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Akron,-0.019500000000000017,0.3509,0.3704
@@ -112,7 +111,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.237480,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Northern Iowa,-0.03670000000000001,0.1538,0.1905
 2025-01-08 08:35:16.229487,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.038299999999999994,0.0526,0.0909
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,-0.041800000000000004,0.2439,0.2857
-2025-01-08 02:57:28.269427,League One - England League One 2024/25 - Winner,Wycombe,-0.04240000000000001,0.0909,0.1333
 2025-01-08 08:35:16.245519,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,-0.042600000000000006,0.0526,0.0952
 2025-01-08 08:35:16.258534,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Chaz Lanier (Tennessee),-0.04329999999999999,0.0476,0.0909
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.043399999999999994,0.2899,0.3333

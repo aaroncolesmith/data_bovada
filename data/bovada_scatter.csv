@@ -24,12 +24,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,0.0203,0.0588,0.0385
 2025-01-08 08:35:16.245519,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,0.01999999999999999,0.2105,0.1905
 2025-01-08 08:35:16.237480,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,0.018100000000000005,0.5833,0.5652
+2025-01-08 19:24:07.197241,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Callum Simpson,0.017900000000000027,0.875,0.8571
 2025-01-08 08:35:16.237480,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Indiana State,0.0159,0.0323,0.0164
 2025-01-08 08:35:16.199925,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.014899999999999997,0.0625,0.0476
 2025-01-08 12:53:01.539483,League Two - England League Two 2024/25 - Top Goalscorer,Nathan Lowe,0.01469999999999999,0.25,0.2353
 2025-01-08 08:35:16.241486,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.014500000000000013,0.2273,0.2128
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,0.014399999999999996,0.0769,0.0625
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Arizona,0.013999999999999999,0.0909,0.0769
+2025-01-08 19:24:07.193310,Boxing Lines - Caroline Dubois vs Jessica Camara - To Win the Bout,Jessica Camara,0.013999999999999999,0.0909,0.0769
 2025-01-08 12:53:03.463741,Main Markets - Team Cup - Winner,Continental Europe,0.013800000000000034,0.3774,0.3636
 2025-01-08 12:53:01.539483,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.0131,0.2353,0.2222
 2025-01-08 07:27:46.393221,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.012899999999999995,0.1667,0.1538
@@ -55,9 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.827507,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - San Francisco Giants Wins - 2025 Regular Season,Under 79.5,-0.012199999999999989,0.5,0.5122
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,BYU,-0.012200000000000003,0.0278,0.04
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Penn State,-0.012200000000000003,0.0278,0.04
+2025-01-08 09:30:32.949058,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.012899999999999995,0.1538,0.1667
 2025-01-08 09:30:32.834366,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.012899999999999995,0.1538,0.1667
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.012899999999999995,0.1538,0.1667
-2025-01-08 09:30:32.949058,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.012899999999999995,0.1538,0.1667
 2025-01-08 08:35:16.237480,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,-0.01319999999999999,0.25,0.2632
 2025-01-08 12:53:03.463741,Main Markets - Team Cup - Winner,GB & Ireland,-0.013799999999999923,0.6226,0.6364
 2025-01-08 09:30:32.847059,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.013800000000000034,0.3636,0.3774
@@ -78,11 +80,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-08 08:35:16.229487,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Liberty,-0.016699999999999937,0.5833,0.6
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arkansas,-0.017099999999999997,0.0417,0.0588
 2025-01-08 08:35:16.225508,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.017299999999999982,0.2857,0.303
-2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0174,0.2326,0.25
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,-0.0174,0.2326,0.25
+2025-01-08 08:35:16.217433,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.0174,0.2326,0.25
 2025-01-08 07:27:46.397401,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Madison Booker (Texas),-0.017800000000000003,0.0066,0.0244
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas,-0.018099999999999998,0.0345,0.0526
 2025-01-08 08:35:16.233478,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Akron,-0.019500000000000017,0.3509,0.3704
+2025-01-08 19:24:07.197241,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,-0.01999999999999999,0.1905,0.2105
 2025-01-08 08:35:16.204371,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Dayton,-0.02,0.0217,0.0417
 2025-01-08 09:30:32.847059,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,-0.020100000000000007,0.2299,0.25
 2025-01-08 08:35:16.221512,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,-0.02020000000000001,0.0909,0.1111

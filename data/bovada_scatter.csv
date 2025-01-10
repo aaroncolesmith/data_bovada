@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 06:38:35.054387,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),0.03849999999999998,0.3125,0.274
 2025-01-10 06:38:34.975456,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,0.037699999999999956,0.2941,0.2564
 2025-01-10 06:38:34.850192,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.03689999999999999,0.3226,0.2857
+2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,Cristobal Del Solar,0.03640000000000004,0.4,0.3636
 2025-01-10 06:38:36.054978,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Paul Peterson,0.03620000000000001,0.4444,0.4082
 2025-01-09 22:33:35.833183,NBL - Australia NBL 2024/25 - Regular Season League Winner,Illawarra Hawks,0.035699999999999954,0.75,0.7143
 2025-01-10 06:38:34.881216,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.033399999999999985,0.1667,0.1333
@@ -29,29 +30,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 07:28:10.552366,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Texas,0.01999999999999999,0.2105,0.1905
 2025-01-10 06:38:36.038644,Sony Open - 2/3 Balls - 2nd Round 3-Balls - J.J. Spaun / D. Berger / R. Hisatsune - 2nd Round 3-Balls,J J Spaun,0.018799999999999983,0.3636,0.3448
 2025-01-10 06:38:35.032613,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Russell Westbrook (DEN),0.0173,0.0417,0.0244
-2025-01-09 22:33:35.815571,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.016700000000000007,0.1,0.0833
 2025-01-10 06:38:35.054387,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.016700000000000007,0.1,0.0833
+2025-01-09 22:33:35.815571,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.016700000000000007,0.1,0.0833
 2025-01-10 06:38:34.862112,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Orlando Magic,0.015300000000000001,0.0588,0.0435
 2025-01-10 07:28:10.240336,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),UTEP,0.015100000000000002,0.1818,0.1667
 2025-01-10 06:38:34.856886,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.01440000000000001,0.1053,0.0909
 2025-01-10 01:58:47.554319,FA Cup - England FA Cup 2024/25 - Outright,Fulham,0.014099999999999998,0.0385,0.0244
 2025-01-10 06:38:35.054387,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.014099999999999998,0.0385,0.0244
-2025-01-10 06:38:34.866896,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.013999999999999999,0.0909,0.0769
 2025-01-10 01:58:47.554319,FA Cup - England FA Cup 2024/25 - Outright,Newcastle United,0.013999999999999999,0.0909,0.0769
+2025-01-10 06:38:34.866896,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.013999999999999999,0.0909,0.0769
 2025-01-10 06:38:34.843227,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.013899999999999996,0.125,0.1111
 2025-01-10 06:38:34.970928,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.012899999999999995,0.1667,0.1538
+2025-01-10 09:30:42.441747,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs E. Grillo - 2nd Round Match-Ups,Emiliano Grillo,0.012199999999999989,0.5,0.4878
 2025-01-10 06:38:34.881216,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.0121,0.2899,0.2778
 2025-01-09 22:33:35.830073,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,0.011899999999999994,0.0833,0.0714
 2025-01-09 22:33:35.830073,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.011899999999999994,0.25,0.2381
 2025-01-10 06:38:34.846803,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.01100000000000001,0.5348,0.5238
+2025-01-10 09:30:42.424874,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs P. Kizzire - 2nd Round Match-Ups,Mac Meissner,0.010699999999999932,0.5455,0.5348
+2025-01-10 09:30:42.437523,Round Match-Ups - 2nd Round Match-Ups - D. Thompson vs M. McCarty - 2nd Round Match-Ups,Matt McCarty,0.010599999999999998,0.4651,0.4545
 2025-01-10 07:28:10.269864,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),0.010099999999999998,0.3226,0.3125
+2025-01-10 09:30:42.441747,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs E. Grillo - 2nd Round Match-Ups,Lucas Glover,-0.010099999999999998,0.5455,0.5556
 2025-01-10 07:28:10.240336,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Western Kentucky,-0.010099999999999998,0.0952,0.1053
 2025-01-10 06:38:34.846803,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.010699999999999932,0.5348,0.5455
 2025-01-10 01:58:47.554319,FA Cup - England FA Cup 2024/25 - Outright,Manchester City,-0.011700000000000016,0.2105,0.2222
 2025-01-10 06:38:34.890948,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,San Antonio Spurs,-0.0118,0.0099,0.0217
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Jalen Suggs (ORL),-0.012100000000000001,0.0123,0.0244
-2025-01-10 06:38:34.862112,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
+2025-01-10 09:30:42.424874,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs P. Kizzire - 2nd Round Match-Ups,Patton Kizzire,-0.012199999999999989,0.5,0.5122
 2025-01-10 06:38:34.886010,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
+2025-01-10 06:38:34.862112,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,LaMelo Ball (CHA),-0.013,0.0066,0.0196
 2025-01-10 06:38:34.886010,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.01319999999999999,0.7368,0.75
 2025-01-10 06:38:35.032613,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Bradley Beal (PHX),-0.013999999999999999,0.0769,0.0909
@@ -61,14 +67,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,RJ Barrett (TOR),-0.015499999999999998,0.0123,0.0278
 2025-01-10 06:38:35.054387,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.015899999999999997,0.0952,0.1111
 2025-01-10 07:28:10.275595,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),-0.01629999999999998,0.2778,0.2941
-2025-01-10 06:38:36.054978,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Kris Ventura,-0.016699999999999993,0.4,0.4167
 2025-01-10 06:38:35.032613,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.016699999999999993,0.25,0.2667
 2025-01-10 06:38:36.054978,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Ben Polland,-0.016699999999999993,0.25,0.2667
-2025-01-10 06:38:34.871623,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.0179,0.125,0.1429
+2025-01-10 06:38:36.054978,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Kris Ventura,-0.016699999999999993,0.4,0.4167
 2025-01-10 06:38:34.850192,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.0179,0.125,0.1429
+2025-01-10 06:38:34.871623,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.0179,0.125,0.1429
 2025-01-10 08:35:04.071481,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Roy / K. Velo / RJ. Manke - 2nd Round 3-Balls,RJ Manke,-0.018100000000000005,0.2597,0.2778
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.01820000000000002,0.1818,0.2
 2025-01-10 06:38:36.038644,Sony Open - 2/3 Balls - 2nd Round 3-Balls - J.J. Spaun / D. Berger / R. Hisatsune - 2nd Round 3-Balls,Daniel Berger,-0.018900000000000028,0.4255,0.4444
+2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,William Mouw,-0.018900000000000028,0.4255,0.4444
+2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,Tyler Loree,-0.019000000000000017,0.2667,0.2857
 2025-01-10 07:28:10.279988,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),-0.021799999999999986,0.3704,0.3922
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),-0.02310000000000001,0.0769,0.1
 2025-01-10 07:28:11.367258,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs E. Grillo - 2nd Round Match-Ups,Emiliano Grillo,-0.024399999999999977,0.4878,0.5122
@@ -84,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 06:38:34.975456,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.03470000000000001,0.2778,0.3125
 2025-01-10 06:38:35.054387,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),-0.0348,0.4,0.4348
 2025-01-09 22:33:36.142267,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Todd Monken,-0.03789999999999999,0.1,0.1379
-2025-01-09 22:33:36.142267,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Kliff Kingsbury,-0.04040000000000002,0.1818,0.2222
 2025-01-10 06:38:35.047085,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Jalen Johnson (ATL),-0.04040000000000002,0.1818,0.2222
+2025-01-09 22:33:36.142267,NFL Specials - Coaches Specials - Chicago Bears Next Head Coach,Kliff Kingsbury,-0.04040000000000002,0.1818,0.2222
 2025-01-10 06:38:34.856886,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.04270000000000007,0.8462,0.8889
 2025-01-10 06:38:34.984568,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Pittsburgh,-0.044599999999999994,0.0323,0.0769
 2025-01-09 22:33:35.815571,Euroleague - Euroleague 2024/25 - Regular Season League Winner,AS Monaco,-0.04620000000000002,0.1538,0.2

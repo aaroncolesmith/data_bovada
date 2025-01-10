@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 18:37:12.087884,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.44759999999999994,0.7333,0.2857
 2025-01-10 13:32:14.264790,Main Markets - Team Cup - Winner,GB & Ireland,0.13929999999999998,0.7619,0.6226
 2025-01-10 16:36:42.422190,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.06620000000000001,0.125,0.0588
-2025-01-10 08:35:04.071481,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Roy / K. Velo / RJ. Manke - 2nd Round 3-Balls,Kevin Roy,0.05559999999999998,0.5,0.4444
 2025-01-10 18:37:11.747816,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.0484,0.4651,0.4167
 2025-01-10 12:53:12.459307,Sony Open - 2/3 Balls - 2nd Round 3-Balls - T. Cone / R. Castillo / G. Cohen - 2nd Round 3-Balls,Trevor Cone,0.044399999999999995,0.4444,0.4
 2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,Cristobal Del Solar,0.03640000000000004,0.4,0.3636
@@ -14,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 18:37:11.747816,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,0.029899999999999982,0.3077,0.2778
 2025-01-10 12:53:12.464434,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,William Mouw,0.029000000000000026,0.4545,0.4255
 2025-01-10 16:36:43.732183,Scores - 2nd Round Score - Russell Henley - 2nd Round Score ,Over 67.5,0.028900000000000037,0.5744,0.5455
-2025-01-10 08:35:04.087641,Sony Open - 2/3 Balls - 2nd Round 3-Balls - I. Salinda / J. Pak / M. Matsuyama - 2nd Round 3-Balls,John Pak,0.028600000000000014,0.3922,0.3636
 2025-01-10 12:53:12.713339,Scores - 2nd Round Score - Sepp Straka - 2nd Round Score ,Under 68.5,0.026499999999999968,0.5917,0.5652
 2025-01-10 17:30:43.026373,Round Match-Ups - 2nd Round Match-Ups - S. Theegala vs S. Straka - 2nd Round Match-Ups,Sepp Straka,0.023800000000000043,0.5238,0.5
 2025-01-10 16:36:43.545190,Sony Open - 2/3 Balls - 2nd Round 3-Balls - H. Hall / S. Power / B. Snedeker - 2nd Round 3-Balls,Harry Hall,0.021699999999999997,0.4762,0.4545
@@ -25,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 13:32:14.119864,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Paul Peterson,0.020699999999999996,0.4651,0.4444
 2025-01-10 11:26:00.702485,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 67.5,0.01970000000000005,0.5652,0.5455
 2025-01-10 16:36:43.335880,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,0.015100000000000002,0.1818,0.1667
+2025-01-10 21:28:02.182716,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.012299999999999978,0.3571,0.3448
 2025-01-10 09:30:42.441747,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs E. Grillo - 2nd Round Match-Ups,Emiliano Grillo,0.012199999999999989,0.5,0.4878
 2025-01-10 12:53:12.603108,Round Match-Ups - 2nd Round Match-Ups - H. Matsuyama vs R. Henley - 2nd Round Match-Ups,Russell Henley,0.011099999999999999,0.4762,0.4651
 2025-01-10 15:30:45.617944,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Callum Simpson,0.011099999999999999,0.9,0.8889
@@ -33,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 14:32:38.663183,To Record the Most RBIs - Player To Record the Most RBIs - 2025 Regular Season - Player To Record the Most RBIs,Juan Soto (NYM),0.0102,0.0769,0.0667
 2025-01-10 14:32:38.663183,To Record the Most RBIs - Player To Record the Most RBIs - 2025 Regular Season - Player To Record the Most RBIs,Vladimir Guerrero Jr. (TOR),0.0102,0.0769,0.0667
 2025-01-10 09:30:42.441747,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs E. Grillo - 2nd Round Match-Ups,Lucas Glover,-0.010099999999999998,0.5455,0.5556
+2025-01-10 21:28:02.694129,Boxing Lines - Caroline Dubois vs Jessica Camara - To Win the Bout,Jessica Camara,-0.0102,0.0667,0.0769
 2025-01-10 13:32:14.001088,Sony Open - 2/3 Balls - 2nd Round 3-Balls - F. Capan / A. Potgieter / L. Clanton - 2nd Round 3-Balls,Luke Clanton,-0.010599999999999998,0.4545,0.4651
 2025-01-10 14:32:38.674675,Boxing Lines - Mauro Silva vs Emmanuel Zion - To Win the Bout,Emmanuel Zion,-0.011099999999999999,0.1,0.1111
 2025-01-10 09:30:42.424874,Round Match-Ups - 2nd Round Match-Ups - M. Meissner vs P. Kizzire - 2nd Round Match-Ups,Patton Kizzire,-0.012199999999999989,0.5,0.5122
@@ -41,20 +41,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-10 13:32:14.119864,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Ventura / P. Peterson / B. Polland - 2nd Round 3-Balls,Kris Ventura,-0.015400000000000025,0.3846,0.4
 2025-01-10 16:36:43.335880,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Callum Simpson,-0.01760000000000006,0.8824,0.9
 2025-01-10 12:53:12.603108,Round Match-Ups - 2nd Round Match-Ups - H. Matsuyama vs R. Henley - 2nd Round Match-Ups,Hideki Matsuyama,-0.018100000000000005,0.5652,0.5833
-2025-01-10 08:35:04.071481,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Roy / K. Velo / RJ. Manke - 2nd Round 3-Balls,RJ Manke,-0.018100000000000005,0.2597,0.2778
 2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,William Mouw,-0.018900000000000028,0.4255,0.4444
 2025-01-10 09:30:42.319788,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,Tyler Loree,-0.019000000000000017,0.2667,0.2857
 2025-01-10 17:30:43.026373,Round Match-Ups - 2nd Round Match-Ups - S. Theegala vs S. Straka - 2nd Round Match-Ups,Sahith Theegala,-0.02169999999999994,0.5238,0.5455
 2025-01-10 12:53:12.713339,Scores - 2nd Round Score - Sepp Straka - 2nd Round Score ,Over 68.5,-0.023799999999999988,0.4762,0.5
-2025-01-10 11:26:00.702485,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 67.5,-0.023800000000000043,0.5,0.5238
 2025-01-10 15:30:45.976603,Round Match-Ups - 2nd Round Match-Ups - B. Hun An vs S.W. Kim - 2nd Round Match-Ups,Byeong Hun An,-0.023800000000000043,0.5,0.5238
+2025-01-10 11:26:00.702485,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 67.5,-0.023800000000000043,0.5,0.5238
 2025-01-10 15:30:45.964214,Round Match-Ups - 2nd Round Match-Ups - N. Dunlap vs S. Jaeger - 2nd Round Match-Ups,Nick Dunlap,-0.024399999999999977,0.4878,0.5122
-2025-01-10 08:35:04.087641,Sony Open - 2/3 Balls - 2nd Round 3-Balls - I. Salinda / J. Pak / M. Matsuyama - 2nd Round 3-Balls,Mao Matsuyama,-0.02739999999999998,0.2667,0.2941
 2025-01-10 18:37:11.747816,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.02739999999999998,0.2667,0.2941
 2025-01-10 14:32:38.663183,To Record the Most RBIs - Player To Record the Most RBIs - 2025 Regular Season - Player To Record the Most RBIs,Aaron Judge (NYY),-0.027999999999999997,0.1538,0.1818
 2025-01-10 12:53:12.464434,Sony Open - 2/3 Balls - 2nd Round 3-Balls - W. Mouw / C. Del Solar / T. Loree - 2nd Round 3-Balls,Tyler Loree,-0.028599999999999987,0.2381,0.2667
 2025-01-10 12:53:12.708937,Scores - 2nd Round Score - Russell Henley - 2nd Round Score ,Over 67.5,-0.028900000000000037,0.5455,0.5744
-2025-01-10 08:35:04.071481,Sony Open - 2/3 Balls - 2nd Round 3-Balls - K. Roy / K. Velo / RJ. Manke - 2nd Round 3-Balls,Kevin Velo,-0.030299999999999994,0.3333,0.3636
 2025-01-10 12:53:12.691019,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 67.5,-0.03489999999999999,0.4651,0.5
 2025-01-10 16:36:43.732183,Scores - 2nd Round Score - Russell Henley - 2nd Round Score ,Under 67.5,-0.03600000000000003,0.4878,0.5238
 2025-01-10 16:36:42.422190,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.038099999999999995,0.2,0.2381

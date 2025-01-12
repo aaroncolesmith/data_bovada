@@ -1,42 +1,33 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 09:27:51.944068,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Louis,0.13419999999999999,0.1538,0.0196
-2025-01-12 08:32:23.326123,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.09099999999999997,0.5455,0.4545
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.08330000000000001,0.25,0.1667
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.07789999999999997,0.3636,0.2857
 2025-01-12 10:32:10.044520,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.06840000000000002,0.2222,0.1538
 2025-01-12 19:24:13.016044,NFL Specials - Will Mike Tomlin be thre Head Coach of the Pittsburgh Steelers for Week 1 of the 2025 Season - Proposition,Yes,0.0683999999999999,0.8462,0.7778
 2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.05559999999999998,0.5556,0.5
 2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,0.050000000000000044,0.8,0.75
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.04999999999999999,0.25,0.2
 2025-01-12 15:28:11.393609,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Ben Silverman,0.045499999999999985,0.5,0.4545
 2025-01-12 17:28:31.480208,Round Match-Ups - Final Round Match-Ups - E. Cole vs S. Jaeger - Final Round Match-Ups,Eric Cole,0.043399999999999994,0.5556,0.5122
 2025-01-12 13:29:31.032948,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Steven Nelson,0.043300000000000005,0.303,0.2597
 2025-01-12 10:32:09.784016,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.03639999999999999,0.6364,0.6
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.033299999999999996,0.8333,0.8
 2025-01-12 11:25:15.898159,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Lamar Jackson (BAL),0.031799999999999995,0.1429,0.1111
 2025-01-12 10:32:10.009482,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.031799999999999995,0.4762,0.4444
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.030299999999999994,0.3636,0.3333
 2025-01-12 10:32:09.834545,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.030299999999999994,0.3636,0.3333
 2025-01-12 10:32:11.367625,Sony Open - 2/3 Balls - Final Round 3-Balls - J. Suber / M. Meissner / A. Schenk - Final Round 3-Balls,Mac Meissner,0.029000000000000026,0.4545,0.4255
 2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.028800000000000048,0.875,0.8462
 2025-01-12 11:25:15.893536,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.027800000000000047,0.7778,0.75
 2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,0.02779999999999999,0.25,0.2222
-2025-01-12 08:32:23.320688,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.025599999999999956,0.6,0.5744
 2025-01-12 10:32:10.057073,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,0.024999999999999994,0.125,0.1
 2025-01-12 15:28:11.385410,Sony Open - 2/3 Balls - Final Round 3-Balls - R. Gerard / G. Woodland / R. Henley - Final Round 3-Balls,Russell Henley,0.024399999999999977,0.5122,0.4878
 2025-01-12 10:32:10.044520,Super League - Greece Super League 2024/25 - Winner,Olympiakos,0.023800000000000043,0.5238,0.5
-2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.023799999999999988,0.5,0.4762
-2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,0.023799999999999988,0.1667,0.1429
 2025-01-12 10:32:11.391901,Sony Open - 2/3 Balls - Final Round 3-Balls - J. Hahn / S. Stevens /R. MacIntyre - Final Round 3-Balls,Robert MacIntyre,0.023799999999999988,0.5,0.4762
+2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,0.023799999999999988,0.1667,0.1429
+2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.023799999999999988,0.5,0.4762
 2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.02020000000000001,0.1111,0.0909
 2025-01-12 17:28:31.523672,Scores - Final Round Score - Nick Taylor - Final Round Score,Under 68.5,0.01880000000000004,0.5744,0.5556
 2025-01-12 10:32:11.383751,Sony Open - 2/3 Balls - Final Round 3-Balls - K. Hirata / N. Dunlap / M. Kuchar - Final Round 3-Balls,Matt Kuchar,0.018100000000000005,0.4348,0.4167
 2025-01-12 11:25:15.898159,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Derrick Henry (BAL),0.018099999999999998,0.0526,0.0345
-2025-01-12 08:32:24.025757,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Anthony Edwards (MIN),0.018099999999999998,0.0769,0.0588
 2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.0179,0.1429,0.125
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.0179,0.1429,0.125
 2025-01-12 15:28:11.259992,Boxing Lines - Andy Cruz vs Omar Salcido Gamez - To Win the Bout,Andy Cruz,0.01760000000000006,0.9,0.8824
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.017099999999999997,0.0294,0.0123
+2025-01-12 21:27:00.237646,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Diego Pacheco,0.017400000000000082,0.8,0.7826
 2025-01-12 10:32:10.071222,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.016700000000000048,0.75,0.7333
 2025-01-12 10:32:11.330244,Sony Open - 2/3 Balls - Final Round 3-Balls - T. Hoge / M. McCarty / V. Norrman - Final Round 3-Balls,Matt McCarty,0.015400000000000025,0.4,0.3846
 2025-01-12 10:32:10.035011,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,0.015100000000000002,0.1818,0.1667
@@ -44,60 +35,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 10:32:09.786951,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,0.013999999999999999,0.0909,0.0769
 2025-01-12 10:32:11.391901,Sony Open - 2/3 Balls - Final Round 3-Balls - J. Hahn / S. Stevens /R. MacIntyre - Final Round 3-Balls,Sam Stevens,0.013800000000000034,0.3774,0.3636
 2025-01-12 11:25:15.907674,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Any x from x Specials,"Any 2 of Mike Evans, A.J. Brown, Courtland Sutton, DeVonta Smith & Terry McLaurin to Record 120+ Receiving Yards",0.01319999999999999,0.2632,0.25
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.0131,0.9655,0.9524
 2025-01-12 14:29:33.130132,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Diego Pacheco,0.0131,0.7778,0.7647
-2025-01-12 08:32:24.042797,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),0.012299999999999991,0.1176,0.1053
-2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.012299999999999978,0.3571,0.3448
 2025-01-12 10:32:11.404537,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Ben Kohles,0.012299999999999978,0.3571,0.3448
 2025-01-12 15:28:11.485121,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs J.J. Spaun - Final Round Match-Ups,Patrick Fishburn,0.012199999999999989,0.5122,0.5
 2025-01-12 15:28:11.489286,Round Match-Ups - Final Round Match-Ups - E. Cole vs S. Jaeger - Final Round Match-Ups,Eric Cole,0.012199999999999989,0.5122,0.5
-2025-01-12 15:28:11.464562,Round Match-Ups - Final Round Match-Ups - N. Echavarria vs D. McCarthy - Final Round Match-Ups,Denny McCarthy,0.011600000000000055,0.5238,0.5122
 2025-01-12 18:34:57.882320,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs J.J. Spaun - Final Round Match-Ups,Patrick Fishburn,0.011600000000000055,0.5238,0.5122
+2025-01-12 15:28:11.464562,Round Match-Ups - Final Round Match-Ups - N. Echavarria vs D. McCarthy - Final Round Match-Ups,Denny McCarthy,0.011600000000000055,0.5238,0.5122
 2025-01-12 12:49:19.609487,Round Match-Ups - Final Round Match-Ups - T. Pendrith vs T. Hoge - Final Round Match-Ups,Tom Hoge,0.0116,0.4878,0.4762
 2025-01-12 18:34:57.854436,Round Match-Ups - Final Round Match-Ups - N. Dunlap vs M. Kuchar - Final Round Match-Ups,Nick Dunlap,0.0116,0.4878,0.4762
 2025-01-12 10:32:11.408792,Sony Open - 2/3 Balls - Final Round 3-Balls - L. Hodges / L. Glover / M. McNealy - Final Round 3-Balls,Lucas Glover,0.01150000000000001,0.3448,0.3333
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.011199999999999995,0.0588,0.0476
 2025-01-12 15:28:11.456242,Round Match-Ups - Final Round Match-Ups - N. Dunlap vs M. Kuchar - Final Round Match-Ups,Nick Dunlap,0.011099999999999999,0.4762,0.4651
 2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.01090000000000002,0.8571,0.8462
-2025-01-12 15:28:11.460365,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Kensei Hirata,0.010699999999999932,0.5455,0.5348
-2025-01-12 15:28:11.468674,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Lucas Glover,0.010699999999999932,0.5455,0.5348
 2025-01-12 15:28:11.472770,Round Match-Ups - Final Round Match-Ups - K. Bradley vs M. McNealy - Final Round Match-Ups,Maverick McNealy,0.010699999999999932,0.5455,0.5348
-2025-01-12 18:34:57.866484,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Lucas Glover,0.010099999999999998,0.5556,0.5455
+2025-01-12 15:28:11.468674,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Lucas Glover,0.010699999999999932,0.5455,0.5348
+2025-01-12 15:28:11.460365,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Kensei Hirata,0.010699999999999932,0.5455,0.5348
+2025-01-12 18:34:57.858420,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Kensei Hirata,0.010099999999999998,0.5556,0.5455
 2025-01-12 12:49:19.723366,Scores - Final Round Score - Nick Taylor - Final Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-01-12 18:34:57.870448,Round Match-Ups - Final Round Match-Ups - K. Bradley vs M. McNealy - Final Round Match-Ups,Maverick McNealy,0.010099999999999998,0.5556,0.5455
-2025-01-12 18:34:57.858420,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Kensei Hirata,0.010099999999999998,0.5556,0.5455
+2025-01-12 18:34:57.866484,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Lucas Glover,0.010099999999999998,0.5556,0.5455
 2025-01-12 09:27:51.304094,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.0102,0.0667,0.0769
 2025-01-12 10:32:11.404537,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Ben Silverman,-0.010599999999999998,0.4545,0.4651
-2025-01-12 15:28:11.485121,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs J.J. Spaun - Final Round Match-Ups,J J Spaun,-0.010699999999999932,0.5348,0.5455
 2025-01-12 15:28:11.489286,Round Match-Ups - Final Round Match-Ups - E. Cole vs S. Jaeger - Final Round Match-Ups,Stephan Jaeger,-0.010699999999999932,0.5348,0.5455
-2025-01-12 15:28:11.464562,Round Match-Ups - Final Round Match-Ups - N. Echavarria vs D. McCarthy - Final Round Match-Ups,Nico Echavarria,-0.01100000000000001,0.5238,0.5348
+2025-01-12 15:28:11.485121,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs J.J. Spaun - Final Round Match-Ups,J J Spaun,-0.010699999999999932,0.5348,0.5455
 2025-01-12 18:34:57.882320,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs J.J. Spaun - Final Round Match-Ups,J J Spaun,-0.01100000000000001,0.5238,0.5348
+2025-01-12 15:28:11.464562,Round Match-Ups - Final Round Match-Ups - N. Echavarria vs D. McCarthy - Final Round Match-Ups,Nico Echavarria,-0.01100000000000001,0.5238,0.5348
 2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.011099999999999999,0.1,0.1111
 2025-01-12 18:34:57.886251,Round Match-Ups - Final Round Match-Ups - E. Cole vs S. Jaeger - Final Round Match-Ups,Stephan Jaeger,-0.0116,0.4762,0.4878
 2025-01-12 12:49:19.723366,Scores - Final Round Score - Nick Taylor - Final Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-01-12 15:28:11.468674,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Gary Woodland,-0.012199999999999989,0.5,0.5122
-2025-01-12 18:34:57.858420,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Paul Peterson,-0.012199999999999989,0.4878,0.5
-2025-01-12 15:28:11.472770,Round Match-Ups - Final Round Match-Ups - K. Bradley vs M. McNealy - Final Round Match-Ups,Keegan Bradley,-0.012199999999999989,0.5,0.5122
-2025-01-12 15:28:11.460365,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Paul Peterson,-0.012199999999999989,0.5,0.5122
 2025-01-12 18:34:57.870448,Round Match-Ups - Final Round Match-Ups - K. Bradley vs M. McNealy - Final Round Match-Ups,Keegan Bradley,-0.012199999999999989,0.4878,0.5
+2025-01-12 15:28:11.472770,Round Match-Ups - Final Round Match-Ups - K. Bradley vs M. McNealy - Final Round Match-Ups,Keegan Bradley,-0.012199999999999989,0.5,0.5122
+2025-01-12 18:34:57.858420,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Paul Peterson,-0.012199999999999989,0.4878,0.5
 2025-01-12 18:34:57.866484,Round Match-Ups - Final Round Match-Ups - L. Glover vs G. Woodland - Final Round Match-Ups,Gary Woodland,-0.012199999999999989,0.4878,0.5
+2025-01-12 15:28:11.460365,Round Match-Ups - Final Round Match-Ups - P. Peterson vs K. Hirata - Final Round Match-Ups,Paul Peterson,-0.012199999999999989,0.5,0.5122
 2025-01-12 11:25:15.898159,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Jared Goff (DET),-0.012899999999999995,0.1538,0.1667
 2025-01-12 15:28:11.385410,Sony Open - 2/3 Balls - Final Round 3-Balls - R. Gerard / G. Woodland / R. Henley - Final Round 3-Balls,Gary Woodland,-0.013600000000000001,0.2941,0.3077
 2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Werder Bremen,-0.013999999999999999,0.0769,0.0909
 2025-01-12 16:33:14.111025,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Combined Player Stats Specials,"Terrel Bernard, Brandon Jones, Zack Baun , Nakobe Dean, Lavonte David and Bobby Wagner 63+ Combined Tackles & Assists",-0.014099999999999994,0.0526,0.0667
-2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Evan Mobley (CLE),-0.015100000000000002,0.1667,0.1818
+2025-01-12 21:27:00.237646,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Steven Nelson,-0.015000000000000013,0.2667,0.2817
 2025-01-12 15:28:11.259992,Boxing Lines - Andy Cruz vs Omar Salcido Gamez - To Win the Bout,Omar Salcido Gamez,-0.015100000000000002,0.1667,0.1818
-2025-01-12 08:32:24.039427,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.015400000000000025,0.3846,0.4
-2025-01-12 08:32:23.326123,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.016600000000000004,0.0667,0.0833
 2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.016699999999999993,0.25,0.2667
-2025-01-12 10:32:11.408792,Sony Open - 2/3 Balls - Final Round 3-Balls - L. Hodges / L. Glover / M. McNealy - Final Round 3-Balls,Lee Hodges,-0.017299999999999982,0.2857,0.303
 2025-01-12 14:29:33.130132,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Steven Nelson,-0.017299999999999982,0.2857,0.303
+2025-01-12 10:32:11.408792,Sony Open - 2/3 Balls - Final Round 3-Balls - L. Hodges / L. Glover / M. McNealy - Final Round 3-Balls,Lee Hodges,-0.017299999999999982,0.2857,0.303
 2025-01-12 16:33:14.111025,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Combined Player Stats Specials,"Terrel Bernard, Brandon Jones, Zack Baun , Nakobe Dean, Lavonte David and Bobby Wagner 54+ Combined Tackles & Assists",-0.017600000000000005,0.3333,0.3509
 2025-01-12 10:32:09.786951,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.018099999999999998,0.0588,0.0769
 2025-01-12 15:28:11.456242,Round Match-Ups - Final Round Match-Ups - N. Dunlap vs M. Kuchar - Final Round Match-Ups,Matt Kuchar,-0.018100000000000005,0.5652,0.5833
 2025-01-12 10:32:10.009482,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.018900000000000028,0.4255,0.4444
-2025-01-12 10:32:10.035011,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.019000000000000017,0.2667,0.2857
 2025-01-12 10:32:11.330244,Sony Open - 2/3 Balls - Final Round 3-Balls - T. Hoge / M. McCarty / V. Norrman - Final Round 3-Balls,Vincent Norrman,-0.019000000000000017,0.2667,0.2857
+2025-01-12 10:32:10.035011,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.019000000000000017,0.2667,0.2857
 2025-01-12 10:32:09.834545,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.020100000000000007,0.2299,0.25
 2025-01-12 10:32:11.367625,Sony Open - 2/3 Balls - Final Round 3-Balls - J. Suber / M. Meissner / A. Schenk - Final Round 3-Balls,Jackson Suber,-0.020799999999999985,0.3125,0.3333
 2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.021999999999999964,0.2857,0.3077
@@ -105,8 +90,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 15:28:11.393609,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Cristobal Del Solar,-0.02250000000000002,0.2632,0.2857
 2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.02310000000000001,0.0769,0.1
 2025-01-12 16:33:14.111025,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Combined Player Stats Specials,"Terrel Bernard, Brandon Jones, Zack Baun , Nakobe Dean, Lavonte David and Bobby Wagner 48+ Combined Tackles & Assists",-0.023799999999999932,0.6429,0.6667
-2025-01-12 15:28:11.393609,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Ben Kohles,-0.023799999999999988,0.3333,0.3571
 2025-01-12 10:32:09.803797,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.023799999999999988,0.4762,0.5
+2025-01-12 15:28:11.393609,Sony Open - 2/3 Balls - Final Round 3-Balls - B. Kohles / B. Silverman / C. Del Solar - Final Round 3-Balls,Ben Kohles,-0.023799999999999988,0.3333,0.3571
 2025-01-12 17:28:31.523672,Scores - Final Round Score - Nick Taylor - Final Round Score,Over 68.5,-0.024399999999999977,0.4878,0.5122
 2025-01-12 16:33:14.111025,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Combined Player Stats Specials,"Terrel Bernard, Brandon Jones, Zack Baun , Nakobe Dean, Lavonte David and Bobby Wagner 60+ Combined Tackles & Assists",-0.024999999999999994,0.1,0.125
 2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,-0.02779999999999999,0.2222,0.25
@@ -115,15 +100,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 10:32:10.057073,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,-0.03210000000000002,0.9091,0.9412
 2025-01-12 10:32:09.800801,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,-0.03370000000000001,0.3509,0.3846
 2025-01-12 16:33:14.111025,Wildcard Weekend - Wildcard Weekend- Sunday Specials - Combined Player Stats Specials,"Terrel Bernard, Brandon Jones, Zack Baun , Nakobe Dean, Lavonte David and Bobby Wagner 51+ Combined Tackles & Assists",-0.035999999999999976,0.4762,0.5122
-2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.03889999999999999,0.1429,0.1818
 2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.043200000000000016,0.3077,0.3509
 2025-01-12 13:29:31.032948,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Diego Pacheco,-0.04479999999999995,0.7647,0.8095
 2025-01-12 17:28:31.480208,Round Match-Ups - Final Round Match-Ups - E. Cole vs S. Jaeger - Final Round Match-Ups,Stephan Jaeger,-0.04700000000000004,0.4878,0.5348
 2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.04910000000000003,0.6,0.6491
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.055800000000000016,0.2299,0.2857
-2025-01-12 08:32:23.326123,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Lecce,-0.058300000000000005,0.0667,0.125
 2025-01-12 10:32:09.784016,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.06600000000000006,0.8571,0.9231
-2025-01-12 08:32:23.326123,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,-0.06620000000000001,0.0588,0.125
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.06670000000000004,0.3333,0.4
 2025-01-12 19:24:13.016044,NFL Specials - Will Mike Tomlin be thre Head Coach of the Pittsburgh Steelers for Week 1 of the 2025 Season - Proposition,No,-0.07239999999999996,0.2353,0.3077
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.11430000000000001,0.2857,0.4

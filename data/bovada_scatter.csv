@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-01-12 09:27:51.944068,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Louis,0.13419999999999999,0.1538,0.0196
 2025-01-12 08:32:23.326123,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.09099999999999997,0.5455,0.4545
 2025-01-12 06:36:31.844976,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.08340000000000003,0.4167,0.3333
 2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.08330000000000001,0.25,0.1667
@@ -8,6 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 06:36:31.853325,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,0.06319999999999998,0.2632,0.2
 2025-01-12 07:26:09.031384,Super Bowl LIX - Super Bowl 59 -  Winner,Baltimore Ravens,0.061200000000000004,0.2105,0.1493
 2025-01-12 06:36:31.408213,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.05710000000000001,0.2,0.1429
+2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,0.05559999999999998,0.5556,0.5
+2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,0.050000000000000044,0.8,0.75
 2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.04999999999999999,0.25,0.2
 2025-01-12 06:36:31.839902,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,0.0494,0.3571,0.3077
 2025-01-12 07:26:08.789645,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.04260000000000003,0.4348,0.3922
@@ -19,11 +22,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 06:36:31.839902,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.03489999999999999,0.5,0.4651
 2025-01-12 05:30:52.077826,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.033300000000000024,0.2,0.1667
 2025-01-12 06:36:31.861570,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.03330000000000001,0.1,0.0667
-2025-01-12 02:04:57.713573,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.033299999999999996,0.9,0.8667
 2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.033299999999999996,0.8333,0.8
+2025-01-12 02:04:57.713573,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.033299999999999996,0.9,0.8667
 2025-01-12 06:36:31.421175,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.03210000000000002,0.9412,0.9091
-2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.030299999999999994,0.3636,0.3333
 2025-01-12 05:30:53.295828,Sony Open - 2/3 Balls - Final Round 3-Balls - L. Hodges / L. Glover / M. McNealy - Final Round 3-Balls,Lucas Glover,0.030299999999999994,0.3333,0.303
+2025-01-12 08:32:23.323400,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.030299999999999994,0.3636,0.3333
 2025-01-12 07:26:09.036239,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Houston Texans,0.029199999999999997,0.0625,0.0333
 2025-01-12 08:32:23.320688,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.025599999999999956,0.6,0.5744
 2025-01-12 05:30:53.271797,Sony Open - 2/3 Balls - Final Round 3-Balls - K. Hirata / N. Dunlap / M. Kuchar - Final Round 3-Balls,Matt Kuchar,0.024500000000000022,0.4167,0.3922
@@ -34,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 06:36:31.853325,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.022199999999999998,0.1333,0.1111
 2025-01-12 06:36:31.421175,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.021999999999999964,0.3077,0.2857
 2025-01-12 05:30:52.085808,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.020299999999999985,0.9615,0.9412
+2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.02020000000000001,0.1111,0.0909
 2025-01-12 05:30:52.077826,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.020100000000000007,0.25,0.2299
 2025-01-12 04:33:03.974231,National League - English National League 2024/25 - English National League Winner,Barnet,0.020100000000000007,0.25,0.2299
 2025-01-12 05:30:52.077826,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.019099999999999992,0.0667,0.0476
@@ -52,31 +56,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 06:36:31.408213,League Two - England League Two 2024/25 - Top Goalscorer,Jamille Matt,0.014099999999999998,0.0385,0.0244
 2025-01-12 06:36:31.835270,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.013999999999999999,0.0909,0.0769
 2025-01-12 06:36:31.839902,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Florida,0.01319999999999999,0.2632,0.25
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.0131,0.9655,0.9524
 2025-01-12 05:30:52.071655,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.0131,0.2353,0.2222
+2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.0131,0.9655,0.9524
 2025-01-12 05:30:53.165390,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Steven Nelson,0.012799999999999978,0.2597,0.2469
 2025-01-12 02:04:58.884935,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.012700000000000045,0.6491,0.6364
 2025-01-12 04:33:03.974231,National League - English National League 2024/25 - English National League Winner,York City,0.012699999999999989,0.3636,0.3509
 2025-01-12 08:32:24.042797,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),0.012299999999999991,0.1176,0.1053
 2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.012299999999999978,0.3571,0.3448
 2025-01-12 05:30:52.065430,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,0.012199999999999989,0.5,0.4878
-2025-01-11 21:26:36.365394,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Steed Woodall,0.011700000000000016,0.2222,0.2105
 2025-01-12 06:36:31.421175,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.011700000000000016,0.2222,0.2105
 2025-01-12 05:30:52.085808,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,0.011700000000000016,0.2222,0.2105
 2025-01-12 07:26:08.761453,Western Conference - Western Conference 2024-25 - Western Conference Winner,Sacramento Kings,0.011200000000000002,0.0244,0.0132
-2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.011199999999999995,0.0588,0.0476
 2025-01-12 02:04:57.828324,FA Cup - England FA Cup 2024/25 - Outright,Brighton & Hove Albion,0.011199999999999995,0.0588,0.0476
+2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.011199999999999995,0.0588,0.0476
 2025-01-12 06:36:31.844976,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Davidson,0.010700000000000001,0.0385,0.0278
 2025-01-12 02:04:57.837603,League One - England League One 2024/25 - Winner,Wrexham,0.0102,0.0769,0.0667
 2025-01-12 07:26:09.031384,Super Bowl LIX - Super Bowl 59 -  Winner,Tampa Bay Buccaneers,0.010199999999999994,0.0435,0.0333
 2025-01-12 02:04:57.709186,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.010099999999999998,0.5556,0.5455
 2025-01-12 07:26:08.761453,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.010099999999999998,0.4545,0.4444
+2025-01-12 09:27:51.304094,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.0102,0.0667,0.0769
 2025-01-12 02:04:57.828324,FA Cup - England FA Cup 2024/25 - Outright,Aston Villa,-0.0102,0.0667,0.0769
 2025-01-12 06:36:31.839902,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.010299999999999976,0.2564,0.2667
 2025-01-12 07:26:09.031384,Super Bowl LIX - Super Bowl 59 -  Winner,Buffalo Bills,-0.010899999999999993,0.1429,0.1538
-2025-01-11 21:26:36.365394,Boxing Lines - Callum Simpson vs Steed Woodall - To Win the Bout,Callum Simpson,-0.01090000000000002,0.8462,0.8571
-2025-01-12 06:36:31.869718,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.011099999999999999,0.1,0.1111
+2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.011099999999999999,0.1,0.1111
 2025-01-12 05:30:53.295828,Sony Open - 2/3 Balls - Final Round 3-Balls - L. Hodges / L. Glover / M. McNealy - Final Round 3-Balls,Maverick McNealy,-0.011099999999999999,0.4651,0.4762
+2025-01-12 06:36:31.869718,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.011099999999999999,0.1,0.1111
 2025-01-12 04:33:03.923205,League Two - England League Two 2024/25 - Winner,Crewe Alexandra,-0.011199999999999995,0.0323,0.0435
 2025-01-12 03:40:55.543386,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,-0.011199999999999995,0.0476,0.0588
 2025-01-12 02:04:57.718009,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.011700000000000016,0.2105,0.2222
@@ -87,8 +91,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 06:36:31.844976,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Loyola Chicago,-0.014400000000000003,0.0179,0.0323
 2025-01-12 06:36:31.865633,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Indiana State,-0.0145,0.0099,0.0244
 2025-01-12 05:30:52.071655,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,-0.01469999999999999,0.2353,0.25
-2025-01-12 02:04:57.713573,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.015100000000000002,0.1667,0.1818
 2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Evan Mobley (CLE),-0.015100000000000002,0.1667,0.1818
+2025-01-12 02:04:57.713573,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.015100000000000002,0.1667,0.1818
 2025-01-12 08:32:24.039427,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.015400000000000025,0.3846,0.4
 2025-01-12 05:30:53.271797,Sony Open - 2/3 Balls - Final Round 3-Balls - K. Hirata / N. Dunlap / M. Kuchar - Final Round 3-Balls,Nick Dunlap,-0.015400000000000025,0.3846,0.4
 2025-01-12 07:26:09.031384,Super Bowl LIX - Super Bowl 59 -  Winner,Los Angeles Rams,-0.0156,0.0244,0.04
@@ -104,17 +108,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-12 02:04:57.709186,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.020799999999999985,0.3125,0.3333
 2025-01-12 06:36:31.853325,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),UCLA,-0.021400000000000002,0.05,0.0714
 2025-01-12 06:36:31.839902,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.021699999999999997,0.4545,0.4762
+2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.021999999999999964,0.2857,0.3077
 2025-01-12 06:36:31.853325,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Ohio State,-0.022099999999999998,0.0057,0.0278
 2025-01-12 05:30:52.088912,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,-0.02260000000000001,0.3774,0.4
+2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.02310000000000001,0.0769,0.1
 2025-01-12 07:26:09.036239,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.0232,0.2667,0.2899
 2025-01-12 06:36:31.849164,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Pittsburgh,-0.0257,0.0066,0.0323
 2025-01-12 07:26:08.784940,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.026800000000000046,0.6875,0.7143
+2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,-0.02779999999999999,0.2222,0.25
 2025-01-12 06:36:31.849164,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,-0.027800000000000005,0.0833,0.1111
 2025-01-12 06:36:31.857502,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.03489999999999999,0.4651,0.5
 2025-01-12 08:32:24.036020,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.03889999999999999,0.1429,0.1818
 2025-01-12 06:36:31.857502,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,-0.0409,0.0179,0.0588
+2025-01-12 09:27:51.320994,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.043200000000000016,0.3077,0.3509
 2025-01-12 05:30:53.328847,Round Match-Ups - Final Round Match-Ups - N. Dunlap vs M. Kuchar - Final Round Match-Ups,Nick Dunlap,-0.047099999999999975,0.4651,0.5122
 2025-01-12 06:36:31.865633,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Bradley,-0.048099999999999976,0.3774,0.4255
+2025-01-12 09:27:51.323932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.04910000000000003,0.6,0.6491
 2025-01-12 05:30:52.077826,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,-0.05070000000000002,0.4255,0.4762
 2025-01-12 06:36:31.865633,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,-0.053100000000000036,0.3636,0.4167
 2025-01-12 08:32:23.328840,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.055800000000000016,0.2299,0.2857

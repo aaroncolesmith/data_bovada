@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 08:36:47.458798,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Chaz Lanier (Tennessee),0.08330000000000001,0.1111,0.0278
 2025-01-13 08:36:47.468391,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.08329999999999999,0.5,0.4167
 2025-01-13 06:40:22.255055,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Philadelphia Eagles,0.0826,0.339,0.2564
+2025-01-13 17:31:32.735572,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,0.07239999999999999,0.125,0.0526
 2025-01-13 12:54:56.821964,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2025,0.07239999999999996,0.3077,0.2353
 2025-01-13 12:54:56.849085,UK Party Leaders - Next Reform Leader After Nigel Farage - Next Reform Leader,Rupert Lowe,0.06860000000000002,0.2353,0.1667
 2025-01-13 08:36:47.449784,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,0.06620000000000001,0.125,0.0588
@@ -19,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 08:36:47.449784,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,0.05710000000000001,0.2,0.1429
 2025-01-13 12:54:56.715962,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Elon Musk Coat Colour - Elon Musk Coat Colour,Black,0.05709999999999993,0.8571,0.8
 2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Wes Streeting,0.05679999999999999,0.1818,0.125
-2025-01-13 12:54:56.732965,Inauguration Of Donald Trump - Trump Inauguration Address: Number Of Words - No Of Words,Over 2500,0.055900000000000005,0.3636,0.3077
 2025-01-13 12:54:56.698832,Inauguration Of Donald Trump - Trump Inauguration Ceremony: To Attend - To Attend,Volodymyr Zelensky,0.055900000000000005,0.3636,0.3077
+2025-01-13 12:54:56.732965,Inauguration Of Donald Trump - Trump Inauguration Address: Number Of Words - No Of Words,Over 2500,0.055900000000000005,0.3636,0.3077
 2025-01-13 08:36:47.449784,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Florida,0.05559999999999998,0.1667,0.1111
 2025-01-13 12:54:56.391954,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Josh O'Connor,0.05559999999999998,0.5556,0.5
 2025-01-13 08:36:47.437553,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Ohio,0.05409999999999998,0.3571,0.303
@@ -40,9 +41,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 07:28:57.527060,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.04139999999999999,0.4762,0.4348
 2025-01-13 12:54:56.737385,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Elon Musk,0.0378,0.4545,0.4167
 2025-01-13 08:36:47.408008,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.03570000000000001,0.2857,0.25
-2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Xander Schauffele,0.03420000000000001,0.1111,0.0769
 2025-01-13 12:54:56.698832,Inauguration Of Donald Trump - Trump Inauguration Ceremony: To Attend - To Attend,Nancy Pelosi,0.03420000000000001,0.9231,0.8889
+2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Xander Schauffele,0.03420000000000001,0.1111,0.0769
 2025-01-13 08:36:47.421214,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.033399999999999985,0.1667,0.1333
+2025-01-13 17:31:32.735572,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.033399999999999985,0.1667,0.1333
 2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,0.033300000000000024,0.2,0.1667
 2025-01-13 12:54:56.698832,Inauguration Of Donald Trump - Trump Inauguration Ceremony: To Attend - To Attend,Javier Milei,0.033299999999999996,0.8333,0.8
 2025-01-13 12:54:56.849085,UK Party Leaders - Next Reform Leader After Nigel Farage - Next Reform Leader,Priti Patel,0.032400000000000005,0.0476,0.0152
@@ -50,9 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stephen Ames,0.0306,0.0385,0.0079
 2025-01-13 08:36:47.468391,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.029600000000000015,0.4,0.3704
 2025-01-13 11:26:18.406283,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.029000000000000026,0.4545,0.4255
-2025-01-13 07:28:57.517680,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.028799999999999992,0.1538,0.125
 2025-01-13 15:32:19.947313,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,0.028799999999999992,0.1538,0.125
 2025-01-13 16:38:13.260834,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Augsburg,0.028799999999999992,0.1538,0.125
+2025-01-13 07:28:57.517680,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,0.028799999999999992,0.1538,0.125
 2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Jalen Hurts (PHI),0.028399999999999995,0.0909,0.0625
 2025-01-13 06:40:22.255055,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Minnesota Vikings,0.027999999999999997,0.1429,0.1149
 2025-01-13 06:40:22.250301,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,0.02739999999999998,0.2941,0.2667
@@ -71,11 +73,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Max Greyserman,0.021900000000000003,0.0244,0.0025
 2025-01-13 06:40:22.245629,Super Bowl LIX - Super Bowl 59 -  Winner,Washington Commanders,0.021799999999999996,0.0435,0.0217
 2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Josh Allen (BUF),0.02049999999999999,0.1538,0.1333
-2025-01-13 16:38:13.254699,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.02020000000000001,0.1111,0.0909
 2025-01-13 08:36:47.425327,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Kansas,0.02020000000000001,0.1111,0.0909
+2025-01-13 16:38:13.254699,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.02020000000000001,0.1111,0.0909
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Justin Thomas,0.019099999999999992,0.0667,0.0476
-2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Darren Clarke,0.0189,0.0217,0.0028
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Nick Dunlap,0.0189,0.0217,0.0028
+2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Darren Clarke,0.0189,0.0217,0.0028
 2025-01-13 16:38:13.263867,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.01880000000000004,0.5744,0.5556
 2025-01-13 08:36:47.486522,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Tyrese Maxey (PHI),0.018800000000000004,0.0714,0.0526
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Thongchai Jaidee,0.0186,0.0196,0.001
@@ -84,8 +86,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Rod Pampling,0.017599999999999998,0.0179,0.0003
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Nico Echavarria,0.0171,0.0196,0.0025
 2025-01-13 11:26:18.440650,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.016799999999999926,0.9259,0.9091
-2025-01-13 09:31:40.184247,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,0.016699999999999993,0.2667,0.25
 2025-01-13 16:38:13.263867,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,0.016699999999999993,0.2667,0.25
+2025-01-13 09:31:40.184247,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,0.016699999999999993,0.2667,0.25
 2025-01-13 12:54:56.703069,Inauguration Of Donald Trump - Trump Inauguration: Will Bitcoin close lower or higher than the previous day? - Bitcoin Special,Higher,0.016699999999999937,0.6,0.5833
 2025-01-13 08:36:47.453838,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.015899999999999997,0.1111,0.0952
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Sam Burns,0.015300000000000001,0.0476,0.0323
@@ -95,23 +97,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 12:54:56.711681,Inauguration Of Donald Trump - Trump Inauguration Address: Will Trump use a curse word? - Trump To Curse,Yes,0.014899999999999997,0.0625,0.0476
 2025-01-13 16:38:14.711614,TGL - Team Matchups - Los Angeles vs Jupiter Links - Team Matchups,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),0.014800000000000035,0.6226,0.6078
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Mark Hensby,0.0147,0.0152,0.0005
-2025-01-13 12:54:56.720224,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Joe Rogan Coat Specials - Joe Rogan Coat Specials,To wear a full length fur coat,0.014399999999999996,0.0769,0.0625
-2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Bridget Phillipson,0.014399999999999996,0.0769,0.0625
 2025-01-13 08:36:47.421214,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.014399999999999996,0.0769,0.0625
+2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Bridget Phillipson,0.014399999999999996,0.0769,0.0625
 2025-01-13 06:40:22.245629,Super Bowl LIX - Super Bowl 59 -  Winner,Minnesota Vikings,0.014399999999999996,0.0769,0.0625
+2025-01-13 12:54:56.720224,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Joe Rogan Coat Specials - Joe Rogan Coat Specials,To wear a full length fur coat,0.014399999999999996,0.0769,0.0625
 2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Jayden Daniels (WAS),0.014099999999999998,0.0385,0.0244
-2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Saquon Barkley (PHI),0.014099999999999994,0.0667,0.0526
-2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ernie Els,0.014099999999999994,0.0667,0.0526
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Sungjae Im,0.014099999999999994,0.0667,0.0526
-2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Angela Rayner,0.013999999999999999,0.0909,0.0769
+2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ernie Els,0.014099999999999994,0.0667,0.0526
+2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Saquon Barkley (PHI),0.014099999999999994,0.0667,0.0526
 2025-01-13 12:54:57.212177,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.013999999999999999,0.0909,0.0769
+2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Angela Rayner,0.013999999999999999,0.0909,0.0769
 2025-01-13 14:33:49.999705,Dubai Desert Classic - Dubai Desert Classic - Winner,Johannes Veerman,0.0139,0.0179,0.004
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ken Duke,0.013600000000000001,0.0164,0.0028
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Flesch,0.0136,0.0141,0.0005
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Mike Weir,0.0134,0.0141,0.0007
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Paul Broadhurst,0.0134,0.0141,0.0007
-2025-01-13 07:28:57.494075,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.012899999999999995,0.1667,0.1538
 2025-01-13 08:36:47.437553,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Miami Ohio,0.012899999999999995,0.1667,0.1538
+2025-01-13 07:28:57.494075,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.012899999999999995,0.1667,0.1538
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Davis Thompson,0.012100000000000001,0.0244,0.0123
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Will Zalatoris,0.0118,0.0217,0.0099
 2025-01-13 08:36:47.421214,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,0.011700000000000016,0.2222,0.2105
@@ -121,15 +123,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 15:32:20.006777,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Chivas Guadalajara,0.011199999999999995,0.0588,0.0476
 2025-01-13 15:32:19.941220,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,0.011199999999999995,0.0588,0.0476
 2025-01-13 08:36:47.408008,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,0.011099999999999999,0.1111,0.1
-2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.011099999999999999,0.0667,0.0556
 2025-01-13 15:32:20.006777,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.011099999999999999,0.1111,0.1
+2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.011099999999999999,0.0667,0.0556
 2025-01-13 12:54:56.760639,Political Specials - Will Greenland become a US state in 2025? - Greenland US State?,Yes,0.010899999999999993,0.1538,0.1429
-2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,0.010700000000000001,0.0385,0.0278
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Tony Finau,0.010700000000000001,0.0385,0.0278
+2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,0.010700000000000001,0.0385,0.0278
 2025-01-13 10:36:01.396176,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.010699999999999932,0.5455,0.5348
 2025-01-13 08:36:47.408008,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,0.010599999999999998,0.4651,0.4545
-2025-01-13 08:36:47.403524,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.0102,0.0769,0.0667
 2025-01-13 15:32:20.006777,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Pumas UNAM,0.0102,0.0769,0.0667
+2025-01-13 08:36:47.403524,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.0102,0.0769,0.0667
 2025-01-13 13:33:50.580342,The American Express - The American Express - Winner,Sungjae Im,0.0102,0.0769,0.0667
 2025-01-13 12:54:56.984176,Regular Season Wins - Baltimore Orioles Wins - 2025 Regular Season - Regular Season Wins,Over 89.5,0.010099999999999998,0.5556,0.5455
 2025-01-13 12:54:57.399483,TGL - Team Matchups - Los Angeles vs Jupiter Links - Team Matchups,Jupiter Links (TKim/Woods/Homas/Kisner),0.010099999999999998,0.4545,0.4444
@@ -141,42 +143,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 14:33:49.420965,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.011099999999999999,0.2667,0.2778
 2025-01-13 12:54:56.938643,To Make The Playoffs - San Francisco Giants To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.011099999999999999,0.7222,0.7333
 2025-01-13 08:36:47.449784,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Mississippi State,-0.011199999999999995,0.0323,0.0435
-2025-01-13 12:54:56.984176,Regular Season Wins - Baltimore Orioles Wins - 2025 Regular Season - Regular Season Wins,Under 89.5,-0.011600000000000055,0.5122,0.5238
 2025-01-13 08:36:47.486522,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.011600000000000055,0.5122,0.5238
+2025-01-13 12:54:56.984176,Regular Season Wins - Baltimore Orioles Wins - 2025 Regular Season - Regular Season Wins,Under 89.5,-0.011600000000000055,0.5122,0.5238
+2025-01-13 17:31:32.735572,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Western Kentucky,-0.011900000000000008,0.0833,0.0952
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Eric Cole,-0.012700000000000003,0.0196,0.0323
 2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tijuana,-0.012899999999999995,0.1538,0.1667
-2025-01-13 06:40:22.245629,Super Bowl LIX - Super Bowl 59 -  Winner,Kansas City Chiefs,-0.0131,0.2222,0.2353
 2025-01-13 07:28:57.757874,NFL Awards & League Leaders - Super Bowl 59 MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Amon-Ra St. Brown (DET),-0.0131,0.0345,0.0476
+2025-01-13 06:40:22.245629,Super Bowl LIX - Super Bowl 59 -  Winner,Kansas City Chiefs,-0.0131,0.2222,0.2353
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Chris Kirk,-0.0138,0.0079,0.0217
 2025-01-13 12:54:56.821964,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2029 or later,-0.013800000000000034,0.3636,0.3774
-2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Bertie Ahern,-0.013899999999999996,0.1111,0.125
 2025-01-13 07:28:57.527060,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.013899999999999996,0.1111,0.125
+2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Bertie Ahern,-0.013899999999999996,0.1111,0.125
 2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Leo Varadkar,-0.013999999999999999,0.0769,0.0909
 2025-01-13 12:54:56.391954,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Callum Turner,-0.013999999999999999,0.0769,0.0909
 2025-01-13 12:54:56.760639,Political Specials - Will Greenland become a US state in 2025? - Greenland US State?,No,-0.014000000000000012,0.9091,0.9231
 2025-01-13 08:36:47.486522,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.014099999999999994,0.0526,0.0667
-2025-01-13 15:32:19.947313,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Toulouse,-0.014099999999999998,0.0244,0.0385
 2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Ivana Bacik,-0.014099999999999998,0.0244,0.0385
+2025-01-13 15:32:19.947313,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Toulouse,-0.014099999999999998,0.0244,0.0385
 2025-01-13 08:36:47.500532,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.01419999999999999,0.3704,0.3846
-2025-01-13 12:54:56.707428,Inauguration Of Donald Trump - Trump Inauguration Address: Donald Trump's Tie Colour - Trump Tie Colour,Yellow,-0.014399999999999996,0.0625,0.0769
-2025-01-13 12:54:56.715962,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Elon Musk Coat Colour - Elon Musk Coat Colour,Brown,-0.014399999999999996,0.0625,0.0769
 2025-01-13 12:54:56.844607,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Lisa Nandy,-0.014399999999999996,0.0625,0.0769
+2025-01-13 12:54:56.715962,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Elon Musk Coat Colour - Elon Musk Coat Colour,Brown,-0.014399999999999996,0.0625,0.0769
+2025-01-13 12:54:56.707428,Inauguration Of Donald Trump - Trump Inauguration Address: Donald Trump's Tie Colour - Trump Tie Colour,Yellow,-0.014399999999999996,0.0625,0.0769
 2025-01-13 08:36:47.497054,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Victor Wembanyama (SAS),-0.014899999999999997,0.0476,0.0625
 2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Enda Kenny,-0.015300000000000001,0.0323,0.0476
 2025-01-13 14:33:49.999705,Dubai Desert Classic - Dubai Desert Classic - Winner,Ryan Fox,-0.015499999999999998,0.0123,0.0278
-2025-01-13 09:31:40.184247,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Josh Shapiro,-0.016700000000000007,0.0833,0.1
 2025-01-13 09:31:40.184247,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Gavin Newsom,-0.016700000000000007,0.0833,0.1
+2025-01-13 09:31:40.184247,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Josh Shapiro,-0.016700000000000007,0.0833,0.1
 2025-01-13 14:33:49.999705,Dubai Desert Classic - Dubai Desert Classic - Winner,Yannik Paul,-0.0177,0.004,0.0217
 2025-01-13 08:36:47.497054,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.0179,0.125,0.1429
-2025-01-13 12:54:56.751330,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2026,-0.0179,0.125,0.1429
 2025-01-13 12:54:56.751330,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,-0.0179,0.125,0.1429
 2025-01-13 12:54:56.751330,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2028,-0.0179,0.125,0.1429
+2025-01-13 12:54:56.751330,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2026,-0.0179,0.125,0.1429
 2025-01-13 16:38:13.254699,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,-0.017900000000000027,0.8571,0.875
 2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Atlético San Luis,-0.01820000000000002,0.1818,0.2
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,J.T. Poston,-0.0189,0.0196,0.0385
 2025-01-13 15:32:20.003291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,-0.018900000000000028,0.4255,0.4444
-2025-01-13 12:54:56.732965,Inauguration Of Donald Trump - Trump Inauguration Address: Number Of Words - No Of Words,1501 to 2000,-0.019000000000000017,0.2667,0.2857
 2025-01-13 12:54:56.732965,Inauguration Of Donald Trump - Trump Inauguration Address: Number Of Words - No Of Words,2001 to 2500,-0.019000000000000017,0.2667,0.2857
+2025-01-13 12:54:56.732965,Inauguration Of Donald Trump - Trump Inauguration Address: Number Of Words - No Of Words,1501 to 2000,-0.019000000000000017,0.2667,0.2857
 2025-01-13 08:36:47.449784,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Texas A&M,-0.019099999999999992,0.0476,0.0667
 2025-01-13 10:36:01.603009,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,David Toms,-0.020000000000000004,0.0123,0.0323
 2025-01-13 12:54:56.391954,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,-0.02020000000000001,0.0909,0.1111
@@ -188,8 +191,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-13 07:28:57.503587,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.02310000000000001,0.9,0.9231
 2025-01-13 11:26:19.061715,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Ruairi Quinn,-0.023200000000000002,0.0244,0.0476
 2025-01-13 12:54:56.698832,Inauguration Of Donald Trump - Trump Inauguration Ceremony: To Attend - To Attend,Xi Jinping,-0.023200000000000002,0.0244,0.0476
-2025-01-13 12:54:56.391954,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,-0.023799999999999988,0.1429,0.1667
 2025-01-13 16:38:13.263867,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,-0.023799999999999988,0.4762,0.5
+2025-01-13 12:54:56.391954,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,-0.023799999999999988,0.1429,0.1667
 2025-01-13 12:54:56.715962,Inauguration Of Donald Trump - Trump Inauguration Ceremony: Elon Musk Coat Colour - Elon Musk Coat Colour,Blue,-0.023799999999999988,0.1429,0.1667
 2025-01-13 06:40:22.255055,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,-0.0242,0.0667,0.0909
 2025-01-13 11:26:19.628613,The American Express - The American Express - Winner,Patrick Cantlay,-0.0245,0.0588,0.0833

@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-14 14:31:46.755218,"Daily Soccer Specials - Team to Score Most Goals - Tuesday, 14th January - Team to Score Most Goals - Tuesday, 14th January",Celtic,0.04620000000000002,0.2,0.1538
 2025-01-14 16:35:18.322634,NFL Specials - Where will Mike McCarthy Be Head Coach for Week 1 of the 2025 Season - Proposition,Chicago Bears,0.04290000000000005,0.4,0.3571
 2025-01-14 12:50:51.563545,Cut Lines - Brian Harman - Make Cut / Miss Cut - Brian Harman,Make,0.03710000000000002,0.6923,0.6552
-2025-01-14 10:33:41.632768,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.03570000000000001,0.2857,0.25
 2025-01-14 14:31:47.054596,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,0.03570000000000001,0.2857,0.25
 2025-01-14 14:31:46.755218,"Daily Soccer Specials - Team to Score Most Goals - Tuesday, 14th January - Team to Score Most Goals - Tuesday, 14th January",Chelsea,0.0343,0.1176,0.0833
 2025-01-14 18:36:17.968399,Cut Lines (54 Holes) - Adam Hadwin - Make Cut / Miss Cut - Adam Hadwin,Miss,0.028600000000000014,0.3922,0.3636
@@ -34,23 +33,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-14 16:35:17.331467,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.013899999999999996,0.125,0.1111
 2025-01-14 17:29:52.790561,TGL - Team Matchups - Los Angeles vs Jupiter Links - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),0.013799999999999923,0.6364,0.6226
 2025-01-14 14:31:47.088621,WNBL - Australia WNBL 2024/25 - Outright,Canberra Capitals (W),0.013,0.0196,0.0066
-2025-01-14 11:25:48.420148,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stewart Cink,0.012899999999999995,0.1667,0.1538
 2025-01-14 19:24:11.387935,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,0.011199999999999995,0.0588,0.0476
 2025-01-14 16:35:18.820934,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Dalton Smith,0.011199999999999988,0.9524,0.9412
 2025-01-14 15:30:04.925771,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Amen Thompson (HOU),0.011099999999999999,0.1111,0.1
 2025-01-14 21:27:38.635914,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Diego Pacheco,0.011099999999999999,0.7937,0.7826
-2025-01-14 11:25:48.383895,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,0.011099999999999999,0.9,0.8889
 2025-01-14 15:30:05.690799,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs P. Fishburn - Tournament Match-Up,J.T. Poston,0.01100000000000001,0.5348,0.5238
 2025-01-14 15:30:05.690799,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs P. Fishburn - Tournament Match-Up,Patrick Fishburn,-0.010699999999999932,0.5348,0.5455
 2025-01-14 12:50:51.397233,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,-0.011099999999999999,0.8889,0.9
 2025-01-14 14:31:47.054596,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Barcelona,-0.011199999999999995,0.0476,0.0588
+2025-01-14 23:27:09.508760,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stewart Cink,-0.012899999999999995,0.1538,0.1667
+2025-01-14 23:27:09.508760,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Stricker,-0.0131,0.2222,0.2353
 2025-01-14 16:35:19.112850,TGL - Team Matchups - Los Angeles vs Jupiter Links - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.013799999999999923,0.6226,0.6364
-2025-01-14 11:25:48.420148,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Stricker,-0.01469999999999999,0.2353,0.25
 2025-01-14 13:30:58.718257,The American Express - The American Express - Winner,Taylor Montgomery,-0.0156,0.004,0.0196
 2025-01-14 18:36:17.994311,Cut Lines (54 Holes) - Tom Hoge - Make Cut / Miss Cut - Tom Hoge,Make,-0.01759999999999995,0.6491,0.6667
 2025-01-14 16:35:18.820934,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Walid Ouizza,-0.01759999999999999,0.1,0.1176
 2025-01-14 18:36:17.902305,Cut Lines (54 Holes) - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Make,-0.017900000000000027,0.8571,0.875
 2025-01-14 18:36:17.906588,Cut Lines (54 Holes) - Patrick Cantlay - Make Cut / Miss Cut - Patrick Cantlay,Make,-0.017900000000000027,0.8571,0.875
+2025-01-14 23:27:09.508760,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Alker,-0.01820000000000002,0.1818,0.2
 2025-01-14 14:31:46.755218,"Daily Soccer Specials - Team to Score Most Goals - Tuesday, 14th January - Team to Score Most Goals - Tuesday, 14th January",Ajax,-0.0189,0.0196,0.0385
 2025-01-14 17:29:52.790561,TGL - Team Matchups - Los Angeles vs Jupiter Links - Winner,Jupiter Links (TKim/Woods/Homa/Kisner),-0.018900000000000028,0.4255,0.4444
 2025-01-14 18:36:17.964069,Cut Lines (54 Holes) - Nick Dunlap - Make Cut / Miss Cut - Nick Dunlap,Make,-0.018999999999999906,0.7143,0.7333
@@ -58,7 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-14 14:31:47.982368,Tournament Match-Ups - Tournament Match-Up - S. Burns vs T. Finau - Tournament Match-Up,Sam Burns,-0.023699999999999943,0.5917,0.6154
 2025-01-14 18:36:17.910884,Cut Lines (54 Holes) - Sam Burns - Make Cut / Miss Cut - Sam Burns,Make,-0.023799999999999932,0.8333,0.8571
 2025-01-14 12:50:51.576527,Cut Lines - Sepp Straka - Make Cut / Miss Cut - Sepp Straka,Make,-0.025600000000000067,0.6667,0.6923
-2025-01-14 11:25:48.486759,Dubai Desert Classic - Dubai Desert Classic - Winner,Jon Rahm,-0.027999999999999997,0.1538,0.1818
 2025-01-14 14:31:47.054596,Euroleague - Euroleague 2024/25 - Regular Season League Winner,AS Monaco,-0.028799999999999992,0.125,0.1538
 2025-01-14 14:31:47.088621,WNBL - Australia WNBL 2024/25 - Outright,Sydney Uni Flames (W),-0.029299999999999993,0.0476,0.0769
 2025-01-14 14:31:47.088621,WNBL - Australia WNBL 2024/25 - Outright,Adelaide Lightning (W),-0.033,0.0196,0.0526

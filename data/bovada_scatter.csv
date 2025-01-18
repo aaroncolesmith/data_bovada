@@ -1,9 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 10:31:41.594631,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.1704,0.3704,0.2
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Alex Cejka,0.16319999999999998,0.2632,0.1
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ernie Els,0.1528,0.2778,0.125
 2025-01-18 09:27:15.537260,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.1491,0.7143,0.5652
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Bernhard Langer,0.11510000000000001,0.1429,0.0278
 2025-01-18 09:27:15.015489,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.11109999999999998,0.3333,0.2222
 2025-01-18 09:27:16.663702,The American Express - 2/3 Balls - 3rd Round 2-Balls - J. Lower / B. Kohles - 3rd Round 2-Balls ,Justin Lower,0.11069999999999997,0.5455,0.4348
 2025-01-18 09:27:15.478201,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.09740000000000004,0.6429,0.5455
@@ -22,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 10:31:40.523729,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,0.052000000000000046,0.9091,0.8571
 2025-01-18 08:30:58.034553,BKFC Fight Night: Pechanga - Fernando Gonzalez vs Erick Lozano - To Win the Bout,Fernando Gonzalez,0.051100000000000034,0.6875,0.6364
 2025-01-18 09:27:15.015489,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.04999999999999999,0.25,0.2
-2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,0.047599999999999976,0.3333,0.2857
 2025-01-18 09:27:15.510637,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,0.047599999999999976,0.3333,0.2857
+2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,0.047599999999999976,0.3333,0.2857
 2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,York City,0.045499999999999985,0.5455,0.5
 2025-01-18 13:28:01.147306,Boxing Lines - Harry Scarff vs Conah Walker - To Win the Bout,Harry Scarff,0.04259999999999997,0.6078,0.5652
 2025-01-18 10:31:41.360868,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),0.0417,0.125,0.0833
@@ -32,7 +29,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 13:28:01.515188,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. McGreevy / H. Buckley - 3rd Round 2-Balls ,Hayden Buckley,0.03620000000000001,0.4444,0.4082
 2025-01-18 08:30:57.666426,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,No,0.035999999999999976,0.5122,0.4762
 2025-01-18 09:27:15.502630,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Miami Ohio,0.03570000000000001,0.2857,0.25
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Justin Leonard,0.03439999999999999,0.0667,0.0323
 2025-01-18 10:31:40.818362,National League - English National League 2024/25 - English National League Winner,York City,0.03370000000000001,0.3846,0.3509
 2025-01-18 09:27:15.468852,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.033300000000000024,0.2,0.1667
 2025-01-18 10:31:40.570977,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.033299999999999996,0.1333,0.1
@@ -40,111 +36,102 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.031799999999999995,0.1429,0.1111
 2025-01-18 10:31:40.794863,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.031799999999999995,0.1429,0.1111
 2025-01-18 09:27:15.025115,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.031799999999999995,0.4762,0.4444
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Rod Pampling,0.0309,0.0526,0.0217
 2025-01-18 13:28:01.467190,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Greyserman / K. Streelman - 3rd Round 2-Balls,Max Greyserman,0.030299999999999994,0.6667,0.6364
 2025-01-18 07:25:58.304889,The American Express - 2/3 Balls - 3rd Round 2-Balls - B. Harman / S. Straka - 3rd Round 2-Balls ,Sepp Straka,0.028900000000000037,0.5744,0.5455
-2025-01-18 09:27:15.473260,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Florida,0.02779999999999999,0.25,0.2222
 2025-01-18 09:27:15.473260,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.02779999999999999,0.25,0.2222
 2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.02779999999999999,0.25,0.2222
+2025-01-18 09:27:15.473260,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Florida,0.02779999999999999,0.25,0.2222
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Hank Lebioda,0.026600000000000002,0.0323,0.0057
 2025-01-18 16:32:14.745024,Round Match-Ups - 3rd Round Match-Ups - T. Montgomery vs A. Putnam - 3rd Round Match-Ups,Andrew Putnam,0.026499999999999968,0.5917,0.5652
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Austin Smotherman,0.0262,0.0385,0.0123
 2025-01-18 09:27:15.527525,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Eric Dixon (Villanova),0.0253,0.0385,0.0132
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Flesch,0.0244,0.0323,0.0079
 2025-01-18 09:27:15.486416,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.0242,0.0909,0.0667
-2025-01-18 06:34:48.134021,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Tony Finau,0.023800000000000043,0.5238,0.5
-2025-01-18 08:30:58.270269,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Finau / W. Zalatoris - 3rd Round 2-Balls,Tony Finau,0.023800000000000043,0.5238,0.5
 2025-01-18 09:27:15.473260,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,0.023800000000000043,0.5238,0.5
-2025-01-18 15:27:23.588684,78th BAFTAs - BAFTA: Best Actor - Best Actor,Adrien Brody - The Brutalist,0.023799999999999988,0.5,0.4762
+2025-01-18 08:30:58.270269,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Finau / W. Zalatoris - 3rd Round 2-Balls,Tony Finau,0.023800000000000043,0.5238,0.5
 2025-01-18 09:27:15.486416,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,0.023799999999999988,0.3571,0.3333
+2025-01-18 15:27:23.588684,78th BAFTAs - BAFTA: Best Actor - Best Actor,Adrien Brody - The Brutalist,0.023799999999999988,0.5,0.4762
 2025-01-18 15:27:25.649930,Scores - 3rd Round Scores - Nick Taylor - 3rd Round Scores,Under 68.5,0.022600000000000064,0.6226,0.6
 2025-01-18 09:27:15.022050,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.02260000000000001,0.4,0.3774
-2025-01-18 09:27:15.486416,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.022199999999999998,0.2222,0.2
 2025-01-18 09:27:15.025115,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,0.022199999999999998,0.2222,0.2
+2025-01-18 09:27:15.486416,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.022199999999999998,0.2222,0.2
 2025-01-18 08:30:58.054749,BKFC Fight Night: Pechanga - Rodney Thomas vs Art Driscoll - To Win the Bout,Rodney Thomas (IND),0.022199999999999998,0.8,0.7778
-2025-01-18 09:27:14.949264,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.022199999999999998,0.2222,0.2
 2025-01-18 18:33:35.697745,BKFC Fight Night: Pechanga - Mike Andaya vs Dan Godoy - To Win the Bout,Mike Andaya,0.022199999999999998,0.6774,0.6552
+2025-01-18 09:27:14.949264,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.022199999999999998,0.2222,0.2
 2025-01-18 09:27:15.028259,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,0.021999999999999964,0.3077,0.2857
 2025-01-18 18:33:35.595537,Boxing Lines - Harry Scarff vs Conah Walker - To Win the Bout,Conah Walker,0.021699999999999997,0.4762,0.4545
 2025-01-18 10:31:41.350502,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.02169999999999994,0.5455,0.5238
-2025-01-18 09:27:15.533125,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.020799999999999985,0.3333,0.3125
 2025-01-18 09:27:15.522658,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.020799999999999985,0.3333,0.3125
+2025-01-18 09:27:15.533125,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.020799999999999985,0.3333,0.3125
 2025-01-18 15:27:25.637074,Scores - 3rd Round Scores - Justin Thomas - 3rd Round Scores,Under 68.5,0.02079999999999993,0.5556,0.5348
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Emilio Gonzalez,0.0204,0.0217,0.0013
-2025-01-18 10:31:40.533993,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,0.02020000000000001,0.1111,0.0909
 2025-01-18 09:27:15.468852,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.02020000000000001,0.1111,0.0909
+2025-01-18 10:31:40.533993,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,0.02020000000000001,0.1111,0.0909
 2025-01-18 12:47:13.518696,Round Match-Ups - 3rd Round Match-Ups - T. Montgomery vs A. Putnam - 3rd Round Match-Ups,Andrew Putnam,0.01970000000000005,0.5652,0.5455
 2025-01-18 10:31:42.120476,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.019499999999999962,0.6491,0.6296
 2025-01-18 08:30:57.934193,Boxing Lines - Darren Till vs Anthony Taylor - To Win the Bout,Darren Till,0.018999999999999906,0.7333,0.7143
-2025-01-18 09:27:15.468852,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.01820000000000002,0.2,0.1818
-2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),UTEP,0.01820000000000002,0.2,0.1818
 2025-01-18 09:27:14.942890,Championship - England Championship 2024/25 - Winner,Sheffield United,0.01820000000000002,0.2,0.1818
 2025-01-18 09:27:15.533125,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),0.01820000000000002,0.2,0.1818
+2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),UTEP,0.01820000000000002,0.2,0.1818
 2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Atlético San Luis,0.01820000000000002,0.2,0.1818
+2025-01-18 09:27:15.468852,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.01820000000000002,0.2,0.1818
 2025-01-18 09:27:15.015489,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,0.015100000000000002,0.1818,0.1667
 2025-01-18 09:27:14.872435,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.014099999999999998,0.0385,0.0244
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Brett Quigley,0.014099999999999998,0.0385,0.0244
 2025-01-18 10:31:40.777541,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,0.014099999999999994,0.0667,0.0526
 2025-01-18 09:27:15.494442,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.013999999999999999,0.0909,0.0769
-2025-01-18 10:31:40.634708,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.013899999999999996,0.125,0.1111
 2025-01-18 09:27:14.952329,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.013899999999999996,0.125,0.1111
+2025-01-18 10:31:40.634708,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.013899999999999996,0.125,0.1111
 2025-01-18 09:27:14.857895,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.012700000000000045,0.6491,0.6364
 2025-01-18 15:27:23.592841,78th BAFTAs - BAFTA: Best Actress - Best Actress,Demi Moore - The Substance,0.012199999999999989,0.5,0.4878
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ken Tanigawa,0.012100000000000001,0.0244,0.0123
+2025-01-18 09:27:14.942890,Championship - England Championship 2024/25 - Winner,Burnley,0.011700000000000016,0.2222,0.2105
 2025-01-18 09:27:14.952329,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.011700000000000016,0.2222,0.2105
 2025-01-18 09:27:15.494442,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,0.011700000000000016,0.2222,0.2105
-2025-01-18 09:27:14.942890,Championship - England Championship 2024/25 - Winner,Burnley,0.011700000000000016,0.2222,0.2105
 2025-01-18 09:27:16.538137,The American Express - 2/3 Balls - 3rd Round 2-Balls - L. Glover vs E. Van Rooyen - 3rd Round 2-Balls,Erik Van Rooyen,0.0116,0.4878,0.4762
 2025-01-18 09:27:15.015489,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,0.011199999999999995,0.0588,0.0476
-2025-01-18 09:27:15.028259,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.011199999999999988,0.9524,0.9412
 2025-01-18 09:27:14.961492,Championship - England Championship 2024/25 - Top 6 Finish,Sunderland,0.011199999999999988,0.9524,0.9412
+2025-01-18 09:27:15.028259,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.011199999999999988,0.9524,0.9412
 2025-01-18 09:27:15.498599,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Western Kentucky,0.011099999999999999,0.1111,0.1
 2025-01-18 08:30:57.706524,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Regular Season Wins,Over 82.5,0.01100000000000001,0.5348,0.5238
 2025-01-18 09:27:16.764850,Round Match-Ups - 3rd Round Match-Ups - T. Montgomery vs A. Putnam - 3rd Round Match-Ups,Andrew Putnam,0.010699999999999932,0.5455,0.5348
 2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.0102,0.0769,0.0667
-2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,Barnet,0.010099999999999998,0.4545,0.4444
 2025-01-18 09:27:14.952329,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.010099999999999998,0.5556,0.5455
+2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,Barnet,0.010099999999999998,0.4545,0.4444
 2025-01-18 09:27:15.031372,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.010099999999999998,0.4444,0.4545
 2025-01-18 12:47:12.111787,Euroleague - Euroleague 2024/25 - Outright,Anadolu Efes,-0.010100000000000001,0.0244,0.0345
+2025-01-18 10:31:40.782461,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.0102,0.0667,0.0769
 2025-01-18 09:27:15.025115,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,-0.0102,0.0667,0.0769
 2025-01-18 10:31:41.350502,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Anthony Edwards (MIN),-0.0102,0.0667,0.0769
-2025-01-18 10:31:40.782461,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.0102,0.0667,0.0769
 2025-01-18 08:30:57.706524,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Regular Season Wins,Under 82.5,-0.010699999999999932,0.5348,0.5455
 2025-01-18 17:27:15.909809,Boxing Lines - Darren Till vs Anthony Taylor - To Win the Bout,Anthony Taylor,-0.010699999999999987,0.3226,0.3333
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Cody Gribble,-0.0107,0.0025,0.0132
-2025-01-18 10:31:40.818362,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.010899999999999993,0.1429,0.1538
 2025-01-18 09:27:15.478201,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,-0.010899999999999993,0.1429,0.1538
+2025-01-18 10:31:40.818362,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.010899999999999993,0.1429,0.1538
 2025-01-18 18:33:35.578790,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,-0.011099999999999999,0.1,0.1111
 2025-01-18 10:31:40.634708,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Chivas Guadalajara,-0.011199999999999995,0.0476,0.0588
 2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,Solihull Moors,-0.011199999999999995,0.0476,0.0588
 2025-01-18 09:27:16.764850,Round Match-Ups - 3rd Round Match-Ups - T. Montgomery vs A. Putnam - 3rd Round Match-Ups,Taylor Montgomery,-0.012199999999999989,0.5,0.5122
 2025-01-18 09:27:16.538137,The American Express - 2/3 Balls - 3rd Round 2-Balls - L. Glover vs E. Van Rooyen - 3rd Round 2-Balls,Lucas Glover,-0.012199999999999989,0.4878,0.5
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Doug Barron,-0.0124,0.0028,0.0152
 2025-01-18 09:27:14.961492,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.012700000000000045,0.6364,0.6491
 2025-01-18 09:27:15.028259,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.0131,0.2222,0.2353
 2025-01-18 10:31:40.570977,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,-0.014099999999999998,0.0244,0.0385
 2025-01-18 18:33:34.606010,NFL Divisional Weekend - Divisional Round Specials -  Specials & Requests,"D.Henry, S.Barkley & J.Gibbs 125+ Rushing Yards Each",-0.014099999999999998,0.0244,0.0385
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Fred Couples,-0.0143,0.0036,0.0179
 2025-01-18 15:27:23.588684,78th BAFTAs - BAFTA: Best Actor - Best Actor,Timothee Chalamet - A Complete Unknown,-0.01469999999999999,0.2353,0.25
 2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Pumas UNAM,-0.014900000000000024,0.3077,0.3226
-2025-01-18 10:31:40.777541,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.015100000000000002,0.1667,0.1818
 2025-01-18 09:27:14.857895,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.015100000000000002,0.1667,0.1818
-2025-01-18 10:31:40.543801,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.015400000000000025,0.3846,0.4
+2025-01-18 10:31:40.777541,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.015100000000000002,0.1667,0.1818
 2025-01-18 11:23:05.390914,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),-0.015400000000000025,0.3846,0.4
+2025-01-18 10:31:40.543801,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.015400000000000025,0.3846,0.4
 2025-01-18 18:33:35.595537,Boxing Lines - Harry Scarff vs Conah Walker - To Win the Bout,Harry Scarff,-0.016100000000000003,0.5917,0.6078
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Tano Goya,-0.0165,0.0079,0.0244
 2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.016699999999999993,0.25,0.2667
 2025-01-18 10:31:41.360868,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Jalen Johnson (ATL),-0.016700000000000007,0.0833,0.1
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Joe Durant,-0.0168,0.0028,0.0196
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Tim O'Neal,-0.0168,0.011,0.0278
 2025-01-18 10:31:40.523729,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,-0.017600000000000005,0.3333,0.3509
 2025-01-18 08:30:57.934193,Boxing Lines - Darren Till vs Anthony Taylor - To Win the Bout,Anthony Taylor,-0.017600000000000005,0.3333,0.3509
 2025-01-18 10:31:42.120476,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,-0.018100000000000005,0.4167,0.4348
 2025-01-18 09:27:15.031372,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.018200000000000004,0.0294,0.0476
-2025-01-18 09:27:14.952329,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.01820000000000002,0.1818,0.2
 2025-01-18 09:27:15.022050,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.01820000000000002,0.1818,0.2
-2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.018900000000000028,0.4255,0.4444
+2025-01-18 09:27:14.952329,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.01820000000000002,0.1818,0.2
 2025-01-18 09:27:14.949264,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.018900000000000028,0.4255,0.4444
+2025-01-18 10:31:40.631041,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.018900000000000028,0.4255,0.4444
 2025-01-18 08:30:58.054749,BKFC Fight Night: Pechanga - Rodney Thomas vs Art Driscoll - To Win the Bout,Art Driscoll,-0.019000000000000017,0.2667,0.2857
 2025-01-18 13:28:01.515188,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. McGreevy / H. Buckley - 3rd Round 2-Balls ,Max Greyserman,-0.01970000000000005,0.5455,0.5652
 2025-01-18 08:30:57.901842,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.01999999999999999,0.1905,0.2105
@@ -152,7 +139,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 10:31:40.782461,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.02020000000000001,0.0909,0.1111
 2025-01-18 15:27:25.649930,Scores - 3rd Round Scores - Nick Taylor - 3rd Round Scores,Over 68.5,-0.020699999999999996,0.4444,0.4651
 2025-01-18 15:27:23.588684,78th BAFTAs - BAFTA: Best Actor - Best Actor,Ralph Fiennes - Conclave,-0.02100000000000002,0.3636,0.3846
-2025-01-18 06:34:48.134021,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Sam Burns,-0.02169999999999994,0.5238,0.5455
 2025-01-18 08:30:58.270269,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Finau / W. Zalatoris - 3rd Round 2-Balls,Will Zalatoris,-0.021699999999999997,0.4545,0.4762
 2025-01-18 15:27:23.592841,78th BAFTAs - BAFTA: Best Actress - Best Actress,Marianne Jean-Baptiste - Hard Truths,-0.021999999999999964,0.2857,0.3077
 2025-01-18 15:27:25.637074,Scores - 3rd Round Scores - Justin Thomas - 3rd Round Scores,Over 68.5,-0.022600000000000064,0.5122,0.5348
@@ -180,12 +166,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 09:27:15.022050,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,-0.03640000000000004,0.3636,0.4
 2025-01-18 13:28:01.467190,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Greyserman / K. Streelman - 3rd Round 2-Balls,Kevin Streelman,-0.03710000000000002,0.3077,0.3448
 2025-01-18 09:27:15.537260,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Paige Bueckers (UConn),-0.03889999999999999,0.1429,0.1818
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Stricker,-0.0389,0.0278,0.0667
 2025-01-18 10:31:40.570977,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.04099999999999998,0.2667,0.3077
 2025-01-18 10:31:41.360868,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.04139999999999999,0.5238,0.5652
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stewart Cink,-0.04190000000000001,0.0057,0.0476
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Ryan Blaum,-0.042600000000000006,0.005,0.0476
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Harrison Frazar,-0.044800000000000006,0.0028,0.0476
 2025-01-18 13:28:01.147306,Boxing Lines - Harry Scarff vs Conah Walker - To Win the Bout,Conah Walker,-0.045499999999999985,0.4545,0.5
 2025-01-18 09:27:15.025115,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.04620000000000002,0.1538,0.2
 2025-01-18 10:31:40.543801,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.047599999999999976,0.2857,0.3333
@@ -193,14 +176,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-18 10:31:40.573995,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),-0.048100000000000004,0.0769,0.125
 2025-01-18 10:31:40.821973,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.04849999999999999,0.1333,0.1818
 2025-01-18 12:47:12.111787,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.04999999999999999,0.2,0.25
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stephen Ames,-0.058300000000000005,0.0667,0.125
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Vijay Singh,-0.059,0.0179,0.0769
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Kyle Westmoreland,-0.0628,0.0141,0.0769
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Trevor Werbylo,-0.0642,0.0025,0.0667
 2025-01-18 09:27:15.510637,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Boise State,-0.0708,0.0625,0.1333
 2025-01-18 15:27:25.310690,The American Express - 2/3 Balls - 3rd Round 2-Balls - D. Riley / N. Hardy - 3rd Round 2-Balls,Nick Hardy,-0.07140000000000002,0.6429,0.7143
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Miguel Angel Jimenez,-0.0857,0.0476,0.1333
-2025-01-18 06:34:48.217587,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ricardo Gonzalez,-0.09960000000000001,0.0057,0.1053
 2025-01-18 09:27:16.663702,The American Express - 2/3 Balls - 3rd Round 2-Balls - J. Lower / B. Kohles - 3rd Round 2-Balls ,Ben Kohles,-0.11069999999999997,0.4348,0.5455
 2025-01-18 12:47:13.655420,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Ross Steelman,-0.1515,0.0152,0.1667
 2025-01-18 10:31:41.594631,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,-0.1975,0.6875,0.885

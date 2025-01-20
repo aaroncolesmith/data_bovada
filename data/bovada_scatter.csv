@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-01-20 06:37:45.588852,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Darius Garland (CLE),0.29879999999999995,0.3333,0.0345
 2025-01-20 07:27:27.920926,Super Bowl LIX - Super Bowl 59 - Super Bowl Match Up,Kansas City Chiefs vs Philadelphia Eagles,0.2922,0.3922,0.1
 2025-01-20 07:27:27.920926,Super Bowl LIX - Super Bowl 59 - Super Bowl Match Up,Buffalo Bills vs Philadelphia Eagles,0.28669999999999995,0.3636,0.0769
 2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Crypto/Bitcoin,0.22229999999999994,0.6667,0.4444
@@ -31,7 +30,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 14:32:01.053744,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Buy American and hire American,0.06670000000000004,0.4,0.3333
 2025-01-20 07:27:27.917487,Super Bowl LIX - Super Bowl 59 - Super Bowl Exact Result,Washington Commanders to beat Kansas City Chiefs,0.0659,0.0769,0.011
 2025-01-20 16:35:03.854369,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Martin Luther King,0.06519999999999992,0.6,0.5348
-2025-01-20 06:37:45.605946,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),0.0642,0.1818,0.1176
 2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.061999999999999944,0.6364,0.5744
 2025-01-20 10:34:30.259445,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.06190000000000001,0.4255,0.3636
 2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Illegal Immigrant/Immigration,0.057699999999999974,0.75,0.6923
@@ -39,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 18:35:21.734481,Political Specials - Will Greenland become a US state in 2025? - Greenland US State?,No,0.056400000000000006,0.9231,0.8667
 2025-01-20 07:27:27.958648,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Trey Hendrickson (CIN),0.05639999999999999,0.0909,0.0345
 2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.05590000000000006,0.6923,0.6364
-2025-01-20 06:37:45.421959,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.05559999999999998,0.5,0.4444
 2025-01-20 07:27:27.917487,Super Bowl LIX - Super Bowl 59 - Super Bowl Exact Result,Washington Commanders to beat Buffalo Bills,0.054599999999999996,0.0625,0.0079
 2025-01-20 09:30:30.299736,Inauguration Of Donald Trump - Trump Inauguration Address: How many times will Trump mention crowd size? - No Of Crowd Size Mentions,1 or 2,0.053100000000000036,0.4167,0.3636
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Tom McKibbin,0.0522,0.0526,0.0004
@@ -50,7 +47,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 10:34:30.205739,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.04849999999999999,0.1818,0.1333
 2025-01-20 10:34:31.063067,Political Specials - Will Elon Musk buy TikTok before July 2025? - Will Musk Buy TikTok?,Yes,0.048100000000000004,0.125,0.0769
 2025-01-20 09:30:29.794784,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),0.04760000000000003,0.5238,0.4762
-2025-01-20 06:37:45.605946,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.047599999999999976,0.3333,0.2857
 2025-01-20 12:52:22.971195,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.047599999999999976,0.3333,0.2857
 2025-01-20 09:30:29.791660,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.0475,0.0769,0.0294
 2025-01-20 10:34:31.067428,Political Specials - Will Greenland become a US state in 2025? - Greenland US State?,Yes,0.04620000000000002,0.2,0.1538
@@ -65,27 +61,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Martin Luther King,0.03480000000000005,0.5348,0.5
 2025-01-20 16:35:03.717073,WNBL - Australia WNBL 2024/25 - Outright,Bendigo Spirit (W),0.03480000000000005,0.5348,0.5
 2025-01-20 10:34:30.259445,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.03420000000000001,0.1111,0.0769
-2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Elon Musk,0.033299999999999996,0.8333,0.8
 2025-01-20 16:35:03.712307,BNXT League - BNXT League 2024/25 - Outright,BC Oostende,0.033299999999999996,0.8333,0.8
 2025-01-20 09:30:29.757762,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.033299999999999996,0.8333,0.8
+2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Elon Musk,0.033299999999999996,0.8333,0.8
 2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Los Angeles Dodgers,0.03219999999999998,0.2703,0.2381
 2025-01-20 09:30:29.521997,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,0.03210000000000002,0.9412,0.9091
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Julien Guerrier,0.031900000000000005,0.0323,0.0004
 2025-01-20 08:34:51.730216,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.03180000000000005,0.8889,0.8571
 2025-01-20 13:32:15.603007,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,White/Cream,0.031799999999999995,0.4762,0.4444
 2025-01-20 18:35:22.860970,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.030399999999999983,0.5652,0.5348
-2025-01-20 09:30:29.542010,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.030299999999999994,0.3636,0.3333
 2025-01-20 09:30:29.545275,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.030299999999999994,0.3636,0.3333
-2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.030299999999999994,0.3636,0.3333
-2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Fake news,0.030299999999999994,0.3636,0.3333
 2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Get the job done,0.030299999999999994,0.3636,0.3333
+2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Fake news,0.030299999999999994,0.3636,0.3333
+2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.030299999999999994,0.3636,0.3333
+2025-01-20 09:30:29.542010,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.030299999999999994,0.3636,0.3333
 2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,0.029000000000000026,0.4545,0.4255
 2025-01-20 08:34:51.730216,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.028900000000000037,0.5744,0.5455
 2025-01-20 09:30:29.832912,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Phil Foden (Man City),0.0286,0.0385,0.0099
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Maverick McNealy,0.028300000000000002,0.0323,0.004
 2025-01-20 08:34:51.720830,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,0.027999999999999997,0.1818,0.1538
 2025-01-20 09:30:29.531162,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.027800000000000047,0.7778,0.75
-2025-01-20 06:37:45.426641,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.02779999999999999,0.25,0.2222
 2025-01-20 18:35:21.012304,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Dinamo Zagreb,0.02779999999999999,0.25,0.2222
 2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,0.025600000000000067,0.6923,0.6667
 2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Kamala,0.02560000000000001,0.3333,0.3077
@@ -94,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 09:30:29.545275,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.025499999999999967,0.4255,0.4
 2025-01-20 17:29:21.892662,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Walid Ouizza,0.024999999999999994,0.125,0.1
 2025-01-20 08:34:51.730216,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,0.0242,0.9333,0.9091
-2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alex Fitzpatrick,0.024,0.0244,0.0004
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Ewen Ferguson,0.024,0.0244,0.0004
+2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alex Fitzpatrick,0.024,0.0244,0.0004
 2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,White/Cream,0.023799999999999988,0.5,0.4762
 2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.023799999999999932,0.8571,0.8333
 2025-01-20 09:30:29.801614,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kevin de Bruyne,0.0236,0.0385,0.0149
@@ -115,12 +110,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Jordan Smith,0.019099999999999995,0.0435,0.0244
 2025-01-20 08:34:51.736488,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,0.018999999999999906,0.7333,0.7143
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Daniel Hillier,0.0184,0.0217,0.0033
-2025-01-20 10:34:30.498308,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.01820000000000002,0.2,0.1818
 2025-01-20 08:34:51.730216,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,0.01820000000000002,0.2,0.1818
+2025-01-20 10:34:30.498308,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.01820000000000002,0.2,0.1818
 2025-01-20 17:29:21.816724,American League - MLB 2025 American League - MLB 2025 American League Winner,Tampa Bay Rays,0.018099999999999998,0.0526,0.0345
 2025-01-20 08:34:51.717667,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,0.017900000000000027,0.875,0.8571
-2025-01-20 18:35:21.730205,Political Specials - Will Elon Musk buy TikTok before July 2025? - Will Musk Buy TikTok?,Yes,0.0179,0.1429,0.125
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Taylor Pendrith,0.0179,0.0278,0.0099
+2025-01-20 18:35:21.730205,Political Specials - Will Elon Musk buy TikTok before July 2025? - Will Musk Buy TikTok?,Yes,0.0179,0.1429,0.125
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Shane Lowry,0.017100000000000004,0.0323,0.0152
 2025-01-20 09:30:29.548243,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,0.016700000000000007,0.1,0.0833
 2025-01-20 09:30:29.545275,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.016699999999999993,0.2667,0.25
@@ -128,7 +123,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Tottenham Hotspur,0.0156,0.0196,0.004
 2025-01-20 09:30:29.798247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Matz Sels,0.015400000000000025,0.4,0.3846
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Harry Hall,0.015399999999999999,0.0179,0.0025
-2025-01-20 06:37:45.527426,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,0.015100000000000002,0.1818,0.1667
 2025-01-20 10:34:30.319759,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,0.015100000000000002,0.1818,0.1667
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Adrian Otaegui,0.0148,0.0152,0.0004
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Richard Mansell,0.0147,0.0152,0.0005
@@ -138,59 +132,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Francesco Laporta,0.0137,0.0141,0.0004
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Mark Hubbard,0.012899999999999998,0.0179,0.005
 2025-01-20 14:32:02.282989,Farmers Insurance Open - Farmers Insurance Open - Winner,Austin Eckroat,0.012899999999999998,0.0179,0.005
-2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,David Micheluzzi,0.0119,0.0123,0.0004
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Marcus Kinhult,0.0119,0.0123,0.0004
+2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,David Micheluzzi,0.0119,0.0123,0.0004
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Bernd Wiesberger,0.011300000000000001,0.0123,0.001
 2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.011199999999999995,0.0588,0.0476
-2025-01-20 17:29:21.876160,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,0.011099999999999999,0.1111,0.1
-2025-01-20 10:34:30.202954,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.011099999999999999,0.1111,0.1
-2025-01-20 10:34:30.262831,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.011099999999999999,0.1111,0.1
-2025-01-20 10:34:30.441815,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,0.011099999999999999,0.1111,0.1
-2025-01-20 12:52:24.167442,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,0.011099999999999999,0.1111,0.1
-2025-01-20 17:29:21.948168,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,0.011099999999999999,0.1111,0.1
-2025-01-20 10:34:32.166248,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,0.011099999999999999,0.1111,0.1
-2025-01-20 17:29:21.952419,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,0.011099999999999999,0.1111,0.1
-2025-01-20 16:35:04.941129,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,0.011099999999999999,0.9,0.8889
 2025-01-20 09:30:31.372138,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,0.011099999999999999,0.9,0.8889
+2025-01-20 10:34:32.166248,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,0.011099999999999999,0.1111,0.1
+2025-01-20 10:34:30.441815,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,0.011099999999999999,0.1111,0.1
+2025-01-20 10:34:30.202954,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.011099999999999999,0.1111,0.1
 2025-01-20 10:34:32.170321,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,0.011099999999999999,0.1111,0.1
+2025-01-20 17:29:21.952419,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,0.011099999999999999,0.1111,0.1
+2025-01-20 10:34:30.262831,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.011099999999999999,0.1111,0.1
+2025-01-20 16:35:04.941129,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,0.011099999999999999,0.9,0.8889
+2025-01-20 12:52:24.167442,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,0.011099999999999999,0.1111,0.1
+2025-01-20 17:29:21.876160,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,0.011099999999999999,0.1111,0.1
+2025-01-20 17:29:21.948168,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,0.011099999999999999,0.1111,0.1
 2025-01-20 08:34:52.691359,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Kutter Crawford Total Strikeouts,Over 153.5,0.01100000000000001,0.5348,0.5238
 2025-01-20 10:34:32.218166,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Jayden Schaper,0.011,0.0123,0.0013
 2025-01-20 07:27:27.955259,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.010899999999999993,0.1538,0.1429
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Akshay Bhatia,0.010700000000000001,0.0217,0.011
 2025-01-20 08:34:52.590191,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Zac Gallen Total Strikeouts,Over 169.5,0.010699999999999932,0.5455,0.5348
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Mac Meissner,0.0106,0.0123,0.0017
-2025-01-20 06:37:45.412611,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.010599999999999998,0.4651,0.4545
+2025-01-20 09:30:29.752970,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.0102,0.0769,0.0667
 2025-01-20 08:34:51.720830,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Nottingham Forest,0.0102,0.0769,0.0667
 2025-01-20 09:30:29.542010,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.0102,0.0769,0.0667
-2025-01-20 09:30:29.752970,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.0102,0.0769,0.0667
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Will Zalatoris,0.010100000000000001,0.0345,0.0244
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Patrick Fishburn,0.0101,0.0123,0.0022
 2025-01-20 08:34:52.406019,Player Props - New York Mets - 2025 Regular Season Player Props - Francisco Lindor Total Home Runs,Under 28.5,0.010099999999999998,0.5556,0.5455
 2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,-0.010199999999999987,0.9231,0.9333
-2025-01-20 10:34:30.323326,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Pumas UNAM,-0.0102,0.0667,0.0769
-2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Baltimore Orioles,-0.0102,0.0667,0.0769
 2025-01-20 09:30:29.542010,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Romelu Lukaku (Napoli),-0.0102,0.0667,0.0769
+2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Baltimore Orioles,-0.0102,0.0667,0.0769
 2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.0102,0.0667,0.0769
 2025-01-20 09:30:29.752970,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.0102,0.0667,0.0769
+2025-01-20 10:34:30.323326,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Pumas UNAM,-0.0102,0.0667,0.0769
 2025-01-20 08:34:52.691359,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Kutter Crawford Total Strikeouts,Under 153.5,-0.010699999999999932,0.5348,0.5455
 2025-01-20 10:34:30.262831,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,-0.010899999999999993,0.1429,0.1538
 2025-01-20 08:34:52.590191,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Zac Gallen Total Strikeouts,Under 169.5,-0.01100000000000001,0.5238,0.5348
-2025-01-20 16:35:04.888882,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,-0.011099999999999999,0.1,0.1111
-2025-01-20 10:34:32.149601,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,-0.011099999999999999,0.8889,0.9
-2025-01-20 17:29:21.930468,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,-0.011099999999999999,0.8889,0.9
-2025-01-20 09:30:31.388204,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
-2025-01-20 16:35:04.957185,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
-2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Silver/Grey,-0.011099999999999999,0.1,0.1111
-2025-01-20 09:30:31.392045,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,-0.011099999999999999,0.1,0.1111
 2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.011099999999999999,0.8889,0.9
+2025-01-20 16:35:04.888882,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,-0.011099999999999999,0.1,0.1111
+2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Silver/Grey,-0.011099999999999999,0.1,0.1111
+2025-01-20 16:35:04.957185,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
+2025-01-20 10:34:32.149601,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,-0.011099999999999999,0.8889,0.9
+2025-01-20 09:30:31.388204,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
+2025-01-20 09:30:31.392045,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,-0.011099999999999999,0.1,0.1111
 2025-01-20 16:35:04.961215,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Manuel Jaimes,-0.011099999999999999,0.1,0.1111
+2025-01-20 17:29:21.930468,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,-0.011099999999999999,0.8889,0.9
 2025-01-20 09:30:29.524822,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Jonathon Burkardt (Mainz),-0.011199999999999995,0.0476,0.0588
 2025-01-20 08:34:51.720830,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,-0.011199999999999995,0.0476,0.0588
-2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.01150000000000001,0.3333,0.3448
 2025-01-20 16:35:03.717073,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),-0.01150000000000001,0.3333,0.3448
+2025-01-20 08:34:51.714547,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.01150000000000001,0.3333,0.3448
 2025-01-20 08:34:52.406019,Player Props - New York Mets - 2025 Regular Season Player Props - Francisco Lindor Total Home Runs,Over 28.5,-0.011600000000000055,0.5122,0.5238
-2025-01-20 17:29:21.821829,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.012899999999999995,0.1538,0.1667
 2025-01-20 07:27:27.958648,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),-0.012899999999999995,0.1538,0.1667
+2025-01-20 17:29:21.821829,National League - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.012899999999999995,0.1538,0.1667
 2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Pets/Cats/Dogs,-0.013899999999999996,0.1111,0.125
 2025-01-20 09:30:29.514587,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.013899999999999996,0.1111,0.125
 2025-01-20 09:30:29.752970,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.013999999999999999,0.0769,0.0909
@@ -199,22 +192,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Harris English,-0.0145,0.0099,0.0244
 2025-01-20 07:27:27.948451,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),-0.014700000000000046,0.75,0.7647
 2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Yankees,-0.015,0.1026,0.1176
+2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,-0.015100000000000002,0.1667,0.1818
 2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,-0.015100000000000002,0.1667,0.1818
 2025-01-20 17:29:21.821829,National League - MLB 2025 National League  - MLB 2025 National League Winner,Atlanta Braves,-0.015100000000000002,0.1667,0.1818
-2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,-0.015100000000000002,0.1667,0.1818
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Eric Cole,-0.015499999999999998,0.0123,0.0278
 2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Houston Astros,-0.01580000000000001,0.0556,0.0714
 2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,Atlanta Braves,-0.015899999999999997,0.0952,0.1111
 2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Red,-0.016699999999999993,0.25,0.2667
 2025-01-20 17:29:21.842198,World Series Winner - MLB 2025 World Series Winner - MLB 2025 World Series ,New York Mets,-0.016700000000000007,0.0833,0.1
 2025-01-20 15:30:20.106819,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Bible,-0.016700000000000048,0.7333,0.75
-2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Black,-0.0179,0.125,0.1429
 2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.0179,0.125,0.1429
-2025-01-20 10:34:30.498308,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.017900000000000027,0.8571,0.875
+2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Black,-0.0179,0.125,0.1429
 2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,-0.017900000000000027,0.8571,0.875
-2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
-2025-01-20 09:30:29.798247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Andre Onana,-0.018099999999999998,0.0588,0.0769
+2025-01-20 10:34:30.498308,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.017900000000000027,0.8571,0.875
 2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Augsburg,-0.018099999999999998,0.0588,0.0769
+2025-01-20 09:30:29.798247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Andre Onana,-0.018099999999999998,0.0588,0.0769
+2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
 2025-01-20 18:35:21.730205,Political Specials - Will Elon Musk buy TikTok before July 2025? - Will Musk Buy TikTok?,No,-0.018100000000000005,0.9231,0.9412
 2025-01-20 10:34:30.262831,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.018199999999999994,0.8,0.8182
 2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Arsenal,-0.01849999999999996,0.9524,0.9709
@@ -222,32 +215,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 09:30:29.528207,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,-0.019099999999999992,0.0476,0.0667
 2025-01-20 17:29:21.892662,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Dalton Smith,-0.019100000000000006,0.9333,0.9524
 2025-01-20 09:30:29.531162,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.020100000000000007,0.2299,0.25
+2025-01-20 07:27:27.958648,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),-0.020100000000000007,0.8261,0.8462
 2025-01-20 09:30:29.538913,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.020100000000000007,0.2299,0.25
 2025-01-20 08:34:51.720830,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.020100000000000007,0.75,0.7701
-2025-01-20 07:27:27.958648,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Patrick Surtain (DEN),-0.020100000000000007,0.8261,0.8462
 2025-01-20 09:30:29.760954,Serie B - Italy Serie B 2024/25 - To Be Promoted,Juve Stabia,-0.02020000000000001,0.0909,0.1111
 2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.02100000000000002,0.3636,0.3846
 2025-01-20 10:34:30.319759,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Pumas UNAM,-0.021999999999999964,0.2857,0.3077
 2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,-0.02200000000000002,0.6923,0.7143
-2025-01-20 10:34:30.205739,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.022199999999999998,0.7778,0.8
 2025-01-20 09:30:29.551204,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.022199999999999998,0.2,0.2222
+2025-01-20 10:34:30.205739,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),-0.022199999999999998,0.7778,0.8
 2025-01-20 12:52:23.148088,Inauguration Of Donald Trump - Trump Inauguration Viewers - Viewers,34 to 40 million,-0.02260000000000001,0.3774,0.4
 2025-01-20 08:34:52.409410,Player Props - New York Mets - 2025 Regular Season Player Props - Francisco Lindor Total RBIs,Over 89.5,-0.022600000000000064,0.5122,0.5348
-2025-01-20 06:37:45.595724,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Victor Wembanyama (SAS),-0.023799999999999932,0.8333,0.8571
-2025-01-20 09:30:29.760954,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.023799999999999988,0.1429,0.1667
 2025-01-20 14:32:01.058274,Inauguration Of Donald Trump - Evening Inaugural Balls: Melania Trump's Ball Gown Colour - Inaugural Ball Gown Colour,Gold/Brown,-0.023799999999999988,0.1429,0.1667
+2025-01-20 09:30:29.760954,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.023799999999999988,0.1429,0.1667
 2025-01-20 10:34:30.262831,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.023800000000000043,0.5,0.5238
-2025-01-20 06:37:45.605946,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Yves Missi (NO),-0.024,0.0385,0.0625
 2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.024999999999999994,0.1,0.125
 2025-01-20 08:34:51.723969,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,-0.025599999999999956,0.5744,0.6
 2025-01-20 12:52:23.148088,Inauguration Of Donald Trump - Trump Inauguration Viewers - Viewers,28 to 34 million,-0.026500000000000024,0.3509,0.3774
-2025-01-20 06:37:45.602562,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.02679999999999999,0.2857,0.3125
-2025-01-20 06:37:45.426641,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.026800000000000046,0.6875,0.7143
-2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Most popular president in history,-0.02779999999999999,0.2222,0.25
 2025-01-20 12:52:23.148088,Inauguration Of Donald Trump - Trump Inauguration Viewers - Viewers,Under 28 million,-0.02779999999999999,0.2222,0.25
-2025-01-20 15:30:20.272158,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),-0.027800000000000047,0.7222,0.75
+2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Most popular president in history,-0.02779999999999999,0.2222,0.25
 2025-01-20 09:30:29.545275,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,-0.027800000000000047,0.75,0.7778
 2025-01-20 09:30:29.760954,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.027800000000000047,0.75,0.7778
+2025-01-20 15:30:20.272158,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),-0.027800000000000047,0.7222,0.75
 2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Bible,-0.027800000000000047,0.75,0.7778
 2025-01-20 09:30:29.548243,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,-0.028199999999999996,0.0385,0.0667
 2025-01-20 16:35:03.712307,BNXT League - BNXT League 2024/25 - Outright,Limburg United,-0.028399999999999995,0.0625,0.0909
@@ -256,9 +245,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 09:30:30.304265,Inauguration Of Donald Trump - Trump Inauguration Address: To Be Said - To Be Said,Buy American and hire American,-0.030299999999999994,0.3333,0.3636
 2025-01-20 09:30:29.524822,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Patrik Schick (Bayer Leverkusen),-0.0321,0.0588,0.0909
 2025-01-20 08:34:51.727085,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester United,-0.03330000000000001,0.0667,0.1
-2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.033300000000000024,0.1667,0.2
 2025-01-20 08:34:51.736488,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.033300000000000024,0.1667,0.2
 2025-01-20 17:29:21.816724,American League - MLB 2025 American League - MLB 2025 American League Winner,Baltimore Orioles,-0.033300000000000024,0.1667,0.2
+2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.033300000000000024,0.1667,0.2
 2025-01-20 09:30:29.542010,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Ademola Lookman (Atalanta),-0.034100000000000005,0.0909,0.125
 2025-01-20 18:35:22.860970,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.03480000000000005,0.5,0.5348
 2025-01-20 17:29:21.816724,American League - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.036199999999999996,0.1176,0.1538
@@ -273,8 +262,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-20 13:32:16.746255,Farmers Insurance Open - Farmers Insurance Open - Winner,Max Homa,-0.044599999999999994,0.0323,0.0769
 2025-01-20 08:34:51.733314,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.045499999999999985,0.5,0.5455
 2025-01-20 10:34:30.209076,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.04760000000000003,0.4762,0.5238
-2025-01-20 06:37:45.421959,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.04999999999999999,0.2,0.25
-2025-01-20 06:37:45.605946,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),-0.05130000000000001,0.3333,0.3846
 2025-01-20 10:34:30.476408,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,-0.052300000000000006,0.0588,0.1111
 2025-01-20 09:30:29.551204,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.05379999999999999,0.1,0.1538
 2025-01-20 09:30:29.794784,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.05710000000000001,0.1429,0.2

@@ -24,16 +24,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 11:25:31.108768,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Inter Milan,0.06820000000000004,0.8182,0.75
 2025-01-23 11:25:31.111907,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Paris Saint-Germain,0.0635,0.1111,0.0476
 2025-01-23 07:29:07.842839,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.059799999999999964,0.6154,0.5556
+2025-01-23 16:36:08.738523,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - T. Olesen / P. Waring / R. Langasque - 2nd Round 3 Ball,Thorbjorn Olesen,0.05559999999999998,0.5,0.4444
+2025-01-23 16:36:06.861147,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.05550000000000002,0.2222,0.1667
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alexander Bjork,0.0544,0.0667,0.0123
-2025-01-23 06:36:36.336612,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.045499999999999985,0.5455,0.5
-2025-01-23 07:29:09.236206,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Koivun / K. Velo / N. Norgaard - 2nd Round 3 Balls ,Niklas Norgaard,0.045499999999999985,0.5,0.4545
 2025-01-23 12:51:45.170698,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.045499999999999985,0.5,0.4545
+2025-01-23 07:29:09.236206,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Koivun / K. Velo / N. Norgaard - 2nd Round 3 Balls ,Niklas Norgaard,0.045499999999999985,0.5,0.4545
+2025-01-23 06:36:36.336612,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.045499999999999985,0.5455,0.5
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,David Puig,0.044599999999999994,0.0769,0.0323
+2025-01-23 16:36:08.743360,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Walker / T. McKibbin / G. Migliozzi - 2nd Round 3 Ball,Tom McKibbin,0.043399999999999994,0.4878,0.4444
 2025-01-23 10:35:25.265297,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Anderlecht,0.04329999999999999,0.0909,0.0476
 2025-01-23 07:29:09.191418,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Suber / R. Palmer / W. Bryan - 2nd Round 3 Balls ,Wesley Bryan,0.04290000000000005,0.4,0.3571
 2025-01-23 07:29:07.835960,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.04239999999999999,0.0769,0.0345
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Ivan Cantero,0.041,0.0476,0.0066
 2025-01-23 05:31:29.738212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Walker / J. Paul / T. Rosenmueller - 2nd Round 3 Balls ,Danny Walker,0.04099999999999998,0.3636,0.3226
+2025-01-23 16:36:08.705029,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - M. Siem / A. Ayora / F. Lacroix - 2nd Round 3 Ball,Frederic Lacroix,0.04089999999999999,0.4255,0.3846
 2025-01-23 11:25:33.359879,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. McCall / S. Fisk / T. Cone - 2nd Round 3 Balls,Steven Fisk,0.039600000000000024,0.4651,0.4255
 2025-01-23 07:29:09.254212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Skinns / N. Lashley / V. Perez - 2nd Round 3 Balls ,Victor Perez,0.039600000000000024,0.4651,0.4255
 2025-01-23 12:51:45.167663,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.038899999999999935,0.8571,0.8182
@@ -41,15 +45,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 07:29:07.711325,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.037800000000000056,0.5833,0.5455
 2025-01-23 12:51:45.161442,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.03639999999999999,0.6364,0.6
 2025-01-23 11:25:33.233415,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Hideki Matsuyama,0.03489999999999999,0.5,0.4651
-2025-01-23 06:36:36.287615,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.03480000000000005,0.5348,0.5
 2025-01-23 10:35:27.635847,Scores - 2nd Round Scores - Ludvig Aberg - 2nd Round Scores,Under 70.5,0.03480000000000005,0.5348,0.5
-2025-01-23 08:34:09.996746,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.0348,0.4348,0.4
+2025-01-23 06:36:36.287615,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.03480000000000005,0.5348,0.5
 2025-01-23 11:25:33.189784,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - M. Laird / C. Young / J. Bramlett - 2nd Round 3 Balls,Joseph Bramlett,0.0348,0.4348,0.4
 2025-01-23 11:25:33.359879,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. McCall / S. Fisk / T. Cone - 2nd Round 3 Balls,Trevor Cone,0.0348,0.4348,0.4
+2025-01-23 08:34:09.996746,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.0348,0.4348,0.4
 2025-01-23 08:34:09.984779,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Louisville,0.03439999999999999,0.0667,0.0323
 2025-01-23 12:51:45.170698,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.03410000000000002,0.9091,0.875
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Bernd Wiesberger,0.0336,0.0435,0.0099
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alejandro Del Rey,0.0336,0.0435,0.0099
+2025-01-23 16:36:08.714503,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - R. Fox / D. Hillier / J. Smith - 2nd Round 3 Ball,Ryan Fox,0.033299999999999996,0.4255,0.3922
 2025-01-23 11:25:31.099473,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),0.031799999999999995,0.1429,0.1111
 2025-01-23 07:29:07.828893,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),0.031200000000000002,0.0476,0.0164
 2025-01-23 14:32:19.269235,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,0.03090000000000004,0.6226,0.5917
@@ -65,22 +70,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 05:31:29.729410,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Hideki Matsuyama,0.027700000000000002,0.4444,0.4167
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Padraig Harrington,0.0273,0.0323,0.005
 2025-01-23 11:25:31.657047,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Olympiacos,0.02729999999999999,0.8,0.7727
+2025-01-23 16:36:08.714503,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - R. Fox / D. Hillier / J. Smith - 2nd Round 3 Ball,Jordan Smith,0.026500000000000024,0.3774,0.3509
 2025-01-23 12:51:47.477498,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,0.026499999999999968,0.5917,0.5652
-2025-01-23 13:31:52.847498,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - F. Capan lll / K.H. Lee / R. Hisatsune - 2nd Round 3 Balls,K H Lee,0.02560000000000001,0.3333,0.3077
 2025-01-23 10:35:25.515742,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.02560000000000001,0.3333,0.3077
+2025-01-23 13:31:52.847498,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - F. Capan lll / K.H. Lee / R. Hisatsune - 2nd Round 3 Balls,K H Lee,0.02560000000000001,0.3333,0.3077
 2025-01-23 07:29:09.310509,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Ludvig Aberg,0.024399999999999977,0.5122,0.4878
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,De'Aaron Fox (SAC),0.0242,0.0909,0.0667
 2025-01-23 10:35:25.265297,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Lyon,0.0242,0.0909,0.0667
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Sporting CP,0.02400000000000002,0.9615,0.9375
 2025-01-23 15:30:57.340536,Scores - 2nd Round Scores - Luke Clanton - 2nd Round Scores,Over 71.5,0.023800000000000043,0.5238,0.5
+2025-01-23 16:36:08.724078,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Luiten / D. Puig / P. Pineau - 2nd Round 3 Ball ,David Puig,0.023800000000000043,0.5238,0.5
 2025-01-23 05:31:29.938382,Round Match-Ups - 2nd Round Match-Ups - A. Potgieter vs A. Tosti - 2nd Round Match-Ups,Alejandro Tosti,0.023800000000000043,0.5238,0.5
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Jack Senior,0.023799999999999998,0.0278,0.004
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Louis De Jager,0.023799999999999998,0.0278,0.004
 2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.023799999999999988,0.1667,0.1429
 2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.02310000000000001,0.1,0.0769
-2025-01-23 03:32:03.318733,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Ludvig Aberg,0.022699999999999998,0.4878,0.4651
-2025-01-23 06:36:36.283626,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.022600000000000064,0.6226,0.6
 2025-01-23 15:30:57.240240,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs C. Kim - 2nd Round Match-Ups,Thriston Lawrence,0.022600000000000064,0.5348,0.5122
+2025-01-23 06:36:36.283626,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.022600000000000064,0.6226,0.6
 2025-01-23 05:31:29.918527,Round Match-Ups - 2nd Round Match-Ups - A. Novak vs G. Sigg - 2nd Round Match-Ups,Andrew Novak,0.022600000000000064,0.5348,0.5122
 2025-01-23 07:29:09.173921,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - M. Laird / C. Young / J. Bramlett - 2nd Round 3 Balls,Joseph Bramlett,0.02260000000000001,0.4,0.3774
 2025-01-23 06:36:36.312544,BKFC: Knuckle Mania 5 - Cody Russell vs Logan Tucker - To Win the Bout,Logan Tucker,0.022199999999999998,0.2222,0.2
@@ -90,28 +96,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 07:29:09.271392,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Berger / M. Kim / S. Stevens - 2nd Round 3 Balls,Sam Stevens,0.02100000000000002,0.3846,0.3636
 2025-01-23 11:25:31.121672,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,0.020799999999999985,0.3333,0.3125
 2025-01-23 08:34:11.324423,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.02079999999999993,0.5556,0.5348
-2025-01-23 05:31:29.906601,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,0.02079999999999993,0.5556,0.5348
+2025-01-23 16:36:08.660127,Scores - 2nd Round Scores - Ludvig Aberg - 2nd Round Scores,Under 70.5,0.02079999999999993,0.5556,0.5348
 2025-01-23 05:31:29.930426,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs L. Clanton - 2nd Round Match-Ups,Maverick McNealy,0.02079999999999993,0.5556,0.5348
+2025-01-23 05:31:29.906601,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,0.02079999999999993,0.5556,0.5348
 2025-01-23 07:29:09.218083,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Hideki Matsuyama,0.020699999999999996,0.4651,0.4444
+2025-01-23 16:36:08.719092,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Veerman / J. Parry / E. Ferguson - 2nd Round 3 Ball,Ewen Ferguson,0.02030000000000004,0.3774,0.3571
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Club Brugge,0.020199999999999996,0.9091,0.8889
 2025-01-23 11:25:33.194158,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - B. Griffin / R. Hoey / T. Mullinax - 2nd Round 3 Balls ,Ben Griffin,0.019699999999999995,0.4545,0.4348
 2025-01-23 13:31:52.838488,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. Gotterup / F. Molinari / M. Wallace - 2nd Round 3 Balls ,Chris Gotterup,0.019500000000000017,0.3704,0.3509
+2025-01-23 16:36:08.719092,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Veerman / J. Parry / E. Ferguson - 2nd Round 3 Ball,Johannes Veerman,0.018900000000000028,0.4444,0.4255
+2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.01820000000000002,0.2,0.1818
 2025-01-23 12:51:45.100710,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,0.01820000000000002,0.2,0.1818
 2025-01-23 11:25:31.099473,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),0.01820000000000002,0.2,0.1818
-2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.01820000000000002,0.2,0.1818
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),0.0179,0.1429,0.125
 2025-01-23 12:51:47.506141,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs L. Clanton - 2nd Round Match-Ups,Maverick McNealy,0.016699999999999937,0.6,0.5833
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Tyrese Maxey (PHI),0.016600000000000004,0.0833,0.0667
 2025-01-23 08:34:09.975886,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas A&M,0.016600000000000004,0.0833,0.0667
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Shaun Norris,0.0157,0.0435,0.0278
+2025-01-23 16:36:06.861147,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),0.015400000000000025,0.2857,0.2703
 2025-01-23 14:32:17.844808,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.015100000000000002,0.8333,0.8182
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Joe Dean,0.0151,0.0217,0.0066
+2025-01-23 16:36:08.733627,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - A. Hidalgo / P. Harrington / M. Jordan - 2nd Round 3 Ball,Angel Hidalgo,0.014900000000000024,0.3226,0.3077
 2025-01-23 08:34:10.012632,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,0.014899999999999997,0.0625,0.0476
 2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),0.01469999999999999,0.25,0.2353
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Marcus Kinhult,0.0145,0.0244,0.0099
 2025-01-23 06:36:36.263643,Boxing Lines - Abdullah Mason vs Manuel Jaimes - To Win the Bout,Abdullah Mason,0.014100000000000001,0.9615,0.9474
-2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Callum Lang,0.014100000000000001,0.0526,0.0385
 2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Josh Windass,0.014100000000000001,0.0526,0.0385
+2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Callum Lang,0.014100000000000001,0.0526,0.0385
 2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Wilson Isidro,0.014100000000000001,0.0526,0.0385
 2025-01-23 08:34:09.988750,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,0.014099999999999998,0.0385,0.0244
 2025-01-23 10:35:25.265297,UEFA Europa League - UEFA Europa League 2024/25 - League Stage Winner,Manchester United,0.014099999999999998,0.0385,0.0244
@@ -120,19 +131,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Maximilian Kieffer,0.0138,0.0217,0.0079
 2025-01-23 15:30:57.281093,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,0.013799999999999923,0.6364,0.6226
 2025-01-23 10:35:27.145801,Boxing Lines - Jeremiah Milton vs Stanley Wright - To Win the Bout,Stanley Wright,0.01369999999999999,0.241,0.2273
-2025-01-23 11:25:31.661946,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.013300000000000034,0.3704,0.3571
 2025-01-23 13:31:52.820223,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Ghim / T. Montgomery / V. Whaley - 2nd Round 3 Balls,Vince Whaley,0.013300000000000034,0.3704,0.3571
+2025-01-23 11:25:31.661946,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.013300000000000034,0.3704,0.3571
 2025-01-23 12:51:45.161442,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.0131,0.9655,0.9524
+2025-01-23 16:36:08.164002,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Diego Pacheco,0.0131,0.7778,0.7647
 2025-01-23 08:34:11.553172,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Keegan Bradley,0.0131,0.303,0.2899
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Grant Forrest,0.012899999999999998,0.0179,0.005
-2025-01-23 07:29:07.706582,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
 2025-01-23 12:51:45.173801,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.012899999999999995,0.1667,0.1538
+2025-01-23 07:29:07.706582,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.012899999999999995,0.1667,0.1538
 2025-01-23 08:34:11.261107,Boxing Lines - Viddal Riley vs Isaac Chamberlain - To Win the Bout,Isaac Chamberlain,0.012299999999999978,0.3571,0.3448
 2025-01-23 07:29:09.218083,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Jason Day,0.01150000000000001,0.3448,0.3333
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,David Ravetto,0.0113,0.0179,0.0066
+2025-01-23 11:25:33.198570,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. Kim / P. Fishburn / S. Gutschewski - 2nd Round 3 Balls,Patrick Fishburn,0.011099999999999999,0.4762,0.4651
 2025-01-23 11:25:33.414781,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,0.011099999999999999,0.4762,0.4651
 2025-01-23 06:36:36.271698,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Keyshawn Davis,0.011099999999999999,0.9,0.8889
-2025-01-23 11:25:33.198570,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. Kim / P. Fishburn / S. Gutschewski - 2nd Round 3 Balls,Patrick Fishburn,0.011099999999999999,0.4762,0.4651
 2025-01-23 10:35:27.298245,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,0.01100000000000001,0.5348,0.5238
 2025-01-23 07:29:07.839389,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Victor Wembanyama (SAS),0.01090000000000002,0.8571,0.8462
 2025-01-23 07:29:08.948193,Boxing Lines - Goki Kobayashi vs Yuni Takada - To Win the Bout,Yuni Takada,0.010899999999999993,0.1538,0.1429
@@ -143,15 +155,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 12:51:47.469231,Round Match-Ups - 2nd Round Match-Ups - L. Hodges vs K. Kitayama - 2nd Round Match-Ups,Lee Hodges,0.010599999999999998,0.4651,0.4545
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Anthony Edwards (MIN),0.0102,0.0769,0.0667
 2025-01-23 14:32:18.778427,Boxing Lines - Jordan Panthen vs Deaundre Pettus - To Win the Bout,Jordan Panthen,0.010199999999999987,0.9333,0.9231
-2025-01-23 04:33:24.812799,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.010099999999999998,0.6875,0.6774
+2025-01-23 16:36:08.728854,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - P. Reed / A. Bjork / D. Bradbury - 2nd Round 3 Ball,Patrick Reed,0.010099999999999998,0.4545,0.4444
 2025-01-23 12:51:47.452827,Round Match-Ups - 2nd Round Match-Ups - T. Finau vs S. Lowry - 2nd Round Match-Ups,Tony Finau,0.010099999999999998,0.5556,0.5455
+2025-01-23 16:36:08.709768,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - A. Otaegui / T. Pieters / R. Neergaard - 2nd Round 3 Ball ,Adrian Otaegui,0.010099999999999998,0.3226,0.3125
+2025-01-23 16:36:08.293437,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Pat Sullivan,0.010099999999999998,0.5556,0.5455
 2025-01-23 13:31:52.455686,Boxing Lines - Jordan Panthen vs Deaundre Pettus - To Win the Bout,Jordan Panthen,-0.010199999999999987,0.9231,0.9333
 2025-01-23 07:29:07.839389,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.0102,0.0667,0.0769
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Brandon Stone,-0.010300000000000002,0.0141,0.0244
 2025-01-23 07:29:09.236206,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Koivun / K. Velo / N. Norgaard - 2nd Round 3 Balls ,Kevin Velo,-0.010399999999999993,0.2222,0.2326
+2025-01-23 16:36:08.284658,BKFC: Knuckle Mania 5 - Joey Dawejko vs Steven Banks - To Win the Bout,Steven Banks,-0.010499999999999982,0.2,0.2105
+2025-01-23 14:32:17.844808,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,-0.010499999999999982,0.2,0.2105
 2025-01-23 07:29:07.842839,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),-0.010499999999999982,0.2,0.2105
 2025-01-23 11:25:33.198570,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. Kim / P. Fishburn / S. Gutschewski - 2nd Round 3 Balls,Scott Gutschewski,-0.010499999999999982,0.2,0.2105
-2025-01-23 14:32:17.844808,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,-0.010499999999999982,0.2,0.2105
 2025-01-23 13:31:52.838488,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - C. Gotterup / F. Molinari / M. Wallace - 2nd Round 3 Balls ,Matt Wallace,-0.010599999999999998,0.4545,0.4651
 2025-01-23 10:35:27.298245,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.010699999999999932,0.5348,0.5455
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Kevin Durant (PHX),-0.010700000000000001,0.0278,0.0385
@@ -160,47 +175,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 12:51:47.010469,Boxing Lines - Goki Kobayashi vs Yuni Takada - To Win the Bout,Yuni Takada,-0.010899999999999993,0.1429,0.1538
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Elvis Smylie,-0.011,0.0013,0.0123
 2025-01-23 15:30:56.984496,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.01100000000000001,0.5238,0.5348
-2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.011099999999999999,0.0556,0.0667
 2025-01-23 11:25:31.661946,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,-0.011099999999999999,0.1,0.1111
 2025-01-23 12:51:47.014529,Boxing Lines - Jin Sasaki vs Shoki Sakai - To Win the Bout,Shoki Sakai,-0.011099999999999999,0.1,0.1111
+2025-01-23 16:36:08.705029,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - M. Siem / A. Ayora / F. Lacroix - 2nd Round 3 Ball,Marcel Siem,-0.011099999999999999,0.2667,0.2778
 2025-01-23 07:29:09.254212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Skinns / N. Lashley / V. Perez - 2nd Round 3 Balls ,David Skinns,-0.011099999999999999,0.2667,0.2778
+2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.011099999999999999,0.0556,0.0667
+2025-01-23 11:25:31.661946,Euro Cup - Euro Cup 2024/25 - Outright,Ratiopharm Ulm,-0.011199999999999995,0.0476,0.0588
 2025-01-23 08:34:09.441741,Championship - England Championship 2024/25 - Winner,Sunderland,-0.011199999999999995,0.0476,0.0588
 2025-01-23 07:29:07.835960,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Taylor Jenkins,-0.011199999999999995,0.0476,0.0588
-2025-01-23 11:25:31.661946,Euro Cup - Euro Cup 2024/25 - Outright,Ratiopharm Ulm,-0.011199999999999995,0.0476,0.0588
 2025-01-23 08:34:09.984779,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),North Carolina,-0.0114,0.005,0.0164
 2025-01-23 08:34:10.020618,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Temple,-0.011500000000000003,0.0385,0.05
 2025-01-23 11:25:33.233415,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Jason Day,-0.01150000000000001,0.3333,0.3448
 2025-01-23 13:31:52.842952,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Riley / K. Knapp / P. Malnati - 2nd Round 3 Balls ,Jake Knapp,-0.0116,0.4762,0.4878
+2025-01-23 16:36:08.293437,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Kaine Tomlinson,-0.011600000000000055,0.5122,0.5238
 2025-01-23 08:34:09.975886,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.011600000000000055,0.5122,0.5238
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,John Parry,-0.0119,0.0004,0.0123
 2025-01-23 07:29:07.846303,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Giannis Antetokounmpo (MIL),-0.012100000000000001,0.0123,0.0244
 2025-01-23 12:51:47.452827,Round Match-Ups - 2nd Round Match-Ups - T. Finau vs S. Lowry - 2nd Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2025-01-23 08:34:11.553172,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Sahith Theegala,-0.012399999999999967,0.2817,0.2941
-2025-01-23 05:31:29.720945,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - A. Schenk / B. Snedeker / E. Van Rooyen - 2nd Round 3 Ball ,Brandt Snedeker,-0.012699999999999989,0.3509,0.3636
+2025-01-23 16:36:08.728854,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - P. Reed / A. Bjork / D. Bradbury - 2nd Round 3 Ball,Alexander Bjork,-0.012699999999999989,0.3509,0.3636
 2025-01-23 05:31:29.720945,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - A. Schenk / B. Snedeker / E. Van Rooyen - 2nd Round 3 Ball ,Adam Schenk,-0.012699999999999989,0.3509,0.3636
+2025-01-23 05:31:29.720945,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - A. Schenk / B. Snedeker / E. Van Rooyen - 2nd Round 3 Ball ,Brandt Snedeker,-0.012699999999999989,0.3509,0.3636
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Jordan Smith,-0.012700000000000003,0.0196,0.0323
-2025-01-23 04:33:24.820770,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Angel Fierro,-0.012899999999999995,0.1538,0.1667
 2025-01-23 07:29:07.846303,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Jayson Tatum (BOS),-0.013,0.0066,0.0196
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Jorge Campillo,-0.0131,0.0033,0.0164
 2025-01-23 12:51:45.100710,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,-0.0131,0.2222,0.2353
 2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,-0.013199999999999996,0.0323,0.0455
 2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.013600000000000001,0.2941,0.3077
 2025-01-23 05:31:29.738212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Walker / J. Paul / T. Rosenmueller - 2nd Round 3 Balls ,Thomas Rosenmueller,-0.013800000000000034,0.3636,0.3774
-2025-01-23 03:32:03.318733,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Keegan Bradley,-0.014000000000000012,0.2985,0.3125
-2025-01-23 03:32:03.318733,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Sahith Theegala,-0.014000000000000012,0.2985,0.3125
 2025-01-23 07:29:07.842839,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Jalen Williams (OKC),-0.014099999999999998,0.0244,0.0385
-2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.014099999999999998,0.0244,0.0385
 2025-01-23 08:34:09.980770,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Duquesne,-0.014099999999999998,0.0244,0.0385
+2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.014099999999999998,0.0244,0.0385
 2025-01-23 10:35:27.145801,Boxing Lines - Jeremiah Milton vs Stanley Wright - To Win the Bout,Jeremiah Milton,-0.014200000000000101,0.8261,0.8403
 2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),-0.014399999999999996,0.0625,0.0769
 2025-01-23 14:32:17.844808,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Quinn,-0.0145,0.0099,0.0244
-2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Guido Migliozzi,-0.0145,0.0099,0.0244
 2025-01-23 14:32:17.848387,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Christian Gonzalez (NE),-0.0145,0.0099,0.0244
+2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Guido Migliozzi,-0.0145,0.0099,0.0244
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alex Fitzpatrick,-0.014599999999999998,0.005,0.0196
 2025-01-23 05:31:27.725847,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.015100000000000002,0.1667,0.1818
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Francesco Laporta,-0.0154,0.001,0.0164
-2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),-0.015400000000000025,0.2703,0.2857
 2025-01-23 07:29:09.191418,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Suber / R. Palmer / W. Bryan - 2nd Round 3 Balls ,Jackson Suber,-0.015400000000000025,0.3846,0.4
+2025-01-23 07:29:07.849751,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alexandre Sarr (WAS),-0.015400000000000025,0.2703,0.2857
+2025-01-23 16:36:08.709768,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - A. Otaegui / T. Pieters / R. Neergaard - 2nd Round 3 Ball ,Rasmus Neergaard Petersen,-0.015400000000000025,0.3846,0.4
 2025-01-23 08:34:09.441741,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.015899999999999997,0.2222,0.2381
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Matthew Jordan,-0.0159,0.0164,0.0323
 2025-01-23 07:29:09.173921,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - M. Laird / C. Young / J. Bramlett - 2nd Round 3 Balls,Carson Young,-0.016000000000000014,0.3922,0.4082
@@ -208,14 +224,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Johannes Veerman,-0.0168,0.0217,0.0385
 2025-01-23 15:30:57.281093,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,-0.017299999999999982,0.4082,0.4255
 2025-01-23 13:31:52.842952,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Riley / K. Knapp / P. Malnati - 2nd Round 3 Balls ,Davis Riley,-0.017299999999999982,0.2857,0.303
+2025-01-23 16:36:08.164002,Boxing Lines - Diego Pacheco vs Steven Nelson - To Win the Bout,Steven Nelson,-0.017299999999999982,0.2857,0.303
 2025-01-23 08:34:10.016639,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.017300000000000093,0.697,0.7143
-2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Julien Guerrier,-0.0179,0.0099,0.0278
 2025-01-23 11:25:31.118686,UEFA Champions League - UEFA Champions League 2024/25 - League Stage Winner,FC Barcelona,-0.0179,0.125,0.1429
 2025-01-23 12:51:45.158024,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,-0.0179,0.125,0.1429
+2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Julien Guerrier,-0.0179,0.0099,0.0278
 2025-01-23 11:25:33.414781,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Niklas Norgaard,-0.018100000000000005,0.5652,0.5833
+2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.01820000000000002,0.1818,0.2
 2025-01-23 12:51:45.173801,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.01820000000000002,0.1818,0.2
 2025-01-23 12:51:45.164557,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.01820000000000002,0.1818,0.2
-2025-01-23 08:34:09.971839,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.01820000000000002,0.1818,0.2
 2025-01-23 07:29:09.271392,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Berger / M. Kim / S. Stevens - 2nd Round 3 Balls,Daniel Berger,-0.018799999999999983,0.3448,0.3636
 2025-01-23 07:29:07.835960,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,-0.019099999999999992,0.0476,0.0667
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jayson Tatum (BOS),-0.019099999999999992,0.0476,0.0667
@@ -228,24 +245,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 08:34:10.029262,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Eric Dixon (Villanova),-0.0203,0.0323,0.0526
 2025-01-23 11:25:33.194158,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - B. Griffin / R. Hoey / T. Mullinax - 2nd Round 3 Balls ,Rico Hoey,-0.02030000000000004,0.3571,0.3774
 2025-01-23 06:36:36.312544,BKFC: Knuckle Mania 5 - Cody Russell vs Logan Tucker - To Win the Bout,Cody Russell,-0.020500000000000074,0.8462,0.8667
-2025-01-23 06:36:36.283626,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.020699999999999996,0.4444,0.4651
 2025-01-23 12:51:47.506141,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs L. Clanton - 2nd Round Match-Ups,Luke Clanton,-0.020699999999999996,0.4444,0.4651
+2025-01-23 06:36:36.283626,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.020699999999999996,0.4444,0.4651
 2025-01-23 07:29:07.835960,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Jamahl Mosley,-0.0208,0.0625,0.0833
-2025-01-23 07:29:09.254212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Skinns / N. Lashley / V. Perez - 2nd Round 3 Balls ,Nate Lashley,-0.02100000000000002,0.3636,0.3846
 2025-01-23 05:31:29.738212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Walker / J. Paul / T. Rosenmueller - 2nd Round 3 Balls ,Jeremy Paul,-0.02100000000000002,0.3636,0.3846
+2025-01-23 07:29:09.254212,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - D. Skinns / N. Lashley / V. Perez - 2nd Round 3 Balls ,Nate Lashley,-0.02100000000000002,0.3636,0.3846
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Angel Ayora,-0.0211,0.0033,0.0244
 2025-01-23 05:31:29.938382,Round Match-Ups - 2nd Round Match-Ups - A. Potgieter vs A. Tosti - 2nd Round Match-Ups,Aldrich Potgieter,-0.02169999999999994,0.5238,0.5455
-2025-01-23 11:25:31.121672,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.021699999999999997,0.4545,0.4762
 2025-01-23 12:51:47.477498,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,-0.021699999999999997,0.4545,0.4762
+2025-01-23 11:25:31.121672,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.021699999999999997,0.4545,0.4762
 2025-01-23 12:51:45.161442,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.02200000000000002,0.6923,0.7143
+2025-01-23 16:36:08.733627,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - A. Hidalgo / P. Harrington / M. Jordan - 2nd Round 3 Ball,Padraig Harrington,-0.022199999999999998,0.3226,0.3448
 2025-01-23 12:51:45.100710,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,-0.022199999999999998,0.2,0.2222
 2025-01-23 14:32:17.841212,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),-0.022400000000000003,0.0099,0.0323
+2025-01-23 16:36:08.738523,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - T. Olesen / P. Waring / R. Langasque - 2nd Round 3 Ball,Paul Waring,-0.02250000000000002,0.2632,0.2857
 2025-01-23 11:25:33.233415,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Max Homa,-0.02250000000000002,0.2632,0.2857
 2025-01-23 07:29:09.236206,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Koivun / K. Velo / N. Norgaard - 2nd Round 3 Balls ,Jackson Koivun,-0.02260000000000001,0.3774,0.4
-2025-01-23 05:31:29.918527,Round Match-Ups - 2nd Round Match-Ups - A. Novak vs G. Sigg - 2nd Round Match-Ups,Greyson Sigg,-0.022600000000000064,0.5122,0.5348
+2025-01-23 16:36:08.660127,Scores - 2nd Round Scores - Ludvig Aberg - 2nd Round Scores,Over 70.5,-0.022600000000000064,0.5122,0.5348
+2025-01-23 15:30:57.240240,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs C. Kim - 2nd Round Match-Ups,Chan Kim,-0.022600000000000064,0.5122,0.5348
 2025-01-23 08:34:11.324423,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.022600000000000064,0.5122,0.5348
 2025-01-23 08:34:10.024526,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.022600000000000064,0.5122,0.5348
-2025-01-23 15:30:57.240240,Round Match-Ups - 2nd Round Match-Ups - T. Lawrence vs C. Kim - 2nd Round Match-Ups,Chan Kim,-0.022600000000000064,0.5122,0.5348
+2025-01-23 05:31:29.918527,Round Match-Ups - 2nd Round Match-Ups - A. Novak vs G. Sigg - 2nd Round Match-Ups,Greyson Sigg,-0.022600000000000064,0.5122,0.5348
 2025-01-23 07:29:09.399191,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,-0.022699999999999998,0.4651,0.4878
 2025-01-23 07:29:09.423830,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs L. Clanton - 2nd Round Match-Ups,Luke Clanton,-0.022699999999999998,0.4651,0.4878
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Monaco,-0.0232,0.9524,0.9756
@@ -254,23 +274,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 05:31:29.729410,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Jason Day,-0.023799999999999988,0.3333,0.3571
 2025-01-23 05:31:29.862862,Round Match-Ups - 2nd Round Match-Ups - H. Springer v L. Griffin - Outright,Hayden Springer,-0.023800000000000043,0.5,0.5238
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Feyenoord,-0.0242,0.9091,0.9333
-2025-01-23 11:25:33.324841,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Ludvig Aberg,-0.024399999999999977,0.4878,0.5122
 2025-01-23 05:31:29.906601,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,-0.024399999999999977,0.4878,0.5122
 2025-01-23 05:31:29.930426,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs L. Clanton - 2nd Round Match-Ups,Luke Clanton,-0.024399999999999977,0.4878,0.5122
+2025-01-23 11:25:33.324841,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - K. Bradley / L. Aberg / S. Theegala - 2nd Round 3 Balls ,Ludvig Aberg,-0.024399999999999977,0.4878,0.5122
 2025-01-23 12:51:45.167663,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,-0.024999999999999994,0.1,0.125
 2025-01-23 11:25:33.189784,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - M. Laird / C. Young / J. Bramlett - 2nd Round 3 Balls,Martin Laird,-0.0252,0.2778,0.303
 2025-01-23 11:25:31.099473,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.02560000000000001,0.3077,0.3333
 2025-01-23 07:29:07.711325,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.026499999999999996,0.0323,0.0588
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Thomas Pieters,-0.0265,0.0013,0.0278
 2025-01-23 07:29:09.218083,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Ball - H. Matsuyama / J. Day / M. Homa - 2nd Round 3 Balls,Max Homa,-0.02679999999999999,0.2857,0.3125
+2025-01-23 08:34:09.975886,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,-0.02779999999999999,0.25,0.2778
 2025-01-23 11:25:31.128160,UEFA Champions League - UEFA Champions League 2024/25 - Top 8 Finish in League Stage,Atalanta,-0.02779999999999999,0.2222,0.25
 2025-01-23 12:51:45.170698,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.02779999999999999,0.2222,0.25
-2025-01-23 08:34:09.975886,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,-0.02779999999999999,0.25,0.2778
 2025-01-23 07:29:07.828893,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Santi Aldama (MEM),-0.02840000000000001,0.0769,0.1053
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Shakhtar Donetsk,-0.0286,0.0099,0.0385
 2025-01-23 14:32:18.843572,Boxing Lines - Leonardo Rubalcava vs Israel Mercado - To Win the Bout,Israel Mercado,-0.02899999999999997,0.274,0.303
 2025-01-23 14:32:19.269235,Round Match-Ups - 2nd Round Match-Ups - N. Norgaard vs J. Koivun - 2nd Round Match-Ups,Jackson Koivun,-0.029000000000000026,0.4255,0.4545
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Darius Garland (CLE),-0.029299999999999993,0.0476,0.0769
+2025-01-23 16:36:08.738523,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - T. Olesen / P. Waring / R. Langasque - 2nd Round 3 Ball,Romain Langasque,-0.030299999999999994,0.3333,0.3636
 2025-01-23 07:29:07.842839,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Victor Wembanyama (SAS),-0.0303,0.002,0.0323
 2025-01-23 10:35:27.635847,Scores - 2nd Round Scores - Ludvig Aberg - 2nd Round Scores,Over 70.5,-0.030399999999999983,0.5348,0.5652
 2025-01-23 06:36:36.287615,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,-0.030399999999999983,0.5348,0.5652
@@ -282,10 +303,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 07:29:09.191418,Farmers Insurance Open - 2/3 Balls - 2nd Round 3 Balls - J. Suber / R. Palmer / W. Bryan - 2nd Round 3 Balls ,Ryan Palmer,-0.032299999999999995,0.3125,0.3448
 2025-01-23 08:34:09.980770,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,-0.033,0.0196,0.0526
 2025-01-23 11:25:31.121672,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.033300000000000024,0.1667,0.2
+2025-01-23 16:36:08.705029,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - M. Siem / A. Ayora / F. Lacroix - 2nd Round 3 Ball,Angel Ayora,-0.0348,0.4,0.4348
+2025-01-23 16:36:08.724078,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Luiten / D. Puig / P. Pineau - 2nd Round 3 Ball ,Pierre Pineau,-0.0353,0.2,0.2353
+2025-01-23 16:36:08.719092,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Veerman / J. Parry / E. Ferguson - 2nd Round 3 Ball,John Parry,-0.03739999999999999,0.2703,0.3077
 2025-01-23 08:34:10.029262,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),-0.0397,0.0714,0.1111
 2025-01-23 11:25:31.111907,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayern Munich,-0.04040000000000002,0.1818,0.2222
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Tom McKibbin,-0.040999999999999995,0.0025,0.0435
 2025-01-23 06:36:36.336612,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Kaine Tomlinson,-0.04139999999999999,0.5238,0.5652
+2025-01-23 16:36:08.743360,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - J. Walker / T. McKibbin / G. Migliozzi - 2nd Round 3 Ball,Guido Migliozzi,-0.044399999999999995,0.4,0.4444
 2025-01-23 15:30:57.368299,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Keita Nakajima,-0.0466,0.001,0.0476
 2025-01-23 07:29:07.832531,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.0484,0.4167,0.4651
 2025-01-23 11:25:31.108768,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,Atalanta,-0.0515,0.0152,0.0667
@@ -293,6 +318,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,Atalanta,-0.05380000000000007,0.8462,0.9
 2025-01-23 12:51:45.164557,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.05559999999999998,0.4444,0.5
 2025-01-23 11:25:31.125058,UEFA Champions League - UEFA Champions League 2024/25 - To Finish 9-24 in League Stage,VfB Stuttgart,-0.05590000000000006,0.6364,0.6923
+2025-01-23 16:36:08.714503,Ras Al Khaimah Championship - 2/3 Balls - 2nd Round 3 Ball - R. Fox / D. Hillier / J. Smith - 2nd Round 3 Ball,Daniel Hillier,-0.05680000000000002,0.2941,0.3509
 2025-01-23 11:25:31.108768,UEFA Champions League - UEFA Champions League 2024/25 - Top Team in League Stage - Serie A,AC Milan,-0.057699999999999974,0.25,0.3077
 2025-01-23 08:34:10.012632,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,-0.05960000000000004,0.3571,0.4167
 2025-01-23 14:32:17.851984,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),-0.0629,0.0909,0.1538

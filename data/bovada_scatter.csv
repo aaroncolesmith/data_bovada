@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-24 07:26:57.879762,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.10039999999999999,0.3226,0.2222
 2025-01-24 01:53:30.162541,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Will Kendrick Lamar Perform Not Like Us First?,Yes,0.09999999999999999,0.1667,0.0667
 2025-01-24 07:26:58.056066,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.0988,0.1111,0.0123
+2025-01-24 08:33:50.206758,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.07689999999999997,0.3333,0.2564
 2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.07520000000000002,0.2857,0.2105
 2025-01-24 07:26:57.873035,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),0.04999999999999999,0.25,0.2
 2025-01-24 07:26:57.862940,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.0378,0.4545,0.4167
@@ -10,11 +11,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-24 07:26:57.876375,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.035,0.2273,0.1923
 2025-01-23 21:31:03.175007,Super Bowl LIX -  Super Bowl 59 - Super Bowl Match Up,Kansas City Chiefs vs Philadelphia Eagles,0.0348,0.4348,0.4
 2025-01-24 07:26:57.705314,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,0.033399999999999985,0.1667,0.1333
+2025-01-24 08:33:50.232453,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.033300000000000024,0.2,0.1667
 2025-01-24 07:26:57.714719,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.024499999999999966,0.6078,0.5833
 2025-01-24 03:32:25.888189,Boxing Lines - Jordan Panthen vs Deaundre Pettus - To Win the Bout,Deaundre Pettus,0.023799999999999988,0.1667,0.1429
 2025-01-24 07:26:57.859420,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Santi Aldama (MEM),0.02310000000000001,0.1,0.0769
 2025-01-24 01:53:31.471610,BKFC: Knuckle Mania 5 - Patrick Brady vs Zachary Calmus - To Win the Bout,Patrick Brady,0.022600000000000064,0.6226,0.6
 2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,Sydney Kings,0.022199999999999998,0.2222,0.2
+2025-01-24 08:33:50.324828,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.022199999999999998,0.3448,0.3226
 2025-01-23 21:31:04.416816,BKFC: Knuckle Mania 5 - Dustin Pague vs Josh Burns - To Win the Bout,Dustin Pague,0.020100000000000007,0.8462,0.8261
 2025-01-23 21:31:03.171635,Super Bowl LIX -  Super Bowl 59 - Super Bowl Exact Result,Buffalo Bills to beat Philadelphia Eagles,0.01999999999999999,0.2105,0.1905
 2025-01-24 04:33:09.656777,BKFC: Knuckle Mania 5 - Patrick Brady vs Zachary Calmus - To Win the Bout,Patrick Brady,0.019499999999999962,0.6491,0.6296
@@ -22,42 +25,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-24 07:26:57.873035,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Victor Wembanyama (SAS),0.017599999999999998,0.0196,0.002
 2025-01-24 04:33:09.629360,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,0.017299999999999982,0.5917,0.5744
 2025-01-24 07:26:57.710009,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.015100000000000002,0.1818,0.1667
+2025-01-24 08:33:49.643511,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.015100000000000002,0.1818,0.1667
 2025-01-24 07:26:57.862940,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Darius Garland (CLE),0.014899999999999997,0.0625,0.0476
 2025-01-24 07:26:57.862940,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jalen Brunson (NYK),0.014899999999999997,0.0625,0.0476
+2025-01-24 08:33:50.206758,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Jacksonville State,0.014899999999999997,0.0625,0.0476
 2025-01-24 01:53:31.475562,BKFC: Knuckle Mania 5 - Taylor Starling vs Bec Rawlings - To Win the Bout,Bec Rawlings,0.014800000000000035,0.6226,0.6078
+2025-01-24 08:33:50.194267,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Maryland,0.0145,0.0244,0.0099
 2025-01-24 01:53:31.455712,BKFC: Knuckle Mania 5 - John Garbarino vs Apostle Spencer - To Win the Bout,John Garbarino,0.014100000000000001,0.9474,0.9333
 2025-01-24 07:26:58.007058,Super Bowl LIX - Super Bowl 59 - MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Josh Allen (BUF),0.01319999999999999,0.2632,0.25
-2025-01-24 04:33:09.664569,BKFC: Knuckle Mania 5 - Travis Thompson vs Zachary Pannell - To Win the Bout,Travis Thompson,0.0131,0.7778,0.7647
-2025-01-24 07:26:58.038144,NFL Specials - Where will Travis Hunter Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,0.0131,0.2353,0.2222
 2025-01-24 07:26:58.038144,NFL Specials - Where will Travis Hunter Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,0.0131,0.2353,0.2222
+2025-01-24 07:26:58.038144,NFL Specials - Where will Travis Hunter Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,0.0131,0.2353,0.2222
+2025-01-24 04:33:09.664569,BKFC: Knuckle Mania 5 - Travis Thompson vs Zachary Pannell - To Win the Bout,Travis Thompson,0.0131,0.7778,0.7647
 2025-01-23 22:31:38.663721,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Dalton Smith,0.0131,0.9655,0.9524
 2025-01-24 07:26:58.007058,Super Bowl LIX - Super Bowl 59 - MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Jalen Hurts (PHI),0.012899999999999995,0.1667,0.1538
 2025-01-24 01:53:31.248444,Boxing Lines - Eric Priest vs Tyler Howard - To Win the Bout,Eric Priest,0.012899999999999912,0.8462,0.8333
+2025-01-24 08:33:50.206758,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Kennesaw State,0.012100000000000001,0.0244,0.0123
 2025-01-23 21:31:04.243394,Boxing Lines - Eric Priest vs Tyler Howard - To Win the Bout,Eric Priest,0.011900000000000022,0.8333,0.8214
 2025-01-24 01:53:31.542559,TGL - TGL - Winner,Atlanta Drive,0.011899999999999994,0.25,0.2381
 2025-01-23 21:31:03.171635,Super Bowl LIX -  Super Bowl 59 - Super Bowl Exact Result,Kansas City Chiefs to beat Philadelphia Eagles,0.011700000000000016,0.2222,0.2105
 2025-01-24 04:33:09.637218,BKFC: Knuckle Mania 5 - Joey Dawejko vs Steven Banks - To Win the Bout,Joey Dawejko,0.011099999999999999,0.9,0.8889
-2025-01-24 01:53:31.439700,BKFC: Knuckle Mania 5 - Dustin Pague vs Josh Burns - To Win the Bout,Dustin Pague,0.01090000000000002,0.8571,0.8462
 2025-01-24 04:33:09.495612,Boxing Lines - Ellie Scotney vs Mea Motu - To Win the Bout,Ellie Scotney,0.01090000000000002,0.8571,0.8462
+2025-01-24 01:53:31.439700,BKFC: Knuckle Mania 5 - Dustin Pague vs Josh Burns - To Win the Bout,Dustin Pague,0.01090000000000002,0.8571,0.8462
 2025-01-24 07:26:57.859420,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Amen Thompson (HOU),0.010899999999999993,0.1538,0.1429
 2025-01-24 03:32:25.900210,Boxing Lines - Goki Kobayashi vs Yuni Takada - To Win the Bout,Yuni Takada,0.010899999999999993,0.1538,0.1429
 2025-01-23 21:31:04.440921,BKFC: Knuckle Mania 5 - Mick Terrill vs Ben Rothwell - To Win the Bout,Ben Rothwell,0.010699999999999987,0.3333,0.3226
 2025-01-24 07:26:58.038144,NFL Specials - Where will Travis Hunter Play Week 1 of the 2025 NFL Season - Proposition,Cleveland Browns,0.010299999999999976,0.2667,0.2564
 2025-01-23 22:31:38.806310,BKFC: Knuckle Mania 5 - John Garbarino vs Apostle Spencer - To Win the Bout,John Garbarino,0.010199999999999987,0.9333,0.9231
 2025-01-23 23:27:39.533777,Boxing Lines - Tsubasa Narai vs Kai Watanabe - To Win the Bout,Tsubasa Narai,0.010099999999999998,0.5556,0.5455
-2025-01-23 20:30:04.081473,Super Bowl LIX -  Super Bowl 59 -  Winner,Kansas City Chiefs,0.010099999999999998,0.3226,0.3125
 2025-01-24 01:53:31.475562,BKFC: Knuckle Mania 5 - Taylor Starling vs Bec Rawlings - To Win the Bout,Taylor Starling (UNT),-0.010099999999999998,0.4444,0.4545
 2025-01-23 21:31:03.171635,Super Bowl LIX -  Super Bowl 59 - Super Bowl Exact Result,Washington Commanders to beat Kansas City Chiefs,-0.0102,0.0667,0.0769
-2025-01-24 07:26:59.267228,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
 2025-01-24 01:53:31.252430,Boxing Lines - Leonardo Sanchez vs Joseph Cruz Brown - To Win the Bout,Joseph Cruz Brown,-0.011099999999999999,0.0556,0.0667
+2025-01-24 07:26:59.267228,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,-0.011099999999999999,0.1,0.1111
+2025-01-24 08:33:49.643511,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Galatasaray,-0.011199999999999995,0.0476,0.0588
+2025-01-24 08:33:49.643511,UEFA Europa League - UEFA Europa League 2024/25 - Winner,FC Porto,-0.011199999999999995,0.0476,0.0588
 2025-01-24 04:33:09.629360,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.0116,0.4762,0.4878
 2025-01-23 21:31:04.243394,Boxing Lines - Eric Priest vs Tyler Howard - To Win the Bout,Tyler Howard,-0.0116,0.2353,0.2469
 2025-01-23 23:27:39.533777,Boxing Lines - Tsubasa Narai vs Kai Watanabe - To Win the Bout,Kai Watanabe,-0.011600000000000055,0.5122,0.5238
-2025-01-24 04:33:09.495612,Boxing Lines - Ellie Scotney vs Mea Motu - To Win the Bout,Mea Motu,-0.011700000000000016,0.2105,0.2222
 2025-01-24 01:53:31.439700,BKFC: Knuckle Mania 5 - Dustin Pague vs Josh Burns - To Win the Bout,Josh Burns,-0.011700000000000016,0.2105,0.2222
-2025-01-23 21:31:04.420823,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.012199999999999989,0.5,0.5122
-2025-01-24 01:53:31.443693,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.012199999999999989,0.4878,0.5
+2025-01-24 04:33:09.495612,Boxing Lines - Ellie Scotney vs Mea Motu - To Win the Bout,Mea Motu,-0.011700000000000016,0.2105,0.2222
 2025-01-23 21:31:04.436888,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Kaine Tomlinson,-0.012199999999999989,0.5,0.5122
+2025-01-24 01:53:31.443693,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.012199999999999989,0.4878,0.5
+2025-01-23 21:31:04.420823,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.012199999999999989,0.5,0.5122
 2025-01-24 04:33:09.645111,BKFC: Knuckle Mania 5 - Kaine Tomlinson vs Pat Sullivan - To Win the Bout,Kaine Tomlinson,-0.012199999999999989,0.4878,0.5
 2025-01-24 07:26:57.705314,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.012299999999999991,0.1053,0.1176
 2025-01-24 01:53:31.248444,Boxing Lines - Eric Priest vs Tyler Howard - To Win the Bout,Tyler Howard,-0.0131,0.2222,0.2353
@@ -67,8 +75,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,Tasmania JackJumpers,-0.014900000000000004,0.0196,0.0345
 2025-01-24 01:53:31.268320,Boxing Lines - Jordan Panthen vs Deaundre Pettus - To Win the Bout,Jordan Panthen,-0.01660000000000006,0.9167,0.9333
 2025-01-24 03:32:25.888189,Boxing Lines - Jordan Panthen vs Deaundre Pettus - To Win the Bout,Jordan Panthen,-0.016699999999999937,0.9,0.9167
-2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.016700000000000007,0.0833,0.1
 2025-01-23 22:31:38.663721,Boxing Lines - Dalton Smith vs Walid Ouizza - To Win the Bout,Walid Ouizza,-0.016700000000000007,0.0833,0.1
+2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.016700000000000007,0.0833,0.1
 2025-01-24 04:33:09.664569,BKFC: Knuckle Mania 5 - Travis Thompson vs Zachary Pannell - To Win the Bout,Zachary Pannell,-0.017299999999999982,0.2857,0.303
 2025-01-24 01:53:31.542559,TGL - TGL - Winner,Los Angeles,-0.0174,0.2326,0.25
 2025-01-24 07:26:57.866300,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,-0.018099999999999998,0.0588,0.0769
@@ -81,12 +89,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-24 07:26:57.710009,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.02250000000000002,0.2632,0.2857
 2025-01-24 07:26:57.876375,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),-0.023799999999999932,0.8333,0.8571
 2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.0348,0.4,0.4348
+2025-01-24 08:33:50.227457,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.0353,0.2,0.2353
 2025-01-24 07:26:58.038144,NFL Specials - Where will Travis Hunter Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,-0.03640000000000004,0.3636,0.4
 2025-01-24 02:54:50.191141,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.03889999999999999,0.1429,0.1818
 2025-01-24 07:26:57.714719,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.039600000000000024,0.4255,0.4651
 2025-01-24 07:26:58.007058,Super Bowl LIX - Super Bowl 59 - MVP Winner - Most Valuable Player (Super Bowl 59 MVP),Saquon Barkley (PHI),-0.043899999999999995,0.2,0.2439
 2025-01-24 07:26:57.879762,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.04999999999999999,0.2,0.25
 2025-01-24 07:26:57.705314,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.05740000000000001,0.3774,0.4348
+2025-01-24 08:33:50.206758,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,-0.06669999999999998,0.2,0.2667
 2025-01-24 01:53:30.162541,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Will Kendrick Lamar Perform Not Like Us First?,No,-0.09009999999999996,0.9,0.9901
 2025-01-24 07:26:58.056066,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,-0.10319999999999996,0.5122,0.6154
 2025-01-24 07:26:58.056066,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.23490000000000003,0.1818,0.4167

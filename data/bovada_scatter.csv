@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,0.2552,0.6,0.3448
 2025-01-24 18:36:26.367158,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Mets,0.2333,0.5,0.2667
+2025-01-25 05:30:11.962649,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.23230000000000006,0.7778,0.5455
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.22259999999999996,0.6,0.3774
 2025-01-25 05:30:11.962649,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,0.1795,0.8462,0.6667
 2025-01-25 05:30:11.962649,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.1624,0.3846,0.2222
@@ -8,11 +9,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.07940000000000003,0.5238,0.4444
 2025-01-25 05:30:12.147403,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.07239999999999996,0.3077,0.2353
 2025-01-24 23:27:19.699156,"Daily Specials - NBA Daily Specials - Friday, January 24th","Paul George, Dejounte Murray, Miles Bridges & Jaren Jackson Jr. 20+ Pts Each",0.062200000000000005,0.2222,0.16
+2025-01-25 06:34:05.432731,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.05910000000000004,0.7143,0.6552
 2025-01-24 23:27:19.699156,"Daily Specials - NBA Daily Specials - Friday, January 24th","Darius Garland, Paul George & Desmond Bane 15+ Pts Each",0.05520000000000003,0.6552,0.6
+2025-01-25 06:34:05.473944,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.04999999999999999,0.25,0.2
+2025-01-25 05:30:11.962649,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.04760000000000009,0.7143,0.6667
 2025-01-25 05:30:11.866309,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),0.04120000000000001,0.1,0.0588
 2025-01-25 04:34:05.596642,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Victor Wembanyama (SAS),0.03770000000000007,0.8948,0.8571
+2025-01-25 06:34:05.432731,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,0.036599999999999994,0.2105,0.1739
+2025-01-25 06:34:05.469152,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.03600000000000003,0.5238,0.4878
 2025-01-24 18:36:26.740066,Farmers Insurance Open - 2/3 Balls - 3rd Round 3 Balls - L. Griffin / L. Aberg / D. Walker - 3rd Round 3 Balls,Lanto Griffin,0.03570000000000001,0.2857,0.25
 2025-01-25 01:48:24.123735,Championship - England Championship 2024/25 - Winner,Leeds United,0.035699999999999954,0.75,0.7143
+2025-01-25 06:34:07.220750,Round Match-Ups - Final Round Match-Ups - H. English vs S. Stevens - Final Round Match-Ups,Sam Stevens,0.03480000000000005,0.5348,0.5
+2025-01-25 06:34:05.483327,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.034499999999999975,0.6774,0.6429
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,0.033299999999999996,0.5455,0.5122
 2025-01-25 05:30:11.905189,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,0.03210000000000002,0.9412,0.9091
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,0.030399999999999983,0.5652,0.5348
@@ -21,12 +29,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-25 05:30:11.957234,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,No,0.026700000000000057,0.9091,0.8824
 2025-01-25 05:30:11.859424,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.026500000000000024,0.3774,0.3509
 2025-01-25 05:30:11.935428,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,0.025599999999999956,0.6552,0.6296
+2025-01-25 06:34:07.212567,Round Match-Ups - Final Round Match-Ups - S. Theegala vs T. Pendrith - Final Round Match-Ups,Taylor Pendrith,0.023800000000000043,0.5238,0.5
 2025-01-24 21:26:49.760266,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.023800000000000016,0.1905,0.1667
 2025-01-25 05:30:11.418205,League Two - England League Two 2024/25 - Winner,Walsall,0.023799999999999932,0.8571,0.8333
 2025-01-24 23:27:19.699156,"Daily Specials - NBA Daily Specials - Friday, January 24th","Tyrese Maxey, Donovan Mitchell, CJ McCollum, Trey Murphy III & Jaren Jackson Jr. 25+ Pts Each",0.02310000000000001,0.1,0.0769
 2025-01-25 05:30:11.926825,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,0.022999999999999965,0.3509,0.3279
 2025-01-25 05:30:11.913892,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,0.022699999999999998,0.4878,0.4651
 2025-01-25 05:30:13.819492,Round Match-Ups - Final Round Match-Ups - A. Putnam vs B. Snedeker - Final Round Match-Ups,Andrew Putnam,0.02200000000000002,0.5348,0.5128
+2025-01-25 06:34:07.196295,Round Match-Ups - Final Round Match-Ups - A. Putnam vs B. Snedeker - Final Round Match-Ups,Andrew Putnam,0.02079999999999993,0.5556,0.5348
 2025-01-25 01:48:26.399696,BKFC: Knuckle Mania 5 - Noah Norman vs Phil Caracappa - To Win the Bout,Noah Norman,0.02030000000000004,0.3774,0.3571
 2025-01-25 01:48:26.324138,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Keyshawn Davis,0.020199999999999996,0.9091,0.8889
 2025-01-25 05:30:11.862889,NBA Championship - NBA Championship 2024-25 - First Time Winner,Yes,0.0179,0.1429,0.125
@@ -39,13 +49,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-25 05:30:11.931125,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,Yes,0.014200000000000101,0.6296,0.6154
 2025-01-24 22:31:01.921869,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,0.013800000000000034,0.3774,0.3636
 2025-01-25 01:48:24.123735,Championship - England Championship 2024/25 - Winner,Burnley,0.012899999999999995,0.1667,0.1538
+2025-01-25 06:34:05.479309,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.012899999999999995,0.1667,0.1538
 2025-01-24 20:29:08.658892,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,0.012699999999999989,0.3636,0.3509
 2025-01-24 23:27:21.333118,BKFC: Knuckle Mania 5 - Mick Terrill vs Ben Rothwell - To Win the Bout,Ben Rothwell,0.012299999999999978,0.3571,0.3448
 2025-01-25 05:30:11.952805,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,0.011600000000000055,0.5238,0.5122
+2025-01-25 06:34:05.479309,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.01150000000000001,0.3448,0.3333
 2025-01-25 01:48:26.311434,Boxing Lines - Jared Anderson vs Marios Kollias - To Win the Bout,Marios Kollias,0.011099999999999999,0.1111,0.1
 2025-01-25 04:34:05.378886,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,0.0102,0.0769,0.0667
-2025-01-25 05:30:11.952805,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.010099999999999998,0.5455,0.5556
 2025-01-24 22:31:01.873155,Boxing Lines - Harry Scarff vs Conah Walker - To Win the Bout,Conah Walker,-0.010099999999999998,0.4444,0.4545
+2025-01-25 05:30:11.952805,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,-0.010099999999999998,0.5455,0.5556
 2025-01-25 03:30:01.420838,BKFC: Knuckle Mania 5 - Taylor Starling vs Bec Rawlings - To Win the Bout,Bec Rawlings,-0.010099999999999998,0.6774,0.6875
 2025-01-24 20:29:08.743971,BKFC: Knuckle Mania 5 - Eddie Alvarez vs Jeremy Stephens - To Win the Bout,Eddie Alvarez,-0.010599999999999998,0.4545,0.4651
 2025-01-25 04:34:05.398504,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.01100000000000001,0.5238,0.5348
@@ -54,33 +66,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-25 05:30:11.918154,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,-0.011499999999999955,0.6552,0.6667
 2025-01-25 05:30:12.150901,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),-0.01150000000000001,0.3333,0.3448
 2025-01-25 05:30:12.150901,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alex Sarr (WAS),-0.011700000000000016,0.2105,0.2222
+2025-01-25 06:34:05.469152,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.012199999999999989,0.5,0.5122
+2025-01-25 05:30:11.859424,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.012299999999999991,0.1053,0.1176
+2025-01-24 19:24:21.352850,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Indianapolis Colts,-0.012299999999999991,0.1053,0.1176
 2025-01-24 19:24:21.352850,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,-0.012299999999999991,0.1053,0.1176
 2025-01-24 19:24:21.352850,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,-0.012299999999999991,0.1053,0.1176
-2025-01-24 19:24:21.352850,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Indianapolis Colts,-0.012299999999999991,0.1053,0.1176
-2025-01-25 05:30:11.859424,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,-0.012299999999999991,0.1053,0.1176
+2025-01-25 06:34:05.473944,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Kam Jones (Marquette),-0.012600000000000007,0.0588,0.0714
 2025-01-25 05:30:12.124438,NBA Specials - Will Kawhi Leonard announce his retirement during 2024/25 NBA season - Proposition,Yes,-0.012899999999999995,0.1538,0.1667
 2025-01-25 04:34:05.596642,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),-0.014099999999999998,0.0244,0.0385
+2025-01-25 06:34:05.432731,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Duquesne,-0.0145,0.0099,0.0244
+2025-01-25 06:34:05.432731,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.0145,0.0099,0.0244
+2025-01-25 06:34:05.432731,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),St. Bonaventure,-0.014599999999999998,0.005,0.0196
 2025-01-25 01:48:26.407926,BKFC: Knuckle Mania 5 - Taylor Starling vs Bec Rawlings - To Win the Bout,Taylor Starling (UNT),-0.01479999999999998,0.3774,0.3922
 2025-01-25 05:30:12.143922,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.01539999999999997,0.6,0.6154
+2025-01-25 06:34:05.469152,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),San Francisco,-0.0156,0.0244,0.04
 2025-01-25 05:30:11.909531,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,-0.015800000000000036,0.6667,0.6825
+2025-01-25 06:34:05.469152,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Washington State,-0.0159,0.0164,0.0323
 2025-01-24 23:27:21.333118,BKFC: Knuckle Mania 5 - Mick Terrill vs Ben Rothwell - To Win the Bout,Mick Terrill,-0.01629999999999998,0.7059,0.7222
 2025-01-25 05:30:11.939787,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,-0.01689999999999997,0.3279,0.3448
 2025-01-24 20:29:08.658892,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,-0.017300000000000093,0.697,0.7143
 2025-01-25 05:30:12.143922,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.01759999999999999,0.1,0.1176
 2025-01-25 05:30:11.862889,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,-0.018100000000000005,0.9231,0.9412
 2025-01-25 01:48:26.399696,BKFC: Knuckle Mania 5 - Noah Norman vs Phil Caracappa - To Win the Bout,Phil Caracappa,-0.018399999999999972,0.6875,0.7059
+2025-01-25 06:34:05.479309,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),-0.01949999999999999,0.0714,0.0909
 2025-01-25 05:30:11.931125,To Make the Playoffs - Los Angeles Lakers 2024-25 - To Make the Playoffs,No,-0.019699999999999995,0.4348,0.4545
 2025-01-25 05:30:11.859424,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.020100000000000007,0.1538,0.1739
 2025-01-25 01:48:26.324138,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Denys Berinchyk,-0.020100000000000007,0.1538,0.1739
 2025-01-25 05:30:11.926825,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,Yes,-0.022499999999999964,0.7143,0.7368
+2025-01-25 06:34:07.212567,Round Match-Ups - Final Round Match-Ups - S. Theegala vs T. Pendrith - Final Round Match-Ups,Sahith Theegala,-0.022599999999999953,0.5238,0.5464
 2025-01-25 05:30:13.819492,Round Match-Ups - Final Round Match-Ups - A. Putnam vs B. Snedeker - Final Round Match-Ups,Brandt Snedeker,-0.022600000000000064,0.5122,0.5348
+2025-01-25 06:34:07.196295,Round Match-Ups - Final Round Match-Ups - A. Putnam vs B. Snedeker - Final Round Match-Ups,Brandt Snedeker,-0.024399999999999977,0.4878,0.5122
 2025-01-25 05:30:12.143922,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Evan Mobley (CLE),-0.024999999999999994,0.1,0.125
 2025-01-25 05:30:11.913892,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,Yes,-0.025599999999999956,0.5744,0.6
 2025-01-25 05:30:11.935428,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,-0.026600000000000013,0.4082,0.4348
+2025-01-25 05:30:12.150901,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.02779999999999999,0.25,0.2778
 2025-01-25 05:30:11.905189,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,Yes,-0.028799999999999992,0.125,0.1538
 2025-01-25 05:30:11.967232,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,-0.030299999999999994,0.3333,0.3636
 2025-01-25 05:30:11.957234,To Make the Playoffs - San Antonio Spurs 2024-25 - To Make the Playoffs,Yes,-0.03140000000000001,0.1538,0.1852
 2025-01-25 05:30:11.866309,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.03180000000000005,0.8571,0.8889
+2025-01-25 06:34:07.220750,Round Match-Ups - Final Round Match-Ups - H. English vs S. Stevens - Final Round Match-Ups,Harris English,-0.03420000000000001,0.5122,0.5464
 2025-01-25 01:48:26.403801,BKFC: Knuckle Mania 5 - Patrick Brady vs Zachary Calmus - To Win the Bout,Zachary Calmus,-0.03640000000000004,0.3636,0.4
 2025-01-24 18:36:26.740066,Farmers Insurance Open - 2/3 Balls - 3rd Round 3 Balls - L. Griffin / L. Aberg / D. Walker - 3rd Round 3 Balls,Ludvig Aberg,-0.0393,0.5833,0.6226
 2025-01-24 18:36:26.367158,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Angels,-0.04120000000000001,0.0588,0.1

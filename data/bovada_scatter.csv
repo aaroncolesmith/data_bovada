@@ -9,14 +9,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 16:36:29.610993,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - 1st Song of Halftime Show: Humble & Last Song of Halftime Show: Not Like Us,Yes,0.0267,0.1176,0.0909
 2025-01-27 18:36:38.434810,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will Jon Batiste perform the National Anthem with a piano?,Yes,0.025600000000000067,0.8333,0.8077
 2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.025499999999999967,0.4255,0.4
-2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,0.025000000000000022,0.9,0.875
 2025-01-28 02:53:46.207868,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,0.025000000000000022,0.9,0.875
+2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,0.025000000000000022,0.9,0.875
 2025-01-27 21:29:47.093832,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Lime/Green/Yellow,0.024800000000000016,0.2353,0.2105
 2025-01-28 01:52:33.844370,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,0.023800000000000016,0.1905,0.1667
 2025-01-27 21:29:48.419262,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,0.02260000000000001,0.4,0.3774
 2025-01-27 20:30:15.958418,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.022199999999999998,0.3448,0.3226
-2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.02080000000000004,0.6875,0.6667
+2025-01-28 04:33:22.092923,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,0.021799999999999986,0.3922,0.3704
 2025-01-27 18:36:39.770705,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Boston Common (Bradley/McIlroy/Matsuyama/Scott),0.02080000000000004,0.6875,0.6667
+2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.02080000000000004,0.6875,0.6667
 2025-01-27 18:36:38.574711,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.01970000000000005,0.5652,0.5455
 2025-01-27 17:30:09.427135,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,0.01959999999999995,0.697,0.6774
 2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.018900000000000028,0.4444,0.4255
@@ -26,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 21:29:48.411202,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,0.016600000000000004,0.1905,0.1739
 2025-01-27 16:36:30.958267,Bahrain Championship - Bahrain Championship - Winner,David Puig,0.015300000000000001,0.0588,0.0435
 2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.015100000000000002,0.1818,0.1667
-2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.014900000000000024,0.3226,0.3077
 2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.014900000000000024,0.3226,0.3077
+2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.014900000000000024,0.3226,0.3077
 2025-01-27 18:36:37.814459,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.014899999999999997,0.0625,0.0476
 2025-01-28 01:52:33.900292,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.014800000000000035,0.6226,0.6078
 2025-01-27 18:36:38.546349,Super Bowl 59 Specials - Super Bowl LIX Specials - Will the Game be tied again after 0-0?,Yes,0.014200000000000101,0.6296,0.6154
@@ -43,8 +44,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 21:29:47.301489,Super Bowl 59 Specials - Super Bowl LIX Specials - Will a non-QB throw a touchdown? ,No,0.010700000000000043,0.8857,0.875
 2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.010499999999999982,0.2105,0.2
 2025-01-27 21:29:48.467529,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.4545,0.4444
-2025-01-27 23:27:19.938346,Super Bowl 59 Specials - Super Bowl LIX Specials - Super Bowl receptions record of 14 catches be broken ,Yes,-0.010099999999999998,0.1111,0.1212
 2025-01-28 01:52:33.900292,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.010099999999999998,0.4444,0.4545
+2025-01-27 23:27:19.938346,Super Bowl 59 Specials - Super Bowl LIX Specials - Super Bowl receptions record of 14 catches be broken ,Yes,-0.010099999999999998,0.1111,0.1212
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,United in Grief,-0.0102,0.0667,0.0769
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Justin Thomas,-0.0102,0.0667,0.0769
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Swimming Pools (Drank),-0.0102,0.0667,0.0769
@@ -54,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 16:36:29.736395,Super Bowl 59 Specials - Super Bowl LIX Specials - Will a non-QB throw a touchdown? ,No,-0.010700000000000043,0.875,0.8857
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Like That,-0.011099999999999999,0.1,0.1111
 2025-01-27 21:29:48.415260,Boxing Lines - Jesus Alejandro Ramos vs Jeison Rosario - To Win the Bout,Jeison Rosario,-0.011099999999999999,0.1,0.1111
-2025-01-27 17:30:09.447458,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-01-28 01:52:33.892313,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
+2025-01-27 17:30:09.447458,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-01-27 18:36:38.574711,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.011600000000000055,0.5122,0.5238
 2025-01-27 21:29:48.471566,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.5,0.5122
 2025-01-27 23:27:19.752337,Super Bowl 59 Specials - Super Bowl LIX Specials - - MVP,Patrick Mahomes (KC),-0.012199999999999989,0.5,0.5122
@@ -63,29 +64,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Humble,-0.012899999999999995,0.1538,0.1667
 2025-01-27 20:30:15.938638,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,-0.013599999999999945,0.6923,0.7059
 2025-01-27 21:29:48.411202,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,-0.013900000000000023,0.875,0.8889
+2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Draw95,-0.013999999999999999,0.0769,0.0909
 2025-01-28 01:52:33.864238,Boxing Lines - Claressa Shields vs Danielle Perkins - To Win the Bout,Danielle Perkins,-0.013999999999999999,0.0769,0.0909
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Squabble Up,-0.013999999999999999,0.0769,0.0909
-2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Draw95,-0.013999999999999999,0.0769,0.0909
 2025-01-27 21:29:48.467529,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.014800000000000035,0.6078,0.6226
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Scottie Scheffler,-0.015100000000000002,0.1667,0.1818
 2025-01-27 20:30:15.958418,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.018100000000000005,0.7222,0.7403
 2025-01-27 21:29:48.423257,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Brandon Figueroa,-0.01880000000000004,0.6364,0.6552
 2025-01-27 18:36:38.546349,Super Bowl 59 Specials - Super Bowl LIX Specials - Will the Game be tied again after 0-0?,No,-0.019699999999999995,0.4348,0.4545
+2025-01-28 04:33:22.092923,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,-0.020199999999999996,0.6721,0.6923
 2025-01-27 21:29:48.419262,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,-0.02080000000000004,0.6667,0.6875
 2025-01-27 17:30:09.427135,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.02100000000000002,0.3636,0.3846
-2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.022199999999999998,0.2,0.2222
 2025-01-27 21:29:47.093832,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Red,-0.022199999999999998,0.1111,0.1333
-2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Family Ties,-0.02239999999999999,0.0952,0.1176
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.022199999999999998,0.2,0.2222
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,LOVE.,-0.02239999999999999,0.0952,0.1176
+2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Family Ties,-0.02239999999999999,0.0952,0.1176
 2025-01-27 18:36:39.770705,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Jupiter Links (TKim/Woods/Homa/Kisner),-0.02260000000000001,0.3774,0.4
 2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,-0.02260000000000001,0.3774,0.4
 2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.023499999999999965,0.9474,0.9709
 2025-01-27 20:30:14.299409,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Matas Buzelis (CHI),-0.023799999999999988,0.1429,0.1667
-2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.023800000000000016,0.1667,0.1905
 2025-01-28 02:53:46.207868,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.023800000000000016,0.1667,0.1905
+2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.023800000000000016,0.1667,0.1905
 2025-01-28 01:52:33.844370,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,-0.025000000000000022,0.875,0.9
-2025-01-27 16:36:29.610993,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - 1st Song of Halftime Show: Humble & Last Song of Halftime Show: Not Like Us,No,-0.025600000000000067,0.95,0.9756
 2025-01-27 16:36:30.967429,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Boston Common (Bradley/McIlroy/Matsuyama/Scott),-0.025600000000000067,0.6667,0.6923
+2025-01-27 16:36:29.610993,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - 1st Song of Halftime Show: Humble & Last Song of Halftime Show: Not Like Us,No,-0.025600000000000067,0.95,0.9756
 2025-01-27 18:36:38.434810,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will Jon Batiste perform the National Anthem with a piano?,No,-0.027099999999999985,0.2326,0.2597
 2025-01-27 16:36:29.526819,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Under 120.5 seconds,-0.029000000000000026,0.4255,0.4545
 2025-01-27 16:36:29.638208,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Will Kendrick Lamar Perform Not Like Us First?,No,-0.033399999999999985,0.8333,0.8667

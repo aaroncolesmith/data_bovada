@@ -1,9 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-01-27 13:32:02.588703,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will any player or coach cry during National Anthem,Yes,0.12870000000000004,0.7778,0.6491
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Not Like Us,0.1212,0.303,0.1818
 2025-01-27 16:36:29.530259,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Clear/Water,0.0865,0.125,0.0385
-2025-01-27 12:52:25.102296,MLB Specials - MLB Specials 2025 - Which MLB Team will Sign Alex Bregman?,Houston Astros,0.08329999999999999,0.3333,0.25
 2025-01-27 14:32:18.012721,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.08039999999999997,0.5455,0.4651
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.06659999999999999,0.3333,0.2667
+2025-01-28 01:52:33.950264,TGL - TGL - Winner,Jupiter Links,0.04269999999999999,0.1538,0.1111
 2025-01-27 16:36:29.638208,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Will Kendrick Lamar Perform Not Like Us First?,Yes,0.03259999999999999,0.2326,0.2
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Jordan Smith,0.030500000000000003,0.0345,0.004
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Guido Migliozzi,0.0303,0.0323,0.002
@@ -12,26 +12,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 16:36:29.526819,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Over 120.5 seconds,0.02750000000000008,0.6429,0.6154
 2025-01-27 16:36:29.610993,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - 1st Song of Halftime Show: Humble & Last Song of Halftime Show: Not Like Us,Yes,0.0267,0.1176,0.0909
 2025-01-27 18:36:38.434810,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will Jon Batiste perform the National Anthem with a piano?,Yes,0.025600000000000067,0.8333,0.8077
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.025499999999999967,0.4255,0.4
 2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,0.025000000000000022,0.9,0.875
 2025-01-27 21:29:47.093832,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Lime/Green/Yellow,0.024800000000000016,0.2353,0.2105
-2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,0.02260000000000001,0.4,0.3774
+2025-01-28 01:52:33.844370,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,0.023800000000000016,0.1905,0.1667
 2025-01-27 21:29:48.419262,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,0.02260000000000001,0.4,0.3774
+2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,0.02260000000000001,0.4,0.3774
 2025-01-27 20:30:15.958418,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.022199999999999998,0.3448,0.3226
 2025-01-27 14:32:17.721404,Super Bowl 59 Specials - Super Bowl LIX Specials - Coin Toss - Will Kansas City Chiefs Win the Coin Toss and Win the Game,Yes,0.021999999999999964,0.3077,0.2857
-2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.02080000000000004,0.6875,0.6667
 2025-01-27 18:36:39.770705,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Boston Common (Bradley/McIlroy/Matsuyama/Scott),0.02080000000000004,0.6875,0.6667
+2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.02080000000000004,0.6875,0.6667
 2025-01-27 14:32:17.972421,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Points Be Scored In The First 6 Minutes 30 Seconds?,Yes,0.02079999999999993,0.5556,0.5348
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Hank Lebioda,0.0206,0.0385,0.0179
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Kevin Chappell,0.019899999999999998,0.0278,0.0079
 2025-01-27 18:36:38.574711,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson (BAL),0.01970000000000005,0.5652,0.5455
 2025-01-27 17:30:09.427135,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,0.01959999999999995,0.697,0.6774
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Alistair Docherty,0.0194,0.0244,0.005
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Russell Knox,0.019099999999999995,0.0435,0.0244
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.018900000000000028,0.4444,0.4255
 2025-01-27 15:26:44.444351,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Liverpool,0.018900000000000028,0.4444,0.4255
 2025-01-27 14:32:17.701499,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - Who Will be Shown first,Saquon Barkley (PHI),0.018100000000000005,0.4348,0.4167
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Rick Lamb,0.0177,0.0217,0.004
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.017600000000000005,0.3509,0.3333
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Jorge Campillo,0.017499999999999998,0.0179,0.0004
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Brandon Stone,0.017499999999999998,0.0179,0.0004
+2025-01-28 01:52:33.950264,TGL - TGL - Winner,Los Angeles,0.0174,0.25,0.2326
 2025-01-27 21:29:48.423257,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Stephen Fulton,0.017299999999999982,0.4255,0.4082
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,David Micheluzzi,0.0169,0.0179,0.001
 2025-01-27 21:29:48.411202,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,0.016600000000000004,0.1905,0.1739
@@ -39,104 +39,103 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Matthew Jordan,0.015499999999999998,0.0278,0.0123
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Francesco Laporta,0.0154,0.0164,0.001
 2025-01-27 16:36:30.958267,Bahrain Championship - Bahrain Championship - Winner,David Puig,0.015300000000000001,0.0588,0.0435
-2025-01-27 12:52:25.322618,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
-2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.014900000000000024,0.3226,0.3077
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.015100000000000002,0.1818,0.1667
 2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.014900000000000024,0.3226,0.3077
+2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.014900000000000024,0.3226,0.3077
 2025-01-27 18:36:37.814459,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.014899999999999997,0.0625,0.0476
+2025-01-28 01:52:33.900292,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.014800000000000035,0.6226,0.6078
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Alex Fitzpatrick,0.014599999999999998,0.0196,0.005
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Doc Redman,0.014400000000000003,0.0323,0.0179
 2025-01-27 18:36:38.546349,Super Bowl 59 Specials - Super Bowl LIX Specials - Will the Game be tied again after 0-0?,Yes,0.014200000000000101,0.6296,0.6154
 2025-01-27 18:36:38.276658,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,No Liquid to be poured on Winning Coach,0.014100000000000001,0.0526,0.0385
 2025-01-27 14:32:17.949584,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Any Player Record an Octopus?,Yes,0.013899999999999996,0.125,0.1111
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.013799999999999923,0.6364,0.6226
 2025-01-27 20:30:15.938638,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,0.013300000000000034,0.3704,0.3571
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Joost Luiten,0.0131,0.0164,0.0033
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Emilio Gonzalez,0.012899999999999998,0.0179,0.005
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Trey Winstead,0.012899999999999998,0.0179,0.005
 2025-01-27 20:30:15.926777,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Angel Fierro,0.012899999999999995,0.1667,0.1538
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Jason Scrivener,0.012799999999999999,0.0141,0.0013
 2025-01-27 23:27:21.119082,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Brandon Figueroa,0.012700000000000045,0.6491,0.6364
+2025-01-28 01:52:33.904270,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.012199999999999989,0.5122,0.5
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Ivan Cantero,0.0119,0.0123,0.0004
 2025-01-27 14:32:17.748830,Super Bowl 59 Specials - Super Bowl LIX Specials - First Turnover of the Game is An Interception ,No,0.0116,0.4878,0.4762
 2025-01-27 14:32:17.697511,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - Who Will be Shown first,Patrick Mahomes (KC),0.011499999999999955,0.6667,0.6552
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,0.011199999999999995,0.0588,0.0476
+2025-01-28 01:52:33.892313,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.011099999999999999,0.7333,0.7222
 2025-01-27 17:30:09.447458,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.011099999999999999,0.7333,0.7222
 2025-01-27 21:29:47.301489,Super Bowl 59 Specials - Super Bowl LIX Specials - Will a non-QB throw a touchdown? ,No,0.010700000000000043,0.8857,0.875
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Jayden Schaper,0.0106,0.011,0.0004
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.010499999999999982,0.2105,0.2
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Maximilian Kieffer,0.0103,0.0123,0.002
 2025-01-27 21:29:48.467529,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.4545,0.4444
+2025-01-28 01:52:33.900292,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.010099999999999998,0.4444,0.4545
 2025-01-27 23:27:19.938346,Super Bowl 59 Specials - Super Bowl LIX Specials - Super Bowl receptions record of 14 catches be broken ,Yes,-0.010099999999999998,0.1111,0.1212
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Ross Fisher,-0.0101,0.0022,0.0123
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Peter Kuest,-0.0102,0.005,0.0152
-2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,United in Grief,-0.0102,0.0667,0.0769
-2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Swimming Pools (Drank),-0.0102,0.0667,0.0769
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Justin Thomas,-0.0102,0.0667,0.0769
 2025-01-27 14:32:16.949922,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Savior,-0.0102,0.0667,0.0769
+2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Swimming Pools (Drank),-0.0102,0.0667,0.0769
+2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,United in Grief,-0.0102,0.0667,0.0769
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Collin Morikawa,-0.0102,0.0667,0.0769
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Roberto Diaz,-0.010300000000000002,0.0141,0.0244
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Viktor Hovland,-0.010600000000000002,0.0217,0.0323
 2025-01-27 18:36:39.706315,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010699999999999987,0.3226,0.3333
 2025-01-27 16:36:29.736395,Super Bowl 59 Specials - Super Bowl LIX Specials - Will a non-QB throw a touchdown? ,No,-0.010700000000000043,0.875,0.8857
 2025-01-27 21:29:48.415260,Boxing Lines - Jesus Alejandro Ramos vs Jeison Rosario - To Win the Bout,Jeison Rosario,-0.011099999999999999,0.1,0.1111
-2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,MrBeast,-0.011099999999999999,0.1,0.1111
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Like That,-0.011099999999999999,0.1,0.1111
 2025-01-27 14:32:16.949922,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Bitch Don't Kill My Vibe,-0.011099999999999999,0.1,0.1111
+2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,MrBeast,-0.011099999999999999,0.1,0.1111
 2025-01-27 14:32:17.949584,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Any Player Record an Octopus?,No,-0.011199999999999988,0.9412,0.9524
 2025-01-27 17:30:09.447458,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
+2025-01-28 01:52:33.892313,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-01-27 18:36:38.574711,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.011600000000000055,0.5122,0.5238
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Jacob Solomon,-0.011699999999999999,0.0079,0.0196
 2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Perplexity AI,-0.011700000000000016,0.2105,0.2222
-2025-01-27 23:27:19.752337,Super Bowl 59 Specials - Super Bowl LIX Specials - - MVP,Patrick Mahomes (KC),-0.012199999999999989,0.5,0.5122
 2025-01-27 21:29:48.471566,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.5,0.5122
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,John Vanderlaan,-0.012700000000000003,0.0196,0.0323
+2025-01-27 23:27:19.752337,Super Bowl 59 Specials - Super Bowl LIX Specials - - MVP,Patrick Mahomes (KC),-0.012199999999999989,0.5,0.5122
+2025-01-28 01:52:31.652229,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.012800000000000034,0.7015,0.7143
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Humble,-0.012899999999999995,0.1538,0.1667
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Ross Steelman,-0.013400000000000002,0.011,0.0244
 2025-01-27 20:30:15.938638,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,-0.013599999999999945,0.6923,0.7059
 2025-01-27 21:29:48.411202,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,-0.013900000000000023,0.875,0.8889
-2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Squabble Up,-0.013999999999999999,0.0769,0.0909
+2025-01-28 01:52:33.864238,Boxing Lines - Claressa Shields vs Danielle Perkins - To Win the Bout,Danielle Perkins,-0.013999999999999999,0.0769,0.0909
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Draw95,-0.013999999999999999,0.0769,0.0909
+2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Squabble Up,-0.013999999999999999,0.0769,0.0909
 2025-01-27 14:32:17.562393,Political Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,X (Twitter),-0.014399999999999996,0.0625,0.0769
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Darren Fichardt,-0.014700000000000001,0.0017,0.0164
 2025-01-27 21:29:48.467529,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.014800000000000035,0.6078,0.6226
 2025-01-27 17:30:09.496844,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Scottie Scheffler,-0.015100000000000002,0.1667,0.1818
 2025-01-27 15:26:44.366422,FA Cup - England FA Cup 2024/25 - Winner,Brighton & Hove Albion,-0.015300000000000001,0.0323,0.0476
-2025-01-27 12:52:25.102296,MLB Specials - MLB Specials 2025 - Which MLB Team will Sign Alex Bregman?,Detroit Tigers,-0.015400000000000025,0.2703,0.2857
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Tom Vaillant,-0.0159,0.0164,0.0323
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Kyle Westmoreland,-0.0165,0.0079,0.0244
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Scott Piercy,-0.0168,0.0028,0.0196
 2025-01-27 14:32:17.748830,Super Bowl 59 Specials - Super Bowl LIX Specials - First Turnover of the Game is An Interception ,Yes,-0.017299999999999982,0.5744,0.5917
 2025-01-27 20:30:15.958418,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.018100000000000005,0.7222,0.7403
 2025-01-27 21:29:48.423257,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Brandon Figueroa,-0.01880000000000004,0.6364,0.6552
 2025-01-27 14:32:17.701499,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - Who Will be Shown first,Travis Kelce (KC),-0.019499999999999962,0.6296,0.6491
 2025-01-27 18:36:38.546349,Super Bowl 59 Specials - Super Bowl LIX Specials - Will the Game be tied again after 0-0?,No,-0.019699999999999995,0.4348,0.4545
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Scott Jamieson,-0.020000000000000004,0.0123,0.0323
-2025-01-27 12:52:25.102296,MLB Specials - MLB Specials 2025 - Which MLB Team will Sign Alex Bregman?,Chicago Cubs,-0.020799999999999985,0.3125,0.3333
 2025-01-27 21:29:48.419262,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,-0.02080000000000004,0.6667,0.6875
 2025-01-27 17:30:09.427135,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.02100000000000002,0.3636,0.3846
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.022199999999999998,0.2,0.2222
 2025-01-27 21:29:47.093832,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Red,-0.022199999999999998,0.1111,0.1333
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,LOVE.,-0.02239999999999999,0.0952,0.1176
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Family Ties,-0.02239999999999999,0.0952,0.1176
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Fred Biondi,-0.022400000000000003,0.002,0.0244
 2025-01-27 18:36:39.770705,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Jupiter Links (TKim/Woods/Homa/Kisner),-0.02260000000000001,0.3774,0.4
 2025-01-27 23:27:21.114989,Boxing Lines - David Benavidez vs David Morrell - To Win the Bout,David Morrell,-0.02260000000000001,0.3774,0.4
 2025-01-27 14:32:17.972421,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Points Be Scored In The First 6 Minutes 30 Seconds?,No,-0.022600000000000064,0.5122,0.5348
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Adam Long,-0.022799999999999997,0.005,0.0278
-2025-01-27 20:30:14.299409,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Matas Buzelis (CHI),-0.023799999999999988,0.1429,0.1667
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.023499999999999965,0.9474,0.9709
 2025-01-27 15:26:44.444351,EFL Cup - EFL Cup 2024/25 - EFL Cup Winner,Tottenham Hotspur,-0.023799999999999988,0.1429,0.1667
+2025-01-27 20:30:14.299409,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Matas Buzelis (CHI),-0.023799999999999988,0.1429,0.1667
 2025-01-27 23:27:21.106754,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.023800000000000016,0.1667,0.1905
+2025-01-28 01:52:33.844370,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Adam Azim,-0.025000000000000022,0.875,0.9
 2025-01-27 14:32:16.949922,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,A.D.H.D,-0.02560000000000001,0.3077,0.3333
 2025-01-27 16:36:29.610993,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - 1st Song of Halftime Show: Humble & Last Song of Halftime Show: Not Like Us,No,-0.025600000000000067,0.95,0.9756
 2025-01-27 16:36:30.967429,TGL - Team Matchups - Jupiter Links vs Boston Common - Team Matchups,Boston Common (Bradley/McIlroy/Matsuyama/Scott),-0.025600000000000067,0.6667,0.6923
 2025-01-27 14:32:17.721404,Super Bowl 59 Specials - Super Bowl LIX Specials - Coin Toss - Will Kansas City Chiefs Win the Coin Toss and Win the Game,No,-0.026499999999999968,0.7561,0.7826
 2025-01-27 18:36:38.434810,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will Jon Batiste perform the National Anthem with a piano?,No,-0.027099999999999985,0.2326,0.2597
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Tano Goya,-0.0273,0.005,0.0323
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Aaron Cockerill,-0.0279,0.0066,0.0345
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Keita Nakajima,-0.028199999999999996,0.0385,0.0667
-2025-01-27 12:52:25.386613,Panama Championship - Panama Championship - Winner,Sam Bennett,-0.0286,0.0099,0.0385
 2025-01-27 16:36:29.526819,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Under 120.5 seconds,-0.029000000000000026,0.4255,0.4545
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Sebastian Soderberg,-0.031,0.0278,0.0588
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Bernd Wiesberger,-0.0312,0.0123,0.0435
 2025-01-27 15:26:44.366422,FA Cup - England FA Cup 2024/25 - Winner,Tottenham Hotspur,-0.0321,0.0588,0.0909
 2025-01-27 14:32:16.949922,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,DNA,-0.033300000000000024,0.1667,0.2
 2025-01-27 16:36:29.638208,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Will Kendrick Lamar Perform Not Like Us First?,No,-0.033399999999999985,0.8333,0.8667
+2025-01-28 01:52:33.950264,TGL - TGL - Winner,Boston Common,-0.036599999999999994,0.1739,0.2105
+2025-01-28 01:52:31.763846,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.036900000000000044,0.6,0.6369
 2025-01-27 18:36:38.258958,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.03889999999999999,0.1429,0.1818
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,King Kunta,-0.04169999999999999,0.125,0.1667
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Julien Guerrier,-0.0491,0.0278,0.0769
@@ -144,9 +143,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-27 14:32:18.012721,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),-0.06789999999999996,0.5238,0.5917
 2025-01-27 16:36:29.530259,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Blue,-0.07239999999999996,0.2353,0.3077
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Joel Girrbach,-0.0793,0.004,0.0833
+2025-01-28 01:52:31.766956,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.07940000000000003,0.4444,0.5238
 2025-01-27 16:36:29.530259,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Red,-0.0889,0.1333,0.2222
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Dylan Frittelli,-0.0901,0.0099,0.1
 2025-01-27 14:32:19.281221,Bahrain Championship - Bahrain Championship - Winner,Alejandro Del Rey,-0.1033,0.0217,0.125
 2025-01-27 16:36:29.624757,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Last Song,Savior,-0.10669999999999999,0.16,0.2667
 2025-01-27 16:36:29.530259,Super Bowl 59 Specials - Super Bowl LIX Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 59? ,Lime/Green/Yellow,-0.12279999999999999,0.2105,0.3333
-2025-01-27 13:32:02.588703,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will any player or coach cry during National Anthem,No,-0.12680000000000002,0.2899,0.4167

@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.06969999999999998,0.6923,0.6226
 2025-01-29 09:29:32.266728,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.06929999999999997,0.5455,0.4762
 2025-01-29 08:34:04.297462,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.0635,0.7778,0.7143
-2025-01-29 09:29:32.263621,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.057699999999999974,0.3077,0.25
 2025-01-29 15:30:34.306481,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Under 70.5,0.057699999999999974,0.5122,0.4545
+2025-01-29 09:29:32.263621,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,0.057699999999999974,0.3077,0.25
 2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.05130000000000001,0.3846,0.3333
 2025-01-29 08:34:04.302153,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.050000000000000044,0.8,0.75
 2025-01-29 09:29:32.263621,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.04999999999999999,0.25,0.2
@@ -29,14 +29,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-29 15:30:34.294869,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 71.5,0.031799999999999995,0.4762,0.4444
 2025-01-29 16:36:05.347056,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,0.031700000000000006,0.2222,0.1905
 2025-01-29 09:29:32.210813,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.030299999999999994,0.6667,0.6364
-2025-01-29 08:34:06.094293,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-29 14:31:49.788256,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-29 09:29:34.688100,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-29 13:32:03.746445,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-29 15:30:33.733341,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-29 12:50:42.266719,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 19:24:49.310105,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-29 07:26:46.382002,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-29 10:33:37.104851,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 13:32:03.746445,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 09:29:34.688100,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 14:31:49.788256,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 08:34:06.094293,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 15:30:33.733341,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-29 12:50:42.266719,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-29 16:36:07.057913,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-29 17:30:11.091133,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-29 18:36:49.601032,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
@@ -50,33 +51,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Blackpool,0.024999999999999994,0.125,0.1
 2025-01-29 15:30:31.672970,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.024800000000000016,0.2353,0.2105
 2025-01-29 10:33:37.184682,AT&T Pebble Beach Pro-Am - 2/3 Balls - Tournament 3 Balls - S. Scheffler / R. McIIroy / C. Morikawa - Tournament 3 Balls,Scottie Scheffler,0.024399999999999977,0.5122,0.4878
-2025-01-29 08:34:06.066450,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 18:36:49.568961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 16:36:07.029683,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 15:30:33.704164,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-29 14:31:49.760065,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 13:32:03.718052,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-29 12:50:42.237101,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 11:25:18.690730,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 10:33:37.076728,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-29 09:29:34.654570,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 17:30:11.063086,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.0242,0.0909,0.0667
 2025-01-29 09:29:32.260543,League One - England League One 2024/25 - To Be Relegated,Exeter City,0.0242,0.0909,0.0667
+2025-01-29 11:25:18.690730,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 13:32:03.718052,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 15:30:33.704164,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 16:36:07.029683,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 17:30:11.063086,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 18:36:49.568961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 19:24:49.281554,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 08:34:06.066450,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 10:33:37.076728,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-29 07:26:46.353654,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.0242,0.0909,0.0667
 2025-01-29 08:34:04.446035,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,0.023800000000000016,0.1905,0.1667
-2025-01-29 09:29:32.260543,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.023799999999999988,0.5,0.4762
-2025-01-29 08:34:04.288038,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.023799999999999988,0.1667,0.1429
 2025-01-29 11:25:18.900930,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - L. Hodges / N. Taylor - 1st Round 2-Balls,Lee Hodges,0.023799999999999988,0.5,0.4762
-2025-01-29 15:30:34.162843,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
+2025-01-29 08:34:04.288038,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,0.023799999999999988,0.1667,0.1429
+2025-01-29 09:29:32.260543,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.023799999999999988,0.5,0.4762
 2025-01-29 16:36:07.158206,AT&T Pebble Beach Pro-Am - 2/3 Balls - Tournament 3 Balls - S. Scheffler / R. McIIroy / C. Morikawa - Tournament 3 Balls,Scottie Scheffler,0.022600000000000064,0.5348,0.5122
 2025-01-29 09:29:32.210813,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.022600000000000064,0.6226,0.6
-2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.02260000000000001,0.4,0.3774
+2025-01-29 15:30:34.162843,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2025-01-29 09:29:32.260543,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.02260000000000001,0.4,0.3774
-2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.022199999999999998,0.1333,0.1111
+2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.02260000000000001,0.4,0.3774
 2025-01-29 09:29:32.213920,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.022199999999999998,0.2222,0.2
-2025-01-29 11:25:18.913229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Max Greyserman,0.02169999999999994,0.5455,0.5238
+2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.022199999999999998,0.1333,0.1111
 2025-01-29 10:33:37.377225,Positions - Finishing Position - Patrick Cantlay - Finishing Position,18th or worse,0.02169999999999994,0.5455,0.5238
+2025-01-29 11:25:18.913229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Max Greyserman,0.02169999999999994,0.5455,0.5238
 2025-01-29 11:25:17.546347,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,No,0.020799999999999985,0.3333,0.3125
 2025-01-29 10:33:37.355689,Positions - Finishing Position - Collin Morikawa - Finishing Position,14th or worse,0.02079999999999993,0.5556,0.5348
 2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,0.02020000000000001,0.1111,0.0909
@@ -92,43 +94,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-29 16:36:06.997432,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,0.013599999999999945,0.7059,0.6923
 2025-01-29 10:33:37.188735,AT&T Pebble Beach Pro-Am - 2/3 Balls - Tournament 3 Balls - T. Pendrith / S. Lowry / S. Straka - Tournament 3 Balls,Shane Lowry,0.013300000000000034,0.3704,0.3571
 2025-01-29 09:29:32.349434,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Platense,0.012999999999999998,0.0294,0.0164
-2025-01-29 11:25:18.880059,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Thomas / J. Spieth - 1st Round 2-Balls,Justin Thomas,0.012700000000000045,0.6491,0.6364
 2025-01-29 11:25:18.809847,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Knapp / B. Hossler - 1st Round 2-Balls,Beau Hossler,0.012700000000000045,0.6491,0.6364
+2025-01-29 11:25:18.880059,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Thomas / J. Spieth - 1st Round 2-Balls,Justin Thomas,0.012700000000000045,0.6491,0.6364
 2025-01-29 15:30:34.269226,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 69.5,0.0116,0.4878,0.4762
-2025-01-29 09:29:32.207417,Championship - England Championship 2024/25 - Top Goalscorer,Callum Lang,0.011199999999999995,0.0588,0.0476
-2025-01-29 09:29:32.266728,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.011199999999999995,0.0588,0.0476
 2025-01-29 09:29:32.263621,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,0.011199999999999995,0.0588,0.0476
-2025-01-29 07:26:46.236674,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,0.011099999999999999,0.9,0.8889
-2025-01-29 09:29:32.217039,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.011099999999999999,0.1111,0.1
+2025-01-29 09:29:32.266728,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.011199999999999995,0.0588,0.0476
+2025-01-29 09:29:32.207417,Championship - England Championship 2024/25 - Top Goalscorer,Callum Lang,0.011199999999999995,0.0588,0.0476
 2025-01-29 10:33:36.963726,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,0.011099999999999999,0.9,0.8889
+2025-01-29 09:29:32.217039,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.011099999999999999,0.1111,0.1
+2025-01-29 07:26:46.236674,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,0.011099999999999999,0.9,0.8889
 2025-01-29 10:33:37.473071,Tournament Match-Ups - Tournament Match-Up - M. Homa v T. Hoge - Tournament Match-Up,Tom Hoge,0.010699999999999932,0.5455,0.5348
 2025-01-29 16:36:07.114564,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Rory McIlroy,0.0102,0.0769,0.0667
 2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.0102,0.0769,0.0667
-2025-01-29 10:33:37.661870,Hilton Tournament of Champions - 2/3 Balls - 1st Round 2-Balls - L. Ko / A. Pano - 1st Round 2-Balls,Alexa Pano,0.010099999999999998,0.3226,0.3125
-2025-01-29 16:36:07.219380,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - K. Bradley / T. Fleetwood - 1st Round 2-Balls,Tommy Fleetwood,0.010099999999999998,0.5556,0.5455
 2025-01-29 08:34:04.292750,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.010099999999999998,0.4545,0.4444
+2025-01-29 16:36:07.219380,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - K. Bradley / T. Fleetwood - 1st Round 2-Balls,Tommy Fleetwood,0.010099999999999998,0.5556,0.5455
+2025-01-29 10:33:37.661870,Hilton Tournament of Champions - 2/3 Balls - 1st Round 2-Balls - L. Ko / A. Pano - 1st Round 2-Balls,Alexa Pano,0.010099999999999998,0.3226,0.3125
 2025-01-29 12:50:42.325945,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2025-01-29 09:29:32.210813,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.010499999999999982,0.2,0.2105
 2025-01-29 16:36:07.021572,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010699999999999987,0.3226,0.3333
 2025-01-29 09:29:32.376600,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.010899999999999993,0.1429,0.1538
 2025-01-29 08:34:04.292750,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.010899999999999993,0.1429,0.1538
 2025-01-29 10:33:37.473071,Tournament Match-Ups - Tournament Match-Up - M. Homa v T. Hoge - Tournament Match-Up,Max Homa,-0.01100000000000001,0.5238,0.5348
-2025-01-29 08:34:05.951141,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,-0.011099999999999999,0.8889,0.9
 2025-01-29 16:36:06.900584,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,-0.011099999999999999,0.8889,0.9
-2025-01-29 09:29:32.353346,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Vélez Sarsfield,-0.011199999999999995,0.0476,0.0588
+2025-01-29 08:34:05.951141,Boxing Lines - Joel Kodua vs Lloyd Germain - To Win the Bout,Joel Kodua,-0.011099999999999999,0.8889,0.9
 2025-01-29 09:29:32.349434,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Godoy Cruz,-0.011199999999999995,0.0476,0.0588
 2025-01-29 09:29:32.210813,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.011199999999999995,0.0476,0.0588
+2025-01-29 09:29:32.353346,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Vélez Sarsfield,-0.011199999999999995,0.0476,0.0588
 2025-01-29 09:29:32.376600,National League - English National League 2024/25 - To Be Promoted,York City,-0.0116,0.4762,0.4878
 2025-01-29 16:36:07.268164,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J.T. Poston / S. Burns - 1st Round 2-Balls,J.T. Poston,-0.0116,0.4762,0.4878
-2025-01-29 11:25:17.963311,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Under 51.5,-0.012199999999999989,0.5,0.5122
 2025-01-29 16:36:07.219380,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - K. Bradley / T. Fleetwood - 1st Round 2-Balls,Keegan Bradley,-0.012199999999999989,0.4878,0.5
+2025-01-29 11:25:17.963311,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Under 51.5,-0.012199999999999989,0.5,0.5122
 2025-01-29 16:36:06.997432,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.013300000000000034,0.3571,0.3704
 2025-01-29 16:36:07.158206,AT&T Pebble Beach Pro-Am - 2/3 Balls - Tournament 3 Balls - S. Scheffler / R. McIIroy / C. Morikawa - Tournament 3 Balls,Rory McIlroy,-0.013600000000000001,0.2941,0.3077
 2025-01-29 09:29:32.372872,National League - English National League 2024/25 - English National League Winner,Rochdale,-0.014099999999999998,0.0294,0.0435
 2025-01-29 16:36:06.952870,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Stephen Fulton,-0.01479999999999998,0.3774,0.3922
 2025-01-29 10:33:37.184682,AT&T Pebble Beach Pro-Am - 2/3 Balls - Tournament 3 Balls - S. Scheffler / R. McIIroy / C. Morikawa - Tournament 3 Balls,Rory McIlroy,-0.014900000000000024,0.3077,0.3226
-2025-01-29 09:29:32.213920,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.015100000000000002,0.1667,0.1818
 2025-01-29 08:34:05.959040,Boxing Lines - Scott Forrest vs Aurel Ignat - To Win the Bout,Scott Forrest,-0.015100000000000002,0.8182,0.8333
+2025-01-29 09:29:32.213920,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.015100000000000002,0.1667,0.1818
 2025-01-29 09:29:32.217039,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.015900000000000025,0.8462,0.8621
 2025-01-29 11:25:18.809847,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Knapp / B. Hossler - 1st Round 2-Balls,Jake Knapp,-0.016000000000000014,0.3922,0.4082
 2025-01-29 11:25:18.880059,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - J. Thomas / J. Spieth - 1st Round 2-Balls,Jordan Spieth,-0.016000000000000014,0.3922,0.4082
@@ -143,45 +145,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-29 08:34:04.288038,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,Boston Celtics,-0.020199999999999996,0.8889,0.9091
 2025-01-29 14:31:47.697640,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q3 2025,-0.0203,0.0323,0.0526
 2025-01-29 10:33:37.377225,Positions - Finishing Position - Patrick Cantlay - Finishing Position,17th or better,-0.02169999999999994,0.5238,0.5455
-2025-01-29 15:30:34.162843,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Justin Thomas,-0.022600000000000064,0.5122,0.5348
 2025-01-29 10:33:37.355689,Positions - Finishing Position - Collin Morikawa - Finishing Position,13th or better,-0.022600000000000064,0.5122,0.5348
+2025-01-29 15:30:34.162843,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Justin Thomas,-0.022600000000000064,0.5122,0.5348
 2025-01-29 09:29:32.223182,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.0228,0.0066,0.0294
-2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,-0.02310000000000001,0.0769,0.1
 2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.02310000000000001,0.0769,0.1
+2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,-0.02310000000000001,0.0769,0.1
 2025-01-29 09:29:32.260543,League One - England League One 2024/25 - To Be Relegated,Burton Albion,-0.023799999999999932,0.8333,0.8571
 2025-01-29 10:33:37.505689,Tournament Match-Ups - Tournament Match-Up - W. Clark vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.023799999999999988,0.4762,0.5
 2025-01-29 12:50:42.860662,Match-Ups - Tournament Match-Ups - G. Migliozzi v A. Fitzpatrick - Requests,Alex Fitzpatrick,-0.023799999999999988,0.4762,0.5
-2025-01-29 11:25:18.913229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Russell Henley,-0.023800000000000043,0.5,0.5238
 2025-01-29 12:50:42.879279,Match-Ups - Tournament Match-Ups - S. Soderberg v R. Neergaard Petersen - Requests,Rasmus Neergaard Petersen,-0.023800000000000043,0.5,0.5238
+2025-01-29 11:25:18.913229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Russell Henley,-0.023800000000000043,0.5,0.5238
 2025-01-29 14:31:47.697640,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q2 2025,-0.024,0.0385,0.0625
-2025-01-29 09:29:34.688100,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 10:33:37.104851,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 17:30:11.091133,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 11:25:18.719483,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 08:34:06.094293,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 16:36:07.057913,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-29 13:32:03.746445,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 18:36:49.601032,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 19:24:49.310105,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 17:30:11.091133,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 10:33:37.104851,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 15:30:33.733341,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-29 14:31:49.788256,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-29 12:50:42.266719,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 15:30:33.733341,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-29 07:26:46.382002,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-29 16:36:07.057913,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 11:25:18.719483,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 08:34:06.094293,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 09:29:34.688100,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-29 18:36:49.601032,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-29 15:30:34.057936,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs J. Thomas - Tournament Match-Up,Justin Thomas,-0.024399999999999977,0.4878,0.5122
 2025-01-29 09:29:32.349434,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Vélez Sarsfield,-0.024999999999999994,0.1,0.125
 2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.025000000000000022,0.875,0.9
 2025-01-29 09:29:32.269840,League One - England League One 2024/25 - Top 6 Finish,Wrexham,-0.025000000000000022,0.875,0.9
-2025-01-29 18:36:49.568961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 16:36:07.029683,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 07:26:46.353654,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-29 15:30:33.704164,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 08:34:06.066450,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 14:31:49.760065,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 09:29:34.654570,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-29 13:32:03.718052,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-29 10:33:37.076728,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 17:30:11.063086,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-29 11:25:18.690730,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 14:31:49.760065,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 09:29:34.654570,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-29 12:50:42.237101,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 08:34:06.066450,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 16:36:07.029683,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 11:25:18.690730,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 07:26:46.353654,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 17:30:11.063086,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 18:36:49.568961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-29 19:24:49.281554,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-29 10:33:37.372916,Positions - Finishing Position - Ludvig Aberg - Finishing Position,19th or better,-0.028900000000000037,0.5455,0.5744
 2025-01-29 09:29:32.257438,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.029000000000000026,0.4255,0.4545
 2025-01-29 16:36:07.420532,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.029600000000000015,0.3704,0.4

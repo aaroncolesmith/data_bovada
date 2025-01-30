@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Brandon Robinson-Thompson,0.2296,0.2353,0.0057
-2025-01-30 09:29:15.126790,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,0.1884,0.6429,0.4545
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.14290000000000003,0.4762,0.3333
 2025-01-30 12:50:59.676195,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.13640000000000002,0.5,0.3636
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.08889999999999998,0.8889,0.8
@@ -10,10 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.06670000000000009,0.8,0.7333
 2025-01-30 10:33:22.065602,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,God Or Jesus,0.06669999999999998,0.6667,0.6
 2025-01-30 21:26:22.007282,Super Bowl 59 Specials - Super Bowl LIX Specials - First TV Advertisement - Booking.com vs GoDaddy,Booking.com,0.06519999999999992,0.6,0.5348
-2025-01-30 09:29:16.610786,MLB Specials - MLB Specials 2025 - Which MLB Team will Pete Alonso Play his First Regular Season Game for in the 2025 Season?,Mets,0.059099999999999986,0.3448,0.2857
 2025-01-30 12:50:59.670121,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.057699999999999974,0.3077,0.25
 2025-01-30 17:30:12.411137,NBA Specials - Next De'Aaron Fox Team? - Next Fox Team,San Antonio Spurs,0.05559999999999998,0.5,0.4444
-2025-01-30 09:29:15.229545,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.055499999999999994,0.8333,0.7778
 2025-01-30 10:33:22.203775,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will any player or coach cry during National Anthem,Yes,0.055499999999999994,0.8333,0.7778
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.05449999999999999,0.6,0.5455
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Callum Tarren,0.0544,0.0588,0.0044
@@ -30,47 +27,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 10:33:21.258632,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.03330000000000001,0.1,0.0667
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),0.031799999999999995,0.1429,0.1111
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.031799999999999995,0.4762,0.4444
-2025-01-30 13:31:26.866440,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 14:31:08.850596,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 12:51:01.972282,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 11:26:16.512603,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 15:30:31.243178,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 10:33:23.577990,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 17:30:14.125542,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 09:29:16.898333,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 19:24:26.152020,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 20:30:05.848161,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 21:26:23.476308,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-30 16:36:02.953125,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-30 18:36:13.774544,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 20:30:05.848161,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 19:24:26.152020,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 16:36:02.953125,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 12:51:01.972282,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 17:30:14.125542,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 15:30:31.243178,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 14:31:08.850596,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 13:31:26.866440,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 22:31:20.743795,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 11:26:16.512603,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 21:26:23.476308,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-30 10:33:23.577990,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-30 21:26:23.370027,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Stephen Fulton,0.028600000000000014,0.3922,0.3636
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,0.027999999999999997,0.1818,0.1538
-2025-01-30 09:29:15.232941,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.02779999999999999,0.25,0.2222
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Pablo Larrazabal,0.0273,0.0323,0.005
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.02560000000000001,0.3333,0.3077
+2025-01-30 22:31:20.638754,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Brandon Figueroa,0.024899999999999922,0.697,0.6721
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Richie Ramsay,0.0244,0.0323,0.0079
-2025-01-30 18:36:13.745352,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 15:30:31.215182,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 22:31:20.714543,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 21:26:23.448126,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 20:30:05.816476,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-30 19:24:26.121902,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 10:33:23.549559,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 11:26:16.484313,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 17:30:14.096512,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 16:36:02.923961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 15:30:31.215182,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-30 14:31:08.821731,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-30 13:31:26.836382,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-30 12:51:01.944518,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 16:36:02.923961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 20:30:05.816476,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 11:26:16.484313,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 10:33:23.549559,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 09:29:16.869728,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 21:26:23.448126,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-30 17:30:14.096512,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-30 18:36:13.745352,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Lille,0.023899999999999998,0.0435,0.0196
 2025-01-30 14:31:09.065624,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Max Greyserman,0.023800000000000043,0.5238,0.5
-2025-01-30 09:29:15.751380,Player Props - New York Mets - 2025 Regular Season Player Props - Brandon Nimmo Total Home Runs,Under 18.5,0.022600000000000064,0.5348,0.5122
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,0.02260000000000001,0.4,0.3774
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Paris Saint-Germain,0.022199999999999998,0.1333,0.1111
 2025-01-30 10:33:24.131531,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 71.5,0.021699999999999997,0.4762,0.4545
-2025-01-30 09:29:15.982600,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes Total Wins,Over 11.5,0.02169999999999994,0.5455,0.5238
-2025-01-30 09:29:15.764718,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total Home Runs,Under 34.5,0.02169999999999994,0.5455,0.5238
 2025-01-30 10:33:23.882136,Tournament Match-Ups - Tournament Match-Up - D. Ghim v N. Echavarria - Tournament Match-Up,Nico Echavarria,0.02169999999999994,0.5455,0.5238
+2025-01-30 21:26:21.952922,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - How Long Will It Take Trombone Shorty and Lauren Daigle Sing America the Beautiful’?,Over 110 Seconds,0.02079999999999993,0.5556,0.5348
 2025-01-30 10:33:24.079464,Scores - 1st Round Score - Max Homa - 1st Round Score,Under 71.5,0.020699999999999996,0.4651,0.4444
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Martin Couvra,0.0204,0.0244,0.004
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayer Leverkusen,0.02020000000000001,0.1111,0.0909
@@ -82,16 +77,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Tapio Pulkkanen,0.0189,0.0217,0.0028
 2025-01-30 18:36:13.641533,Boxing Lines - Kaipo Gallegos vs Leonardo Padilla - To Win the Bout,Kaipo Gallegos,0.01760000000000006,0.9,0.8824
 2025-01-30 21:26:22.135213,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Over 2.5,0.017600000000000005,0.3509,0.3333
-2025-01-30 21:26:23.403567,Boxing Lines - Joseph Hicks vs Keon Papillion - To Win the Bout,Keon Papillion,0.01759999999999999,0.1176,0.1
 2025-01-30 17:30:12.411137,NBA Specials - Next De'Aaron Fox Team? - Next Fox Team,Minnesota Timberwolves,0.01759999999999999,0.1176,0.1
+2025-01-30 21:26:23.403567,Boxing Lines - Joseph Hicks vs Keon Papillion - To Win the Bout,Keon Papillion,0.01759999999999999,0.1176,0.1
 2025-01-30 12:51:02.090203,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - T. Kim / C. Morikawa - 1st Round 2-Balls ,Tom Kim,0.017299999999999982,0.4255,0.4082
+2025-01-30 22:31:19.200355,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Jaxson Dart (MISS),0.017099999999999997,0.0294,0.0123
 2025-01-30 10:33:21.328654,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,0.016699999999999993,0.2667,0.25
-2025-01-30 09:29:15.232941,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.016699999999999993,0.4167,0.4
 2025-01-30 10:33:24.199737,Match-Ups - Tournament Match-Up - S. Burns v V. Hovland - Requests,Sam Burns,0.016100000000000003,0.6078,0.5917
-2025-01-30 14:31:09.407644,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 71.5,0.016100000000000003,0.6078,0.5917
 2025-01-30 14:31:09.394722,Scores - 1st Round Score - Thomas Detry - 1st Round Score,Under 71.5,0.016100000000000003,0.6078,0.5917
+2025-01-30 14:31:09.407644,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 71.5,0.016100000000000003,0.6078,0.5917
 2025-01-30 21:26:22.072797,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Saquon Barkley (PHI),0.016000000000000014,0.4082,0.3922
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Manchester City,0.015100000000000002,0.1818,0.1667
+2025-01-30 22:31:19.250702,Super Bowl 59 Specials - Super Bowl LIX Specials - Coin Toss - Will Philadelphia Eagles Win the Coin Toss and Win the Game,Yes,0.014600000000000002,0.2778,0.2632
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Matthew Jordan,0.014099999999999998,0.0385,0.0244
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Laurie Canter,0.014099999999999994,0.0667,0.0526
 2025-01-30 14:31:09.390391,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 71.5,0.013799999999999923,0.6364,0.6226
@@ -105,26 +101,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 15:30:31.206944,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.01150000000000001,0.3448,0.3333
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Jack Senior,0.0114,0.0164,0.005
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Oliver Lindell,0.011399999999999997,0.0278,0.0164
-2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atlético Madrid,0.011099999999999999,0.1111,0.1
 2025-01-30 10:33:24.109866,Scores - 1st Round Score - Si Woo Kim - 1st Round Score,Under 71.5,0.011099999999999999,0.4762,0.4651
+2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atlético Madrid,0.011099999999999999,0.1111,0.1
 2025-01-30 16:36:02.915773,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.011099999999999999,0.7333,0.7222
 2025-01-30 14:31:09.241132,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Justin Thomas,0.01100000000000001,0.5348,0.5238
 2025-01-30 15:30:31.121519,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,0.010899999999999993,0.1538,0.1429
 2025-01-30 21:26:22.014226,Super Bowl 59 Specials - Super Bowl LIX Specials - First TV Advertisement - Lay’s vs Hellmann’s,Hellmann’s,0.010700000000000043,0.6774,0.6667
+2025-01-30 22:31:19.200355,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.010599999999999998,0.4651,0.4545
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Ross Fisher,0.0104,0.0132,0.0028
-2025-01-30 09:29:15.216054,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Anthony Edwards (MIN),0.0102,0.0769,0.0667
-2025-01-30 09:29:16.635317,AL ROY - AL ROY 2025 - American League Rookie of the Year,Coby Mayo (BAL),0.0102,0.0769,0.0667
 2025-01-30 16:36:02.771074,Boxing Lines - Ryusei Matsumoto vs Masatora Okada - To Win the Bout,Ryusei Matsumoto,0.010199999999999987,0.9333,0.9231
-2025-01-30 09:29:17.239710,Tournament Match-Ups - Tournament Match-Up - M. Homa v T. Hoge - Tournament Match-Up,Tom Hoge,0.010099999999999998,0.5556,0.5455
-2025-01-30 09:29:16.490779,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - Regular Season Wins,Under 87.5,0.010099999999999998,0.5556,0.5455
+2025-01-30 22:31:20.753423,BKFC: Lane vs VanCamp - Andrew Strode vs Tyler Randall - To Win the Bout,Tyler Randall,-0.010099999999999998,0.3125,0.3226
+2025-01-30 22:31:20.766698,BKFC: Lane vs VanCamp - Dakota Cochrane vs Will Santiago - To Win the Bout,Dakota Cochrane,-0.010099999999999998,0.6774,0.6875
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Atalanta,-0.0102,0.0667,0.0769
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Kiradech Aphibarnrat,-0.010499999999999999,0.0005,0.011
-2025-01-30 09:29:15.130732,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Gonzaga,-0.010599999999999998,0.4545,0.4651
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Matthew Southgate,-0.0106,0.0004,0.011
 2025-01-30 10:33:22.065602,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,Family or Family Members,-0.010700000000000001,0.0278,0.0385
-2025-01-30 16:36:02.829134,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.010899999999999993,0.1429,0.1538
 2025-01-30 12:51:01.793592,Boxing Lines - George Liddard vs Derrick Osaze - To Win the Bout,Derrick Osaze,-0.010899999999999993,0.1429,0.1538
 2025-01-30 14:31:08.726683,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.010899999999999993,0.1429,0.1538
+2025-01-30 16:36:02.829134,Boxing Lines - Adam Azim vs Sergey Lipinets - To Win the Bout,Sergey Lipinets,-0.010899999999999993,0.1429,0.1538
 2025-01-30 13:31:27.274532,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Collin Morikawa,-0.01100000000000001,0.5238,0.5348
 2025-01-30 10:33:21.774103,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Arizona,-0.011099999999999999,0.1,0.1111
 2025-01-30 21:26:22.079862,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Nick Sirianni,-0.011099999999999999,0.4651,0.4762
@@ -132,15 +126,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 21:26:23.403567,Boxing Lines - Joseph Hicks vs Keon Papillion - To Win the Bout,Joseph Hicks,-0.011199999999999988,0.9412,0.9524
 2025-01-30 10:33:22.065602,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,City,-0.011199999999999995,0.0476,0.0588
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.011199999999999995,0.0476,0.0588
-2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Guido Migliozzi,-0.011200000000000002,0.0132,0.0244
 2025-01-30 10:33:21.770054,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Oregon,-0.011200000000000002,0.0132,0.0244
+2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Guido Migliozzi,-0.011200000000000002,0.0132,0.0244
 2025-01-30 16:36:02.915773,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Ivan Cantero,-0.0116,0.0025,0.0141
-2025-01-30 10:33:23.712518,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - R. McIIroy / L. Aberg - 1st Round 2-Balls,Ludvig Aberg,-0.0116,0.4762,0.4878
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Joe Dean,-0.0116,0.0025,0.0141
-2025-01-30 09:29:17.239710,Tournament Match-Ups - Tournament Match-Up - M. Homa v T. Hoge - Tournament Match-Up,Max Homa,-0.011600000000000055,0.5122,0.5238
+2025-01-30 10:33:23.712518,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - R. McIIroy / L. Aberg - 1st Round 2-Balls,Ludvig Aberg,-0.0116,0.4762,0.4878
 2025-01-30 14:31:09.241132,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs J. Thomas - 1st Round Match-Up,Collin Morikawa,-0.011600000000000055,0.5122,0.5238
-2025-01-30 09:29:16.490779,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - Regular Season Wins,Over 87.5,-0.011600000000000055,0.5122,0.5238
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Maximilian Kieffer,-0.0119,0.0004,0.0123
 2025-01-30 12:50:59.670121,League Two - England League Two 2024/25 - To Be Relegated,Cheltenham Town,-0.012100000000000001,0.0123,0.0244
 2025-01-30 10:33:21.790124,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.012600000000000056,0.7874,0.8
@@ -156,81 +148,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Hamish Brown,-0.0148,0.0004,0.0152
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Ewen Ferguson,-0.0151,0.0066,0.0217
 2025-01-30 18:36:13.641533,Boxing Lines - Kaipo Gallegos vs Leonardo Padilla - To Win the Bout,Leonardo Padilla,-0.015100000000000002,0.1667,0.1818
-2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Bromley,-0.015300000000000001,0.0435,0.0588
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Viktor Gyokeres (Sporting),-0.015300000000000001,0.0435,0.0588
+2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Bromley,-0.015300000000000001,0.0435,0.0588
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Brandon Stone,-0.0154,0.001,0.0164
 2025-01-30 21:26:22.135213,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Under 2.5,-0.015599999999999947,0.7143,0.7299
 2025-01-30 10:33:24.131531,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 71.5,-0.016100000000000003,0.5917,0.6078
+2025-01-30 22:31:19.250702,Super Bowl 59 Specials - Super Bowl LIX Specials - Coin Toss - Will Philadelphia Eagles Win the Coin Toss and Win the Game,No,-0.01649999999999996,0.7874,0.8039
 2025-01-30 10:33:22.058762,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Under 120.5 seconds,-0.017299999999999982,0.4082,0.4255
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.0179,0.125,0.1429
 2025-01-30 10:33:21.328654,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Talleres,-0.018099999999999998,0.0588,0.0769
-2025-01-30 12:50:59.673155,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.01820000000000002,0.1818,0.2
 2025-01-30 12:50:59.663695,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.01820000000000002,0.1818,0.2
+2025-01-30 12:50:59.673155,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.01820000000000002,0.1818,0.2
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Alejandro Del Rey,-0.0189,0.0007,0.0196
 2025-01-30 14:31:09.390391,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Over 71.5,-0.018900000000000028,0.4255,0.4444
 2025-01-30 12:50:59.676195,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.01979999999999993,0.9524,0.9722
 2025-01-30 12:50:59.471592,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Juventus,-0.019800000000000005,0.0278,0.0476
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Haotong Li,-0.0204,0.004,0.0244
-2025-01-30 09:29:15.751380,Player Props - New York Mets - 2025 Regular Season Player Props - Brandon Nimmo Total Home Runs,Over 18.5,-0.02079999999999993,0.5348,0.5556
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Ugo Coussaud,-0.021199999999999997,0.0066,0.0278
-2025-01-30 13:31:27.091250,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Russell Henley,-0.02169999999999994,0.5238,0.5455
 2025-01-30 10:33:23.882136,Tournament Match-Ups - Tournament Match-Up - D. Ghim v N. Echavarria - Tournament Match-Up,Doug Ghim,-0.02169999999999994,0.5238,0.5455
-2025-01-30 09:29:15.764718,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total Home Runs,Over 34.5,-0.02169999999999994,0.5238,0.5455
-2025-01-30 09:29:15.982600,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes Total Wins,Under 11.5,-0.02169999999999994,0.5238,0.5455
-2025-01-30 14:31:09.407644,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 71.5,-0.021699999999999997,0.4545,0.4762
-2025-01-30 14:31:09.394722,Scores - 1st Round Score - Thomas Detry - 1st Round Score,Over 71.5,-0.021699999999999997,0.4545,0.4762
+2025-01-30 13:31:27.091250,AT&T Pebble Beach Pro-Am - 2/3 Balls - 1st Round 2-Balls - M. Greyserman / R. Henley - 1st Round 2-Balls,Russell Henley,-0.02169999999999994,0.5238,0.5455
 2025-01-30 10:33:24.199737,Match-Ups - Tournament Match-Up - S. Burns v V. Hovland - Requests,Viktor Hovland,-0.021699999999999997,0.4545,0.4762
+2025-01-30 14:31:09.394722,Scores - 1st Round Score - Thomas Detry - 1st Round Score,Over 71.5,-0.021699999999999997,0.4545,0.4762
+2025-01-30 14:31:09.407644,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 71.5,-0.021699999999999997,0.4545,0.4762
 2025-01-30 10:33:23.636808,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Scottie Scheffler,-0.021799999999999986,0.16,0.1818
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Julien Guerrier,-0.021900000000000003,0.0025,0.0244
+2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.022199999999999998,0.1111,0.1333
 2025-01-30 21:26:22.072797,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Travis Kelce (KC),-0.022199999999999998,0.6552,0.6774
 2025-01-30 10:33:21.328654,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,-0.022199999999999998,0.2,0.2222
-2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.022199999999999998,0.1111,0.1333
 2025-01-30 10:33:24.079464,Scores - 1st Round Score - Max Homa - 1st Round Score,Over 71.5,-0.022600000000000064,0.6,0.6226
+2025-01-30 21:26:21.952922,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - How Long Will It Take Trombone Shorty and Lauren Daigle Sing America the Beautiful’?,Under 110 Seconds,-0.022600000000000064,0.5122,0.5348
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Jordan Smith,-0.0227,0.0017,0.0244
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.023799999999999988,0.4762,0.5
 2025-01-30 10:33:21.761149,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.023799999999999988,0.3333,0.3571
 2025-01-30 16:36:02.953125,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 17:30:14.125542,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 11:26:16.512603,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 10:33:21.765984,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,-0.0242,0.0667,0.0909
-2025-01-30 14:31:08.850596,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 18:36:13.774544,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 21:26:23.476308,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-30 15:30:31.243178,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 10:33:23.577990,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 17:30:14.125542,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 18:36:13.774544,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-30 13:31:26.866440,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-30 12:51:01.972282,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 21:26:23.476308,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-30 19:24:26.152020,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-30 09:29:16.898333,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 11:26:16.512603,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 10:33:23.577990,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-30 20:30:05.848161,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 14:31:08.850596,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 22:31:20.743795,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-30 10:33:21.765984,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,-0.0242,0.0667,0.0909
 2025-01-30 16:36:03.454697,Bahrain Championship - Bahrain Championship - Winner,Brandon Robinson-Thompson,-0.024800000000000016,0.2105,0.2353
 2025-01-30 21:26:23.370027,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Brandon Figueroa,-0.024899999999999922,0.6721,0.697
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),-0.024999999999999994,0.1,0.125
-2025-01-30 09:29:15.130732,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Santa Clara,-0.0257,0.0066,0.0323
 2025-01-30 10:33:21.770054,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,-0.025900000000000003,0.0217,0.0476
-2025-01-30 10:33:21.761149,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,-0.02779999999999999,0.2222,0.25
 2025-01-30 10:33:21.770054,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,-0.02779999999999999,0.2222,0.25
+2025-01-30 10:33:21.761149,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,-0.02779999999999999,0.2222,0.25
 2025-01-30 10:33:21.790124,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Tennessee,-0.0286,0.0099,0.0385
-2025-01-30 12:51:01.944518,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 19:24:26.121902,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 09:29:16.869728,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 10:33:23.549559,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 11:26:16.484313,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 22:31:20.638754,Boxing Lines - Brandon Figueroa vs Stephen Fulton - To Win the Bout,Stephen Fulton,-0.028600000000000014,0.3636,0.3922
 2025-01-30 13:31:26.836382,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 14:31:08.821731,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 15:30:31.215182,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 16:36:02.923961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-30 17:30:14.096512,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 16:36:02.923961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 15:30:31.215182,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 10:33:23.549559,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 12:51:01.944518,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 11:26:16.484313,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 19:24:26.121902,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-30 18:36:13.745352,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-30 21:26:23.448126,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 14:31:08.821731,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-30 20:30:05.816476,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 21:26:23.448126,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-30 22:31:20.714543,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-30 14:31:09.355261,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 69.5,-0.028900000000000037,0.5455,0.5744
-2025-01-30 09:29:15.126790,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Northern Iowa,-0.029299999999999993,0.0476,0.0769
 2025-01-30 12:50:59.670121,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.0294,0.0294,0.0588
-2025-01-30 09:29:15.126790,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Murray State,-0.029500000000000002,0.005,0.0345
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Keita Nakajima,-0.031000000000000003,0.0013,0.0323
 2025-01-30 12:50:59.468125,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),-0.033300000000000024,0.1667,0.2
-2025-01-30 09:29:15.232941,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.033300000000000024,0.1667,0.2
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Johannes Veerman,-0.0335,0.005,0.0385
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Patrick Reed,-0.03439999999999999,0.0323,0.0667
 2025-01-30 10:33:21.770054,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,-0.03480000000000005,0.5,0.5348
@@ -244,10 +232,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 10:33:22.065602,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,Teammates,-0.043399999999999994,0.4444,0.4878
 2025-01-30 21:26:22.162359,Super Bowl 59 Specials - Super Bowl LIX Specials - Will any Kick be returned for a touchdown?,No,-0.04399999999999993,0.9412,0.9852
 2025-01-30 15:30:31.877572,Bahrain Championship - Bahrain Championship - Winner,Thorbjorn Olesen,-0.044300000000000006,0.0033,0.0476
+2025-01-30 21:26:21.949529,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,Teammates,-0.044399999999999995,0.4,0.4444
 2025-01-30 12:50:59.670121,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.048100000000000004,0.0769,0.125
 2025-01-30 10:33:21.778108,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.048600000000000004,0.0625,0.1111
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,-0.04910000000000003,0.6,0.6491
-2025-01-30 09:29:15.232941,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alex Sarr (WAS),-0.05550000000000002,0.1667,0.2222
 2025-01-30 10:33:22.203775,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will any player or coach cry during National Anthem,No,-0.05729999999999999,0.2326,0.2899
 2025-01-30 10:33:21.778108,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Villanova,-0.0575,0.005,0.0625
 2025-01-30 10:33:21.774103,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,-0.06669999999999998,0.2,0.2667
@@ -259,4 +247,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-30 12:50:59.667070,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.0857,0.2,0.2857
 2025-01-30 12:50:59.679232,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.09720000000000001,0.125,0.2222
 2025-01-30 12:50:59.676195,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,-0.1,0.1,0.2
-2025-01-30 09:29:15.229545,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.11109999999999998,0.2222,0.3333

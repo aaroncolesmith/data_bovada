@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-01-31 09:29:25.108673,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),0.21970000000000006,0.5833,0.3636
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Callum Tarren,0.16860000000000003,0.2353,0.0667
 2025-01-31 15:27:58.642847,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score ,Under 69.5,0.1473,0.5917,0.4444
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Andrea Pavan,0.12329999999999999,0.1429,0.0196
@@ -7,16 +6,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-31 21:27:04.432898,Super Bowl 59 Specials - Super Bowl LIX Specials - Which Will Be The Highest Scoring Half?,2nd Half + Overtime,0.07110000000000005,0.5833,0.5122
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Pablo Larrazabal,0.06770000000000001,0.1,0.0323
 2025-01-31 15:27:58.653869,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score ,Under 69.5,0.0635,0.6552,0.5917
-2025-01-31 15:27:58.685740,Scores - 2nd Round Score - Will Zalatoris - 2nd Round Score ,Under 68.5,0.05870000000000003,0.5238,0.4651
 2025-01-31 15:27:58.676677,Scores - 2nd Round Score - Sepp Straka - 2nd Round Score ,Under 68.5,0.05870000000000003,0.5238,0.4651
+2025-01-31 15:27:58.685740,Scores - 2nd Round Score - Will Zalatoris - 2nd Round Score ,Under 68.5,0.05870000000000003,0.5238,0.4651
 2025-01-31 15:27:58.637747,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score ,Under 68.5,0.05740000000000001,0.6226,0.5652
 2025-01-31 14:30:12.803075,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,Not before 2027,0.052000000000000046,0.9091,0.8571
 2025-01-31 15:27:58.680985,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score ,Under 68.5,0.04700000000000004,0.5348,0.4878
-2025-01-31 21:27:04.483040,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Points Be Scored In The First 6 Minutes 30 Seconds?,No,0.043399999999999994,0.5556,0.5122
 2025-01-31 10:33:38.817853,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Kyle Tucker Total Home Runs,Under 30.5,0.043399999999999994,0.5556,0.5122
-2025-01-31 09:29:25.115663,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.04229999999999999,0.0667,0.0244
-2025-01-31 09:29:24.629834,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Emilia Perez,0.04040000000000002,0.2222,0.1818
+2025-01-31 21:27:04.483040,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Points Be Scored In The First 6 Minutes 30 Seconds?,No,0.043399999999999994,0.5556,0.5122
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Jorge Campillo,0.039400000000000004,0.0526,0.0132
+2025-01-31 21:27:04.233564,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,God Or Jesus,0.03920000000000001,0.7059,0.6667
 2025-01-31 14:30:14.731758,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - H. Matsuyama / S. Straka - 2nd Round 2-Balls,Hideki Matsuyama,0.037800000000000056,0.5833,0.5455
 2025-01-31 14:30:14.727523,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - W. Zalatoris / C. Kirk - 2nd Round 2-Balls,Will Zalatoris,0.037800000000000056,0.5833,0.5455
 2025-01-31 13:30:55.938222,Boxing Lines - Mirco Cuello vs Christian Olivo Barredo - To Win the Bout,Christian Olivo Barredo,0.03670000000000001,0.1905,0.1538
@@ -26,86 +24,82 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Ivan Cantero,0.032,0.0345,0.0025
 2025-01-31 15:27:58.632852,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Under 67.5,0.031799999999999995,0.4762,0.4444
 2025-01-31 15:27:58.648564,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score ,Under 67.5,0.031799999999999995,0.4762,0.4444
-2025-01-31 14:30:14.698113,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Scott / G. Woodland - 2nd Round 2-Balls,Adam Scott,0.03179999999999994,0.5556,0.5238
 2025-01-31 14:30:14.740229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - L. Glover / S. Jaeger - 2nd Round 2-Balls,Stephan Jaeger,0.03179999999999994,0.5556,0.5238
 2025-01-31 11:25:32.751165,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Novak / J. Lower - 2nd Round 2-Balls,Andrew Novak,0.03179999999999994,0.5556,0.5238
+2025-01-31 14:30:14.698113,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Scott / G. Woodland - 2nd Round 2-Balls,Adam Scott,0.03179999999999994,0.5556,0.5238
 2025-01-31 15:27:58.658940,Scores - 2nd Round Score - Max Greyserman - 2nd Round Score ,Under 69.5,0.03090000000000004,0.6226,0.5917
 2025-01-31 11:25:32.767959,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - J. Knapp / B. Hossler - 2nd Round 2-Balls,Beau Hossler,0.030399999999999983,0.5652,0.5348
 2025-01-31 15:27:58.479557,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Finau / M. Homa - 2nd Round 2-Balls,Tony Finau,0.02960000000000007,0.6296,0.6
-2025-01-31 09:29:24.888078,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.028900000000000037,0.5744,0.5455
-2025-01-31 16:34:41.782526,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 14:30:14.609477,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 17:29:17.297373,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 15:27:58.340278,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 19:23:39.143866,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 20:29:03.236099,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 21:27:05.797513,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-31 18:35:33.084778,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-31 15:27:58.349687,BKFC: Lane vs VanCamp - Lardy Navarro vs Jack Grady - To Win the Bout,Jack Grady,0.028799999999999992,0.1538,0.125
-2025-01-31 13:30:56.046786,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 16:34:41.782526,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 17:29:17.297373,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 20:29:03.236099,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 14:30:14.609477,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 19:23:39.143866,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 15:27:58.340278,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 21:27:05.797513,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-31 12:51:01.149227,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-31 11:25:32.615704,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 22:31:35.271366,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-01-31 10:33:39.605772,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-01-31 09:29:26.819632,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 13:30:56.046786,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-01-31 22:31:35.087265,Elite Boxing - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.02739999999999998,0.7333,0.7059
 2025-01-31 15:27:58.672454,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score ,Under 67.5,0.026499999999999968,0.5917,0.5652
 2025-01-31 16:34:42.006675,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - J. Thomas / J. Spieth - 2nd Round 2-Balls,Justin Thomas,0.025600000000000067,0.6923,0.6667
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Manchester United,0.02560000000000001,0.3333,0.3077
-2025-01-31 14:30:14.783170,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - B. Hun An / M. Pavon - 2nd Round 2-Balls,Byeong Hun An,0.025599999999999956,0.6,0.5744
 2025-01-31 11:25:32.772964,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - M. McNealy / N. Echavarria - 2nd Round 2-Balls,Maverick McNealy,0.025599999999999956,0.6,0.5744
+2025-01-31 14:30:14.783170,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - B. Hun An / M. Pavon - 2nd Round 2-Balls,Byeong Hun An,0.025599999999999956,0.6,0.5744
 2025-01-31 14:30:14.496400,Boxing Lines - Mirco Cuello vs Christian Olivo Barredo - To Win the Bout,Mirco Cuello,0.025000000000000022,0.9,0.875
+2025-01-31 22:31:33.363630,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,0.024999999999999994,0.125,0.1
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,0.0245,0.0833,0.0588
-2025-01-31 11:25:32.718852,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - N. Dunlap / P. Rodgers - 2nd Round 2-Balls,Patrick Rodgers,0.024399999999999977,0.5122,0.4878
 2025-01-31 15:27:58.663651,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score ,Under 67.5,0.024399999999999977,0.5122,0.4878
-2025-01-31 11:25:32.806977,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Davis Thompson,0.024399999999999977,0.5122,0.4878
 2025-01-31 15:27:58.668127,Scores - 2nd Round Score - Russell Henley - 2nd Round Score ,Under 68.5,0.024399999999999977,0.5122,0.4878
-2025-01-31 20:29:03.208485,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 13:30:56.018236,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 17:29:17.268224,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 16:34:41.753968,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 11:25:32.718852,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - N. Dunlap / P. Rodgers - 2nd Round 2-Balls,Patrick Rodgers,0.024399999999999977,0.5122,0.4878
+2025-01-31 11:25:32.806977,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Davis Thompson,0.024399999999999977,0.5122,0.4878
 2025-01-31 15:27:58.311311,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 21:27:05.769688,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 14:30:14.580467,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 10:33:39.577695,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-31 19:23:39.114610,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-31 18:35:33.055203,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 10:33:39.577695,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-31 12:51:01.121815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 13:30:56.018236,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 16:34:41.753968,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 14:30:14.580467,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-31 11:25:32.585831,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 09:29:26.790821,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-01-31 09:29:27.073808,Round Match-Ups - 2nd Round Match-Ups - S. Straka vs R. Henley - 2nd Round Match-Ups,Russell Henley,0.023800000000000043,0.5238,0.5
+2025-01-31 17:29:17.268224,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 22:31:35.243397,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 21:27:05.769688,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-01-31 20:29:03.208485,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Olympiakos,0.02310000000000001,0.1,0.0769
-2025-01-31 09:29:25.098160,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.022699999999999998,0.4878,0.4651
-2025-01-31 15:27:58.503964,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - M. McNealy / N. Echavarria - 2nd Round 2-Balls,Maverick McNealy,0.022600000000000064,0.6226,0.6
 2025-01-31 14:30:14.799728,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Davis Thompson,0.022600000000000064,0.5348,0.5122
+2025-01-31 15:27:58.503964,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - M. McNealy / N. Echavarria - 2nd Round 2-Balls,Maverick McNealy,0.022600000000000064,0.6226,0.6
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Jeong Weon Ko,0.022400000000000003,0.0244,0.002
 2025-01-31 15:27:56.234009,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,December 2025 or later,0.022199999999999998,0.2222,0.2
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Lazio,0.022199999999999998,0.2222,0.2
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Tottenham Hotspur,0.021999999999999964,0.3077,0.2857
-2025-01-31 09:29:26.113193,Regular Season Wins - Cincinnati Reds Wins - 2025 Regular Season - Regular Season Wins,Over 79.5,0.02169999999999994,0.5455,0.5238
 2025-01-31 11:25:32.903268,Round Match-Ups - 2nd Round Match-Ups - J. Spieth vs B. Hun An - 2nd Round Match-Ups,Byeong Hun An,0.02169999999999994,0.5455,0.5238
-2025-01-31 09:29:26.996893,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - R. McIIroy / L. Aberg - 2nd Round 2-Balls,Rory McIlroy,0.02100000000000002,0.6364,0.6154
-2025-01-31 12:50:59.988787,Player Props - New York Yankees - 2025 Regular Season Player Props - Aaron Judge Total Home Runs,Under 49.5,0.02079999999999993,0.5556,0.5348
 2025-01-31 14:30:14.838344,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - E. Van Rooyen / T. Moore - 2nd Round 2-Balls,Taylor Moore,0.02079999999999993,0.5556,0.5348
+2025-01-31 12:50:59.988787,Player Props - New York Yankees - 2025 Regular Season Player Props - Aaron Judge Total Home Runs,Under 49.5,0.02079999999999993,0.5556,0.5348
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Olympiakos,0.0203,0.0588,0.0385
 2025-01-31 13:30:56.252057,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Fleetwood / K. Bradley - 2nd Round 2-Balls,Tommy Fleetwood,0.01970000000000005,0.5652,0.5455
 2025-01-31 15:27:58.560708,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Pendrith / S.W. Kim - 2nd Round 2-Balls,Taylor Pendrith,0.01880000000000004,0.5744,0.5556
 2025-01-31 12:51:01.174332,BKFC: Lane vs VanCamp - Chase Gormley vs Parker Porter - To Win the Bout,Parker Porter,0.018399999999999972,0.7059,0.6875
 2025-01-31 12:50:58.677885,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Liverpool,0.01820000000000002,0.2,0.1818
-2025-01-31 09:29:24.629834,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,0.0179,0.1429,0.125
 2025-01-31 16:34:41.994401,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Pendrith / S.W. Kim - 2nd Round 2-Balls,Taylor Pendrith,0.017299999999999982,0.5917,0.5744
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Tapio Pulkkanen,0.0168,0.0385,0.0217
+2025-01-31 22:31:35.235390,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.016700000000000048,0.75,0.7333
 2025-01-31 13:30:56.207756,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Kim / C. Morikawa - 2nd Round 2-Balls,Collin Morikawa,0.016100000000000003,0.6078,0.5917
-2025-01-31 09:29:26.541097,AL MVP - AL MVP 2025 - American League MVP,Bobby Witt Jr. (KC),0.015100000000000002,0.1818,0.1667
 2025-01-31 12:51:01.170299,BKFC: Lane vs VanCamp - Cameron VanCamp vs Julian Lane - To Win the Bout,Cameron VanCamp,0.01479999999999998,0.3922,0.3774
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Rangers,0.014099999999999998,0.0385,0.0244
 2025-01-31 21:27:05.806290,BKFC: Lane vs VanCamp - Lardy Navarro vs Jack Grady - To Win the Bout,Lardy Navarro,0.014000000000000012,0.9231,0.9091
-2025-01-31 09:29:25.115663,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),0.013999999999999999,0.0909,0.0769
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lazio,0.013899999999999996,0.125,0.1111
+2025-01-31 22:31:35.211480,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,0.013599999999999945,0.7059,0.6923
 2025-01-31 13:30:55.833014,Elite Boxing - David Benavidez vs David Morrell - To Win the Bout,David Benavidez,0.013599999999999945,0.7059,0.6923
 2025-01-31 10:33:39.382455,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Pete Crow-Armstrong (CHI),0.013400000000000002,0.0244,0.011
 2025-01-31 21:27:04.492986,Super Bowl 59 Specials - Super Bowl LIX Specials - Will the Game be tied again after 0-0?,Yes,0.013299999999999979,0.6429,0.6296
 2025-01-31 10:33:38.704897,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Matt Olson Total RBIs,Under 99.5,0.011600000000000055,0.5238,0.5122
-2025-01-31 12:51:00.558409,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Bobby Witt Jr. Total Home Runs,Under 30.5,0.011600000000000055,0.5238,0.5122
 2025-01-31 11:25:31.448513,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Bryce Harper Total Home Runs,Under 28.5,0.011600000000000055,0.5238,0.5122
+2025-01-31 12:51:00.558409,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Bobby Witt Jr. Total Home Runs,Under 30.5,0.011600000000000055,0.5238,0.5122
 2025-01-31 21:27:04.372016,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Will any scoring drive take less time than it takes to sing the National Anthem?,Yes,0.011499999999999955,0.6667,0.6552
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lyon,0.011199999999999995,0.0588,0.0476
 2025-01-31 10:33:39.382455,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Jazz Chisholm (NYY),0.011199999999999995,0.0588,0.0476
@@ -128,86 +122,84 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-31 13:30:55.833014,Elite Boxing - David Benavidez vs David Morrell - To Win the Bout,David Morrell,-0.011899999999999966,0.339,0.3509
 2025-01-31 12:51:01.043392,Boxing Lines - Mirco Cuello vs Christian Olivo Barredo - To Win the Bout,Christian Olivo Barredo,-0.012899999999999995,0.1538,0.1667
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Kazuma Kobori,-0.0131,0.001,0.0141
+2025-01-31 22:31:35.211480,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.013300000000000034,0.3571,0.3704
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AS Roma,-0.013899999999999996,0.1111,0.125
-2025-01-31 09:29:24.629834,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Complete Unknown,-0.014099999999999994,0.0526,0.0667
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Jack Senior,-0.014700000000000001,0.0017,0.0164
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Real Sociedad,-0.015100000000000002,0.1667,0.1818
 2025-01-31 12:51:01.170299,BKFC: Lane vs VanCamp - Cameron VanCamp vs Julian Lane - To Win the Bout,Julian Lane,-0.01539999999999997,0.6721,0.6875
+2025-01-31 21:27:04.233564,Super Bowl 59 Specials - Super Bowl LIX Specials - -Who will the Super Bowl MVP mention first in his on field speech?,Teammates,-0.015400000000000025,0.3846,0.4
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Gavin Green,-0.0156,0.004,0.0196
 2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Galatasaray,-0.016700000000000007,0.0833,0.1
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Sam Bairstow,-0.0168,0.0028,0.0196
-2025-01-31 09:29:26.996893,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - R. McIIroy / L. Aberg - 2nd Round 2-Balls,Ludvig Aberg,-0.017299999999999982,0.4082,0.4255
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,AS Roma,-0.018099999999999998,0.0588,0.0769
-2025-01-31 15:27:58.663651,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score ,Over 67.5,-0.01880000000000004,0.5556,0.5744
 2025-01-31 15:27:58.668127,Scores - 2nd Round Score - Russell Henley - 2nd Round Score ,Over 68.5,-0.01880000000000004,0.5556,0.5744
+2025-01-31 15:27:58.663651,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score ,Over 67.5,-0.01880000000000004,0.5556,0.5744
 2025-01-31 15:27:58.503964,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - M. McNealy / N. Echavarria - 2nd Round 2-Balls,Nico Echavarria,-0.018900000000000028,0.4255,0.4444
-2025-01-31 09:29:25.108673,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Evan Mobley (CLE),-0.019099999999999992,0.0476,0.0667
 2025-01-31 13:30:56.207756,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Kim / C. Morikawa - 2nd Round 2-Balls,Tom Kim,-0.019699999999999995,0.4348,0.4545
+2025-01-31 14:30:12.803075,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2026,-0.02020000000000001,0.0909,0.1111
 2025-01-31 12:50:58.677885,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Manchester City,-0.02020000000000001,0.0909,0.1111
 2025-01-31 15:27:56.234009,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning October 6th,-0.02020000000000001,0.0909,0.1111
 2025-01-31 15:27:56.234009,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning September 29th,-0.02020000000000001,0.0909,0.1111
-2025-01-31 14:30:12.803075,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2026,-0.02020000000000001,0.0909,0.1111
 2025-01-31 12:51:01.174332,BKFC: Lane vs VanCamp - Chase Gormley vs Parker Porter - To Win the Bout,Chase Gormley,-0.02030000000000004,0.3571,0.3774
 2025-01-31 21:27:05.806290,BKFC: Lane vs VanCamp - Lardy Navarro vs Jack Grady - To Win the Bout,Jack Grady,-0.02049999999999999,0.1333,0.1538
 2025-01-31 11:25:32.772964,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - M. McNealy / N. Echavarria - 2nd Round 2-Balls,Nico Echavarria,-0.020699999999999996,0.4444,0.4651
 2025-01-31 14:30:14.783170,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - B. Hun An / M. Pavon - 2nd Round 2-Balls,Matthieu Pavon,-0.020699999999999996,0.4444,0.4651
-2025-01-31 11:25:32.718852,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - N. Dunlap / P. Rodgers - 2nd Round 2-Balls,Nick Dunlap,-0.02079999999999993,0.5348,0.5556
 2025-01-31 11:25:32.806977,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Austin Eckroat,-0.02079999999999993,0.5348,0.5556
-2025-01-31 09:29:27.073808,Round Match-Ups - 2nd Round Match-Ups - S. Straka vs R. Henley - 2nd Round Match-Ups,Sepp Straka,-0.02169999999999994,0.5238,0.5455
-2025-01-31 09:29:26.113193,Regular Season Wins - Cincinnati Reds Wins - 2025 Regular Season - Regular Season Wins,Under 79.5,-0.02169999999999994,0.5238,0.5455
+2025-01-31 11:25:32.718852,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - N. Dunlap / P. Rodgers - 2nd Round 2-Balls,Nick Dunlap,-0.02079999999999993,0.5348,0.5556
+2025-01-31 22:31:35.235390,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.020799999999999985,0.3125,0.3333
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,David Micheluzzi,-0.021900000000000003,0.0025,0.0244
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Richie Ramsay,-0.022400000000000003,0.0099,0.0323
-2025-01-31 14:30:14.799728,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Austin Eckroat,-0.022600000000000064,0.5122,0.5348
 2025-01-31 12:50:59.988787,Player Props - New York Yankees - 2025 Regular Season Player Props - Aaron Judge Total Home Runs,Over 49.5,-0.022600000000000064,0.5122,0.5348
+2025-01-31 14:30:14.799728,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Eckroat / D. Thompson - 2nd Round 2-Balls,Austin Eckroat,-0.022600000000000064,0.5122,0.5348
 2025-01-31 15:27:58.560708,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Pendrith / S.W. Kim - 2nd Round 2-Balls,Si Woo Kim,-0.022699999999999998,0.4651,0.4878
-2025-01-31 13:30:56.252057,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Fleetwood / K. Bradley - 2nd Round 2-Balls,Keegan Bradley,-0.023799999999999988,0.4762,0.5
 2025-01-31 15:27:58.672454,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score ,Over 67.5,-0.023799999999999988,0.4762,0.5
+2025-01-31 13:30:56.252057,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Fleetwood / K. Bradley - 2nd Round 2-Balls,Keegan Bradley,-0.023799999999999988,0.4762,0.5
 2025-01-31 14:30:14.496400,Boxing Lines - Mirco Cuello vs Christian Olivo Barredo - To Win the Bout,Christian Olivo Barredo,-0.023800000000000016,0.1667,0.1905
 2025-01-31 11:25:32.903268,Round Match-Ups - 2nd Round Match-Ups - J. Spieth vs B. Hun An - 2nd Round Match-Ups,Jordan Spieth,-0.023800000000000043,0.5,0.5238
-2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,FC Porto,-0.0242,0.0667,0.0909
-2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Fenerbahce,-0.0242,0.0667,0.0909
-2025-01-31 11:25:32.615704,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 15:27:58.340278,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 18:35:33.084778,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 09:29:26.819632,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 10:33:39.605772,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 12:51:01.149227,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-31 13:30:56.046786,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 14:30:14.609477,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 16:34:41.782526,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 21:27:05.797513,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 20:29:03.236099,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 17:29:17.297373,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-01-31 19:23:39.143866,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-01-31 15:27:58.349687,BKFC: Lane vs VanCamp - Lardy Navarro vs Jack Grady - To Win the Bout,Lardy Navarro,-0.0242,0.9091,0.9333
+2025-01-31 10:33:39.605772,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 11:25:32.615704,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 12:51:01.149227,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,FC Porto,-0.0242,0.0667,0.0909
+2025-01-31 20:29:03.236099,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 21:27:05.797513,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 10:33:37.001484,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Fenerbahce,-0.0242,0.0667,0.0909
+2025-01-31 15:27:58.340278,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 22:31:35.271366,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 16:34:41.782526,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 17:29:17.297373,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 18:35:33.084778,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 19:23:39.143866,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 14:30:14.609477,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-01-31 14:30:14.740229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - L. Glover / S. Jaeger - 2nd Round 2-Balls,Lucas Glover,-0.024399999999999977,0.4878,0.5122
 2025-01-31 14:30:14.698113,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Scott / G. Woodland - 2nd Round 2-Balls,Gary Woodland,-0.024399999999999977,0.4878,0.5122
 2025-01-31 14:30:14.838344,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - E. Van Rooyen / T. Moore - 2nd Round 2-Balls,Erik Van Rooyen,-0.024399999999999977,0.4878,0.5122
-2025-01-31 14:30:14.740229,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - L. Glover / S. Jaeger - 2nd Round 2-Balls,Lucas Glover,-0.024399999999999977,0.4878,0.5122
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Sebastian Soderberg,-0.0262,0.0123,0.0385
 2025-01-31 16:34:42.006675,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - J. Thomas / J. Spieth - 2nd Round 2-Balls,Jordan Spieth,-0.026500000000000024,0.3509,0.3774
+2025-01-31 22:31:35.087265,Elite Boxing - David Benavidez vs David Morrell - To Win the Bout,David Morrell,-0.026500000000000024,0.3125,0.339
 2025-01-31 15:27:58.479557,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - T. Finau / M. Homa - 2nd Round 2-Balls,Max Homa,-0.027700000000000002,0.4167,0.4444
-2025-01-31 09:29:25.115663,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.02779999999999999,0.2222,0.25
-2025-01-31 09:29:24.629834,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,-0.027999999999999997,0.1538,0.1818
-2025-01-31 20:29:03.208485,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 17:29:17.268224,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-31 10:33:39.577695,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 18:35:33.055203,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 15:27:58.311311,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-31 14:30:14.580467,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 13:30:56.018236,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 09:29:26.790821,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 16:34:41.753968,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 19:23:39.114610,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-01-31 21:27:05.769688,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-31 11:25:32.585831,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-31 12:51:01.121815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 13:30:56.018236,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 21:27:05.769688,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 15:27:58.311311,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 18:35:33.055203,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 20:29:03.208485,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 19:23:39.114610,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 22:31:35.243397,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 17:29:17.268224,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-01-31 16:34:41.753968,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Romain Langasque,-0.030500000000000003,0.004,0.0345
 2025-01-31 15:27:58.648564,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score ,Over 67.5,-0.03090000000000004,0.5917,0.6226
 2025-01-31 15:27:58.632852,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Over 67.5,-0.03090000000000004,0.5917,0.6226
-2025-01-31 12:50:58.677885,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.031799999999999995,0.1111,0.1429
 2025-01-31 15:27:58.658940,Scores - 2nd Round Score - Max Greyserman - 2nd Round Score ,Over 69.5,-0.031799999999999995,0.4444,0.4762
-2025-01-31 14:30:12.803075,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2025,-0.031799999999999995,0.1111,0.1429
 2025-01-31 12:51:01.295692,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - J. Knapp / B. Hossler - 2nd Round 2-Balls,Jake Knapp,-0.031799999999999995,0.4444,0.4762
+2025-01-31 14:30:12.803075,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2025,-0.031799999999999995,0.1111,0.1429
+2025-01-31 12:50:58.677885,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.031799999999999995,0.1111,0.1429
+2025-01-31 22:31:33.363630,NBL - Australia NBL 2024/25 - Outright,Adelaide 36ers,-0.0321,0.0588,0.0909
 2025-01-31 10:33:37.647384,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Galatasaray SK,-0.034100000000000005,0.0909,0.125
 2025-01-31 13:30:55.938222,Boxing Lines - Mirco Cuello vs Christian Olivo Barredo - To Win the Bout,Mirco Cuello,-0.03410000000000002,0.875,0.9091
 2025-01-31 10:33:36.999147,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Real Sociedad,-0.03420000000000001,0.0769,0.1111
@@ -217,19 +209,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-01-31 11:25:32.751165,AT&T Pebble Beach Pro-Am - 2/3 Balls - 2nd Round 2-Balls - A. Novak / J. Lower - 2nd Round 2-Balls,Justin Lower,-0.03600000000000003,0.4878,0.5238
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Wenyi Ding,-0.0385,0.005,0.0435
 2025-01-31 15:27:58.680985,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score ,Over 68.5,-0.03959999999999997,0.5348,0.5744
-2025-01-31 09:29:25.101704,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,-0.041000000000000036,0.7368,0.7778
-2025-01-31 09:29:25.115663,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alex Sarr (WAS),-0.04169999999999999,0.125,0.1667
 2025-01-31 21:27:04.483040,Super Bowl 59 Specials - Super Bowl LIX Specials - Will Points Be Scored In The First 6 Minutes 30 Seconds?,Yes,-0.043399999999999994,0.5122,0.5556
 2025-01-31 10:33:38.817853,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Kyle Tucker Total Home Runs,Over 30.5,-0.043399999999999994,0.5122,0.5556
-2025-01-31 09:29:24.629834,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Brutalist,-0.045499999999999985,0.5,0.5455
-2025-01-31 09:29:24.888078,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.04999999999999999,0.2,0.25
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,David Puig,-0.052599999999999994,0.0141,0.0667
 2025-01-31 15:27:58.676677,Scores - 2nd Round Score - Sepp Straka - 2nd Round Score ,Over 68.5,-0.05449999999999999,0.5455,0.6
 2025-01-31 15:27:58.685740,Scores - 2nd Round Score - Will Zalatoris - 2nd Round Score ,Over 68.5,-0.05449999999999999,0.5455,0.6
 2025-01-31 15:27:58.637747,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score ,Over 68.5,-0.05559999999999998,0.4444,0.5
-2025-01-31 09:29:25.101704,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,-0.06669999999999998,0.2,0.2667
 2025-01-31 15:27:58.653869,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score ,Over 69.5,-0.068,0.4082,0.4762
 2025-01-31 21:27:04.432898,Super Bowl 59 Specials - Super Bowl LIX Specials - Which Will Be The Highest Scoring Half?,1st Half,-0.06929999999999997,0.4762,0.5455
 2025-01-31 15:27:58.642847,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score ,Over 69.5,-0.14640000000000003,0.4762,0.6226
 2025-01-31 14:30:14.964684,Bahrain Championship - Bahrain Championship - Winner,Brandon Robinson-Thompson,-0.1782,0.0323,0.2105
-2025-01-31 09:29:25.108673,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.23190000000000005,0.3333,0.5652

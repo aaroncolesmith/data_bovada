@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 08:31:56.731522,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,0.11499999999999999,0.8824,0.7674
 2025-02-02 02:55:46.581141,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.11110000000000009,0.7778,0.6667
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.11109999999999998,0.3333,0.2222
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.10710000000000003,0.5833,0.4762
 2025-02-02 03:33:05.749398,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.10710000000000003,0.5833,0.4762
+2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.10710000000000003,0.5833,0.4762
 2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.1058,0.4762,0.3704
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.10390000000000002,0.2857,0.1818
 2025-02-02 02:55:46.593309,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,0.09830000000000005,0.5238,0.4255
@@ -32,9 +32,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 08:31:56.704437,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,0.06820000000000001,0.25,0.1818
 2025-02-02 02:55:46.584152,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,0.06669999999999998,0.2667,0.2
 2025-02-02 11:23:51.596256,Scores - Final Round Score - Justin Rose - Final Round Score,Under 70.5,0.06520000000000004,0.5652,0.5
+2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.0635,0.2857,0.2222
 2025-02-02 01:57:07.732084,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.0635,0.2857,0.2222
 2025-02-02 11:23:49.175104,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.0635,0.2857,0.2222
-2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.0635,0.2857,0.2222
 2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.06190000000000001,0.4255,0.3636
 2025-02-02 08:31:56.716061,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.0595,0.25,0.1905
 2025-02-02 10:31:17.826482,Scores - Final Round Score - Sepp Straka - Final Round Score,Under 70.5,0.05860000000000004,0.5348,0.4762
@@ -43,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 02:55:46.590292,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,0.052000000000000046,0.9091,0.8571
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.04760000000000003,0.5238,0.4762
 2025-02-02 01:57:10.026064,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Linn Grant,0.0476,0.1905,0.1429
+2025-02-02 11:23:51.507310,Match-Ups - Final Round Match-Ups - J. Rose vs L. Glover - Requests,Justin Rose,0.045499999999999985,0.5455,0.5
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.045499999999999985,0.5455,0.5
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.04409999999999992,0.6667,0.6226
 2025-02-02 01:57:07.819533,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.042899999999999994,0.1429,0.1
@@ -59,8 +60,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.038099999999999995,0.2381,0.2
 2025-02-02 01:57:07.814740,League One - England League One 2024/25 - Winner,Birmingham City,0.03759999999999997,0.9709,0.9333
 2025-02-02 08:31:56.723782,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,0.03709999999999991,0.6667,0.6296
-2025-02-02 01:57:08.162274,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.0353,0.2353,0.2
 2025-02-02 08:31:56.700448,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,0.0353,0.0909,0.0556
+2025-02-02 01:57:08.162274,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.0353,0.2353,0.2
 2025-02-02 10:31:17.818001,Scores - Final Round Score - Russell Henley - Final Round Score,Under 70.5,0.03480000000000005,0.5348,0.5
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.03420000000000001,0.9231,0.8889
 2025-02-02 11:23:49.134705,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.03410000000000002,0.7674,0.7333
@@ -73,44 +74,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.030299999999999994,0.3636,0.3333
 2025-02-02 01:57:07.787163,Championship - England Championship 2024/25 - Winner,Leeds United,0.029900000000000038,0.8,0.7701
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,0.029299999999999993,0.0769,0.0476
+2025-02-02 06:35:33.912168,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 09:26:46.813372,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 12:46:36.964318,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 04:31:28.905561,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.028799999999999992,0.1538,0.125
+2025-02-02 02:55:48.607718,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 08:31:58.456434,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 01:57:09.921456,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 02:55:48.607718,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 07:25:53.875201,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 04:31:28.905561,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-01 23:26:21.915324,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 03:33:07.753961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 06:35:33.912168,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 06:35:32.173884,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.0278,0.0556,0.0278
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.02779999999999999,0.25,0.2222
-2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.02560000000000001,0.3333,0.3077
 2025-02-02 08:31:56.696500,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,0.02560000000000001,0.3704,0.3448
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.02560000000000001,0.3333,0.3077
+2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.02560000000000001,0.3333,0.3077
+2025-02-02 12:46:37.180244,Scores - Final Round Score - Lucas Glover - Final Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
 2025-02-02 09:26:45.298257,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Celebrity Guest to Appear on Stage,Lefty gunplay,0.025300000000000003,0.1429,0.1176
 2025-02-02 08:31:56.708329,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Arizona,0.024999999999999994,0.125,0.1
 2025-02-02 01:57:08.159151,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,0.024999999999999994,0.125,0.1
 2025-02-02 01:57:07.819533,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.0245,0.0833,0.0588
-2025-02-01 23:26:21.887953,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 01:57:09.892876,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.0242,0.0909,0.0667
 2025-02-02 03:33:07.726862,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.0242,0.0909,0.0667
 2025-02-02 02:55:48.580036,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 01:57:09.892876,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 04:31:28.877964,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 06:35:33.883637,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 09:26:46.784418,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 07:25:53.847575,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 08:31:58.428459,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 12:46:36.935870,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 07:25:53.847575,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 07:25:52.118876,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.0238,0.0952,0.0714
-2025-02-02 10:31:17.805284,Scores - Final Round Score - Justin Rose - Final Round Score,Under 70.5,0.023799999999999988,0.5,0.4762
-2025-02-02 07:25:52.237551,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.023799999999999988,0.5,0.4762
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,0.023799999999999988,0.5,0.4762
+2025-02-02 07:25:52.237551,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.023799999999999988,0.5,0.4762
+2025-02-02 10:31:17.805284,Scores - Final Round Score - Justin Rose - Final Round Score,Under 70.5,0.023799999999999988,0.5,0.4762
 2025-02-02 02:55:46.590292,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brentford,0.0236,0.0385,0.0149
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,0.0236,0.0385,0.0149
 2025-02-02 02:55:46.584152,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Nottingham Forest,0.0232,0.0667,0.0435
@@ -122,6 +124,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.021999999999999964,0.3077,0.2857
 2025-02-02 08:31:56.704437,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,0.02169999999999994,0.5455,0.5238
 2025-02-02 04:31:28.870088,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.020799999999999985,0.3333,0.3125
+2025-02-02 12:46:37.197287,Scores - Final Round Score - Sepp Straka - Final Round Score,Under 70.5,0.02079999999999993,0.5556,0.5348
 2025-02-02 07:25:52.227601,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.02079999999999993,0.5556,0.5348
 2025-02-02 11:23:51.609370,Scores - Final Round Score - Russell Henley - Final Round Score,Under 70.5,0.02079999999999993,0.5556,0.5348
 2025-02-02 01:57:07.747202,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.020699999999999996,0.4651,0.4444
@@ -132,6 +135,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.019099999999999992,0.0667,0.0476
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2025-02-02 11:23:49.148897,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Racing Club,0.019000000000000017,0.2857,0.2667
+2025-02-02 12:46:37.201572,Scores - Final Round Score - Shane Lowry - Final Round Score,Under 70.5,0.01880000000000004,0.5744,0.5556
 2025-02-02 07:25:52.224190,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),0.018800000000000004,0.0714,0.0526
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.01849999999999996,0.9709,0.9524
 2025-02-02 08:31:56.719920,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Miami Ohio,0.01830000000000001,0.0952,0.0769
@@ -145,15 +149,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 09:26:45.329570,Super Bowl 59 Specials - Super Bowl LIX Specials - How many times will Roger Goodell be shown? ,Under 1.5,0.017299999999999982,0.5917,0.5744
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,0.016699999999999993,0.4167,0.4
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.014900000000000004,0.0345,0.0196
-2025-02-02 10:31:17.822233,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 68.5,0.014800000000000035,0.6226,0.6078
 2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Under 71.5,0.014800000000000035,0.6226,0.6078
+2025-02-02 10:31:17.822233,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 68.5,0.014800000000000035,0.6226,0.6078
 2025-02-02 08:31:56.731522,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.014100000000000001,0.0526,0.0385
 2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,0.014099999999999998,0.0385,0.0244
 2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.013999999999999999,0.0909,0.0769
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.013999999999999999,0.0909,0.0769
+2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.013999999999999999,0.0909,0.0769
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,0.013999999999999999,0.0909,0.0769
 2025-02-02 02:55:46.590292,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,0.013999999999999999,0.0909,0.0769
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.013999999999999999,0.0909,0.0769
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.013899999999999996,0.125,0.1111
 2025-02-02 10:31:16.297809,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Over 2.5,0.013800000000000034,0.3774,0.3636
 2025-02-02 11:23:51.591863,Scores - Final Round Score - Cam Davis - Final Round Score,Under 71.5,0.013799999999999923,0.6364,0.6226
@@ -168,25 +172,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 07:25:52.129022,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.0116,0.4878,0.4762
 2025-02-02 11:23:51.301947,Boxing Lines - Brandon Moore vs Skylar Lacy - To Win the Bout,Brandon Moore,0.011499999999999955,0.6667,0.6552
 2025-02-02 07:25:52.240816,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Giannis Antetokounmpo (MIL),0.011399999999999997,0.0278,0.0164
+2025-02-02 12:46:36.852030,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Julio Rodriguez (SEA),0.011199999999999995,0.0435,0.0323
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.011199999999999988,0.9524,0.9412
+2025-02-02 08:31:56.691807,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,0.011099999999999999,0.1111,0.1
+2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.011099999999999999,0.1111,0.1
 2025-02-02 10:31:17.766819,Round Match-Ups - Final Round Match-Ups - R. McIIroy vs S. Scheffler - Final Round Match-Ups,Rory McIlroy,0.011099999999999999,0.4762,0.4651
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.011099999999999999,0.1111,0.1
-2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.011099999999999999,0.1111,0.1
-2025-02-02 08:31:56.691807,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Gonzaga,0.011099999999999999,0.1111,0.1
 2025-02-02 07:25:52.105665,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.011099999999999999,0.0667,0.0556
 2025-02-02 11:23:51.582614,Round Match-Ups - Final Round Match-Ups - S. Lowry vs S. Straka - Final Round Match-Ups,Shane Lowry,0.01100000000000001,0.5348,0.5238
-2025-02-02 10:31:17.186687,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Under 32.5,0.010699999999999932,0.5455,0.5348
-2025-02-02 07:25:52.109180,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.010699999999999932,0.5455,0.5348
 2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Viktor Hovland,0.010699999999999932,0.5455,0.5348
+2025-02-02 07:25:52.109180,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.010699999999999932,0.5455,0.5348
+2025-02-02 10:31:17.186687,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Under 32.5,0.010699999999999932,0.5455,0.5348
 2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Nelly Korda,0.010499999999999982,0.2105,0.2
 2025-02-02 11:23:49.155852,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Independiente,0.0102,0.0769,0.0667
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,0.0102,0.0769,0.0667
 2025-02-02 01:57:08.159151,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.010099999999999998,0.3226,0.3125
 2025-02-02 10:31:17.830706,Scores - Final Round Score - Shane Lowry - Final Round Score,Under 70.5,0.010099999999999998,0.5556,0.5455
-2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.010099999999999998,0.4444,0.4545
-2025-02-02 10:31:17.213232,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Over 104.5,-0.010099999999999998,0.5455,0.5556
 2025-02-02 01:57:09.884698,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010099999999999998,0.3125,0.3226
 2025-02-02 10:31:17.822233,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 68.5,-0.010099999999999998,0.4444,0.4545
+2025-02-02 10:31:17.213232,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Over 104.5,-0.010099999999999998,0.5455,0.5556
+2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.010099999999999998,0.4444,0.4545
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Macarthur FC,-0.0102,0.0667,0.0769
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,-0.0102,0.0667,0.0769
 2025-02-02 09:26:44.937084,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.010499999999999982,0.2,0.2105
@@ -198,12 +203,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:17.834978,Scores - Final Round Score - Tom Kim - Final Round Score,Over 70.5,-0.011099999999999999,0.4651,0.4762
 2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.011199999999999988,0.9412,0.9524
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.011199999999999995,0.0476,0.0588
-2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.011199999999999995,0.0476,0.0588
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.011199999999999995,0.0476,0.0588
+2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.011199999999999995,0.0476,0.0588
 2025-02-02 08:31:56.696500,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Saint Joseph's,-0.0114,0.005,0.0164
+2025-02-02 02:55:48.822652,Hilton Tournament of Champions - 2/3 Balls - Final Round 2-Balls - N. Korda / L. Coughlin - Final Round 2-Balls,Lauren Coughlin,-0.01150000000000001,0.3333,0.3448
 2025-02-02 08:31:56.691807,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.01150000000000001,0.3333,0.3448
 2025-02-02 10:31:17.721693,AT&T Pebble Beach Pro-Am - 2/3 Balls - Final Round 3-Balls - J. Rose / T. Kim / C. Davis - Final Round 3-Balls,Cam Davis,-0.01150000000000001,0.3333,0.3448
-2025-02-02 02:55:48.822652,Hilton Tournament of Champions - 2/3 Balls - Final Round 2-Balls - N. Korda / L. Coughlin - Final Round 2-Balls,Lauren Coughlin,-0.01150000000000001,0.3333,0.3448
 2025-02-02 09:26:45.329570,Super Bowl 59 Specials - Super Bowl LIX Specials - How many times will Roger Goodell be shown? ,Over 1.5,-0.0116,0.4762,0.4878
 2025-02-02 11:23:51.582614,Round Match-Ups - Final Round Match-Ups - S. Lowry vs S. Straka - Final Round Match-Ups,Sepp Straka,-0.011600000000000055,0.5122,0.5238
 2025-02-02 10:31:17.830706,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 70.5,-0.011600000000000055,0.5122,0.5238
@@ -214,21 +219,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.012100000000000001,0.0123,0.0244
 2025-02-02 10:31:17.809508,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 71.5,-0.012199999999999989,0.4878,0.5
 2025-02-02 02:55:48.548376,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.012699999999999989,0.3509,0.3636
-2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Tom Hoge,-0.012800000000000034,0.5,0.5128
 2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,A Lim Kim,-0.012800000000000034,0.5,0.5128
+2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Tom Hoge,-0.012800000000000034,0.5,0.5128
 2025-02-02 07:25:52.240816,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),-0.012899999999999912,0.8333,0.8462
-2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.012899999999999995,0.1538,0.1667
 2025-02-02 06:35:32.192253,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.012899999999999995,0.1538,0.1667
+2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.012899999999999995,0.1538,0.1667
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.013,0.0066,0.0196
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,-0.0131,0.0345,0.0476
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.013899999999999996,0.1111,0.125
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,-0.013899999999999996,0.1111,0.125
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.013899999999999996,0.1111,0.125
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.014099999999999998,0.0244,0.0385
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.014100000000000001,0.9615,0.9756
 2025-02-02 03:33:05.749398,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Cole Palmer (Chelsea),-0.014100000000000001,0.0385,0.0526
-2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Schalke 04,-0.014199999999999999,0.0152,0.0294
+2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.014100000000000001,0.9615,0.9756
 2025-02-02 10:31:15.294510,Ligue 1 - France Ligue 1 2024/25 - Winner,Lille,-0.014199999999999999,0.0152,0.0294
+2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Schalke 04,-0.014199999999999999,0.0152,0.0294
 2025-02-02 02:55:46.587270,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.0145,0.0099,0.0244
 2025-02-02 07:25:52.129022,Western Conference - Western Conference 2024-25 - Western Conference Winner,San Antonio Spurs,-0.0145,0.0099,0.0244
 2025-02-02 07:25:52.230920,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,-0.014899999999999997,0.0476,0.0625
@@ -239,8 +244,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,-0.016600000000000004,0.0667,0.0833
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.016699999999999993,0.25,0.2667
 2025-02-02 04:31:28.870088,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.016700000000000048,0.7333,0.75
-2025-02-02 01:57:07.814740,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.017099999999999997,0.0123,0.0294
 2025-02-02 07:25:52.118876,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),-0.017099999999999997,0.0417,0.0588
+2025-02-02 01:57:07.814740,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.017099999999999997,0.0123,0.0294
 2025-02-02 07:25:52.224190,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.017299999999999982,0.2857,0.303
 2025-02-02 04:31:28.846406,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,-0.017300000000000093,0.697,0.7143
 2025-02-02 07:25:52.234283,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.0177,0.0323,0.05
@@ -248,12 +253,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.0179,0.125,0.1429
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.0179,0.125,0.1429
 2025-02-02 01:57:07.868081,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,-0.018200000000000004,0.0294,0.0476
-2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.018200000000000004,0.0294,0.0476
 2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,-0.018200000000000004,0.0294,0.0476
+2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.018200000000000004,0.0294,0.0476
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.01820000000000002,0.1818,0.2
 2025-02-02 10:31:16.297809,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Under 2.5,-0.018399999999999972,0.6875,0.7059
-2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Stoke City,-0.0189,0.0196,0.0385
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.0189,0.0196,0.0385
+2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Stoke City,-0.0189,0.0196,0.0385
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.018900000000000028,0.4255,0.4444
 2025-02-02 11:23:51.591863,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.018900000000000028,0.4255,0.4444
 2025-02-02 06:35:32.173884,NBA Championship - NBA Championship 2024-25 - NBA Champion,Dallas Mavericks,-0.019099999999999995,0.0244,0.0435
@@ -261,36 +266,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.019499999999999997,0.0099,0.0294
 2025-02-02 01:57:10.026064,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Lauren Coughlin,-0.019899999999999998,0.0079,0.0278
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.02020000000000001,0.0909,0.1111
-2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Callum Robinson,-0.0203,0.0385,0.0588
 2025-02-02 07:25:52.227601,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Anthony Edwards (MIN),-0.0203,0.0385,0.0588
+2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Callum Robinson,-0.0203,0.0385,0.0588
 2025-02-02 08:31:56.719920,Men's Basketball Conferences - Mid-American Conference Winner - MAC Winner (Regular Season),Ohio,-0.021199999999999997,0.0066,0.0278
 2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.021999999999999964,0.2857,0.3077
 2025-02-02 11:23:49.148897,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,-0.022199999999999998,0.2,0.2222
 2025-02-02 07:25:52.244099,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),-0.02260000000000001,0.3774,0.4
+2025-02-02 12:46:37.197287,Scores - Final Round Score - Sepp Straka - Final Round Score,Over 70.5,-0.022600000000000064,0.5122,0.5348
 2025-02-02 11:23:51.609370,Scores - Final Round Score - Russell Henley - Final Round Score,Over 70.5,-0.022600000000000064,0.5122,0.5348
-2025-02-02 07:25:52.224190,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.02310000000000001,0.0769,0.1
+2025-02-02 12:46:37.180244,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
 2025-02-02 07:25:52.112436,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,-0.02310000000000001,0.0769,0.1
+2025-02-02 07:25:52.224190,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.02310000000000001,0.0769,0.1
 2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.023200000000000002,0.0294,0.0526
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.023799999999999988,0.1429,0.1667
 2025-02-02 01:57:07.868081,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.023800000000000016,0.1667,0.1905
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.023800000000000043,0.5,0.5238
-2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.023800000000000043,0.5,0.5238
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,-0.023800000000000043,0.5,0.5238
-2025-02-02 09:26:46.813372,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.0242,0.0667,0.0909
-2025-02-02 06:35:33.912168,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 08:31:58.456434,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 04:31:28.905561,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.023800000000000043,0.5,0.5238
 2025-02-02 02:55:48.607718,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 01:57:09.921456,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 12:46:36.964318,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.0242,0.0667,0.0909
+2025-02-02 04:31:28.905561,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 08:31:58.456434,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 06:35:33.912168,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 07:25:53.875201,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 09:26:46.813372,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 03:33:07.753961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-02-02 07:25:52.244099,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),-0.0242,0.0667,0.0909
 2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-01 23:26:21.915324,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 01:57:09.921456,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 03:33:07.753961,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 07:25:53.875201,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.0245,0.0588,0.0833
+2025-02-02 12:46:37.201572,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 70.5,-0.024399999999999977,0.4878,0.5122
 2025-02-02 01:57:07.747202,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.0245,0.0588,0.0833
+2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.0245,0.0588,0.0833
 2025-02-02 11:23:51.604940,Scores - Final Round Score - Rory McIIroy - Final Round Score,Under 68.5,-0.025599999999999956,0.5744,0.6
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,-0.025600000000000067,0.6667,0.6923
 2025-02-02 01:57:10.026064,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Celine Boutier,-0.025799999999999997,0.002,0.0278
@@ -302,17 +310,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 02:55:46.584152,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,-0.028000000000000004,0.0196,0.0476
 2025-02-02 07:25:52.234283,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.028199999999999996,0.0385,0.0667
 2025-02-02 01:57:07.814740,League One - England League One 2024/25 - Winner,Wycombe,-0.02840000000000001,0.0769,0.1053
-2025-02-02 04:31:28.877964,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 08:31:58.428459,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 01:57:09.892876,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 02:55:48.580036,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 03:33:07.726862,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-01 23:26:21.887953,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 09:26:46.784418,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 04:31:28.877964,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 12:46:36.935870,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 06:35:33.883637,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 07:25:53.847575,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 08:31:58.428459,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 09:26:46.784418,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 11:23:49.129948,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.029899999999999982,0.2,0.2299
 2025-02-02 10:31:17.818001,Scores - Final Round Score - Russell Henley - Final Round Score,Over 70.5,-0.030399999999999983,0.5348,0.5652
 2025-02-02 11:23:48.953725,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.031799999999999995,0.1111,0.1429
@@ -320,9 +328,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.031799999999999995,0.4444,0.4762
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.033299999999999996,0.5122,0.5455
 2025-02-02 07:25:52.224190,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Amen Thompson (HOU),-0.03330000000000001,0.0667,0.1
-2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.033300000000000024,0.1667,0.2
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.033300000000000024,0.1667,0.2
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.033300000000000024,0.1667,0.2
+2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.033300000000000024,0.1667,0.2
 2025-02-02 02:55:46.593309,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.034100000000000005,0.0909,0.125
 2025-02-02 11:23:51.529076,Round Match-Ups - Final Round Match-Ups - N. Taylor vs A. Rai - Final Round Match-Ups,Nick Taylor,-0.03600000000000003,0.4878,0.5238
 2025-02-02 09:26:45.298257,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Celebrity Guest to Appear on Stage,Doechii,-0.03689999999999999,0.2857,0.3226
@@ -351,14 +359,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.052000000000000005,0.0909,0.1429
 2025-02-02 02:55:46.581141,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,-0.052399999999999995,0.0385,0.0909
 2025-02-02 02:55:46.587270,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Fulham,-0.0526,0.0099,0.0625
-2025-02-02 03:33:05.749398,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.05559999999999998,0.1111,0.1667
 2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.05559999999999998,0.1111,0.1667
 2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.05559999999999998,0.1111,0.1667
+2025-02-02 03:33:05.749398,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.05559999999999998,0.1111,0.1667
 2025-02-02 02:55:46.593309,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,-0.05679999999999996,0.8182,0.875
 2025-02-02 10:31:17.826482,Scores - Final Round Score - Sepp Straka - Final Round Score,Over 70.5,-0.05689999999999995,0.5348,0.5917
 2025-02-02 01:57:10.026064,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Jin Young Ko,-0.0617,0.005,0.0667
-2025-02-02 01:57:07.819533,League Two - England League Two 2024/25 - Winner,Walsall,-0.0635,0.7143,0.7778
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.0635,0.2222,0.2857
+2025-02-02 01:57:07.819533,League Two - England League Two 2024/25 - Winner,Walsall,-0.0635,0.7143,0.7778
 2025-02-02 11:23:51.596256,Scores - Final Round Score - Justin Rose - Final Round Score,Over 70.5,-0.06520000000000004,0.5,0.5652
 2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.06659999999999999,0.2667,0.3333
 2025-02-02 07:25:52.237551,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),-0.06930000000000003,0.4545,0.5238

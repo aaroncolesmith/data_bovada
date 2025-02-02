@@ -1,97 +1,75 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 20:27:55.578158,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.1945,0.4167,0.2222
 2025-02-02 20:27:55.582969,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.14680000000000004,0.4545,0.3077
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,0.12589999999999998,0.3077,0.1818
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.12380000000000002,0.5238,0.4
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.11109999999999998,0.3333,0.2222
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.10710000000000003,0.5833,0.4762
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.1058,0.4762,0.3704
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.10390000000000002,0.2857,0.1818
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.0948,0.8948,0.8
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,0.0857,0.2857,0.2
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.08330000000000001,0.25,0.1667
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.07930000000000001,0.2222,0.1429
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.07690000000000002,0.3846,0.3077
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.07499999999999996,0.875,0.8
+2025-02-02 22:31:07.372293,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.07500000000000001,0.2,0.125
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.07069999999999999,0.1818,0.1111
-2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,0.07069999999999999,0.1818,0.1111
 2025-02-02 11:23:51.596256,Scores - Final Round Score - Justin Rose - Final Round Score,Under 70.5,0.06520000000000004,0.5652,0.5
 2025-02-02 11:23:49.175104,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.0635,0.2857,0.2222
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.0635,0.2857,0.2222
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.06190000000000001,0.4255,0.3636
 2025-02-02 10:31:17.826482,Scores - Final Round Score - Sepp Straka - Final Round Score,Under 70.5,0.05860000000000004,0.5348,0.4762
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.05559999999999998,0.5556,0.5
-2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Harry Smith,0.052300000000000006,0.1111,0.0588
 2025-02-02 20:27:55.718610,NBA Specials - Which Reporter will break Jimmy Butler Trade News First? - Jimmy Butler Trade News,Shams Charania,0.05130000000000001,0.6667,0.6154
 2025-02-02 19:23:58.999158,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.04769999999999999,0.1429,0.0952
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.04760000000000003,0.5238,0.4762
 2025-02-02 11:23:51.507310,Match-Ups - Final Round Match-Ups - J. Rose vs L. Glover - Requests,Justin Rose,0.045499999999999985,0.5455,0.5
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.045499999999999985,0.5455,0.5
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.04409999999999992,0.6667,0.6226
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,0.04269999999999999,0.1538,0.1111
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club América,0.04039999999999999,0.8182,0.7778
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.038299999999999994,0.0909,0.0526
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.038099999999999995,0.2381,0.2
 2025-02-02 10:31:17.818001,Scores - Final Round Score - Russell Henley - Final Round Score,Under 70.5,0.03480000000000005,0.5348,0.5
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.03420000000000001,0.9231,0.8889
 2025-02-02 11:23:49.134705,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.03410000000000002,0.7674,0.7333
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.03259999999999996,0.6552,0.6226
 2025-02-02 11:23:48.953725,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.03210000000000002,0.9412,0.9091
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.031799999999999995,0.1429,0.1111
 2025-02-02 11:23:51.529076,Round Match-Ups - Final Round Match-Ups - N. Taylor vs A. Rai - Final Round Match-Ups,Aaron Rai,0.03179999999999994,0.5556,0.5238
 2025-02-02 17:28:26.116653,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.031400000000000095,0.7647,0.7333
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.0312,0.0435,0.0123
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.030299999999999994,0.3636,0.3333
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,0.029299999999999993,0.0769,0.0476
-2025-02-02 16:34:19.445811,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 09:26:46.813372,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 12:46:36.964318,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 14:29:13.999863,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 18:34:44.282077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 15:28:36.825058,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.028799999999999992,0.1538,0.125
-2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 17:28:26.152815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
-2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 20:27:57.502361,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 19:24:00.922488,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 18:34:44.282077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 17:28:26.152815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 16:34:19.445811,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 15:28:36.825058,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 14:29:13.999863,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 13:28:05.504077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 12:46:36.964318,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
+2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,0.028799999999999992,0.1538,0.125
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.02779999999999999,0.25,0.2222
-2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.02560000000000001,0.3333,0.3077
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.02560000000000001,0.3333,0.3077
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.02560000000000001,0.3333,0.3077
+2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2025-02-02 12:46:37.180244,Scores - Final Round Score - Lucas Glover - Final Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
-2025-02-02 09:26:45.298257,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Celebrity Guest to Appear on Stage,Lefty gunplay,0.025300000000000003,0.1429,0.1176
 2025-02-02 19:23:58.975215,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.0245,0.0833,0.0588
 2025-02-02 13:28:05.652076,Round Match-Ups - Final Round Match-Ups - N. Taylor vs A. Rai - Final Round Match-Ups,Nick Taylor,0.024399999999999977,0.5122,0.4878
-2025-02-02 20:27:57.472229,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 19:24:00.890887,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.0242,0.0909,0.0667
-2025-02-02 18:34:44.254183,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 17:28:26.124675,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 16:34:19.417737,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 15:28:36.796941,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 18:34:44.254183,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 14:29:13.968193,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 13:28:05.475615,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 17:28:26.124675,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 12:46:36.935870,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 20:27:57.472229,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
 2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 09:26:46.784418,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
-2025-02-02 15:28:36.796941,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,0.0242,0.9333,0.9091
+2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.0242,0.0909,0.0667
 2025-02-02 13:28:05.643944,Round Match-Ups - Final Round Match-Ups - S. Im vs T. Fleetwood - Final Round Match-Ups,Sungjae Im,0.023800000000000043,0.5238,0.5
-2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,0.023799999999999988,0.5,0.4762
 2025-02-02 10:31:17.805284,Scores - Final Round Score - Justin Rose - Final Round Score,Under 70.5,0.023799999999999988,0.5,0.4762
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,0.0236,0.0385,0.0149
+2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,0.023799999999999988,0.5,0.4762
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.02310000000000001,0.1,0.0769
 2025-02-02 11:23:51.604940,Scores - Final Round Score - Rory McIIroy - Final Round Score,Over 68.5,0.022699999999999998,0.4878,0.4651
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.022600000000000064,0.6226,0.6
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.022199999999999998,0.2222,0.2
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.021999999999999964,0.3077,0.2857
 2025-02-02 13:28:05.668347,Round Match-Ups - Final Round Match-Ups - M.W. Lee vs J.T. Poston - Final Round Match-Ups,J.T. Poston,0.02169999999999994,0.5455,0.5238
 2025-02-02 13:28:05.560321,AT&T Pebble Beach Pro-Am - 2/3 Balls - Final Round 3-Balls - E. Cole / C. Bezuidenhout / T. Hoge - Final Round 3-Balls,Eric Cole,0.020799999999999985,0.3333,0.3125
 2025-02-02 11:23:51.609370,Scores - Final Round Score - Russell Henley - Final Round Score,Under 70.5,0.02079999999999993,0.5556,0.5348
 2025-02-02 12:46:37.197287,Scores - Final Round Score - Sepp Straka - Final Round Score,Under 70.5,0.02079999999999993,0.5556,0.5348
-2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Lydia Ko,0.020100000000000007,0.1739,0.1538
 2025-02-02 11:23:49.129948,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,0.020100000000000007,0.25,0.2299
+2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Lydia Ko,0.020100000000000007,0.1739,0.1538
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.019099999999999992,0.0667,0.0476
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.019000000000000017,0.2857,0.2667
 2025-02-02 11:23:49.148897,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Racing Club,0.019000000000000017,0.2857,0.2667
@@ -99,20 +77,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.01849999999999996,0.9709,0.9524
 2025-02-02 20:27:55.587839,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.018400000000000027,0.3125,0.2941
 2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.01820000000000002,0.2,0.1818
-2025-02-02 09:26:44.937084,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,0.018199999999999994,0.8182,0.8
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,0.018099999999999998,0.0769,0.0588
 2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,River Plate,0.017600000000000005,0.3509,0.3333
-2025-02-02 09:26:45.329570,Super Bowl 59 Specials - Super Bowl LIX Specials - How many times will Roger Goodell be shown? ,Under 1.5,0.017299999999999982,0.5917,0.5744
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,0.016699999999999993,0.4167,0.4
 2025-02-02 12:46:35.162435,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Purdue,0.015899999999999997,0.1111,0.0952
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.014900000000000004,0.0345,0.0196
-2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Under 71.5,0.014800000000000035,0.6226,0.6078
 2025-02-02 10:31:17.822233,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 68.5,0.014800000000000035,0.6226,0.6078
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,0.014099999999999998,0.0385,0.0244
-2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,0.013999999999999999,0.0909,0.0769
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.013999999999999999,0.0909,0.0769
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.013999999999999999,0.0909,0.0769
+2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Under 71.5,0.014800000000000035,0.6226,0.6078
+2025-02-02 22:31:07.372293,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.013999999999999999,0.0909,0.0769
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.013999999999999999,0.0909,0.0769
+2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,0.013999999999999999,0.0909,0.0769
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.013899999999999996,0.125,0.1111
 2025-02-02 10:31:16.297809,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Over 2.5,0.013800000000000034,0.3774,0.3636
 2025-02-02 11:23:51.591863,Scores - Final Round Score - Cam Davis - Final Round Score,Under 71.5,0.013799999999999923,0.6364,0.6226
@@ -123,115 +97,97 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 11:23:51.301947,Boxing Lines - Brandon Moore vs Skylar Lacy - To Win the Bout,Brandon Moore,0.011499999999999955,0.6667,0.6552
 2025-02-02 12:46:36.852030,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Julio Rodriguez (SEA),0.011199999999999995,0.0435,0.0323
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.011199999999999988,0.9524,0.9412
+2025-02-02 10:31:17.766819,Round Match-Ups - Final Round Match-Ups - R. McIIroy vs S. Scheffler - Final Round Match-Ups,Rory McIlroy,0.011099999999999999,0.4762,0.4651
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.011099999999999999,0.1111,0.1
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.011099999999999999,0.1111,0.1
-2025-02-02 10:31:17.766819,Round Match-Ups - Final Round Match-Ups - R. McIIroy vs S. Scheffler - Final Round Match-Ups,Rory McIlroy,0.011099999999999999,0.4762,0.4651
 2025-02-02 11:23:51.582614,Round Match-Ups - Final Round Match-Ups - S. Lowry vs S. Straka - Final Round Match-Ups,Shane Lowry,0.01100000000000001,0.5348,0.5238
-2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Viktor Hovland,0.010699999999999932,0.5455,0.5348
+2025-02-02 22:31:09.135256,Boxing Lines - Joseph Hicks vs Keon Papillion - To Win the Bout,Keon Papillion,0.010899999999999993,0.1538,0.1429
 2025-02-02 10:31:17.186687,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Under 32.5,0.010699999999999932,0.5455,0.5348
+2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Viktor Hovland,0.010699999999999932,0.5455,0.5348
 2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,Nelly Korda,0.010499999999999982,0.2105,0.2
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,0.0102,0.0769,0.0667
 2025-02-02 11:23:49.155852,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Independiente,0.0102,0.0769,0.0667
 2025-02-02 10:31:17.830706,Scores - Final Round Score - Shane Lowry - Final Round Score,Under 70.5,0.010099999999999998,0.5556,0.5455
-2025-02-02 10:31:17.213232,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Over 104.5,-0.010099999999999998,0.5455,0.5556
-2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.010099999999999998,0.4444,0.4545
 2025-02-02 10:31:17.822233,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 68.5,-0.010099999999999998,0.4444,0.4545
-2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,-0.0102,0.0667,0.0769
+2025-02-02 10:31:17.801035,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.010099999999999998,0.4444,0.4545
+2025-02-02 10:31:17.213232,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Over 104.5,-0.010099999999999998,0.5455,0.5556
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Macarthur FC,-0.0102,0.0667,0.0769
-2025-02-02 09:26:44.937084,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.010499999999999982,0.2,0.2105
+2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,-0.0102,0.0667,0.0769
+2025-02-02 22:31:07.372293,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.010699999999999987,0.3226,0.3333
 2025-02-02 20:27:55.718610,NBA Specials - Which Reporter will break Jimmy Butler Trade News First? - Jimmy Butler Trade News,Jake Fischer,-0.010899999999999993,0.1429,0.1538
 2025-02-02 10:31:17.186687,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Over 32.5,-0.01100000000000001,0.5238,0.5348
 2025-02-02 10:31:17.813712,Scores - Final Round Score - Rory McIIroy - Final Round Score,Over 68.5,-0.011099999999999999,0.4651,0.4762
+2025-02-02 22:31:07.385993,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,-0.011099999999999999,0.1,0.1111
 2025-02-02 10:31:17.834978,Scores - Final Round Score - Tom Kim - Final Round Score,Over 70.5,-0.011099999999999999,0.4651,0.4762
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.011199999999999988,0.9412,0.9524
-2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.011199999999999995,0.0476,0.0588
-2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.011199999999999995,0.0476,0.0588
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.011199999999999995,0.0476,0.0588
+2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.011199999999999995,0.0476,0.0588
+2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,-0.011199999999999995,0.0476,0.0588
 2025-02-02 10:31:17.721693,AT&T Pebble Beach Pro-Am - 2/3 Balls - Final Round 3-Balls - J. Rose / T. Kim / C. Davis - Final Round 3-Balls,Cam Davis,-0.01150000000000001,0.3333,0.3448
-2025-02-02 09:26:45.329570,Super Bowl 59 Specials - Super Bowl LIX Specials - How many times will Roger Goodell be shown? ,Over 1.5,-0.0116,0.4762,0.4878
 2025-02-02 10:31:17.830706,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 70.5,-0.011600000000000055,0.5122,0.5238
 2025-02-02 11:23:51.582614,Round Match-Ups - Final Round Match-Ups - S. Lowry vs S. Straka - Final Round Match-Ups,Sepp Straka,-0.011600000000000055,0.5122,0.5238
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.012100000000000001,0.0123,0.0244
 2025-02-02 10:31:17.809508,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 71.5,-0.012199999999999989,0.4878,0.5
-2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,A Lim Kim,-0.012800000000000034,0.5,0.5128
 2025-02-02 10:31:17.786907,Round Match-Ups - Final Round Match-Ups - T. Hoge vs V. Hovland - Final Round Match-Ups,Tom Hoge,-0.012800000000000034,0.5,0.5128
+2025-02-02 10:31:17.887449,Hilton Tournament of Champions - Hilton Tournament of Champions - Winner,A Lim Kim,-0.012800000000000034,0.5,0.5128
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.012899999999999995,0.1538,0.1667
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,-0.013,0.0066,0.0196
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Central Coast Mariners,-0.0131,0.0345,0.0476
 2025-02-02 14:29:13.931567,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.013300000000000034,0.3571,0.3704
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.013899999999999996,0.1111,0.125
-2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,-0.013899999999999996,0.1111,0.125
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.013899999999999996,0.1111,0.125
+2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,-0.013899999999999996,0.1111,0.125
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hertha BSC,-0.014099999999999998,0.0244,0.0385
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.014100000000000001,0.9615,0.9756
-2025-02-02 10:31:15.294510,Ligue 1 - France Ligue 1 2024/25 - Winner,Lille,-0.014199999999999999,0.0152,0.0294
 2025-02-02 10:31:15.434115,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Schalke 04,-0.014199999999999999,0.0152,0.0294
-2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.015100000000000002,0.1667,0.1818
-2025-02-02 09:26:44.937084,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Kentucky,-0.015499999999999998,0.0123,0.0278
+2025-02-02 10:31:15.294510,Ligue 1 - France Ligue 1 2024/25 - Winner,Lille,-0.014199999999999999,0.0152,0.0294
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Guingamp,-0.016600000000000004,0.0667,0.0833
 2025-02-02 10:31:15.429367,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.016699999999999993,0.25,0.2667
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Tranmere Rovers,-0.017800000000000003,0.0066,0.0244
-2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.0179,0.125,0.1429
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.0179,0.125,0.1429
-2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Will Grigg,-0.018200000000000004,0.0294,0.0476
+2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.0179,0.125,0.1429
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.018200000000000004,0.0294,0.0476
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.01820000000000002,0.1818,0.2
 2025-02-02 10:31:16.297809,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Under 2.5,-0.018399999999999972,0.6875,0.7059
-2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.0189,0.0196,0.0385
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Stoke City,-0.0189,0.0196,0.0385
-2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.018900000000000028,0.4255,0.4444
+2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.0189,0.0196,0.0385
 2025-02-02 11:23:51.591863,Scores - Final Round Score - Cam Davis - Final Round Score,Over 71.5,-0.018900000000000028,0.4255,0.4444
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.019499999999999997,0.0099,0.0294
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Swindon Town,-0.019499999999999997,0.0099,0.0294
+2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.018900000000000028,0.4255,0.4444
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.02020000000000001,0.0909,0.1111
 2025-02-02 11:23:49.018749,Championship - England Championship 2024/25 - Top Goalscorer,Callum Robinson,-0.0203,0.0385,0.0588
 2025-02-02 13:28:05.652076,Round Match-Ups - Final Round Match-Ups - N. Taylor vs A. Rai - Final Round Match-Ups,Aaron Rai,-0.02079999999999993,0.5348,0.5556
 2025-02-02 13:28:05.560321,AT&T Pebble Beach Pro-Am - 2/3 Balls - Final Round 3-Balls - E. Cole / C. Bezuidenhout / T. Hoge - Final Round 3-Balls,Christiaan Bezuidenhout,-0.020799999999999985,0.3125,0.3333
-2025-02-02 09:26:44.477706,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.021999999999999964,0.2857,0.3077
 2025-02-02 11:23:49.148897,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,-0.022199999999999998,0.2,0.2222
 2025-02-02 13:28:05.643944,Round Match-Ups - Final Round Match-Ups - S. Im vs T. Fleetwood - Final Round Match-Ups,Tommy Fleetwood,-0.022599999999999953,0.5238,0.5464
 2025-02-02 12:46:37.197287,Scores - Final Round Score - Sepp Straka - Final Round Score,Over 70.5,-0.022600000000000064,0.5122,0.5348
 2025-02-02 11:23:51.609370,Scores - Final Round Score - Russell Henley - Final Round Score,Over 70.5,-0.022600000000000064,0.5122,0.5348
 2025-02-02 12:46:37.180244,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
 2025-02-02 20:27:55.582969,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.02310000000000001,0.0769,0.1
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.023200000000000002,0.0294,0.0526
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.023799999999999988,0.1429,0.1667
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.023800000000000043,0.5,0.5238
-2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.023800000000000043,0.5,0.5238
 2025-02-02 13:28:05.668347,Round Match-Ups - Final Round Match-Ups - M.W. Lee vs J.T. Poston - Final Round Match-Ups,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2025-02-02 11:23:49.183498,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,-0.023800000000000043,0.5,0.5238
-2025-02-02 20:27:57.502361,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 19:24:00.922488,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 18:34:44.282077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 17:28:26.152815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 16:34:19.445811,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 13:28:05.504077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.023800000000000043,0.5,0.5238
 2025-02-02 12:46:36.964318,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 13:28:05.504077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 14:29:13.999863,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-02-02 15:28:36.825058,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.0242,0.0667,0.0909
-2025-02-02 09:26:46.813372,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 14:29:13.999863,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
-2025-02-02 11:23:51.379640,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 16:34:19.445811,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 17:28:26.152815,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-02-02 10:31:17.606713,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 18:34:44.282077,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 19:24:00.922488,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
+2025-02-02 20:27:57.502361,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Shakur Stevenson,-0.0242,0.9091,0.9333
 2025-02-02 12:46:37.201572,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 70.5,-0.024399999999999977,0.4878,0.5122
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.0245,0.0588,0.0833
 2025-02-02 11:23:51.604940,Scores - Final Round Score - Rory McIIroy - Final Round Score,Under 68.5,-0.025599999999999956,0.5744,0.6
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,-0.025600000000000067,0.6667,0.6923
 2025-02-02 10:31:17.805284,Scores - Final Round Score - Justin Rose - Final Round Score,Over 70.5,-0.026499999999999968,0.5652,0.5917
 2025-02-02 11:23:48.999256,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.027700000000000058,0.5556,0.5833
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,-0.02779999999999999,0.2222,0.25
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.027999999999999997,0.1538,0.1818
 2025-02-02 20:27:55.578158,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Sacramento Kings,-0.028399999999999995,0.0625,0.0909
-2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 17:28:26.124675,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 14:29:13.968193,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 13:28:05.475615,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 19:24:00.890887,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 09:26:46.784418,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 10:31:17.578510,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 11:23:51.351054,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 17:28:26.124675,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 14:29:13.968193,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 15:28:36.796941,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
-2025-02-02 16:34:19.417737,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 20:27:57.472229,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 19:24:00.890887,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
+2025-02-02 16:34:19.417737,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 18:34:44.254183,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 12:46:36.935870,Boxing Lines - Shakur Stevenson vs Floyd Schofield - To Win the Bout,Floyd Schofield,-0.028799999999999992,0.125,0.1538
 2025-02-02 11:23:49.129948,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.029899999999999982,0.2,0.2299
@@ -239,39 +195,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-02 17:28:26.116653,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.030299999999999994,0.303,0.3333
 2025-02-02 10:31:17.818001,Scores - Final Round Score - Russell Henley - Final Round Score,Over 70.5,-0.030399999999999983,0.5348,0.5652
 2025-02-02 11:23:48.953725,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.031799999999999995,0.1111,0.1429
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.031799999999999995,0.4444,0.4762
+2025-02-02 22:31:07.372293,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.03259999999999999,0.2,0.2326
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.033299999999999996,0.5122,0.5455
+2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.033300000000000024,0.1667,0.2
 2025-02-02 11:23:48.976195,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.033300000000000024,0.1667,0.2
 2025-02-02 11:23:49.002987,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.033300000000000024,0.1667,0.2
 2025-02-02 20:27:55.573293,Atlantic Division - Atlantic Division 2024-25 - Atlantic Division Winner,New York Knicks,-0.033300000000000024,0.1667,0.2
-2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.033300000000000024,0.1667,0.2
 2025-02-02 11:23:51.529076,Round Match-Ups - Final Round Match-Ups - N. Taylor vs A. Rai - Final Round Match-Ups,Nick Taylor,-0.03600000000000003,0.4878,0.5238
-2025-02-02 09:26:45.298257,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Celebrity Guest to Appear on Stage,Doechii,-0.03689999999999999,0.2857,0.3226
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,-0.0373,0.0294,0.0667
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.03889999999999999,0.1429,0.1818
+2025-02-02 22:31:07.372293,WNBA Championship - WNBA Championship 2025 - Championship Winner,Connecticut Sun,-0.0374,0.0152,0.0526
 2025-02-02 11:23:49.152047,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Talleres,-0.04040000000000002,0.1818,0.2222
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.042300000000000004,0.9333,0.9756
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.042899999999999994,0.1,0.1429
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.04409999999999992,0.6226,0.6667
 2025-02-02 11:23:49.179850,National League - English National League 2024/25 - English National League Winner,York City,-0.044499999999999984,0.2222,0.2667
 2025-02-02 11:23:51.507310,Match-Ups - Final Round Match-Ups - J. Rose vs L. Glover - Requests,Lucas Glover,-0.045499999999999985,0.5,0.5455
 2025-02-02 10:31:15.345856,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,-0.045499999999999985,0.5,0.5455
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.047599999999999976,0.2857,0.3333
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.04849999999999999,0.1333,0.1818
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.04910000000000003,0.3509,0.4
 2025-02-02 11:23:49.175104,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.050000000000000044,0.75,0.8
 2025-02-02 10:31:15.336648,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.052000000000000005,0.0909,0.1429
-2025-02-02 09:26:44.481155,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.05559999999999998,0.1111,0.1667
-2025-02-02 09:26:44.490448,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.05559999999999998,0.1111,0.1667
 2025-02-02 10:31:17.826482,Scores - Final Round Score - Sepp Straka - Final Round Score,Over 70.5,-0.05689999999999995,0.5348,0.5917
 2025-02-02 20:27:55.578158,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.0595,0.5238,0.5833
 2025-02-02 10:31:15.339765,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.0635,0.2222,0.2857
 2025-02-02 11:23:51.596256,Scores - Final Round Score - Justin Rose - Final Round Score,Over 70.5,-0.06520000000000004,0.5,0.5652
-2025-02-02 09:26:44.493538,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.06659999999999999,0.2667,0.3333
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,-0.0857,0.7143,0.8
 2025-02-02 20:27:55.578158,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.0909,0.0909,0.1818
 2025-02-02 10:31:15.348905,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.09830000000000005,0.4255,0.5238
-2025-02-02 09:26:44.487333,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,-0.09999999999999998,0.5,0.6
 2025-02-02 10:31:15.342823,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.1129,0.7333,0.8462
-2025-02-02 09:26:44.484216,League Two - England League Two 2024/25 - To Be Relegated,Newport County,-0.11430000000000001,0.2857,0.4
 2025-02-02 20:27:55.582969,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.11550000000000005,0.5455,0.661

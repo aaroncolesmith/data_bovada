@@ -3,27 +3,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 12:51:22.998890,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Smile,0.33330000000000004,0.5,0.1667
 2025-02-03 12:51:22.998890,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,M3GAN,0.16670000000000001,0.5,0.3333
 2025-02-03 12:51:22.998890,Scary Movie 6 - Scary Movie 6: Which films/franchises will be parodied? - To Be Parodied,Terrifier,0.1666,0.3333,0.1667
-2025-02-03 11:25:10.819323,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Schoolboy Q,0.10710000000000003,0.5833,0.4762
 2025-02-03 12:51:23.003958,Box Office 2025 - Highest Grossing Movie 2025 - Highest Grossing Movie 2025,Superman,0.08549999999999999,0.2105,0.125
-2025-02-03 10:34:01.635400,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Ajax,0.08330000000000001,0.25,0.1667
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Dr Dre,0.08330000000000001,0.25,0.1667
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Richard Green,0.08099999999999999,0.0909,0.0099
 2025-02-03 12:51:23.141208,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2026,0.08079999999999998,0.6364,0.5556
 2025-02-03 12:51:23.141208,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2027,0.07930000000000001,0.2222,0.1429
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Nelly Korda,0.07069999999999999,0.1818,0.1111
 2025-02-03 16:36:00.838499,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.06669999999999998,0.6667,0.6
-2025-02-03 11:25:10.819323,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Lil Wayne,0.0595,0.5833,0.5238
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Lydia Ko,0.0509,0.1176,0.0667
 2025-02-03 20:29:32.328188,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Over 78.5,0.04620000000000002,0.5917,0.5455
-2025-02-03 10:34:01.588122,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.03179999999999994,0.5556,0.5238
 2025-02-03 12:51:22.966114,Business Specials - Price Of Gold At Year End 2025 - Gold Price End Of 2025,Over $3000,0.030299999999999994,0.3636,0.3333
-2025-02-03 10:34:01.622800,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.029899999999999982,0.2299,0.2
 2025-02-03 15:30:16.839801,Qatar Masters - Qatar Masters - Winner,Johannes Veerman,0.0286,0.0385,0.0099
 2025-02-03 12:51:23.136257,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning November 17th,0.028399999999999995,0.0909,0.0625
 2025-02-03 12:51:23.136257,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning November 24th,0.028399999999999995,0.0909,0.0625
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Megan Thee Stallion,0.028399999999999995,0.0909,0.0625
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,ELEMENT.,0.0267,0.1176,0.0909
-2025-02-03 10:34:01.588122,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,0.024999999999999994,0.125,0.1
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Lauren Coughlin,0.024499999999999997,0.0278,0.0033
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Swimming Pools (Drank),0.024299999999999995,0.0769,0.0526
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Peter Baker,0.024200000000000003,0.0244,0.0002
@@ -40,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Miguel Angel Jimenez,0.0203,0.0526,0.0323
 2025-02-03 18:37:55.975833,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.017299999999999982,0.303,0.2857
 2025-02-03 15:30:14.787402,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.016700000000000007,0.1,0.0833
+2025-02-03 23:27:27.906062,Phoenix Open - Phoenix Open - Winner,Scottie Scheffler,0.016699999999999993,0.2667,0.25
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Adilson Da Silva,0.0165,0.0244,0.0079
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Manon De Roey,0.0163,0.0196,0.0033
 2025-02-03 12:51:23.052013,Super Bowl Halftime Specials - Halftime Show: What shoes will Kendrick first wear onstage? - Kendrick's Shoes,Cowboy Boots,0.014899999999999997,0.0625,0.0476
@@ -47,8 +42,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 12:51:23.136257,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning November 10th,0.014399999999999996,0.0769,0.0625
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Yealimi Noh,0.013900000000000001,0.0164,0.0025
 2025-02-03 12:51:23.052013,Super Bowl Halftime Specials - Halftime Show: What shoes will Kendrick first wear onstage? - Kendrick's Shoes,Nike Kobe,0.013899999999999996,0.125,0.1111
-2025-02-03 10:34:01.480849,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.013899999999999996,0.125,0.1111
-2025-02-03 10:34:01.480849,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.013899999999999996,0.125,0.1111
 2025-02-03 12:51:23.136257,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,December 2025 or later,0.0131,0.2353,0.2222
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Angel Yin,0.012100000000000001,0.0244,0.0123
 2025-02-03 20:29:30.875373,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Alex Sarr (WAS),0.011900000000000008,0.0952,0.0833
@@ -61,7 +54,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 21:27:29.379240,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Over 42.5,0.01100000000000001,0.5348,0.5238
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Tim Petrovic,0.0103,0.0123,0.002
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Jin Young Ko,0.0102,0.0769,0.0667
-2025-02-03 10:34:01.480849,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Pumas UNAM,0.0102,0.0769,0.0667
 2025-02-03 15:30:16.839801,Qatar Masters - Qatar Masters - Winner,Jorge Campillo,0.010100000000000001,0.0345,0.0244
 2025-02-03 21:27:29.162747,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Elly De La Cruz Total Home Runs,Over 24.5,0.010099999999999998,0.5556,0.5455
 2025-02-03 21:27:29.308944,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Bobby Witt Jr. Total Stolen Bases,Over 33.5,-0.010099999999999998,0.5455,0.5556
@@ -75,7 +67,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 15:30:16.839801,Qatar Masters - Qatar Masters - Winner,Eddie Pepperell,-0.013400000000000002,0.011,0.0244
 2025-02-03 12:51:23.136257,Grand Theft Auto - GTA 6 Release Date - GTA 6 Release Date,Week Beginning September 15th,-0.013999999999999999,0.0769,0.0909
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Savior,-0.014099999999999994,0.0526,0.0667
-2025-02-03 10:34:01.588122,First Division A - Belgium First Division A 2024/25 - Outright,Anderlecht,-0.014100000000000001,0.0385,0.0526
 2025-02-03 20:29:32.432634,Boxing Lines - Masood Abdulah vs Zak Miller - To Win the Bout,Masood Abdulah,-0.015800000000000036,0.7937,0.8095
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Cheyenne Knight,-0.017800000000000003,0.0066,0.0244
 2025-02-03 12:51:23.003958,Box Office 2025 - Highest Grossing Movie 2025 - Highest Grossing Movie 2025,The Fantastic Four: First Steps,-0.01820000000000002,0.1818,0.2
@@ -88,22 +79,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 20:29:32.267016,Player Props - Texas Rangers - 2025 Regular Season Player Props - Adolis Garcia Total Home Runs,Over 28.5,-0.02079999999999993,0.5348,0.5556
 2025-02-03 15:30:16.839801,Qatar Masters - Qatar Masters - Winner,Marcel Siem,-0.021199999999999997,0.0066,0.0278
 2025-02-03 21:27:29.047513,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Gunnar Henderson Total Home Runs,Under 32.5,-0.02169999999999994,0.5238,0.5455
+2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Travis Scott,-0.021999999999999964,0.2857,0.3077
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,J.Cole,-0.021999999999999964,0.2857,0.3077
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Ab-Soul,-0.021999999999999964,0.2857,0.3077
-2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Travis Scott,-0.021999999999999964,0.2857,0.3077
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Reason,-0.023799999999999988,0.1429,0.1667
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Playboi Carti,-0.023799999999999988,0.1429,0.1667
 2025-02-03 15:30:16.839801,Qatar Masters - Qatar Masters - Winner,Yannik Paul,-0.0244,0.0079,0.0323
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Nasa Hataoka,-0.024800000000000003,0.0278,0.0526
 2025-02-03 20:29:32.601110,Cognizant Founders Cup - Cognizant Founders Cup - Outright,Lexi Thompson,-0.0262,0.0123,0.0385
 2025-02-03 12:51:22.966114,Business Specials - Price Of Gold At Year End 2025 - Gold Price End Of 2025,$2500 to $3000,-0.027700000000000002,0.4167,0.4444
-2025-02-03 10:34:01.622800,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,-0.02779999999999999,0.2222,0.25
-2025-02-03 12:51:23.141208,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2029,-0.028399999999999995,0.0625,0.0909
 2025-02-03 12:51:23.060461,Super Bowl Halftime Specials - Halftime Show: To Appear During Kendrick Lamar's Set - To Appear In Kendrick's Set,Ice Spice,-0.028399999999999995,0.0625,0.0909
-2025-02-03 10:34:01.622800,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,-0.029299999999999993,0.0476,0.0769
+2025-02-03 12:51:23.141208,Space Exploration - When will the Artemis Mission walk astronauts on the moon? - When will the Artemis Mission walk astronauts on the moon?,2029,-0.028399999999999995,0.0625,0.0909
 2025-02-03 12:51:22.966114,Business Specials - Price Of Gold At Year End 2025 - Gold Price End Of 2025,Under $2500,-0.030299999999999994,0.3333,0.3636
-2025-02-03 12:51:23.052013,Super Bowl Halftime Specials - Halftime Show: What shoes will Kendrick first wear onstage? - Kendrick's Shoes,Nike Shox,-0.031799999999999995,0.4444,0.4762
 2025-02-03 12:51:23.056140,Super Bowl Halftime Specials - Halftime Show: Number Of Songs In Kendrick Lamar's Set - No Of Songs In Set,Under 9.5,-0.031799999999999995,0.4444,0.4762
+2025-02-03 12:51:23.052013,Super Bowl Halftime Specials - Halftime Show: What shoes will Kendrick first wear onstage? - Kendrick's Shoes,Nike Shox,-0.031799999999999995,0.4444,0.4762
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Ken Duke,-0.032400000000000005,0.0152,0.0476
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Brian Gay,-0.0336,0.0099,0.0435
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Poetic Justice,-0.038299999999999994,0.0526,0.0909
@@ -113,12 +102,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-03 12:51:23.003958,Box Office 2025 - Highest Grossing Movie 2025 - Highest Grossing Movie 2025,Zootopia 2,-0.044399999999999995,0.4,0.4444
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Bitch Don't Kill My Vibe,-0.047400000000000005,0.0526,0.1
 2025-02-03 20:29:32.328188,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Under 78.5,-0.04760000000000003,0.4762,0.5238
-2025-02-03 10:34:01.588122,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.05449999999999999,0.4,0.4545
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,tv off,-0.05559999999999998,0.1111,0.1667
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,Not Like Us,-0.0572,0.1333,0.1905
 2025-02-03 16:36:00.838499,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.06509999999999999,0.4,0.4651
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Thomas Bjorn,-0.06760000000000001,0.0435,0.1111
-2025-02-03 10:34:01.635400,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,-0.07499999999999996,0.8,0.875
 2025-02-03 12:51:23.047793,Super Bowl Halftime Specials - Halftime Show: Kendrick's First Song - First Song,DNA,-0.08979999999999999,0.0769,0.1667
 2025-02-03 12:51:25.143180,Trophy Hassan II - Trophy Hassan II - Winner,Mark Hensby,-0.0915,0.0196,0.1111
 2025-02-03 12:51:23.003958,Box Office 2025 - Highest Grossing Movie 2025 - Highest Grossing Movie 2025,Jurassic World: Rebirth,-0.13190000000000002,0.1538,0.2857

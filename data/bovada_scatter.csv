@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.23079999999999995,0.6154,0.3846
-2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.17459999999999998,0.8889,0.7143
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.17459999999999998,0.8889,0.7143
+2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.17459999999999998,0.8889,0.7143
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.115,0.2326,0.1176
 2025-02-05 12:52:24.960032,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 67.5,0.09350000000000003,0.4444,0.3509
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,0.06669999999999998,0.6667,0.6
@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 15:31:55.233235,Round Match-Ups - 1st Round Match-Ups - L. Clanton vs J. Spieth - 1st Round Match-Ups,Luke Clanton,0.03179999999999994,0.5556,0.5238
 2025-02-05 20:30:35.908233,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Portland Trail Blazers,0.030199999999999998,0.0625,0.0323
 2025-02-05 22:33:17.734146,Boxing Lines - Daniel Santos vs Shakan Pitters - To Win the Bout,Shakan Pitters,0.02960000000000007,0.6296,0.6
-2025-02-05 10:34:37.981346,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Theegala - 1st Round Match-Ups,Sahith Theegala,0.028500000000000025,0.3226,0.2941
 2025-02-05 20:30:38.096637,Boxing Lines - Shavkatdzhon Rakhimov vs Justin Pauldo - To Win the Bout,Justin Pauldo,0.028299999999999992,0.3509,0.3226
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,0.023799999999999988,0.3571,0.3333
 2025-02-05 18:36:57.982303,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Oscar Duarte Jurado,0.022199999999999998,0.8,0.7778
@@ -23,9 +22,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 17:30:10.707333,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Saquon Barkley (PHI),0.018900000000000028,0.4444,0.4255
 2025-02-05 22:33:18.607245,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Nelly Korda,0.01820000000000002,0.2,0.1818
 2025-02-05 19:25:32.336381,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,0.017300000000000093,0.7143,0.697
+2025-02-05 23:28:06.542495,Boxing Lines - Ramon Cardenas vs Bryan Acosta - To Win the Bout,Ramon Cardenas,0.016700000000000048,0.75,0.7333
 2025-02-05 22:33:15.624119,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,0.016699999999999993,0.4167,0.4
 2025-02-05 19:25:32.387910,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.015800000000000036,0.7561,0.7403
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.01539999999999997,0.6154,0.6
+2025-02-05 23:28:06.482149,Boxing Lines - Genesis Servania vs Aketelieti Yelejian - To Win the Bout,Genesis Servania,0.014900000000000024,0.6923,0.6774
 2025-02-05 17:30:10.775615,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Over 2.5,0.013800000000000034,0.3774,0.3636
 2025-02-05 16:37:33.515636,NBA Championship - NBA Championship 2024-25 - NBA Champion,Milwaukee Bucks,0.0131,0.0476,0.0345
 2025-02-05 17:30:10.626325,Super Bowl 59 Specials - Super Bowl LIX Specials - First Turnover of the Game is An Interception ,No,0.012199999999999989,0.5122,0.5
@@ -40,6 +41,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 17:30:10.666878,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - Total Number of Songs,Under 10.5,-0.012199999999999989,0.5,0.5122
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,L.A. Clippers,-0.012199999999999989,0.5,0.5122
 2025-02-05 19:25:32.336381,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.012699999999999989,0.3509,0.3636
+2025-02-05 23:28:06.482149,Boxing Lines - Genesis Servania vs Aketelieti Yelejian - To Win the Bout,Aketelieti Yelejian,-0.01419999999999999,0.3704,0.3846
 2025-02-05 17:30:10.582156,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - Who Will be Shown first,Kansas City Chiefs Player or Staff,-0.014200000000000101,0.6154,0.6296
 2025-02-05 19:25:32.387910,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.014900000000000024,0.3077,0.3226
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,-0.016700000000000007,0.0833,0.1
@@ -48,9 +50,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 18:36:57.982303,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Regis Prograis,-0.019000000000000017,0.2667,0.2857
 2025-02-05 17:30:10.707333,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Travis Kelce (KC),-0.020299999999999985,0.6226,0.6429
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Portland Trail Blazers,-0.0203,0.0323,0.0526
+2025-02-05 23:28:06.542495,Boxing Lines - Ramon Cardenas vs Bryan Acosta - To Win the Bout,Bryan Acosta,-0.020799999999999985,0.3125,0.3333
 2025-02-05 20:30:38.088442,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Otto Wallin,-0.02200000000000002,0.6923,0.7143
 2025-02-05 20:30:38.141224,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Oscar Duarte Jurado,-0.022199999999999998,0.7778,0.8
-2025-02-05 10:34:37.981346,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Theegala - 1st Round Match-Ups,Scottie Scheffler,-0.02400000000000002,0.726,0.75
 2025-02-05 20:30:38.096637,Boxing Lines - Shavkatdzhon Rakhimov vs Justin Pauldo - To Win the Bout,Shavkatdzhon Rakhimov,-0.025999999999999912,0.7143,0.7403
 2025-02-05 22:33:17.734146,Boxing Lines - Daniel Santos vs Shakan Pitters - To Win the Bout,Daniel Santos,-0.030299999999999994,0.4348,0.4651
 2025-02-05 15:31:55.233235,Round Match-Ups - 1st Round Match-Ups - L. Clanton vs J. Spieth - 1st Round Match-Ups,Jordan Spieth,-0.03600000000000003,0.4878,0.5238

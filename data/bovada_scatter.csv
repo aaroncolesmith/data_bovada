@@ -3,7 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 07:28:03.622472,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),St. John's,0.12039999999999995,0.6552,0.5348
 2025-02-05 07:28:03.551117,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.1199,0.5744,0.4545
 2025-02-05 07:28:03.614587,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.10360000000000003,0.4545,0.3509
-2025-02-04 23:27:38.612079,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Under 67.5,0.10360000000000003,0.4545,0.3509
+2025-02-05 12:52:24.960032,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 67.5,0.09350000000000003,0.4444,0.3509
 2025-02-05 07:28:06.169323,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 68.5,0.0917,0.5917,0.5
 2025-02-05 07:28:03.560384,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.09049999999999997,0.5556,0.4651
 2025-02-05 07:28:03.630268,Men's Basketball Conferences - Missouri Valley Conference Winner - Missouri Valley Winner (Regular Season),Drake,0.09009999999999996,0.8462,0.7561
@@ -16,14 +16,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 09:30:52.696195,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,VfB Stuttgart,0.05310000000000001,0.2857,0.2326
 2025-02-05 09:30:52.728725,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.04999999999999999,0.25,0.2
 2025-02-05 07:28:03.638087,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,0.04999999999999999,0.25,0.2
-2025-02-04 23:27:35.519236,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.04910000000000003,0.4,0.3509
 2025-02-05 07:28:03.532012,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),0.048600000000000004,0.1111,0.0625
 2025-02-05 07:28:03.555744,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.047099999999999975,0.5122,0.4651
 2025-02-05 07:28:03.522186,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.04700000000000004,0.5348,0.4878
-2025-02-04 23:27:38.625049,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 67.5,0.045499999999999985,0.5455,0.5
 2025-02-05 09:30:52.848857,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,0.045499999999999985,0.5455,0.5
-2025-02-05 09:30:52.603840,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.044499999999999984,0.2667,0.2222
 2025-02-05 09:30:52.845122,National League - English National League 2024/25 - English National League Winner,York City,0.044499999999999984,0.2667,0.2222
+2025-02-05 09:30:52.603840,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.044499999999999984,0.2667,0.2222
 2025-02-05 07:28:03.736945,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.04410000000000003,0.3774,0.3333
 2025-02-05 09:30:52.845122,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.043200000000000016,0.3509,0.3077
 2025-02-05 07:28:03.525488,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.04290000000000005,0.4,0.3571
@@ -36,9 +34,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 07:28:03.555744,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.02840000000000001,0.1053,0.0769
 2025-02-05 08:32:43.302292,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.027999999999999997,0.1818,0.1538
 2025-02-05 08:32:43.361948,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.025600000000000067,0.6923,0.6667
-2025-02-05 08:32:43.302292,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.023800000000000043,0.5238,0.5
-2025-02-05 07:28:06.125858,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2025-02-05 07:28:06.130169,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 69.5,0.023800000000000043,0.5238,0.5
+2025-02-05 07:28:06.125858,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
+2025-02-05 08:32:43.302292,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.023800000000000043,0.5238,0.5
 2025-02-05 01:54:32.370667,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.023799999999999988,0.1667,0.1429
 2025-02-05 08:32:43.288026,Championship - England Championship 2024/25 - Top Goalscorer,Wilson Isidro,0.02310000000000001,0.1,0.0769
 2025-02-05 01:54:32.373842,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,0.021699999999999997,0.4762,0.4545
@@ -67,22 +65,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 07:28:03.622472,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.011700000000000016,0.2222,0.2105
 2025-02-05 04:33:47.651506,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,0.011300000000000004,0.2439,0.2326
 2025-02-05 01:54:35.320130,TGL - Team Matchups - Boston Common vs Los Angeles - Winner,Boston Common (Bradley/McIlroy/Matsuyama/Scott),0.01100000000000001,0.5348,0.5238
+2025-02-05 12:52:24.892468,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Jin Young Ko,0.0102,0.0769,0.0667
 2025-02-05 01:54:35.320130,TGL - Team Matchups - Boston Common vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.010699999999999932,0.5348,0.5455
 2025-02-05 08:32:46.795298,TGL - TGL - Winner,Jupiter Links,-0.010899999999999993,0.1429,0.1538
 2025-02-05 08:32:43.355547,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.010899999999999993,0.1429,0.1538
-2025-02-05 07:28:03.720044,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.011099999999999999,0.2667,0.2778
 2025-02-05 07:28:03.622472,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Connecticut,-0.011099999999999999,0.1,0.1111
+2025-02-05 07:28:03.720044,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.011099999999999999,0.2667,0.2778
 2025-02-05 09:30:52.728725,League Two - England League Two 2024/25 - Top Goalscorer,Harry Smith,-0.011099999999999999,0.1,0.1111
 2025-02-05 07:28:03.528732,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,-0.011199999999999988,0.9412,0.9524
 2025-02-05 08:32:43.989101,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,De'Aaron Fox (SAS),-0.011199999999999995,0.0476,0.0588
-2025-02-05 01:54:32.367521,Championship - England Championship 2024/25 - Winner,Leeds United,-0.011699999999999933,0.7778,0.7895
 2025-02-05 06:36:52.723438,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Oscar Duarte Jurado,-0.011699999999999933,0.7778,0.7895
+2025-02-05 01:54:32.367521,Championship - England Championship 2024/25 - Winner,Leeds United,-0.011699999999999933,0.7778,0.7895
 2025-02-05 01:54:34.900576,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Regis Prograis,-0.011699999999999988,0.274,0.2857
 2025-02-05 08:32:46.795298,TGL - TGL - Winner,Atlanta Drive,-0.011899999999999994,0.2381,0.25
 2025-02-05 09:30:52.848857,National League - English National League 2024/25 - To Be Promoted,Halifax Town,-0.012100000000000001,0.0123,0.0244
 2025-02-05 07:28:03.618523,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,-0.012499999999999997,0.05,0.0625
-2025-02-05 09:30:52.728725,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.012899999999999995,0.1538,0.1667
 2025-02-05 01:54:32.367521,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.012899999999999995,0.1538,0.1667
+2025-02-05 09:30:52.728725,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.012899999999999995,0.1538,0.1667
 2025-02-05 01:54:34.859953,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,-0.013300000000000034,0.3571,0.3704
 2025-02-05 07:28:03.720044,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Amen Thompson (HOU),-0.013999999999999999,0.0769,0.0909
 2025-02-05 08:32:43.288026,Championship - England Championship 2024/25 - Top Goalscorer,Thomas Cannon,-0.013999999999999999,0.0769,0.0909
@@ -96,8 +95,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 09:30:52.820696,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Godoy Cruz,-0.018200000000000004,0.0294,0.0476
 2025-02-05 07:28:03.723560,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,-0.01820000000000002,0.1818,0.2
 2025-02-05 09:30:52.848857,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.019699999999999995,0.1053,0.125
-2025-02-05 07:28:06.130169,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 69.5,-0.01970000000000005,0.5455,0.5652
 2025-02-05 07:28:06.125858,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
+2025-02-05 07:28:06.130169,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 69.5,-0.01970000000000005,0.5455,0.5652
 2025-02-05 07:28:03.525488,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.02049999999999999,0.1333,0.1538
 2025-02-05 04:33:48.343940,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Kerry Carpenter Total Home Runs,Under 21.5,-0.02169999999999994,0.5238,0.5455
 2025-02-05 07:28:03.618523,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,-0.022199999999999998,0.2,0.2222
@@ -110,7 +109,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 07:28:03.736945,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.033300000000000024,0.1667,0.2
 2025-02-05 07:28:03.532012,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.033399999999999985,0.8333,0.8667
 2025-02-05 07:28:03.522186,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.03959999999999997,0.5348,0.5744
-2025-02-04 23:27:38.625049,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 67.5,-0.04139999999999999,0.5238,0.5652
 2025-02-05 07:28:03.532012,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.04269999999999999,0.1111,0.1538
 2025-02-05 01:54:32.373842,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.044399999999999995,0.5556,0.6
 2025-02-05 07:28:06.156346,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 67.5,-0.045499999999999985,0.5,0.5455
@@ -129,8 +127,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 07:28:06.169323,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 68.5,-0.08900000000000002,0.4762,0.5652
 2025-02-05 07:28:06.151945,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 68.5,-0.0917,0.5,0.5917
 2025-02-05 07:28:06.143262,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Over 69.5,-0.0917,0.5,0.5917
+2025-02-05 12:52:24.960032,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Over 67.5,-0.0917,0.6226,0.7143
 2025-02-05 09:30:52.735475,League Two - England League Two 2024/25 - To Be Relegated,Newport County,-0.10390000000000002,0.1818,0.2857
-2025-02-04 23:27:38.612079,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Over 67.5,-0.10650000000000004,0.6078,0.7143
 2025-02-05 07:28:03.551117,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.12259999999999999,0.3774,0.5
 2025-02-05 07:28:06.164987,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Under 68.5,-0.12960000000000005,0.5,0.6296
 2025-02-05 07:28:03.622472,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,-0.19039999999999999,0.1429,0.3333

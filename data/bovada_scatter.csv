@@ -1,9 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.23079999999999995,0.6154,0.3846
-2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.17459999999999998,0.8889,0.7143
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,0.17459999999999998,0.8889,0.7143
+2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,0.17459999999999998,0.8889,0.7143
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.115,0.2326,0.1176
-2025-02-05 12:52:24.960032,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 67.5,0.09350000000000003,0.4444,0.3509
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,0.06669999999999998,0.6667,0.6
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Denver Nuggets,0.0629,0.1538,0.0909
 2025-02-05 17:30:10.758383,Super Bowl 59 Specials - Super Bowl LIX Specials - Taylor Swift To appear on-stage during the Super Bowl Halftime Show,Yes,0.047099999999999996,0.0667,0.0196
@@ -12,11 +11,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 20:30:35.908233,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Portland Trail Blazers,0.030199999999999998,0.0625,0.0323
 2025-02-05 22:33:17.734146,Boxing Lines - Daniel Santos vs Shakan Pitters - To Win the Bout,Shakan Pitters,0.02960000000000007,0.6296,0.6
 2025-02-05 20:30:38.096637,Boxing Lines - Shavkatdzhon Rakhimov vs Justin Pauldo - To Win the Bout,Justin Pauldo,0.028299999999999992,0.3509,0.3226
+2025-02-06 01:54:59.288549,Super Bowl 59 Specials - Super Bowl LIX Specials - Taylor Swift Specials - Will Taylor Swift wear Kristin Juszczyk custom design at Super Bowl LIX?,No,0.027800000000000047,0.75,0.7222
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,San Antonio Spurs,0.023799999999999988,0.3571,0.3333
 2025-02-05 18:36:57.982303,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Oscar Duarte Jurado,0.022199999999999998,0.8,0.7778
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,0.01970000000000005,0.5652,0.5455
 2025-02-05 17:30:10.582156,Super Bowl 59 Specials - Super Bowl LIX Specials - America the Beautiful - Who Will be Shown first,Philadelphia Eagles Player or Staff,0.019699999999999995,0.4545,0.4348
 2025-02-05 20:30:38.088442,Boxing Lines - Dereck Chisora vs Otto Wallin - To Win the Bout,Dereck Chisora,0.019500000000000017,0.3704,0.3509
+2025-02-06 01:54:59.063150,NFL Specials - NFL Next Team Odds - Myles Garrett Next Team,Buffalo Bills,0.01949999999999999,0.0909,0.0714
 2025-02-05 20:30:38.141224,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Regis Prograis,0.019000000000000017,0.2857,0.2667
 2025-02-05 22:33:17.794969,Boxing Lines - Ramon Cardenas vs Bryan Acosta - To Win the Bout,Ramon Cardenas,0.018999999999999906,0.7333,0.7143
 2025-02-05 17:30:10.707333,Super Bowl 59 Specials - Super Bowl LIX Specials - National Anthem - Who Will be Shown first,Saquon Barkley (PHI),0.018900000000000028,0.4444,0.4255
@@ -29,9 +30,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 23:28:06.482149,Boxing Lines - Genesis Servania vs Aketelieti Yelejian - To Win the Bout,Genesis Servania,0.014900000000000024,0.6923,0.6774
 2025-02-05 17:30:10.775615,Super Bowl 59 Specials - Super Bowl LIX Specials - Total Players to Attempt a Pass,Over 2.5,0.013800000000000034,0.3774,0.3636
 2025-02-05 16:37:33.515636,NBA Championship - NBA Championship 2024-25 - NBA Champion,Milwaukee Bucks,0.0131,0.0476,0.0345
+2025-02-06 01:54:58.825806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.012700000000000003,0.0323,0.0196
 2025-02-05 17:30:10.626325,Super Bowl 59 Specials - Super Bowl LIX Specials - First Turnover of the Game is An Interception ,No,0.012199999999999989,0.5122,0.5
 2025-02-05 20:30:37.947011,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Félix Bautista (BAL),0.011199999999999995,0.0588,0.0476
-2025-02-05 12:52:24.892468,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Jin Young Ko,0.0102,0.0769,0.0667
 2025-02-05 20:30:38.043268,Boxing Lines - Genesis Servania vs Aketelieti Yelejian - To Win the Bout,Genesis Servania,-0.010099999999999998,0.6774,0.6875
 2025-02-05 22:33:18.607245,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Jin Young Ko,-0.0102,0.0667,0.0769
 2025-02-05 22:33:15.624119,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,-0.010899999999999993,0.1429,0.1538
@@ -55,12 +56,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-05 20:30:38.141224,Boxing Lines - Oscar Duarte Jurado vs Regis Prograis - To Win the Bout,Oscar Duarte Jurado,-0.022199999999999998,0.7778,0.8
 2025-02-05 20:30:38.096637,Boxing Lines - Shavkatdzhon Rakhimov vs Justin Pauldo - To Win the Bout,Shavkatdzhon Rakhimov,-0.025999999999999912,0.7143,0.7403
 2025-02-05 22:33:17.734146,Boxing Lines - Daniel Santos vs Shakan Pitters - To Win the Bout,Daniel Santos,-0.030299999999999994,0.4348,0.4651
+2025-02-06 01:54:59.288549,Super Bowl 59 Specials - Super Bowl LIX Specials - Taylor Swift Specials - Will Taylor Swift wear Kristin Juszczyk custom design at Super Bowl LIX?,Yes,-0.032299999999999995,0.3125,0.3448
 2025-02-05 15:31:55.233235,Round Match-Ups - 1st Round Match-Ups - L. Clanton vs J. Spieth - 1st Round Match-Ups,Jordan Spieth,-0.03600000000000003,0.4878,0.5238
 2025-02-05 16:37:33.882022,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Over 120.5 seconds,-0.04820000000000002,0.5744,0.6226
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,-0.0559,0.0066,0.0625
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,-0.0683999999999999,0.7778,0.8462
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Utah Jazz,-0.0767,0.0066,0.0833
-2025-02-05 12:52:24.960032,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Over 67.5,-0.0917,0.6226,0.7143
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,-0.13490000000000002,0.6429,0.7778
 2025-02-05 18:36:55.735416,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,-0.19999999999999998,0.1333,0.3333
 2025-02-05 18:36:55.739727,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.22040000000000004,0.3448,0.5652

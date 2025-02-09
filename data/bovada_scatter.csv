@@ -1,17 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Yealimi Noh,0.38780000000000003,0.4878,0.1
 2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.19690000000000007,0.8333,0.6364
+2025-02-09 10:32:14.886004,Super Bowl 59 Specials - Super Bowl LIX Specials - What NBA players to be shown during the FOX broadcast of Super Bowl LIX,Luka Dončić,0.163,0.3448,0.1818
 2025-02-09 09:27:22.366566,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,0.14290000000000003,0.4762,0.3333
-2025-02-08 22:30:03.298897,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-08 23:29:02.392043,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-09 02:58:34.938994,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-09 03:33:29.189881,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-09 04:31:54.802822,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-09 05:31:07.723294,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
 2025-02-09 06:35:12.876031,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
-2025-02-09 07:27:48.576338,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-09 04:31:54.802822,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-09 03:33:29.189881,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
 2025-02-09 08:31:37.647804,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-09 05:31:07.723294,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-09 02:58:34.938994,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
 2025-02-09 01:58:47.086132,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-08 23:29:02.392043,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
+2025-02-09 07:27:48.576338,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,0.1372,0.5917,0.4545
 2025-02-09 07:27:48.260971,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),0.13070000000000004,0.8182,0.6875
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.10770000000000002,0.8,0.6923
 2025-02-09 07:27:48.235964,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Creighton,0.10039999999999999,0.3226,0.2222
@@ -21,11 +21,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Jin Young Ko,0.08779999999999999,0.4878,0.4
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Florida,0.0857,0.2857,0.2
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.08330000000000004,0.8333,0.75
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,0.07450000000000001,0.5,0.4255
 2025-02-09 07:27:48.227822,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,0.0726,0.3226,0.25
 2025-02-09 07:27:48.256176,Men's Basketball Conferences - West Coast Conference Winner - WCC Winner (Regular Season),Saint Mary's CA,0.07169999999999999,0.905,0.8333
-2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.06670000000000004,0.4,0.3333
-2025-02-09 09:27:22.332378,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.06670000000000004,0.4,0.3333
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.06670000000000004,0.4,0.3333
+2025-02-09 09:27:22.332378,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.06670000000000004,0.4,0.3333
+2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.06670000000000004,0.4,0.3333
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.06669999999999998,0.6667,0.6
 2025-02-09 09:27:22.335237,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.06659999999999999,0.3333,0.2667
 2025-02-09 02:58:34.202159,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.0635,0.2857,0.2222
@@ -48,15 +49,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 07:27:48.299849,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.041800000000000004,0.3448,0.303
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,0.0417,0.125,0.0833
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.04099999999999998,0.3077,0.2667
+2025-02-09 10:32:13.686849,League One - England League One 2024/25 - Top Goalscorer,Richard Kone,0.04089999999999999,0.4255,0.3846
 2025-02-09 07:27:48.252144,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),UAB,0.0407,0.1176,0.0769
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.03889999999999999,0.1818,0.1429
+2025-02-09 10:32:16.779795,Round Match-Ups - Final Round Match-Up - C. Young vs R. MacIntyre - Final Round Match-Up,Robert MacIntyre,0.037800000000000056,0.5833,0.5455
 2025-02-09 01:58:46.370724,League One - England League One 2024/25 - To Be Relegated,Exeter City,0.0368,0.2667,0.2299
 2025-02-09 01:58:46.373722,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,0.0368,0.2667,0.2299
 2025-02-09 01:58:46.373722,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.03640000000000004,0.4,0.3636
 2025-02-09 09:27:22.380435,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.03570000000000001,0.2857,0.25
 2025-02-09 09:27:22.366566,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.03420000000000001,0.1111,0.0769
-2025-02-09 01:58:46.376744,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.034100000000000005,0.125,0.0909
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.034100000000000005,0.125,0.0909
+2025-02-09 01:58:46.376744,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.034100000000000005,0.125,0.0909
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Megan Khang,0.0335,0.0385,0.005
 2025-02-09 09:27:22.400473,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.033300000000000024,0.2,0.1667
 2025-02-09 01:58:46.373722,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.033300000000000024,0.2,0.1667
@@ -70,22 +73,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 07:27:48.163724,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.02960000000000007,0.6296,0.6
 2025-02-09 09:27:22.602074,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,0.028900000000000037,0.5744,0.5455
 2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Bournemouth,0.028199999999999996,0.0667,0.0385
-2025-02-09 01:58:46.256856,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.02779999999999999,0.25,0.2222
 2025-02-09 01:58:46.370724,League One - England League One 2024/25 - To Be Relegated,Peterborough United,0.02779999999999999,0.25,0.2222
+2025-02-09 01:58:46.256856,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.02779999999999999,0.25,0.2222
+2025-02-09 10:32:13.736772,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.027700000000000058,0.5833,0.5556
 2025-02-09 09:27:22.556850,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,0.0267,0.1176,0.0909
 2025-02-09 07:27:50.517665,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.026600000000000013,0.4348,0.4082
 2025-02-09 01:58:46.370724,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.025600000000000067,0.6923,0.6667
+2025-02-09 10:32:13.826453,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.02560000000000001,0.3333,0.3077
 2025-02-09 07:27:48.219716,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),George Mason,0.02560000000000001,0.3704,0.3448
 2025-02-09 06:35:14.757225,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.025599999999999956,0.6552,0.6296
-2025-02-09 09:27:22.329051,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.025499999999999967,0.4255,0.4
 2025-02-09 01:58:46.370724,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.025499999999999967,0.4255,0.4
+2025-02-09 09:27:22.329051,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.025499999999999967,0.4255,0.4
+2025-02-09 10:32:13.736772,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.025499999999999967,0.4255,0.4
 2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Newcastle United,0.025300000000000003,0.1429,0.1176
 2025-02-09 07:27:48.244042,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,0.025099999999999983,0.2632,0.2381
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.024999999999999994,0.125,0.1
 2025-02-09 01:58:46.384512,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.024999999999999994,0.125,0.1
 2025-02-09 01:58:46.279508,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.0242,0.0909,0.0667
-2025-02-08 22:30:05.212470,Boxing Lines - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.023800000000000043,0.5238,0.5
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,0.0242,0.0909,0.0667
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,0.023800000000000043,0.5238,0.5
 2025-02-09 07:27:48.149271,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.023800000000000043,0.5238,0.5
+2025-02-09 10:32:13.806866,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Racing Club,0.023799999999999988,0.1667,0.1429
 2025-02-09 09:27:22.602074,National League - English National League 2024/25 - To Be Promoted,York City,0.023799999999999988,0.5,0.4762
 2025-02-09 01:58:46.274989,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,0.023499999999999965,0.9709,0.9474
 2025-02-09 09:27:22.326336,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,0.023200000000000002,0.0476,0.0244
@@ -94,6 +102,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,0.022199999999999998,0.1333,0.1111
 2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,UCLA (W),0.022199999999999998,0.2222,0.2
 2025-02-09 01:58:48.918102,Boxing Lines - Vito Mielnicki Jr vs Connor Coyle - To Win the Bout,Vito Mielnicki Jr,0.02210000000000001,0.8403,0.8182
+2025-02-09 10:32:13.710967,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.021999999999999964,0.3077,0.2857
 2025-02-09 07:27:48.286028,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),0.02180000000000004,0.6296,0.6078
 2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.021799999999999986,0.3922,0.3704
 2025-02-09 07:27:48.158929,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.021700000000000053,0.7778,0.7561
@@ -103,137 +112,172 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 07:27:50.513538,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Callum Smith,0.02100000000000002,0.3846,0.3636
 2025-02-09 09:27:22.552122,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.02100000000000002,0.3846,0.3636
 2025-02-09 08:31:38.541926,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Austin Riley Total Home Runs,Over 31.5,0.02079999999999993,0.5556,0.5348
+2025-02-09 10:32:16.735969,Round Match-Ups - Final Round Match-Up - K. Mitchell vs N. Hojgaard - Final Round Match-Up,Keith Mitchell,0.02079999999999993,0.5556,0.5348
 2025-02-09 01:58:46.300219,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.020699999999999996,0.4651,0.4444
 2025-02-09 07:27:48.223765,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Louisville,0.0206,0.0385,0.0179
 2025-02-09 01:58:46.311467,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.02049999999999999,0.1538,0.1333
 2025-02-09 02:58:34.205238,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.02020000000000001,0.1111,0.0909
+2025-02-09 10:32:13.772584,Super League - Greece Super League 2024/25 - Winner,AEK Athens,0.020100000000000007,0.25,0.2299
 2025-02-09 09:27:22.602074,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.020100000000000007,0.25,0.2299
 2025-02-09 09:27:22.380435,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.020100000000000007,0.25,0.2299
 2025-02-09 07:27:48.144339,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.01970000000000005,0.5652,0.5455
 2025-02-09 07:27:48.292953,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),0.019699999999999995,0.4545,0.4348
+2025-02-09 10:32:15.017378,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.019600000000000006,0.3226,0.303
 2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Fulham,0.019099999999999992,0.0667,0.0476
 2025-02-09 09:27:22.556850,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.019000000000000017,0.2857,0.2667
 2025-02-09 09:27:22.598452,National League - English National League 2024/25 - English National League Winner,York City,0.019000000000000017,0.2857,0.2667
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Pumas UNAM,0.019000000000000017,0.2857,0.2667
+2025-02-09 10:32:13.806866,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,0.019000000000000017,0.2857,0.2667
 2025-02-09 09:27:22.366566,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.018900000000000028,0.4444,0.4255
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,0.0189,0.0385,0.0196
-2025-02-08 22:30:05.148076,Boxing Lines - Michael Angeletti vs Judy Flores - To Win the Bout,Michael Angeletti,0.01849999999999996,0.9709,0.9524
 2025-02-09 09:27:22.374198,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.01820000000000002,0.2,0.1818
-2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Liverpool,0.01820000000000002,0.2,0.1818
 2025-02-09 04:31:54.018411,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,0.01820000000000002,0.2,0.1818
+2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Liverpool,0.01820000000000002,0.2,0.1818
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,0.018200000000000004,0.0476,0.0294
 2025-02-09 07:27:50.460651,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Xavier Edwards (MIA),0.018099999999999998,0.0526,0.0345
 2025-02-09 09:27:22.602074,National League - English National League 2024/25 - To Be Promoted,Gateshead,0.0179,0.1429,0.125
 2025-02-09 07:27:48.299849,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.01759999999999999,0.1176,0.1
 2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,0.016700000000000007,0.1,0.0833
+2025-02-09 10:32:13.799903,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Racing Club,0.016699999999999993,0.2667,0.25
 2025-02-09 09:27:22.552122,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,0.016699999999999993,0.2667,0.25
 2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Ipswich Town,0.0162,0.0294,0.0132
 2025-02-09 07:27:48.299849,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),0.01579999999999998,0.3333,0.3175
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Salford City,0.015100000000000002,0.1818,0.1667
-2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.01440000000000001,0.1053,0.0909
+2025-02-09 10:32:15.007625,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.014900000000000024,0.3226,0.3077
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.01440000000000001,0.1053,0.0909
+2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Middle Tennessee State,0.01440000000000001,0.1053,0.0909
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas A&M,0.014399999999999996,0.0769,0.0625
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Michigan,0.014399999999999996,0.0769,0.0625
 2025-02-09 07:27:48.210843,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.014099999999999994,0.0667,0.0526
 2025-02-09 09:27:22.394038,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.014099999999999994,0.0667,0.0526
-2025-02-09 09:27:22.326336,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.013899999999999996,0.125,0.1111
+2025-02-09 10:32:13.604435,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.013899999999999996,0.125,0.1111
+2025-02-09 10:32:13.604435,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,0.013899999999999996,0.125,0.1111
+2025-02-09 10:32:13.604435,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,0.013899999999999996,0.125,0.1111
+2025-02-09 10:32:13.803059,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,0.013899999999999996,0.125,0.1111
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.013899999999999996,0.125,0.1111
+2025-02-09 09:27:22.326336,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.013899999999999996,0.125,0.1111
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.013800000000000034,0.3774,0.3636
 2025-02-09 08:31:36.715372,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.013600000000000001,0.3077,0.2941
+2025-02-09 10:32:16.684476,Phoenix Open - 2/3 Balls - Final Round 3 Balls - W. Clark / D. Thompson / N. Taylor - Final Round 3 Balls,Davis Thompson,0.013300000000000034,0.3704,0.3571
 2025-02-09 09:27:22.397143,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Arnaud Kalimuendo (Rennes),0.0131,0.0476,0.0345
 2025-02-09 04:31:54.018411,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,0.012899999999999995,0.1667,0.1538
+2025-02-09 10:32:13.803059,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,River Plate,0.012699999999999989,0.3636,0.3509
 2025-02-09 09:27:22.598452,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,0.012699999999999989,0.3636,0.3509
 2025-02-09 09:27:22.386345,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,0.012400000000000078,0.8948,0.8824
 2025-02-09 03:33:31.049320,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.012199999999999989,0.5122,0.5
-2025-02-08 22:30:05.208442,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.012199999999999989,0.5122,0.5
 2025-02-09 01:58:46.256856,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.011699999999999988,0.2857,0.274
+2025-02-09 10:32:16.762748,Round Match-Ups - Final Round Match-Up - G. Woodland vs B. Hossler - Final Round Match-Up,Gary Woodland,0.011600000000000055,0.5238,0.5122
 2025-02-09 07:27:50.505065,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.01150000000000001,0.3448,0.3333
 2025-02-09 07:27:48.270497,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.01150000000000001,0.3448,0.3333
+2025-02-09 10:32:13.826453,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.011199999999999995,0.0588,0.0476
 2025-02-09 09:27:22.383417,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,0.011199999999999995,0.0588,0.0476
-2025-02-09 08:31:37.349052,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),0.011099999999999999,0.1111,0.1
-2025-02-09 01:58:48.942261,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.011099999999999999,0.7333,0.7222
+2025-02-09 10:32:13.806866,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Rosario Central,0.011199999999999995,0.0588,0.0476
 2025-02-09 01:58:48.922105,Boxing Lines - Xander Zayas vs Slawa Spomer - To Win the Bout,Xander Zayas,0.011099999999999999,0.9,0.8889
+2025-02-09 01:58:48.942261,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.011099999999999999,0.7333,0.7222
+2025-02-09 08:31:37.349052,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),0.011099999999999999,0.1111,0.1
+2025-02-09 10:32:16.741255,Round Match-Ups - Final Round Match-Up - A. Bhatia vs D. Thompson - Final Round Match-Up,Davis Thompson,0.01100000000000001,0.5348,0.5238
+2025-02-09 10:32:16.758495,Round Match-Ups - Final Round Match-Up - A. Hadwin vs B. Cauley - Final Round Match-Up,Adam Hadwin,0.01100000000000001,0.5348,0.5238
 2025-02-09 01:58:46.300219,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.010899999999999993,0.1538,0.1429
 2025-02-09 01:58:46.297357,Championship - England Championship 2024/25 - Winner,Sheffield United,0.010899999999999993,0.1538,0.1429
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Memphis,0.010700000000000001,0.0385,0.0278
-2025-02-09 09:27:22.394038,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.010699999999999987,0.3333,0.3226
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.010699999999999987,0.3333,0.3226
+2025-02-09 09:27:22.394038,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.010699999999999987,0.3333,0.3226
+2025-02-09 10:32:16.745659,Round Match-Ups - Final Round Match-Up - S.W. Kim vs N. Taylor - Final Round Match-Up,Si Woo Kim,0.010699999999999932,0.5455,0.5348
+2025-02-09 10:32:16.709738,Phoenix Open - 2/3 Balls - Final Round 3 Balls - D. McCarthy / J. Thomas / A. Hadwin - Final Round 3 Balls,Justin Thomas,0.010599999999999998,0.4651,0.4545
+2025-02-09 10:32:16.697084,Phoenix Open - 2/3 Balls - Final Round 3 Balls - B. Harman / T. Kim / H. Matsuyama - Final Round 3 Balls,Hideki Matsuyama,0.010599999999999998,0.4651,0.4545
 2025-02-09 07:27:48.210843,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.010399999999999993,0.2326,0.2222
 2025-02-09 07:27:48.244042,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,0.010300000000000002,0.0244,0.0141
 2025-02-09 09:27:23.456724,Super Bowl 59 Specials - Super Bowl LIX Specials - Halftime Show - First Song / Last Song Specials,1st Song of Halftime Show: Humble & Last Song of Halftime Show: Alright,0.010100000000000001,0.0345,0.0244
-2025-02-09 08:31:39.620820,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.010099999999999998,0.6875,0.6774
-2025-02-09 07:27:48.231923,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.010099999999999998,0.0556,0.0455
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.010099999999999998,0.4545,0.4444
+2025-02-09 07:27:48.231923,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Iowa State,0.010099999999999998,0.0556,0.0455
+2025-02-09 08:31:39.620820,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.010099999999999998,0.6875,0.6774
 2025-02-09 09:27:22.598452,National League - English National League 2024/25 - English National League Winner,Barnet,-0.010099999999999998,0.4444,0.4545
 2025-02-09 01:58:46.303075,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.010100000000000001,0.0244,0.0345
 2025-02-09 09:27:22.326336,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.010199999999999987,0.9231,0.9333
-2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.0102,0.0667,0.0769
-2025-02-09 01:58:46.305940,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.0102,0.0667,0.0769
 2025-02-09 01:58:46.364603,League One - England League One 2024/25 - Winner,Wycombe,-0.0102,0.0667,0.0769
+2025-02-09 01:58:46.305940,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.0102,0.0667,0.0769
+2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.0102,0.0667,0.0769
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,-0.010300000000000002,0.0141,0.0244
 2025-02-09 07:27:48.158929,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.010399999999999993,0.2222,0.2326
+2025-02-09 10:32:16.688688,Phoenix Open - 2/3 Balls - Final Round 3 Balls - K. Yu / S. Straka / N. Hojgaard - Final Round 3 Balls,Nicolai Hojgaard,-0.010699999999999987,0.3226,0.3333
 2025-02-09 01:58:46.384512,League Two - England League Two 2024/25 - Winner,Port Vale,-0.010700000000000001,0.0278,0.0385
+2025-02-09 10:32:13.710967,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.010899999999999993,0.1429,0.1538
+2025-02-09 10:32:16.718237,Phoenix Open - 2/3 Balls - Final Round 3 Balls - W. Chandler / S. Scheffler / C. Young - Final Round 3 Balls,Will Chandler,-0.010899999999999993,0.1429,0.1538
+2025-02-09 10:32:16.762748,Round Match-Ups - Final Round Match-Up - G. Woodland vs B. Hossler - Final Round Match-Up,Beau Hossler,-0.01100000000000001,0.5238,0.5348
+2025-02-09 10:32:13.604435,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,-0.011099999999999999,0.1,0.1111
 2025-02-09 07:27:50.505065,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.011099999999999999,0.7222,0.7333
 2025-02-09 01:58:48.930213,Boxing Lines - Pat McCormack vs Robbie Davies Jr - To Win the Bout,Robbie Davies Jr,-0.011099999999999999,0.1,0.1111
+2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Tottenham Hotspur,-0.011199999999999995,0.0476,0.0588
 2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,-0.011199999999999995,0.0323,0.0435
 2025-02-09 09:27:22.380435,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,-0.011199999999999995,0.0476,0.0588
-2025-02-09 01:58:46.252437,FA Cup - England FA Cup 2024/25 - Winner,Tottenham Hotspur,-0.011199999999999995,0.0476,0.0588
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.011499999999999955,0.6552,0.6667
 2025-02-09 01:58:48.942261,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-02-09 01:58:46.279508,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.0116,0.4762,0.4878
+2025-02-09 10:32:16.788433,Round Match-Ups - Final Round Match-Up - J. Spieth vs T. Detry - Final Round Match-Up,Thomas Detry,-0.0116,0.4762,0.4878
+2025-02-09 10:32:16.758495,Round Match-Ups - Final Round Match-Up - A. Hadwin vs B. Cauley - Final Round Match-Up,Bud Cauley,-0.011600000000000055,0.5122,0.5238
+2025-02-09 10:32:16.741255,Round Match-Ups - Final Round Match-Up - A. Bhatia vs D. Thompson - Final Round Match-Up,Akshay Bhatia,-0.011600000000000055,0.5122,0.5238
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.011600000000000055,0.5122,0.5238
+2025-02-09 10:32:16.701299,Phoenix Open - 2/3 Balls - Final Round 3 Balls - S. Im / P. Malanati / A. Bhatia - Final Round 3 Balls,Sungjae Im,-0.011600000000000055,0.5122,0.5238
 2025-02-09 02:58:35.320275,Super Bowl 59 Specials - Super Bowl LIX Specials - Will there be a flea flicker attempt in the game? ,Yes,-0.011699999999999988,0.274,0.2857
+2025-02-09 10:32:16.697084,Phoenix Open - 2/3 Balls - Final Round 3 Balls - B. Harman / T. Kim / H. Matsuyama - Final Round 3 Balls,Brian Harman,-0.011699999999999988,0.274,0.2857
 2025-02-09 07:27:48.210843,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.011900000000000008,0.0833,0.0952
+2025-02-09 10:32:16.745659,Round Match-Ups - Final Round Match-Up - S.W. Kim vs N. Taylor - Final Round Match-Up,Nick Taylor,-0.012199999999999989,0.5,0.5122
 2025-02-09 02:58:36.922644,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.5,0.5122
 2025-02-09 01:58:47.140990,Super Bowl 59 Specials - Super Bowl LIX Specials - -National Anthem - How Long Will It Take Jon Batiste To Sing The US National Anthem?,Under 120.5 seconds,-0.012199999999999989,0.5,0.5122
 2025-02-09 07:27:48.210843,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,-0.012300000000000002,0.0294,0.0417
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Hannah Green,-0.012700000000000003,0.0196,0.0323
-2025-02-08 22:30:05.152110,Boxing Lines - Shavkatdzhon Rakhimov vs Justin Pauldo - To Win the Bout,Shavkatdzhon Rakhimov,-0.012700000000000045,0.6364,0.6491
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Ayaka Furue,-0.012799999999999999,0.0013,0.0141
 2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),-0.012899999999999995,0.1538,0.1667
-2025-02-09 09:27:22.360359,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Jonathon Burkardt (Mainz),-0.0131,0.0345,0.0476
 2025-02-09 01:58:46.303075,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.0131,0.2222,0.2353
+2025-02-09 09:27:22.360359,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Jonathon Burkardt (Mainz),-0.0131,0.0345,0.0476
 2025-02-09 06:35:14.753118,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Callum Smith,-0.013800000000000034,0.3636,0.3774
 2025-02-09 09:27:22.394038,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.013899999999999996,0.1111,0.125
+2025-02-09 10:32:13.806866,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Independiente,-0.013999999999999999,0.0769,0.0909
 2025-02-09 08:31:36.715372,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.013999999999999999,0.0769,0.0909
+2025-02-09 10:32:13.686849,League One - England League One 2024/25 - Top Goalscorer,Sam Smith,-0.013999999999999999,0.0769,0.0909
 2025-02-09 09:27:22.363633,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,-0.014000000000000012,0.9091,0.9231
 2025-02-09 09:27:22.394038,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,-0.014099999999999994,0.0526,0.0667
-2025-02-09 07:27:48.158929,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.014099999999999998,0.0244,0.0385
 2025-02-09 01:58:46.373722,League One - England League One 2024/25 - To Finish Bottom,Northampton Town,-0.014099999999999998,0.0244,0.0385
+2025-02-09 07:27:48.158929,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Phoenix Suns,-0.014099999999999998,0.0244,0.0385
 2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.014100000000000001,0.0385,0.0526
+2025-02-09 10:32:16.692885,Phoenix Open - 2/3 Balls - Final Round 3 Balls - A. Smalley / G. Sigg / A. Putnam - Final Round 3 Balls,Andrew Putnam,-0.01419999999999999,0.3704,0.3846
 2025-02-09 01:58:46.300219,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,-0.014499999999999999,0.0149,0.0294
 2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.0145,0.0099,0.0244
-2025-02-08 22:30:05.192384,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.014700000000000046,0.75,0.7647
 2025-02-09 07:27:48.252144,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),North Texas,-0.014899999999999997,0.0476,0.0625
 2025-02-09 09:27:22.386345,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.014900000000000024,0.3077,0.3226
-2025-02-09 01:58:46.308676,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.015100000000000002,0.1667,0.1818
+2025-02-09 10:32:13.710967,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.015100000000000002,0.1667,0.1818
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,-0.015100000000000002,0.1667,0.1818
+2025-02-09 01:58:46.308676,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.015100000000000002,0.1667,0.1818
 2025-02-09 09:27:22.556850,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.015400000000000025,0.3846,0.4
 2025-02-09 07:27:48.219716,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,-0.015599999999999947,0.7143,0.7299
 2025-02-09 09:27:22.383417,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,-0.016100000000000003,0.5917,0.6078
 2025-02-09 03:33:29.376106,Super Bowl 59 Specials - Super Bowl LIX Specials - Next Gen Stats - Fastest Offensive Ball Carrier Recorded,Marquise Brown (KC),-0.016600000000000004,0.0667,0.0833
 2025-02-09 01:58:46.311467,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.016699999999999993,0.25,0.2667
-2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.016700000000000007,0.0833,0.1
 2025-02-09 01:58:46.384512,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.016700000000000007,0.0833,0.1
+2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.016700000000000007,0.0833,0.1
 2025-02-09 07:27:48.286028,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),-0.01759999999999999,0.1,0.1176
-2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,-0.01759999999999999,0.1,0.1176
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kentucky,-0.01759999999999999,0.1,0.1176
+2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,-0.01759999999999999,0.1,0.1176
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Lincoln City,-0.018099999999999998,0.0588,0.0769
 2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.018100000000000005,0.9231,0.9412
+2025-02-09 10:32:13.803059,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,-0.01820000000000002,0.1818,0.2
 2025-02-09 04:31:54.018411,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,-0.01820000000000002,0.1818,0.2
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Nanna Koertz Madsen,-0.0183,0.0013,0.0196
+2025-02-09 10:32:13.686849,League One - England League One 2024/25 - Top Goalscorer,Jay Stansfield,-0.018900000000000028,0.4255,0.4444
 2025-02-09 07:27:48.144339,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.019000000000000017,0.2667,0.2857
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,-0.019099999999999992,0.0476,0.0667
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Atlas FC,-0.019099999999999992,0.0476,0.0667
 2025-02-09 07:27:48.299849,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),-0.01949999999999999,0.0714,0.0909
 2025-02-09 09:27:22.335237,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.019499999999999997,0.0099,0.0294
 2025-02-09 07:27:50.513538,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,-0.01959999999999995,0.6774,0.697
 2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Liberty,-0.019600000000000006,0.303,0.3226
-2025-02-08 22:30:05.212470,Boxing Lines - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.01970000000000005,0.5455,0.5652
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.01970000000000005,0.5455,0.5652
 2025-02-09 09:27:22.552122,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,-0.020100000000000007,0.2299,0.25
-2025-02-09 01:58:46.297357,Championship - England Championship 2024/25 - Winner,Sunderland,-0.0203,0.0385,0.0588
+2025-02-09 10:32:13.604435,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,-0.02020000000000001,0.0909,0.1111
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.0203,0.0385,0.0588
-2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Romelu Lukaku (Napoli),-0.0203,0.0385,0.0588
+2025-02-09 01:58:46.297357,Championship - England Championship 2024/25 - Winner,Sunderland,-0.0203,0.0385,0.0588
 2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Ademola Lookman (Atalanta),-0.0203,0.0385,0.0588
+2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Romelu Lukaku (Napoli),-0.0203,0.0385,0.0588
 2025-02-09 07:27:48.586596,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Mikhail Sergachev Time On Ice In Game,-0.02079999999999993,0.5348,0.5556
 2025-02-09 07:27:50.460651,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Shohei Ohtani (LAD),-0.0213,0.0556,0.0769
 2025-02-09 09:27:22.332378,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.021999999999999964,0.2857,0.3077
@@ -245,22 +289,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 01:58:48.918102,Boxing Lines - Vito Mielnicki Jr vs Connor Coyle - To Win the Bout,Connor Coyle,-0.022699999999999998,0.2273,0.25
 2025-02-09 09:27:22.556850,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.02310000000000001,0.0769,0.1
 2025-02-09 07:27:48.240016,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),UTEP,-0.02310000000000001,0.0769,0.1
-2025-02-08 22:30:05.148076,Boxing Lines - Michael Angeletti vs Judy Flores - To Win the Bout,Judy Flores,-0.02310000000000001,0.0769,0.1
-2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.023200000000000002,0.0294,0.0526
 2025-02-09 09:27:22.335237,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.023200000000000002,0.0244,0.0476
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,-0.023200000000000002,0.0244,0.0476
-2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,-0.0238,0.0714,0.0952
+2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.023200000000000002,0.0294,0.0526
 2025-02-09 07:27:48.235964,Men's Basketball Conferences - Big East Conference Winner - Big East (Regular Season),Marquette,-0.0238,0.0714,0.0952
+2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,-0.0238,0.0714,0.0952
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.023800000000000043,0.5,0.5238
+2025-02-09 10:32:16.735969,Round Match-Ups - Final Round Match-Up - K. Mitchell vs N. Hojgaard - Final Round Match-Up,Nicolai Hojgaard,-0.024399999999999977,0.4878,0.5122
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.024999999999999994,0.1,0.125
+2025-02-09 10:32:13.736772,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,-0.024999999999999994,0.1,0.125
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.025499999999999967,0.4,0.4255
 2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.025499999999999967,0.4,0.4255
 2025-02-09 07:27:50.517665,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.025599999999999956,0.6296,0.6552
 2025-02-09 01:58:46.367644,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.02560000000000001,0.3077,0.3333
 2025-02-09 06:35:14.757225,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.026600000000000013,0.4082,0.4348
 2025-02-09 01:58:46.311467,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.027800000000000005,0.0833,0.1111
 2025-02-08 23:29:04.288051,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.027800000000000047,0.7222,0.75
-2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.027999999999999997,0.1538,0.1818
 2025-02-09 09:27:22.400473,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,-0.027999999999999997,0.1538,0.1818
+2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.027999999999999997,0.1538,0.1818
 2025-02-09 09:27:22.363633,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,-0.028100000000000014,0.8667,0.8948
 2025-02-09 09:27:22.363633,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,-0.0282,0.0244,0.0526
 2025-02-09 07:27:48.252144,Men's Basketball Conferences - The American Athletic Conference Winner - AAC Winner (Regular Season),Memphis,-0.02839999999999998,0.9091,0.9375
@@ -271,22 +317,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 01:58:46.256856,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.032099999999999906,0.5833,0.6154
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Nelly Korda,-0.0321,0.0588,0.0909
 2025-02-09 01:58:46.274989,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.03330000000000001,0.0667,0.1
+2025-02-09 10:32:13.806866,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,-0.033300000000000024,0.1667,0.2
+2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),-0.033399999999999985,0.1333,0.1667
 2025-02-09 07:27:48.149271,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.033399999999999985,0.1333,0.1667
 2025-02-09 09:27:22.374198,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,-0.033399999999999985,0.8333,0.8667
-2025-02-09 07:27:48.266432,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),-0.033399999999999985,0.1333,0.1667
 2025-02-09 01:58:46.297357,Championship - England Championship 2024/25 - Winner,Burnley,-0.034100000000000005,0.0909,0.125
 2025-02-09 02:58:34.208361,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.03420000000000001,0.0769,0.1111
 2025-02-09 01:58:46.279508,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.03480000000000005,0.5,0.5348
+2025-02-09 10:32:16.779795,Round Match-Ups - Final Round Match-Up - C. Young vs R. MacIntyre - Final Round Match-Up,Cameron Young,-0.03489999999999999,0.4651,0.5
+2025-02-09 10:32:15.017378,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.03489999999999999,0.4651,0.5
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Miyuu Yamashita,-0.035300000000000005,0.0123,0.0476
+2025-02-09 10:32:13.799903,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Boca Juniors,-0.03570000000000001,0.25,0.2857
 2025-02-09 01:58:46.303075,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.03640000000000004,0.3636,0.4
 2025-02-09 07:27:48.214823,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.03710000000000002,0.3077,0.3448
 2025-02-09 07:27:48.270497,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.03920000000000001,0.2941,0.3333
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,-0.04089999999999999,0.3846,0.4255
 2025-02-09 01:58:46.376744,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.042899999999999994,0.1,0.1429
 2025-02-09 02:58:34.205238,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.043899999999999995,0.0149,0.0588
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,-0.048100000000000004,0.0769,0.125
 2025-02-09 07:27:48.223765,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Duke,-0.0484,0.9375,0.9859
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Minami Katsu,-0.048600000000000004,0.004,0.0526
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.04909999999999992,0.8333,0.8824
+2025-02-09 10:32:15.007625,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.04930000000000001,0.2632,0.3125
 2025-02-09 07:27:48.286028,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (ATL),-0.04930000000000001,0.2632,0.3125
 2025-02-09 09:27:22.569584,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,-0.050000000000000044,0.75,0.8
 2025-02-09 01:58:46.311467,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.0504,0.2353,0.2857
@@ -294,6 +346,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.055900000000000005,0.3077,0.3636
 2025-02-09 02:58:34.199120,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.05650000000000001,0.0435,0.1
 2025-02-09 07:27:48.299849,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Dalton Knecht (LAL),-0.0573,0.0196,0.0769
+2025-02-09 10:32:13.826453,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.057699999999999974,0.6923,0.75
 2025-02-09 01:58:46.379784,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.0632,0.1667,0.2299
 2025-02-09 01:58:46.311467,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.06659999999999999,0.2667,0.3333
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Jin Hee Im,-0.06770000000000001,0.0323,0.1
@@ -311,21 +364,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-09 09:27:22.564881,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.0857,0.7143,0.8
 2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Moises Kean (Fiorentina),-0.087,0.1429,0.2299
 2025-02-09 09:27:22.377151,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.09720000000000001,0.125,0.2222
+2025-02-09 10:32:13.600781,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,-0.09999999999999998,0.4,0.5
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,-0.10109999999999997,0.4444,0.5455
 2025-02-09 07:27:48.248105,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.10389999999999999,0.7143,0.8182
 2025-02-09 09:27:22.561750,Serie B - Italy Serie B 2024/25 - Winner,Pisa,-0.1071,0.1429,0.25
 2025-02-08 23:29:04.418574,Cognizant Founders Cup - Cognizant Founders Cup - Winner,Angel Yin,-0.1078,0.0033,0.1111
 2025-02-09 09:27:22.366566,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.11249999999999999,0.2,0.3125
 2025-02-09 02:58:34.211522,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,-0.1129,0.1538,0.2667
-2025-02-09 03:33:29.150649,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 08:31:37.606007,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 07:27:48.535221,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 06:35:12.836625,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 05:31:07.683484,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 04:31:54.763536,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-09 02:58:34.895133,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
 2025-02-09 01:58:47.043353,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
 2025-02-08 23:29:02.339201,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
-2025-02-08 22:30:03.239515,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 07:27:48.535221,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 08:31:37.606007,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 03:33:29.150649,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 04:31:54.763536,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 05:31:07.683484,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 06:35:12.836625,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
+2025-02-09 02:58:34.895133,Super Bowl 59 Specials - Super Bowl LIX Cross Sport Specials - What Will be Greater,Jalen Hurts Pass Completions,-0.1372,0.4545,0.5917
 2025-02-09 01:58:46.370724,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.1477,0.2778,0.4255
 2025-02-09 07:27:48.260971,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.20950000000000002,0.2667,0.4762

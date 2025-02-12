@@ -1,148 +1,87 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-02-12 10:34:34.542657,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 71.5,0.16810000000000003,0.6226,0.4545
-2025-02-12 10:34:32.905997,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #1 Seed,Los Angeles Dodgers,0.09740000000000004,0.6429,0.5455
 2025-02-12 20:30:54.847517,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.067,0.4444,0.3774
-2025-02-12 10:34:32.849100,MLB Futures Specials - MLB 2025 Division Finishing Position - San Diego Padres NL West Finishing Position,3rd,0.062,0.3846,0.3226
-2025-02-12 10:34:32.849100,MLB Futures Specials - MLB 2025 Division Finishing Position - San Diego Padres NL West Finishing Position,2nd,0.05960000000000004,0.4167,0.3571
-2025-02-12 10:34:34.565220,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,0.05870000000000003,0.5238,0.4651
-2025-02-12 10:34:32.821822,MLB Futures Specials - MLB 2025 Division Finishing Position - Los Angeles Dodgers NL West Finishing Position,1st,0.04849999999999999,0.8667,0.8182
 2025-02-12 12:52:18.095691,Round Match-Ups - 1st Round Match-Ups - C. Young vs V. Hovland - 1st Round Match-Ups,Viktor Hovland,0.045499999999999985,0.5455,0.5
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.045499999999999985,0.5,0.4545
-2025-02-12 10:34:32.838846,MLB Futures Specials - MLB 2025 Division Finishing Position - New York Yankees AL East Finishing Position,1st,0.043399999999999994,0.4878,0.4444
 2025-02-12 12:52:18.763895,Tournament Match-Ups - Tournament Match-Ups - A. Meronk vs C. Tringale - Tournament Match-Ups,Cameron Tringale,0.03959999999999997,0.5744,0.5348
 2025-02-12 12:52:18.790216,Tournament Match-Ups - Tournament Match-Ups - P. Uihlein vs C. Surratt - Tournament Match-Ups,Peter Uihlein,0.03479999999999994,0.6,0.5652
-2025-02-12 10:34:32.811555,MLB Futures Specials - MLB 2025 Division Finishing Position - Houston Astros AL West Finishing Position,2nd,0.034499999999999975,0.3571,0.3226
 2025-02-12 22:31:56.082188,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Keyshawn Davis,0.03420000000000001,0.9231,0.8889
 2025-02-12 15:31:57.033236,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.03390000000000004,0.7561,0.7222
 2025-02-12 16:37:01.082685,Tournament Match-Ups - Tournament Match-Ups - A. Ancer vs T. McKibbin - Tournament Match-Ups,Abraham Ancer,0.03179999999999994,0.5556,0.5238
-2025-02-12 10:34:32.777134,MLB Futures Specials - MLB 2025 Division Finishing Position - Athletics AL West Finishing Position,4th,0.030299999999999994,0.4651,0.4348
-2025-02-12 10:34:32.818399,MLB Futures Specials - MLB 2025 Division Finishing Position - Los Angeles Angels AL West Finishing Position,4th,0.027500000000000024,0.3846,0.3571
 2025-02-12 14:32:40.973336,Tournament Match-Ups - Tournament Match-Up - T. Hoge v M. Hughes - Tournament Match-Up,Mackenzie Hughes,0.026499999999999968,0.5917,0.5652
 2025-02-12 21:28:06.709232,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.02560000000000001,0.3333,0.3077
-2025-02-12 10:34:32.777134,MLB Futures Specials - MLB 2025 Division Finishing Position - Athletics AL West Finishing Position,5th,0.025499999999999967,0.4255,0.4
 2025-02-12 14:32:40.513423,Potential Fights - Conor McGregor vs Jeremy Stephens - To Win the Bout,Jeremy Stephens,0.025499999999999967,0.4255,0.4
-2025-02-12 11:26:03.690080,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Freddie Freeman (LAD),0.024,0.0625,0.0385
-2025-02-12 12:52:18.157754,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 72.5,0.023800000000000043,0.5238,0.5
-2025-02-12 12:52:18.153331,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 72.5,0.023800000000000043,0.5238,0.5
-2025-02-12 12:52:18.451244,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,0.023800000000000043,0.5238,0.5
 2025-02-12 12:52:18.179571,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Over 72.5,0.023800000000000043,0.5238,0.5
-2025-02-12 10:34:32.790864,MLB Futures Specials - MLB 2025 Division Finishing Position - Chicago Cubs NL Central Finishing Position,1st,0.023799999999999988,0.5,0.4762
+2025-02-12 12:52:18.153331,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 72.5,0.023800000000000043,0.5238,0.5
+2025-02-12 12:52:18.157754,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 72.5,0.023800000000000043,0.5238,0.5
+2025-02-12 12:52:18.451244,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,0.023800000000000043,0.5238,0.5
 2025-02-12 12:52:18.105268,Round Match-Ups - 1st Round Match-Ups - D. Berger vs M.W. Lee - 1st Round Match-Ups,Min Woo Lee,0.022600000000000064,0.5348,0.5122
 2025-02-12 16:36:58.220707,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Stephon Castle (SAS),0.022199999999999998,0.2222,0.2
-2025-02-12 12:52:18.166492,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,0.02169999999999994,0.5455,0.5238
-2025-02-12 11:26:02.440816,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - Regular Season Wins,Under 85.5,0.02169999999999994,0.5455,0.5238
-2025-02-12 12:52:18.110226,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Cam Davis,0.02169999999999994,0.5455,0.5238
+2025-02-12 23:26:51.332748,Main Markets - 1st Round 3 Balls - B. DeChambeau / J. Rahm / A. Kim - 1st Round 3 Balls,Bryson DeChambeau,0.021699999999999997,0.4762,0.4545
 2025-02-12 12:52:18.183895,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Over 72.5,0.02169999999999994,0.5455,0.5238
 2025-02-12 12:52:18.188278,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 72.5,0.02169999999999994,0.5455,0.5238
+2025-02-12 12:52:18.166492,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 71.5,0.02169999999999994,0.5455,0.5238
+2025-02-12 12:52:18.110226,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Cam Davis,0.02169999999999994,0.5455,0.5238
 2025-02-12 13:32:42.961825,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Davis / K. Bradley / S. Im - 1st Round 3 Balls,Cam Davis,0.020799999999999985,0.3333,0.3125
 2025-02-12 12:52:18.434557,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Stevens - Tournament Match-Up,Sam Stevens,0.02079999999999993,0.5556,0.5348
 2025-02-12 12:52:18.170848,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 71.5,0.020699999999999996,0.4651,0.4444
 2025-02-12 12:52:18.144227,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
-2025-02-12 11:26:04.275842,Tournament Match-Ups - Tournament Match-Up - T. Hoge v M. Hughes - Tournament Match-Up,Mackenzie Hughes,0.01970000000000005,0.5652,0.5455
-2025-02-12 13:32:42.724859,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Cam Davis,0.01970000000000005,0.5652,0.5455
 2025-02-12 13:32:43.112551,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs W. Zalatoris - Tournament Match-Up,Shane Lowry,0.01970000000000005,0.5652,0.5455
+2025-02-12 13:32:42.724859,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Cam Davis,0.01970000000000005,0.5652,0.5455
 2025-02-12 20:30:54.852236,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.018799999999999983,0.3636,0.3448
 2025-02-12 22:31:56.103685,Boxing Lines - Pat McCormack vs Robbie Davies Jr - To Win the Bout,Pat McCormack,0.01849999999999996,0.9709,0.9524
 2025-02-12 13:32:42.984169,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - H. English / N. Taylor / M. McNealy - 1st Round 3 Balls,Maverick McNealy,0.018100000000000005,0.4348,0.4167
-2025-02-12 10:34:34.722924,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - E. Cole / M. Hughes / M.W. Lee - 1st Round 3 Balls,Min Woo Lee,0.018100000000000005,0.4348,0.4167
-2025-02-12 11:26:03.734082,Boxing Lines - Rohan Polanco vs Jean Carlos Torres - To Win the Bout,Rohan Polanco,0.01660000000000006,0.9333,0.9167
-2025-02-12 10:34:32.811555,MLB Futures Specials - MLB 2025 Division Finishing Position - Houston Astros AL West Finishing Position,3rd,0.016600000000000004,0.2439,0.2273
-2025-02-12 10:34:34.683887,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Bezuidenhout / N. Dunlap / T. Hoge - 1st Round 3 Balls,Christiaan Bezuidenhout,0.015400000000000025,0.4,0.3846
-2025-02-12 10:34:34.740620,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J. Day / S. Lowry / S. Jaeger - 1st Round 3 Balls,Jason Day,0.015400000000000025,0.4,0.3846
-2025-02-12 10:34:34.692393,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - R. MacIntyre / S. Theegala / S. Straka - 1st Round 3 Balls,Robert MacIntyre,0.015400000000000025,0.4,0.3846
-2025-02-12 10:34:34.771536,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - L. Glover / R. Fowler / M. Greyserman - 1st Round 3 Balls,Max Greyserman,0.015400000000000025,0.4,0.3846
-2025-02-12 11:26:03.673301,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Corbin Burnes (ARI),0.014899999999999997,0.0625,0.0476
-2025-02-12 10:34:32.784016,MLB Futures Specials - MLB 2025 Division Finishing Position - Baltimore Orioles AL East Finishing Position,3rd,0.014600000000000002,0.2778,0.2632
+2025-02-12 23:26:50.723752,Boxing Lines - Zelfa Barrett vs James Dickens - To Win the Bout,Zelfa Barrett,0.016699999999999937,0.9167,0.9
 2025-02-12 19:24:48.820468,"Daily Soccer Specials - European Soccer Specials - Wednesday, 12th February - M.Salah, H.Kane and C.Pulisic Combined Specials","M.Salah, H.Kane and C.Pulisic to combine for 3+ assists",0.014399999999999996,0.0769,0.0625
-2025-02-12 11:26:03.690080,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Trea Turner (PHI),0.014099999999999994,0.0667,0.0526
-2025-02-12 12:52:18.139551,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 71.5,0.013799999999999923,0.6364,0.6226
 2025-02-12 12:52:18.148787,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 71.5,0.013799999999999923,0.6364,0.6226
-2025-02-12 10:34:32.784016,MLB Futures Specials - MLB 2025 Division Finishing Position - Baltimore Orioles AL East Finishing Position,2nd,0.013300000000000034,0.3704,0.3571
-2025-02-12 10:34:34.736303,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Davis / K. Bradley / S. Im - 1st Round 3 Balls,Keegan Bradley,0.012699999999999989,0.3636,0.3509
-2025-02-12 10:34:34.731925,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / B. Harman / C. Young - 1st Round 3 Balls,Austin Eckroat,0.012299999999999978,0.3571,0.3448
-2025-02-12 10:34:34.599265,Position - Finishing Position - Jordan Spieth - Finishing Position,28th or worse,0.011600000000000055,0.5238,0.5122
-2025-02-12 10:34:34.675511,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - K. Yu / M. Hubbard / R. Hojgaard - 1st Round 3 Balls,Rasmus Hojgaard,0.0116,0.4878,0.4762
-2025-02-12 10:34:34.767266,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / M. Kim / D. List - 1st Round 3 Balls,J J Spaun,0.0116,0.4878,0.4762
+2025-02-12 12:52:18.139551,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 71.5,0.013799999999999923,0.6364,0.6226
 2025-02-12 22:31:56.108246,Boxing Lines - Zelfa Barrett vs James Dickens - To Win the Bout,Zelfa Barrett,0.011099999999999999,0.9,0.8889
 2025-02-12 16:36:58.220707,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Matas Buzelis (CHI),0.010899999999999993,0.1538,0.1429
-2025-02-12 10:34:34.710090,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Scott / R. McIlroy / V. Hovland - 1st Round 3 Balls,Rory McIlroy,0.010699999999999932,0.5455,0.5348
 2025-02-12 12:52:18.759240,Tournament Match-Ups - Tournament Match-Ups - A. Lahiri vs B. Campbell - Tournament Match-Ups,Anirban Lahiri,0.010699999999999932,0.5455,0.5348
 2025-02-12 19:24:48.820468,"Daily Soccer Specials - European Soccer Specials - Wednesday, 12th February - M.Salah, H.Kane and C.Pulisic Combined Specials","M.Salah, H.Kane and C.Pulisic to combine for 2+ assists",0.010499999999999982,0.2105,0.2
 2025-02-12 12:52:18.484462,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Im - Tournament Match-Up,Patrick Cantlay,0.010099999999999998,0.5556,0.5455
-2025-02-12 10:34:34.701305,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J. Thomas / T. Finau / W. Clark - 1st Round 3 Balls,Justin Thomas,0.010099999999999998,0.4545,0.4444
-2025-02-12 10:34:34.692393,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - R. MacIntyre / S. Theegala / S. Straka - 1st Round 3 Balls,Sahith Theegala,-0.010099999999999998,0.3125,0.3226
-2025-02-12 10:34:34.533296,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs T. Detry - 1st Round Match-Ups,Thomas Detry,-0.010099999999999998,0.5455,0.5556
-2025-02-12 10:34:34.758416,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - H. English / N. Taylor / M. McNealy - 1st Round 3 Balls,Nick Taylor,-0.010099999999999998,0.3125,0.3226
-2025-02-12 10:34:34.599265,Position - Finishing Position - Jordan Spieth - Finishing Position,27th or better,-0.010099999999999998,0.5455,0.5556
-2025-02-12 10:34:34.736303,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Davis / K. Bradley / S. Im - 1st Round 3 Balls,Cam Davis,-0.010099999999999998,0.3125,0.3226
 2025-02-12 16:37:00.292807,Boxing Lines - Aqib Fiaz vs Lydon Chircop - To Win the Bout,Lydon Chircop,-0.0102,0.0667,0.0769
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.010699999999999987,0.3226,0.3333
-2025-02-12 10:34:34.731925,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - A. Eckroat / B. Harman / C. Young - 1st Round 3 Balls,Brian Harman,-0.010699999999999987,0.3226,0.3333
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),-0.010699999999999987,0.3226,0.3333
-2025-02-12 11:26:03.690080,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Luis Arraez (SD),-0.010899999999999993,0.1429,0.1538
 2025-02-12 12:52:18.759240,Tournament Match-Ups - Tournament Match-Ups - A. Lahiri vs B. Campbell - Tournament Match-Ups,Ben Campbell,-0.01100000000000001,0.5238,0.5348
 2025-02-12 13:32:40.448717,LKL - Lithuania LKL 2024/25 - Outright,Wolves,-0.011099999999999999,0.1,0.1111
-2025-02-12 10:34:34.683887,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Bezuidenhout / N. Dunlap / T. Hoge - 1st Round 3 Balls,Nick Dunlap,-0.01150000000000001,0.3333,0.3448
-2025-02-12 10:34:34.727312,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - G. Woodland / J. Rose / T. Kim - 1st Round 3 Balls,Justin Rose,-0.01150000000000001,0.3333,0.3448
-2025-02-12 10:34:34.771536,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - L. Glover / R. Fowler / M. Greyserman - 1st Round 3 Balls,Rickie Fowler,-0.01150000000000001,0.3333,0.3448
 2025-02-12 12:52:18.484462,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs S. Im - Tournament Match-Up,Sungjae Im,-0.011600000000000055,0.5122,0.5238
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.011700000000000016,0.2105,0.2222
-2025-02-12 11:26:03.673301,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Paul Skenes (PIT),-0.011900000000000008,0.0833,0.0952
-2025-02-12 22:31:56.137685,Boxing Lines - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.4878,0.5
 2025-02-12 12:52:18.794668,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs P. Reed - Tournament Match-Ups,Patrick Reed,-0.012199999999999989,0.4878,0.5
-2025-02-12 10:34:34.533296,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs T. Detry - 1st Round Match-Ups,Jordan Spieth,-0.012199999999999989,0.5,0.5122
-2025-02-12 13:32:42.984169,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - H. English / N. Taylor / M. McNealy - 1st Round 3 Balls,Harris English,-0.012699999999999989,0.3509,0.3636
+2025-02-12 22:31:56.137685,Boxing Lines - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.4878,0.5
 2025-02-12 13:32:42.961825,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - C. Davis / K. Bradley / S. Im - 1st Round 3 Balls,Keegan Bradley,-0.012699999999999989,0.3509,0.3636
-2025-02-12 10:34:32.849100,MLB Futures Specials - MLB 2025 Division Finishing Position - San Diego Padres NL West Finishing Position,1st,-0.012899999999999995,0.1538,0.1667
-2025-02-12 10:34:34.767266,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J.J. Spaun / M. Kim / D. List - 1st Round 3 Balls,Danny List,-0.012899999999999995,0.1538,0.1667
-2025-02-12 10:34:32.905997,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #1 Seed,Philadelphia Phillies,-0.013899999999999996,0.1111,0.125
-2025-02-12 11:26:03.673301,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Jacob deGrom (TEX),-0.013999999999999999,0.0769,0.0909
-2025-02-12 10:34:32.784016,MLB Futures Specials - MLB 2025 Division Finishing Position - Baltimore Orioles AL East Finishing Position,4th,-0.014300000000000007,0.1818,0.1961
-2025-02-12 10:34:34.688047,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - M. Pavon / S. Burns / T. Pendrith - 1st Round 3 Balls,Matthieu Pavon,-0.01469999999999999,0.2353,0.25
-2025-02-12 10:34:34.740620,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - J. Day / S. Lowry / S. Jaeger - 1st Round 3 Balls,Stephan Jaeger,-0.017299999999999982,0.2857,0.303
-2025-02-12 11:26:03.734082,Boxing Lines - Rohan Polanco vs Jean Carlos Torres - To Win the Bout,Jean Carlos Torres,-0.0179,0.125,0.1429
-2025-02-12 10:34:34.722924,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - E. Cole / M. Hughes / M.W. Lee - 1st Round 3 Balls,Eric Cole,-0.018400000000000027,0.2941,0.3125
-2025-02-12 12:52:18.148787,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 71.5,-0.018900000000000028,0.4255,0.4444
+2025-02-12 13:32:42.984169,Genesis Invitational - 2/3 Balls - 1st Round 3 Balls - H. English / N. Taylor / M. McNealy - 1st Round 3 Balls,Harris English,-0.012699999999999989,0.3509,0.3636
 2025-02-12 12:52:18.139551,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 71.5,-0.018900000000000028,0.4255,0.4444
-2025-02-12 12:52:18.179571,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Under 72.5,-0.01970000000000005,0.5455,0.5652
+2025-02-12 12:52:18.148787,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 71.5,-0.018900000000000028,0.4255,0.4444
 2025-02-12 12:52:18.451244,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs H. Matsuyama - Tournament Match-Up,Justin Thomas,-0.01970000000000005,0.5455,0.5652
-2025-02-12 12:52:18.153331,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 72.5,-0.01970000000000005,0.5455,0.5652
 2025-02-12 12:52:18.157754,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 72.5,-0.01970000000000005,0.5455,0.5652
+2025-02-12 12:52:18.153331,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 72.5,-0.01970000000000005,0.5455,0.5652
+2025-02-12 12:52:18.179571,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Under 72.5,-0.01970000000000005,0.5455,0.5652
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Washington Wizards,-0.0208,0.0625,0.0833
+2025-02-12 12:52:18.183895,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 72.5,-0.02169999999999994,0.5238,0.5455
+2025-02-12 23:26:51.332748,Main Markets - 1st Round 3 Balls - B. DeChambeau / J. Rahm / A. Kim - 1st Round 3 Balls,Jon Rahm,-0.02169999999999994,0.5238,0.5455
 2025-02-12 12:52:18.188278,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 72.5,-0.02169999999999994,0.5238,0.5455
 2025-02-12 12:52:18.166492,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 71.5,-0.02169999999999994,0.5238,0.5455
-2025-02-12 12:52:18.183895,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 72.5,-0.02169999999999994,0.5238,0.5455
-2025-02-12 11:26:02.440816,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - Regular Season Wins,Over 85.5,-0.02169999999999994,0.5238,0.5455
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Miami Heat,-0.02239999999999999,0.0952,0.1176
-2025-02-12 12:52:18.434557,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Stevens - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
-2025-02-12 12:52:18.170848,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
-2025-02-12 12:52:18.144227,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
 2025-02-12 12:52:18.105268,Round Match-Ups - 1st Round Match-Ups - D. Berger vs M.W. Lee - 1st Round Match-Ups,Daniel Berger,-0.022600000000000064,0.5122,0.5348
+2025-02-12 12:52:18.170848,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
+2025-02-12 12:52:18.434557,Tournament Match-Ups - Tournament Match-Up - C. Young v S. Stevens - Tournament Match-Up,Cameron Young,-0.022600000000000064,0.5122,0.5348
+2025-02-12 12:52:18.144227,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
 2025-02-12 21:28:06.709232,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.022800000000000042,0.7333,0.7561
 2025-02-12 22:31:56.103685,Boxing Lines - Pat McCormack vs Robbie Davies Jr - To Win the Bout,Robbie Davies Jr,-0.02310000000000001,0.0769,0.1
-2025-02-12 14:32:40.973336,Tournament Match-Ups - Tournament Match-Up - T. Hoge v M. Hughes - Tournament Match-Up,Tom Hoge,-0.023799999999999988,0.4762,0.5
+2025-02-12 23:26:50.723752,Boxing Lines - Zelfa Barrett vs James Dickens - To Win the Bout,James Dickens,-0.023799999999999988,0.1429,0.1667
 2025-02-12 13:32:42.724859,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.023799999999999988,0.4762,0.5
-2025-02-12 13:32:43.112551,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.023800000000000043,0.5,0.5238
-2025-02-12 11:26:04.275842,Tournament Match-Ups - Tournament Match-Up - T. Hoge v M. Hughes - Tournament Match-Up,Tom Hoge,-0.023800000000000043,0.5,0.5238
+2025-02-12 14:32:40.973336,Tournament Match-Ups - Tournament Match-Up - T. Hoge v M. Hughes - Tournament Match-Up,Tom Hoge,-0.023799999999999988,0.4762,0.5
 2025-02-12 12:52:18.110226,Round Match-Ups - 1st Round Match-Ups - C. Davis vs J. Rose - 1st Round Match-Ups,Justin Rose,-0.023800000000000043,0.5,0.5238
-2025-02-12 11:26:03.673301,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Cole Ragans (KC),-0.024,0.0385,0.0625
-2025-02-12 11:26:03.673301,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Chris Sale (ATL),-0.0267,0.0909,0.1176
-2025-02-12 10:34:32.784016,MLB Futures Specials - MLB 2025 Division Finishing Position - Baltimore Orioles AL East Finishing Position,5th,-0.02679999999999999,0.1111,0.1379
+2025-02-12 13:32:43.112551,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.023800000000000043,0.5,0.5238
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Houston Rockets,-0.02779999999999999,0.2222,0.25
-2025-02-12 11:26:03.690080,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Michael Harris II (ATL),-0.028199999999999996,0.0385,0.0667
 2025-02-12 14:32:40.513423,Potential Fights - Conor McGregor vs Jeremy Stephens - To Win the Bout,Conor McGregor,-0.030299999999999994,0.6364,0.6667
 2025-02-12 16:37:01.082685,Tournament Match-Ups - Tournament Match-Ups - A. Ancer vs T. McKibbin - Tournament Match-Ups,Tom McKibbin,-0.033299999999999996,0.5122,0.5455
 2025-02-12 16:36:58.220707,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Andre Jackson Jr. (MIL),-0.033300000000000024,0.1667,0.2
 2025-02-12 12:52:18.790216,Tournament Match-Ups - Tournament Match-Ups - P. Uihlein vs C. Surratt - Tournament Match-Ups,Caleb Surratt,-0.03489999999999999,0.4651,0.5
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Phoenix Suns,-0.03600000000000003,0.4878,0.5238
 2025-02-12 15:31:57.033236,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.03710000000000002,0.3077,0.3448
-2025-02-12 10:34:32.784016,MLB Futures Specials - MLB 2025 Division Finishing Position - Baltimore Orioles AL East Finishing Position,1st,-0.03920000000000001,0.2941,0.3333
 2025-02-12 22:31:56.082188,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Denys Berinchyk,-0.0406,0.1333,0.1739
-2025-02-12 10:34:32.849100,MLB Futures Specials - MLB 2025 Division Finishing Position - San Diego Padres NL West Finishing Position,4th,-0.04409999999999997,0.25,0.2941
 2025-02-12 12:52:18.095691,Round Match-Ups - 1st Round Match-Ups - C. Young vs V. Hovland - 1st Round Match-Ups,Cameron Young,-0.045499999999999985,0.5,0.5455
 2025-02-12 12:52:18.763895,Tournament Match-Ups - Tournament Match-Ups - A. Meronk vs C. Tringale - Tournament Match-Ups,Adrian Meronk,-0.04700000000000004,0.4878,0.5348
-2025-02-12 10:34:34.565220,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 71.5,-0.05449999999999999,0.5455,0.6
-2025-02-12 10:34:32.811555,MLB Futures Specials - MLB 2025 Division Finishing Position - Houston Astros AL West Finishing Position,1st,-0.056900000000000006,0.4082,0.4651
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Golden State Warriors,-0.06139999999999998,0.1053,0.1667
 2025-02-12 20:30:54.847517,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.06779999999999997,0.4878,0.5556
-2025-02-12 10:34:34.542657,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 71.5,-0.1634,0.4444,0.6078

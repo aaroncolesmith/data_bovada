@@ -12,9 +12,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-12 21:28:06.709232,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.02560000000000001,0.3333,0.3077
 2025-02-12 16:36:58.220707,NBA Specials - Who will win the 2025 NBA Dunk Contest - Proposition,Stephon Castle (SAS),0.022199999999999998,0.2222,0.2
 2025-02-12 23:26:51.332748,Main Markets - 1st Round 3 Balls - B. DeChambeau / J. Rahm / A. Kim - 1st Round 3 Balls,Bryson DeChambeau,0.021699999999999997,0.4762,0.4545
-2025-02-13 01:55:30.028458,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Freddie Freeman Total Home Runs,Under 23.5,0.02169999999999994,0.5455,0.5238
 2025-02-13 01:55:29.645348,Player Props - Athletics - 2025 Regular Season Player Props - JP Sears ERA,Over 4.35,0.02169999999999994,0.5455,0.5238
+2025-02-13 01:55:30.028458,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Freddie Freeman Total Home Runs,Under 23.5,0.02169999999999994,0.5455,0.5238
 2025-02-13 01:55:31.254091,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Straka - Tournament Match-Up,Sepp Straka,0.02079999999999993,0.5556,0.5348
+2025-02-13 04:33:43.557172,Round Match-Ups - 1st Round Match-Ups - D. Berger vs M.W. Lee - 1st Round Match-Ups,Min Woo Lee,0.02079999999999993,0.5556,0.5348
 2025-02-13 02:57:01.141878,Match-Ups - Tournament Match-Up - A. Bhatia v C. Young - Requests,Akshay Bhatia,0.01970000000000005,0.5652,0.5455
 2025-02-12 20:30:54.852236,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.018799999999999983,0.3636,0.3448
 2025-02-12 22:31:56.103685,Boxing Lines - Pat McCormack vs Robbie Davies Jr - To Win the Bout,Pat McCormack,0.01849999999999996,0.9709,0.9524
@@ -38,15 +39,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-13 01:55:30.214660,Player Props - New York Yankees - 2025 Regular Season Player Props - Gerrit Cole Total Strikeouts,Over 180.5,-0.010699999999999932,0.5348,0.5455
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),-0.010699999999999987,0.3226,0.3333
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.010699999999999987,0.3226,0.3333
+2025-02-13 04:33:43.442411,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.010699999999999987,0.3226,0.3333
 2025-02-13 01:55:29.638242,Player Props - Athletics - 2025 Regular Season Player Props - Brent Rooker Total Home Runs,Under 32.5,-0.01100000000000001,0.5238,0.5348
 2025-02-12 16:36:57.426027,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.011700000000000016,0.2105,0.2222
 2025-02-12 22:31:56.137685,Boxing Lines - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.4878,0.5
 2025-02-13 01:55:28.750725,WNBL - Australia WNBL 2024/25 - Outright,Sydney Uni Flames (W),-0.014100000000000001,0.0385,0.0526
 2025-02-13 02:57:00.718922,Boxing Lines - Vito Mielnicki Jr vs Connor Coyle - To Win the Bout,Vito Mielnicki Jr,-0.015800000000000036,0.7937,0.8095
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Washington Wizards,-0.0208,0.0625,0.0833
+2025-02-12 23:26:51.332748,Main Markets - 1st Round 3 Balls - B. DeChambeau / J. Rahm / A. Kim - 1st Round 3 Balls,Jon Rahm,-0.02169999999999994,0.5238,0.5455
 2025-02-13 01:55:29.645348,Player Props - Athletics - 2025 Regular Season Player Props - JP Sears ERA,Under 4.35,-0.02169999999999994,0.5238,0.5455
 2025-02-13 01:55:30.028458,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Freddie Freeman Total Home Runs,Over 23.5,-0.02169999999999994,0.5238,0.5455
-2025-02-12 23:26:51.332748,Main Markets - 1st Round 3 Balls - B. DeChambeau / J. Rahm / A. Kim - 1st Round 3 Balls,Jon Rahm,-0.02169999999999994,0.5238,0.5455
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Miami Heat,-0.02239999999999999,0.0952,0.1176
 2025-02-13 01:55:31.254091,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Straka - Tournament Match-Up,Sam Burns,-0.022600000000000064,0.5122,0.5348
 2025-02-12 21:28:06.709232,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.022800000000000042,0.7333,0.7561
@@ -55,6 +57,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-12 23:26:50.723752,Boxing Lines - Zelfa Barrett vs James Dickens - To Win the Bout,James Dickens,-0.023799999999999988,0.1429,0.1667
 2025-02-13 02:57:01.141878,Match-Ups - Tournament Match-Up - A. Bhatia v C. Young - Requests,Cameron Young,-0.023800000000000043,0.5,0.5238
 2025-02-13 01:55:28.702531,Euro Cup - Euro Cup 2024/25 - Outright,U-BT Cluj-Napoca,-0.023899999999999998,0.0196,0.0435
+2025-02-13 04:33:43.557172,Round Match-Ups - 1st Round Match-Ups - D. Berger vs M.W. Lee - 1st Round Match-Ups,Daniel Berger,-0.024399999999999977,0.4878,0.5122
 2025-02-12 20:30:55.003833,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season - Proposition,Houston Rockets,-0.02779999999999999,0.2222,0.25
 2025-02-13 01:55:28.712071,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.027800000000000005,0.0833,0.1111
 2025-02-13 01:55:28.702531,Euro Cup - Euro Cup 2024/25 - Outright,Cedevita Olimpija,-0.0294,0.0294,0.0588

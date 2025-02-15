@@ -26,20 +26,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-14 23:27:34.964457,NBA All-Star - 2025 NBA Celebrity All Star Game - First Basket,Kai Cenat,0.028399999999999995,0.0909,0.0625
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Billy Andrade,0.026600000000000002,0.0345,0.0079
 2025-02-15 01:53:51.426566,NBA All-Star - 2025 NBA 3-Point Contest - Darius Garland Round 1 Score,Under 23.5,0.026499999999999968,0.5917,0.5652
-2025-02-14 18:36:39.247255,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 67.5,0.026499999999999968,0.6491,0.6226
-2025-02-14 18:36:39.256204,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 67.5,0.026499999999999968,0.6491,0.6226
-2025-02-14 18:36:39.260646,Scores - 2nd Round Score - Sergio Garcia - 2nd Round Score,Over 68.5,0.026499999999999968,0.6491,0.6226
 2025-02-14 18:36:39.265102,Scores - 2nd Round Score - Tyrrell Hatton - 2nd Round Score,Over 67.5,0.026499999999999968,0.6491,0.6226
+2025-02-14 18:36:39.260646,Scores - 2nd Round Score - Sergio Garcia - 2nd Round Score,Over 68.5,0.026499999999999968,0.6491,0.6226
+2025-02-14 18:36:39.256204,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 67.5,0.026499999999999968,0.6491,0.6226
+2025-02-14 18:36:39.247255,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 67.5,0.026499999999999968,0.6491,0.6226
 2025-02-15 03:33:52.720503,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.02560000000000001,0.3333,0.3077
 2025-02-14 23:27:34.968252,NBA All-Star - 2025 NBA Celebrity All Star Game - Celebrity Game MVP,Chris Brickley,0.02310000000000001,0.1,0.0769
 2025-02-15 01:53:51.433269,NBA All-Star - 2025 NBA 3-Point Contest - Norman Powell Round 1 Score,Under 23.5,0.02079999999999993,0.5556,0.5348
-2025-02-14 18:36:38.932671,Boxing Lines - Xander Zayas vs Slawa Spomer - To Win the Bout,Slawa Spomer,0.02049999999999999,0.1538,0.1333
 2025-02-14 23:27:34.994560,NBA All-Star - 2025 NBA 3-Point Contest -  3 Point Contest Winner,Norman Powell (LAC),0.02049999999999999,0.1538,0.1333
+2025-02-14 18:36:38.932671,Boxing Lines - Xander Zayas vs Slawa Spomer - To Win the Bout,Slawa Spomer,0.02049999999999999,0.1538,0.1333
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Tim Petrovic,0.0204,0.0345,0.0141
 2025-02-15 01:53:53.867029,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Over 68.5,0.01970000000000005,0.5652,0.5455
 2025-02-14 23:27:34.975352,NBA All-Star - 2025 NBA Celebrity All Star Game - Who will score more points?,Matt Barnes (LAA),0.019699999999999995,0.4545,0.4348
 2025-02-14 18:36:38.970823,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,0.019499999999999962,0.6491,0.6296
 2025-02-14 22:31:36.846967,NBA All-Star - 2025 NBA Celebrity All Star Game - Celebrity Game MVP,Druski,0.019000000000000003,0.0625,0.0435
+2025-02-15 06:36:16.093908,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.018999999999999906,0.7333,0.7143
 2025-02-15 03:33:52.720503,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Bournemouth,0.0179,0.1429,0.125
 2025-02-14 22:31:36.843461,NBA All-Star - 2025 NBA Celebrity All Star Game - First Basket,Allisha Gray (ATL),0.01759999999999999,0.1176,0.1
 2025-02-15 03:33:52.720503,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.01759999999999995,0.6667,0.6491
@@ -82,6 +83,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,David Toms,-0.014599999999999998,0.005,0.0196
 2025-02-14 23:27:34.990099,NBA All-Star - 2025 NBA Rising Stars - Rising Stars Winner,Team Tim Hardaway (Team T),-0.01469999999999999,0.2353,0.25
 2025-02-14 18:36:38.928309,Boxing Lines - Vito Mielnicki Jr vs Connor Coyle - To Win the Bout,Vito Mielnicki Jr,-0.015800000000000036,0.7937,0.8095
+2025-02-15 06:36:16.093908,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.017600000000000005,0.3333,0.3509
 2025-02-14 23:27:34.990099,NBA All-Star - 2025 NBA Rising Stars - Rising Stars Winner,Team Chris Mullin (Team C),-0.017600000000000005,0.3333,0.3509
 2025-02-14 22:31:39.178702,Boxing Lines - Zelfa Barrett vs James Dickens - To Win the Bout,James Dickens,-0.0179,0.125,0.1429
 2025-02-14 18:36:38.970823,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,-0.018100000000000005,0.4167,0.4348

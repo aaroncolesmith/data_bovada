@@ -18,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 09:29:29.563464,NBA All-Star - 2025 NBA 3-Point Contest - To Qualify for the Final,Norman Powell (LAC),0.05860000000000004,0.5348,0.4762
 2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Cameron Johnson (BKN),0.057699999999999974,0.5122,0.4545
 2025-02-15 10:32:30.572528,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 69.5,0.057699999999999974,0.5455,0.4878
+2025-02-15 13:29:08.782625,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - M. Kim / R. Henley - 3rd Round 2-Balls,Michael Kim,0.05559999999999998,0.5,0.4444
 2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.055499999999999994,0.8333,0.7778
 2025-02-15 10:32:27.446473,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Banfield,0.0539,0.0833,0.0294
 2025-02-15 10:32:28.056068,Copa del Rey - Spain Copa del Rey 2025 - Outright,Gran Canaria,0.053599999999999995,0.125,0.0714
@@ -29,43 +30,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 11:23:37.940836,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Florida,0.042600000000000006,0.0952,0.0526
 2025-02-15 10:32:28.090259,Leaders Cup - France Leaders Cup LNB 2025 - Outright,Le Mans Sarthe,0.04200000000000001,0.0714,0.0294
 2025-02-15 10:32:28.134378,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),UTEP,0.0407,0.1176,0.0769
+2025-02-15 13:29:08.770329,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - J. Thomas / A. Scott - 3rd Round 2-Balls,Adam Scott,0.039600000000000024,0.4651,0.4255
 2025-02-15 10:32:28.126354,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Texas Tech,0.036199999999999996,0.1538,0.1176
-2025-02-15 10:32:27.446473,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Boca Juniors,0.03570000000000001,0.2857,0.25
 2025-02-15 04:35:43.967870,NBA All-Star - 2025 NBA 3-Point Contest -  3 Point Contest Winner,Damian Lillard (MIL),0.03570000000000001,0.2857,0.25
+2025-02-15 10:32:27.446473,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Boca Juniors,0.03570000000000001,0.2857,0.25
 2025-02-15 09:29:29.580092,NBA All-Star - 2025 NBA 3-Point Contest - To Score 28+ Points in First Round,Cameron Johnson (BKN),0.03560000000000002,0.2174,0.1818
+2025-02-15 13:29:06.429548,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Mac McClung (ORL),0.03479999999999994,0.6,0.5652
 2025-02-15 10:32:27.254871,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,FC Juárez,0.034100000000000005,0.125,0.0909
 2025-02-15 10:32:27.453392,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,0.033300000000000024,0.2,0.1667
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Joe Durant,0.0306,0.0385,0.0079
 2025-02-15 10:32:28.143162,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),0.028800000000000048,0.875,0.8462
 2025-02-15 03:33:52.720503,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.0286,0.0385,0.0099
 2025-02-15 10:32:27.479327,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,0.027999999999999997,0.1818,0.1538
-2025-02-15 10:32:30.162844,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Aaron Judge (NYY),0.02779999999999999,0.25,0.2222
 2025-02-15 10:32:27.446473,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,0.02779999999999999,0.25,0.2222
+2025-02-15 10:32:30.162844,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Aaron Judge (NYY),0.02779999999999999,0.25,0.2222
 2025-02-15 11:23:40.260538,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - S. Burns / T. Finau - 3rd Round 2-Balls,Tony Finau,0.027700000000000058,0.5833,0.5556
 2025-02-15 09:29:29.570125,NBA All-Star - 2025 NBA 3-Point Contest - To Score 22+ Points in First Round,Cameron Johnson (BKN),0.02750000000000008,0.6429,0.6154
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Billy Andrade,0.026600000000000002,0.0345,0.0079
 2025-02-15 01:53:51.426566,NBA All-Star - 2025 NBA 3-Point Contest - Darius Garland Round 1 Score,Under 23.5,0.026499999999999968,0.5917,0.5652
+2025-02-15 13:29:08.920525,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
 2025-02-15 03:33:52.720503,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.02560000000000001,0.3333,0.3077
 2025-02-15 10:32:27.254871,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.024999999999999994,0.125,0.1
 2025-02-15 09:29:29.143661,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,0.024999999999999994,0.125,0.1
-2025-02-15 09:29:29.590782,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Andre Jackson Jr. (MIL),0.023799999999999988,0.1667,0.1429
+2025-02-15 13:29:08.902522,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 70.5,0.024399999999999977,0.5122,0.4878
 2025-02-15 07:25:38.058993,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.023799999999999988,0.3571,0.3333
+2025-02-15 09:29:29.590782,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Andre Jackson Jr. (MIL),0.023799999999999988,0.1667,0.1429
 2025-02-15 10:32:30.554501,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 70.5,0.022699999999999998,0.4878,0.4651
+2025-02-15 13:29:08.897817,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Under 71.5,0.022699999999999998,0.4878,0.4651
 2025-02-15 09:29:29.137497,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.022199999999999998,0.2222,0.2
 2025-02-15 09:29:28.903679,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),0.022199999999999998,0.2222,0.2
 2025-02-15 10:32:27.472892,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.022199999999999998,0.2222,0.2
 2025-02-15 10:32:27.449647,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.022199999999999998,0.2222,0.2
+2025-02-15 09:29:28.903679,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),0.021999999999999964,0.3077,0.2857
 2025-02-15 09:29:29.069284,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.021999999999999964,0.3077,0.2857
 2025-02-15 09:29:28.903679,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.021999999999999964,0.3077,0.2857
-2025-02-15 09:29:28.903679,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),0.021999999999999964,0.3077,0.2857
-2025-02-15 10:32:28.109431,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,0.02169999999999994,0.5455,0.5238
+2025-02-15 13:29:08.749528,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - S. Burns / T. Finau - 3rd Round 2-Balls,Sam Burns,0.021699999999999997,0.4762,0.4545
 2025-02-15 10:32:29.159779,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Matt Olson Total Home Runs,Over 33.5,0.02169999999999994,0.5455,0.5238
+2025-02-15 10:32:28.109431,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,0.02169999999999994,0.5455,0.5238
 2025-02-15 09:29:31.607701,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon State Beavers,0.0208,0.0625,0.0417
+2025-02-15 13:29:08.716358,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - C. Bezuidenhout / M.W. Lee - 3rd Round 2-Balls,Min Woo Lee,0.02079999999999993,0.5556,0.5348
 2025-02-15 01:53:51.433269,NBA All-Star - 2025 NBA 3-Point Contest - Norman Powell Round 1 Score,Under 23.5,0.02079999999999993,0.5556,0.5348
+2025-02-15 13:29:08.720500,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - T. Detry / B. Griffin - 3rd Round 2-Balls,Ben Griffin,0.020699999999999996,0.4651,0.4444
+2025-02-15 13:29:08.916170,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,0.020699999999999996,0.4651,0.4444
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Tim Petrovic,0.0204,0.0345,0.0141
+2025-02-15 13:29:08.790944,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - A. Rai / J. Knapp - 3rd Round 2-Balls,Aaron Rai,0.01970000000000005,0.5652,0.5455
 2025-02-15 10:32:29.728024,Player Props - New York Yankees - 2025 Regular Season Player Props - Jazz Chisholm Jr. Total Stolen Bases,Over 32.5,0.01970000000000005,0.5652,0.5455
-2025-02-15 01:53:53.867029,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Over 68.5,0.01970000000000005,0.5652,0.5455
 2025-02-15 11:23:40.441135,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 69.5,0.01970000000000005,0.5652,0.5455
+2025-02-15 01:53:53.867029,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Over 68.5,0.01970000000000005,0.5652,0.5455
 2025-02-15 09:29:31.739202,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Michael Gomez Jr,0.019699999999999995,0.4545,0.4348
 2025-02-15 06:36:16.093908,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,0.018999999999999906,0.7333,0.7143
 2025-02-15 12:47:57.416417,Scores - 3rd Round Score - Nick Dunlap - 3rd Round Score,Under 71.5,0.018900000000000028,0.4444,0.4255
@@ -81,12 +92,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 11:23:40.299658,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - A. Novak / T. Fleetwood - 3rd Round 2-Balls,Tommy Fleetwood,0.016699999999999937,0.6,0.5833
 2025-02-15 10:32:27.389050,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.016699999999999937,0.6,0.5833
 2025-02-15 08:32:00.881317,Boxing Lines - Vincenzo Gualtieri vs Alexander Pavlov - To Win the Bout,Alexander Pavlov,0.016600000000000004,0.1905,0.1739
-2025-02-15 09:29:29.064553,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.015400000000000025,0.4,0.3846
-2025-02-15 09:29:29.576766,NBA All-Star - 2025 NBA 3-Point Contest - To Score 26+ Points in First Round,Norman Powell (LAC),0.015400000000000025,0.4,0.3846
 2025-02-15 09:29:28.839373,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,0.015400000000000025,0.4,0.3846
+2025-02-15 09:29:29.576766,NBA All-Star - 2025 NBA 3-Point Contest - To Score 26+ Points in First Round,Norman Powell (LAC),0.015400000000000025,0.4,0.3846
+2025-02-15 09:29:29.064553,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.015400000000000025,0.4,0.3846
 2025-02-15 09:29:29.523292,NBA All-Star - 2025 NBA 3-Point Contest -  3 Point Contest Winner,Norman Powell (LAC),0.015100000000000002,0.1818,0.1667
-2025-02-15 12:47:55.327903,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts,0.014899999999999997,0.0625,0.0476
 2025-02-15 10:32:30.157107,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Dylan Cease (SD),0.014899999999999997,0.0625,0.0476
+2025-02-15 12:47:55.327903,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts,0.014899999999999997,0.0625,0.0476
 2025-02-15 09:29:29.566789,NBA All-Star - 2025 NBA 3-Point Contest - To Score 20+ Points in First Round,Norman Powell (LAC),0.014799999999999924,0.8148,0.8
 2025-02-15 09:29:29.566789,NBA All-Star - 2025 NBA 3-Point Contest - To Score 20+ Points in First Round,Cameron Johnson (BKN),0.014700000000000046,0.7647,0.75
 2025-02-15 09:29:29.580092,NBA All-Star - 2025 NBA 3-Point Contest - To Score 28+ Points in First Round,Norman Powell (LAC),0.01469999999999999,0.25,0.2353
@@ -104,17 +115,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 10:32:28.990595,To Make The Playoffs - New York Yankees To Make The Playoffs - 2025 - To Make The Playoffs,No,0.011899999999999994,0.25,0.2381
 2025-02-15 11:23:37.754530,NBA All-Star - 2025 NBA 3-Point Contest - Cam Johnson Round 1 Score,Over 22.5,0.011600000000000055,0.5238,0.5122
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Tom Lehman,0.011300000000000001,0.0123,0.001
-2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Alexander Isak (Newcastle),0.011199999999999995,0.0588,0.0476
 2025-02-15 10:32:27.453392,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Rosario Central,0.011199999999999995,0.0588,0.0476
+2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Alexander Isak (Newcastle),0.011199999999999995,0.0588,0.0476
 2025-02-15 09:29:29.583399,NBA All-Star - 2025 NBA 3-Point Contest - To Score 30+ Points in First Round,Cameron Johnson (BKN),0.011099999999999999,0.1111,0.1
-2025-02-15 01:53:50.779929,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.01100000000000001,0.5348,0.5238
 2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Darius Garland (CLE),0.01100000000000001,0.5348,0.5238
+2025-02-15 01:53:50.779929,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.01100000000000001,0.5348,0.5238
 2025-02-15 10:32:30.157107,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Michael King (SD),0.010700000000000001,0.0385,0.0278
 2025-02-15 09:29:31.607701,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Georgia,0.010700000000000001,0.0385,0.0278
 2025-02-15 02:55:18.300691,Boxing Lines - Denys Berinchyk vs Keyshawn Davis - To Win the Bout,Denys Berinchyk,0.010499999999999982,0.2105,0.2
 2025-02-15 04:35:46.376963,Saudi Ladies International - Saudi Ladies International - Winner,Jeeno Thitikul,0.010400000000000076,0.7778,0.7674
-2025-02-15 10:32:27.484421,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.0102,0.0769,0.0667
 2025-02-15 09:29:29.081710,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,0.0102,0.0769,0.0667
+2025-02-15 10:32:27.484421,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,0.0102,0.0769,0.0667
 2025-02-15 10:32:27.258441,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,FC Juárez,0.010100000000000001,0.0345,0.0244
 2025-02-15 01:53:51.416743,NBA All-Star - 2025 NBA 3-Point Contest - Cade Cunningham Round 1 Score,Under 21.5,0.010099999999999998,0.5556,0.5455
 2025-02-15 11:23:37.754530,NBA All-Star - 2025 NBA 3-Point Contest - Cam Johnson Round 1 Score,Under 22.5,-0.010099999999999998,0.5455,0.5556
@@ -124,42 +135,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Ryan Helsley (STL),-0.010899999999999993,0.1429,0.1538
 2025-02-15 02:55:18.296523,Boxing Lines - Xander Zayas vs Slawa Spomer - To Win the Bout,Slawa Spomer,-0.010899999999999993,0.1429,0.1538
 2025-02-15 12:47:57.171528,Boxing Lines - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,-0.011099999999999999,0.1,0.1111
-2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Gabriel Magalhaes (Arsenal),-0.011199999999999995,0.0476,0.0588
 2025-02-15 10:32:27.468056,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Once Caldas,-0.011199999999999995,0.0476,0.0588
 2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Virgil van Dijk (Liverpool),-0.011199999999999995,0.0476,0.0588
 2025-02-15 09:29:29.121804,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.011199999999999995,0.0476,0.0588
+2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Gabriel Magalhaes (Arsenal),-0.011199999999999995,0.0476,0.0588
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Cameron Percy,-0.0114,0.005,0.0164
 2025-02-15 09:29:29.140526,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,-0.011499999999999955,0.6552,0.6667
 2025-02-15 01:53:51.416743,NBA All-Star - 2025 NBA 3-Point Contest - Cade Cunningham Round 1 Score,Over 21.5,-0.011600000000000055,0.5122,0.5238
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Ken Tanigawa,-0.011699999999999999,0.0079,0.0196
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Doug Barron,-0.012100000000000001,0.0123,0.0244
-2025-02-15 09:29:31.524184,Player Props - Texas Rangers - 2025 Regular Season Player Props - Wyatt Langford Total Home Runs,Under 22.5,-0.012199999999999989,0.5,0.5122
-2025-02-15 10:32:28.758733,Regular Season Wins - Boston Red Sox Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
 2025-02-15 10:32:29.724515,Player Props - New York Yankees - 2025 Regular Season Player Props - Giancarlo Stanton Total Home Runs,Over 25.5,-0.012199999999999989,0.5,0.5122
+2025-02-15 10:32:28.758733,Regular Season Wins - Boston Red Sox Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
 2025-02-15 09:29:29.546943,NBA All-Star - 2025 NBA 3-Point Contest - Jalen Brunson Round 1 Score,Under 22.5,-0.012199999999999989,0.5,0.5122
 2025-02-15 09:29:29.550211,NBA All-Star - 2025 NBA 3-Point Contest - Norman Powell Round 1 Score,Over 23.5,-0.012199999999999989,0.5,0.5122
 2025-02-15 01:53:51.413449,NBA All-Star - 2025 NBA 3-Point Contest - Buddy Hield Round 1 Score,Over 24.5,-0.012199999999999989,0.4878,0.5
+2025-02-15 09:29:31.524184,Player Props - Texas Rangers - 2025 Regular Season Player Props - Wyatt Langford Total Home Runs,Under 22.5,-0.012199999999999989,0.5,0.5122
 2025-02-15 09:29:29.131296,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.012400000000000078,0.8824,0.8948
 2025-02-15 05:31:44.294212,Boxing Lines - Oscar Duarte Jurado vs Miguel Madueno - To Win the Bout,Miguel Madueno,-0.012899999999999995,0.1538,0.1667
-2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Tim O'Neal,-0.013,0.0066,0.0196
 2025-02-15 11:23:37.936713,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Colorado State,-0.013,0.0066,0.0196
+2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Tim O'Neal,-0.013,0.0066,0.0196
 2025-02-15 12:47:57.416417,Scores - 3rd Round Score - Nick Dunlap - 3rd Round Score,Over 71.5,-0.013799999999999923,0.6226,0.6364
 2025-02-15 09:29:29.131296,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.013899999999999996,0.1111,0.125
 2025-02-15 08:32:00.881317,Boxing Lines - Vincenzo Gualtieri vs Alexander Pavlov - To Win the Bout,Vincenzo Gualtieri,-0.013900000000000023,0.875,0.8889
 2025-02-15 09:29:29.143661,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.013999999999999999,0.0769,0.0909
 2025-02-15 04:35:46.376963,Saudi Ladies International - Saudi Ladies International - Winner,Somi Lee,-0.013999999999999999,0.0769,0.0909
 2025-02-15 09:29:29.523292,NBA All-Star - 2025 NBA 3-Point Contest -  3 Point Contest Winner,Jalen Brunson (NYK),-0.01440000000000001,0.0909,0.1053
-2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,David Toms,-0.014599999999999998,0.005,0.0196
 2025-02-15 10:32:27.453392,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Banfield,-0.014599999999999998,0.005,0.0196
-2025-02-15 09:29:28.887352,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.015100000000000002,0.1667,0.1818
+2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,David Toms,-0.014599999999999998,0.005,0.0196
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Edwin Diaz (NYM),-0.015100000000000002,0.1667,0.1818
+2025-02-15 09:29:28.887352,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.015100000000000002,0.1667,0.1818
 2025-02-15 10:32:30.157107,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Max Fried (NYY),-0.015300000000000001,0.0323,0.0476
-2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Cade Cunningham (DET),-0.016699999999999993,0.4,0.4167
 2025-02-15 10:32:27.389050,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.016699999999999993,0.4,0.4167
+2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Cade Cunningham (DET),-0.016699999999999993,0.4,0.4167
 2025-02-15 06:36:16.093908,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.017600000000000005,0.3333,0.3509
 2025-02-15 10:32:27.479327,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.01820000000000002,0.1818,0.2
 2025-02-15 09:29:29.566789,NBA All-Star - 2025 NBA 3-Point Contest - To Score 20+ Points in First Round,Buddy Hield (GSW),-0.018500000000000072,0.8148,0.8333
 2025-02-15 10:32:30.157107,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Blake Snell (LAD),-0.018800000000000004,0.0526,0.0714
+2025-02-15 13:29:08.902522,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 70.5,-0.01880000000000004,0.5556,0.5744
 2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Buddy Hield (GSW),-0.01880000000000004,0.5556,0.5744
 2025-02-15 10:32:27.446473,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Independiente Rivadavia,-0.0189,0.0196,0.0385
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,David Bednar (PIT),-0.019099999999999992,0.0476,0.0667
@@ -171,8 +183,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Devin Williams (NYY),-0.02020000000000001,0.0909,0.1111
 2025-02-15 11:23:40.299658,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - A. Novak / T. Fleetwood - 3rd Round 2-Balls,Andrew Novak,-0.020699999999999996,0.4444,0.4651
 2025-02-15 09:29:29.570125,NBA All-Star - 2025 NBA 3-Point Contest - To Score 22+ Points in First Round,Jalen Brunson (NYK),-0.02100000000000002,0.6154,0.6364
-2025-02-15 10:32:28.109431,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,-0.02169999999999994,0.5238,0.5455
 2025-02-15 10:32:29.159779,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Matt Olson Total Home Runs,Under 33.5,-0.02169999999999994,0.5238,0.5455
+2025-02-15 10:32:28.109431,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Duke,-0.02169999999999994,0.5238,0.5455
 2025-02-15 09:29:31.739202,Boxing Lines - Reece Bellotti vs Michael Gomez Jr - To Win the Bout,Reece Bellotti,-0.02180000000000004,0.6078,0.6296
 2025-02-15 02:55:15.664997,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.021999999999999964,0.2857,0.3077
 2025-02-15 09:29:29.570125,NBA All-Star - 2025 NBA 3-Point Contest - To Score 22+ Points in First Round,Buddy Hield (GSW),-0.02200000000000002,0.6923,0.7143
@@ -181,34 +193,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 10:32:28.134378,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),New Mexico State,-0.022400000000000003,0.0099,0.0323
 2025-02-15 10:32:28.126354,Men's Basketball Conferences - Big 12  Conference Winner - Big 12 (Regular Season),Houston,-0.022499999999999964,0.7143,0.7368
 2025-02-15 01:53:51.433269,NBA All-Star - 2025 NBA 3-Point Contest - Norman Powell Round 1 Score,Over 23.5,-0.022600000000000064,0.5122,0.5348
+2025-02-15 13:29:08.916170,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 70.5,-0.022600000000000064,0.6,0.6226
 2025-02-15 10:32:28.122372,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan,-0.022699999999999998,0.4651,0.4878
 2025-02-15 09:29:28.839373,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.02310000000000001,0.0769,0.1
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Mason Miller (ATH),-0.02310000000000001,0.0769,0.1
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Thomas Bjorn,-0.023200000000000002,0.0244,0.0476
-2025-02-15 01:53:51.426566,NBA All-Star - 2025 NBA 3-Point Contest - Darius Garland Round 1 Score,Over 23.5,-0.023799999999999988,0.4762,0.5
+2025-02-15 13:29:08.790944,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - A. Rai / J. Knapp - 3rd Round 2-Balls,Jake Knapp,-0.023799999999999988,0.4762,0.5
 2025-02-15 09:29:29.573456,NBA All-Star - 2025 NBA 3-Point Contest - To Score 24+ Points in First Round,Jalen Brunson (NYK),-0.023799999999999988,0.4762,0.5
 2025-02-15 10:32:27.453392,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Racing Club,-0.023799999999999988,0.1429,0.1667
+2025-02-15 13:29:08.920525,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
+2025-02-15 01:53:51.426566,NBA All-Star - 2025 NBA 3-Point Contest - Darius Garland Round 1 Score,Over 23.5,-0.023799999999999988,0.4762,0.5
 2025-02-15 11:23:40.441135,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 69.5,-0.023800000000000043,0.5,0.5238
 2025-02-15 10:32:29.728024,Player Props - New York Yankees - 2025 Regular Season Player Props - Jazz Chisholm Jr. Total Stolen Bases,Under 32.5,-0.023800000000000043,0.5,0.5238
 2025-02-15 01:53:53.867029,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Under 68.5,-0.023800000000000043,0.5,0.5238
 2025-02-15 10:32:27.254871,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tijuana,-0.0242,0.0667,0.0909
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Jerry Kelly,-0.0242,0.0667,0.0909
-2025-02-15 11:23:37.751136,NBA All-Star - 2025 NBA 3-Point Contest - Cade Cunningham Round 1 Score,Over 21.5,-0.024399999999999977,0.4878,0.5122
 2025-02-15 10:32:30.540434,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 70.5,-0.024399999999999977,0.4878,0.5122
+2025-02-15 11:23:37.751136,NBA All-Star - 2025 NBA 3-Point Contest - Cade Cunningham Round 1 Score,Over 21.5,-0.024399999999999977,0.4878,0.5122
+2025-02-15 13:29:08.716358,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - C. Bezuidenhout / M.W. Lee - 3rd Round 2-Balls,Christiaan Bezuidenhout,-0.024399999999999977,0.4878,0.5122
 2025-02-15 10:32:30.145565,To Record the Most Saves - Pitcher To Record the Most Saves - 2025 Regular Season - Pitcher To Record the Most Saves,Josh Hader (HOU),-0.024999999999999994,0.1,0.125
+2025-02-15 13:29:08.897817,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Over 71.5,-0.025599999999999956,0.5744,0.6
 2025-02-15 10:32:30.554501,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 70.5,-0.025599999999999956,0.5744,0.6
-2025-02-15 09:29:29.140526,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.02560000000000001,0.3077,0.3333
+2025-02-15 13:29:08.720500,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - T. Detry / B. Griffin - 3rd Round 2-Balls,Thomas Detry,-0.025599999999999956,0.5744,0.6
 2025-02-15 09:29:29.563464,NBA All-Star - 2025 NBA 3-Point Contest - To Qualify for the Final,Jalen Brunson (NYK),-0.02560000000000001,0.3077,0.3333
+2025-02-15 09:29:29.140526,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.02560000000000001,0.3077,0.3333
 2025-02-15 10:32:27.484421,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.025600000000000067,0.6667,0.6923
 2025-02-15 07:25:38.058993,Boxing Lines - Jack Catterall vs Arnold Barboza Jr - To Win the Bout,Jack Catterall,-0.02739999999999998,0.7059,0.7333
+2025-02-15 13:29:06.429548,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Andre Jackson Jr. (MIL),-0.02779999999999999,0.2222,0.25
 2025-02-15 09:29:29.137497,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.028100000000000014,0.8667,0.8948
 2025-02-15 10:32:28.134378,Men's Basketball Conferences - Conference USA Winner - Conference USA Winner (Regular Season),Louisiana Tech,-0.0286,0.0099,0.0385
+2025-02-15 11:23:37.940836,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.030299999999999994,0.6667,0.697
 2025-02-15 10:32:27.258441,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,-0.030299999999999994,0.3333,0.3636
 2025-02-15 09:29:29.590782,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Mac McClung (ORL),-0.030299999999999994,0.6364,0.6667
-2025-02-15 11:23:37.940836,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Auburn,-0.030299999999999994,0.6667,0.697
 2025-02-15 09:29:29.563464,NBA All-Star - 2025 NBA 3-Point Contest - To Qualify for the Final,Darius Garland (CLE),-0.031799999999999995,0.4444,0.4762
-2025-02-15 11:23:40.260538,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - S. Burns / T. Finau - 3rd Round 2-Balls,Sam Burns,-0.033299999999999996,0.4545,0.4878
+2025-02-15 13:29:08.770329,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - J. Thomas / A. Scott - 3rd Round 2-Balls,Justin Thomas,-0.032099999999999906,0.5833,0.6154
 2025-02-15 10:32:27.254871,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club América,-0.033299999999999996,0.8,0.8333
+2025-02-15 11:23:40.260538,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - S. Burns / T. Finau - 3rd Round 2-Balls,Sam Burns,-0.033299999999999996,0.4545,0.4878
 2025-02-15 09:29:29.147335,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Cole Palmer (Chelsea),-0.034100000000000005,0.0909,0.125
 2025-02-15 09:29:29.566789,NBA All-Star - 2025 NBA 3-Point Contest - To Score 20+ Points in First Round,Jalen Brunson (NYK),-0.03420000000000001,0.7436,0.7778
 2025-02-15 09:29:28.903679,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),-0.03480000000000005,0.5,0.5348
@@ -217,6 +237,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-15 09:29:29.131296,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.04120000000000001,0.0588,0.1
 2025-02-15 09:29:29.527248,NBA All-Star - 2025 NBA 3-Point Contest - Any Player to Break the Three Point Contest Single Round Record (32+),Yes,-0.043399999999999994,0.2899,0.3333
 2025-02-15 09:29:29.069284,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.044399999999999995,0.4,0.4444
+2025-02-15 13:29:08.782625,Genesis Invitational - 2/3 Balls - 3rd Round 2-Balls - M. Kim / R. Henley - 3rd Round 2-Balls,Russell Henley,-0.04620000000000002,0.5455,0.5917
 2025-02-15 01:53:53.760808,Chubb Classic - Chubb Classic - Winner,Alex Cejka,-0.047099999999999996,0.0196,0.0667
 2025-02-15 09:29:29.566789,NBA All-Star - 2025 NBA 3-Point Contest - To Score 20+ Points in First Round,Cade Cunningham (DET),-0.04760000000000009,0.6667,0.7143
 2025-02-15 10:32:27.990803,NBA All-Star - 2025 NBA Dunk Contest - Dunk Contest Winner,Matas Buzelis (CHI),-0.04849999999999999,0.1333,0.1818

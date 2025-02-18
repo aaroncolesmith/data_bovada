@@ -1,6 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-02-18 01:54:54.958001,TGL - TGL - Winner,The Bay,0.13329999999999997,0.3333,0.2
 2025-02-18 09:30:42.462620,Super Bowl LX: Halftime Show Specials - 2026 Super Bowl: Halftime Show Headliner - 2026 Halftime Headliner,Post Malone,0.13329999999999997,0.3333,0.2
+2025-02-18 01:54:54.958001,TGL - TGL - Winner,The Bay,0.13329999999999997,0.3333,0.2
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Finland,0.10439999999999999,0.1429,0.0385
 2025-02-18 09:30:42.906394,Trump Policy Specials - Will Trump meet Putin by the end of April 2025? - Will Trump Meet Putin?,Yes,0.0857,0.8,0.7143
 2025-02-18 02:56:05.677073,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.08030000000000004,0.5348,0.4545
@@ -19,11 +19,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-18 05:32:52.465320,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.02679999999999999,0.3125,0.2857
 2025-02-18 09:30:43.552412,Regular Season Specials - Regular Season 2025 Player Matchups - Pitcher to record the most Strikeouts,Garrett Crochet (BOS),0.025599999999999956,0.6,0.5744
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.025499999999999967,0.4255,0.4
-2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.025499999999999967,0.4255,0.4
 2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.025499999999999967,0.4255,0.4
+2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.025499999999999967,0.4255,0.4
 2025-02-18 09:30:42.127593,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.024999999999999994,0.125,0.1
-2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Malta,0.024,0.0625,0.0385
 2025-02-18 09:30:42.462620,Super Bowl LX: Halftime Show Specials - 2026 Super Bowl: Halftime Show Headliner - 2026 Halftime Headliner,Bad Bunny,0.024,0.0625,0.0385
+2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Malta,0.024,0.0625,0.0385
 2025-02-18 03:33:08.921628,Championship - England Championship 2024/25 - Winner,Leeds United,0.023799999999999932,0.8571,0.8333
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Czechia,0.023200000000000002,0.0476,0.0244
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Portugal,0.023200000000000002,0.0476,0.0244
@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-17 23:27:26.691504,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Atlanta United,0.02310000000000001,0.1,0.0769
 2025-02-18 09:30:44.612380,Player Props - San Diego Padres - 2025 Regular Season Player Props - Fernando Tatis Jr. Total Home Runs,Over 30.5,0.022600000000000064,0.5348,0.5122
 2025-02-18 09:30:41.868456,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.022199999999999998,0.8,0.7778
+2025-02-18 11:26:08.079203,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total RBIs,Over 97.5,0.02169999999999994,0.5455,0.5238
 2025-02-18 01:54:51.937424,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.020699999999999996,0.4651,0.4444
 2025-02-18 10:34:59.056844,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Kevin Cash (TB),0.02049999999999999,0.1538,0.1333
 2025-02-18 09:30:43.507088,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Over 104.5,0.01970000000000005,0.5652,0.5455
@@ -69,11 +70,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-18 09:30:42.131515,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,-0.012799999999999978,0.2857,0.2985
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.013899999999999996,0.1111,0.125
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.014099999999999998,0.0244,0.0385
-2025-02-17 23:27:27.743080,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Aaron Glenn,-0.014100000000000001,0.0385,0.0526
 2025-02-18 09:30:42.141302,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Unión Española,-0.014100000000000001,0.0385,0.0526
+2025-02-17 23:27:27.743080,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Aaron Glenn,-0.014100000000000001,0.0385,0.0526
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.01419999999999999,0.3704,0.3846
-2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Slovenia,-0.0145,0.0099,0.0244
+2025-02-18 11:26:06.659982,Regular Season Specials - Regular Season 2025 Win Record - Team to Break Regular Season Win Record,Los Angeles Dodgers,-0.01440000000000001,0.0909,0.1053
 2025-02-18 02:56:08.497121,Kenya Open - Kenya Open - Winner,Ashun Wu,-0.0145,0.0099,0.0244
+2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Slovenia,-0.0145,0.0099,0.0244
 2025-02-18 09:30:42.462620,Super Bowl LX: Halftime Show Specials - 2026 Super Bowl: Halftime Show Headliner - 2026 Halftime Headliner,Bruno Mars,-0.014899999999999997,0.0476,0.0625
 2025-02-18 09:30:42.462620,Super Bowl LX: Halftime Show Specials - 2026 Super Bowl: Halftime Show Headliner - 2026 Halftime Headliner,Travis Scott,-0.014899999999999997,0.0476,0.0625
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Greece,-0.015300000000000001,0.0323,0.0476
@@ -84,17 +86,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.01759999999999999,0.1,0.1176
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Spain,-0.0179,0.0099,0.0278
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,-0.018099999999999998,0.0588,0.0769
-2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.018200000000000004,0.0294,0.0476
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Atlético San Luis,-0.018200000000000004,0.0294,0.0476
+2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.018200000000000004,0.0294,0.0476
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,-0.018800000000000004,0.0526,0.0714
-2025-02-18 09:30:41.868456,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.0189,0.0196,0.0385
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,Randers,-0.0189,0.0196,0.0385
+2025-02-18 09:30:41.868456,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,-0.0189,0.0196,0.0385
 2025-02-18 01:54:51.937424,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.019699999999999995,0.4348,0.4545
 2025-02-18 03:33:08.921628,Championship - England Championship 2024/25 - Winner,Sunderland,-0.019800000000000005,0.0278,0.0476
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.02020000000000001,0.0909,0.1111
 2025-02-18 10:34:57.880069,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,UK,-0.0203,0.0323,0.0526
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.02049999999999999,0.1333,0.1538
 2025-02-18 09:30:44.612380,Player Props - San Diego Padres - 2025 Regular Season Player Props - Fernando Tatis Jr. Total Home Runs,Under 30.5,-0.02079999999999993,0.5348,0.5556
+2025-02-18 11:26:08.079203,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total RBIs,Under 97.5,-0.02169999999999994,0.5238,0.5455
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.02169999999999994,0.5238,0.5455
 2025-02-18 03:33:08.924764,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.021699999999999997,0.4545,0.4762
 2025-02-18 09:30:42.127593,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,-0.022199999999999998,0.2,0.2222
@@ -103,8 +106,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-18 09:30:43.552412,Regular Season Specials - Regular Season 2025 Player Matchups - Pitcher to record the most Strikeouts,Freddy Peralta (MIL),-0.022699999999999998,0.4651,0.4878
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Creighton,-0.0232,0.0435,0.0667
 2025-02-18 09:30:41.975735,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.023799999999999988,0.1429,0.1667
-2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.023800000000000043,0.5,0.5238
 2025-02-18 09:30:43.507088,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Under 104.5,-0.023800000000000043,0.5,0.5238
+2025-02-18 09:30:41.865496,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.023800000000000043,0.5,0.5238
 2025-02-18 09:30:41.862210,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.025499999999999967,0.4,0.4255
 2025-02-18 10:34:58.206160,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,-0.02560000000000001,0.3077,0.3333
 2025-02-18 06:37:37.322611,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.02750000000000008,0.6154,0.6429

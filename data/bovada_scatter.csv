@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-18 06:37:37.322611,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.063,0.3333,0.2703
 2025-02-18 02:56:05.677073,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,0.06290000000000007,0.9091,0.8462
 2025-02-18 02:56:05.677073,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,0.029299999999999993,0.9524,0.9231
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Maryland,0.027700000000000002,0.0833,0.0556
 2025-02-18 05:32:52.465320,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.02679999999999999,0.3125,0.2857
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.025499999999999967,0.4255,0.4
 2025-02-17 22:31:14.734565,NCAA Football Futures - 2025-2026 - NCAA National Championship Game Winner - 2025-2026 CFP Winner,Ohio State,0.023799999999999988,0.1667,0.1429
@@ -15,34 +16,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-17 23:27:26.691504,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Atlanta United,0.02310000000000001,0.1,0.0769
 2025-02-18 01:54:51.937424,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.020699999999999996,0.4651,0.4444
 2025-02-18 02:56:08.497121,Kenya Open - Kenya Open - Winner,Gavin Green,0.0192,0.0196,0.0004
-2025-02-18 01:54:54.958001,TGL - TGL - Winner,Atlanta Drive,0.016699999999999993,0.2667,0.25
 2025-02-17 23:27:27.342113,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.016699999999999993,0.2667,0.25
+2025-02-18 01:54:54.958001,TGL - TGL - Winner,Atlanta Drive,0.016699999999999993,0.2667,0.25
 2025-02-18 02:56:05.674066,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,0.01629999999999998,0.2941,0.2778
 2025-02-17 23:27:27.342113,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
 2025-02-18 06:37:37.318218,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame (W),0.012899999999999995,0.1667,0.1538
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Missouri,0.012499999999999997,0.0625,0.05
 2025-02-17 23:27:27.743080,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,0.012299999999999991,0.1176,0.1053
-2025-02-18 01:54:52.004063,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,0.011099999999999999,0.1111,0.1
 2025-02-18 01:54:52.004063,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,0.011099999999999999,0.1111,0.1
+2025-02-18 01:54:52.004063,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,0.011099999999999999,0.1111,0.1
+2025-02-18 07:27:27.970475,Boxing Lines - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,0.011099999999999999,0.1111,0.1
 2025-02-17 22:31:16.643434,Mexico Open - Mexico Open - Winner,Niklas Norgaard,0.010600000000000002,0.0323,0.0217
-2025-02-18 01:54:54.940298,Mexico Open - Mexico Open - Winner,Akshay Bhatia,-0.0102,0.0667,0.0769
+2025-02-18 07:27:28.030497,TGL - Team Matchups - Jupiter Links vs New York - Winner,Jupiter Links (TKim/Woods/Homa/Kisner),-0.010099999999999998,0.4444,0.4545
 2025-02-18 01:54:52.004063,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Pumas UNAM,-0.0102,0.0667,0.0769
+2025-02-18 01:54:54.940298,Mexico Open - Mexico Open - Winner,Akshay Bhatia,-0.0102,0.0667,0.0769
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Iowa State,-0.010399999999999993,0.2222,0.2326
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Memphis,-0.010700000000000001,0.0278,0.0385
 2025-02-17 23:27:26.691504,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,-0.010899999999999993,0.1429,0.1538
-2025-02-17 19:24:49.526168,Boxing Lines - Keith Thurman vs Brock Jarvis - To Win the Bout,Keith Thurman,-0.011099999999999999,0.7826,0.7937
 2025-02-17 23:27:26.691504,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.011099999999999999,0.1,0.1111
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Michigan State,-0.011900000000000008,0.0833,0.0952
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.013899999999999996,0.1111,0.125
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.014099999999999998,0.0244,0.0385
 2025-02-17 23:27:27.743080,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Aaron Glenn,-0.014100000000000001,0.0385,0.0526
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,-0.01419999999999999,0.3704,0.3846
 2025-02-18 02:56:08.497121,Kenya Open - Kenya Open - Winner,Ashun Wu,-0.0145,0.0099,0.0244
 2025-02-18 02:56:05.677073,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Viborg FF,-0.0156,0.004,0.0196
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,-0.015700000000000006,0.1176,0.1333
 2025-02-18 06:37:37.318218,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.01680000000000001,0.2105,0.2273
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.01759999999999999,0.1,0.1176
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Marquette,-0.018099999999999998,0.0588,0.0769
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Atlético San Luis,-0.018200000000000004,0.0294,0.0476
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Illinois,-0.018800000000000004,0.0526,0.0714
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,Randers,-0.0189,0.0196,0.0385
 2025-02-18 01:54:51.937424,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.019699999999999995,0.4348,0.4545
 2025-02-18 03:33:08.921628,Championship - England Championship 2024/25 - Winner,Sunderland,-0.019800000000000005,0.0278,0.0476
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kansas,-0.02020000000000001,0.0909,0.1111
 2025-02-18 02:56:05.671020,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.02049999999999999,0.1333,0.1538
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.02169999999999994,0.5238,0.5455
 2025-02-18 03:33:08.924764,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.021699999999999997,0.4545,0.4762
 2025-02-18 01:54:52.000479,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,-0.02260000000000001,0.3774,0.4
+2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.022600000000000064,0.6,0.6226
 2025-02-18 06:37:37.270836,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Creighton,-0.0232,0.0435,0.0667
 2025-02-18 06:37:37.322611,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),-0.02750000000000008,0.6154,0.6429
 2025-02-18 03:33:08.921628,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.027999999999999997,0.1538,0.1818

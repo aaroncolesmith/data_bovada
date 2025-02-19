@@ -40,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-19 10:35:09.890903,Cut Lines - Jake Knapp - Make Cut / Miss Cut - Jake Knapp,Miss,0.020799999999999985,0.3333,0.3125
 2025-02-19 09:30:46.851161,Regular Season Specials - Regular Season 2025 Specials - Player to Hit 30+ Regular Season Home Runs,Jackson Merrill (SD),0.020799999999999985,0.3333,0.3125
 2025-02-19 12:51:14.977697,Boxing Lines - Gabriel Flores Jr vs Jose Arellano - To Win the Bout,Jose Arellano,0.02030000000000004,0.3774,0.3571
+2025-02-19 17:31:10.616855,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Luis Suarez,0.020100000000000007,0.1739,0.1538
 2025-02-19 16:36:07.508661,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Rozner / G. Gomez / P. Knowles - 1st Round 3 Balls,Antoine Rozner,0.019499999999999962,0.6491,0.6296
 2025-02-19 08:35:34.711993,Boxing Lines - Demichael Harris vs Anthony Cuba - To Win the Bout,Demichael Harris,0.01880000000000004,0.6552,0.6364
 2025-02-19 09:30:45.305742,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.0179,0.1429,0.125
@@ -58,14 +59,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-19 14:33:00.228461,ROY - AL ROY 2025 - American League Rookie of the Year,Kumar Rocker (TEX),0.011199999999999995,0.0588,0.0476
 2025-02-19 09:30:45.314996,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.011199999999999988,0.9524,0.9412
 2025-02-19 10:35:06.472441,National League - English National League 2024/25 - To Be Promoted,Gateshead,0.011099999999999999,0.1111,0.1
-2025-02-19 12:51:14.957902,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.01100000000000001,0.5348,0.5238
 2025-02-19 09:30:46.900954,Regular Season Wins - San Diego Padres Wins - 2025 Regular Season - Regular Season Wins,Over 85.5,0.01100000000000001,0.5348,0.5238
-2025-02-19 10:35:09.760484,Tournament Match-Ups - Tournament Match-Up - V. Perez v A. Rozner - Tournament Match-Up,Victor Perez,0.01100000000000001,0.5348,0.5238
+2025-02-19 12:51:14.957902,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.01100000000000001,0.5348,0.5238
 2025-02-19 10:35:09.760484,Tournament Match-Ups - Tournament Match-Up - V. Perez v A. Rozner - Tournament Match-Up,Antoine Rozner,0.01100000000000001,0.5348,0.5238
+2025-02-19 10:35:09.760484,Tournament Match-Ups - Tournament Match-Up - V. Perez v A. Rozner - Tournament Match-Up,Victor Perez,0.01100000000000001,0.5348,0.5238
 2025-02-19 09:30:46.851161,Regular Season Specials - Regular Season 2025 Specials - Player to Hit 30+ Regular Season Home Runs,Cody Bellinger (CHI),0.010699999999999987,0.3333,0.3226
-2025-02-19 15:31:47.485551,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
-2025-02-19 10:35:09.752094,Tournament Match-Ups - Tournament Match-Up - S. Ryder v B. Silverman - Tournament Match-Up,Sam Ryder,0.010699999999999932,0.5455,0.5348
 2025-02-19 10:35:07.752523,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Over 53.5,0.010699999999999932,0.5455,0.5348
+2025-02-19 10:35:09.752094,Tournament Match-Ups - Tournament Match-Up - S. Ryder v B. Silverman - Tournament Match-Up,Sam Ryder,0.010699999999999932,0.5455,0.5348
+2025-02-19 15:31:47.485551,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
 2025-02-19 10:35:09.747910,Tournament Match-Ups - Tournament Match-Up - R. Hoey v C. Young - Tournament Match-Up,Rico Hoey,0.010699999999999932,0.5455,0.5348
 2025-02-19 10:35:09.730931,Tournament Match-Ups - Tournament Match-Up - J. Bridgeman v J. Highsmith - Tournament Match-Up,Joe Highsmith,0.010699999999999932,0.5455,0.5348
 2025-02-19 10:35:09.756264,Tournament Match-Ups - Tournament Match-Up - V. Norrman v C. Gotterup - Tournament Match-Up,Chris Gotterup,0.010699999999999932,0.5455,0.5348

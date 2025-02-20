@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-19 20:31:09.818605,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Callum Smith,0.024500000000000022,0.4167,0.3922
 2025-02-20 04:33:37.278900,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Smalley / D. Lipsky / KH Lee - 1st Round 3 Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
 2025-02-20 04:33:37.295628,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / C. Gotterup / M. Wallace - 1st Round 3 Balls,Matt Wallace,0.02360000000000001,0.4082,0.3846
+2025-02-20 07:27:44.150352,Boxing Lines - Tenshin Nasukawa vs Jason Moloney - To Win the Bout,Tenshin Nasukawa,0.022800000000000042,0.7561,0.7333
 2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Erik Van Rooyen,0.021699999999999997,0.4762,0.4545
 2025-02-20 04:33:37.312289,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Kurt Kitayama,0.02169999999999994,0.5455,0.5238
 2025-02-20 04:33:37.371157,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Baddeley / C. Young / L. Griffin - 1st Round 3 Balls,Carson Young,0.019699999999999995,0.4545,0.4348
@@ -22,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 05:32:17.196302,Round Match-Ups - 1st Round Match-Ups - D. Riley v M. McCarty - 1st Round Match-Ups,Matt McCarty,0.014800000000000035,0.6226,0.6078
 2025-02-20 01:56:40.903557,Boxing Lines - Gor Yeritsyan vs Luis Hernandez Ramos - To Win the Bout,Gor Yeritsyan,0.014100000000000001,0.9615,0.9474
 2025-02-20 01:56:37.694130,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,0.013999999999999999,0.0909,0.0769
+2025-02-20 07:27:44.137628,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Luis Nery,0.012899999999999912,0.8462,0.8333
 2025-02-19 20:31:09.772608,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.012199999999999989,0.5122,0.5
 2025-02-19 23:27:47.242547,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.011499999999999955,0.6667,0.6552
 2025-02-20 05:32:16.921552,Boxing Lines - Junto Nakatani vs David Cuellar Contreras - To Win the Bout,Junto Nakatani,0.011099999999999999,0.9,0.8889
@@ -33,10 +35,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 04:33:37.278900,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Smalley / D. Lipsky / KH Lee - 1st Round 3 Balls,K H Lee,-0.01150000000000001,0.3333,0.3448
 2025-02-19 23:27:47.251124,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.0116,0.4762,0.4878
 2025-02-20 04:33:37.287206,Mexico Open - 2/3 Balls - 1st Round 3 Balls - C. Kim / J. Dahmen / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,-0.011699999999999988,0.274,0.2857
-2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Rico Hoey,-0.012299999999999978,0.3448,0.3571
 2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Trey Mullinax,-0.012299999999999978,0.3448,0.3571
+2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Rico Hoey,-0.012299999999999978,0.3448,0.3571
 2025-02-20 04:33:37.295628,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / C. Gotterup / M. Wallace - 1st Round 3 Balls,Chris Gotterup,-0.012699999999999989,0.3509,0.3636
 2025-02-20 04:33:37.274647,Mexico Open - 2/3 Balls - 1st Round 3 Balls - G. Sigg / R. Hisatsune / S. Ryder - 1st Round 3 Balls,Sam Ryder,-0.012699999999999989,0.3509,0.3636
+2025-02-20 07:27:44.146087,Boxing Lines - Junto Nakatani vs David Cuellar Contreras - To Win the Bout,David Cuellar Contreras,-0.012899999999999995,0.1538,0.1667
+2025-02-20 07:27:44.137628,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,-0.0131,0.2222,0.2353
 2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Rafael Campos,-0.01319999999999999,0.25,0.2632
 2025-02-19 23:27:47.246852,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.013799999999999923,0.6226,0.6364
 2025-02-19 23:27:47.509182,Mexico Open - 2/3 Balls - 1st Round 3 Balls - H. Buckley / J.C. Islas / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.016699999999999937,0.5833,0.6
@@ -47,11 +51,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-19 20:31:09.782992,Boxing Lines - Demichael Harris vs Anthony Cuba - To Win the Bout,Demichael Harris,-0.019499999999999962,0.6296,0.6491
 2025-02-20 05:32:17.217529,Round Match-Ups - 1st Round Match-Ups - P. Kizzire v F. Molinari - 1st Round Match-Ups,Francesco Molinari,-0.019699999999999995,0.4348,0.4545
 2025-02-20 01:56:40.903557,Boxing Lines - Gor Yeritsyan vs Luis Hernandez Ramos - To Win the Bout,Luis Hernandez Ramos,-0.02020000000000001,0.0909,0.1111
-2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Luke List,-0.02100000000000002,0.3636,0.3846
 2025-02-20 04:33:37.287206,Mexico Open - 2/3 Balls - 1st Round 3 Balls - C. Kim / J. Dahmen / T. Montgomery - 1st Round 3 Balls,Joel Dahmen,-0.02100000000000002,0.3636,0.3846
+2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Luke List,-0.02100000000000002,0.3636,0.3846
 2025-02-19 20:31:09.787309,Boxing Lines - Emiliano Moreno vs Cesar Francis - To Win the Bout,Emiliano Moreno,-0.022199999999999998,0.7778,0.8
 2025-02-19 20:31:09.818605,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,-0.02300000000000002,0.6491,0.6721
 2025-02-19 23:27:47.500558,Mexico Open - 2/3 Balls - 1st Round 3 Balls - M. Watkins / M. McGreevy / R. Gerard - 1st Round 3 Balls,Ryan Gerard,-0.023799999999999988,0.4762,0.5
+2025-02-20 07:27:44.150352,Boxing Lines - Tenshin Nasukawa vs Jason Moloney - To Win the Bout,Jason Moloney,-0.02560000000000001,0.3077,0.3333
 2025-02-19 21:27:38.954697,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Darius Garland (CLE),-0.028199999999999996,0.0385,0.0667
 2025-02-19 21:27:38.954697,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Tyrese Maxey (PHI),-0.0407,0.0769,0.1176
 2025-02-20 01:56:37.988221,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.050000000000000044,0.75,0.8

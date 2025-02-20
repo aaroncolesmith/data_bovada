@@ -1,14 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Akie Iwai,0.16219999999999998,0.1818,0.0196
-2025-02-20 08:35:31.976379,Conference Winners - Big 10 Conference - Big 10 2025 Conference Winner,Michigan,0.05859999999999999,0.0909,0.0323
 2025-02-20 08:35:31.980890,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,Cincinnati,0.05859999999999999,0.0909,0.0323
+2025-02-20 08:35:31.976379,Conference Winners - Big 10 Conference - Big 10 2025 Conference Winner,Michigan,0.05859999999999999,0.0909,0.0323
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Maja Stark,0.056799999999999996,0.0667,0.0099
 2025-02-20 01:56:37.694130,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,0.05550000000000002,0.2222,0.1667
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,0.04760000000000003,0.5238,0.4762
 2025-02-20 01:56:37.988221,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,0.03570000000000001,0.2857,0.25
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,0.03179999999999994,0.5556,0.5238
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Moriya Jutanugarn,0.030500000000000003,0.0345,0.004
 2025-02-20 04:33:37.287206,Mexico Open - 2/3 Balls - 1st Round 3 Balls - C. Kim / J. Dahmen / T. Montgomery - 1st Round 3 Balls,Chan Kim,0.029000000000000026,0.4545,0.4255
-2025-02-19 23:27:47.509182,Mexico Open - 2/3 Balls - 1st Round 3 Balls - H. Buckley / J.C. Islas / T. Olesen - 1st Round 3 Balls,Hayden Buckley,0.028500000000000025,0.3226,0.2941
-2025-02-19 23:27:47.500558,Mexico Open - 2/3 Balls - 1st Round 3 Balls - M. Watkins / M. McGreevy / R. Gerard - 1st Round 3 Balls,Max McGreevy,0.027700000000000002,0.4444,0.4167
+2025-02-20 12:53:29.490970,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.027999999999999997,0.1818,0.1538
+2025-02-20 12:53:32.593205,Mexico Open - 2/3 Balls - 1st Round 3 Balls - D. Riley / E. Grillo / M. McCarty - 1st Round 3 Balls,Emiliano Grillo,0.025499999999999967,0.4255,0.4
 2025-02-20 10:35:09.037259,Scores - 1st Round Score - Kevin Yu - 1st Round Score,Under 68.5,0.023799999999999988,0.5,0.4762
 2025-02-20 04:33:37.278900,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Smalley / D. Lipsky / KH Lee - 1st Round 3 Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
 2025-02-20 04:33:37.295628,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / C. Gotterup / M. Wallace - 1st Round 3 Balls,Matt Wallace,0.02360000000000001,0.4082,0.3846
@@ -17,22 +19,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Erik Van Rooyen,0.021699999999999997,0.4762,0.4545
 2025-02-20 04:33:37.312289,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Kurt Kitayama,0.02169999999999994,0.5455,0.5238
 2025-02-20 10:35:09.354680,Tournament Match-Ups - Tournament Matchups - S. Jaeger v M. Kim - Requests,Stephan Jaeger,0.02169999999999994,0.5455,0.5238
+2025-02-20 12:53:32.804406,Round Match-Ups - 1st Round Match-Ups - J. Lower vs T. Olesen - 1st Round Match-Ups,Justin Lower,0.02169999999999994,0.5455,0.5238
 2025-02-20 10:35:08.345632,Player Props - Texas Rangers - 2025 Regular Season Player Props - Jacob deGrom ERA,Under 3.05,0.02079999999999993,0.5556,0.5348
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Angel Yin,0.0203,0.0588,0.0385
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Jin Young Ko,0.02020000000000001,0.1111,0.0909
-2025-02-20 10:35:07.015204,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Over 53.5,0.01970000000000005,0.5652,0.5455
 2025-02-20 11:26:09.991425,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Kurt Kitayama,0.01970000000000005,0.5652,0.5455
+2025-02-20 10:35:07.015204,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Over 53.5,0.01970000000000005,0.5652,0.5455
 2025-02-20 04:33:37.371157,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Baddeley / C. Young / L. Griffin - 1st Round 3 Balls,Carson Young,0.019699999999999995,0.4545,0.4348
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Nanna Koertz Madsen,0.019099999999999995,0.0435,0.0244
-2025-02-19 23:27:47.246852,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.018900000000000028,0.4444,0.4255
-2025-02-19 23:27:47.911841,Kenya Open - Kenya Open - Winner,Joe Dean,0.018099999999999998,0.0526,0.0345
-2025-02-19 23:27:47.251124,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.017299999999999982,0.5917,0.5744
 2025-02-20 04:33:37.274647,Mexico Open - 2/3 Balls - 1st Round 3 Balls - G. Sigg / R. Hisatsune / S. Ryder - 1st Round 3 Balls,Greyson Sigg,0.016699999999999993,0.4167,0.4
 2025-02-20 05:32:17.217529,Round Match-Ups - 1st Round Match-Ups - P. Kizzire v F. Molinari - 1st Round Match-Ups,Patton Kizzire,0.016100000000000003,0.6078,0.5917
 2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Justin Lower,0.015400000000000025,0.4,0.3846
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,0.015400000000000025,0.4,0.3846
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Jin Hee Im,0.015300000000000001,0.0476,0.0323
-2025-02-20 05:32:17.196302,Round Match-Ups - 1st Round Match-Ups - D. Riley v M. McCarty - 1st Round Match-Ups,Matt McCarty,0.014800000000000035,0.6226,0.6078
 2025-02-20 10:35:09.012920,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 68.5,0.014800000000000035,0.6226,0.6078
+2025-02-20 05:32:17.196302,Round Match-Ups - 1st Round Match-Ups - D. Riley v M. McCarty - 1st Round Match-Ups,Matt McCarty,0.014800000000000035,0.6226,0.6078
 2025-02-20 01:56:40.903557,Boxing Lines - Gor Yeritsyan vs Luis Hernandez Ramos - To Win the Bout,Gor Yeritsyan,0.014100000000000001,0.9615,0.9474
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Ayaka Furue,0.014100000000000001,0.0526,0.0385
 2025-02-20 01:56:37.694130,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,0.013999999999999999,0.0909,0.0769
@@ -44,13 +45,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 10:35:09.027552,Scores - 1st Round Score - Harry Hall - 1st Round Score,Under 68.5,0.012199999999999989,0.5122,0.5
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Yuka Saso,0.011699999999999999,0.0196,0.0079
 2025-02-20 11:26:09.873338,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.0116,0.4878,0.4762
-2025-02-19 23:27:47.242547,Boxing Lines - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.011499999999999955,0.6667,0.6552
 2025-02-20 05:32:16.921552,Boxing Lines - Junto Nakatani vs David Cuellar Contreras - To Win the Bout,Junto Nakatani,0.011099999999999999,0.9,0.8889
+2025-02-20 12:53:29.490970,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,0.011099999999999999,0.1111,0.1
 2025-02-20 10:35:08.933135,Round Match-Ups - 1st Round Match-Ups - K. Kitayama vs T. Moore - 1st Round Match-Ups,Kurt Kitayama,0.01100000000000001,0.5348,0.5238
 2025-02-20 08:35:31.980890,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,Arizona State,0.010899999999999993,0.1538,0.1429
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Hye Jin Choi,0.010700000000000001,0.0385,0.0278
 2025-02-20 10:35:09.057291,Scores - 1st Round Score - Patrick Rodgers - 1st Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
 2025-02-20 09:31:02.475896,To Record the Most RBIs - Player To Record the Most RBIs - 2025 Regular Season - Player To Record the Most RBIs,Matt Olson (ATL),0.0102,0.0769,0.0667
+2025-02-20 12:53:33.215396,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Maja Stark,0.0102,0.0769,0.0667
+2025-02-20 12:53:32.584394,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Bridgeman / R. Palmer / T. McCumber - 1st Round 3 Balls,Jacob Bridgeman,0.010099999999999998,0.5556,0.5455
 2025-02-20 04:33:37.312289,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Patton Kizzire,-0.010099999999999998,0.3125,0.3226
 2025-02-20 10:35:09.012920,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.010099999999999998,0.4444,0.4545
 2025-02-20 11:26:09.991425,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Francesco Molinari,-0.010399999999999993,0.2222,0.2326
@@ -58,49 +61,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-20 08:35:31.976379,Conference Winners - Big 10 Conference - Big 10 2025 Conference Winner,Nebraska,-0.010899999999999993,0.1429,0.1538
 2025-02-20 10:35:09.057291,Scores - 1st Round Score - Patrick Rodgers - 1st Round Score,Over 68.5,-0.01100000000000001,0.5238,0.5348
 2025-02-20 04:33:37.278900,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Smalley / D. Lipsky / KH Lee - 1st Round 3 Balls,David Lipsky,-0.011099999999999999,0.2667,0.2778
-2025-02-19 23:27:47.221517,Boxing Lines - George Arias vs Helaman Olguin - To Win the Bout,Helaman Olguin,-0.011099999999999999,0.1,0.1111
 2025-02-20 08:35:32.089204,Boxing Lines - Koby Khalil Williams vs Nicholas Isaac - To Win the Bout,Koby Khalil Williams,-0.011499999999999955,0.6552,0.6667
 2025-02-20 04:33:37.278900,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Smalley / D. Lipsky / KH Lee - 1st Round 3 Balls,K H Lee,-0.01150000000000001,0.3333,0.3448
-2025-02-19 23:27:47.251124,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.0116,0.4762,0.4878
 2025-02-20 10:35:08.933135,Round Match-Ups - 1st Round Match-Ups - K. Kitayama vs T. Moore - 1st Round Match-Ups,Taylor Moore,-0.011600000000000055,0.5122,0.5238
+2025-02-20 12:53:32.584394,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Bridgeman / R. Palmer / T. McCumber - 1st Round 3 Balls,Ryan Palmer,-0.011699999999999988,0.274,0.2857
 2025-02-20 04:33:37.287206,Mexico Open - 2/3 Balls - 1st Round 3 Balls - C. Kim / J. Dahmen / T. Montgomery - 1st Round 3 Balls,Taylor Montgomery,-0.011699999999999988,0.274,0.2857
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Chisato Iwai,-0.0118,0.0099,0.0217
 2025-02-20 10:35:08.158003,Player Props - Pittsburgh Pirates - 2025 Regular Season Player Props - Paul Skenes Total Strikeouts,Over 212.5,-0.012199999999999989,0.5,0.5122
-2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Rico Hoey,-0.012299999999999978,0.3448,0.3571
 2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Trey Mullinax,-0.012299999999999978,0.3448,0.3571
+2025-02-20 04:33:37.366989,Mexico Open - 2/3 Balls - 1st Round 3 Balls - J. Lower / R. Hoey / T. Mullinax - 1st Round 3 Balls,Rico Hoey,-0.012299999999999978,0.3448,0.3571
 2025-02-20 04:33:37.274647,Mexico Open - 2/3 Balls - 1st Round 3 Balls - G. Sigg / R. Hisatsune / S. Ryder - 1st Round 3 Balls,Sam Ryder,-0.012699999999999989,0.3509,0.3636
 2025-02-20 04:33:37.295628,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / C. Gotterup / M. Wallace - 1st Round 3 Balls,Chris Gotterup,-0.012699999999999989,0.3509,0.3636
-2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Patty Tavatanakit,-0.012700000000000003,0.0196,0.0323
 2025-02-20 08:35:31.976379,Conference Winners - Big 10 Conference - Big 10 2025 Conference Winner,Rutgers,-0.012700000000000003,0.0196,0.0323
+2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Patty Tavatanakit,-0.012700000000000003,0.0196,0.0323
 2025-02-20 07:27:44.146087,Boxing Lines - Junto Nakatani vs David Cuellar Contreras - To Win the Bout,David Cuellar Contreras,-0.012899999999999995,0.1538,0.1667
 2025-02-20 07:27:44.137628,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,-0.0131,0.2222,0.2353
 2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Rafael Campos,-0.01319999999999999,0.25,0.2632
-2025-02-19 23:27:47.246852,Boxing Lines - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.013799999999999923,0.6226,0.6364
 2025-02-20 09:31:02.475896,To Record the Most RBIs - Player To Record the Most RBIs - 2025 Regular Season - Player To Record the Most RBIs,Fernando Tatis Jr. (SD),-0.014099999999999994,0.0526,0.0667
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Nataliya Guseva,-0.0142,0.001,0.0152
 2025-02-20 09:31:02.575738,Boxing Lines - Seiya Tsutsumi vs Daigo Higa - To Win the Bout,Seiya Tsutsumi,-0.014700000000000046,0.75,0.7647
-2025-02-19 23:27:47.509182,Mexico Open - 2/3 Balls - 1st Round 3 Balls - H. Buckley / J.C. Islas / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,-0.016699999999999937,0.5833,0.6
 2025-02-20 11:26:09.873338,Boxing Lines - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,-0.017299999999999982,0.5744,0.5917
 2025-02-20 04:33:37.371157,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Baddeley / C. Young / L. Griffin - 1st Round 3 Balls,Lanto Griffin,-0.017299999999999982,0.4082,0.4255
 2025-02-20 04:33:37.312289,Mexico Open - 2/3 Balls - 1st Round 3 Balls - F. Molinari / K. Kitayama / P. Kizzire - 1st Round 3 Balls,Francesco Molinari,-0.0174,0.2326,0.25
 2025-02-20 04:33:37.295628,Mexico Open - 2/3 Balls - 1st Round 3 Balls - A. Svensson / C. Gotterup / M. Wallace - 1st Round 3 Balls,Adam Svensson,-0.017600000000000005,0.3333,0.3509
 2025-02-20 05:32:17.196302,Round Match-Ups - 1st Round Match-Ups - D. Riley v M. McCarty - 1st Round Match-Ups,Davis Riley,-0.018100000000000005,0.4167,0.4348
-2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Brooke Henderson,-0.0189,0.0196,0.0385
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Linn Grant,-0.0189,0.0196,0.0385
+2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Brooke Henderson,-0.0189,0.0196,0.0385
 2025-02-20 05:32:17.217529,Round Match-Ups - 1st Round Match-Ups - P. Kizzire v F. Molinari - 1st Round Match-Ups,Francesco Molinari,-0.019699999999999995,0.4348,0.4545
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Sei Young Kim,-0.019800000000000005,0.0278,0.0476
 2025-02-20 01:56:40.903557,Boxing Lines - Gor Yeritsyan vs Luis Hernandez Ramos - To Win the Bout,Luis Hernandez Ramos,-0.02020000000000001,0.0909,0.1111
+2025-02-20 12:53:29.490970,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,-0.02020000000000001,0.0909,0.1111
 2025-02-20 04:33:37.287206,Mexico Open - 2/3 Balls - 1st Round 3 Balls - C. Kim / J. Dahmen / T. Montgomery - 1st Round 3 Balls,Joel Dahmen,-0.02100000000000002,0.3636,0.3846
 2025-02-20 04:33:37.404433,Mexico Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / L. List / R. Campos - 1st Round 3 Balls,Luke List,-0.02100000000000002,0.3636,0.3846
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Lauren Coughlin,-0.022400000000000003,0.0099,0.0323
+2025-02-20 12:53:32.593205,Mexico Open - 2/3 Balls - 1st Round 3 Balls - D. Riley / E. Grillo / M. McCarty - 1st Round 3 Balls,Matt McCarty,-0.02260000000000001,0.3774,0.4
 2025-02-20 10:35:08.345632,Player Props - Texas Rangers - 2025 Regular Season Player Props - Jacob deGrom ERA,Over 3.05,-0.022600000000000064,0.5122,0.5348
-2025-02-19 23:27:47.500558,Mexico Open - 2/3 Balls - 1st Round 3 Balls - M. Watkins / M. McGreevy / R. Gerard - 1st Round 3 Balls,Ryan Gerard,-0.023799999999999988,0.4762,0.5
+2025-02-20 12:53:32.804406,Round Match-Ups - 1st Round Match-Ups - J. Lower vs T. Olesen - 1st Round Match-Ups,Thorbjorn Olesen,-0.023800000000000043,0.5,0.5238
 2025-02-20 10:35:07.015204,Regular Season Wins - Chicago White Sox Wins - 2025 Regular Season - Regular Season Wins,Under 53.5,-0.023800000000000043,0.5,0.5238
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.025499999999999967,0.4,0.4255
 2025-02-20 07:27:44.150352,Boxing Lines - Tenshin Nasukawa vs Jason Moloney - To Win the Bout,Jason Moloney,-0.02560000000000001,0.3077,0.3333
+2025-02-20 12:53:29.490970,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,-0.02560000000000001,0.3077,0.3333
 2025-02-20 10:35:09.037259,Scores - 1st Round Score - Kevin Yu - 1st Round Score,Over 68.5,-0.026499999999999968,0.5652,0.5917
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Ruoning Yin,-0.028199999999999996,0.0385,0.0667
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Lilia Vu,-0.029,0.0033,0.0323
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,-0.03640000000000004,0.3636,0.4
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Jeeno Thitikul,-0.03889999999999999,0.1429,0.1818
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Celine Boutier,-0.0436,0.0152,0.0588
+2025-02-20 12:53:29.487352,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,-0.044399999999999995,0.5556,0.6
 2025-02-20 01:56:37.988221,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,-0.050000000000000044,0.75,0.8
 2025-02-20 08:35:32.872756,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Haeran Ryu,-0.06699999999999999,0.0099,0.0769

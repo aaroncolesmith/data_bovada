@@ -1,164 +1,122 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Angel Yin,0.5,0.75,0.25
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Jacques Kruyswijk,0.4373,0.4651,0.0278
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.1447,0.2985,0.1538
-2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.08330000000000001,0.25,0.1667
 2025-02-22 10:34:39.543819,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.08330000000000001,0.25,0.1667
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.08329999999999999,0.3333,0.25
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,0.06670000000000004,0.4,0.3333
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.06670000000000004,0.4,0.3333
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.06659999999999999,0.9333,0.8667
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.06209999999999993,0.9852,0.9231
-2025-02-22 09:28:20.701913,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.0615,0.8948,0.8333
+2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.08330000000000001,0.25,0.1667
 2025-02-22 10:34:42.528175,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,TCU,0.05710000000000001,0.2,0.1429
 2025-02-22 10:34:42.532756,Conference Winners - Big West Conference  - Big West 2025 Conference Winner,Hawai'i,0.05559999999999998,0.1667,0.1111
 2025-02-22 10:34:42.537482,Conference Winners - Conference USA - Conference USA 2025 Winner,Sam Houston,0.048600000000000004,0.1111,0.0625
 2025-02-22 10:34:39.747882,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,0.048100000000000004,0.125,0.0769
-2025-02-22 09:28:20.672743,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,David Raya,0.048099999999999976,0.4255,0.3774
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Deon Germishuys,0.047799999999999995,0.0588,0.011
 2025-02-22 10:34:42.791488,Mexico Open - 2/3 Balls - 3rd Round 3-Balls - P. Rodgers / J. Pak / H. Springer - 3rd Round 3-Balls,Patrick Rodgers,0.045499999999999985,0.5455,0.5
 2025-02-22 13:29:00.456718,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,0.044399999999999995,0.4444,0.4
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.04169999999999996,0.875,0.8333
-2025-02-22 09:28:20.698216,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,0.04039999999999999,0.8182,0.7778
 2025-02-22 16:33:09.345929,Elite Boxing - Carlos Adames vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.03750000000000009,0.7778,0.7403
 2025-02-22 12:48:15.842642,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.03639999999999999,0.6364,0.6
 2025-02-22 16:33:09.341784,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.03600000000000003,0.5238,0.4878
-2025-02-22 09:28:21.287744,Trump Policy Specials - Classified Documents - Will Trump declassify Epstein list in first 100 days?,Yes,0.03259999999999996,0.6552,0.6226
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,0.031399999999999983,0.2667,0.2353
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,0.029899999999999982,0.2299,0.2
 2025-02-22 16:33:09.354331,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.029600000000000015,0.4,0.3704
 2025-02-22 10:34:42.842802,Mexico Open - 2/3 Balls - 3rd Round 3-Balls - S. Piercy / H. Higgs / D. Walker - 3rd Round 3-Balls,Harry Higgs,0.028600000000000014,0.3922,0.3636
 2025-02-22 10:34:42.542022,Conference Winners - Southeastern Conference - 2025 - SEC 2025 Conference Winner,Tennessee,0.027999999999999997,0.1818,0.1538
 2025-02-22 15:28:07.342399,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Under 67.5,0.026499999999999968,0.5917,0.5652
 2025-02-22 16:33:09.333470,Elite Boxing - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.025600000000000067,0.6923,0.6667
 2025-02-22 10:34:39.546784,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,0.025499999999999967,0.4255,0.4
-2025-02-22 09:28:23.514526,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.024399999999999977,0.5122,0.4878
 2025-02-22 10:34:42.518880,Conference Winners - Atlantic Coast Conference - ACC 2025 Conference Winner,North Carolina,0.023799999999999988,0.1667,0.1429
-2025-02-22 09:28:20.625646,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.022199999999999998,0.2222,0.2
 2025-02-22 10:34:39.735542,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.021999999999999964,0.3077,0.2857
 2025-02-22 10:34:42.890047,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs P. Rodgers - 3rd Round Match-Ups,Patrick Rodgers,0.021699999999999997,0.4762,0.4545
-2025-02-22 10:34:42.860563,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Joe Highsmith,0.02169999999999994,0.5455,0.5238
 2025-02-22 17:30:30.185631,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.02169999999999994,0.5455,0.5238
+2025-02-22 10:34:42.860563,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Joe Highsmith,0.02169999999999994,0.5455,0.5238
 2025-02-22 10:34:39.796559,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.02100000000000002,0.3846,0.3636
-2025-02-22 09:28:20.676242,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,0.020299999999999985,0.9615,0.9412
-2025-02-22 10:34:42.915231,Round Match-Ups - 3rd Round Match-Ups - A. Potgieter vs B. Griffin - 3rd Round Match-Ups,Ben Griffin,0.01970000000000005,0.5652,0.5455
 2025-02-22 14:29:43.817344,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Joe Highsmith,0.01970000000000005,0.5652,0.5455
-2025-02-22 09:28:20.676242,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mikkel Damsgaard,0.0189,0.0385,0.0196
+2025-02-22 10:34:42.915231,Round Match-Ups - 3rd Round Match-Ups - A. Potgieter vs B. Griffin - 3rd Round Match-Ups,Ben Griffin,0.01970000000000005,0.5652,0.5455
 2025-02-22 10:34:39.711125,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,0.018799999999999983,0.3636,0.3448
-2025-02-22 09:28:20.625646,Ligue 2 - France Ligue 2 2024/25 - Outright,USL Dunkerque,0.01820000000000002,0.2,0.1818
 2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.018199999999999994,0.8182,0.8
-2025-02-22 14:29:43.565764,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.018100000000000005,0.661,0.6429
 2025-02-22 12:48:15.861875,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.018100000000000005,0.661,0.6429
+2025-02-22 14:29:43.565764,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.018100000000000005,0.661,0.6429
 2025-02-22 13:29:00.456718,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Rams,0.0179,0.1429,0.125
+2025-02-22 22:30:38.409132,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Kansas City Chiefs,0.0179,0.1429,0.125
 2025-02-22 16:33:09.380616,Boxing Lines - Seiya Tsutsumi vs Daigo Higa - To Win the Bout,Daigo Higa,0.017299999999999982,0.303,0.2857
-2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.016699999999999993,0.4167,0.4
-2025-02-22 17:30:30.198090,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.016699999999999993,0.4167,0.4
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,0.016699999999999993,0.2667,0.25
 2025-02-22 10:34:39.766381,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,0.016699999999999993,0.2667,0.25
+2025-02-22 17:30:30.198090,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.016699999999999993,0.4167,0.4
+2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.016699999999999993,0.4167,0.4
 2025-02-22 14:29:43.840625,Round Match-Ups - 3rd Round Match-Ups - A. Smalley vs T. Kanaya - 3rd Round Match-Ups,Alex Smalley,0.016699999999999937,0.6,0.5833
 2025-02-22 10:34:39.782687,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Palestino,0.016600000000000004,0.0833,0.0667
 2025-02-22 15:28:07.030583,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.01639999999999997,0.6774,0.661
 2025-02-22 13:29:02.557607,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.015400000000000025,0.4,0.3846
-2025-02-22 09:28:20.465784,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Arnaud Kalimuendo (Rennes),0.014099999999999998,0.0435,0.0294
+2025-02-22 22:30:38.095032,31st SAG Awards - SAG Awards - Best Actress - Best Actress,Cynthia Erivo - Wicked,0.014899999999999997,0.0625,0.0476
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Marcel Schneider,0.0139,0.0196,0.0057
 2025-02-22 10:34:42.518880,Conference Winners - Atlantic Coast Conference - ACC 2025 Conference Winner,Clemson,0.013899999999999996,0.125,0.1111
 2025-02-22 21:27:26.285453,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.013800000000000034,0.3774,0.3636
-2025-02-22 15:28:07.013873,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.013299999999999979,0.6429,0.6296
 2025-02-22 20:28:33.256327,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.013299999999999979,0.6429,0.6296
+2025-02-22 15:28:07.013873,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,0.013299999999999979,0.6429,0.6296
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Patty Tavatanakit,0.013,0.0196,0.0066
 2025-02-22 10:34:42.528175,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,Arizona State,0.012899999999999995,0.1667,0.1538
 2025-02-22 21:27:28.237847,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.012199999999999989,0.5122,0.5
 2025-02-22 14:29:43.570363,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.012199999999999989,0.5122,0.5
-2025-02-22 09:28:20.682792,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,0.011099999999999999,0.1111,0.1
 2025-02-22 10:34:42.933393,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Under 68.5,0.01100000000000001,0.5348,0.5238
 2025-02-22 10:34:39.773159,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Estudiantes LP,0.010899999999999993,0.1538,0.1429
+2025-02-22 16:33:09.358592,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
 2025-02-22 10:34:39.717118,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.010699999999999932,0.5455,0.5348
 2025-02-22 10:34:42.635096,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
-2025-02-22 16:33:09.358592,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
 2025-02-22 16:33:09.368132,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,0.010499999999999982,0.2105,0.2
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Haotong Li,0.0103,0.0123,0.002
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,0.0102,0.0769,0.0667
 2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Mönchengladbach,0.0102,0.0769,0.0667
-2025-02-22 15:28:07.018069,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.010099999999999998,0.5556,0.5455
 2025-02-22 18:34:23.346865,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.010099999999999998,0.5556,0.5455
+2025-02-22 15:28:07.018069,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.010099999999999998,0.5556,0.5455
 2025-02-22 14:29:43.840625,Round Match-Ups - 3rd Round Match-Ups - A. Smalley vs T. Kanaya - 3rd Round Match-Ups,Takumi Kanaya,-0.010099999999999998,0.4444,0.4545
 2025-02-22 10:34:39.543819,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.0102,0.0667,0.0769
 2025-02-22 17:30:30.211393,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,-0.010499999999999982,0.2,0.2105
+2025-02-22 10:34:42.933393,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Over 68.5,-0.010699999999999932,0.5348,0.5455
 2025-02-22 21:27:28.237847,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.010699999999999932,0.5348,0.5455
 2025-02-22 14:29:43.570363,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.010699999999999932,0.5348,0.5455
-2025-02-22 10:34:42.933393,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Over 68.5,-0.010699999999999932,0.5348,0.5455
 2025-02-22 10:34:39.546784,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,-0.010899999999999993,0.1429,0.1538
 2025-02-22 10:34:42.528175,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,West Virginia,-0.011099999999999999,0.1,0.1111
-2025-02-22 09:28:20.666050,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.011199999999999995,0.0476,0.0588
-2025-02-22 09:28:20.676242,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kevin de Bruyne,-0.012100000000000001,0.0123,0.0244
-2025-02-22 10:34:42.635096,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.5,0.5122
 2025-02-22 18:34:23.346865,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.4878,0.5
 2025-02-22 16:33:09.358592,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.5,0.5122
 2025-02-22 15:28:07.018069,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.4878,0.5
+2025-02-22 10:34:42.635096,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.5,0.5122
 2025-02-22 10:34:39.791989,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,-0.012799999999999978,0.2857,0.2985
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Chanettee Wannasaen,-0.0131,0.0033,0.0164
-2025-02-22 09:28:20.676242,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Antonee Robinson,-0.0131,0.0345,0.0476
 2025-02-22 16:33:09.380616,Boxing Lines - Seiya Tsutsumi vs Daigo Higa - To Win the Bout,Seiya Tsutsumi,-0.0131,0.7647,0.7778
-2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.013299999999999979,0.6296,0.6429
 2025-02-22 17:30:30.198090,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,-0.013299999999999979,0.6296,0.6429
+2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.013299999999999979,0.6296,0.6429
 2025-02-22 10:34:39.543819,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.013799999999999923,0.6226,0.6364
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.013899999999999996,0.1111,0.125
 2025-02-22 10:34:42.528175,Conference Winners - Big 12 Conference - Big 12 2025 Conference Winner,Texas Tech,-0.013899999999999996,0.1111,0.125
 2025-02-22 10:34:39.747882,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.013999999999999999,0.0769,0.0909
 2025-02-22 10:34:39.543819,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,-0.014000000000000012,0.9091,0.9231
-2025-02-22 09:28:20.676242,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Bukayo Saka,-0.014099999999999998,0.0244,0.0385
 2025-02-22 15:28:07.030583,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,-0.01419999999999999,0.3704,0.3846
 2025-02-22 10:34:42.791488,Mexico Open - 2/3 Balls - 3rd Round 3-Balls - P. Rodgers / J. Pak / H. Springer - 3rd Round 3-Balls,John Pak,-0.01469999999999999,0.2353,0.25
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Chisato Iwai,-0.015100000000000002,0.0013,0.0164
-2025-02-22 14:29:43.565764,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,-0.015400000000000025,0.3846,0.4
-2025-02-22 09:28:20.625646,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.015400000000000025,0.3846,0.4
 2025-02-22 10:34:39.492847,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.015400000000000025,0.3846,0.4
+2025-02-22 14:29:43.565764,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,-0.015400000000000025,0.3846,0.4
 2025-02-22 12:48:15.861875,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,-0.015400000000000025,0.3846,0.4
-2025-02-22 09:28:20.682792,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Ipswich Town,-0.016600000000000004,0.0667,0.0833
-2025-02-22 15:28:07.013873,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.016699999999999993,0.4,0.4167
 2025-02-22 20:28:33.256327,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,-0.016699999999999993,0.4,0.4167
+2025-02-22 15:28:07.013873,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.016699999999999993,0.4,0.4167
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Adrien Saddier,-0.0168,0.0217,0.0385
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Linn Grant,-0.017599999999999998,0.002,0.0196
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Moriya Jutanugarn,-0.018099999999999998,0.0588,0.0769
 2025-02-22 10:34:42.890047,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs P. Rodgers - 3rd Round Match-Ups,Akshay Bhatia,-0.018100000000000005,0.5652,0.5833
 2025-02-22 13:29:02.557607,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,-0.018100000000000005,0.6429,0.661
-2025-02-22 09:28:20.682792,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,-0.018100000000000005,0.9231,0.9412
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.018199999999999994,0.8,0.8182
-2025-02-22 09:28:20.625646,Ligue 2 - France Ligue 2 2024/25 - Outright,Annecy,-0.018200000000000004,0.0294,0.0476
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Hye Jin Choi,-0.0186,0.001,0.0196
 2025-02-22 10:34:42.842802,Mexico Open - 2/3 Balls - 3rd Round 3-Balls - S. Piercy / H. Higgs / D. Walker - 3rd Round 3-Balls,Scott Piercy,-0.018799999999999983,0.3448,0.3636
-2025-02-22 09:28:20.666050,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.018900000000000028,0.4255,0.4444
-2025-02-22 09:28:20.625646,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.019000000000000017,0.2667,0.2857
-2025-02-22 09:28:23.514526,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.02079999999999993,0.5348,0.5556
 2025-02-22 10:34:39.735542,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,-0.022199999999999998,0.1111,0.1333
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.022199999999999998,0.2,0.2222
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Esther Henseleit,-0.022400000000000003,0.0099,0.0323
 2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.02310000000000001,0.0769,0.1
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,-0.023200000000000002,0.0244,0.0476
-2025-02-22 14:29:43.817344,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Frankie Capan III,-0.023799999999999988,0.4762,0.5
-2025-02-22 10:34:42.915231,Round Match-Ups - 3rd Round Match-Ups - A. Potgieter vs B. Griffin - 3rd Round Match-Ups,Aldrich Potgieter,-0.023799999999999988,0.4762,0.5
 2025-02-22 15:28:07.342399,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
+2025-02-22 10:34:42.915231,Round Match-Ups - 3rd Round Match-Ups - A. Potgieter vs B. Griffin - 3rd Round Match-Ups,Aldrich Potgieter,-0.023799999999999988,0.4762,0.5
+2025-02-22 14:29:43.817344,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Frankie Capan III,-0.023799999999999988,0.4762,0.5
 2025-02-22 10:34:42.860563,Round Match-Ups - 3rd Round Match-Ups - J. Highsmith vs F. Capan - 3rd Round Match-Ups,Frankie Capan III,-0.023800000000000043,0.5,0.5238
-2025-02-22 09:28:20.465784,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),-0.023800000000000043,0.5,0.5238
 2025-02-22 17:30:30.185631,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.023800000000000043,0.5,0.5238
-2025-02-22 09:28:20.701913,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Cole Palmer (Chelsea),-0.0242,0.0667,0.0909
-2025-02-22 09:28:20.465784,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.02560000000000001,0.3077,0.3333
 2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.02560000000000001,0.3077,0.3333
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Ricardo Gouveia,-0.0265,0.0013,0.0278
 2025-02-22 16:33:09.333470,Elite Boxing - Joshua Buatsi vs Callum Smith - To Win the Bout,Callum Smith,-0.026500000000000024,0.3509,0.3774
 2025-02-22 10:34:42.791488,Mexico Open - 2/3 Balls - 3rd Round 3-Balls - P. Rodgers / J. Pak / H. Springer - 3rd Round 3-Balls,Hayden Springer,-0.02729999999999999,0.3175,0.3448
 2025-02-22 10:34:39.796559,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.029299999999999993,0.0476,0.0769
 2025-02-22 16:33:09.341784,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,-0.03179999999999994,0.5238,0.5556
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.033299999999999996,0.8,0.8333
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,-0.033399999999999985,0.8333,0.8667
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Connor Syme,-0.0335,0.005,0.0385
 2025-02-22 16:33:09.354331,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,-0.034499999999999975,0.6429,0.6774
-2025-02-22 09:28:21.287744,Trump Policy Specials - Classified Documents - Will Trump declassify Epstein list in first 100 days?,No,-0.03620000000000001,0.4082,0.4444
 2025-02-22 12:48:15.842642,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,-0.03620000000000001,0.4082,0.4444
 2025-02-22 10:34:39.735542,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.03640000000000004,0.3636,0.4
 2025-02-22 10:34:42.532756,Conference Winners - Big West Conference  - Big West 2025 Conference Winner,UC Irvine,-0.0378,0.4167,0.4545
 2025-02-22 10:34:39.543819,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.04099999999999998,0.2667,0.3077
-2025-02-22 09:28:20.698216,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.04269999999999999,0.1111,0.1538
 2025-02-22 10:34:42.532756,Conference Winners - Big West Conference  - Big West 2025 Conference Winner,UC Santa Barbara,-0.044399999999999995,0.4,0.4444
 2025-02-22 10:34:39.530052,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.045499999999999985,0.4545,0.5
 2025-02-22 10:34:40.615620,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,-0.052700000000000004,0.0526,0.1053
@@ -166,14 +124,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-22 16:33:09.345929,Elite Boxing - Carlos Adames vs Hamzah Sheeraz - To Win the Bout,Carlos Adames,-0.055900000000000005,0.2667,0.3226
 2025-02-22 10:34:42.518880,Conference Winners - Atlantic Coast Conference - ACC 2025 Conference Winner,Virginia,-0.057699999999999974,0.25,0.3077
 2025-02-22 10:34:42.537482,Conference Winners - Conference USA - Conference USA 2025 Winner,Western Kentucky,-0.0625,0.0625,0.125
-2025-02-22 09:28:20.692029,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.06820000000000001,0.1818,0.25
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.07619999999999999,0.4,0.4762
-2025-02-22 09:28:20.695166,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.08490000000000009,0.7333,0.8182
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Jayden Schaper,-0.093,0.0123,0.1053
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,John Parry,-0.12380000000000002,0.4,0.5238
 2025-02-22 10:34:40.615620,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.13330000000000003,0.2667,0.4
 2025-02-22 10:34:40.615620,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,-0.14139999999999997,0.5556,0.697
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Akie Iwai,-0.1428,0.1429,0.2857
 2025-02-22 15:28:07.389806,Kenya Open - Kenya Open - Winner,Benjamin Hebert,-0.15,0.1,0.25
-2025-02-22 09:28:20.511767,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.16020000000000006,0.3636,0.5238
 2025-02-22 10:34:43.004204,Honda LPGA Thailand - Honda LPGA Thailand - Winner,Jeeno Thitikul,-0.208,0.1429,0.3509

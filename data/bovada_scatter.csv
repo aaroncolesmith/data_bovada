@@ -1,17 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-23 02:02:25.498864,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.15910000000000002,0.9091,0.75
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Matteo Zuppi (Italy),0.07880000000000001,0.1111,0.0323
+2025-02-23 04:34:51.462596,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.07579999999999998,0.9091,0.8333
+2025-02-23 04:34:51.416916,League Two - England League Two 2024/25 - Winner,Walsall,0.06670000000000009,0.8,0.7333
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.0625,0.125,0.0625
+2025-02-23 04:34:51.353608,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,0.0573,0.0769,0.0196
 2025-02-23 02:02:25.368713,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.04040000000000002,0.2222,0.1818
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Raymond Burke (United States),0.0384,0.0769,0.0385
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Agostino Vallini (Italy),0.0384,0.0769,0.0385
-2025-02-22 16:33:09.345929,Elite Boxing - Carlos Adames vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.03750000000000009,0.7778,0.7403
-2025-02-22 16:33:09.341784,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,0.03600000000000003,0.5238,0.4878
 2025-02-23 02:02:25.368713,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.03489999999999999,0.5,0.4651
-2025-02-22 16:33:09.354331,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.029600000000000015,0.4,0.3704
 2025-02-22 23:26:38.255530,Next Pope Betting - Continent Of Next Pope - Continent Of Next Pope After Francis I,Asia,0.028700000000000003,0.2105,0.1818
+2025-02-23 04:34:51.462596,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.028200000000000003,0.9615,0.9333
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Turkson (Ghana),0.028000000000000004,0.0476,0.0196
-2025-02-22 16:33:09.333470,Elite Boxing - Joshua Buatsi vs Callum Smith - To Win the Bout,Joshua Buatsi,0.025600000000000067,0.6923,0.6667
 2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Peter,0.024,0.0625,0.0385
 2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,John Paul,0.023799999999999988,0.1667,0.1429
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),0.023799999999999988,0.1667,0.1429
@@ -20,28 +20,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-22 17:30:30.185631,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.02169999999999994,0.5455,0.5238
 2025-02-23 02:02:25.378122,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,0.018099999999999998,0.0769,0.0588
 2025-02-22 22:30:38.409132,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Kansas City Chiefs,0.0179,0.1429,0.125
-2025-02-22 16:33:09.380616,Boxing Lines - Seiya Tsutsumi vs Daigo Higa - To Win the Bout,Daigo Higa,0.017299999999999982,0.303,0.2857
-2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Zhilei Zhang,0.016699999999999993,0.4167,0.4
+2025-02-23 04:34:51.358510,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.016699999999999993,0.2667,0.25
 2025-02-22 17:30:30.198090,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Martin Bakole,0.016699999999999993,0.4167,0.4
-2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Pius,0.014899999999999997,0.0625,0.0476
 2025-02-22 22:30:38.095032,31st SAG Awards - SAG Awards - Best Actress - Best Actress,Cynthia Erivo - Wicked,0.014899999999999997,0.0625,0.0476
+2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Pius,0.014899999999999997,0.0625,0.0476
 2025-02-22 21:27:26.285453,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.013800000000000034,0.3774,0.3636
 2025-02-22 20:28:33.256327,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,0.013299999999999979,0.6429,0.6296
 2025-02-22 21:27:28.237847,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,0.012199999999999989,0.5122,0.5
 2025-02-23 02:02:25.382852,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.011600000000000055,0.5238,0.5122
-2025-02-22 16:33:09.358592,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,0.010699999999999932,0.5455,0.5348
+2025-02-23 04:34:51.358510,A-League - Australia A-League 2024/25 - Grand Final Winner,Western Sydney Wanderers,0.011199999999999995,0.0588,0.0476
 2025-02-22 23:26:38.255530,Next Pope Betting - Continent Of Next Pope - Continent Of Next Pope After Francis I,North America,0.010499999999999982,0.2105,0.2
-2025-02-22 16:33:09.368132,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,0.010499999999999982,0.2105,0.2
-2025-02-22 18:34:23.346865,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.010099999999999998,0.5556,0.5455
 2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Francis,0.010099999999999998,0.4545,0.4444
+2025-02-22 18:34:23.346865,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,0.010099999999999998,0.5556,0.5455
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.0102,0.0667,0.0769
 2025-02-22 17:30:30.211393,Boxing Lines - Luis Nery vs Kyonosuke Kameda - To Win the Bout,Kyonosuke Kameda,-0.010499999999999982,0.2,0.2105
 2025-02-22 21:27:28.237847,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Artur Beterbiev,-0.010699999999999932,0.5348,0.5455
 2025-02-23 02:02:25.387433,Ligue 1 - France Ligue 1 2024/25 - Winner,Marseille,-0.012100000000000001,0.0123,0.0244
-2025-02-22 16:33:09.358592,Elite Boxing - Dmitry Bivol vs Artur Beterbiev - To Win the Bout,Dmitry Bivol,-0.012199999999999989,0.5,0.5122
 2025-02-22 18:34:23.346865,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.012199999999999989,0.4878,0.5
-2025-02-22 16:33:09.380616,Boxing Lines - Seiya Tsutsumi vs Daigo Higa - To Win the Bout,Seiya Tsutsumi,-0.0131,0.7647,0.7778
-2025-02-22 16:33:09.337632,Elite Boxing - Zhilei Zhang vs Agit Kabayel - To Win the Bout,Agit Kabayel,-0.013299999999999979,0.6296,0.6429
 2025-02-22 17:30:30.198090,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,-0.013299999999999979,0.6296,0.6429
 2025-02-23 02:02:25.463864,League One - England League One 2024/25 - Winner,Wycombe,-0.014100000000000001,0.0385,0.0526
 2025-02-22 23:26:38.264256,Next Pope Betting - Papal Name Of Next Pope - Papal Name Of Next Pope After Francis I,Benedict,-0.014399999999999996,0.0625,0.0769
@@ -51,11 +46,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pierbattista Pizzaballa,-0.0189,0.0196,0.0385
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Arthur Roche (England),-0.0189,0.0196,0.0385
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),-0.02020000000000001,0.0909,0.1111
+2025-02-23 04:34:51.416916,League Two - England League Two 2024/25 - Winner,Notts County,-0.022000000000000006,0.0833,0.1053
 2025-02-22 17:30:30.185631,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Israil Madrimov,-0.023800000000000043,0.5,0.5238
-2025-02-22 16:33:09.333470,Elite Boxing - Joshua Buatsi vs Callum Smith - To Win the Bout,Callum Smith,-0.026500000000000024,0.3509,0.3774
-2025-02-22 16:33:09.341784,Elite Boxing - Vergil Ortiz vs Israil Madrimov - To Win the Bout,Vergil Ortiz,-0.03179999999999994,0.5238,0.5556
-2025-02-22 16:33:09.354331,Elite Boxing - Joseph Parker vs Martin Bakole - To Win the Bout,Joseph Parker,-0.034499999999999975,0.6429,0.6774
+2025-02-23 04:34:51.462596,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.028000000000000004,0.0196,0.0476
+2025-02-23 04:34:51.416916,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.04240000000000001,0.0909,0.1333
 2025-02-23 02:02:25.382852,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.04760000000000003,0.4762,0.5238
-2025-02-22 16:33:09.345929,Elite Boxing - Carlos Adames vs Hamzah Sheeraz - To Win the Bout,Carlos Adames,-0.055900000000000005,0.2667,0.3226
 2025-02-22 23:26:38.259896,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Marc Ouellet (Canada),-0.066,0.0769,0.1429
+2025-02-23 04:34:51.462596,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.1129,0.1538,0.2667
 2025-02-23 02:02:25.498864,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.13110000000000002,0.1429,0.274

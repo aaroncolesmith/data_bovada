@@ -1,182 +1,113 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-02-24 13:35:00.739256,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,A Lien,0.3116,0.4545,0.1429
-2025-02-24 13:35:00.722266,97th Academy Awards - 2025 Oscars - Best Documentary Feature - Best Documentary Feature,Porcelain War,0.2444,0.4444,0.2
-2025-02-24 13:35:00.730690,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Conclave,0.20590000000000003,0.6226,0.4167
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Rams,0.1587,0.4444,0.2857
-2025-02-24 13:35:00.734995,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,I'm Still Here,0.14640000000000003,0.6226,0.4762
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Rams,0.13190000000000002,0.2857,0.1538
 2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,A Complete Unknown,0.125,0.25,0.125
-2025-02-24 13:35:00.743467,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,The Substance,0.12309999999999999,0.9231,0.8
-2025-02-24 13:35:00.718034,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Sean Baker - Anora,0.10899999999999999,0.6923,0.5833
-2025-02-24 12:54:21.618732,97th Academy Awards - 2025 Oscars - Best Animated Feature - Best Animated Feature,The Wild Robot,0.10770000000000002,0.8,0.6923
-2025-02-24 12:54:21.610212,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Demi Moore - The Substance,0.0917,0.7143,0.6226
 2025-02-24 14:33:54.345271,97th Academy Awards - 2025 Oscars - Best Production Design - Best Production Design,Wicked,0.08889999999999998,0.8889,0.8
-2025-02-24 12:54:21.623004,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Wander To Wonder,0.08330000000000004,0.75,0.6667
-2025-02-24 13:35:00.709488,97th Academy Awards - 2025 Oscars - Best Cinematography - Best Cinematography,Lol Crawley - The Brutalist,0.08330000000000004,0.8333,0.75
-2025-02-24 13:35:00.726452,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,The Only Girl In The Orchestra,0.08330000000000001,0.25,0.1667
 2025-02-24 20:31:23.729333,NFL Specials - Where will Sam Darnold Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,0.07400000000000001,0.4444,0.3704
 2025-02-24 14:33:54.345271,97th Academy Awards - 2025 Oscars - Best Production Design - Best Production Design,Nosferatu,0.0726,0.1111,0.0385
-2025-02-24 13:35:00.747871,97th Academy Awards - 2025 Oscars - Best Original Score - Best Original Score,Daniel Blumberg - The Brutalist,0.0686,0.8333,0.7647
 2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,Dallas Cowboys,0.06670000000000001,0.2,0.1333
 2025-02-24 18:38:26.398477,NFL Specials - Where will Byron Murphy (MIN) Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,0.06669999999999998,0.6667,0.6
-2025-02-24 13:35:01.181635,Trump Policy Specials - Will Trump meet Putin by the end of April 2025? - Will Trump Meet Putin?,No,0.06659999999999999,0.3333,0.2667
 2025-02-24 14:33:54.341166,97th Academy Awards - 2025 Oscars - Best Original Song - Best Original Song,The Journey - The Six Triple Eight,0.0655,0.1905,0.125
 2025-02-24 14:33:54.467327,45th Razzie Awards - Worst Picture - Worst Picture,Borderlands,0.0625,0.125,0.0625
 2025-02-24 18:38:26.363876,NFL Specials - Where will Sam Darnold Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,0.05980000000000002,0.4444,0.3846
 2025-02-24 20:31:23.720467,NFL Specials - Where will Justin Fields Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,0.05889999999999995,0.6667,0.6078
-2025-02-24 12:54:21.601686,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Conclave,0.057699999999999974,0.3077,0.25
 2025-02-24 22:32:34.182301,NFL Specials - Where will  Drew Dalman Play Week 1 of the 2025 NFL Season - Proposition,San Francisco 49ers,0.05559999999999998,0.1667,0.1111
+2025-02-25 01:58:30.047164,TGL - TGL - Winner,New York,0.04909999999999999,0.1667,0.1176
 2025-02-24 20:31:25.947263,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.04700000000000004,0.5348,0.4878
-2025-02-24 12:54:21.614501,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Conclave,0.043300000000000005,0.9524,0.9091
 2025-02-24 20:31:23.823058,NFL Specials - Where will Russell Wilson Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,0.04099999999999998,0.3077,0.2667
 2025-02-24 14:33:54.345271,97th Academy Awards - 2025 Oscars - Best Production Design - Best Production Design,Dune: Part Two,0.0384,0.0769,0.0385
 2025-02-24 23:28:15.429702,NFL Specials - 2025 NFL Combine - 2025  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.27 seconds,0.037800000000000056,0.5833,0.5455
-2025-02-24 12:54:21.605905,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Timothee Chalamet - A Complete Unknown,0.03640000000000004,0.4,0.3636
 2025-02-24 19:25:15.464567,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.033299999999999996,0.4878,0.4545
 2025-02-24 21:27:51.461205,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.03270000000000001,0.0952,0.0625
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Alistair Docherty,0.0319,0.0385,0.0066
 2025-02-24 14:33:54.357579,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Zoe Saldana - Emilia Perez,0.03059999999999996,0.9681,0.9375
 2025-02-24 20:31:25.956506,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Alberto Puello,0.030399999999999983,0.5652,0.5348
 2025-02-24 14:33:54.420480,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q2 2025,0.029299999999999993,0.0769,0.0476
-2025-02-24 12:54:21.623004,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Yuck!,0.028399999999999995,0.0909,0.0625
 2025-02-24 14:33:54.353489,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Kieran Culkin - A Real Pain,0.028000000000000025,0.9804,0.9524
 2025-02-24 21:27:51.461205,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.027700000000000002,0.4444,0.4167
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Taylor Pendrith,0.0262,0.0385,0.0123
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Sepp Straka,0.025900000000000003,0.0476,0.0217
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Seung-Yul Noh,0.024600000000000004,0.0345,0.0099
-2025-02-24 13:35:00.726452,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,"I Am Ready, Warden",0.023800000000000043,0.5238,0.5
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Hank Lebioda,0.0233,0.0385,0.0152
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Mitchell Meissner,0.021199999999999997,0.0278,0.0066
+2025-02-25 01:58:27.099907,Championship - England Championship 2024/25 - Winner,Leeds United,0.025000000000000022,0.9,0.875
+2025-02-25 01:58:27.102931,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.022600000000000064,0.6226,0.6
+2025-02-25 01:58:27.063941,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.02260000000000001,0.4,0.3774
+2025-02-25 01:58:27.102931,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.02200000000000002,0.7143,0.6923
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Daniel Van Tonder,0.021199999999999997,0.0278,0.0066
-2025-02-24 12:54:24.343556,TGL - Team Matchups - Los Angeles vs New York - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),0.02079999999999993,0.5556,0.5348
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Shane Lowry,0.0203,0.0526,0.0323
-2025-02-24 12:54:21.614501,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Nickel Boys,0.02020000000000001,0.1111,0.0909
+2025-02-25 01:58:30.042057,Investec South African Open Championship - Investec South African Open Championship - Winner,Dean Burmester,0.02020000000000001,0.1111,0.0909
+2025-02-25 01:58:27.102931,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.01999999999999999,0.2105,0.1905
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Shaun Norris,0.019899999999999998,0.0278,0.0079
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Sungjae Im,0.019800000000000005,0.0476,0.0278
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Davis Chatfield,0.019300000000000005,0.0345,0.0152
 2025-02-24 21:27:51.461205,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),0.019099999999999992,0.0667,0.0476
 2025-02-24 14:33:54.337013,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Coralie Fargeat - The Substance,0.019000000000000017,0.2857,0.2667
-2025-02-24 13:35:00.730690,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Anora,0.018100000000000005,0.4348,0.4167
 2025-02-24 14:33:54.337013,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Jesse Eisenberg - A Real Pain,0.0179,0.1429,0.125
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Max Greyserman,0.0177,0.0217,0.004
-2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Francesco Laporta,0.0165,0.0244,0.0079
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Sam Bairstow,0.0165,0.0244,0.0079
+2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Francesco Laporta,0.0165,0.0244,0.0079
 2025-02-24 14:33:54.361661,97th Academy Awards - 2025 Oscars - Best Visual Effects - Best Visual Effects,Kingdom Of The Planet Of The Apes,0.015100000000000002,0.1818,0.1667
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Ivan Cantero,0.0151,0.0217,0.0066
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Michael Kim,0.0151,0.0217,0.0066
-2025-02-24 13:35:00.713747,97th Academy Awards - 2025 Oscars - Best Costume Design - Best Costume Design,Paul Tazewell - Wicked,0.014900000000000024,0.9524,0.9375
-2025-02-24 13:35:00.730690,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Wicked,0.014899999999999997,0.0625,0.0476
 2025-02-24 20:31:23.850577,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.01479999999999998,0.3922,0.3774
 2025-02-24 14:33:54.341166,97th Academy Awards - 2025 Oscars - Best Original Song - Best Original Song,El Mal - Emilia Perez,0.014700000000000046,0.7647,0.75
-2025-02-24 13:35:00.709488,97th Academy Awards - 2025 Oscars - Best Cinematography - Best Cinematography,Jarin Blaschke - Nosferatu,0.01469999999999999,0.25,0.2353
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Rick Lamb,0.014599999999999998,0.0196,0.005
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Adrien Saddier,0.014599999999999998,0.0278,0.0132
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Sam Stevens,0.014599999999999998,0.0196,0.005
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Austin Eckroat,0.0138,0.0217,0.0079
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Davis Thompson,0.013400000000000002,0.0244,0.011
+2025-02-25 01:58:27.063941,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,0.013899999999999996,0.125,0.1111
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Andrea Pavan,0.013,0.0196,0.0066
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Gary Woodland,0.013,0.0196,0.0066
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Andrew Novak,0.013,0.0196,0.0066
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Alex Smalley,0.012899999999999998,0.0179,0.005
 2025-02-24 14:33:54.535932,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pierbattista Pizzaballa (Italy),0.012700000000000003,0.0323,0.0196
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Martin Couvra,0.0127,0.0152,0.0025
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Casey Jarvis,0.012100000000000001,0.0244,0.0123
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Bud Cauley,0.0119,0.0152,0.0033
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Harry Hall,0.0119,0.0152,0.0033
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Ugo Coussaud,0.0114,0.0164,0.005
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Jhonattan Vegas,0.0113,0.0179,0.0066
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,JC Ritchie,0.0113,0.0179,0.0066
-2025-02-24 12:54:21.623004,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Magic Candies,0.011199999999999995,0.0588,0.0476
 2025-02-24 21:27:51.461205,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),0.011199999999999995,0.0588,0.0476
 2025-02-24 20:31:25.961081,Boxing Lines - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,0.01100000000000001,0.5348,0.5238
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Brandon Stone,0.010700000000000001,0.0217,0.011
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Charl Schwartzel,0.010700000000000001,0.0385,0.0278
 2025-02-24 20:31:23.546642,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),0.010700000000000001,0.0385,0.0278
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Pierceson Coody,0.0103,0.0123,0.002
 2025-02-24 15:32:51.531163,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.010299999999999976,0.2667,0.2564
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Brandon Harkins,0.010100000000000001,0.0345,0.0244
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Seattle Seahawks,-0.010000000000000002,0.0426,0.0526
 2025-02-24 22:32:34.182301,NFL Specials - Where will  Drew Dalman Play Week 1 of the 2025 NFL Season - Proposition,Green Bay Packers,-0.010099999999999998,0.0952,0.1053
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,-0.0102,0.0667,0.0769
 2025-02-24 21:27:51.760283,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Toronto Argonauts,-0.010299999999999976,0.2564,0.2667
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Seattle Seahawks,-0.010299999999999997,0.0323,0.0426
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Julian Suri,-0.010300000000000002,0.0141,0.0244
 2025-02-24 20:31:25.961081,Boxing Lines - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010699999999999932,0.5348,0.5455
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Byeong Hun An,-0.010700000000000001,0.0278,0.0385
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Peter Kuest,-0.0108,0.0033,0.0141
-2025-02-24 13:35:00.739256,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,I'm Not A Robot,-0.010899999999999993,0.1429,0.1538
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Patrick Cover,-0.011,0.0013,0.0123
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Cleveland Browns,-0.011099999999999999,0.0556,0.0667
-2025-02-24 13:35:00.743467,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,Nosferatu,-0.011099999999999999,0.1,0.1111
 2025-02-24 17:29:51.440619,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Charley Hull,-0.011199999999999995,0.0476,0.0588
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Trent Phillips,-0.0112,0.004,0.0152
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Ross Fisher,-0.0113,0.0066,0.0179
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Brendon Todd,-0.011300000000000001,0.001,0.0123
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Darren Fichardt,-0.0114,0.005,0.0164
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Oliver Bekker,-0.0116,0.0025,0.0141
 2025-02-24 20:31:23.720467,NFL Specials - Where will Justin Fields Play Week 1 of the 2025 NFL Season - Proposition,New York Jets,-0.011899999999999994,0.2381,0.25
 2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,Detroit Lions,-0.0121,0.1212,0.1333
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Fabian Gomez,-0.012100000000000001,0.0123,0.0244
-2025-02-24 13:35:03.549341,TGL - Team Matchups - Los Angeles vs New York - Winner,New York (Schauffele/Fitzpatrick/Fowler/Young),-0.012199999999999989,0.5,0.5122
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Thomas Walsh,-0.012899999999999998,0.005,0.0179
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Chandler Blanchet,-0.012899999999999998,0.005,0.0179
-2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,Kansas City Chiefs,-0.0131,0.2222,0.2353
 2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,-0.0131,0.2222,0.2353
+2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,Kansas City Chiefs,-0.0131,0.2222,0.2353
 2025-02-24 15:32:51.531163,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.0131,0.8,0.8131
 2025-02-24 21:27:51.760283,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Saskatchewan Roughriders,-0.013899999999999996,0.1111,0.125
-2025-02-24 13:35:00.713747,97th Academy Awards - 2025 Oscars - Best Costume Design - Best Costume Design,Lisy Christl - Conclave,-0.013899999999999996,0.1111,0.125
 2025-02-24 14:33:54.337013,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Brady Corbet & Mona Fastvold - The Brutalist,-0.013999999999999999,0.0769,0.0909
 2025-02-24 14:33:54.353489,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Edward Norton - A Complete Unknown,-0.013999999999999999,0.0769,0.0909
+2025-02-25 01:58:27.099907,Championship - England Championship 2024/25 - Winner,Burnley,-0.014099999999999994,0.0526,0.0667
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,-0.014099999999999994,0.0526,0.0667
 2025-02-24 18:38:26.363876,NFL Specials - Where will Sam Darnold Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,-0.01419999999999999,0.3704,0.3846
-2025-02-24 12:54:21.614501,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,A Complete Unknown,-0.014399999999999996,0.0625,0.0769
-2025-02-24 12:54:21.614501,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Emilia Perez,-0.014399999999999996,0.0625,0.0769
-2025-02-24 12:54:21.618732,97th Academy Awards - 2025 Oscars - Best Animated Feature - Best Animated Feature,Wallace & Gromit: Vengeance Most Fowl,-0.014899999999999997,0.0476,0.0625
-2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,Emilia Perez,-0.014899999999999997,0.0476,0.0625
 2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,The Wild Robot,-0.014899999999999997,0.0476,0.0625
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Kyle Westmoreland,-0.014900000000000004,0.0196,0.0345
-2025-02-24 13:35:00.747871,97th Academy Awards - 2025 Oscars - Best Original Score - Best Original Score,Kris Bowers - The Wild Robot,-0.015100000000000002,0.1667,0.1818
-2025-02-24 13:35:00.743467,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,Emilia Perez,-0.015300000000000001,0.0323,0.0476
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Cameron Young,-0.0157,0.0278,0.0435
+2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,Emilia Perez,-0.014899999999999997,0.0476,0.0625
 2025-02-24 21:27:51.760283,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Bc Lions,-0.015700000000000006,0.1176,0.1333
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,San Francisco 49ers,-0.01580000000000001,0.0556,0.0714
 2025-02-24 17:29:49.005505,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Cincinnati Bengals,-0.015899999999999997,0.1053,0.1212
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Luke List,-0.0167,0.005,0.0217
+2025-02-25 01:58:27.063941,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.016699999999999937,0.5833,0.6
 2025-02-24 18:38:26.389846,NFL Specials - Where will  Stefon Diggs Play Week 1 of the 2025 NFL Season - Proposition,New York Giants,-0.0169,0.1081,0.125
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Adam Svensson,-0.0179,0.0099,0.0278
+2025-02-25 01:58:27.700969,WNBL - Australia WNBL 2024/25 - Outright,Perth Lynx (W),-0.0179,0.125,0.1429
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,-0.018099999999999998,0.0588,0.0769
 2025-02-24 22:32:34.345432,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Pete Carroll,-0.018099999999999998,0.0588,0.0769
 2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,Dune: Part Two,-0.018999999999999906,0.7143,0.7333
 2025-02-24 18:38:26.363876,NFL Specials - Where will Sam Darnold Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,-0.019000000000000017,0.2667,0.2857
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Matthieu Pavon,-0.0194,0.005,0.0244
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,San Francisco 49ers,-0.01949999999999999,0.0714,0.0909
 2025-02-24 21:27:51.760283,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Winnipeg Blue Bombers,-0.019600000000000006,0.1887,0.2083
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Sam Bennett,-0.019899999999999998,0.0079,0.0278
 2025-02-24 22:32:34.345432,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kellen Moore,-0.0203,0.0385,0.0588
 2025-02-24 20:31:23.801036,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,-0.0208,0.0625,0.0833
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Alvaro Ortiz,-0.021199999999999997,0.0066,0.0278
 2025-02-24 21:27:51.760283,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Calgary Stampeders,-0.021400000000000002,0.05,0.0714
-2025-02-24 12:54:24.343556,TGL - Team Matchups - Los Angeles vs New York - Winner,New York (Schauffele/Fitzpatrick/Fowler/Young),-0.022600000000000064,0.5122,0.5348
 2025-02-24 14:33:54.420480,Taylor Swift Specials - When will Taylor & Travis announce their engagement? - When will Taylor and Travis announce their engagement?,Q1 2025,-0.023799999999999988,0.1429,0.1667
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,-0.024800000000000003,0.0833,0.1081
-2025-02-24 12:54:21.605905,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Adrien Brody - The Brutalist,-0.025600000000000067,0.6667,0.6923
-2025-02-24 13:35:00.739256,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,Anuja,-0.02679999999999999,0.2857,0.3125
+2025-02-25 01:58:27.102931,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.025300000000000003,0.1176,0.1429
 2025-02-24 20:31:23.729333,NFL Specials - Where will Sam Darnold Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,-0.028599999999999987,0.2381,0.2667
 2025-02-24 17:29:49.010393,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.028799999999999992,0.125,0.1538
-2025-02-24 13:35:00.734995,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,Seed Of The Sacred Fig,-0.029299999999999993,0.0476,0.0769
-2025-02-24 13:35:00.730690,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Emilia Perez,-0.029299999999999993,0.0476,0.0769
-2025-02-24 13:35:00.747871,97th Academy Awards - 2025 Oscars - Best Original Score - Best Original Score,John Powell & Stephen Schwartz - Wicked,-0.029299999999999993,0.0476,0.0769
-2025-02-24 12:54:24.328202,Cognizant Classic - Cognizant Classic - Winner,Eric Cole,-0.029399999999999996,0.0141,0.0435
+2025-02-25 01:58:27.700969,WNBL - Australia WNBL 2024/25 - Outright,Townsville Fire (W),-0.029600000000000015,0.3704,0.4
 2025-02-24 18:38:26.394185,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,-0.031200000000000006,0.0769,0.1081
-2025-02-24 13:35:00.722266,97th Academy Awards - 2025 Oscars - Best Documentary Feature - Best Documentary Feature,Soundtrack To A Coup d'Etat,-0.0321,0.0588,0.0909
+2025-02-25 01:58:27.099907,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.031799999999999995,0.1111,0.1429
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Dan Bradbury,-0.032400000000000005,0.0152,0.0476
 2025-02-24 22:32:34.182301,NFL Specials - Where will  Drew Dalman Play Week 1 of the 2025 NFL Season - Proposition,Seattle Seahawks,-0.033300000000000024,0.1667,0.2
 2025-02-24 19:25:15.464567,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.033399999999999985,0.5744,0.6078
-2025-02-24 13:35:03.586443,Argentina Open - Argentina Open - Winner,Tano Goya,-0.0345,0.004,0.0385
 2025-02-24 20:31:25.956506,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.03480000000000005,0.5,0.5348
 2025-02-24 14:33:54.349371,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,Wicked,-0.0353,0.2,0.2353
 2025-02-24 14:33:57.050487,Investec South African Open Championship - Investec South African Open Championship - Winner,Zander Lombard,-0.0374,0.0152,0.0526
-2025-02-24 13:35:00.709488,97th Academy Awards - 2025 Oscars - Best Cinematography - Best Cinematography,Greig Fraser - Dune: Part Two,-0.03889999999999999,0.1429,0.1818
 2025-02-24 18:38:26.398477,NFL Specials - Where will Byron Murphy (MIN) Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.03920000000000001,0.2941,0.3333
 2025-02-24 14:33:54.337013,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Sean Baker - Anora,-0.03949999999999998,0.75,0.7895
 2025-02-24 20:31:25.947263,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.03959999999999997,0.5348,0.5744
@@ -185,21 +116,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-24 22:32:34.182301,NFL Specials - Where will  Drew Dalman Play Week 1 of the 2025 NFL Season - Proposition,Chicago Bears,-0.044800000000000006,0.1905,0.2353
 2025-02-24 23:28:15.429702,NFL Specials - 2025 NFL Combine - 2025  NFL Combine - Fastest 40 Yard Dash Time,Faster than 4.27 seconds,-0.045499999999999985,0.5,0.5455
 2025-02-24 21:27:51.461205,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.045499999999999985,0.5,0.5455
-2025-02-24 12:54:21.601686,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,-0.04760000000000009,0.6667,0.7143
-2025-02-24 12:54:21.623004,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,In The Shadow Of The Cypress,-0.048600000000000004,0.0625,0.1111
 2025-02-24 14:33:54.357579,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Ariana Grande - Wicked,-0.052000000000000005,0.0909,0.1429
 2025-02-24 14:33:54.341166,97th Academy Awards - 2025 Oscars - Best Original Song - Best Original Song,Mi Camino - Emilia Perez,-0.05559999999999998,0.1111,0.1667
-2025-02-24 13:35:01.181635,Trump Policy Specials - Will Trump meet Putin by the end of April 2025? - Will Trump Meet Putin?,Yes,-0.06670000000000009,0.7333,0.8
-2025-02-24 12:54:21.618732,97th Academy Awards - 2025 Oscars - Best Animated Feature - Best Animated Feature,Flow,-0.06970000000000004,0.3077,0.3774
-2025-02-24 13:35:00.747871,97th Academy Awards - 2025 Oscars - Best Original Score - Best Original Score,Volker Bertelmann - Conclave,-0.07500000000000001,0.125,0.2
 2025-02-24 14:33:54.345271,97th Academy Awards - 2025 Oscars - Best Production Design - Best Production Design,The Brutalist,-0.07500000000000001,0.125,0.2
-2025-02-24 13:35:00.726452,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,Death By Numbers,-0.08330000000000001,0.1667,0.25
-2025-02-24 13:35:00.722266,97th Academy Awards - 2025 Oscars - Best Documentary Feature - Best Documentary Feature,Sugarcane,-0.0889,0.1111,0.2
-2025-02-24 12:54:21.623004,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Beautiful Men,-0.09230000000000005,0.3077,0.4
-2025-02-24 12:54:21.610212,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Mikey Madison - Anora,-0.09740000000000004,0.3571,0.4545
-2025-02-24 13:35:00.718034,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Brady Corbet - The Brutalist,-0.12259999999999999,0.3774,0.5
-2025-02-24 13:35:00.730690,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,The Brutalist,-0.125,0.125,0.25
-2025-02-24 13:35:00.722266,97th Academy Awards - 2025 Oscars - Best Documentary Feature - Best Documentary Feature,No Other Land,-0.13329999999999997,0.6,0.7333
-2025-02-24 13:35:00.743467,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,Wicked,-0.1428,0.1429,0.2857
-2025-02-24 13:35:00.739256,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,The Man Who Could Not Remain Silent,-0.22260000000000002,0.4,0.6226
-2025-02-24 13:35:00.734995,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,Emilia Perez,-0.2378,0.4545,0.6923

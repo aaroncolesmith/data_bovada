@@ -1,21 +1,30 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 09:31:20.436504,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.4167,0.5,0.0833
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.18319999999999992,0.8261,0.6429
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,L.A. Clippers,0.17669999999999997,0.7222,0.5455
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Chicago Bulls,0.15700000000000003,0.4348,0.2778
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Dallas Mavericks,0.11670000000000003,0.8667,0.75
 2025-02-25 23:27:58.320700,NFL Specials - Where will Byron Murphy (MIN) Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,0.10340000000000005,0.7701,0.6667
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.10029999999999994,0.7299,0.6296
 2025-02-26 07:28:09.148150,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),0.0889,0.2,0.1111
 2025-02-26 07:28:09.141355,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),0.07740000000000002,0.6774,0.6
 2025-02-26 08:36:07.387618,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brighton & Hove Albion,0.07520000000000002,0.2857,0.2105
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.07440000000000002,0.5744,0.5
 2025-02-26 07:28:09.131179,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jalen Brunson (NYK),0.0736,0.3333,0.2597
 2025-02-26 07:28:09.092022,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,0.066,0.1429,0.0769
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.06220000000000003,0.5744,0.5122
 2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.06190000000000001,0.4255,0.3636
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,0.060200000000000004,0.1852,0.125
 2025-02-26 09:31:21.021149,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.059599999999999986,0.7895,0.7299
 2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.0595,0.5833,0.5238
 2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.0595,0.25,0.1905
 2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.05679999999999999,0.1818,0.125
 2025-02-26 08:36:07.390668,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,0.05679999999999996,0.875,0.8182
 2025-02-26 07:28:09.088093,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),Utah State,0.05550000000000002,0.2222,0.1667
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,0.05550000000000001,0.1111,0.0556
 2025-02-26 08:36:07.917358,Trump Policy Specials - Classified Documents: To Be Declassified - Will Trump declassify Epstein list in first 100 days?,Yes,0.05069999999999997,0.7059,0.6552
 2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,York City,0.04999999999999999,0.25,0.2
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.04909999999999999,0.1667,0.1176
 2025-02-26 09:31:20.502589,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Arminia Bielefeld,0.0489,0.0588,0.0099
 2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.04849999999999999,0.1818,0.1333
 2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.047599999999999976,0.3333,0.2857
@@ -25,9 +34,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,0.04120000000000001,0.1,0.0588
 2025-02-26 06:38:51.353794,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.040999999999999925,0.6154,0.5744
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,Inter Milan,0.0398,0.3846,0.3448
+2025-02-26 10:35:34.979228,To Make The Playoffs - Tampa Bay Rays To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.03920000000000001,0.3333,0.2941
 2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.03889999999999999,0.1818,0.1429
-2025-02-26 06:38:51.332912,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.03839999999999999,0.3509,0.3125
 2025-02-26 09:31:20.541441,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.03839999999999999,0.3509,0.3125
+2025-02-26 06:38:51.332912,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.03839999999999999,0.3509,0.3125
 2025-02-26 01:58:17.674583,League Two - England League Two 2024/25 - Winner,Bradford City,0.038299999999999994,0.0909,0.0526
 2025-02-26 06:38:51.344470,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,0.037699999999999956,0.9901,0.9524
 2025-02-26 08:36:07.390668,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.03639999999999999,0.6364,0.6
@@ -39,96 +49,111 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,York City,0.031799999999999995,0.4762,0.4444
 2025-02-26 06:38:51.337055,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.03179999999999994,0.5556,0.5238
 2025-02-26 09:31:22.041017,Regular Season Wins - Los Angeles Angels Wins - 2025 Regular Season - Regular Season Wins,Over 71.5,0.030399999999999983,0.5652,0.5348
-2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.030299999999999994,0.3636,0.3333
 2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.030299999999999994,0.3636,0.3333
+2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.030299999999999994,0.3636,0.3333
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Aston Villa,0.029899999999999982,0.2299,0.2
 2025-02-26 09:31:20.433095,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.029000000000000026,0.4545,0.4255
 2025-02-26 09:31:23.427732,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.028999999999999915,0.7937,0.7647
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.028799999999999992,0.1538,0.125
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,0.027800000000000047,0.7778,0.75
 2025-02-26 01:58:17.606243,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.02779999999999999,0.25,0.2222
 2025-02-26 06:38:51.359079,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.027700000000000058,0.5833,0.5556
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,Juventus,0.02739999999999998,0.2941,0.2667
 2025-02-25 23:28:00.287185,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Youssef Dib,0.02729999999999999,0.2273,0.2
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,0.025600000000000067,0.6923,0.6667
+2025-02-26 10:35:34.888272,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,No,0.025599999999999956,0.6,0.5744
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.025300000000000003,0.1429,0.1176
 2025-02-26 08:36:10.210454,Tournament Match-Ups - Tournament Match-Up - C. Kirk v N. Echavarria - Tournament Match-Up,Nico Echavarria,0.024399999999999977,0.5122,0.4878
-2025-02-26 08:36:10.206219,Tournament Match-Ups - Tournament Match-Up - B. Hossler v B. Cauley - Tournament Match-Up,Bud Cauley,0.023800000000000043,0.5238,0.5
 2025-02-26 08:36:10.248897,Tournament Match-Ups - Tournament Match-Up - N. Norgaard v J. Vegas - Tournament Match-Up,Niklas Norgaard Moller,0.023800000000000043,0.5238,0.5
+2025-02-26 08:36:10.206219,Tournament Match-Ups - Tournament Match-Up - B. Hossler v B. Cauley - Tournament Match-Up,Bud Cauley,0.023800000000000043,0.5238,0.5
 2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.023799999999999988,0.5,0.4762
-2025-02-26 09:31:20.520506,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.023799999999999988,0.5,0.4762
 2025-02-26 08:36:07.396790,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,0.023799999999999988,0.1667,0.1429
+2025-02-26 09:31:20.520506,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.023799999999999988,0.5,0.4762
 2025-02-26 07:28:09.144748,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.023799999999999932,0.8571,0.8333
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.023200000000000002,0.0476,0.0244
 2025-02-26 09:31:22.219569,To Make The Playoffs - Minnesota Twins To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.022699999999999998,0.4878,0.4651
-2025-02-25 22:32:46.244192,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.022600000000000064,0.5348,0.5122
-2025-02-26 08:36:10.244669,Tournament Match-Ups - Tournament Match-Up - CT. Pan v G. Sigg - Tournament Match-Up,Greyson Sigg,0.022600000000000064,0.5348,0.5122
-2025-02-26 08:36:10.214665,Tournament Match-Ups - Tournament Match-Up - D. Ghim v J. Bridgeman - Tournament Match-Up,Jacob Bridgeman,0.022600000000000064,0.5348,0.5122
+2025-02-26 10:35:34.798941,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Under 76.5,0.022600000000000064,0.5348,0.5122
 2025-02-26 08:36:10.223156,Tournament Match-Ups - Tournament Match-Up - I. Salinda v K. Ventura - Tournament Match-Up,Kristoffer Ventura,0.022600000000000064,0.5348,0.5122
+2025-02-26 08:36:10.214665,Tournament Match-Ups - Tournament Match-Up - D. Ghim v J. Bridgeman - Tournament Match-Up,Jacob Bridgeman,0.022600000000000064,0.5348,0.5122
+2025-02-26 08:36:10.244669,Tournament Match-Ups - Tournament Match-Up - CT. Pan v G. Sigg - Tournament Match-Up,Greyson Sigg,0.022600000000000064,0.5348,0.5122
 2025-02-26 01:58:20.366960,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,0.022199999999999998,0.3448,0.3226
 2025-02-26 03:38:36.212663,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.02180000000000004,0.6296,0.6078
 2025-02-26 08:36:08.733293,Regular Season Wins - Milwaukee Brewers Wins - 2025 Regular Season - Regular Season Wins,Over 83.5,0.02169999999999994,0.5455,0.5238
-2025-02-26 08:36:10.227428,Tournament Match-Ups - Tournament Match-Up - J. Spieth v L. Clanton - Tournament Match-Up,Luke Clanton,0.02169999999999994,0.5455,0.5238
-2025-02-26 08:36:10.236007,Tournament Match-Ups - Tournament Match-Up - A. Svensson v J. Svensson - Tournament Match-Up,Jesper Svensson,0.02169999999999994,0.5455,0.5238
 2025-02-26 08:36:10.240380,Tournament Match-Ups - Tournament Match-Up - C. Kim v M. Meissner - Tournament Match-Up,Mac Meissner,0.02169999999999994,0.5455,0.5238
-2025-02-26 08:36:10.218910,Tournament Match-Ups - Tournament Match-Up - E. Van Rooyen v M. Manassero - Tournament Match-Up,Matteo Manassero,0.02169999999999994,0.5455,0.5238
+2025-02-26 08:36:10.227428,Tournament Match-Ups - Tournament Match-Up - J. Spieth v L. Clanton - Tournament Match-Up,Luke Clanton,0.02169999999999994,0.5455,0.5238
 2025-02-26 08:36:10.135646,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.02169999999999994,0.5455,0.5238
+2025-02-26 08:36:10.236007,Tournament Match-Ups - Tournament Match-Up - A. Svensson v J. Svensson - Tournament Match-Up,Jesper Svensson,0.02169999999999994,0.5455,0.5238
 2025-02-26 08:36:10.231649,Tournament Match-Ups - Tournament Match-Up - T. Olesen v J. Knapp - Tournament Match-Up,Thorbjorn Olesen,0.02169999999999994,0.5455,0.5238
+2025-02-26 08:36:10.218910,Tournament Match-Ups - Tournament Match-Up - E. Van Rooyen v M. Manassero - Tournament Match-Up,Matteo Manassero,0.02169999999999994,0.5455,0.5238
 2025-02-26 08:36:10.304464,Tournament Match-Ups - Tournament Match-Up - R. Fowler v N. Hojgaard - Tournament Match-Up,Rickie Fowler,0.02079999999999993,0.5556,0.5348
-2025-02-26 01:58:17.761003,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.02049999999999999,0.1538,0.1333
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.02049999999999999,0.1538,0.1333
+2025-02-26 01:58:17.761003,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.02049999999999999,0.1538,0.1333
 2025-02-26 01:58:17.674583,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.02020000000000001,0.1111,0.0909
+2025-02-26 10:35:34.778062,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Over 83.5,0.01970000000000005,0.5652,0.5455
 2025-02-26 09:31:22.051531,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Under 63.5,0.01970000000000005,0.5652,0.5455
+2025-02-26 10:35:34.984485,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.01970000000000005,0.5652,0.5455
 2025-02-26 06:38:51.359079,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.01949999999999999,0.0909,0.0714
 2025-02-26 08:36:08.692113,Regular Season Wins - Cleveland Guardians  Wins - 2025 Regular Season - Regular Season Wins,Under 82.5,0.01880000000000004,0.5744,0.5556
 2025-02-26 09:31:20.551000,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,0.018099999999999998,0.0769,0.0588
 2025-02-26 06:38:51.359079,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.017100000000000004,0.16,0.1429
-2025-02-26 01:58:17.674583,League Two - England League Two 2024/25 - Winner,Notts County,0.016700000000000007,0.1,0.0833
 2025-02-26 07:28:09.076162,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,0.016700000000000007,0.1,0.0833
+2025-02-26 01:58:17.674583,League Two - England League Two 2024/25 - Winner,Notts County,0.016700000000000007,0.1,0.0833
 2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.016699999999999937,0.6,0.5833
-2025-02-26 07:28:09.072224,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.015900000000000025,0.7778,0.7619
 2025-02-26 08:36:07.387618,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,0.015900000000000025,0.8621,0.8462
+2025-02-26 07:28:09.072224,Men's Basketball Conferences - Atlantic 10 Conference Winner - Atlantic 10 Winner (Regular Season),Virginia Commonwealth,0.015900000000000025,0.7778,0.7619
 2025-02-26 07:28:09.144748,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.015899999999999997,0.2381,0.2222
-2025-02-25 22:32:44.066607,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),0.015700000000000006,0.1333,0.1176
 2025-02-26 07:28:09.131179,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jayson Tatum (BOS),0.015300000000000001,0.0476,0.0323
 2025-02-26 09:31:23.391328,To Record the Most Triples - Player To Record the Most Triples - 2025 Regular Season - Player To Record the Most Triples,Pete Crow-Armstrong (CHI),0.014899999999999997,0.0625,0.0476
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.014000000000000012,0.9231,0.9091
-2025-02-26 08:36:07.396790,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.013999999999999999,0.0909,0.0769
 2025-02-26 08:36:07.387618,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Fulham,0.013999999999999999,0.0909,0.0769
+2025-02-26 08:36:07.396790,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.013999999999999999,0.0909,0.0769
 2025-02-26 06:38:51.340934,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.013800000000000034,0.3774,0.3636
 2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.013799999999999923,0.6364,0.6226
-2025-02-26 09:31:24.219145,TGL - TGL - Winner,The Bay,0.013600000000000001,0.3077,0.2941
 2025-02-26 06:38:51.353794,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.013600000000000001,0.3077,0.2941
+2025-02-26 09:31:24.219145,TGL - TGL - Winner,The Bay,0.013600000000000001,0.3077,0.2941
 2025-02-26 06:38:51.340934,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.013300000000000034,0.3704,0.3571
 2025-02-26 09:31:23.487388,Boxing Lines - Ryan Garner vs Salvador Jimenez - To Win the Bout,Salvador Jimenez,0.0131,0.2353,0.2222
 2025-02-26 09:31:24.219145,TGL - TGL - Winner,New York,0.012899999999999995,0.1667,0.1538
+2025-02-26 10:35:36.183965,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.012700000000000045,0.6491,0.6364
+2025-02-26 10:35:34.809364,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - Regular Season Wins,Under 80.5,0.012199999999999989,0.5122,0.5
 2025-02-26 09:31:22.019828,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Over 60.5,0.011600000000000055,0.5238,0.5122
+2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Under 78.5,0.0116,0.4878,0.4762
+2025-02-26 10:35:34.898772,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.0116,0.4878,0.4762
 2025-02-26 08:36:07.381533,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.011199999999999995,0.0588,0.0476
+2025-02-26 10:35:33.716231,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.010899999999999993,0.1538,0.1429
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.010699999999999987,0.3333,0.3226
+2025-02-26 10:35:35.866978,To Make The Playoffs - San Diego Padres To Make The Playoffs - 2025 - To Make The Playoffs,No,0.010699999999999932,0.5455,0.5348
 2025-02-26 01:58:20.420684,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.010699999999999932,0.5455,0.5348
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,0.010399999999999993,0.2326,0.2222
 2025-02-26 07:28:11.404762,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.010199999999999987,0.9333,0.9231
 2025-02-26 09:31:22.019828,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Under 60.5,-0.010099999999999998,0.5455,0.5556
+2025-02-26 10:35:34.919887,To Make The Playoffs - Los Angeles Dodgers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.0102,0.0667,0.0769
+2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.0102,0.0667,0.0769
+2025-02-26 06:38:51.359079,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.0102,0.0667,0.0769
 2025-02-26 09:31:24.219145,TGL - TGL - Winner,Jupiter Links,-0.0102,0.0667,0.0769
 2025-02-26 08:36:07.390668,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.0102,0.0667,0.0769
-2025-02-26 06:38:51.359079,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.0102,0.0667,0.0769
-2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.0102,0.0667,0.0769
 2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.0103,0.002,0.0123
 2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.010499999999999982,0.2,0.2105
 2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.010699999999999987,0.3226,0.3333
 2025-02-26 07:28:09.127771,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Russell Westbrook (DEN),-0.010700000000000001,0.0278,0.0385
+2025-02-26 10:35:35.866978,To Make The Playoffs - San Diego Padres To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.01100000000000001,0.5238,0.5348
 2025-02-26 01:58:20.420684,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.01100000000000001,0.5238,0.5348
-2025-02-26 03:01:08.518276,Boxing Lines - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,-0.011099999999999999,0.1,0.1111
-2025-02-26 08:36:07.833148,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.011099999999999999,0.4651,0.4762
 2025-02-26 09:31:20.502589,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Wolfsburg,-0.011099999999999999,0.1,0.1111
+2025-02-26 08:36:07.833148,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),-0.011099999999999999,0.4651,0.4762
+2025-02-26 03:01:08.518276,Boxing Lines - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,-0.011099999999999999,0.1,0.1111
 2025-02-26 08:36:07.390668,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.011199999999999995,0.0476,0.0588
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.011499999999999955,0.6552,0.6667
 2025-02-26 06:38:51.348183,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),-0.011500000000000003,0.0385,0.05
 2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,Barnet,-0.0121,0.8667,0.8788
 2025-02-26 09:31:21.998820,Regular Season Wins - Chicago Cubs Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
+2025-02-26 10:35:34.793659,Regular Season Wins - Philadelphia Phillies Wins - 2025 Regular Season - Regular Season Wins,Over 91.5,-0.012199999999999989,0.5,0.5122
+2025-02-26 10:35:34.767656,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.012199999999999989,0.4878,0.5
 2025-02-26 08:36:09.253440,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Ben Lively Total Wins,Over 9.5,-0.012199999999999989,0.4878,0.5
 2025-02-26 09:31:23.487388,Boxing Lines - Ryan Garner vs Salvador Jimenez - To Win the Bout,Ryan Garner,-0.012899999999999912,0.8333,0.8462
 2025-02-26 07:28:09.138018,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),-0.0131,0.0345,0.0476
+2025-02-26 10:35:33.716231,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.013800000000000034,0.3636,0.3774
 2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.013899999999999996,0.1111,0.125
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,-0.014399999999999996,0.0625,0.0769
 2025-02-26 06:38:51.340934,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,-0.014399999999999996,0.0625,0.0769
 2025-02-26 07:28:09.127771,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.014399999999999996,0.0625,0.0769
 2025-02-26 08:36:10.055065,Elite Boxing - Subriel Matias vs Gabriel Valenzuela - To Win the Bout,Gabriel Valenzuela,-0.01469999999999999,0.2353,0.25
@@ -137,6 +162,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 08:36:08.493004,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Shohei Ohtani (LAD),-0.0159,0.0164,0.0323
 2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.016699999999999937,0.5833,0.6
 2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Barnet,-0.016700000000000048,0.7333,0.75
+2025-02-26 10:35:34.898772,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.017299999999999982,0.5744,0.5917
+2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Over 78.5,-0.017299999999999982,0.5744,0.5917
 2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.01759999999999999,0.1,0.1176
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.017600000000000005,0.3333,0.3509
 2025-02-26 06:38:51.332912,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.0179,0.125,0.1429
@@ -146,30 +173,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 01:58:17.761003,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.01849999999999996,0.9524,0.9709
 2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.018900000000000028,0.4255,0.4444
 2025-02-26 09:31:20.436504,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.018999999999999906,0.7143,0.7333
+2025-02-26 10:35:33.721024,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.019000000000000017,0.2667,0.2857
 2025-02-26 07:28:09.131179,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.019500000000000017,0.3509,0.3704
 2025-02-26 03:38:36.212663,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Gerard Hughes,-0.019699999999999995,0.4348,0.4545
 2025-02-26 07:28:09.138018,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.019699999999999995,0.4348,0.4545
 2025-02-26 07:28:08.978024,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.020199999999999996,0.8889,0.9091
 2025-02-26 01:58:17.754427,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.02020000000000001,0.0909,0.1111
-2025-02-25 22:32:46.244192,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.02079999999999993,0.5348,0.5556
-2025-02-26 01:58:17.606243,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,FC Barcelona,-0.020799999999999985,0.3125,0.3333
+2025-02-26 10:35:34.798941,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Over 76.5,-0.02079999999999993,0.5348,0.5556
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.020799999999999985,0.3125,0.3333
-2025-02-26 08:36:10.135646,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.02169999999999994,0.5238,0.5455
-2025-02-26 08:36:08.733293,Regular Season Wins - Milwaukee Brewers Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.02169999999999994,0.5238,0.5455
+2025-02-26 01:58:17.606243,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,FC Barcelona,-0.020799999999999985,0.3125,0.3333
 2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.02169999999999994,0.5238,0.5455
-2025-02-25 22:32:44.066607,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.021699999999999997,0.4545,0.4762
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.021999999999999964,0.2857,0.3077
+2025-02-26 08:36:08.733293,Regular Season Wins - Milwaukee Brewers Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.02169999999999994,0.5238,0.5455
+2025-02-26 08:36:10.135646,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.02169999999999994,0.5238,0.5455
 2025-02-26 08:36:07.390668,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,-0.021999999999999964,0.2857,0.3077
-2025-02-26 07:28:09.138018,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.022199999999999998,0.1111,0.1333
+2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.021999999999999964,0.2857,0.3077
 2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,-0.022199999999999998,0.1111,0.1333
+2025-02-26 07:28:09.138018,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.022199999999999998,0.1111,0.1333
+2025-02-26 10:35:34.888272,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.022699999999999998,0.4651,0.4878
 2025-02-26 07:28:09.131179,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),-0.022799999999999987,0.2439,0.2667
 2025-02-26 08:36:07.396790,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.02310000000000001,0.9,0.9231
 2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.023200000000000002,0.0244,0.0476
-2025-02-26 07:28:08.978024,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.023799999999999988,0.1429,0.1667
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.023799999999999988,0.4762,0.5
 2025-02-26 09:31:20.551000,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.023799999999999988,0.1429,0.1667
-2025-02-26 09:31:22.051531,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.023800000000000043,0.5,0.5238
+2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.023799999999999988,0.4762,0.5
+2025-02-26 07:28:08.978024,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.023799999999999988,0.1429,0.1667
+2025-02-26 10:35:34.984485,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.023800000000000043,0.5,0.5238
 2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.023800000000000043,0.5,0.5238
+2025-02-26 09:31:22.051531,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.023800000000000043,0.5,0.5238
+2025-02-26 10:35:34.778062,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.023800000000000043,0.5,0.5238
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.024299999999999995,0.0526,0.0769
 2025-02-26 08:36:08.692113,Regular Season Wins - Cleveland Guardians  Wins - 2025 Regular Season - Regular Season Wins,Over 82.5,-0.024399999999999977,0.4878,0.5122
 2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,-0.025499999999999967,0.4,0.4255
@@ -179,8 +209,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,-0.028100000000000014,0.8667,0.8948
 2025-02-26 09:31:23.427732,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02899999999999997,0.274,0.303
 2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.029000000000000026,0.4255,0.4545
-2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.031799999999999995,0.4444,0.4762
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Bournemouth,-0.031799999999999995,0.1111,0.1429
+2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.031799999999999995,0.4444,0.4762
 2025-02-26 07:28:09.088093,Men's Basketball Conferences - Mountain West Conference Winner - Mountain West Winner (Regular Season),New Mexico,-0.03180000000000005,0.8571,0.8889
 2025-02-26 06:38:51.337055,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.033299999999999996,0.5122,0.5455
 2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.033300000000000024,0.1667,0.2
@@ -191,6 +221,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,-0.035699999999999954,0.7143,0.75
 2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.03570000000000001,0.25,0.2857
 2025-02-26 08:36:07.387618,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.0368,0.2299,0.2667
+2025-02-26 10:35:34.979228,To Make The Playoffs - Tampa Bay Rays To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.0394000000000001,0.7333,0.7727
 2025-02-26 09:31:20.433095,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,-0.04089999999999999,0.3846,0.4255
 2025-02-26 09:31:20.541441,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.04169999999999999,0.125,0.1667
 2025-02-26 08:36:10.081196,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.041800000000000004,0.303,0.3448
@@ -208,6 +239,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 08:36:07.393741,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,-0.06820000000000001,0.1818,0.25
 2025-02-26 08:36:07.921644,Trump Policy Specials - Classified Documents: Who will be named in Epstein files by end of June 2025? - Named In Epstein Files,Tom Brady,-0.0726,0.0385,0.1111
 2025-02-26 09:31:21.021149,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.07500000000000001,0.125,0.2
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.07930000000000001,0.1429,0.2222
 2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.08549999999999996,0.2222,0.3077
 2025-02-26 07:28:09.141355,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),-0.09000000000000002,0.3448,0.4348
 2025-02-26 08:36:07.387618,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.09160000000000001,0.3846,0.4762
+2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,-0.0917,0.6226,0.7143
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Philadelphia 76ers,-0.2708,0.4167,0.6875
+2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,-0.4589,0.2381,0.697

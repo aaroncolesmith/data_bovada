@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-02-26 09:31:20.436504,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.4167,0.5,0.0833
 2025-02-26 20:31:22.163500,NFL Specials - Where will J.K. Dobbins Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Chargers,0.23330000000000004,0.4,0.1667
 2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.18319999999999992,0.8261,0.6429
 2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,L.A. Clippers,0.17669999999999997,0.7222,0.5455
@@ -11,151 +10,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,0.07450000000000001,0.1333,0.0588
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,0.0708,0.1333,0.0625
 2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.06220000000000003,0.5744,0.5122
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.06190000000000001,0.4255,0.3636
 2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,0.060200000000000004,0.1852,0.125
-2025-02-26 09:31:21.021149,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.059599999999999986,0.7895,0.7299
-2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.0595,0.5833,0.5238
-2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,0.0595,0.25,0.1905
-2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.05679999999999999,0.1818,0.125
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Rams,0.05559999999999998,0.5,0.4444
 2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,0.05550000000000001,0.1111,0.0556
-2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,York City,0.04999999999999999,0.25,0.2
 2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.04909999999999999,0.1667,0.1176
-2025-02-26 09:31:20.502589,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Arminia Bielefeld,0.0489,0.0588,0.0099
-2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.04849999999999999,0.1818,0.1333
-2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.047599999999999976,0.3333,0.2857
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,San Francisco 49ers,0.03960000000000001,0.0952,0.0556
 2025-02-26 10:35:34.979228,To Make The Playoffs - Tampa Bay Rays To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.03920000000000001,0.3333,0.2941
-2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.03889999999999999,0.1818,0.1429
-2025-02-26 09:31:20.541441,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.03839999999999999,0.3509,0.3125
-2025-02-26 09:31:20.551000,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.03410000000000002,0.9091,0.875
-2025-02-26 09:31:20.436504,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.0321,0.0909,0.0588
-2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,York City,0.031799999999999995,0.4762,0.4444
-2025-02-26 09:31:22.041017,Regular Season Wins - Los Angeles Angels Wins - 2025 Regular Season - Regular Season Wins,Over 71.5,0.030399999999999983,0.5652,0.5348
-2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.030299999999999994,0.3636,0.3333
-2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.030299999999999994,0.3636,0.3333
 2025-02-26 11:26:54.578454,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Miss,0.029600000000000015,0.4,0.3704
-2025-02-26 09:31:20.433095,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,0.029000000000000026,0.4545,0.4255
-2025-02-26 09:31:23.427732,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.028999999999999915,0.7937,0.7647
 2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Milwaukee Bucks,0.028799999999999992,0.1538,0.125
 2025-02-26 10:35:34.888272,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,No,0.025599999999999956,0.6,0.5744
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.025300000000000003,0.1429,0.1176
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.024500000000000077,0.8182,0.7937
 2025-02-26 14:33:40.259970,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),0.023800000000000043,0.5238,0.5
-2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.023799999999999988,0.5,0.4762
-2025-02-26 09:31:20.520506,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.023799999999999988,0.5,0.4762
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.023200000000000002,0.0476,0.0244
-2025-02-26 09:31:22.219569,To Make The Playoffs - Minnesota Twins To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.022699999999999998,0.4878,0.4651
 2025-02-26 10:35:34.798941,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Under 76.5,0.022600000000000064,0.5348,0.5122
 2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.02169999999999994,0.5455,0.5238
 2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.02079999999999993,0.5556,0.5348
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.02049999999999999,0.1538,0.1333
 2025-02-26 10:35:34.778062,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Over 83.5,0.01970000000000005,0.5652,0.5455
-2025-02-26 09:31:22.051531,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Under 63.5,0.01970000000000005,0.5652,0.5455
-2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.01970000000000005,0.5652,0.5455
 2025-02-26 10:35:34.984485,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.01970000000000005,0.5652,0.5455
+2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.01970000000000005,0.5652,0.5455
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.019100000000000006,0.9524,0.9333
-2025-02-26 09:31:20.551000,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,0.018099999999999998,0.0769,0.0588
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Ali Akhmedov,0.01760000000000006,0.9,0.8824
 2025-02-26 15:33:18.893885,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Liam Wilson,0.016799999999999926,0.8571,0.8403
-2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.016699999999999937,0.6,0.5833
 2025-02-26 15:33:18.898123,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.015800000000000036,0.8095,0.7937
-2025-02-26 09:31:23.391328,To Record the Most Triples - Player To Record the Most Triples - 2025 Regular Season - Player To Record the Most Triples,Pete Crow-Armstrong (CHI),0.014899999999999997,0.0625,0.0476
 2025-02-26 12:53:59.506575,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 69.5,0.014800000000000035,0.6226,0.6078
 2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,0.014300000000000035,0.274,0.2597
-2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.013899999999999968,0.2703,0.2564
 2025-02-26 15:33:17.112860,MLB Futures Specials - MLB 2025 Division Finishing Position - Milwaukee Brewers NL Central Finishing Position,1st,0.013899999999999968,0.2703,0.2564
-2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.013799999999999923,0.6364,0.6226
-2025-02-26 09:31:24.219145,TGL - TGL - Winner,The Bay,0.013600000000000001,0.3077,0.2941
-2025-02-26 09:31:23.487388,Boxing Lines - Ryan Garner vs Salvador Jimenez - To Win the Bout,Salvador Jimenez,0.0131,0.2353,0.2222
-2025-02-26 09:31:24.219145,TGL - TGL - Winner,New York,0.012899999999999995,0.1667,0.1538
+2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.013899999999999968,0.2703,0.2564
 2025-02-26 15:33:18.928084,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.012700000000000045,0.6491,0.6364
 2025-02-26 10:35:36.183965,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.012700000000000045,0.6491,0.6364
 2025-02-26 10:35:34.809364,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - Regular Season Wins,Under 80.5,0.012199999999999989,0.5122,0.5
 2025-02-26 16:38:10.703747,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,0.012199999999999989,0.5122,0.5
-2025-02-26 09:31:22.019828,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Over 60.5,0.011600000000000055,0.5238,0.5122
-2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Under 78.5,0.0116,0.4878,0.4762
 2025-02-26 10:35:34.898772,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.0116,0.4878,0.4762
+2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Under 78.5,0.0116,0.4878,0.4762
 2025-02-26 10:35:33.716231,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.010899999999999993,0.1538,0.1429
 2025-02-26 10:35:35.866978,To Make The Playoffs - San Diego Padres To Make The Playoffs - 2025 - To Make The Playoffs,No,0.010699999999999932,0.5455,0.5348
 2025-02-26 12:53:59.506575,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 69.5,-0.010099999999999998,0.4444,0.4545
-2025-02-26 09:31:22.019828,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Under 60.5,-0.010099999999999998,0.5455,0.5556
-2025-02-26 09:31:24.219145,TGL - TGL - Winner,Jupiter Links,-0.0102,0.0667,0.0769
-2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,-0.0102,0.0667,0.0769
 2025-02-26 10:35:34.919887,To Make The Playoffs - Los Angeles Dodgers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.0102,0.0667,0.0769
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
-2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Oldham Athletic,-0.0103,0.002,0.0123
-2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.010499999999999982,0.2,0.2105
 2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010699999999999932,0.5348,0.5455
-2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.010699999999999987,0.3226,0.3333
 2025-02-26 10:35:35.866978,To Make The Playoffs - San Diego Padres To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.01100000000000001,0.5238,0.5348
-2025-02-26 09:31:20.502589,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Wolfsburg,-0.011099999999999999,0.1,0.1111
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.011499999999999955,0.6552,0.6667
 2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.011600000000000055,0.5122,0.5238
-2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,Barnet,-0.0121,0.8667,0.8788
-2025-02-26 09:31:21.998820,Regular Season Wins - Chicago Cubs Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
 2025-02-26 12:53:59.545121,Scores - 1st Round Scores - Taylor Pendrith - 1st Round Scores,Over 69.5,-0.012199999999999989,0.4878,0.5
+2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.012199999999999989,0.4878,0.5
+2025-02-26 10:35:34.767656,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.012199999999999989,0.4878,0.5
 2025-02-26 12:53:59.520907,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 69.5,-0.012199999999999989,0.4878,0.5
 2025-02-26 12:53:59.511575,Scores - 1st Round Scores - Davis Thompson - 1st Round Scores,Over 69.5,-0.012199999999999989,0.4878,0.5
 2025-02-26 10:35:34.793659,Regular Season Wins - Philadelphia Phillies Wins - 2025 Regular Season - Regular Season Wins,Over 91.5,-0.012199999999999989,0.5,0.5122
-2025-02-26 10:35:34.767656,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.012199999999999989,0.4878,0.5
-2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.012199999999999989,0.4878,0.5
 2025-02-26 11:26:53.978267,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,-0.012700000000000045,0.6364,0.6491
-2025-02-26 09:31:23.487388,Boxing Lines - Ryan Garner vs Salvador Jimenez - To Win the Bout,Ryan Garner,-0.012899999999999912,0.8333,0.8462
 2025-02-26 10:35:33.716231,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.013800000000000034,0.3636,0.3774
-2025-02-26 09:31:20.637078,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.013899999999999996,0.1111,0.125
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,-0.013999999999999999,0.0769,0.0909
 2025-02-26 15:33:18.898123,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.014300000000000035,0.2597,0.274
 2025-02-26 10:35:33.725797,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,-0.014399999999999996,0.0625,0.0769
-2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Stockport County,-0.015100000000000002,0.8182,0.8333
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.015100000000000002,0.1667,0.1818
 2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,-0.015800000000000036,0.7937,0.8095
-2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.016699999999999937,0.5833,0.6
-2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Barnet,-0.016700000000000048,0.7333,0.75
 2025-02-26 15:33:18.893885,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Youssef Dib,-0.01680000000000001,0.2105,0.2273
-2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Over 78.5,-0.017299999999999982,0.5744,0.5917
 2025-02-26 10:35:34.898772,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.017299999999999982,0.5744,0.5917
-2025-02-26 09:31:20.538289,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.01759999999999999,0.1,0.1176
-2025-02-26 09:31:20.510777,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.018099999999999998,0.0588,0.0769
-2025-02-26 09:31:20.445822,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.018900000000000028,0.4255,0.4444
-2025-02-26 09:31:20.436504,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.018999999999999906,0.7143,0.7333
+2025-02-26 10:35:34.835607,Regular Season Wins - Toronto Blue Jays Wins - 2025 Regular Season - Regular Season Wins,Over 78.5,-0.017299999999999982,0.5744,0.5917
 2025-02-26 10:35:33.721024,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.019000000000000017,0.2667,0.2857
 2025-02-26 14:33:40.259970,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.01970000000000005,0.5455,0.5652
 2025-02-26 10:35:34.798941,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Over 76.5,-0.02079999999999993,0.5348,0.5556
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.020799999999999985,0.3125,0.3333
-2025-02-26 09:31:20.523610,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.02169999999999994,0.5238,0.5455
 2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.02169999999999994,0.5238,0.5455
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.021999999999999964,0.2857,0.3077
-2025-02-26 09:31:20.633432,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,-0.022199999999999998,0.1111,0.1333
 2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.022600000000000064,0.5122,0.5348
 2025-02-26 10:35:34.888272,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.022699999999999998,0.4651,0.4878
-2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,-0.023200000000000002,0.0244,0.0476
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.023799999999999988,0.4762,0.5
-2025-02-26 09:31:20.551000,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,-0.023799999999999988,0.1429,0.1667
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.023800000000000043,0.5,0.5238
-2025-02-26 09:31:22.051531,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,-0.023800000000000043,0.5,0.5238
-2025-02-26 10:35:34.778062,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.023800000000000043,0.5,0.5238
 2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.023800000000000043,0.5,0.5238
 2025-02-26 10:35:34.984485,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.023800000000000043,0.5,0.5238
+2025-02-26 10:35:34.778062,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.023800000000000043,0.5,0.5238
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02400000000000002,0.25,0.274
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.024999999999999994,0.1,0.125
-2025-02-26 09:31:20.544614,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,-0.025499999999999967,0.4,0.4255
-2025-02-26 09:31:22.219569,To Make The Playoffs - Minnesota Twins To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.025599999999999956,0.5744,0.6
 2025-02-26 11:26:54.578454,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Make,-0.025600000000000067,0.6667,0.6923
-2025-02-26 09:31:23.427732,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02899999999999997,0.274,0.303
-2025-02-26 09:31:20.547822,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.029000000000000026,0.4255,0.4545
-2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.033300000000000024,0.1667,0.2
-2025-02-26 09:31:22.041017,Regular Season Wins - Los Angeles Angels Wins - 2025 Regular Season - Regular Season Wins,Under 71.5,-0.03480000000000005,0.5,0.5348
-2025-02-26 09:31:20.514259,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.03570000000000001,0.25,0.2857
 2025-02-26 10:35:34.979228,To Make The Playoffs - Tampa Bay Rays To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.0394000000000001,0.7333,0.7727
-2025-02-26 09:31:20.433095,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,-0.04089999999999999,0.3846,0.4255
-2025-02-26 09:31:20.541441,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.04169999999999999,0.125,0.1667
-2025-02-26 09:31:20.517387,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,-0.0475,0.0294,0.0769
-2025-02-26 09:31:20.526719,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.0504,0.7143,0.7647
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Denver Broncos,-0.05710000000000001,0.1429,0.2
-2025-02-26 09:31:21.021149,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,-0.07500000000000001,0.125,0.2
 2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.07930000000000001,0.1429,0.2222
-2025-02-26 09:31:20.439662,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.08549999999999996,0.2222,0.3077
 2025-02-26 10:35:33.730109,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Golden State Warriors,-0.0917,0.6226,0.7143
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,-0.14479999999999998,0.2,0.3448
 2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.2444,0.2,0.4444

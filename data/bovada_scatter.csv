@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-25 19:25:38.357680,NFL Specials - 2025 NFL Combine - 2025  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.27 seconds,0.09050000000000002,0.7059,0.6154
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.07440000000000002,0.5744,0.5
 2025-02-25 18:38:44.636270,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Make,0.04760000000000009,0.7143,0.6667
-2025-02-25 14:34:12.106653,Tournament Match-Ups - Tournament Match-Up - D. Berger vs T. Pendrith - Tournament Match-Up,Taylor Pendrith,0.04760000000000003,0.5238,0.4762
 2025-02-25 18:38:41.955971,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,St. John's,0.043800000000000006,0.2105,0.1667
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,Bologna,0.04169999999999999,0.1667,0.125
 2025-02-25 18:38:42.347815,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.040999999999999925,0.6154,0.5744
@@ -12,18 +11,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-25 15:32:47.678862,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Miss,0.03640000000000004,0.4,0.3636
 2025-02-25 15:32:47.674354,Cut Lines - Billy Horschel - Make Cut / Miss Cut - Billy Horschel,Miss,0.03640000000000004,0.4,0.3636
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.03330000000000001,0.1,0.0667
-2025-02-25 14:34:09.792427,NFL Specials - 2025 NFL Combine - 2025  NFL Combine - Fastest 40 Yard Dash Time,Slower than 4.27 seconds,0.032099999999999906,0.6154,0.5833
 2025-02-26 01:58:17.606243,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,Atlético Madrid,0.02779999999999999,0.25,0.2222
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,Juventus,0.02739999999999998,0.2941,0.2667
 2025-02-25 21:28:41.131362,Argentina Open - Argentina Open - Winner,Chris Baker,0.0273,0.0323,0.005
 2025-02-25 23:28:00.287185,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Youssef Dib,0.02729999999999999,0.2273,0.2
-2025-02-25 20:31:31.910259,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Make,0.025600000000000067,0.6923,0.6667
 2025-02-25 20:31:31.956089,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Make,0.025600000000000067,0.6923,0.6667
+2025-02-25 20:31:31.910259,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Make,0.025600000000000067,0.6923,0.6667
 2025-02-25 18:38:44.667750,Investec South African Open Championship - Investec South African Open Championship - Winner,Johannes Veerman,0.024600000000000004,0.0345,0.0099
 2025-02-25 22:32:46.244192,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.022600000000000064,0.5348,0.5122
 2025-02-25 20:31:31.698288,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.02250000000000002,0.2857,0.2632
 2025-02-26 01:58:20.366960,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,0.022199999999999998,0.3448,0.3226
-2025-02-25 14:34:12.091812,Tournament Match-Ups - Tournament Match-Up - B. Horschel vs P. Rodgers - Tournament Match-Up,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
 2025-02-25 16:37:50.026372,Cut Lines - Daniel Berger - Make Cut / Miss Cut - Daniel Berger,Miss,0.020799999999999985,0.3333,0.3125
 2025-02-26 01:58:17.761003,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.02049999999999999,0.1538,0.1333
 2025-02-26 01:58:17.674583,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.02020000000000001,0.1111,0.0909
@@ -37,10 +34,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 01:58:20.420684,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.010699999999999932,0.5455,0.5348
 2025-02-26 01:58:17.679187,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,0.010399999999999993,0.2326,0.2222
 2025-02-25 17:34:12.221172,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.010099999999999998,0.5556,0.5455
-2025-02-25 16:37:47.818218,NFL Specials - Where will Justin Fields Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.010099999999999998,0.1111,0.1212
 2025-02-25 20:31:31.724197,Boxing Lines - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010099999999999998,0.5455,0.5556
+2025-02-25 16:37:47.818218,NFL Specials - Where will Justin Fields Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.010099999999999998,0.1111,0.1212
 2025-02-25 19:25:40.683456,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.010699999999999932,0.5348,0.5455
 2025-02-26 01:58:20.420684,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.01100000000000001,0.5238,0.5348
+2025-02-26 03:01:08.518276,Boxing Lines - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,-0.011099999999999999,0.1,0.1111
 2025-02-25 16:37:47.818218,NFL Specials - Where will Justin Fields Play Week 1 of the 2025 NFL Season - Proposition,Cleveland Browns,-0.011099999999999999,0.1,0.1111
 2025-02-25 17:34:12.221172,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.011600000000000055,0.5122,0.5238
 2025-02-25 20:31:31.719717,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
@@ -53,7 +51,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 01:58:17.754427,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.02020000000000001,0.0909,0.1111
 2025-02-25 22:32:46.244192,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.02079999999999993,0.5348,0.5556
 2025-02-26 01:58:17.606243,Copa del Rey - Spain Copa del Rey 2024/25 - Winner,FC Barcelona,-0.020799999999999985,0.3125,0.3333
-2025-02-25 14:34:12.091812,Tournament Match-Ups - Tournament Match-Up - B. Horschel vs P. Rodgers - Tournament Match-Up,Billy Horschel,-0.02169999999999994,0.5238,0.5455
 2025-02-25 22:32:44.066607,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.021699999999999997,0.4545,0.4762
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.024299999999999995,0.0526,0.0769
 2025-02-25 20:31:31.698288,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.0260999999999999,0.7778,0.8039
@@ -65,8 +62,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 01:58:17.761003,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,-0.03420000000000001,0.8889,0.9231
 2025-02-26 01:58:17.764105,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,-0.035699999999999954,0.7143,0.75
 2025-02-25 18:38:42.347815,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.036199999999999996,0.1176,0.1538
-2025-02-25 14:34:09.792427,NFL Specials - 2025 NFL Combine - 2025  NFL Combine - Fastest 40 Yard Dash Time,Faster than 4.27 seconds,-0.045499999999999985,0.4545,0.5
-2025-02-25 14:34:12.106653,Tournament Match-Ups - Tournament Match-Up - D. Berger vs T. Pendrith - Tournament Match-Up,Daniel Berger,-0.04620000000000002,0.5455,0.5917
 2025-02-25 15:32:47.678862,Cut Lines - Cameron Young - Make Cut / Miss Cut - Cameron Young,Make,-0.04760000000000009,0.6667,0.7143
 2025-02-25 15:32:47.674354,Cut Lines - Billy Horschel - Make Cut / Miss Cut - Billy Horschel,Make,-0.04760000000000009,0.6667,0.7143
 2025-02-25 18:38:44.636270,Cut Lines - J J Spaun - Make Cut / Miss Cut - J J Spaun,Miss,-0.04910000000000003,0.3509,0.4

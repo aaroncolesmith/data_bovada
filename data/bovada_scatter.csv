@@ -4,21 +4,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-27 01:58:40.284932,Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Under 69.5,0.02859999999999996,0.6364,0.6078
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.024500000000000077,0.8182,0.7937
-2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.02169999999999994,0.5455,0.5238
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.021299999999999986,0.303,0.2817
-2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.02079999999999993,0.5556,0.5348
 2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 69.5,0.02079999999999993,0.5556,0.5348
+2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.02079999999999993,0.5556,0.5348
 2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.01970000000000005,0.5652,0.5455
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.019100000000000006,0.9524,0.9333
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Ali Akhmedov,0.01760000000000006,0.9,0.8824
 2025-02-26 23:30:23.809064,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.01759999999999999,0.1176,0.1
-2025-02-26 15:33:18.893885,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Liam Wilson,0.016799999999999926,0.8571,0.8403
-2025-02-26 15:33:18.898123,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.015800000000000036,0.8095,0.7937
 2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,0.014300000000000035,0.274,0.2597
-2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.013899999999999968,0.2703,0.2564
-2025-02-26 15:33:17.112860,MLB Futures Specials - MLB 2025 Division Finishing Position - Milwaukee Brewers NL Central Finishing Position,1st,0.013899999999999968,0.2703,0.2564
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 69.5,0.013799999999999923,0.6364,0.6226
-2025-02-26 15:33:18.928084,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.012700000000000045,0.6491,0.6364
 2025-02-26 23:30:23.791769,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.012199999999999989,0.5122,0.5
 2025-02-26 16:38:10.703747,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,0.012199999999999989,0.5122,0.5
 2025-02-26 23:30:23.804781,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.011600000000000055,0.5238,0.5122
@@ -27,17 +21,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010699999999999932,0.5348,0.5455
 2025-02-26 23:30:23.809064,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,-0.011199999999999988,0.9412,0.9524
 2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.011600000000000055,0.5122,0.5238
-2025-02-26 15:33:16.931973,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.012199999999999989,0.4878,0.5
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,-0.013999999999999999,0.0769,0.0909
-2025-02-26 15:33:18.898123,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.014300000000000035,0.2597,0.274
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.015100000000000002,0.1667,0.1818
 2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,-0.015800000000000036,0.7937,0.8095
-2025-02-26 15:33:18.893885,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Youssef Dib,-0.01680000000000001,0.2105,0.2273
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.017899999999999916,0.7647,0.7826
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 69.5,-0.018900000000000028,0.4255,0.4444
-2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.02169999999999994,0.5238,0.5455
-2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 69.5,-0.022600000000000064,0.5122,0.5348
 2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.022600000000000064,0.5122,0.5348
+2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 69.5,-0.022600000000000064,0.5122,0.5348
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.023800000000000043,0.5,0.5238
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02400000000000002,0.25,0.274

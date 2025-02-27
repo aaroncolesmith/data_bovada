@@ -1,18 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 20:31:22.163500,NFL Specials - Where will J.K. Dobbins Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Chargers,0.23330000000000004,0.4,0.1667
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Not On NFL Team Roster Week 1,0.08650000000000002,0.9615,0.875
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Tennessee Titans,0.07450000000000001,0.1333,0.0588
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Minnesota Vikings,0.0708,0.1333,0.0625
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Rams,0.05559999999999998,0.5,0.4444
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,San Francisco 49ers,0.03960000000000001,0.0952,0.0556
 2025-02-27 01:58:40.284932,Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Under 69.5,0.02859999999999996,0.6364,0.6078
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.024500000000000077,0.8182,0.7937
-2025-02-26 14:33:40.259970,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),0.023800000000000043,0.5238,0.5
 2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.02169999999999994,0.5455,0.5238
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.021299999999999986,0.303,0.2817
-2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 69.5,0.02079999999999993,0.5556,0.5348
 2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.02079999999999993,0.5556,0.5348
+2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 69.5,0.02079999999999993,0.5556,0.5348
 2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.01970000000000005,0.5652,0.5455
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.019100000000000006,0.9524,0.9333
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Ali Akhmedov,0.01760000000000006,0.9,0.8824
@@ -24,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 15:33:17.112860,MLB Futures Specials - MLB 2025 Division Finishing Position - Milwaukee Brewers NL Central Finishing Position,1st,0.013899999999999968,0.2703,0.2564
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-02-26 15:33:18.928084,Boxing Lines - Ruadhan Farrell vs Gerard Hughes - To Win the Bout,Ruadhan Farrell,0.012700000000000045,0.6491,0.6364
-2025-02-26 16:38:10.703747,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,0.012199999999999989,0.5122,0.5
 2025-02-26 23:30:23.791769,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.012199999999999989,0.5122,0.5
+2025-02-26 16:38:10.703747,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,0.012199999999999989,0.5122,0.5
 2025-02-26 23:30:23.804781,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.011600000000000055,0.5238,0.5122
 2025-02-26 23:30:23.804781,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.010099999999999998,0.5455,0.5556
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
@@ -40,15 +35,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 15:33:18.893885,Boxing Lines - Liam Wilson vs Youssef Dib - To Win the Bout,Youssef Dib,-0.01680000000000001,0.2105,0.2273
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.017899999999999916,0.7647,0.7826
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 69.5,-0.018900000000000028,0.4255,0.4444
-2025-02-26 14:33:40.259970,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.01970000000000005,0.5455,0.5652
 2025-02-26 15:33:18.953716,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.02169999999999994,0.5238,0.5455
-2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.022600000000000064,0.5122,0.5348
 2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 69.5,-0.022600000000000064,0.5122,0.5348
+2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.022600000000000064,0.5122,0.5348
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.023800000000000043,0.5,0.5238
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02400000000000002,0.25,0.274
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.024999999999999994,0.1,0.125
 2025-02-27 01:58:40.284932,Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Over 69.5,-0.029000000000000026,0.4255,0.4545
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Denver Broncos,-0.05710000000000001,0.1429,0.2
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Pittsburgh Steelers,-0.14479999999999998,0.2,0.3448
-2025-02-26 14:33:37.434095,NFL Specials - Where will Aaron Rodgers Play Week 1 of the 2025 NFL Season - Proposition,Las Vegas Raiders,-0.2444,0.2,0.4444

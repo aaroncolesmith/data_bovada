@@ -1,41 +1,52 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-26 20:31:22.163500,NFL Specials - Where will J.K. Dobbins Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Chargers,0.23330000000000004,0.4,0.1667
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Not On NFL Team Roster Week 1,0.08650000000000002,0.9615,0.875
+2025-02-27 05:33:36.468162,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.03300000000000003,0.9804,0.9474
 2025-02-27 01:58:40.284932,Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Under 69.5,0.02859999999999996,0.6364,0.6078
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,0.024500000000000077,0.8182,0.7937
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.021299999999999986,0.303,0.2817
 2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 69.5,0.02079999999999993,0.5556,0.5348
-2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.02079999999999993,0.5556,0.5348
-2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.01970000000000005,0.5652,0.5455
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.019100000000000006,0.9524,0.9333
 2025-02-27 04:35:14.237922,Cognizant Classic - 2/3 Balls - 1st Round 3 Balls - G. Woodland / M.W. Lee / S. Lowry - 1st Round 3 Balls,Shane Lowry,0.018900000000000028,0.4444,0.4255
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Ali Akhmedov,0.01760000000000006,0.9,0.8824
 2025-02-26 23:30:23.809064,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,0.01759999999999999,0.1176,0.1
-2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,0.014300000000000035,0.274,0.2597
+2025-02-27 05:33:37.708127,Regular Season Wins - Cincinnati Reds Wins - 2025 Regular Season - Regular Season Wins,Over 79.5,0.017299999999999982,0.5917,0.5744
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-02-27 04:35:13.956330,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,0.0131,0.7778,0.7647
-2025-02-26 16:38:10.703747,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,0.012199999999999989,0.5122,0.5
 2025-02-26 23:30:23.791769,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.012199999999999989,0.5122,0.5
 2025-02-26 23:30:23.804781,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.011600000000000055,0.5238,0.5122
+2025-02-27 05:33:38.079874,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Jurickson Profar Total Home Runs,Under 18.5,0.01100000000000001,0.5348,0.5238
+2025-02-27 05:33:38.698921,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Cristopher Sánchez Total Wins,Over 8.5,0.01100000000000001,0.5348,0.5238
+2025-02-27 05:33:37.982832,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Over 157.5,0.01100000000000001,0.5348,0.5238
+2025-02-27 05:33:38.076372,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Jurickson Profar Total Hits,Under 148.5,0.010699999999999932,0.5455,0.5348
+2025-02-27 05:33:38.962554,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total Home Runs,Over 31.5,0.010699999999999932,0.5455,0.5348
+2025-02-27 05:33:38.966080,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total RBIs,Over 97.5,0.010099999999999998,0.5556,0.5455
+2025-02-27 05:33:38.461883,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Hits,Over 156.5,0.010099999999999998,0.5556,0.5455
 2025-02-26 23:30:23.804781,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.010099999999999998,0.5455,0.5556
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Tampa Bay Buccaneers,-0.0102,0.0667,0.0769
-2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010699999999999932,0.5348,0.5455
+2025-02-27 05:33:37.982832,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Under 157.5,-0.010699999999999932,0.5348,0.5455
+2025-02-27 05:33:38.079874,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Jurickson Profar Total Home Runs,Over 18.5,-0.010699999999999932,0.5348,0.5455
+2025-02-27 05:33:38.698921,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Cristopher Sánchez Total Wins,Under 8.5,-0.010699999999999932,0.5348,0.5455
+2025-02-27 05:33:38.962554,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total Home Runs,Under 31.5,-0.01100000000000001,0.5238,0.5348
+2025-02-27 05:33:38.076372,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Jurickson Profar Total Hits,Over 148.5,-0.01100000000000001,0.5238,0.5348
 2025-02-26 23:30:23.809064,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,-0.011199999999999988,0.9412,0.9524
-2025-02-26 16:38:10.594253,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.011600000000000055,0.5122,0.5238
+2025-02-27 05:33:37.708127,Regular Season Wins - Cincinnati Reds Wins - 2025 Regular Season - Regular Season Wins,Under 79.5,-0.0116,0.4762,0.4878
+2025-02-27 05:33:38.966080,Player Props - Toronto Blue Jays - 2025 Regular Season Player Props - Vladimir Guerrero Jr. Total RBIs,Under 97.5,-0.011600000000000055,0.5122,0.5238
+2025-02-27 05:33:38.461883,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Hits,Under 156.5,-0.011600000000000055,0.5122,0.5238
 2025-02-27 04:35:14.045664,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
+2025-02-27 05:33:38.247725,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Elly De La Cruz Total Home Runs,Under 24.5,-0.012199999999999989,0.5,0.5122
+2025-02-27 05:33:37.827178,To Make The Playoffs - Arizona Diamondbacks To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.012199999999999989,0.5,0.5122
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,-0.013999999999999999,0.0769,0.0909
 2025-02-26 19:25:10.524236,Boxing Lines - Ali Akhmedov vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.015100000000000002,0.1667,0.1818
-2025-02-26 17:31:02.226120,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Ricardo Malajika,-0.015800000000000036,0.7937,0.8095
 2025-02-27 04:35:13.956330,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,-0.017299999999999982,0.2857,0.303
 2025-02-26 23:30:23.726584,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.017899999999999916,0.7647,0.7826
 2025-02-27 01:58:40.262813,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 69.5,-0.018900000000000028,0.4255,0.4444
 2025-02-27 04:35:14.237922,Cognizant Classic - 2/3 Balls - 1st Round 3 Balls - G. Woodland / M.W. Lee / S. Lowry - 1st Round 3 Balls,Min Woo Lee,-0.02100000000000002,0.3636,0.3846
 2025-02-27 01:58:40.253977,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 69.5,-0.022600000000000064,0.5122,0.5348
-2025-02-26 16:38:10.691239,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.022600000000000064,0.5122,0.5348
 2025-02-27 01:58:40.276043,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 69.5,-0.022699999999999998,0.4651,0.4878
-2025-02-26 16:38:10.678720,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.023800000000000043,0.5,0.5238
 2025-02-26 19:25:10.537830,Boxing Lines - Jackson Chauke vs Ricardo Malajika - To Win the Bout,Jackson Chauke,-0.02400000000000002,0.25,0.274
 2025-02-26 20:31:24.304051,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.024999999999999994,0.1,0.125
 2025-02-27 01:58:40.284932,Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Over 69.5,-0.029000000000000026,0.4255,0.4545
+2025-02-27 05:33:36.468162,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.0321,0.0588,0.0909
 2025-02-26 18:38:34.827742,NFL Specials - Where will  Rob Gronkowski Play Week 1 of the 2025 NFL Season - Proposition,Denver Broncos,-0.05710000000000001,0.1429,0.2

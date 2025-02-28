@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-02-28 20:31:33.290833,Eurovision Song Contest - Eurovision 2025: Outright Winner - Eurovision 2025: Outright Winner,Ukraine,0.2381,0.2857,0.0476
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Shaun Norris,0.2222,0.25,0.0278
 2025-02-28 13:34:10.745990,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Michigan State,0.21640000000000004,0.7619,0.5455
 2025-02-28 11:26:15.995979,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.10710000000000003,0.5833,0.4762
@@ -30,9 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Hyo Joo Kim,0.036199999999999996,0.0526,0.0164
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Andrea Pavan,0.0347,0.0526,0.0179
 2025-02-28 13:34:10.276883,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,0.033399999999999985,0.1667,0.1333
+2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.033300000000000024,0.2,0.1667
 2025-02-28 14:33:06.422988,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Lydia Ko,0.033300000000000024,0.2,0.1667
 2025-02-28 14:33:03.678637,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.033300000000000024,0.2,0.1667
-2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,0.033300000000000024,0.2,0.1667
 2025-02-28 15:32:06.795069,BKFC: Albuquerque - Manuel Otero vs Braxton Smith - To Win the Bout,Braxton Smith,0.033299999999999996,0.9,0.8667
 2025-02-28 14:33:03.689611,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.031399999999999983,0.2667,0.2353
 2025-02-28 08:35:02.030754,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Xavier Edwards (MIA),0.030699999999999998,0.0833,0.0526
@@ -52,24 +53,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 15:32:03.752331,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.0242,0.0909,0.0667
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Yealimi Noh,0.024,0.0625,0.0385
 2025-02-28 08:35:02.400644,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Mason Andersen,0.023800000000000016,0.1905,0.1667
-2025-02-28 07:29:18.393190,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Mason Andersen,0.023799999999999988,0.1667,0.1429
 2025-02-28 14:33:06.422988,HSBC Women's World Championship - HSBC Women's World Championship - Winner,A Lim Kim,0.023799999999999988,0.1667,0.1429
 2025-02-28 10:34:55.313667,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / G. Woodland / M.W. Lee - 2nd Round 3-Balls,Shane Lowry,0.023799999999999988,0.5,0.4762
 2025-02-28 11:26:15.992945,League Two - England League Two 2024/25 - To Be Relegated,Gillingham,0.023200000000000002,0.0476,0.0244
-2025-02-28 11:26:18.495171,Player Props - Seattle Mariners - 2025 Regular Season Player Props - Julio Rodríguez Total Home Runs,Under 25.5,0.022600000000000064,0.5348,0.5122
 2025-02-28 08:35:00.945511,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Over 159.5,0.022600000000000064,0.5348,0.5122
 2025-02-28 09:31:04.374742,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Shota Imanaga Total Wins,Over 10.5,0.022600000000000064,0.5348,0.5122
+2025-02-28 11:26:18.495171,Player Props - Seattle Mariners - 2025 Regular Season Player Props - Julio Rodríguez Total Home Runs,Under 25.5,0.022600000000000064,0.5348,0.5122
 2025-02-28 15:32:03.752331,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,0.022199999999999998,0.2222,0.2
-2025-02-28 10:34:55.564702,Scores - 2nd Round Scores - Jordan Spieth - 2nd Round Scores,Under 67.5,0.021699999999999997,0.4762,0.4545
-2025-02-28 07:29:18.312489,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / G. Woodland / M.W. Lee - 2nd Round 3-Balls,Shane Lowry,0.021699999999999997,0.4762,0.4545
 2025-02-28 14:33:03.674991,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jalen Brunson (NYK),0.021699999999999997,0.4762,0.4545
-2025-02-28 19:26:16.752837,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.02169999999999994,0.5455,0.5238
+2025-02-28 10:34:55.564702,Scores - 2nd Round Scores - Jordan Spieth - 2nd Round Scores,Under 67.5,0.021699999999999997,0.4762,0.4545
 2025-02-28 11:26:18.992186,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - C. Gotterup / T. Pendrith / L. List - 2nd Round 3-Balls,Taylor Pendrith,0.02169999999999994,0.5455,0.5238
-2025-02-28 12:52:50.688976,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Trea Turner Total Hits,Over 161.5,0.02079999999999993,0.5556,0.5348
+2025-02-28 19:26:16.752837,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.02169999999999994,0.5455,0.5238
+2025-02-28 20:31:36.073349,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.02169999999999994,0.5455,0.5238
 2025-02-28 09:31:04.332099,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele ERA,Under 3.35,0.02079999999999993,0.5556,0.5348
+2025-02-28 12:52:50.688976,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Trea Turner Total Hits,Over 161.5,0.02079999999999993,0.5556,0.5348
 2025-02-28 08:35:01.020996,Player Props - Athletics - 2025 Regular Season Player Props - JP Sears Total Wins,Under 9.5,0.01970000000000005,0.5652,0.5455
-2025-02-28 14:33:05.994887,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.019600000000000006,0.3226,0.303
 2025-02-28 08:35:02.467836,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - P. Peterson / R. Castillo / P. Sheehan - 2nd Round 3-Balls,Paul Peterson,0.019600000000000006,0.3226,0.303
+2025-02-28 14:33:05.994887,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.019600000000000006,0.3226,0.303
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Haeran Ryu,0.019099999999999992,0.0667,0.0476
 2025-02-28 11:26:15.856128,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.019000000000000017,0.2857,0.2667
 2025-02-28 15:32:06.786686,BKFC: Albuquerque - Felipe Chavez vs Derrick Findley - To Win the Bout,Derrick Findley,0.01880000000000004,0.5744,0.5556
@@ -84,77 +84,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 12:52:48.622297,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Palmeiras,0.015100000000000002,0.1818,0.1667
 2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Turkson (Ghana),0.014899999999999997,0.0625,0.0476
 2025-02-28 15:32:06.765384,BKFC: Albuquerque - William Albrecht vs Brett Fields - To Win the Bout,William Albrecht,0.014700000000000046,0.7647,0.75
-2025-02-28 11:26:18.705976,To Record the Most Runs - Player To Record the Most Runs - 2025 Regular Season - Player To Record the Most Runs,José Ramírez (CLE),0.0145,0.0244,0.0099
 2025-02-28 11:26:16.502450,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Paris,0.0145,0.0244,0.0099
+2025-02-28 11:26:18.705976,To Record the Most Runs - Player To Record the Most Runs - 2025 Regular Season - Player To Record the Most Runs,José Ramírez (CLE),0.0145,0.0244,0.0099
 2025-02-28 11:26:16.499308,Euroleague - Euroleague 2024/25 - Outright,Milano,0.014099999999999998,0.0385,0.0244
 2025-02-28 14:33:03.693177,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),0.014099999999999994,0.0667,0.0526
 2025-02-28 14:33:03.682241,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.013999999999999999,0.0909,0.0769
-2025-02-28 14:33:03.693177,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.013999999999999999,0.0909,0.0769
 2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Agostino Vallini (Italy),0.013999999999999999,0.0909,0.0769
+2025-02-28 14:33:03.693177,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.013999999999999999,0.0909,0.0769
 2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Raymond Burke (United States),0.013999999999999999,0.0909,0.0769
 2025-02-28 13:34:10.273811,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,0.013999999999999999,0.0909,0.0769
-2025-02-28 13:34:10.289078,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,0.0131,0.0476,0.0345
 2025-02-28 11:26:15.856128,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.0131,0.0476,0.0345
+2025-02-28 13:34:10.289078,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,0.0131,0.0476,0.0345
 2025-02-28 15:32:06.778356,BKFC: Albuquerque - Donald Sanchez vs Harrison Aiken - To Win the Bout,Donald Sanchez,0.012899999999999912,0.8462,0.8333
 2025-02-28 15:32:06.769940,BKFC: Albuquerque - Keith Richardson vs Bekhzod Usmonov - To Win the Bout,Keith Richardson,0.012700000000000045,0.6491,0.6364
 2025-02-28 14:33:03.514466,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.012299999999999991,0.1176,0.1053
 2025-02-28 09:31:05.272689,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,0.012199999999999989,0.5122,0.5
 2025-02-28 10:34:55.067295,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,0.011600000000000055,0.5238,0.5122
-2025-02-28 13:34:10.264053,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,0.011199999999999995,0.0588,0.0476
 2025-02-28 15:32:03.752331,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,0.011199999999999995,0.0588,0.0476
+2025-02-28 13:34:10.264053,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,0.011199999999999995,0.0588,0.0476
 2025-02-28 15:32:03.752331,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,0.011199999999999988,0.9524,0.9412
 2025-02-28 11:26:18.671717,To Record the Most Strikeouts - Pitcher To Record the Most Strikeouts - 2025 Regular Season - Pitcher To Record the Most Strikeouts,Dylan Cease (SD),0.011099999999999999,0.0667,0.0556
-2025-02-28 08:35:01.153662,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Garrett Crochet Total Strikeouts,Under 201.5,0.01100000000000001,0.5348,0.5238
-2025-02-28 08:35:00.948895,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Wins,Over 9.5,0.01100000000000001,0.5348,0.5238
-2025-02-28 09:31:04.335734,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele Total Strikeouts,Over 148.5,0.01100000000000001,0.5348,0.5238
-2025-02-28 08:35:01.056937,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Chris Sale Total Strikeouts,Over 184.5,0.01100000000000001,0.5348,0.5238
 2025-02-28 18:38:36.199926,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,0.01100000000000001,0.5348,0.5238
+2025-02-28 08:35:00.948895,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Wins,Over 9.5,0.01100000000000001,0.5348,0.5238
+2025-02-28 08:35:01.056937,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Chris Sale Total Strikeouts,Over 184.5,0.01100000000000001,0.5348,0.5238
+2025-02-28 09:31:04.335734,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele Total Strikeouts,Over 148.5,0.01100000000000001,0.5348,0.5238
+2025-02-28 08:35:01.153662,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Garrett Crochet Total Strikeouts,Under 201.5,0.01100000000000001,0.5348,0.5238
 2025-02-28 15:32:06.718500,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,0.010699999999999932,0.5455,0.5348
-2025-02-28 19:26:19.740386,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010699999999999932,0.5455,0.5348
 2025-02-28 08:35:02.492601,Round Match-Ups - 2nd Round Match-Ups - B. Cauley vs N. Hojgaard - 2nd Round Match-Ups,Nicolai Hojgaard,0.010699999999999932,0.5455,0.5348
 2025-02-28 08:35:01.014079,Player Props - Athletics - 2025 Regular Season Player Props - Brent Rooker Total RBIs,Over 95.5,0.010699999999999932,0.5455,0.5348
+2025-02-28 19:26:19.740386,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010699999999999932,0.5455,0.5348
 2025-02-28 12:52:48.622297,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,São Paulo,0.0102,0.0769,0.0667
-2025-02-28 08:35:01.113967,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Adley Rutschman Total RBIs,Over 69.5,0.010099999999999998,0.5556,0.5455
 2025-02-28 11:26:17.972751,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Reese Olson ERA,Under 3.80,0.010099999999999998,0.5556,0.5455
-2025-02-28 08:35:01.117425,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Colton Cowser Total Home Runs,Over 19.5,0.010099999999999998,0.5556,0.5455
-2025-02-28 12:52:50.870156,Player Props - Texas Rangers - 2025 Regular Season Player Props - Corey Seager Total Hits,Over 135.5,0.010099999999999998,0.5556,0.5455
 2025-02-28 12:52:50.279956,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Steven Kwan Total Hits,Under 167.5,0.010099999999999998,0.5556,0.5455
+2025-02-28 12:52:50.870156,Player Props - Texas Rangers - 2025 Regular Season Player Props - Corey Seager Total Hits,Over 135.5,0.010099999999999998,0.5556,0.5455
 2025-02-28 08:35:01.143258,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Alex Bregman Total Home Runs,Over 21.5,0.010099999999999998,0.5556,0.5455
 2025-02-28 15:32:06.583209,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,0.010099999999999998,0.5556,0.5455
+2025-02-28 08:35:01.117425,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Colton Cowser Total Home Runs,Over 19.5,0.010099999999999998,0.5556,0.5455
+2025-02-28 08:35:01.113967,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Adley Rutschman Total RBIs,Over 69.5,0.010099999999999998,0.5556,0.5455
 2025-02-28 11:26:18.983784,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / K. Mitchell / J. Bridgeman - 2nd Round 3-Balls,Joel Dahmen,0.010099999999999998,0.3226,0.3125
 2025-02-28 10:34:55.067295,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,-0.010099999999999998,0.5455,0.5556
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Rio Takeda,-0.010300000000000002,0.0141,0.0244
 2025-02-28 14:33:03.682241,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.010599999999999998,0.4545,0.4651
 2025-02-28 08:35:01.056937,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Chris Sale Total Strikeouts,Under 184.5,-0.010699999999999932,0.5348,0.5455
-2025-02-28 09:31:04.335734,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele Total Strikeouts,Under 148.5,-0.010699999999999932,0.5348,0.5455
 2025-02-28 08:35:00.948895,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Wins,Under 9.5,-0.010699999999999932,0.5348,0.5455
-2025-02-28 18:38:36.199926,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,-0.010699999999999932,0.5348,0.5455
 2025-02-28 08:35:01.153662,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Garrett Crochet Total Strikeouts,Over 201.5,-0.010699999999999932,0.5348,0.5455
+2025-02-28 18:38:36.199926,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,-0.010699999999999932,0.5348,0.5455
+2025-02-28 09:31:04.335734,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele Total Strikeouts,Under 148.5,-0.010699999999999932,0.5348,0.5455
 2025-02-28 15:32:06.617818,Boxing Lines - Nicila Costello vs Brianna Harrison - To Win the Bout,Nicila Costello,-0.010699999999999987,0.3226,0.3333
 2025-02-28 10:34:55.313667,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / G. Woodland / M.W. Lee - 2nd Round 3-Balls,Min Woo Lee,-0.010699999999999987,0.3226,0.3333
-2025-02-28 13:34:10.270728,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2025-02-28 14:33:03.514466,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.010899999999999993,0.1429,0.1538
+2025-02-28 13:34:10.270728,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,A Lim Kim,-0.010899999999999993,0.1429,0.1538
 2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.010899999999999993,0.1429,0.1538
-2025-02-28 08:35:01.014079,Player Props - Athletics - 2025 Regular Season Player Props - Brent Rooker Total RBIs,Under 95.5,-0.01100000000000001,0.5238,0.5348
 2025-02-28 19:26:19.740386,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.01100000000000001,0.5238,0.5348
+2025-02-28 08:35:01.014079,Player Props - Athletics - 2025 Regular Season Player Props - Brent Rooker Total RBIs,Under 95.5,-0.01100000000000001,0.5238,0.5348
 2025-02-28 15:32:06.718500,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,-0.01100000000000001,0.5238,0.5348
 2025-02-28 11:26:18.812156,Boxing Lines - Shauna Browne vs Elif Nur Turhan - To Win the Bout,Shauna Browne,-0.011099999999999999,0.8889,0.9
 2025-02-28 11:26:15.856128,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.011199999999999988,0.9412,0.9524
 2025-02-28 13:34:10.276883,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.011199999999999995,0.0476,0.0588
 2025-02-28 08:35:01.143258,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Alex Bregman Total Home Runs,Under 21.5,-0.011600000000000055,0.5122,0.5238
-2025-02-28 08:35:01.113967,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Adley Rutschman Total RBIs,Under 69.5,-0.011600000000000055,0.5122,0.5238
-2025-02-28 12:52:50.870156,Player Props - Texas Rangers - 2025 Regular Season Player Props - Corey Seager Total Hits,Under 135.5,-0.011600000000000055,0.5122,0.5238
 2025-02-28 12:52:50.279956,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Steven Kwan Total Hits,Over 167.5,-0.011600000000000055,0.5122,0.5238
-2025-02-28 08:35:01.117425,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Colton Cowser Total Home Runs,Under 19.5,-0.011600000000000055,0.5122,0.5238
+2025-02-28 08:35:01.113967,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Adley Rutschman Total RBIs,Under 69.5,-0.011600000000000055,0.5122,0.5238
 2025-02-28 11:26:17.972751,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Reese Olson ERA,Over 3.80,-0.011600000000000055,0.5122,0.5238
-2025-02-28 07:29:18.393190,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Jake Knapp,-0.011600000000000055,0.5122,0.5238
-2025-02-28 08:35:00.760218,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - Regular Season Wins,Under 80.5,-0.012199999999999989,0.5,0.5122
-2025-02-28 08:35:02.400644,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Jake Knapp,-0.012199999999999989,0.5,0.5122
-2025-02-28 08:35:00.926918,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.012199999999999989,0.4878,0.5
-2025-02-28 08:35:02.492601,Round Match-Ups - 2nd Round Match-Ups - B. Cauley vs N. Hojgaard - 2nd Round Match-Ups,Bud Cauley,-0.012199999999999989,0.5,0.5122
-2025-02-28 18:38:36.310480,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
+2025-02-28 12:52:50.870156,Player Props - Texas Rangers - 2025 Regular Season Player Props - Corey Seager Total Hits,Under 135.5,-0.011600000000000055,0.5122,0.5238
+2025-02-28 08:35:01.117425,Player Props - Baltimore Orioles - 2025 Regular Season Player Props - Colton Cowser Total Home Runs,Under 19.5,-0.011600000000000055,0.5122,0.5238
 2025-02-28 15:32:06.583209,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.012199999999999989,0.4878,0.5
+2025-02-28 08:35:00.760218,Regular Season Wins - San Francisco Giants Wins - 2025 Regular Season - Regular Season Wins,Under 80.5,-0.012199999999999989,0.5,0.5122
+2025-02-28 18:38:36.310480,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
+2025-02-28 08:35:02.400644,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Jake Knapp,-0.012199999999999989,0.5,0.5122
+2025-02-28 08:35:02.492601,Round Match-Ups - 2nd Round Match-Ups - B. Cauley vs N. Hojgaard - 2nd Round Match-Ups,Bud Cauley,-0.012199999999999989,0.5,0.5122
+2025-02-28 08:35:00.926918,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.012199999999999989,0.4878,0.5
 2025-02-28 15:32:06.799242,BKFC: Albuquerque - Roderick Stewart vs Bryant McClain - To Win the Bout,Roderick Stewart,-0.012299999999999978,0.3448,0.3571
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Nanna Koertz Madsen,-0.012599999999999998,0.0152,0.0278
 2025-02-28 14:33:03.689611,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),-0.012899999999999912,0.8333,0.8462
@@ -163,22 +162,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 11:26:18.992186,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - C. Gotterup / T. Pendrith / L. List - 2nd Round 3-Balls,Christopher Gotterup,-0.01319999999999999,0.25,0.2632
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Shubankar Sharma,-0.013400000000000002,0.011,0.0244
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Jordan Gumberg,-0.0139,0.0013,0.0152
+2025-02-28 12:52:49.112778,France Presidential Election - French Presidential Election 2027: Outright Winner - Winner,Jean-Luc Melenchon,-0.013999999999999999,0.0769,0.0909
 2025-02-28 11:26:15.995979,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,-0.013999999999999999,0.0769,0.0909
 2025-02-28 15:32:03.759000,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.013999999999999999,0.0769,0.0909
 2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),-0.013999999999999999,0.0769,0.0909
-2025-02-28 12:52:49.112778,France Presidential Election - French Presidential Election 2027: Outright Winner - Winner,Jean-Luc Melenchon,-0.013999999999999999,0.0769,0.0909
 2025-02-28 13:34:10.289078,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,-0.014000000000000012,0.9091,0.9231
 2025-02-28 13:34:10.292105,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.0145,0.0099,0.0244
 2025-02-28 13:34:10.529445,45th Razzie Awards - Worst Picture - Worst Picture,Summer Camp,-0.014899999999999997,0.0476,0.0625
 2025-02-28 18:38:36.366622,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Murat Kilimetov,-0.015699999999999936,0.8667,0.8824
 2025-02-28 10:34:55.564702,Scores - 2nd Round Scores - Jordan Spieth - 2nd Round Scores,Over 67.5,-0.016100000000000003,0.5917,0.6078
 2025-02-28 14:33:03.693177,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.016699999999999993,0.25,0.2667
-2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Pumas UNAM,-0.016699999999999993,0.25,0.2667
 2025-02-28 14:33:03.682241,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.016699999999999993,0.4,0.4167
+2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Pumas UNAM,-0.016699999999999993,0.25,0.2667
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Ruoning Yin,-0.016700000000000007,0.0833,0.1
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Jorge Campillo,-0.0168,0.0028,0.0196
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Charley Hull,-0.01759999999999999,0.1,0.1176
-2025-02-28 07:29:18.312489,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / G. Woodland / M.W. Lee - 2nd Round 3-Balls,Min Woo Lee,-0.017600000000000005,0.3333,0.3509
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Nasa Hataoka,-0.017800000000000003,0.0066,0.0244
 2025-02-28 13:34:10.289078,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,-0.01849999999999996,0.9524,0.9709
 2025-02-28 11:26:18.875213,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Alberto Puello,-0.01880000000000004,0.5556,0.5744
@@ -191,28 +189,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 11:26:18.495171,Player Props - Seattle Mariners - 2025 Regular Season Player Props - Julio Rodríguez Total Home Runs,Over 25.5,-0.02079999999999993,0.5348,0.5556
 2025-02-28 08:35:00.945511,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Under 159.5,-0.02079999999999993,0.5348,0.5556
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Jin Hee Im,-0.021199999999999997,0.0066,0.0278
+2025-02-28 20:31:36.073349,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.02169999999999994,0.5238,0.5455
 2025-02-28 13:34:10.529445,45th Razzie Awards - Worst Picture - Worst Picture,Madame Web,-0.021999999999999964,0.2857,0.3077
-2025-02-28 14:33:03.685935,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.02200000000000002,0.6923,0.7143
 2025-02-28 13:34:10.529445,45th Razzie Awards - Worst Picture - Worst Picture,Megalopolis,-0.02200000000000002,0.6923,0.7143
+2025-02-28 14:33:03.685935,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.02200000000000002,0.6923,0.7143
 2025-02-28 14:33:03.674991,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),-0.022199999999999998,0.2,0.2222
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Jacques Blaauw,-0.022400000000000003,0.002,0.0244
-2025-02-28 09:31:04.332099,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele ERA,Over 3.35,-0.022600000000000064,0.5122,0.5348
 2025-02-28 12:52:50.688976,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Trea Turner Total Hits,Under 161.5,-0.022600000000000064,0.5122,0.5348
+2025-02-28 09:31:04.332099,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Justin Steele ERA,Over 3.35,-0.022600000000000064,0.5122,0.5348
 2025-02-28 11:26:15.884463,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,-0.023800000000000043,0.5,0.5238
 2025-02-28 08:35:01.020996,Player Props - Athletics - 2025 Regular Season Player Props - JP Sears Total Wins,Over 9.5,-0.023800000000000043,0.5,0.5238
 2025-02-28 11:26:19.316221,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Minjee Lee,-0.024299999999999995,0.0345,0.0588
 2025-02-28 15:32:06.786686,BKFC: Albuquerque - Felipe Chavez vs Derrick Findley - To Win the Bout,Felipe Chavez,-0.024399999999999977,0.4878,0.5122
 2025-02-28 14:33:05.994887,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,-0.02440000000000009,0.7403,0.7647
-2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Erdo (Hungary),-0.024999999999999994,0.1,0.125
-2025-02-28 11:26:16.499308,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.024999999999999994,0.1,0.125
 2025-02-28 12:52:48.622297,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Internacional,-0.024999999999999994,0.1,0.125
+2025-02-28 11:26:16.499308,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.024999999999999994,0.1,0.125
+2025-02-28 12:52:48.927556,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Erdo (Hungary),-0.024999999999999994,0.1,0.125
 2025-02-28 13:34:10.276883,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.025000000000000022,0.875,0.9
 2025-02-28 11:26:16.502450,Euroleague - Euroleague 2024/25 - Regular Season League Winner,AS Monaco,-0.0251,0.0149,0.04
 2025-02-28 13:34:10.267325,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Cole Palmer (Chelsea),-0.0254,0.004,0.0294
 2025-02-28 08:35:02.400644,Cognizant Classic - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Hoge / M. Andersen - 2nd Round 3-Balls,Tom Hoge,-0.025499999999999967,0.4,0.4255
 2025-02-28 17:30:29.122578,Investec South African Open Championship - Investec South African Open Championship - Winner,Richie Ramsay,-0.0262,0.0123,0.0385
-2025-02-28 15:32:06.782531,BKFC: Albuquerque - Eric Dodson vs Van Vo - To Win the Bout,Van Vo,-0.02679999999999999,0.2857,0.3125
 2025-02-28 14:33:03.674991,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.02679999999999999,0.2857,0.3125
+2025-02-28 15:32:06.782531,BKFC: Albuquerque - Eric Dodson vs Van Vo - To Win the Bout,Van Vo,-0.02679999999999999,0.2857,0.3125
 2025-02-28 13:34:10.745990,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Wisconsin,-0.0276,0.0141,0.0417
 2025-02-28 11:26:16.894619,MLB Futures Specials - MLB 2025 Division Finishing Position - Arizona Diamondbacks NL West Finishing Position,4th,-0.02779999999999999,0.2222,0.25
 2025-02-28 13:34:10.741994,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Clemson,-0.0286,0.0714,0.1

@@ -76,20 +76,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Wisconsin,0.015700000000000006,0.1333,0.1176
 2025-03-01 12:49:49.636356,Cognizant Classic - 2/3 Balls - 3rd Round 2-Balls - R. Hoshino / D. McCarthy - 3rd Round 2-Balls,Denny McCarthy,0.014800000000000035,0.6226,0.6078
 2025-03-01 09:29:01.806943,Professional League - Saudi Professional League 2024/25 - Winner,Al Qadisiya,0.014099999999999998,0.0385,0.0244
-2025-03-01 02:04:46.032122,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.013999999999999999,0.0909,0.0769
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Ludvig Aberg,0.013999999999999999,0.0909,0.0769
+2025-03-01 02:04:46.032122,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.013999999999999999,0.0909,0.0769
 2025-03-01 02:04:48.989258,Hong Kong - Hong Kong - Winner,Bryson DeChambeau,0.013999999999999999,0.0909,0.0769
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Purdue,0.013999999999999999,0.0909,0.0769
 2025-03-01 10:32:39.473105,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,0.013899999999999996,0.125,0.1111
 2025-03-01 07:27:10.434785,Boxing Lines - Kurt Walker vs leon woodstock - To Win the Bout,leon woodstock,0.0131,0.2353,0.2222
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Kentucky,0.012299999999999991,0.1176,0.1053
+2025-03-01 12:49:49.705814,Cognizant Classic - 2/3 Balls - 3rd Round 2-Balls - M. Thorbjornsen / R. Gerard - 3rd Round 2-Balls,Ryan Gerard,0.012199999999999989,0.5,0.4878
+2025-03-01 13:30:22.031806,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,0.012199999999999989,0.5,0.4878
 2025-03-01 12:49:49.814923,Round Match-Ups - 3rd Round Match-Ups - M. Kim vs R. Fowler - 3rd Round Match-Ups,Rickie Fowler,0.012199999999999989,0.5122,0.5
 2025-03-01 10:32:40.099276,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,0.012199999999999989,0.5,0.4878
-2025-03-01 12:49:49.705814,Cognizant Classic - 2/3 Balls - 3rd Round 2-Balls - M. Thorbjornsen / R. Gerard - 3rd Round 2-Balls,Ryan Gerard,0.012199999999999989,0.5,0.4878
 2025-03-01 12:49:49.897955,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Gaby Lopez,0.0118,0.0217,0.0099
+2025-03-01 10:32:42.605534,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.011600000000000055,0.5238,0.5122
 2025-03-01 04:33:59.591873,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,0.011600000000000055,0.5238,0.5122
 2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,0.011600000000000055,0.5238,0.5122
-2025-03-01 10:32:42.605534,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.011600000000000055,0.5238,0.5122
 2025-03-01 10:32:40.132970,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,No,0.011500000000000066,0.9615,0.95
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Creighton,0.011500000000000003,0.05,0.0385
 2025-03-01 09:29:01.742071,First Division A - Belgium First Division A 2024/25 - Outright,Genk,0.011499999999999955,0.6667,0.6552
@@ -98,34 +99,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-01 11:24:49.423542,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Jarrett Hurd,0.01100000000000001,0.5348,0.5238
 2025-03-01 08:33:34.114340,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.01090000000000002,0.8571,0.8462
 2025-03-01 03:06:42.615259,Boxing Lines - Lewis Edmondson vs Oluwatosin Kejawa - To Win the Bout,Oluwatosin Kejawa,0.010899999999999993,0.1538,0.1429
-2025-03-01 12:49:49.772343,Round Match-Ups - 3rd Round Match-Ups - P. Rodgers vs B. Harman - 3rd Round Match-Ups,Brian Harman,0.010699999999999932,0.5455,0.5348
 2025-03-01 05:31:06.914513,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010699999999999932,0.5455,0.5348
+2025-03-01 12:49:49.772343,Round Match-Ups - 3rd Round Match-Ups - P. Rodgers vs B. Harman - 3rd Round Match-Ups,Brian Harman,0.010699999999999932,0.5455,0.5348
 2025-03-01 07:27:08.135623,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),0.010399999999999993,0.2326,0.2222
 2025-03-01 09:29:01.765624,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,0.0102,0.0769,0.0667
 2025-03-01 09:29:01.746791,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,0.010100000000000001,0.0345,0.0244
-2025-03-01 06:37:24.220284,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010099999999999998,0.5556,0.5455
 2025-03-01 09:29:01.558366,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.010099999999999998,0.4545,0.4444
+2025-03-01 13:30:22.373238,Round Match-Ups - 3rd Round Match-Ups - P. Rodgers vs B. Harman - 3rd Round Match-Ups,Brian Harman,0.010099999999999998,0.5556,0.5455
 2025-03-01 02:04:48.784363,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,0.010099999999999998,0.5556,0.5455
+2025-03-01 06:37:24.220284,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010099999999999998,0.5556,0.5455
+2025-03-01 04:33:59.591873,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,-0.010099999999999998,0.5455,0.5556
+2025-03-01 13:30:22.031806,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.010099999999999998,0.5455,0.5556
+2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010099999999999998,0.5455,0.5556
 2025-03-01 10:32:42.605534,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.010099999999999998,0.5455,0.5556
 2025-03-01 12:49:49.705814,Cognizant Classic - 2/3 Balls - 3rd Round 2-Balls - M. Thorbjornsen / R. Gerard - 3rd Round 2-Balls,Michael Thorbjornsen,-0.010099999999999998,0.5455,0.5556
-2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010099999999999998,0.5455,0.5556
-2025-03-01 04:33:59.591873,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,-0.010099999999999998,0.5455,0.5556
 2025-03-01 10:32:40.103540,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.0102,0.0667,0.0769
 2025-03-01 12:49:49.897955,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Lauren Coughlin,-0.0102,0.005,0.0152
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Tennessee,-0.010299999999999976,0.2564,0.2667
 2025-03-01 05:31:06.833679,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010699999999999932,0.5348,0.5455
-2025-03-01 11:24:49.423542,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.010699999999999932,0.5348,0.5455
 2025-03-01 12:49:49.814923,Round Match-Ups - 3rd Round Match-Ups - M. Kim vs R. Fowler - 3rd Round Match-Ups,Michael Kim,-0.010699999999999932,0.5348,0.5455
+2025-03-01 11:24:49.423542,Boxing Lines - Jarrett Hurd vs Johan Gonzalez - To Win the Bout,Johan Gonzalez,-0.010699999999999932,0.5348,0.5455
 2025-03-01 05:31:06.914513,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.01100000000000001,0.5238,0.5348
-2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Maryland,-0.011099999999999999,0.1,0.1111
 2025-03-01 09:29:04.750074,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.011099999999999999,0.4651,0.4762
+2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Maryland,-0.011099999999999999,0.1,0.1111
 2025-03-01 12:49:49.897955,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Amy Yang,-0.011399999999999997,0.0164,0.0278
 2025-03-01 06:37:24.249611,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.0116,0.4762,0.4878
-2025-03-01 02:04:48.784363,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,-0.011600000000000055,0.5122,0.5238
 2025-03-01 06:37:24.220284,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.011600000000000055,0.5122,0.5238
+2025-03-01 02:04:48.784363,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,-0.011600000000000055,0.5122,0.5238
 2025-03-01 09:29:01.775065,Serie B - Italy Serie B 2024/25 - Winner,Spezia,-0.012100000000000001,0.0123,0.0244
 2025-03-01 02:04:48.915253,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.4878,0.5
 2025-03-01 12:49:49.772343,Round Match-Ups - 3rd Round Match-Ups - P. Rodgers vs B. Harman - 3rd Round Match-Ups,Patrick Rodgers,-0.012199999999999989,0.5,0.5122
+2025-03-01 13:30:22.373238,Round Match-Ups - 3rd Round Match-Ups - P. Rodgers vs B. Harman - 3rd Round Match-Ups,Patrick Rodgers,-0.012199999999999989,0.4878,0.5
 2025-03-01 10:32:40.132970,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.012299999999999991,0.1053,0.1176
 2025-03-01 12:49:49.897955,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Nanna Koertz Madsen,-0.0127,0.0025,0.0152
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Cameron Smith,-0.012700000000000003,0.0196,0.0323
@@ -145,10 +149,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.015700000000000006,0.1176,0.1333
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Xander Schauffele,-0.016600000000000004,0.0667,0.0833
 2025-03-01 09:29:04.706484,Boxing Lines - Craig Richards vs Padraig McCrory - To Win the Bout,Padraig McCrory,-0.016699999999999993,0.4,0.4167
-2025-03-01 02:04:48.906746,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.01759999999999999,0.1,0.1176
 2025-03-01 10:32:40.137158,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,-0.01759999999999999,0.1,0.1176
-2025-03-01 10:32:39.653810,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,-0.0179,0.125,0.1429
+2025-03-01 02:04:48.906746,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.01759999999999999,0.1,0.1176
 2025-03-01 08:33:34.074682,Men's Basketball Conferences - Southeastern Conference Winner - SEC Winner (Regular Season),Alabama,-0.0179,0.125,0.1429
+2025-03-01 10:32:39.653810,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,-0.0179,0.125,0.1429
 2025-03-01 07:27:08.121608,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Clemson,-0.018099999999999998,0.0588,0.0769
 2025-03-01 12:49:49.897955,HSBC Women's World Championship - HSBC Women's World Championship - Winner,Ayaka Furue,-0.019099999999999992,0.0476,0.0667
 2025-03-01 08:33:34.066648,Men's Basketball Conferences - Atlantic Coast Conference Winner - ACC Winner (Regular Season),Louisville,-0.02020000000000001,0.0909,0.1111

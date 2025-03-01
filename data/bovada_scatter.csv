@@ -22,42 +22,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-02-28 18:38:36.366622,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Lamont Stafford,0.01820000000000002,0.2,0.1818
 2025-02-28 23:27:53.569466,BKFC: Albuquerque - Derek Perez vs Mike Livingston - To Win the Bout,Derek Perez,0.017900000000000027,0.875,0.8571
 2025-02-28 22:32:40.208792,BKFC: Albuquerque - Eric Dodson vs Van Vo - To Win the Bout,Eric Dodson,0.017400000000000082,0.8,0.7826
+2025-03-01 06:37:24.249611,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Alberto Puello,0.017299999999999982,0.5917,0.5744
 2025-03-01 02:04:48.780224,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Eduardo Hernandez,0.015800000000000036,0.7561,0.7403
 2025-03-01 02:04:46.032122,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.013999999999999999,0.0909,0.0769
-2025-03-01 02:04:48.989258,Hong Kong - Hong Kong - Winner,Bryson DeChambeau,0.013999999999999999,0.0909,0.0769
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Ludvig Aberg,0.013999999999999999,0.0909,0.0769
+2025-03-01 02:04:48.989258,Hong Kong - Hong Kong - Winner,Bryson DeChambeau,0.013999999999999999,0.0909,0.0769
 2025-02-28 22:32:40.217815,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Murat Kilimetov,0.013900000000000023,0.8889,0.875
 2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,0.011600000000000055,0.5238,0.5122
 2025-03-01 04:33:59.591873,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,0.011600000000000055,0.5238,0.5122
 2025-03-01 02:04:48.906746,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Alfredo Santiago,0.011199999999999988,0.9524,0.9412
 2025-02-28 23:27:53.594821,BKFC: Albuquerque - Roderick Stewart vs Bryant McClain - To Win the Bout,Bryant McClain,0.011099999999999999,0.7333,0.7222
-2025-02-28 21:28:03.257470,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.01100000000000001,0.5348,0.5238
 2025-02-28 18:38:36.199926,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,0.01100000000000001,0.5348,0.5238
 2025-03-01 05:31:06.833679,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,0.01100000000000001,0.5348,0.5238
+2025-02-28 21:28:03.257470,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.01100000000000001,0.5348,0.5238
 2025-03-01 03:06:42.615259,Boxing Lines - Lewis Edmondson vs Oluwatosin Kejawa - To Win the Bout,Oluwatosin Kejawa,0.010899999999999993,0.1538,0.1429
 2025-02-28 19:26:19.740386,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010699999999999932,0.5455,0.5348
 2025-02-28 21:28:03.150366,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,0.010699999999999932,0.5455,0.5348
 2025-03-01 05:31:06.914513,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010699999999999932,0.5455,0.5348
+2025-03-01 06:37:24.220284,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.010099999999999998,0.5556,0.5455
 2025-03-01 02:04:48.784363,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,0.010099999999999998,0.5556,0.5455
-2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010099999999999998,0.5455,0.5556
 2025-03-01 04:33:59.591873,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Kuntae Lee,-0.010099999999999998,0.5455,0.5556
-2025-03-01 05:31:06.833679,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010699999999999932,0.5348,0.5455
+2025-03-01 02:04:48.805015,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010099999999999998,0.5455,0.5556
 2025-02-28 21:28:03.257470,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.010699999999999932,0.5348,0.5455
 2025-02-28 18:38:36.199926,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,John Mannu,-0.010699999999999932,0.5348,0.5455
+2025-03-01 05:31:06.833679,Boxing Lines - Jalen Tait vs John Mannu - To Win the Bout,Jalen Tait,-0.010699999999999932,0.5348,0.5455
+2025-03-01 05:31:06.914513,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.01100000000000001,0.5238,0.5348
 2025-02-28 19:26:19.740386,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.01100000000000001,0.5238,0.5348
 2025-02-28 21:28:03.150366,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,-0.01100000000000001,0.5238,0.5348
-2025-03-01 05:31:06.914513,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.01100000000000001,0.5238,0.5348
 2025-02-28 23:27:53.594821,BKFC: Albuquerque - Roderick Stewart vs Bryant McClain - To Win the Bout,Roderick Stewart,-0.01150000000000001,0.3333,0.3448
+2025-03-01 06:37:24.249611,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.0116,0.4762,0.4878
+2025-03-01 06:37:24.220284,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.011600000000000055,0.5122,0.5238
 2025-03-01 02:04:48.784363,Boxing Lines - Kuntae Lee vs Mikyo Watarai - To Win the Bout,Mikyo Watarai,-0.011600000000000055,0.5122,0.5238
-2025-02-28 18:38:36.310480,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
 2025-03-01 02:04:48.915253,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.4878,0.5
+2025-02-28 18:38:36.310480,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.012199999999999989,0.5,0.5122
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Cameron Smith,-0.012700000000000003,0.0196,0.0323
 2025-03-01 02:04:46.598017,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,-0.013899999999999996,0.1111,0.125
 2025-03-01 02:04:48.780224,Boxing Lines - Eduardo Hernandez vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,-0.014900000000000024,0.3077,0.3226
 2025-02-28 22:32:40.208792,BKFC: Albuquerque - Eric Dodson vs Van Vo - To Win the Bout,Van Vo,-0.015000000000000013,0.2667,0.2817
 2025-02-28 18:38:36.366622,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Murat Kilimetov,-0.015699999999999936,0.8667,0.8824
-2025-02-28 22:32:40.217815,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Lamont Stafford,-0.016600000000000004,0.1739,0.1905
 2025-03-01 03:06:42.719666,Futures - The Masters 2025 - Winner,Xander Schauffele,-0.016600000000000004,0.0667,0.0833
+2025-02-28 22:32:40.217815,BKFC: Albuquerque - Lamont Stafford vs Murat Kilimetov - To Win the Bout,Lamont Stafford,-0.016600000000000004,0.1739,0.1905
 2025-03-01 02:04:48.906746,Boxing Lines - Alfredo Santiago vs Javier Fortuna - To Win the Bout,Javier Fortuna,-0.01759999999999999,0.1,0.1176
 2025-02-28 23:27:53.569466,BKFC: Albuquerque - Derek Perez vs Mike Livingston - To Win the Bout,Mike Livingston,-0.01999999999999999,0.1905,0.2105
 2025-02-28 20:31:36.073349,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,-0.02169999999999994,0.5238,0.5455

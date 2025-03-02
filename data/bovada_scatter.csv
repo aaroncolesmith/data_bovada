@@ -15,9 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.10770000000000002,0.8,0.6923
 2025-03-02 07:26:38.896072,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,JuJu Watkins (USC),0.10340000000000005,0.8333,0.7299
 2025-03-02 05:32:21.435185,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.1,0.2667,0.1667
-2025-03-02 10:32:55.306569,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.09230000000000005,0.4,0.3077
 2025-03-02 12:49:03.745569,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Conclave,0.09230000000000005,0.6923,0.6
-2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,Bradford City,0.0909,0.1818,0.0909
+2025-03-02 10:32:55.306569,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.09230000000000005,0.4,0.3077
 2025-03-02 07:26:38.910062,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),0.08900000000000002,0.339,0.25
 2025-03-02 05:32:21.429188,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.08750000000000002,0.4,0.3125
 2025-03-02 12:49:03.741375,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,The Only Girl In The Orchestra,0.08329999999999999,0.3333,0.25
@@ -33,30 +32,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 12:49:03.766284,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Jesse Eisenberg - A Real Pain,0.06820000000000001,0.25,0.1818
 2025-03-02 07:26:38.736033,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.06789999999999996,0.5917,0.5238
 2025-03-02 10:32:55.205719,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,0.06670000000000004,0.4,0.3333
-2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.06669999999999998,0.2667,0.2
 2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,0.06669999999999998,0.1667,0.1
+2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.06669999999999998,0.2667,0.2
 2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,0.0596,0.1429,0.0833
 2025-03-02 03:39:35.273006,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.05860000000000004,0.5348,0.4762
 2025-03-02 09:30:08.009903,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.057599999999999985,0.9524,0.8948
 2025-03-02 06:36:52.030243,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.05710000000000001,0.2,0.1429
 2025-03-02 14:30:46.317756,NBL - Australia NBL 2024/25 - Outright,SE Melbourne Phoenix,0.056400000000000006,0.1333,0.0769
+2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,0.05559999999999998,0.1667,0.1111
+2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.05559999999999998,0.5,0.4444
+2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.05559999999999998,0.5556,0.5
 2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.05559999999999998,0.1667,0.1111
 2025-03-02 07:26:38.920102,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.05559999999999998,0.5556,0.5
-2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.05559999999999998,0.5556,0.5
-2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,0.05559999999999998,0.5,0.4444
-2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,0.05559999999999998,0.1667,0.1111
 2025-03-02 10:32:55.205719,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,0.05449999999999999,0.6,0.5455
 2025-03-02 05:32:21.366218,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,0.05350000000000002,0.2353,0.1818
 2025-03-02 05:32:21.371797,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.053100000000000036,0.4167,0.3636
 2025-03-02 10:32:55.359957,Serie B - Italy Serie B 2024/25 - Winner,Sassuolo,0.0524,0.9615,0.9091
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Crystal Palace,0.0524,0.1,0.0476
 2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.052000000000000005,0.1429,0.0909
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Bournemouth,0.052000000000000005,0.1429,0.0909
 2025-03-02 07:26:38.778427,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,No,0.05019999999999991,0.6154,0.5652
 2025-03-02 03:39:35.273006,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.04999999999999999,0.25,0.2
-2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.04849999999999999,0.1818,0.1333
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.04849999999999999,0.8667,0.8182
-2025-03-02 03:04:42.187361,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,0.04760000000000003,0.5238,0.4762
+2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.04849999999999999,0.1818,0.1333
 2025-03-02 07:26:38.811284,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,0.04670000000000002,0.274,0.2273
 2025-03-02 05:32:21.429188,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.04620000000000002,0.2,0.1538
 2025-03-02 06:36:52.035010,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.04619999999999991,0.8462,0.8
@@ -68,8 +64,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 10:32:55.363131,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.042899999999999994,0.1429,0.1
 2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.04269999999999999,0.1538,0.1111
 2025-03-02 09:30:08.047940,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.040999999999999925,0.7333,0.6923
-2025-03-02 05:32:21.368989,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.0393,0.6226,0.5833
 2025-03-02 06:36:51.649575,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.0393,0.6226,0.5833
+2025-03-02 05:32:21.368989,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.0393,0.6226,0.5833
 2025-03-02 07:26:38.745816,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.03889999999999999,0.1818,0.1429
 2025-03-02 07:26:38.916794,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.03770000000000007,0.8948,0.8571
 2025-03-02 07:26:38.739317,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.03740000000000002,0.2041,0.1667
@@ -77,113 +73,114 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 09:30:08.038809,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.036800000000000055,0.7701,0.7333
 2025-03-02 08:32:39.880511,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,0.03610000000000002,0.5917,0.5556
 2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.0348,0.4348,0.4
-2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.0343,0.1176,0.0833
 2025-03-02 06:36:51.646558,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.03420000000000001,0.1111,0.0769
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,0.033399999999999985,0.8667,0.8333
 2025-03-02 08:32:40.022242,National League - English National League 2024/25 - To Be Promoted,Barnet,0.033299999999999996,0.9,0.8667
 2025-03-02 07:26:38.786680,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,No,0.03259999999999999,0.1538,0.1212
-2025-03-02 12:49:04.134672,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.031799999999999995,0.1429,0.1111
 2025-03-02 06:36:51.646558,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,0.031799999999999995,0.4762,0.4444
+2025-03-02 12:49:04.134672,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.031799999999999995,0.1429,0.1111
 2025-03-02 12:49:03.737300,97th Academy Awards - 2025 Oscars - Best Documentary Feature - Best Documentary Feature,Porcelain War,0.031799999999999995,0.4762,0.4444
 2025-03-02 10:32:58.294471,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - S. Valimaki / J. Vegas - Final Round 2-Balls,Jhonattan Vegas,0.03090000000000004,0.6226,0.5917
 2025-03-02 12:49:03.749771,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,I'm Still Here,0.030299999999999994,0.6667,0.6364
 2025-03-02 07:26:38.820311,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.030199999999999894,0.8261,0.7959
-2025-03-02 12:49:03.758043,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,The Substance,0.029299999999999993,0.9524,0.9231
 2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Mönchengladbach,0.029299999999999993,0.0769,0.0476
 2025-03-02 09:30:08.047940,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,0.029299999999999993,0.0769,0.0476
+2025-03-02 12:49:03.758043,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,The Substance,0.029299999999999993,0.9524,0.9231
 2025-03-02 10:32:58.456601,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 69.5,0.028900000000000037,0.5744,0.5455
 2025-03-02 05:32:21.435185,League One - England League One 2024/25 - To Finish Bottom,Bristol Rovers,0.028199999999999996,0.0667,0.0385
-2025-03-02 09:30:08.971320,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.027999999999999997,0.1333,0.1053
 2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Estudiantes LP,0.027999999999999997,0.1818,0.1538
+2025-03-02 09:30:08.971320,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.027999999999999997,0.1333,0.1053
 2025-03-02 10:32:58.325807,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Keith Mitchell,0.027700000000000058,0.5833,0.5556
 2025-03-02 07:26:38.910062,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (CLE),0.0267,0.1176,0.0909
-2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2025-03-02 10:32:55.398731,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,0.02560000000000001,0.3333,0.3077
-2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Min Woo Lee,0.025599999999999956,0.6,0.5744
+2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2025-03-02 04:32:52.085567,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - D. Riley / A. Tosti - Final Round 2-Balls,Alejandro Tosti,0.025599999999999956,0.6,0.5744
 2025-03-02 04:32:52.098137,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - T. Hoge / D. McCarthy - Final Round 2-Balls,Denny McCarthy,0.025599999999999956,0.6,0.5744
+2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Min Woo Lee,0.025599999999999956,0.6,0.5744
 2025-03-02 04:32:52.089747,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Christiaan Bezuidenhout,0.025599999999999956,0.6,0.5744
 2025-03-02 05:32:21.449063,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,0.024999999999999994,0.125,0.1
-2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,0.024999999999999994,0.125,0.1
 2025-03-02 10:32:56.158526,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Arch Manning (TEX),0.024999999999999994,0.125,0.1
+2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,0.024999999999999994,0.125,0.1
 2025-03-02 09:30:08.028418,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.0242,0.9333,0.9091
 2025-03-02 07:26:38.820311,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.023799999999999988,0.1667,0.1429
 2025-03-02 09:30:08.015302,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.0236,0.0385,0.0149
 2025-03-02 12:49:06.621873,Round Match-Ups - Final Round Match-Ups - B. Griffin vs R. Fowler - Final Round Match-Ups,Ben Griffin,0.022600000000000064,0.5348,0.5122
-2025-03-02 10:32:58.529848,Round Match-Ups - Final Round Match-Ups - B. Griffin vs R. Fowler - Final Round Match-Ups,Rickie Fowler,0.022600000000000064,0.5348,0.5122
 2025-03-02 10:32:58.290063,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Christiaan Bezuidenhout,0.022600000000000064,0.6226,0.6
-2025-03-02 12:49:03.770401,97th Academy Awards - 2025 Oscars - Best Original Song - Best Original Song,The Journey - The Six Triple Eight,0.022199999999999998,0.2222,0.2
-2025-03-02 10:32:55.393941,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",América de Cali,0.022199999999999998,0.2222,0.2
-2025-03-02 12:49:06.328118,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.022199999999999998,0.8889,0.8667
+2025-03-02 10:32:58.529848,Round Match-Ups - Final Round Match-Ups - B. Griffin vs R. Fowler - Final Round Match-Ups,Rickie Fowler,0.022600000000000064,0.5348,0.5122
 2025-03-02 09:30:08.050875,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.022199999999999998,0.8,0.7778
+2025-03-02 12:49:06.328118,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.022199999999999998,0.8889,0.8667
+2025-03-02 10:32:55.393941,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",América de Cali,0.022199999999999998,0.2222,0.2
+2025-03-02 12:49:03.770401,97th Academy Awards - 2025 Oscars - Best Original Song - Best Original Song,The Journey - The Six Triple Eight,0.022199999999999998,0.2222,0.2
 2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,0.022199999999999998,0.2222,0.2
 2025-03-02 10:32:55.283151,League One - England League One 2024/25 - Top Goalscorer,Richard Kone,0.02169999999999994,0.5455,0.5238
 2025-03-02 10:32:58.405909,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Pavon / R. Hoshino - Final Round 2-Balls,Matthieu Pavon,0.02169999999999994,0.5455,0.5238
+2025-03-02 15:29:14.236932,Round Match-Ups - Final Round Match-Ups - D. Berger vs R. Henley - Final Round Match-Ups,Russell Henley,0.02169999999999994,0.5455,0.5238
 2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,0.02100000000000002,0.3846,0.3636
 2025-03-02 07:26:38.913458,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jalen Brunson (NYK),0.02080000000000004,0.6875,0.6667
 2025-03-02 04:32:52.123969,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Keith Mitchell,0.02079999999999993,0.5556,0.5348
 2025-03-02 12:49:06.605032,Round Match-Ups - Final Round Match-Ups - M. Kim vs P. Rodgers - Final Round Match-Ups,Michael Kim,0.02079999999999993,0.5556,0.5348
 2025-03-02 10:32:58.244182,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.020500000000000074,0.8667,0.8462
 2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.020299999999999985,0.9615,0.9412
+2025-03-02 12:49:03.720841,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Magic Candies,0.02020000000000001,0.1111,0.0909
 2025-03-02 09:30:08.038809,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Juventus,0.02020000000000001,0.1111,0.0909
+2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.02020000000000001,0.1111,0.0909
 2025-03-02 10:32:55.372619,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Tigre,0.02020000000000001,0.1111,0.0909
 2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.02020000000000001,0.1111,0.0909
-2025-03-02 12:49:03.720841,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Magic Candies,0.02020000000000001,0.1111,0.0909
-2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.02020000000000001,0.1111,0.0909
 2025-03-02 12:49:03.786966,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Ariana Grande - Wicked,0.02020000000000001,0.1111,0.0909
-2025-03-02 12:49:06.626093,Round Match-Ups - Final Round Match-Ups - J. Knapp vs D. Ghim - Final Round Match-Ups,Doug Ghim,0.01970000000000005,0.5652,0.5455
 2025-03-02 14:30:48.745863,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - J. Knapp / M. Kim - Final Round 2-Balls,Michael Kim,0.01970000000000005,0.5652,0.5455
+2025-03-02 12:49:06.626093,Round Match-Ups - Final Round Match-Ups - J. Knapp vs D. Ghim - Final Round Match-Ups,Doug Ghim,0.01970000000000005,0.5652,0.5455
 2025-03-02 12:49:06.600792,Round Match-Ups - Final Round Match-Ups - S. Straka vs J. Spieth - Final Round Match-Ups,Sepp Straka,0.01970000000000005,0.5652,0.5455
-2025-03-02 10:32:55.372619,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,0.019000000000000017,0.2857,0.2667
 2025-03-02 09:30:08.015302,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.019000000000000017,0.2857,0.2667
+2025-03-02 10:32:55.372619,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,0.019000000000000017,0.2857,0.2667
 2025-03-02 12:49:03.778649,97th Academy Awards - 2025 Oscars - Best Sound - Best Sound,Dune: Part Two,0.018999999999999906,0.7333,0.7143
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,0.018999999999999906,0.7333,0.7143
 2025-03-02 10:32:58.423503,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Henley / B. Griffin - Final Round 2-Balls,Ben Griffin,0.018900000000000028,0.4444,0.4255
 2025-03-02 09:30:08.279439,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.0189,0.0385,0.0196
 2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.01880000000000004,0.6552,0.6364
+2025-03-02 15:29:14.132764,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - L. Clanton / J. Svensson - Final Round 2-Balls,Luke Clanton,0.01880000000000004,0.5744,0.5556
 2025-03-02 06:36:51.649575,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,0.01820000000000002,0.2,0.1818
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.01820000000000002,0.2,0.1818
+2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.018200000000000004,0.0476,0.0294
 2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Jose Earthquakes,0.018200000000000004,0.0476,0.0294
 2025-03-02 06:36:51.652584,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,0.018200000000000004,0.0476,0.0294
-2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.018200000000000004,0.0476,0.0294
 2025-03-02 06:36:51.646558,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.018199999999999994,0.8182,0.8
+2025-03-02 15:29:14.195033,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - J. Knapp / M. Kim - Final Round 2-Balls,Michael Kim,0.018100000000000005,0.5833,0.5652
 2025-03-02 07:26:38.798949,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,0.018100000000000005,0.7959,0.7778
 2025-03-02 09:30:08.992101,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Liam Coen,0.018099999999999998,0.0769,0.0588
 2025-03-02 12:49:03.712623,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Emilia Perez,0.018099999999999998,0.0769,0.0588
 2025-03-02 10:32:55.130912,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.0179,0.1429,0.125
 2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,0.0179,0.1429,0.125
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Aston Villa,0.0179,0.1429,0.125
 2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,0.017800000000000003,0.0244,0.0066
 2025-03-02 07:26:38.794895,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,No,0.017799999999999983,0.3077,0.2899
 2025-03-02 09:30:09.009836,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Patrick Mahomes (KC),0.01759999999999999,0.1176,0.1
-2025-03-02 03:04:39.454872,League One - England League One 2024/25 - Winner,Birmingham City,0.01739999999999997,0.993,0.9756
 2025-03-02 10:32:58.334568,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Cauley / J. Suber - Final Round 2-Balls,Bud Cauley,0.017299999999999982,0.5917,0.5744
 2025-03-02 04:32:52.094022,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - S. Valimaki / J. Vegas - Final Round 2-Balls,Jhonattan Vegas,0.017299999999999982,0.5917,0.5744
 2025-03-02 06:36:52.025303,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Atlanta Hawks,0.0171,0.0196,0.0025
-2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.016699999999999993,0.2667,0.25
-2025-03-02 05:32:21.429188,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,0.016699999999999993,0.2667,0.25
-2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.016699999999999993,0.2667,0.25
 2025-03-02 10:32:55.205719,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Monterrey,0.016699999999999993,0.2667,0.25
+2025-03-02 05:32:21.429188,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,0.016699999999999993,0.2667,0.25
+2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.016699999999999993,0.2667,0.25
+2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.016699999999999993,0.2667,0.25
 2025-03-02 06:36:51.646558,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.016699999999999937,0.6,0.5833
+2025-03-02 15:29:14.153576,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - Z. Johnson / A. Putnam - Final Round 2-Balls,Andrew Putnam,0.016699999999999937,0.6,0.5833
 2025-03-02 14:30:48.607168,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,0.016600000000000004,0.1905,0.1739
-2025-03-02 14:30:48.660188,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Greyserman / M. Schmid - Final Round 2-Balls,Max Greyserman,0.016100000000000003,0.6078,0.5917
 2025-03-02 10:32:58.343417,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Hossler vs S. Lowry - Final Round 2-Balls,Shane Lowry,0.016100000000000003,0.6078,0.5917
+2025-03-02 14:30:48.660188,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Greyserman / M. Schmid - Final Round 2-Balls,Max Greyserman,0.016100000000000003,0.6078,0.5917
 2025-03-02 09:30:08.022487,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,0.015599999999999947,0.996,0.9804
 2025-03-02 08:32:42.910890,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Henley / B. Griffin - Final Round 2-Balls,Russell Henley,0.01539999999999997,0.6154,0.6
 2025-03-02 12:49:03.704261,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.014899999999999997,0.0625,0.0476
-2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Tigre,0.014499999999999999,0.0294,0.0149
-2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,0.014499999999999999,0.0294,0.0149
 2025-03-02 09:30:08.047940,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Lecce,0.014499999999999999,0.0294,0.0149
+2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Karlsruher,0.014499999999999999,0.0294,0.0149
+2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Tigre,0.014499999999999999,0.0294,0.0149
 2025-03-02 05:32:21.366218,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.014499999999999999,0.0294,0.0149
 2025-03-02 09:30:08.279439,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,0.01440000000000001,0.1053,0.0909
 2025-03-02 12:49:03.745569,97th Academy Awards - 2025 Oscars - Best Film Editing - Best Film Editing,Wicked,0.014399999999999996,0.0769,0.0625
 2025-03-02 09:30:08.279439,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.014099999999999998,0.0385,0.0244
-2025-03-02 12:49:03.708498,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Fernanda Torres - I'm Still Here,0.013999999999999999,0.0909,0.0769
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,0.013999999999999999,0.0909,0.0769
+2025-03-02 12:49:03.708498,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Fernanda Torres - I'm Still Here,0.013999999999999999,0.0909,0.0769
 2025-03-02 03:39:35.299361,Championship - England Championship 2024/25 - Winner,Sheffield United,0.013899999999999996,0.125,0.1111
 2025-03-02 06:36:52.025303,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.013899999999999996,0.125,0.1111
-2025-03-02 03:39:35.281758,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.013799999999999923,0.6364,0.6226
 2025-03-02 10:32:55.355247,Super League - Greece Super League 2024/25 - Winner,Olympiakos,0.013799999999999923,0.6364,0.6226
+2025-03-02 03:39:35.281758,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.013799999999999923,0.6364,0.6226
 2025-03-02 07:26:38.739317,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,0.012899999999999995,0.1667,0.1538
 2025-03-02 09:30:09.009836,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Lamar Jackson (BAL),0.012899999999999995,0.1667,0.1538
 2025-03-02 07:26:38.926757,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.012899999999999912,0.8462,0.8333
@@ -196,58 +193,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.011199999999999988,0.9524,0.9412
 2025-03-02 07:26:38.816161,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.011099999999999999,0.9,0.8889
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,0.010899999999999993,0.1538,0.1429
+2025-03-02 10:32:58.316985,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - G. Sigg / A. Rozner - Final Round 2-Balls,Greyson Sigg,0.010699999999999932,0.5455,0.5348
+2025-03-02 15:29:14.149464,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Horschel / N. Hojgaard - Final Round 2-Balls,Billy Horschel,0.010699999999999932,0.5455,0.5348
 2025-03-02 09:30:08.007262,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.010699999999999932,0.5455,0.5348
 2025-03-02 10:32:58.392488,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Gerard / J. Dahmen - Final Round 2-Balls,Ryan Gerard,0.010699999999999932,0.5455,0.5348
-2025-03-02 10:32:58.316985,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - G. Sigg / A. Rozner - Final Round 2-Balls,Greyson Sigg,0.010699999999999932,0.5455,0.5348
 2025-03-02 10:32:58.383483,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - Z. Johnson / A. Putnam - Final Round 2-Balls,Zach Johnson,0.010599999999999998,0.4651,0.4545
 2025-03-02 14:30:46.317756,NBL - Australia NBL 2024/25 - Outright,Perth Wildcats,0.010499999999999982,0.2105,0.2
-2025-03-02 10:32:55.375705,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,0.010499999999999982,0.2105,0.2
 2025-03-02 10:32:55.375705,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.010499999999999982,0.2105,0.2
-2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.0102,0.0769,0.0667
+2025-03-02 10:32:55.375705,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,0.010499999999999982,0.2105,0.2
 2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.0102,0.0769,0.0667
+2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.0102,0.0769,0.0667
 2025-03-02 12:49:03.712623,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,A Complete Unknown,0.0102,0.0769,0.0667
+2025-03-02 15:29:14.124269,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - Q. Cummins / P. Fishburn - Final Round 2-Balls,Patrick Fishburn,0.010099999999999998,0.5556,0.5455
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,-0.010100000000000001,0.0244,0.0345
 2025-03-02 10:32:55.140590,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,-0.0102,0.0667,0.0769
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Brighton & Hove Albion,-0.0102,0.0667,0.0769
 2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,-0.0102,0.0667,0.0769
-2025-03-02 10:32:58.334568,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Cauley / J. Suber - Final Round 2-Balls,Jackson Suber,-0.010599999999999998,0.4545,0.4651
 2025-03-02 04:32:52.094022,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - S. Valimaki / J. Vegas - Final Round 2-Balls,Sami Valimaki,-0.010599999999999998,0.4545,0.4651
+2025-03-02 10:32:58.334568,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Cauley / J. Suber - Final Round 2-Balls,Jackson Suber,-0.010599999999999998,0.4545,0.4651
 2025-03-02 07:26:38.745816,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),-0.010600000000000002,0.0217,0.0323
 2025-03-02 10:32:58.481524,Round Match-Ups - Final Round Match-Ups - K. Mitchell vs M. Greyserman - Final Round Match-Ups,Keith Mitchell,-0.010699999999999932,0.5348,0.5455
 2025-03-02 09:30:08.938670,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Philadelphia Eagles,-0.010899999999999993,0.1429,0.1538
 2025-03-02 09:30:08.022487,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,-0.0109,0.004,0.0149
 2025-03-02 05:32:21.449063,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.0109,0.004,0.0149
 2025-03-02 10:32:58.521072,Round Match-Ups - Final Round Match-Ups - D. Berger vs R. Henley - Final Round Match-Ups,Russell Henley,-0.01100000000000001,0.5238,0.5348
-2025-03-02 12:49:03.712623,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Nickel Boys,-0.011099999999999999,0.1,0.1111
+2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.011099999999999999,0.1,0.1111
 2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Luis Suarez,-0.011099999999999999,0.1,0.1111
 2025-03-02 07:26:38.930109,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),-0.011099999999999999,0.0556,0.0667
-2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.011099999999999999,0.1,0.1111
 2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.011099999999999999,0.1,0.1111
+2025-03-02 15:29:14.195033,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - J. Knapp / M. Kim - Final Round 2-Balls,Jake Knapp,-0.011099999999999999,0.4651,0.4762
+2025-03-02 12:49:03.712623,97th Academy Awards - 2025 Oscars - Best Adapted Screenplay - Best Adapted Screenplay,Nickel Boys,-0.011099999999999999,0.1,0.1111
+2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.011199999999999995,0.0476,0.0588
 2025-03-02 10:32:55.283151,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.011199999999999995,0.0476,0.0588
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
-2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.011199999999999995,0.0476,0.0588
 2025-03-02 12:49:03.704261,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Timothee Chalamet - A Complete Unknown,-0.01150000000000001,0.3333,0.3448
 2025-03-02 12:49:03.741375,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,"I Am Ready, Warden",-0.011600000000000055,0.5122,0.5238
-2025-03-02 10:32:58.392488,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Gerard / J. Dahmen - Final Round 2-Balls,Joel Dahmen,-0.012199999999999989,0.5,0.5122
 2025-03-02 10:32:58.316985,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - G. Sigg / A. Rozner - Final Round 2-Balls,Antoine Rozner,-0.012199999999999989,0.5,0.5122
+2025-03-02 15:29:14.149464,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Horschel / N. Hojgaard - Final Round 2-Balls,Nicolai Hojgaard,-0.012199999999999989,0.5,0.5122
+2025-03-02 10:32:58.392488,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Gerard / J. Dahmen - Final Round 2-Balls,Joel Dahmen,-0.012199999999999989,0.5,0.5122
+2025-03-02 15:29:14.124269,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - Q. Cummins / P. Fishburn - Final Round 2-Balls,Quade Cummins,-0.012199999999999989,0.4878,0.5
 2025-03-02 10:32:55.355247,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.012699999999999989,0.3509,0.3636
 2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,LA Galaxy,-0.012899999999999995,0.1538,0.1667
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Reading,-0.013,0.0066,0.0196
 2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.0131,0.0345,0.0476
 2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.013899999999999996,0.1111,0.125
-2025-03-02 10:32:55.375705,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Talleres,-0.013899999999999996,0.1111,0.125
 2025-03-02 10:32:55.372619,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,-0.013899999999999996,0.1111,0.125
 2025-03-02 10:32:55.393941,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,-0.013899999999999996,0.1111,0.125
-2025-03-02 07:26:38.745816,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.013900000000000023,0.875,0.8889
+2025-03-02 10:32:55.375705,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Talleres,-0.013899999999999996,0.1111,0.125
 2025-03-02 14:30:48.607168,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,-0.013900000000000023,0.875,0.8889
-2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.013999999999999999,0.0769,0.0909
+2025-03-02 07:26:38.745816,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.013900000000000023,0.875,0.8889
 2025-03-02 08:32:40.022242,National League - English National League 2024/25 - To Be Promoted,Rochdale,-0.013999999999999999,0.0769,0.0909
 2025-03-02 07:26:38.820311,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.013999999999999999,0.0769,0.0909
 2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Independiente,-0.013999999999999999,0.0769,0.0909
+2025-03-02 10:32:55.127416,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.013999999999999999,0.0769,0.0909
 2025-03-02 07:26:38.910062,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.014099999999999994,0.0526,0.0667
 2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Necaxa,-0.014099999999999994,0.0526,0.0667
 2025-03-02 06:36:51.652584,League Two - England League Two 2024/25 - Top 3 Finish,Grimsby Town,-0.014099999999999998,0.0244,0.0385
-2025-03-02 03:04:39.454872,League One - England League One 2024/25 - Winner,Wycombe,-0.014099999999999998,0.0244,0.0385
 2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Nürnberg,-0.014099999999999998,0.0244,0.0385
 2025-03-02 03:39:35.299361,Championship - England Championship 2024/25 - Winner,Leeds United,-0.01429999999999998,0.8948,0.9091
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,CF Montréal,-0.014499999999999999,0.0149,0.0294
@@ -256,16 +256,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Stevenage,-0.014900000000000004,0.0196,0.0345
 2025-03-02 10:32:55.372619,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Racing Club,-0.015100000000000002,0.1667,0.1818
 2025-03-02 10:32:58.423503,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Henley / B. Griffin - Final Round 2-Balls,Russell Henley,-0.01539999999999997,0.6,0.6154
-2025-03-02 12:49:03.753925,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,The Man Who Could Not Remain Silent,-0.015400000000000025,0.3846,0.4
 2025-03-02 07:26:38.923448,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Norman Powell (LAC),-0.015400000000000025,0.2703,0.2857
+2025-03-02 12:49:03.753925,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,The Man Who Could Not Remain Silent,-0.015400000000000025,0.3846,0.4
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Burton Albion,-0.016699999999999937,0.5833,0.6
 2025-03-02 05:32:21.371797,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.016699999999999993,0.25,0.2667
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Manchester United,-0.016700000000000007,0.0833,0.1
 2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.01759999999999999,0.1,0.1176
 2025-03-02 09:30:08.061444,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Keito Nakamura (Reims),-0.017800000000000003,0.0066,0.0244
-2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,-0.0179,0.125,0.1429
 2025-03-02 12:49:03.753925,97th Academy Awards - 2025 Oscars - Best Live Action Short - Best Live Action Short,I'm Not A Robot,-0.0179,0.125,0.1429
 2025-03-02 12:49:03.758043,97th Academy Awards - 2025 Oscars - Best Make Up & Hairstyling - Best Make Up & Hair,Wicked,-0.0179,0.125,0.1429
+2025-03-02 10:32:55.209318,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,-0.0179,0.125,0.1429
 2025-03-02 07:26:38.742586,NBA Championship - NBA Championship 2024-25 - First Time Winner,Yes,-0.018099999999999998,0.0588,0.0769
 2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.018100000000000005,0.9231,0.9412
 2025-03-02 05:32:21.449063,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.01849999999999996,0.9524,0.9709
@@ -273,52 +272,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 07:26:38.916794,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Ime Udoka,-0.0189,0.0196,0.0385
 2025-03-02 08:32:42.910890,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - R. Henley / B. Griffin - Final Round 2-Balls,Ben Griffin,-0.018900000000000028,0.4255,0.4444
 2025-03-02 10:32:58.290063,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Francesco Molinari,-0.018900000000000028,0.4255,0.4444
-2025-03-02 12:49:03.766284,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Sean Baker - Anora,-0.018999999999999906,0.7143,0.7333
 2025-03-02 12:49:03.708498,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Demi Moore - The Substance,-0.018999999999999906,0.7143,0.7333
+2025-03-02 12:49:03.766284,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Sean Baker - Anora,-0.018999999999999906,0.7143,0.7333
 2025-03-02 06:36:51.652584,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,-0.019000000000000017,0.2667,0.2857
 2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,-0.019000000000000017,0.2667,0.2857
 2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Leyton Orient,-0.019499999999999997,0.0099,0.0294
 2025-03-02 07:26:38.798949,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,No,-0.019600000000000006,0.2703,0.2899
 2025-03-02 10:32:58.343417,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - B. Hossler vs S. Lowry - Final Round 2-Balls,Beau Hossler,-0.019699999999999995,0.4348,0.4545
 2025-03-02 14:30:48.660188,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Greyserman / M. Schmid - Final Round 2-Balls,Matti Schmid,-0.019699999999999995,0.4348,0.4545
-2025-03-02 07:26:38.923448,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.020100000000000007,0.7299,0.75
 2025-03-02 09:30:08.204935,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.020100000000000007,0.2299,0.25
-2025-03-02 09:30:08.061444,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.02020000000000001,0.0909,0.1111
+2025-03-02 07:26:38.923448,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.020100000000000007,0.7299,0.75
 2025-03-02 10:32:55.306569,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.02020000000000001,0.0909,0.1111
+2025-03-02 09:30:08.061444,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.02020000000000001,0.0909,0.1111
 2025-03-02 10:32:55.379477,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Racing Club,-0.02020000000000001,0.0909,0.1111
 2025-03-02 11:25:08.498087,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.0203,0.0385,0.0588
-2025-03-02 04:32:52.085567,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - D. Riley / A. Tosti - Final Round 2-Balls,Davis Riley,-0.020699999999999996,0.4444,0.4651
 2025-03-02 04:32:52.089747,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Francesco Molinari,-0.020699999999999996,0.4444,0.4651
-2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Matt Kuchar,-0.020699999999999996,0.4444,0.4651
+2025-03-02 15:29:14.153576,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - Z. Johnson / A. Putnam - Final Round 2-Balls,Zach Johnson,-0.020699999999999996,0.4444,0.4651
 2025-03-02 04:32:52.098137,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - T. Hoge / D. McCarthy - Final Round 2-Balls,Tom Hoge,-0.020699999999999996,0.4444,0.4651
+2025-03-02 04:32:52.085567,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - D. Riley / A. Tosti - Final Round 2-Balls,Davis Riley,-0.020699999999999996,0.4444,0.4651
+2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Matt Kuchar,-0.020699999999999996,0.4444,0.4651
 2025-03-02 07:26:38.794895,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.021700000000000053,0.7561,0.7778
 2025-03-02 09:30:08.204935,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,-0.021999999999999964,0.2857,0.3077
 2025-03-02 07:26:38.816161,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,-0.022000000000000006,0.0833,0.1053
 2025-03-02 05:32:21.360642,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.02200000000000002,0.6923,0.7143
-2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.022199999999999998,0.2,0.2222
 2025-03-02 10:32:55.398731,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.022199999999999998,0.2,0.2222
-2025-03-02 10:32:58.244182,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,-0.022199999999999998,0.2,0.2222
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.022199999999999998,0.2,0.2222
+2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.022199999999999998,0.2,0.2222
+2025-03-02 10:32:58.244182,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,-0.022199999999999998,0.2,0.2222
 2025-03-02 12:49:03.741375,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,Incident,-0.02250000000000002,0.2632,0.2857
 2025-03-02 10:32:58.529848,Round Match-Ups - Final Round Match-Ups - B. Griffin vs R. Fowler - Final Round Match-Ups,Ben Griffin,-0.022600000000000064,0.5122,0.5348
 2025-03-02 12:49:06.621873,Round Match-Ups - Final Round Match-Ups - B. Griffin vs R. Fowler - Final Round Match-Ups,Rickie Fowler,-0.022600000000000064,0.5122,0.5348
 2025-03-02 10:32:58.325807,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Isaiah Salinda,-0.022699999999999998,0.4651,0.4878
+2025-03-02 15:29:14.132764,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - L. Clanton / J. Svensson - Final Round 2-Balls,Jesper Svensson,-0.022699999999999998,0.4651,0.4878
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.02310000000000001,0.0769,0.1
-2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,Notts County,-0.02310000000000001,0.0769,0.1
 2025-03-02 09:30:08.022487,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Eintracht Frankfurt,-0.023200000000000002,0.0244,0.0476
-2025-03-02 10:32:55.363131,Serie B - Italy Serie B 2024/25 - To Be Promoted,Juve Stabia,-0.023799999999999988,0.1429,0.1667
-2025-03-02 12:49:06.626093,Round Match-Ups - Final Round Match-Ups - J. Knapp vs D. Ghim - Final Round Match-Ups,Jake Knapp,-0.023799999999999988,0.4762,0.5
-2025-03-02 12:49:06.600792,Round Match-Ups - Final Round Match-Ups - S. Straka vs J. Spieth - Final Round Match-Ups,Jordan Spieth,-0.023799999999999988,0.4762,0.5
 2025-03-02 14:30:48.745863,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - J. Knapp / M. Kim - Final Round 2-Balls,Jake Knapp,-0.023799999999999988,0.4762,0.5
+2025-03-02 12:49:06.600792,Round Match-Ups - Final Round Match-Ups - S. Straka vs J. Spieth - Final Round Match-Ups,Jordan Spieth,-0.023799999999999988,0.4762,0.5
+2025-03-02 12:49:06.626093,Round Match-Ups - Final Round Match-Ups - J. Knapp vs D. Ghim - Final Round Match-Ups,Jake Knapp,-0.023799999999999988,0.4762,0.5
+2025-03-02 10:32:55.363131,Serie B - Italy Serie B 2024/25 - To Be Promoted,Juve Stabia,-0.023799999999999988,0.1429,0.1667
 2025-03-02 10:32:58.405909,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Pavon / R. Hoshino - Final Round 2-Balls,Rikuya Hoshino,-0.023800000000000043,0.5,0.5238
+2025-03-02 15:29:14.236932,Round Match-Ups - Final Round Match-Ups - D. Berger vs R. Henley - Final Round Match-Ups,Daniel Berger,-0.023800000000000043,0.5,0.5238
 2025-03-02 12:49:03.786966,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Felicity Jones - The Brutalist,-0.024,0.0385,0.0625
-2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.0242,0.9091,0.9333
 2025-03-02 10:32:55.133928,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Atlanta United,-0.0242,0.0667,0.0909
 2025-03-02 07:26:38.930109,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),-0.0242,0.0667,0.0909
+2025-03-02 06:36:51.655634,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.0242,0.9091,0.9333
 2025-03-02 12:49:03.741375,97th Academy Awards - 2025 Oscars - Best Documentary Short - Best Documentary Short,Instruments Of A Beating Heart,-0.0242,0.0667,0.0909
 2025-03-02 05:32:21.371797,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.024299999999999995,0.0526,0.0769
-2025-03-02 04:32:52.123969,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Isaiah Salinda,-0.024399999999999977,0.4878,0.5122
 2025-03-02 12:49:06.605032,Round Match-Ups - Final Round Match-Ups - M. Kim vs P. Rodgers - Final Round Match-Ups,Patrick Rodgers,-0.024399999999999977,0.4878,0.5122
+2025-03-02 04:32:52.123969,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Isaiah Salinda,-0.024399999999999977,0.4878,0.5122
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Rotherham Utd,-0.024600000000000004,0.0099,0.0345
 2025-03-02 10:32:55.136916,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,-0.024999999999999994,0.1,0.125
 2025-03-02 08:32:40.022242,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,-0.025300000000000003,0.1176,0.1429
@@ -335,12 +336,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 05:32:21.438171,League One - England League One 2024/25 - Top 2 Finish,Wrexham,-0.030299999999999994,0.3333,0.3636
 2025-03-02 08:32:39.877859,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.03090000000000004,0.5917,0.6226
 2025-03-02 09:30:08.061444,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Arnaud Kalimuendo (Rennes),-0.0312,0.0123,0.0435
-2025-03-02 03:39:35.281758,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.031799999999999995,0.1111,0.1429
 2025-03-02 09:30:08.044987,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,-0.031799999999999995,0.1111,0.1429
+2025-03-02 03:39:35.281758,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.031799999999999995,0.1111,0.1429
 2025-03-02 09:30:08.050875,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.03210000000000002,0.9091,0.9412
-2025-03-02 07:26:38.820311,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Phoenix Suns,-0.03270000000000001,0.2703,0.303
 2025-03-02 06:36:51.652584,League Two - England League Two 2024/25 - Top 3 Finish,Salford City,-0.03270000000000001,0.0149,0.0476
 2025-03-02 06:36:51.646558,League Two - England League Two 2024/25 - To Be Relegated,Gillingham,-0.03270000000000001,0.0149,0.0476
+2025-03-02 07:26:38.820311,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Phoenix Suns,-0.03270000000000001,0.2703,0.303
 2025-03-02 12:49:03.762173,97th Academy Awards - 2025 Oscars - Best Original Score - Best Original Score,Kris Bowers - The Wild Robot,-0.033399999999999985,0.1333,0.1667
 2025-03-02 07:26:38.926757,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.03409999999999999,0.2326,0.2667
 2025-03-02 12:49:03.766284,97th Academy Awards - 2025 Oscars - Best Original Screenplay - Best Original Screenplay,Coralie Fargeat - The Substance,-0.03570000000000001,0.25,0.2857
@@ -352,17 +353,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 07:26:38.739317,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,-0.03839999999999999,0.339,0.3774
 2025-03-02 06:36:51.652584,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.03839999999999999,0.9231,0.9615
 2025-03-02 05:32:21.449063,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.04120000000000001,0.0588,0.1
-2025-03-02 03:04:42.187361,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,-0.04139999999999999,0.5238,0.5652
 2025-03-02 10:32:55.363131,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.04169999999999996,0.8333,0.875
-2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Newcastle United,-0.04169999999999999,0.125,0.1667
 2025-03-02 05:32:21.429188,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.042899999999999994,0.1,0.1429
 2025-03-02 07:26:38.930109,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Kel'el Ware (MIA),-0.04329999999999999,0.0476,0.0909
 2025-03-02 07:26:38.790839,To Make the Playoffs - L.A. Clippers 2024-25 - To Make the Playoffs,No,-0.04410000000000003,0.3333,0.3774
+2025-03-02 09:30:08.044987,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.044399999999999995,0.4,0.4444
 2025-03-02 10:32:55.205719,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.044399999999999995,0.4,0.4444
 2025-03-02 05:32:21.368989,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,-0.044399999999999995,0.4,0.4444
 2025-03-02 12:49:03.749771,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,Emilia Perez,-0.044399999999999995,0.4,0.4444
-2025-03-02 09:30:08.044987,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.044399999999999995,0.4,0.4444
-2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.04440000000000001,0.0667,0.1111
 2025-03-02 08:32:40.018752,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,-0.04440000000000001,0.0667,0.1111
 2025-03-02 07:26:38.778427,To Make the Playoffs - Dallas Mavericks 2024-25 - To Make the Playoffs,Yes,-0.045499999999999985,0.4545,0.5
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,-0.045499999999999985,0.4545,0.5
@@ -381,8 +379,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 09:30:08.028418,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,-0.05379999999999999,0.1,0.1538
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Peterborough United,-0.05559999999999998,0.1111,0.1667
 2025-03-02 05:32:21.371797,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.055900000000000005,0.2667,0.3226
-2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.057699999999999974,0.25,0.3077
 2025-03-02 09:30:08.038809,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.057699999999999974,0.25,0.3077
+2025-03-02 09:30:08.209728,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.057699999999999974,0.25,0.3077
 2025-03-02 10:32:55.205719,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Necaxa,-0.057699999999999974,0.25,0.3077
 2025-03-02 05:32:21.363453,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.05910000000000004,0.6552,0.7143
 2025-03-02 05:32:21.432221,League One - England League One 2024/25 - To Be Relegated,Cambridge United,-0.0615,0.8333,0.8948
@@ -390,8 +388,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 09:30:08.047940,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.06509999999999999,0.2985,0.3636
 2025-03-02 14:30:46.317756,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.06519999999999998,0.4348,0.5
 2025-03-02 07:26:38.896072,NCAA DI Women - John R. Wooden Award Winner - John R. Wooden Award,Hannah Hidalgo (Notre Dame),-0.06590000000000001,0.1667,0.2326
-2025-03-02 09:30:08.009903,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.066,0.0769,0.1429
 2025-03-02 10:32:55.359957,Serie B - Italy Serie B 2024/25 - Winner,Pisa,-0.066,0.0769,0.1429
+2025-03-02 09:30:08.009903,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.066,0.0769,0.1429
 2025-03-02 12:49:03.720841,97th Academy Awards - 2025 Oscars - Best Animated Short - Best Animated Short,Beautiful Men,-0.06669999999999998,0.2,0.2667
 2025-03-02 05:32:21.366218,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,-0.06669999999999998,0.2,0.2667
 2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,-0.06670000000000009,0.7333,0.8
@@ -406,7 +404,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 05:32:21.441193,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,-0.08080000000000004,0.3636,0.4444
 2025-03-02 07:26:38.916794,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,-0.08240000000000001,0.1176,0.2
 2025-03-02 08:32:39.880511,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.08329999999999999,0.25,0.3333
-2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,Walsall,-0.08509999999999995,0.6552,0.7403
 2025-03-02 05:32:21.449063,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.09089999999999998,0.5455,0.6364
 2025-03-02 07:26:38.910062,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),-0.09229999999999994,0.5744,0.6667
 2025-03-02 09:30:08.031296,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.09230000000000005,0.3077,0.4

@@ -19,18 +19,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-01 17:28:57.472456,Men's Basketball Conference Tournament - Sun Belt Conference Tournament Winner - Sun Belt Winner,South Alabama,0.029899999999999982,0.3077,0.2778
 2025-03-01 18:35:19.015185,Boxing Lines - Craig Richards vs Padraig McCrory - To Win the Bout,Craig Richards,0.02849999999999997,0.7059,0.6774
 2025-03-01 17:28:57.072802,97th Academy Awards - 2025 Oscars - Best International Feature - Best Int. Feature,Emilia Perez,0.027700000000000002,0.4444,0.4167
+2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Min Woo Lee,0.025599999999999956,0.6,0.5744
+2025-03-02 04:32:52.098137,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - T. Hoge / D. McCarthy - Final Round 2-Balls,Denny McCarthy,0.025599999999999956,0.6,0.5744
+2025-03-02 04:32:52.085567,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - D. Riley / A. Tosti - Final Round 2-Balls,Alejandro Tosti,0.025599999999999956,0.6,0.5744
+2025-03-02 04:32:52.089747,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Christiaan Bezuidenhout,0.025599999999999956,0.6,0.5744
 2025-03-01 19:23:21.881981,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.023799999999999988,0.3571,0.3333
 2025-03-01 22:31:23.938964,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Alberto Puello,0.022600000000000064,0.6226,0.6
 2025-03-02 02:03:58.824825,Elite Boxing - Gervonta Davis vs Lamont Roach - To Win the Bout,Lamont Roach,0.022000000000000006,0.1053,0.0833
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Scott Jamieson,0.021900000000000003,0.0244,0.0025
 2025-03-01 17:28:57.468436,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Jacksonville,0.0213,0.0769,0.0556
 2025-03-01 16:33:42.118227,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.0213,0.0769,0.0556
+2025-03-02 04:32:52.123969,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Keith Mitchell,0.02079999999999993,0.5556,0.5348
 2025-03-01 20:29:16.786120,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.02049999999999999,0.1538,0.1333
 2025-03-01 17:28:57.468436,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Eastern Kentucky,0.0203,0.0588,0.0385
 2025-03-01 22:31:23.907254,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Gary Antuanne Russell,0.01970000000000005,0.5652,0.5455
-2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Dale Whitnell,0.0179,0.0278,0.0099
 2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Aston Villa,0.0179,0.1429,0.125
+2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Dale Whitnell,0.0179,0.0278,0.0099
 2025-03-02 03:04:39.454872,League One - England League One 2024/25 - Winner,Birmingham City,0.01739999999999997,0.993,0.9756
+2025-03-02 04:32:52.094022,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - S. Valimaki / J. Vegas - Final Round 2-Balls,Jhonattan Vegas,0.017299999999999982,0.5917,0.5744
 2025-03-02 03:39:35.299361,Championship - England Championship 2024/25 - Winner,Sheffield United,0.013899999999999996,0.125,0.1111
 2025-03-01 17:28:57.468436,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Lipscomb,0.013799999999999923,0.6364,0.6226
 2025-03-02 03:39:35.281758,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.013799999999999923,0.6364,0.6226
@@ -45,13 +51,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Brighton & Hove Albion,-0.0102,0.0667,0.0769
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Ivan Cantero,-0.0103,0.002,0.0123
 2025-03-02 02:03:58.820533,Elite Boxing - Subriel Matias vs Gabriel Valenzuela - To Win the Bout,Gabriel Valenzuela,-0.010499999999999982,0.2,0.2105
+2025-03-02 04:32:52.094022,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - S. Valimaki / J. Vegas - Final Round 2-Balls,Sami Valimaki,-0.010599999999999998,0.4545,0.4651
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Richie Ramsay,-0.011,0.0013,0.0123
 2025-03-01 21:29:15.633304,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.011099999999999999,0.4651,0.4762
 2025-03-02 02:03:58.824825,Elite Boxing - Gervonta Davis vs Lamont Roach - To Win the Bout,Gervonta Davis,-0.011199999999999988,0.9412,0.9524
-2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),-0.011199999999999995,0.0476,0.0588
-2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Bijan Robinson (ATL),-0.011199999999999995,0.0476,0.0588
-2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Amon-Ra St. Brown (DET),-0.011199999999999995,0.0323,0.0435
 2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Justin Jefferson (MIN),-0.011199999999999995,0.0476,0.0588
+2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Amon-Ra St. Brown (DET),-0.011199999999999995,0.0323,0.0435
+2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Bijan Robinson (ATL),-0.011199999999999995,0.0476,0.0588
+2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),-0.011199999999999995,0.0476,0.0588
 2025-03-01 16:33:44.573605,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.011600000000000055,0.5122,0.5238
 2025-03-01 17:28:59.714725,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.012199999999999989,0.5,0.5122
 2025-03-01 17:28:59.672282,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.012199999999999989,0.5,0.5122
@@ -64,11 +71,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-02 03:04:39.376591,FA Cup - England FA Cup 2024/25 - Winner,Manchester United,-0.016700000000000007,0.0833,0.1
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Kazuma Kobori,-0.0169,0.001,0.0179
 2025-03-01 16:33:42.118227,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.017600000000000005,0.3333,0.3509
+2025-03-02 04:32:52.089747,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / F. Molinari - Final Round 2-Balls,Francesco Molinari,-0.020699999999999996,0.4444,0.4651
 2025-03-01 22:31:23.938964,Boxing Lines - Alberto Puello vs Sandor Martin - To Win the Bout,Sandor Martin,-0.020699999999999996,0.4444,0.4651
-2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.02310000000000001,0.0769,0.1
+2025-03-02 04:32:52.145017,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - M. Kuchar / M.W. Lee - Final Round 2-Balls,Matt Kuchar,-0.020699999999999996,0.4444,0.4651
+2025-03-02 04:32:52.098137,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - T. Hoge / D. McCarthy - Final Round 2-Balls,Tom Hoge,-0.020699999999999996,0.4444,0.4651
+2025-03-02 04:32:52.085567,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - D. Riley / A. Tosti - Final Round 2-Balls,Davis Riley,-0.020699999999999996,0.4444,0.4651
 2025-03-02 03:04:39.459716,League Two - England League Two 2024/25 - Winner,Notts County,-0.02310000000000001,0.0769,0.1
+2025-03-01 19:23:22.250678,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.02310000000000001,0.0769,0.1
 2025-03-01 22:31:23.907254,Elite Boxing - Jose Valenzuela vs Gary Antuanne Russell - To Win the Bout,Jose Valenzuela,-0.023799999999999988,0.4762,0.5
 2025-03-01 20:29:16.786120,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.023799999999999988,0.3333,0.3571
+2025-03-02 04:32:52.123969,Cognizant Classic - 2/3 Balls - Final Round 2-Balls - K. Mitchell / I. Salinda - Final Round 2-Balls,Isaiah Salinda,-0.024399999999999977,0.4878,0.5122
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Brandon Stone,-0.0273,0.005,0.0323
 2025-03-01 18:35:19.015185,Boxing Lines - Craig Richards vs Padraig McCrory - To Win the Bout,Padraig McCrory,-0.027500000000000024,0.3571,0.3846
 2025-03-01 18:35:19.119923,Investec South African Open Championship - Investec South African Open Championship - Winner,Todd Clements,-0.029500000000000002,0.0028,0.0323

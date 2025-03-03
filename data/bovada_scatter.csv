@@ -29,9 +29,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 10:36:14.919694,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.04040000000000002,0.2222,0.1818
 2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Justin Leonard,0.0336,0.0435,0.0099
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Shaun Norris,0.0262,0.0385,0.0123
+2025-03-03 10:36:15.093552,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,0.024999999999999994,0.125,0.1
 2025-03-03 11:27:36.441510,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.024999999999999994,0.125,0.1
 2025-03-03 11:27:36.435675,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,0.024999999999999994,0.125,0.1
-2025-03-03 10:36:15.093552,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,0.024999999999999994,0.125,0.1
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Sam Bairstow,0.024600000000000004,0.0345,0.0099
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Patrick Fishburn,0.024,0.0244,0.0004
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Pierceson Coody,0.024,0.0244,0.0004
@@ -42,11 +42,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 10:36:14.903128,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,0.02310000000000001,0.1,0.0769
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Chan Kim,0.022799999999999997,0.0278,0.005
 2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,0.022499999999999964,0.7368,0.7143
-2025-03-03 11:27:36.445092,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.022199999999999998,0.2222,0.2
 2025-03-03 10:36:14.889292,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,0.022199999999999998,0.2222,0.2
+2025-03-03 11:27:36.445092,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.022199999999999998,0.2222,0.2
 2025-03-03 10:36:15.117590,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.021999999999999964,0.3077,0.2857
 2025-03-03 10:36:14.889292,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Mainz,0.021999999999999964,0.3077,0.2857
 2025-03-03 14:34:00.361100,TGL - Team Matchups - New York vs Boston Common - Winner,New York (Fitzpatrick/Fowler/Schauffele/Young),0.02079999999999993,0.5556,0.5348
+2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.020500000000000074,0.8667,0.8462
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Justin Thomas,0.0203,0.0526,0.0323
 2025-03-03 11:27:36.690674,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Huracán,0.02020000000000001,0.1111,0.0909
 2025-03-03 14:34:00.365273,TGL - Team Matchups - Jupiter Links vs Atlanta Drive - Winner,Jupiter Links (TKim/Woods/Homa/Kisner),0.019699999999999995,0.4545,0.4348
@@ -74,25 +75,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Vince Whaley,0.0156,0.0196,0.004
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Daniel Van Tonder,0.015499999999999998,0.0278,0.0123
 2025-03-03 10:36:14.896873,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,0.014900000000000004,0.0345,0.0196
-2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Collin Morikawa,0.014100000000000001,0.0526,0.0385
 2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Jerry Kelly,0.014100000000000001,0.0526,0.0385
+2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Collin Morikawa,0.014100000000000001,0.0526,0.0385
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Ludvig Aberg,0.014099999999999994,0.0667,0.0526
-2025-03-03 10:36:14.940602,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.013999999999999999,0.0909,0.0769
 2025-03-03 10:36:15.112749,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Palestino,0.013999999999999999,0.0909,0.0769
+2025-03-03 10:36:14.940602,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.013999999999999999,0.0909,0.0769
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Adrien Dumont de Chassart,0.013900000000000001,0.0164,0.0025
 2025-03-03 10:36:14.903128,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.013899999999999996,0.125,0.1111
-2025-03-03 11:27:36.690674,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,0.013899999999999996,0.125,0.1111
 2025-03-03 11:27:36.645844,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.013899999999999996,0.125,0.1111
-2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Ricardo Gonzalez,0.0138,0.0217,0.0079
+2025-03-03 11:27:36.690674,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,0.013899999999999996,0.125,0.1111
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Ivan Cantero,0.0138,0.0217,0.0079
+2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Ricardo Gonzalez,0.0138,0.0217,0.0079
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Robert MacIntyre,0.013,0.0196,0.0066
 2025-03-03 11:27:36.435675,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.012699999999999989,0.3636,0.3509
 2025-03-03 19:25:26.851800,FA Cup - England FA Cup 2024/25 - Winner,Manchester City,0.012299999999999978,0.3571,0.3448
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Andy Sullivan,0.012100000000000001,0.0244,0.0123
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Sepp Straka,0.011699999999999999,0.0196,0.0079
 2025-03-03 11:27:36.445092,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.011199999999999995,0.0588,0.0476
-2025-03-03 14:34:00.306510,Boxing Lines - Edgar Berlanga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.011099999999999999,0.1111,0.1
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Rory McIlroy,0.011099999999999999,0.1111,0.1
+2025-03-03 14:34:00.306510,Boxing Lines - Edgar Berlanga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.011099999999999999,0.1111,0.1
 2025-03-03 14:34:00.356643,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),0.01100000000000001,0.5348,0.5238
 2025-03-03 10:36:14.937026,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Querétaro FC,0.0109,0.0149,0.004
 2025-03-03 11:27:36.435675,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.010899999999999993,0.1538,0.1429
@@ -100,14 +101,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Kevin Tway,0.0106,0.011,0.0004
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Shane Lowry,0.010300000000000002,0.0244,0.0141
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Garrick Higgo,0.0103,0.0123,0.002
-2025-03-03 11:27:36.435675,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.0102,0.0769,0.0667
 2025-03-03 11:27:36.432295,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,0.0102,0.0769,0.0667
+2025-03-03 11:27:36.435675,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.0102,0.0769,0.0667
 2025-03-03 11:27:36.438605,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.010099999999999998,0.4545,0.4444
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Matthieu Pavon,-0.0101,0.004,0.0141
 2025-03-03 11:27:36.645844,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.010100000000000001,0.0244,0.0345
-2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Ross Fisher,-0.0102,0.005,0.0152
 2025-03-03 11:27:36.432295,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.0102,0.0667,0.0769
-2025-03-03 08:36:36.441327,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Presbyterian,-0.010600000000000002,0.0217,0.0323
+2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Ross Fisher,-0.0102,0.005,0.0152
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Will Zalatoris,-0.010600000000000002,0.0217,0.0323
 2025-03-03 14:34:00.356643,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.010699999999999932,0.5348,0.5455
 2025-03-03 11:27:36.441510,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,LA Galaxy,-0.010899999999999993,0.1429,0.1538
@@ -115,11 +115,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 13:36:14.862918,Boxing Lines - Edgar Berlanga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,-0.011099999999999999,0.1,0.1111
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Chris Kirk,-0.0113,0.0066,0.0179
 2025-03-03 15:32:23.928837,TGL - Team Matchups - New York vs Boston Common - Winner,Boston Common (Bradley/Matsuyama/McIIroy/Scott),-0.012199999999999989,0.5,0.5122
-2025-03-03 08:36:36.441327,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Radford,-0.012299999999999991,0.1053,0.1176
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Jason Day,-0.012700000000000003,0.0196,0.0323
 2025-03-03 09:33:35.248338,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,-0.012700000000000045,0.6364,0.6491
-2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Karriss Artingstall,-0.0131,0.7647,0.7778
 2025-03-03 10:36:14.909074,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.0131,0.0345,0.0476
+2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Karriss Artingstall,-0.0131,0.7647,0.7778
 2025-03-03 10:36:15.122311,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.013799999999999923,0.6226,0.6364
 2025-03-03 10:36:14.866153,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Raphinha (FC Barcelona),-0.014099999999999998,0.0244,0.0385
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Matthew Southgate,-0.0145,0.0099,0.0244
@@ -135,24 +134,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Romain Langasque,-0.019800000000000005,0.0278,0.0476
 2025-03-03 10:36:14.896873,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.020100000000000007,0.2299,0.25
 2025-03-03 10:36:14.940602,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.02020000000000001,0.0909,0.1111
-2025-03-03 10:36:15.014367,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Arminia Bielefeld,-0.0203,0.0385,0.0588
 2025-03-03 09:33:32.422298,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Patrik Schick (Bayer Leverkusen),-0.0203,0.0385,0.0588
+2025-03-03 10:36:15.014367,DFB Pokal - Germany DFB Pokal 2024/25 - Outright,Arminia Bielefeld,-0.0203,0.0385,0.0588
 2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,-0.020799999999999985,0.3125,0.3333
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Louis De Jager,-0.021199999999999997,0.0066,0.0278
 2025-03-03 14:34:00.365273,TGL - Team Matchups - Jupiter Links vs Atlanta Drive - Winner,Atlanta Drive (Horschel/Thomas/Cantlay/Glover),-0.02180000000000004,0.6078,0.6296
 2025-03-03 10:36:14.903128,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.021999999999999964,0.2857,0.3077
 2025-03-03 19:25:29.934960,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,-0.022199999999999998,0.6552,0.6774
+2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,-0.022199999999999998,0.2,0.2222
 2025-03-03 14:34:00.361100,TGL - Team Matchups - New York vs Boston Common - Winner,Boston Common (Bradley/Matsuyama/McIIroy/Scott),-0.022600000000000064,0.5122,0.5348
 2025-03-03 10:36:14.916765,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.02310000000000001,0.0769,0.1
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Minjee Lee,-0.02310000000000001,0.0769,0.1
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Zander Lombard,-0.0233,0.0152,0.0385
 2025-03-03 10:36:14.940602,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,-0.023799999999999988,0.1429,0.1667
 2025-03-03 10:36:14.937026,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,-0.023800000000000043,0.5,0.5238
-2025-03-03 11:27:36.441510,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Houston Dynamo,-0.0242,0.0667,0.0909
 2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Ernie Els,-0.0242,0.0667,0.0909
+2025-03-03 11:27:36.441510,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Houston Dynamo,-0.0242,0.0667,0.0909
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Max Homa,-0.0257,0.0066,0.0323
-2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Adrian Otaegui,-0.0262,0.0123,0.0385
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Lucy Li,-0.0262,0.0123,0.0385
+2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Adrian Otaegui,-0.0262,0.0123,0.0385
 2025-03-03 10:36:14.922932,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.02779999999999999,0.2222,0.25
 2025-03-03 12:54:18.968645,98th Academy Awards - 2026 Oscars - Best Actress - Best Actress,Jessica Lange (Long Day's Journey Into Night),-0.02779999999999999,0.2222,0.25
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Hayden Springer,-0.028000000000000004,0.0196,0.0476
@@ -163,8 +163,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 12:54:21.637157,Joburg Open - Joburg Open - Winner,Dan Bradbury,-0.031,0.0278,0.0588
 2025-03-03 12:54:18.964546,98th Academy Awards - 2026 Oscars - Best Actor - Best Actor,Denzel Washington (Highest 2 Lowest),-0.033300000000000024,0.1667,0.2
 2025-03-03 11:27:39.402949,Cologuard Classic - Cologuard Classic - Winner,Steve Stricker,-0.033399999999999985,0.1333,0.1667
-2025-03-03 12:54:18.960400,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Long Day's Journey Into Night,-0.03570000000000001,0.25,0.2857
 2025-03-03 12:54:18.960400,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Mickey 17,-0.03570000000000001,0.25,0.2857
+2025-03-03 12:54:18.960400,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Long Day's Journey Into Night,-0.03570000000000001,0.25,0.2857
 2025-03-03 10:36:14.916765,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,-0.0368,0.2299,0.2667
 2025-03-03 12:54:21.619707,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Viktor Hovland,-0.037099999999999994,0.0217,0.0588
 2025-03-03 18:37:06.394815,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Jasmina Zapotoczna,-0.04089999999999999,0.3846,0.4255

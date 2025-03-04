@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-03-04 03:04:08.306700,TGL - TGL - Winner,New York,0.08330000000000001,0.25,0.1667
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Ruoning Yin,0.0813,0.0833,0.002
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Ayaka Furue,0.0804,0.1,0.0196
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Celine Boutier,0.0647,0.0667,0.002
@@ -22,9 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Chan Kim,0.022799999999999997,0.0278,0.005
 2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,0.022499999999999964,0.7368,0.7143
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Bodø/Glimt,0.022400000000000003,0.0323,0.0099
-2025-03-03 14:34:00.361100,TGL - Team Matchups - New York vs Boston Common - Winner,New York (Fitzpatrick/Fowler/Schauffele/Young),0.02079999999999993,0.5556,0.5348
 2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.020500000000000074,0.8667,0.8462
-2025-03-03 14:34:00.365273,TGL - Team Matchups - Jupiter Links vs Atlanta Drive - Winner,Jupiter Links (TKim/Woods/Homa/Kisner),0.019699999999999995,0.4545,0.4348
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Alejandro Tosti,0.0192,0.0196,0.0004
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Chris Gotterup,0.0192,0.0196,0.0004
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Rangers,0.019099999999999992,0.0667,0.0476
@@ -34,31 +33,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Viktoria Plzen,0.0179,0.0278,0.0099
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Rico Hoey,0.0179,0.0278,0.0099
 2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Raven Chapman,0.017299999999999982,0.303,0.2857
+2025-03-04 03:04:08.306700,TGL - TGL - Winner,Los Angeles,0.01629999999999998,0.2941,0.2778
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Wesley Bryan,0.0162,0.0179,0.0017
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Vince Whaley,0.0156,0.0196,0.004
 2025-03-03 23:28:16.864037,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),0.015400000000000025,0.4,0.3846
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AZ Alkmaar,0.014100000000000001,0.0526,0.0385
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Adrien Dumont de Chassart,0.013900000000000001,0.0164,0.0025
 2025-03-03 19:25:26.851800,FA Cup - England FA Cup 2024/25 - Winner,Manchester City,0.012299999999999978,0.3571,0.3448
-2025-03-03 14:34:00.306510,Boxing Lines - Edgar Berlanga vs Jonathan Gonzalez - To Win the Bout,Jonathan Gonzalez,0.011099999999999999,0.1111,0.1
-2025-03-03 14:34:00.356643,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),0.01100000000000001,0.5348,0.5238
 2025-03-03 15:32:23.924154,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),0.010699999999999932,0.5455,0.5348
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Kevin Tway,0.0106,0.011,0.0004
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Garrick Higgo,0.0103,0.0123,0.002
 2025-03-04 02:00:12.651508,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,-0.0102,0.0667,0.0769
-2025-03-03 14:34:00.356643,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),-0.010699999999999932,0.5348,0.5455
 2025-03-04 02:00:12.651508,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lazio,-0.010899999999999993,0.1429,0.1538
 2025-03-03 15:32:23.924154,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),-0.01100000000000001,0.5238,0.5348
+2025-03-04 03:04:08.306700,TGL - TGL - Winner,Atlanta Drive,-0.011099999999999999,0.2667,0.2778
 2025-03-03 15:32:23.928837,TGL - Team Matchups - New York vs Boston Common - Winner,Boston Common (Bradley/Matsuyama/McIIroy/Scott),-0.012199999999999989,0.5,0.5122
 2025-03-04 02:00:12.517865,FA Cup - England FA Cup 2024/25 - Winner,Manchester City,-0.012299999999999978,0.3448,0.3571
 2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Karriss Artingstall,-0.0131,0.7647,0.7778
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Savannah Grewal,-0.0163,0.0033,0.0196
 2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,-0.020799999999999985,0.3125,0.3333
-2025-03-03 14:34:00.365273,TGL - Team Matchups - Jupiter Links vs Atlanta Drive - Winner,Atlanta Drive (Horschel/Thomas/Cantlay/Glover),-0.02180000000000004,0.6078,0.6296
+2025-03-04 03:04:08.306700,TGL - TGL - Winner,The Bay,-0.021999999999999964,0.2857,0.3077
 2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,-0.022199999999999998,0.2,0.2222
-2025-03-03 23:28:16.883877,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.022199999999999998,0.2,0.2222
 2025-03-03 19:25:29.934960,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,-0.022199999999999998,0.6552,0.6774
-2025-03-03 14:34:00.361100,TGL - Team Matchups - New York vs Boston Common - Winner,Boston Common (Bradley/Matsuyama/McIIroy/Scott),-0.022600000000000064,0.5122,0.5348
+2025-03-03 23:28:16.883877,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.022199999999999998,0.2,0.2222
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Minjee Lee,-0.02310000000000001,0.0769,0.1
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Lucy Li,-0.0262,0.0123,0.0385
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Hayden Springer,-0.028000000000000004,0.0196,0.0476

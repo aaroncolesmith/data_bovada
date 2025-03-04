@@ -10,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AS Roma,0.04269999999999999,0.1538,0.1111
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Mao Saigo,0.042600000000000006,0.0476,0.005
 2025-03-03 18:37:06.394815,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,0.041000000000000036,0.6774,0.6364
-2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Fenerbahce,0.034100000000000005,0.125,0.0909
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Ajax,0.034100000000000005,0.125,0.0909
+2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Fenerbahce,0.034100000000000005,0.125,0.0909
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Olympiakos,0.033299999999999996,0.1333,0.1
 2025-03-04 02:00:15.302350,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,0.028299999999999992,0.6774,0.6491
 2025-03-03 23:28:16.883877,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.026800000000000046,0.7143,0.6875
@@ -21,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Pierceson Coody,0.024,0.0244,0.0004
 2025-03-03 19:25:29.934960,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Jasmina Zapotoczna,0.02360000000000001,0.4082,0.3846
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Chan Kim,0.022799999999999997,0.0278,0.005
-2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,0.022499999999999964,0.7368,0.7143
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Bodø/Glimt,0.022400000000000003,0.0323,0.0099
 2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Lauren Price,0.020500000000000074,0.8667,0.8462
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Alejandro Tosti,0.0192,0.0196,0.0004
@@ -30,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Henrik Norlander,0.0189,0.0217,0.0028
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Angel Ayora,0.0186,0.0196,0.001
 2025-03-04 02:00:12.517865,FA Cup - England FA Cup 2024/25 - Winner,Nottingham Forest,0.018099999999999998,0.0769,0.0588
-2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Viktoria Plzen,0.0179,0.0278,0.0099
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Rico Hoey,0.0179,0.0278,0.0099
+2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,Viktoria Plzen,0.0179,0.0278,0.0099
 2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Raven Chapman,0.017299999999999982,0.303,0.2857
 2025-03-04 03:04:08.306700,TGL - TGL - Winner,Los Angeles,0.01629999999999998,0.2941,0.2778
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Wesley Bryan,0.0162,0.0179,0.0017
@@ -40,18 +39,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 02:00:12.654541,UEFA Europa League - UEFA Europa League 2024/25 - To Reach the Final,AZ Alkmaar,0.014100000000000001,0.0526,0.0385
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Adrien Dumont de Chassart,0.013900000000000001,0.0164,0.0025
 2025-03-03 19:25:26.851800,FA Cup - England FA Cup 2024/25 - Winner,Manchester City,0.012299999999999978,0.3571,0.3448
-2025-03-03 15:32:23.924154,TGL - Team Matchups - The Bay vs Los Angeles - Winner,Los Angeles (Rose/Morikawa/Theegala/Fleetwood),0.010699999999999932,0.5455,0.5348
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Kevin Tway,0.0106,0.011,0.0004
 2025-03-03 16:37:15.988414,Puerto Rico Open - Puerto Rico Open - Winner,Garrick Higgo,0.0103,0.0123,0.002
 2025-03-04 02:00:12.651508,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,-0.0102,0.0667,0.0769
 2025-03-04 02:00:12.651508,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lazio,-0.010899999999999993,0.1429,0.1538
-2025-03-03 15:32:23.924154,TGL - Team Matchups - The Bay vs Los Angeles - Winner,The Bay (MWLee/Aberg/Clark/Lowry),-0.01100000000000001,0.5238,0.5348
 2025-03-04 03:04:08.306700,TGL - TGL - Winner,Atlanta Drive,-0.011099999999999999,0.2667,0.2778
-2025-03-03 15:32:23.928837,TGL - Team Matchups - New York vs Boston Common - Winner,Boston Common (Bradley/Matsuyama/McIIroy/Scott),-0.012199999999999989,0.5,0.5122
 2025-03-04 02:00:12.517865,FA Cup - England FA Cup 2024/25 - Winner,Manchester City,-0.012299999999999978,0.3448,0.3571
 2025-03-03 18:37:06.399233,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Karriss Artingstall,-0.0131,0.7647,0.7778
 2025-03-03 16:37:15.981336,Blue Bay LPGA - Blue Bay LPGA - Winner,Savannah Grewal,-0.0163,0.0033,0.0196
-2025-03-03 15:32:21.568279,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,-0.020799999999999985,0.3125,0.3333
 2025-03-04 03:04:08.306700,TGL - TGL - Winner,The Bay,-0.021999999999999964,0.2857,0.3077
 2025-03-03 21:29:55.125613,Boxing Lines - Natasha Jonas vs Lauren Price - To Win the Bout,Natasha Jonas,-0.022199999999999998,0.2,0.2222
 2025-03-03 19:25:29.934960,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,-0.022199999999999998,0.6552,0.6774

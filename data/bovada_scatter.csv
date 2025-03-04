@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 07:29:29.453396,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.08330000000000001,0.25,0.1667
 2025-03-04 09:31:37.900024,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,0.0799,0.3125,0.2326
 2025-03-04 11:26:47.401435,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,0.07930000000000001,0.2222,0.1429
-2025-03-04 12:54:23.354081,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up,Scottie Scheffler,0.07499999999999996,0.6667,0.5917
 2025-03-04 11:26:47.401435,Euroleague - Euroleague 2024/25 - To Make Final Four,Olympiacos,0.07499999999999996,0.875,0.8
+2025-03-04 12:54:23.354081,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up,Scottie Scheffler,0.07499999999999996,0.6667,0.5917
 2025-03-04 09:31:37.862698,To Make the Playoffs - Atlanta Hawks 2024-25 - To Make the Playoffs,Yes,0.06779999999999997,0.5122,0.4444
 2025-03-04 11:26:47.401435,Euroleague - Euroleague 2024/25 - To Make Final Four,Fenerbahce,0.06669999999999998,0.6667,0.6
 2025-03-04 09:31:37.909196,To Participate in Play-In - NBA Western Conference - To Participate in Western Conference Play-in Tournament,Sacramento Kings,0.06419999999999992,0.8824,0.8182
@@ -35,12 +35,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 09:31:37.870999,To Make the Playoffs - Golden State Warriors 2024-25 - To Make the Playoffs,Yes,0.028299999999999992,0.9333,0.905
 2025-03-04 16:38:42.220656,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Northern Kentucky,0.026499999999999996,0.0588,0.0323
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Mitchell Meissner,0.0262,0.0385,0.0123
-2025-03-04 10:36:38.184178,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2027,0.023799999999999988,0.1667,0.1429
 2025-03-04 12:54:20.525904,98th Academy Awards - 2026 Oscars - Best Actress - Best Actress,Cynthia Erivo (Wicked: For Good),0.023799999999999988,0.3571,0.3333
+2025-03-04 10:36:38.184178,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2027,0.023799999999999988,0.1667,0.1429
 2025-03-04 18:39:50.887552,Trump Policy Specials - Will Trump stockpile Bitcoin in federal reserve in 2025? - Bitcoin Reserve 2025,Yes,0.021999999999999964,0.3077,0.2857
 2025-03-04 17:31:19.212463,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,0.02080000000000004,0.6875,0.6667
-2025-03-04 10:36:38.169982,Trump Policy Specials - Will Trump meet Putin by the end of April 2025? - Will Trump Meet Putin?,Yes,0.02079999999999993,0.5556,0.5348
 2025-03-04 14:34:05.308034,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Robert MacIntyre,0.02079999999999993,0.5556,0.5348
+2025-03-04 10:36:38.169982,Trump Policy Specials - Will Trump meet Putin by the end of April 2025? - Will Trump Meet Putin?,Yes,0.02079999999999993,0.5556,0.5348
 2025-03-04 16:38:42.220656,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,IPFW,0.02049999999999999,0.1538,0.1333
 2025-03-04 15:32:49.425321,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Radford,0.019699999999999995,0.125,0.1053
 2025-03-04 07:29:29.517376,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Queens NC,0.019099999999999995,0.0435,0.0244
@@ -48,8 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 17:31:19.353184,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Robert MacIntyre,0.01880000000000004,0.5744,0.5556
 2025-03-04 09:31:37.904983,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,0.01830000000000001,0.2564,0.2381
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Hank Lebioda,0.0182,0.0323,0.0141
-2025-03-04 16:38:42.286150,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Christian Braun (DEN),0.018099999999999998,0.0769,0.0588
 2025-03-04 15:32:49.425321,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Longwood,0.018099999999999998,0.0769,0.0588
+2025-03-04 16:38:42.286150,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Christian Braun (DEN),0.018099999999999998,0.0769,0.0588
 2025-03-04 09:31:37.324543,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.0179,0.1429,0.125
 2025-03-04 15:32:49.425321,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Winthrop,0.01759999999999999,0.1176,0.1
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Davis Chatfield,0.017100000000000004,0.0323,0.0152
@@ -62,14 +62,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 12:54:20.530140,98th Academy Awards - 2026 Oscars - Best Director - Best Director,Spike Lee (Highest 2 Lowest),0.013899999999999996,0.125,0.1111
 2025-03-04 11:26:47.401435,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.012899999999999995,0.1667,0.1538
 2025-03-04 09:31:37.904983,To Participate in Play-In - NBA Eastern Conference  - To Participate in Eastern Conference Play-in Tournament,Brooklyn Nets,0.011899999999999994,0.0833,0.0714
-2025-03-04 09:31:37.532244,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,0.011099999999999999,0.1111,0.1
-2025-03-04 11:26:47.397725,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.011099999999999999,0.1111,0.1
 2025-03-04 07:29:31.783404,TGL - TGL - Winner,Atlanta Drive,0.011099999999999999,0.2778,0.2667
+2025-03-04 09:31:37.532244,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,0.011099999999999999,0.1111,0.1
 2025-03-04 15:32:49.425321,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,NC Asheville,0.011099999999999999,0.1111,0.1
+2025-03-04 11:26:47.397725,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,0.011099999999999999,0.1111,0.1
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Rob Oppenheim,0.0102,0.0152,0.005
 2025-03-04 18:39:53.113545,Boxing Lines - Cindy Ngamba vs Kirstie Bavington - To Win the Bout,Cindy Ngamba,0.010199999999999987,0.9333,0.9231
-2025-03-04 10:36:38.184178,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,Not before 2031,-0.010099999999999998,0.5455,0.5556
 2025-03-04 09:31:37.891769,To Make the Playoffs - Philadelphia 76ers 2024-25 - To Make the Playoffs,Yes,-0.010099999999999998,0.0952,0.1053
+2025-03-04 10:36:38.184178,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,Not before 2031,-0.010099999999999998,0.5455,0.5556
 2025-03-04 18:39:51.052501,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Rashee Rice (KC),-0.0102,0.0667,0.0769
 2025-03-04 16:38:41.461940,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.010499999999999982,0.2,0.2105
 2025-03-04 18:39:51.052501,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Maxx Crosby (LV),-0.011199999999999995,0.0476,0.0588
@@ -80,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 09:31:37.879328,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.011900000000000022,0.75,0.7619
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Trent Phillips,-0.012400000000000001,0.004,0.0164
 2025-03-04 10:36:40.343491,Chile Classic - Chile Classic - Winner,Cole Hammer,-0.013,0.0066,0.0196
+2025-03-04 19:25:18.354625,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Arch Manning (TEX),-0.013899999999999996,0.1111,0.125
 2025-03-04 12:54:20.516970,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Caught Stealing,-0.013999999999999999,0.0769,0.0909
 2025-03-04 09:31:37.866849,To Make the Playoffs - Detroit Pistons 2024-25 - To Make the Playoffs,No,-0.014099999999999994,0.0526,0.0667
 2025-03-04 17:31:17.063446,Ukraine - When will Zelenskyy next be photographed wearing a suit? - Zelenskyy in a suit?,Q3 2025,-0.014399999999999996,0.0625,0.0769

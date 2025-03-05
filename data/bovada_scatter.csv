@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-03-05 02:00:13.789761,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.2122,0.5455,0.3333
 2025-03-05 09:31:48.563258,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.17810000000000004,0.8333,0.6552
 2025-03-05 08:36:31.721570,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),0.16659999999999997,0.8095,0.6429
 2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.14480000000000004,0.8948,0.75
@@ -29,21 +28,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 09:31:48.664668,National League - English National League 2024/25 - To Be Promoted,Halifax Town,0.0373,0.0667,0.0294
 2025-03-05 09:31:51.535034,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up,Rory McIlroy,0.0348,0.4348,0.4
 2025-03-05 11:26:52.883817,Men's Basketball Conference Tournament - West Coast Conference Tournament Winner - WCC Winner,Gonzaga,0.03479999999999994,0.6,0.5652
-2025-03-05 02:00:16.232443,Cologuard Classic - Cologuard Classic - Winner,Stephen Ames,0.0335,0.0385,0.005
 2025-03-05 09:31:51.307836,To Record the Most Strikeouts - Pitcher To Record the Most Strikeouts - 2025 Regular Season - Pitcher To Record the Most Strikeouts,Paul Skenes (PIT),0.033300000000000024,0.2,0.1667
 2025-03-05 09:31:51.307836,To Record the Most Strikeouts - Pitcher To Record the Most Strikeouts - 2025 Regular Season - Pitcher To Record the Most Strikeouts,Dylan Cease (SD),0.03330000000000001,0.1,0.0667
 2025-03-05 12:54:49.725393,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Marcell Ozuna Total Home Runs,Over 31.5,0.033299999999999996,0.5455,0.5122
 2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,0.031799999999999995,0.4762,0.4444
 2025-03-05 09:31:48.664668,National League - English National League 2024/25 - To Be Promoted,Altrincham,0.030699999999999998,0.0833,0.0526
-2025-03-05 11:26:52.846056,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Lipscomb,0.030299999999999994,0.6667,0.6364
 2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.030299999999999994,0.3636,0.3333
 2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Wycombe,0.030299999999999994,0.6667,0.6364
+2025-03-05 11:26:52.846056,Men's Basketball Conference Tournament - Atlantic Sun Conference Tournament Winner - ASUN Winner,Lipscomb,0.030299999999999994,0.6667,0.6364
 2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.029899999999999982,0.2299,0.2
-2025-03-05 11:26:52.879665,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,IPFW,0.028799999999999992,0.1538,0.125
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.028799999999999992,0.1538,0.125
+2025-03-05 11:26:52.879665,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,IPFW,0.028799999999999992,0.1538,0.125
+2025-03-05 13:35:31.267148,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - T. Fleetwood / C. Young - 1st Round 2-Balls,Tommy Fleetwood,0.02859999999999996,0.6364,0.6078
 2025-03-05 13:35:31.271361,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - A. Bhatia / M. Pavon - 1st Round 2-Balls,Akshay Bhatia,0.02859999999999996,0.6364,0.6078
 2025-03-05 13:35:31.364643,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - R. McIIroy / S. Lowry - 1st Round 2-Balls,Rory McIlroy,0.02859999999999996,0.6364,0.6078
-2025-03-05 13:35:31.267148,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - T. Fleetwood / C. Young - 1st Round 2-Balls,Tommy Fleetwood,0.02859999999999996,0.6364,0.6078
 2025-03-05 13:35:31.425565,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs C. Morikawa - 1st Round Match-Up,Scottie Scheffler,0.028299999999999992,0.6774,0.6491
 2025-03-05 08:36:31.231188,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.028000000000000025,0.9804,0.9524
 2025-03-05 04:34:29.770271,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.0274,0.0294,0.002
@@ -54,35 +52,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.024999999999999994,0.125,0.1
 2025-03-05 04:34:30.424949,Trump Policy Specials - Will Trump end the Ukraine war within 90 days? - Ukraine War End?,No,0.024600000000000066,0.7468,0.7222
 2025-03-05 09:31:51.544502,Tournament Match-Ups - Tournament Match-Up - A. Bhatia v B. Griffin - Requests,Ben Griffin,0.024399999999999977,0.5122,0.4878
-2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.023800000000000043,0.5238,0.5
 2025-03-05 12:54:51.406919,Tournament Match-Ups - Tournament Match-Up - A. Rozner vs H. Norlander - Tournament Match-Up,Henrik Norlander,0.023800000000000043,0.5238,0.5
+2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.023800000000000043,0.5238,0.5
 2025-03-05 12:54:51.431977,Tournament Match-Ups - Tournament Match-Up - L. Griffin vs M. Jordan - Tournament Match-Up,Matthew Jordan,0.023800000000000043,0.5238,0.5
-2025-03-05 03:03:03.322650,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.023799999999999988,0.5,0.4762
 2025-03-05 13:35:31.486045,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs C. Morikawa - Tournament Match-Up,Collin Morikawa,0.023799999999999988,0.5,0.4762
 2025-03-05 13:35:31.657953,Tournament Match-Ups - Tournament Match-Up - A. Svennson vs M. Wallace - Tournament Match-Up,Adam Svensson,0.023799999999999988,0.5,0.4762
-2025-03-05 02:00:13.883182,Trump Policy Specials - Will US cease to be a full NATO member in 2025? - Will US leave NATO?,Yes,0.023400000000000032,0.3175,0.2941
-2025-03-05 09:31:51.331037,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Vladimir Guerrero Jr. (TOR),0.02310000000000001,0.1,0.0769
+2025-03-05 03:03:03.322650,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.023799999999999988,0.5,0.4762
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Aston Villa,0.02310000000000001,0.1,0.0769
-2025-03-05 12:54:51.427030,Tournament Match-Ups - Tournament Match-Up - K. Roy vs R. Neergaard-Petersen - Tournament Match-Up,Rasmus Neergaard-Petersen,0.022600000000000064,0.5348,0.5122
+2025-03-05 09:31:51.331037,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Vladimir Guerrero Jr. (TOR),0.02310000000000001,0.1,0.0769
 2025-03-05 12:54:51.436958,Tournament Match-Ups - Tournament Match-Up - N. Norgaard vs R. Gerard - Tournament Match-Up,Niklas Norgaard,0.022600000000000064,0.5348,0.5122
-2025-03-05 11:26:54.730026,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total RBIs,Under 102.5,0.022600000000000064,0.5348,0.5122
 2025-03-05 09:31:48.557212,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.022600000000000064,0.6226,0.6
+2025-03-05 12:54:51.427030,Tournament Match-Ups - Tournament Match-Up - K. Roy vs R. Neergaard-Petersen - Tournament Match-Up,Rasmus Neergaard-Petersen,0.022600000000000064,0.5348,0.5122
+2025-03-05 11:26:54.730026,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total RBIs,Under 102.5,0.022600000000000064,0.5348,0.5122
 2025-03-05 11:26:52.879665,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Robert Morris,0.02250000000000002,0.2857,0.2632
 2025-03-05 09:31:51.348551,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Corbin Carroll (ARI),0.02239999999999999,0.1176,0.0952
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,0.022199999999999998,0.2222,0.2
 2025-03-05 12:54:50.077530,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Tarik Skubal ERA,Under 2.80,0.02169999999999994,0.5455,0.5238
-2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.02169999999999994,0.5455,0.5238
 2025-03-05 12:54:49.610192,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Carroll Total Hits,Over 151.5,0.02169999999999994,0.5455,0.5238
-2025-03-05 10:35:51.379423,Player Props - Pittsburgh Pirates - 2025 Regular Season Player Props - Oneil Cruz Total Home Runs,Over 22.5,0.02079999999999993,0.5556,0.5348
-2025-03-05 12:54:50.036657,Player Props - Colorado Rockies - 2025 Regular Season Player Props - Michael Toglia Total RBIs,Over 69.5,0.02079999999999993,0.5556,0.5348
-2025-03-05 10:35:51.056354,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Cole Ragans ERA,Under 3.45,0.02079999999999993,0.5556,0.5348
-2025-03-05 10:35:51.111587,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Over 42.5,0.02079999999999993,0.5556,0.5348
-2025-03-05 09:31:51.065602,Player Props - San Diego Padres - 2025 Regular Season Player Props - Jackson Merrill Total Hits,Over 157.5,0.02079999999999993,0.5556,0.5348
+2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Wycombe,0.02169999999999994,0.5455,0.5238
 2025-03-05 09:31:49.950570,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Under 76.5,0.02079999999999993,0.5556,0.5348
+2025-03-05 10:35:51.111587,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Over 42.5,0.02079999999999993,0.5556,0.5348
+2025-03-05 10:35:51.379423,Player Props - Pittsburgh Pirates - 2025 Regular Season Player Props - Oneil Cruz Total Home Runs,Over 22.5,0.02079999999999993,0.5556,0.5348
+2025-03-05 09:31:51.065602,Player Props - San Diego Padres - 2025 Regular Season Player Props - Jackson Merrill Total Hits,Over 157.5,0.02079999999999993,0.5556,0.5348
+2025-03-05 10:35:51.056354,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Cole Ragans ERA,Under 3.45,0.02079999999999993,0.5556,0.5348
+2025-03-05 12:54:50.036657,Player Props - Colorado Rockies - 2025 Regular Season Player Props - Michael Toglia Total RBIs,Over 69.5,0.02079999999999993,0.5556,0.5348
 2025-03-05 11:26:52.862987,Men's Basketball Conference Tournament - Summit League Tournament Winner - Summit Winner,North Dakota State,0.020699999999999996,0.2985,0.2778
+2025-03-05 14:33:53.458845,Boxing Lines - Ricardo Brown vs Colby Madison - To Win the Bout,Colby Madison,0.02049999999999999,0.1538,0.1333
+2025-03-05 11:26:54.369173,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total Stolen Bases,Under 19.5,0.01970000000000005,0.5652,0.5455
 2025-03-05 10:35:51.607750,Player Props - Washington Nationals - 2025 Regular Season Player Props - James Wood Total Home Runs,Under 18.5,0.01970000000000005,0.5652,0.5455
 2025-03-05 10:35:51.474752,Player Props - Seattle Mariners - 2025 Regular Season Player Props - Cal Raleigh Total Home Runs,Under 30.5,0.01970000000000005,0.5652,0.5455
-2025-03-05 11:26:54.369173,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total Stolen Bases,Under 19.5,0.01970000000000005,0.5652,0.5455
 2025-03-05 09:31:48.550854,League Two - England League Two 2024/25 - Top Goalscorer,Harry Smith,0.019099999999999992,0.0667,0.0476
 2025-03-05 11:26:52.871309,Men's Basketball Conference Tournament - Sun Belt Conference Tournament Winner - Sun Belt Winner,Appalachian State,0.019099999999999992,0.0667,0.0476
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,0.019000000000000017,0.2857,0.2667
@@ -96,15 +94,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 09:31:51.517579,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Robert MacIntyre,0.017299999999999982,0.5917,0.5744
 2025-03-05 11:26:52.867145,Men's Basketball Conference Tournament - Southern Conference Tournament Winner - SoCon Winner,Furman,0.015700000000000006,0.1333,0.1176
 2025-03-05 11:26:52.858799,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,Winthrop,0.015700000000000006,0.1333,0.1176
-2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,0.015400000000000025,0.4,0.3846
 2025-03-05 10:35:51.743809,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Jasmina Zapotoczna,0.015400000000000025,0.4,0.3846
+2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Houston,0.015400000000000025,0.4,0.3846
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,BYU,0.015300000000000001,0.0588,0.0435
 2025-03-05 09:31:51.331037,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Julio Rodriguez (SEA),0.014899999999999997,0.0625,0.0476
 2025-03-05 09:31:48.557212,League Two - England League Two 2024/25 - To Be Relegated,Gillingham,0.014499999999999999,0.0294,0.0149
 2025-03-05 04:34:29.911482,Championship - England Championship 2024/25 - Winner,Burnley,0.014099999999999994,0.0667,0.0526
+2025-03-05 09:31:48.664668,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.013999999999999999,0.0909,0.0769
 2025-03-05 12:54:47.859520,FA Cup - England FA Cup 2024/25 - Winner,Nottingham Forest,0.013999999999999999,0.0909,0.0769
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas A&M,0.013999999999999999,0.0909,0.0769
-2025-03-05 09:31:48.664668,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.013999999999999999,0.0909,0.0769
 2025-03-05 13:35:28.796917,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,0.013899999999999996,0.125,0.1111
 2025-03-05 13:35:31.455434,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs X. Schauffele - 1st Round Match-Up,Rory McIlroy,0.013799999999999923,0.6364,0.6226
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Alabama,0.013600000000000001,0.3077,0.2941
@@ -114,67 +112,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 10:35:51.068644,Player Props - Los Angeles Angels - 2025 Regular Season Player Props - Mike Trout Total Home Runs,Under 24.5,0.012199999999999989,0.5122,0.5
 2025-03-05 12:54:49.333823,Regular Season Wins - Miami Marlins Wins - 2025 Regular Season - Regular Season Wins,Over 63.5,0.012199999999999989,0.5,0.4878
 2025-03-05 11:26:52.862987,Men's Basketball Conference Tournament - Summit League Tournament Winner - Summit Winner,Denver U,0.0115,0.0294,0.0179
-2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.011199999999999995,0.0588,0.0476
-2025-03-05 02:00:16.244561,Blue Bay LPGA - Blue Bay LPGA - Winner,Rio Takeda,0.011199999999999995,0.0588,0.0476
 2025-03-05 09:31:48.490089,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,0.011199999999999995,0.0588,0.0476
+2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,0.011199999999999995,0.0588,0.0476
 2025-03-05 08:36:31.703717,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Wright State,0.011199999999999995,0.0588,0.0476
 2025-03-05 11:26:52.883817,Men's Basketball Conference Tournament - West Coast Conference Tournament Winner - WCC Winner,Saint Mary's CA,0.011099999999999999,0.4762,0.4651
 2025-03-05 11:26:52.883817,Men's Basketball Conference Tournament - West Coast Conference Tournament Winner - WCC Winner,Santa Clara,0.011099999999999999,0.0667,0.0556
 2025-03-05 09:31:51.348551,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Ronald Acuna Jr. (ATL),0.011099999999999999,0.1111,0.1
-2025-03-05 10:35:50.916707,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Tanner Bibee Total Strikeouts,Under 169.5,0.01100000000000001,0.5348,0.5238
 2025-03-05 12:54:49.299511,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Over 60.5,0.01100000000000001,0.5348,0.5238
-2025-03-05 02:00:13.785031,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Paris,0.01100000000000001,0.5348,0.5238
-2025-03-05 12:54:49.598505,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes ERA,Under 3.40,0.01100000000000001,0.5348,0.5238
-2025-03-05 11:26:54.822165,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Alec Bohm Total RBIs,Under 79.5,0.01100000000000001,0.5348,0.5238
+2025-03-05 10:35:50.916707,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Tanner Bibee Total Strikeouts,Under 169.5,0.01100000000000001,0.5348,0.5238
 2025-03-05 11:26:54.726352,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total Home Runs,Over 34.5,0.01100000000000001,0.5348,0.5238
+2025-03-05 11:26:54.822165,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Alec Bohm Total RBIs,Under 79.5,0.01100000000000001,0.5348,0.5238
+2025-03-05 12:54:49.598505,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes ERA,Under 3.40,0.01100000000000001,0.5348,0.5238
 2025-03-05 11:26:52.883817,Men's Basketball Conference Tournament - West Coast Conference Tournament Winner - WCC Winner,San Francisco,0.0109,0.0526,0.0417
+2025-03-05 12:54:50.093929,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Home Runs,Under 30.5,0.010699999999999932,0.5455,0.5348
 2025-03-05 10:35:50.686031,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Ozzie Albies Total Home Runs,Under 19.5,0.010699999999999932,0.5455,0.5348
 2025-03-05 10:35:51.125638,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Teoscar Hernández Total RBIs,Under 92.5,0.010699999999999932,0.5455,0.5348
-2025-03-05 12:54:50.093929,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Home Runs,Under 30.5,0.010699999999999932,0.5455,0.5348
 2025-03-05 12:54:47.859520,FA Cup - England FA Cup 2024/25 - Winner,Aston Villa,0.010499999999999982,0.2105,0.2
-2025-03-05 12:54:49.729321,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Marcell Ozuna Total RBIs,Over 91.5,0.010099999999999998,0.5556,0.5455
-2025-03-05 12:54:49.626324,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Eugenio Suárez Total Home Runs,Over 24.5,0.010099999999999998,0.5556,0.5455
 2025-03-05 10:35:51.273350,Player Props - New York Yankees - 2025 Regular Season Player Props - Carlos Rodón Total Strikeouts,Under 174.5,0.010099999999999998,0.5556,0.5455
+2025-03-05 12:54:49.626324,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Eugenio Suárez Total Home Runs,Over 24.5,0.010099999999999998,0.5556,0.5455
+2025-03-05 12:54:49.729321,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Marcell Ozuna Total RBIs,Over 91.5,0.010099999999999998,0.5556,0.5455
 2025-03-05 09:31:51.364237,Boxing Lines - Ricardo Brown vs Colby Madison - To Win the Bout,Ricardo Brown,-0.010199999999999987,0.9231,0.9333
 2025-03-05 05:33:18.302215,League Two - England League Two 2024/25 - Winner,Notts County,-0.0102,0.0667,0.0769
-2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.0102,0.0667,0.0769
-2025-03-05 02:00:16.232443,Cologuard Classic - Cologuard Classic - Winner,Miguel Angel Jimenez,-0.0102,0.0667,0.0769
-2025-03-05 02:00:16.232443,Cologuard Classic - Cologuard Classic - Winner,Bernhard Langer,-0.0102,0.0667,0.0769
 2025-03-05 08:36:31.231188,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.0102,0.0667,0.0769
-2025-03-05 12:54:49.598505,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes ERA,Over 3.40,-0.010699999999999932,0.5348,0.5455
+2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.0102,0.0667,0.0769
 2025-03-05 11:26:54.822165,Player Props - Philadelphia Phillies - 2025 Regular Season Player Props - Alec Bohm Total RBIs,Over 79.5,-0.010699999999999932,0.5348,0.5455
 2025-03-05 12:54:49.299511,Regular Season Wins - Colorado Rockies Wins - 2025 Regular Season - Regular Season Wins,Under 60.5,-0.010699999999999932,0.5348,0.5455
-2025-03-05 11:26:54.726352,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total Home Runs,Under 34.5,-0.010699999999999932,0.5348,0.5455
 2025-03-05 10:35:50.916707,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Tanner Bibee Total Strikeouts,Over 169.5,-0.010699999999999932,0.5348,0.5455
+2025-03-05 11:26:54.726352,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total Home Runs,Under 34.5,-0.010699999999999932,0.5348,0.5455
+2025-03-05 12:54:49.598505,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Burnes ERA,Over 3.40,-0.010699999999999932,0.5348,0.5455
 2025-03-05 10:35:51.743809,Boxing Lines - Chloe Watson vs Jasmina Zapotoczna - To Win the Bout,Chloe Watson,-0.010700000000000043,0.6667,0.6774
-2025-03-05 13:35:31.800117,Hong Kong - Hong Kong - Winner,Jon Rahm,-0.010899999999999993,0.1429,0.1538
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Texas Tech,-0.010899999999999993,0.1429,0.1538
-2025-03-05 10:35:51.125638,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Teoscar Hernández Total RBIs,Over 92.5,-0.01100000000000001,0.5238,0.5348
+2025-03-05 13:35:31.800117,Hong Kong - Hong Kong - Winner,Jon Rahm,-0.010899999999999993,0.1429,0.1538
 2025-03-05 12:54:50.093929,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Home Runs,Over 30.5,-0.01100000000000001,0.5238,0.5348
+2025-03-05 10:35:51.125638,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Teoscar Hernández Total RBIs,Over 92.5,-0.01100000000000001,0.5238,0.5348
 2025-03-05 10:35:50.686031,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Ozzie Albies Total Home Runs,Over 19.5,-0.01100000000000001,0.5238,0.5348
 2025-03-05 03:38:55.633386,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.011099999999999999,0.1,0.1111
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Memphis,-0.011199999999999995,0.0323,0.0435
-2025-03-05 02:00:16.244561,Blue Bay LPGA - Blue Bay LPGA - Winner,Jin Hee Im,-0.011199999999999995,0.0476,0.0588
 2025-03-05 09:31:51.517579,Tournament Match-Ups - Tournament Match-Up - R. MacIntyre vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.0116,0.4762,0.4878
-2025-03-05 12:54:49.626324,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Eugenio Suárez Total Home Runs,Under 24.5,-0.011600000000000055,0.5122,0.5238
-2025-03-05 12:54:49.729321,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Marcell Ozuna Total RBIs,Under 91.5,-0.011600000000000055,0.5122,0.5238
 2025-03-05 10:35:51.273350,Player Props - New York Yankees - 2025 Regular Season Player Props - Carlos Rodón Total Strikeouts,Over 174.5,-0.011600000000000055,0.5122,0.5238
-2025-03-05 12:54:49.246671,Regular Season Wins - Arizona Diamondbacks Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
+2025-03-05 12:54:49.729321,Player Props - Atlanta Braves - 2025 Regular Season Player Props - Marcell Ozuna Total RBIs,Under 91.5,-0.011600000000000055,0.5122,0.5238
+2025-03-05 12:54:49.626324,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Eugenio Suárez Total Home Runs,Under 24.5,-0.011600000000000055,0.5122,0.5238
 2025-03-05 12:54:49.345286,Regular Season Wins - Minnesota Twins Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.012199999999999989,0.4878,0.5
-2025-03-05 12:54:50.204717,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Under 42.5,-0.012199999999999989,0.5,0.5122
 2025-03-05 09:31:49.992789,Regular Season Wins - Washington Nationals Wins - 2025 Regular Season - Regular Season Wins,Undcer 71.5,-0.012199999999999989,0.5,0.5122
 2025-03-05 09:31:50.082769,To Make The Playoffs - Milwaukee Brewers To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.012199999999999989,0.5,0.5122
 2025-03-05 12:54:49.801980,Player Props - Boston Red Sox - 2025 Regular Season Player Props - Alex Bregman Total Home Runs,Under 21.5,-0.012199999999999989,0.5,0.5122
+2025-03-05 12:54:49.246671,Regular Season Wins - Arizona Diamondbacks Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.5,0.5122
+2025-03-05 12:54:50.204717,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Under 42.5,-0.012199999999999989,0.5,0.5122
 2025-03-05 09:31:48.566281,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.012699999999999989,0.3509,0.3636
-2025-03-05 12:54:47.859520,FA Cup - England FA Cup 2024/25 - Winner,Brighton & Hove Albion,-0.012899999999999995,0.1538,0.1667
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Inter Milan,-0.012899999999999995,0.1538,0.1667
+2025-03-05 12:54:47.859520,FA Cup - England FA Cup 2024/25 - Winner,Brighton & Hove Albion,-0.012899999999999995,0.1538,0.1667
 2025-03-05 05:33:18.376571,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Manta,-0.0129,0.002,0.0149
 2025-03-05 09:31:48.496154,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.0131,0.2222,0.2353
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,-0.013899999999999996,0.1111,0.125
-2025-03-05 09:31:48.550854,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.013999999999999999,0.0769,0.0909
-2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,-0.013999999999999999,0.0769,0.0909
 2025-03-05 09:31:48.499137,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.013999999999999999,0.0769,0.0909
+2025-03-05 09:31:48.550854,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.013999999999999999,0.0769,0.0909
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,-0.013999999999999999,0.0769,0.0909
+2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,-0.013999999999999999,0.0769,0.0909
+2025-03-05 14:33:53.458845,Boxing Lines - Ricardo Brown vs Colby Madison - To Win the Bout,Ricardo Brown,-0.014000000000000012,0.9091,0.9231
 2025-03-05 09:31:48.566281,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.014000000000000012,0.9091,0.9231
 2025-03-05 08:36:31.231188,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.014099999999999994,0.0526,0.0667
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayer Leverkusen,-0.014100000000000001,0.0385,0.0526
@@ -185,61 +179,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 09:31:48.502213,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,-0.014900000000000004,0.0196,0.0345
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Michigan State,-0.015100000000000002,0.1667,0.1818
 2025-03-05 04:34:29.766814,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Mohamed Salah (Liverpool),-0.015100000000000002,0.1667,0.1818
-2025-03-05 09:31:51.331037,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Fernando Tatis Jr. (SD),-0.015300000000000001,0.0323,0.0476
 2025-03-05 11:26:52.879665,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Wright State,-0.015300000000000001,0.0435,0.0588
+2025-03-05 09:31:51.331037,To Record the Most Hits - Player To Record the Most Hits - 2025 Regular Season - Player To Record the Most Hits,Fernando Tatis Jr. (SD),-0.015300000000000001,0.0323,0.0476
 2025-03-05 11:26:52.854634,Men's Basketball Conference Tournament - Ohio Valley Conference Tournament Winner - OVC Winner,SE Missouri State,-0.015400000000000025,0.3846,0.4
-2025-03-05 02:00:13.789761,NBL - Australia NBL 2024/25 - Outright,Illawarra Hawks,-0.015400000000000025,0.3846,0.4
-2025-03-05 02:00:16.232443,Cologuard Classic - Cologuard Classic - Winner,Stewart Cink,-0.015700000000000006,0.1176,0.1333
-2025-03-05 02:00:16.232443,Cologuard Classic - Cologuard Classic - Winner,Steve Stricker,-0.015700000000000006,0.1176,0.1333
 2025-03-05 11:26:52.879665,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Oakland,-0.01580000000000001,0.0556,0.0714
-2025-03-05 09:31:48.502213,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.016699999999999993,0.25,0.2667
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayern Munich,-0.016699999999999993,0.25,0.2667
+2025-03-05 09:31:48.502213,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.016699999999999993,0.25,0.2667
 2025-03-05 04:34:29.766814,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),-0.016699999999999993,0.25,0.2667
 2025-03-05 13:35:31.455434,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs X. Schauffele - 1st Round Match-Up,Xander Schauffele,-0.017299999999999982,0.4082,0.4255
-2025-03-05 02:00:13.785031,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Panathinaikos,-0.01759999999999995,0.9804,0.998
-2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,-0.018099999999999998,0.0588,0.0769
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Connecticut,-0.018099999999999998,0.0588,0.0769
-2025-03-05 02:00:16.244561,Blue Bay LPGA - Blue Bay LPGA - Winner,Minjee Lee,-0.018099999999999998,0.0588,0.0769
+2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,-0.018099999999999998,0.0588,0.0769
 2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Barnsley,-0.018200000000000004,0.0294,0.0476
 2025-03-05 09:31:48.563258,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.018200000000000004,0.0294,0.0476
+2025-03-05 08:36:31.225144,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.01820000000000002,0.1818,0.2
 2025-03-05 09:31:48.496154,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,-0.01820000000000002,0.1818,0.2
 2025-03-05 03:38:55.633386,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.01820000000000002,0.1818,0.2
-2025-03-05 08:36:31.225144,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.01820000000000002,0.1818,0.2
-2025-03-05 09:31:51.544502,Tournament Match-Ups - Tournament Match-Up - A. Bhatia v B. Griffin - Requests,Akshay Bhatia,-0.01880000000000004,0.5556,0.5744
 2025-03-05 09:31:48.493153,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.01880000000000004,0.6364,0.6552
-2025-03-05 09:31:48.486789,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.0189,0.0196,0.0385
+2025-03-05 09:31:51.544502,Tournament Match-Ups - Tournament Match-Up - A. Bhatia v B. Griffin - Requests,Akshay Bhatia,-0.01880000000000004,0.5556,0.5744
 2025-03-05 05:33:18.376571,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Emelec,-0.0189,0.0196,0.0385
+2025-03-05 09:31:48.486789,Championship - England Championship 2024/25 - Top Goalscorer,Vakoun Bayo,-0.0189,0.0196,0.0385
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Borussia Dortmund,-0.019099999999999992,0.0476,0.0667
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Club Brugge,-0.0194,0.005,0.0244
-2025-03-05 12:54:51.406919,Tournament Match-Ups - Tournament Match-Up - A. Rozner vs H. Norlander - Tournament Match-Up,Antoine Rozner,-0.01970000000000005,0.5455,0.5652
 2025-03-05 12:54:51.431977,Tournament Match-Ups - Tournament Match-Up - L. Griffin vs M. Jordan - Tournament Match-Up,Lanto Griffin,-0.01970000000000005,0.5455,0.5652
-2025-03-05 11:26:52.858799,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,NC Asheville,-0.02020000000000001,0.0909,0.1111
+2025-03-05 12:54:51.406919,Tournament Match-Ups - Tournament Match-Up - A. Rozner vs H. Norlander - Tournament Match-Up,Antoine Rozner,-0.01970000000000005,0.5455,0.5652
 2025-03-05 09:31:48.557212,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.02020000000000001,0.0909,0.1111
-2025-03-05 11:26:54.730026,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total RBIs,Over 102.5,-0.02079999999999993,0.5348,0.5556
-2025-03-05 12:54:51.436958,Tournament Match-Ups - Tournament Match-Up - N. Norgaard vs R. Gerard - Tournament Match-Up,Ryan Gerard,-0.02079999999999993,0.5348,0.5556
+2025-03-05 11:26:52.858799,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,NC Asheville,-0.02020000000000001,0.0909,0.1111
 2025-03-05 12:54:51.427030,Tournament Match-Ups - Tournament Match-Up - K. Roy vs R. Neergaard-Petersen - Tournament Match-Up,Kevin Roy,-0.02079999999999993,0.5348,0.5556
+2025-03-05 12:54:51.436958,Tournament Match-Ups - Tournament Match-Up - N. Norgaard vs R. Gerard - Tournament Match-Up,Ryan Gerard,-0.02079999999999993,0.5348,0.5556
+2025-03-05 11:26:54.730026,Player Props - New York Mets - 2025 Regular Season Player Props - Juan Soto Total RBIs,Over 102.5,-0.02079999999999993,0.5348,0.5556
+2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.02169999999999994,0.5238,0.5455
 2025-03-05 12:54:49.610192,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Corbin Carroll Total Hits,Under 151.5,-0.02169999999999994,0.5238,0.5455
 2025-03-05 12:54:50.077530,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Tarik Skubal ERA,Over 2.80,-0.02169999999999994,0.5238,0.5455
-2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.02169999999999994,0.5238,0.5455
-2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,-0.021999999999999964,0.2857,0.3077
 2025-03-05 11:26:52.862987,Men's Basketball Conference Tournament - Summit League Tournament Winner - Summit Winner,St. Thomas MN,-0.021999999999999964,0.2857,0.3077
+2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Liverpool,-0.021999999999999964,0.2857,0.3077
 2025-03-05 08:36:31.703717,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Robert Morris,-0.02250000000000002,0.2632,0.2857
-2025-03-05 09:31:49.950570,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Over 76.5,-0.022600000000000064,0.5122,0.5348
-2025-03-05 10:35:51.111587,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Under 42.5,-0.022600000000000064,0.5122,0.5348
-2025-03-05 09:31:51.065602,Player Props - San Diego Padres - 2025 Regular Season Player Props - Jackson Merrill Total Hits,Under 157.5,-0.022600000000000064,0.5122,0.5348
 2025-03-05 12:54:50.036657,Player Props - Colorado Rockies - 2025 Regular Season Player Props - Michael Toglia Total RBIs,Under 69.5,-0.022600000000000064,0.5122,0.5348
 2025-03-05 10:35:51.056354,Player Props - Kansas City Royals - 2025 Regular Season Player Props - Cole Ragans ERA,Over 3.45,-0.022600000000000064,0.5122,0.5348
 2025-03-05 10:35:51.379423,Player Props - Pittsburgh Pirates - 2025 Regular Season Player Props - Oneil Cruz Total Home Runs,Under 22.5,-0.022600000000000064,0.5122,0.5348
+2025-03-05 10:35:51.111587,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Home Runs,Under 42.5,-0.022600000000000064,0.5122,0.5348
+2025-03-05 09:31:51.065602,Player Props - San Diego Padres - 2025 Regular Season Player Props - Jackson Merrill Total Hits,Under 157.5,-0.022600000000000064,0.5122,0.5348
+2025-03-05 09:31:49.950570,Regular Season Wins - Pittsburgh Pirates Wins - 2025 Regular Season - Regular Season Wins,Over 76.5,-0.022600000000000064,0.5122,0.5348
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,PSV Eindhoven,-0.023100000000000002,0.0013,0.0244
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,-0.02310000000000001,0.0769,0.1
 2025-03-05 11:26:52.871309,Men's Basketball Conference Tournament - Sun Belt Conference Tournament Winner - Sun Belt Winner,James Madison,-0.0232,0.2041,0.2273
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Auburn,-0.023699999999999943,0.5917,0.6154
-2025-03-05 11:26:52.867145,Men's Basketball Conference Tournament - Southern Conference Tournament Winner - SoCon Winner,Wofford,-0.023799999999999988,0.1429,0.1667
-2025-03-05 03:03:05.696827,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs C. Morikawa - Tournament Match-Up,Collin Morikawa,-0.023799999999999988,0.4762,0.5
 2025-03-05 08:36:31.228173,League One - England League One 2024/25 - Top 2 Finish,Stockport County,-0.023799999999999988,0.1429,0.1667
+2025-03-05 03:03:05.696827,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs C. Morikawa - Tournament Match-Up,Collin Morikawa,-0.023799999999999988,0.4762,0.5
+2025-03-05 11:26:52.867145,Men's Basketball Conference Tournament - Southern Conference Tournament Winner - SoCon Winner,Wofford,-0.023799999999999988,0.1429,0.1667
 2025-03-05 10:35:51.607750,Player Props - Washington Nationals - 2025 Regular Season Player Props - James Wood Total Home Runs,Over 18.5,-0.023800000000000043,0.5,0.5238
-2025-03-05 11:26:54.369173,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total Stolen Bases,Over 19.5,-0.023800000000000043,0.5,0.5238
 2025-03-05 10:35:51.474752,Player Props - Seattle Mariners - 2025 Regular Season Player Props - Cal Raleigh Total Home Runs,Over 30.5,-0.023800000000000043,0.5,0.5238
+2025-03-05 11:26:54.369173,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total Stolen Bases,Over 19.5,-0.023800000000000043,0.5,0.5238
 2025-03-05 09:31:51.348551,To Record the Most Stolen Bases - Player To Record the Most Stolen Bases - 2025 Regular Season - Player To Record the Most Stolen Bases,Brice Turang (MIL),-0.0242,0.0667,0.0909
 2025-03-05 08:36:31.703717,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Northern Kentucky,-0.024299999999999995,0.0345,0.0588
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Atlético Madrid,-0.024299999999999995,0.0345,0.0588
@@ -248,14 +237,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 08:36:31.225144,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.02560000000000001,0.3077,0.3333
 2025-03-05 09:31:48.490089,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.025600000000000067,0.6667,0.6923
 2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,-0.025600000000000067,0.6667,0.6923
-2025-03-05 02:00:13.883182,Trump Policy Specials - Will US cease to be a full NATO member in 2025? - Will US leave NATO?,No,-0.025900000000000034,0.7468,0.7727
 2025-03-05 11:26:52.854634,Men's Basketball Conference Tournament - Ohio Valley Conference Tournament Winner - OVC Winner,Tennessee State,-0.026100000000000012,0.1739,0.2
 2025-03-05 13:35:31.486045,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs C. Morikawa - Tournament Match-Up,Ludvig Aberg,-0.026499999999999968,0.5652,0.5917
-2025-03-05 13:35:31.657953,Tournament Match-Ups - Tournament Match-Up - A. Svennson vs M. Wallace - Tournament Match-Up,Matt Wallace,-0.026499999999999968,0.5652,0.5917
 2025-03-05 03:03:03.322650,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.026499999999999968,0.5652,0.5917
+2025-03-05 13:35:31.657953,Tournament Match-Ups - Tournament Match-Up - A. Svennson vs M. Wallace - Tournament Match-Up,Matt Wallace,-0.026499999999999968,0.5652,0.5917
+2025-03-05 13:35:31.271361,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - A. Bhatia / M. Pavon - 1st Round 2-Balls,Matthieu Pavon,-0.026600000000000013,0.4082,0.4348
 2025-03-05 13:35:31.364643,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - R. McIIroy / S. Lowry - 1st Round 2-Balls,Shane Lowry,-0.026600000000000013,0.4082,0.4348
 2025-03-05 13:35:31.267148,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - T. Fleetwood / C. Young - 1st Round 2-Balls,Cameron Young,-0.026600000000000013,0.4082,0.4348
-2025-03-05 13:35:31.271361,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - A. Bhatia / M. Pavon - 1st Round 2-Balls,Matthieu Pavon,-0.026600000000000013,0.4082,0.4348
 2025-03-05 08:36:31.716500,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - To Reach Final Four,Arizona,-0.0267,0.0909,0.1176
 2025-03-05 04:34:30.424949,Trump Policy Specials - Will Trump end the Ukraine war within 90 days? - Ukraine War End?,Yes,-0.02729999999999999,0.3175,0.3448
 2025-03-05 09:31:48.502213,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.027700000000000058,0.5556,0.5833
@@ -271,8 +259,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 09:31:48.557212,League Two - England League Two 2024/25 - To Be Relegated,Newport County,-0.0319,0.0066,0.0385
 2025-03-05 09:31:48.661091,National League - English National League 2024/25 - English National League Winner,Forest Green Rovers,-0.03219999999999999,0.0345,0.0667
 2025-03-05 11:26:52.867145,Men's Basketball Conference Tournament - Southern Conference Tournament Winner - SoCon Winner,Samford,-0.03259999999999999,0.2,0.2326
-2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.033300000000000024,0.1667,0.2
 2025-03-05 09:31:48.493153,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.033300000000000024,0.1667,0.2
+2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.033300000000000024,0.1667,0.2
 2025-03-05 09:31:48.490089,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.0348,0.4,0.4348
 2025-03-05 09:31:48.566281,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.0353,0.2,0.2353
 2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.03640000000000004,0.3636,0.4
@@ -284,8 +272,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 11:26:54.464027,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Kerry Carpenter Total Home Runs,Over 21.5,-0.04139999999999999,0.5238,0.5652
 2025-03-05 09:31:48.566281,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.04169999999999999,0.125,0.1667
 2025-03-05 08:36:31.703717,Men's Basketball Conference Tournament - Horizon League Tournament Winner - Horizon Winner,Wisconsin Milwaukee,-0.04409999999999997,0.25,0.2941
-2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.044499999999999984,0.2222,0.2667
 2025-03-05 05:33:18.376571,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,-0.044499999999999984,0.2222,0.2667
+2025-03-05 08:36:31.222139,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.044499999999999984,0.2222,0.2667
 2025-03-05 09:31:48.554198,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.045499999999999985,0.5,0.5455
 2025-03-05 08:36:31.225144,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,-0.045499999999999985,0.4545,0.5
 2025-03-05 03:38:55.633386,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.04620000000000002,0.1538,0.2

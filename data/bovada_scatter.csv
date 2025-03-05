@@ -63,10 +63,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Inter Milan,-0.012899999999999995,0.1538,0.1667
 2025-03-05 05:33:18.376571,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Manta,-0.0129,0.002,0.0149
 2025-03-04 22:31:37.168329,Boxing Lines - Sara Bailey vs Cristina Navarro - To Win the Bout,Sara Bailey,-0.0131,0.9524,0.9655
-2025-03-04 19:25:18.354625,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Arch Manning (TEX),-0.013899999999999996,0.1111,0.125
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,-0.013899999999999996,0.1111,0.125
-2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,-0.013999999999999999,0.0769,0.0909
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,-0.013999999999999999,0.0769,0.0909
+2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,-0.013999999999999999,0.0769,0.0909
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayer Leverkusen,-0.014100000000000001,0.0385,0.0526
 2025-03-04 22:31:35.036456,Ukraine - When will Zelenskyy next be photographed wearing a suit? - Zelenskyy in a suit?,Q4 2025,-0.014399999999999996,0.0625,0.0769
 2025-03-04 20:31:20.078406,Western Conference - Western Conference 2024-25 - Western Conference Winner,Dallas Mavericks,-0.014900000000000004,0.0196,0.0345
@@ -90,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Ceasefire,-0.022199999999999998,0.7778,0.8
 2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Crypto reserve,-0.02260000000000001,0.3774,0.4
 2025-03-05 03:38:55.636851,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,PSV Eindhoven,-0.023100000000000002,0.0013,0.0244
-2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,DOGE/Department Of Governmental Efficiency,-0.02310000000000001,0.9,0.9231
 2025-03-05 03:38:55.631107,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,-0.02310000000000001,0.0769,0.1
+2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,DOGE/Department Of Governmental Efficiency,-0.02310000000000001,0.9,0.9231
 2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,NATO,-0.023799999999999932,0.8333,0.8571
 2025-03-04 23:28:32.048504,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Greenland,-0.023799999999999988,0.4762,0.5
 2025-03-05 03:03:05.696827,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs C. Morikawa - Tournament Match-Up,Collin Morikawa,-0.023799999999999988,0.4762,0.5
@@ -100,8 +99,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 02:00:13.883182,Trump Policy Specials - Will US cease to be a full NATO member in 2025? - Will US leave NATO?,No,-0.025900000000000034,0.7468,0.7727
 2025-03-05 03:03:03.322650,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.026499999999999968,0.5652,0.5917
 2025-03-05 04:34:30.424949,Trump Policy Specials - Will Trump end the Ukraine war within 90 days? - Ukraine War End?,Yes,-0.02729999999999999,0.3175,0.3448
-2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Trump Olympics,-0.028399999999999995,0.0625,0.0909
 2025-03-04 22:31:35.004295,Trump Policy Specials - Will Greenland become a US state in 2025? - Greenland US State?,Yes,-0.028399999999999995,0.0625,0.0909
+2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Trump Olympics,-0.028399999999999995,0.0625,0.0909
 2025-03-04 23:28:32.048504,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Trans/Transgender,-0.03179999999999994,0.5238,0.5556
 2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,American banks,-0.033299999999999996,0.5122,0.5455
 2025-03-05 03:38:55.640250,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.033300000000000024,0.1667,0.2
@@ -110,6 +109,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-05 05:33:18.376571,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,-0.044499999999999984,0.2222,0.2667
 2025-03-05 03:38:55.633386,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.04620000000000002,0.1538,0.2
 2025-03-04 22:31:37.343760,Tournament Match-Ups - Tournament Match-Up - A. Bhatia v B. Griffin - Requests,Ben Griffin,-0.04700000000000004,0.4878,0.5348
+2025-03-05 07:29:53.229933,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),-0.04849999999999999,0.1333,0.1818
 2025-03-04 22:31:35.000097,Trump Policy Specials - DOGE/Musk: No of firings/layoffs from civilian federal workforce by the end of June 2025? - DOGE Layoffs,300k to 400k,-0.053100000000000036,0.3636,0.4167
 2025-03-04 23:28:32.048504,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Panama Canal,-0.05449999999999999,0.5455,0.6
 2025-03-04 21:29:15.175297,Trump Address To Congress - Trump Address To Congress - To Be Said During Speech - To Be Said,Greenland,-0.05559999999999998,0.5,0.5556

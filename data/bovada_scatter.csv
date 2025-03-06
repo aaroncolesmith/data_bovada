@@ -25,24 +25,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-06 08:36:11.138150,Men's Basketball Conference Tournament - Ohio Valley Conference Tournament Winner - OVC Winner,Tennessee Martin,0.024299999999999995,0.0588,0.0345
 2025-03-06 02:00:31.846394,Positions - Finishing Position - Tommy Fleetwood - Finishing Position,19th or better,0.022600000000000064,0.6226,0.6
 2025-03-06 08:36:11.146155,Men's Basketball Conference Tournament - Summit League Tournament Winner - Summit Winner,St. Thomas MN,0.021999999999999964,0.3077,0.2857
+2025-03-06 10:37:10.616553,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - B. Campbell / J. Bridgeman - 1st Round 2-Balls,Jacob Bridgeman,0.02079999999999993,0.5556,0.5348
 2025-03-06 08:36:11.138150,Men's Basketball Conference Tournament - Ohio Valley Conference Tournament Winner - OVC Winner,Lindenwoord,0.020000000000000004,0.0323,0.0123
 2025-03-06 07:30:19.699987,Round Match-Ups - 1st Round Match-Up - L. Aberg vs T. Fleetwood - 1st Round Match-Up,Ludvig Aberg,0.01970000000000005,0.5652,0.5455
 2025-03-06 07:30:19.648652,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - W. Clark / S. Burns - 1st Round 2-Balls,Sam Burns,0.01970000000000005,0.5652,0.5455
-2025-03-06 08:36:11.315120,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.018999999999999906,0.7333,0.7143
 2025-03-06 05:32:51.490650,Potential Fights - Canelo Alvarez vs Terence Crawford - To Win the Bout,Canelo Alvarez,0.018999999999999906,0.7333,0.7143
+2025-03-06 08:36:11.315120,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.018999999999999906,0.7333,0.7143
 2025-03-06 02:00:28.731722,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.016699999999999993,0.2667,0.25
 2025-03-06 06:39:37.525689,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - I. Salinda / J. Koivun - 1st Round 2-Balls,Isaiah Salinda,0.016699999999999937,0.6,0.5833
 2025-03-06 06:39:37.487670,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - D. Thompson / E. Cole - 1st Round 2-Balls,Davis Thompson,0.016100000000000003,0.6078,0.5917
 2025-03-06 08:36:13.610514,Boxing Lines - Lucas Bahdi vs Ryan James Sabal Racaza - To Win the Bout,Ryan James Sabal Racaza,0.015700000000000006,0.1333,0.1176
 2025-03-06 06:39:37.457759,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - J.J. Spaun / A. Potgieter - 1st Round 2-Balls,JJ Spaun,0.01539999999999997,0.6154,0.6
-2025-03-06 02:00:28.731722,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Mohamed Salah (Liverpool),0.015100000000000002,0.1818,0.1667
 2025-03-06 02:00:28.744722,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,0.015100000000000002,0.1818,0.1667
+2025-03-06 02:00:28.731722,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Mohamed Salah (Liverpool),0.015100000000000002,0.1818,0.1667
 2025-03-06 09:31:30.414898,To Record the Most Wins - Pitcher To Record the Most Wins - 2025 Regular Season - Pitcher To Record the Most Wins,Garrett Crochet (BOS),0.014899999999999997,0.0625,0.0476
 2025-03-06 07:30:19.589544,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - M. McNealy / M. Hughes - 1st Round 2-Balls,Maverick McNealy,0.014800000000000035,0.6226,0.6078
 2025-03-06 02:00:28.729366,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.013999999999999999,0.0909,0.0769
 2025-03-06 02:00:28.744722,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,0.013999999999999999,0.0909,0.0769
 2025-03-06 02:00:29.363034,Bundesliga - Germany Bundesliga 2024/25 - Outright,Bayern Munich,0.013900000000000023,0.8889,0.875
 2025-03-06 08:36:13.589043,Boxing Lines - Ricardo Brown vs Colby Madison - To Win the Bout,Colby Madison,0.012899999999999995,0.1667,0.1538
+2025-03-06 10:37:08.415658,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.011900000000000022,0.7619,0.75
 2025-03-06 08:36:13.720554,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Scottie Scheffler,0.011700000000000016,0.2222,0.2105
 2025-03-06 08:36:13.593291,Boxing Lines - Mark Smither vs Jaime Cuesta - To Win the Bout,Jaime Cuesta,0.011699999999999988,0.2857,0.274
 2025-03-06 02:00:28.731722,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jamal Musiala (Bayern Munich),0.011199999999999995,0.0588,0.0476
@@ -52,8 +54,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-06 07:30:19.461743,Arnold Palmer Invitational - Arnold Palmer Invitational - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
 2025-03-06 03:04:01.294807,Boxing Lines - Karriss Artingstall vs Raven Chapman - To Win the Bout,Raven Chapman,-0.010699999999999987,0.3226,0.3333
 2025-03-06 08:36:11.304133,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),-0.010700000000000001,0.0278,0.0385
-2025-03-06 02:00:28.735154,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.010899999999999993,0.1429,0.1538
 2025-03-06 02:00:28.729366,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,-0.010899999999999993,0.1429,0.1538
+2025-03-06 02:00:28.735154,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.010899999999999993,0.1429,0.1538
 2025-03-06 03:40:12.059066,Boxing Lines - Harlem Eubank vs Tyrone McKenna - To Win the Bout,Tyrone McKenna,-0.011099999999999999,0.2667,0.2778
 2025-03-06 08:36:13.597573,Boxing Lines - Sara Bailey vs Cristina Navarro - To Win the Bout,Cristina Navarro,-0.011099999999999999,0.1,0.1111
 2025-03-06 07:30:16.848906,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.01150000000000001,0.3333,0.3448
@@ -85,8 +87,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-06 08:36:11.138150,Men's Basketball Conference Tournament - Ohio Valley Conference Tournament Winner - OVC Winner,SIU Edwardsville,-0.021999999999999964,0.2857,0.3077
 2025-03-06 08:36:11.142126,Men's Basketball Conference Tournament - Big South Conference Tournament Winner - Big South Winner,High Point,-0.02200000000000002,0.6923,0.7143
 2025-03-06 02:00:28.729366,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.022199999999999998,0.2,0.2222
+2025-03-06 10:37:08.415658,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.022199999999999998,0.3226,0.3448
 2025-03-06 07:30:19.699987,Round Match-Ups - 1st Round Match-Up - L. Aberg vs T. Fleetwood - 1st Round Match-Up,Tommy Fleetwood,-0.023799999999999988,0.4762,0.5
 2025-03-06 07:30:19.648652,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - W. Clark / S. Burns - 1st Round 2-Balls,Wyndham Clark,-0.023799999999999988,0.4762,0.5
+2025-03-06 10:37:10.616553,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2-Balls - B. Campbell / J. Bridgeman - 1st Round 2-Balls,Brian Campbell,-0.024399999999999977,0.4878,0.5122
 2025-03-06 09:31:30.549408,Boxing Lines - Arnold Khegai vs Joet Gonzalez - To Win the Bout,Arnold Khegai,-0.024899999999999922,0.6721,0.697
 2025-03-06 08:36:11.293606,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (CLE),-0.024999999999999994,0.1,0.125
 2025-03-06 02:00:28.735154,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.030299999999999994,0.3333,0.3636

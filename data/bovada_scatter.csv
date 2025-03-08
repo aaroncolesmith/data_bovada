@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-07 21:26:04.657139,League Two - England League Two 2024/25 - Winner,Bradford City,0.07239999999999996,0.3077,0.2353
 2025-03-07 21:26:05.121628,Men's Basketball Conference Tournaments - Horizon League Tournament Winner - Horizon Winner,Robert Morris,0.07190000000000002,0.4167,0.3448
 2025-03-07 21:26:05.386181,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,Birmingham Stallions,0.05890000000000001,0.3922,0.3333
+2025-03-08 06:33:26.501001,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),0.05889999999999995,0.6667,0.6078
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Jason Caron,0.04239999999999999,0.0588,0.0164
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Tim O'Neal,0.0403,0.0526,0.0123
 2025-03-07 21:26:05.516941,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.0391999999999999,0.8039,0.7647
@@ -17,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Retief Goosen,0.0347,0.0526,0.0179
 2025-03-07 20:31:45.651293,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Michigan State,0.02779999999999999,0.25,0.2222
 2025-03-07 21:26:05.113758,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Montana,0.02560000000000001,0.3333,0.3077
+2025-03-08 06:33:28.631739,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - B. Harman / A. Scott - 3rd Round 2-Balls,Adam Scott,0.024499999999999966,0.6078,0.5833
 2025-03-07 20:31:45.647194,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Connecticut,0.022199999999999998,0.2222,0.2
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Padraig Harrington,0.022199999999999998,0.1333,0.1111
 2025-03-08 01:36:57.389671,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.022199999999999998,0.2222,0.2
@@ -24,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-08 02:37:31.456165,Championship - England Championship 2024/25 - Top Goalscorer,Daniel  James,0.0215,0.0294,0.0079
 2025-03-08 02:37:31.462553,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.02100000000000002,0.6364,0.6154
 2025-03-08 01:37:00.243478,Boxing Lines - Lucas Bahdi vs Ryan James Sabal Racaza - To Win the Bout,Ryan James Sabal Racaza,0.02049999999999999,0.1538,0.1333
-2025-03-07 20:31:46.009678,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.018100000000000005,0.4348,0.4167
 2025-03-08 04:28:46.703821,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - B. Harman / A. Scott - 3rd Round 2-Balls,Adam Scott,0.018100000000000005,0.5833,0.5652
+2025-03-07 20:31:46.009678,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.018100000000000005,0.4348,0.4167
 2025-03-07 21:26:05.386181,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,San Antonio Brahmas,0.017100000000000004,0.16,0.1429
 2025-03-07 21:26:05.109805,Men's Basketball Conference Tournaments - Patriot League Conference Tournament Winner - Patriot Winner,Colgate,0.016699999999999993,0.2667,0.25
 2025-03-08 02:37:31.433058,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.016699999999999937,0.6,0.5833
@@ -49,15 +51,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-08 01:36:57.389671,A-League - Australia A-League 2024/25 - Grand Final Winner,Macarthur FC,-0.014099999999999998,0.0244,0.0385
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Alex Cejka,-0.014099999999999998,0.0244,0.0385
 2025-03-07 20:31:45.647194,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Marquette,-0.01469999999999999,0.2353,0.25
-2025-03-07 20:31:45.651293,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Purdue,-0.015100000000000002,0.1667,0.1818
 2025-03-07 21:26:07.631443,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Anthony Olascuaga,-0.015100000000000002,0.8182,0.8333
+2025-03-07 20:31:45.651293,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Purdue,-0.015100000000000002,0.1667,0.1818
 2025-03-07 20:31:46.009678,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),-0.01539999999999997,0.6,0.6154
 2025-03-07 21:26:05.113758,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Northern Colorado,-0.018100000000000005,0.4167,0.4348
 2025-03-08 01:36:57.389671,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,-0.019000000000000017,0.2667,0.2857
+2025-03-08 06:33:28.631739,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - B. Harman / A. Scott - 3rd Round 2-Balls,Brian Harman,-0.019699999999999995,0.4348,0.4545
 2025-03-08 02:37:31.462553,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.020199999999999996,0.8889,0.9091
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Steven Alker,-0.02020000000000001,0.0909,0.1111
-2025-03-08 04:28:46.703821,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - B. Harman / A. Scott - 3rd Round 2-Balls,Brian Harman,-0.021699999999999997,0.4545,0.4762
 2025-03-08 02:37:34.586083,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 67.5,-0.021699999999999997,0.4545,0.4762
+2025-03-08 04:28:46.703821,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - B. Harman / A. Scott - 3rd Round 2-Balls,Brian Harman,-0.021699999999999997,0.4545,0.4762
 2025-03-08 04:28:46.740575,Arnold Palmer Invitational - 2/3 Balls - 3rd Round 2-Balls - J. Koivun / C. Bezuidenhout - 3rd Round 2-Balls,Jackson Koivun,-0.023800000000000043,0.5,0.5238
 2025-03-07 21:26:05.109805,Men's Basketball Conference Tournaments - Patriot League Conference Tournament Winner - Patriot Winner,American,-0.024800000000000016,0.2105,0.2353
 2025-03-07 21:26:05.516941,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.029299999999999993,0.0476,0.0769
@@ -68,6 +71,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-07 21:26:05.516941,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.03689999999999999,0.2857,0.3226
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Justin Leonard,-0.03949999999999999,0.004,0.0435
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Jerry Kelly,-0.046,0.0066,0.0526
+2025-03-08 06:33:26.501001,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),-0.06190000000000001,0.3636,0.4255
 2025-03-08 04:28:46.791954,Cologuard Classic - Cologuard Classic - Winner,Miguel Angel Jimenez,-0.06269999999999999,0.004,0.0667
 2025-03-07 21:26:04.657139,League Two - England League Two 2024/25 - Winner,Walsall,-0.06579999999999997,0.5833,0.6491
 2025-03-08 01:37:00.442411,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 67.5,-0.1729,0.4762,0.6491

@@ -1,10 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-03-09 07:23:08.492122,Men's Basketball Conference Tournaments - Southern Conference Tournament Winner - SoCon Winner,Furman,0.27380000000000004,0.4167,0.1429
 2025-03-09 12:41:24.773806,League One - England League One 2024/25 - Top Goalscorer,Jay Stansfield,0.19050000000000006,0.5238,0.3333
 2025-03-09 10:33:19.143125,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),0.1805,0.8948,0.7143
 2025-03-09 16:29:27.610402,NFL Specials - Trey Hendrickson Next Team - Proposition,Washington Commanders,0.1794,0.4651,0.2857
 2025-03-09 08:29:11.391208,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Johni Broome (Auburn),0.1778,0.4,0.2222
-2025-03-09 07:23:08.492122,Men's Basketball Conference Tournaments - Southern Conference Tournament Winner - SoCon Winner,Wofford,0.1607,0.2857,0.125
 2025-03-09 10:33:22.246871,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 70.5,0.15559999999999996,0.6,0.4444
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Stewart Cink,0.15389999999999998,0.3077,0.1538
 2025-03-09 12:41:25.239040,NBL - Australia NBL 2024/25 - Outright,Melbourne United,0.15340000000000004,0.5238,0.3704
@@ -14,9 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 12:41:24.809926,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.13979999999999998,0.4255,0.2857
 2025-03-09 09:26:21.008054,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,0.1259,0.8182,0.6923
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Liberty,0.12530000000000002,0.4762,0.3509
-2025-03-09 07:23:08.496036,Men's Basketball Conference Tournaments - Sun Belt Conference Tournament Winner - Sun Belt Winner,Marshall,0.11409999999999998,0.1667,0.0526
-2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Greg Chalmers,0.1071,0.25,0.1429
 2025-03-09 08:29:11.344675,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Colorado State,0.1071,0.25,0.1429
+2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Greg Chalmers,0.1071,0.25,0.1429
 2025-03-09 16:29:27.610402,NFL Specials - Trey Hendrickson Next Team - Proposition,Arizona Cardinals,0.10460000000000001,0.2222,0.1176
 2025-03-09 10:33:22.259708,Scores - Final Round Score - Tony Finau - Final Round Score,Over 71.5,0.10159999999999991,0.6364,0.5348
 2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.09930000000000005,0.8667,0.7674
@@ -36,10 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 08:29:11.344675,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Utah State,0.06820000000000001,0.25,0.1818
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Akron,0.06670000000000004,0.4,0.3333
 2025-03-09 09:26:20.982942,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),0.06600000000000006,0.9231,0.8571
-2025-03-09 07:23:08.424831,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.06519999999999992,0.6,0.5348
 2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,0.0635,0.2857,0.2222
-2025-03-09 07:23:08.429503,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.05870000000000003,0.5238,0.4651
-2025-03-09 07:23:08.496036,Men's Basketball Conference Tournaments - Sun Belt Conference Tournament Winner - Sun Belt Winner,Arkansas State,0.05740000000000001,0.4348,0.3774
 2025-03-09 11:22:27.038096,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,0.05710000000000001,0.2,0.1429
 2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.055900000000000005,0.3636,0.3077
 2025-03-09 12:41:24.809926,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.055800000000000016,0.2857,0.2299
@@ -48,7 +42,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 09:26:21.014106,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,0.05449999999999999,0.4545,0.4
 2025-03-09 08:29:11.323492,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Louisville,0.05379999999999999,0.1538,0.1
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Maryland,0.05350000000000002,0.2353,0.1818
-2025-03-09 07:23:08.420127,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.0514,0.9681,0.9167
 2025-03-09 10:33:19.113951,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,0.050000000000000044,0.8,0.75
 2025-03-09 08:29:11.348950,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Southern,0.04910000000000003,0.4,0.3509
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,New Mexico State,0.04849999999999999,0.1538,0.1053
@@ -61,9 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 10:33:19.282660,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.04099999999999998,0.3077,0.2667
 2025-03-09 11:22:27.041141,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.03950000000000001,0.25,0.2105
 2025-03-09 08:29:11.412731,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.03750000000000009,0.7778,0.7403
-2025-03-09 07:23:08.503898,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Montana,0.03710000000000002,0.3448,0.3077
 2025-03-09 15:26:42.616460,Men's Basketball Conference Tournaments - Coastal Athletic Association Conference Tournament Winner - CAA Winner,Hampton,0.037099999999999994,0.0588,0.0217
-2025-03-09 07:23:08.499946,Men's Basketball Conference Tournaments - Patriot League Conference Tournament Winner - Patriot Winner,Colgate,0.034999999999999976,0.2703,0.2353
 2025-03-09 15:26:42.616460,Men's Basketball Conference Tournaments - Coastal Athletic Association Conference Tournament Winner - CAA Winner,Delaware,0.0347,0.0526,0.0179
 2025-03-09 08:29:11.402811,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.034499999999999975,0.6774,0.6429
 2025-03-09 13:26:21.017886,To Make The Playoffs - New York Yankees To Make The Playoffs - 2025 - To Make The Playoffs,No,0.033499999999999974,0.2899,0.2564
@@ -81,10 +72,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 09:26:21.002000,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Nottingham Forest,0.028000000000000004,0.0476,0.0196
 2025-03-09 10:33:19.100683,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.027800000000000047,0.7778,0.75
 2025-03-09 10:33:19.146200,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.02779999999999999,0.25,0.2222
-2025-03-09 10:33:19.299477,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.02779999999999999,0.25,0.2222
 2025-03-09 15:26:42.616460,Men's Basketball Conference Tournaments - Coastal Athletic Association Conference Tournament Winner - CAA Winner,Coll Charleston,0.02779999999999999,0.25,0.2222
+2025-03-09 10:33:19.299477,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,0.02779999999999999,0.25,0.2222
 2025-03-09 09:26:21.005030,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.027700000000000058,0.5833,0.5556
-2025-03-09 07:23:08.492122,Men's Basketball Conference Tournaments - Southern Conference Tournament Winner - SoCon Winner,VMI,0.026600000000000002,0.0345,0.0079
 2025-03-09 08:29:11.200382,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,0.026499999999999968,0.5917,0.5652
 2025-03-09 11:22:27.064210,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.02560000000000001,0.3333,0.3077
 2025-03-09 13:26:22.351093,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / M Fitzpatrick - Final Round 2-Balls,Tommy Fleetwood,0.025599999999999956,0.6,0.5744
@@ -95,7 +85,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 09:26:21.017046,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,0.0242,0.9333,0.9091
 2025-03-09 13:26:22.329457,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - W. Zalatoris / J.J. Spaun - Final Round 2-Balls,JJ Spaun,0.023800000000000043,0.5238,0.5
 2025-03-09 08:29:11.377821,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,Loyola Chicago,0.0238,0.0714,0.0476
-2025-03-09 07:23:08.424831,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.023799999999999988,0.1667,0.1429
 2025-03-09 10:33:19.146200,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,0.023799999999999988,0.5,0.4762
 2025-03-09 09:26:21.020733,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.0232,0.9756,0.9524
 2025-03-09 10:33:19.140322,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.02310000000000001,0.1,0.0769
@@ -103,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 15:26:45.185221,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / M Fitzpatrick - Final Round 2-Balls,Tommy Fleetwood,0.022600000000000064,0.6226,0.6
 2025-03-09 08:29:11.340424,Men's Basketball Conference Tournaments - Mid-Eastern Athletic Conference Tournament Winner - MEAC Winner,South Carolina State,0.02260000000000001,0.4,0.3774
 2025-03-09 15:26:42.616460,Men's Basketball Conference Tournaments - Coastal Athletic Association Conference Tournament Winner - CAA Winner,Monmouth,0.022200000000000004,0.0345,0.0123
-2025-03-09 10:33:19.140322,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.022199999999999998,0.2222,0.2
 2025-03-09 10:33:19.140322,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.022199999999999998,0.2222,0.2
+2025-03-09 10:33:19.140322,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.022199999999999998,0.2222,0.2
 2025-03-09 13:26:22.398014,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - C. Morikawa / R. Henley - Final Round 2-Balls,Russell Henley,0.021699999999999997,0.4762,0.4545
 2025-03-09 11:22:26.834467,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.021699999999999997,0.4762,0.4545
 2025-03-09 15:26:45.242244,Round Match-Ups - Final Round Match-Up - C. Morikawa vs J. Thomas - Final Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
@@ -140,89 +129,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 15:26:45.132380,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Skye Nicolson,0.013900000000000023,0.8889,0.875
 2025-03-09 11:22:26.828234,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.013899999999999996,0.125,0.1111
 2025-03-09 15:26:42.690492,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Arizona,0.013899999999999996,0.125,0.1111
-2025-03-09 11:22:27.038096,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Huracán,0.013899999999999996,0.125,0.1111
 2025-03-09 10:33:19.143125,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Jonathan David (Lille),0.013899999999999996,0.125,0.1111
+2025-03-09 11:22:27.038096,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Huracán,0.013899999999999996,0.125,0.1111
 2025-03-09 08:29:11.203649,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.013800000000000034,0.3774,0.3636
-2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.012899999999999995,0.1667,0.1538
-2025-03-09 07:23:10.845854,Boxing Lines - Shokichi Iwata vs Rene Santiago - To Win the Bout,Rene Santiago,0.012899999999999995,0.1667,0.1538
 2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Alabama,0.012899999999999995,0.1667,0.1538
+2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.012899999999999995,0.1667,0.1538
+2025-03-09 20:27:31.176083,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,Dayton,0.012899999999999995,0.1667,0.1538
 2025-03-09 15:26:45.189504,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - M. Hughes / J. Thomas - Final Round 2-Balls,Justin Thomas,0.011900000000000022,0.661,0.6491
 2025-03-09 13:26:21.697595,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - William Contreras Total Home Runs,Under 23.5,0.011600000000000055,0.5238,0.5122
-2025-03-09 09:26:20.979930,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.011199999999999995,0.0588,0.0476
-2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,KJ Choi,0.011199999999999995,0.0588,0.0476
-2025-03-09 11:22:27.044847,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Huracán,0.011199999999999995,0.0588,0.0476
-2025-03-09 10:33:19.113951,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,0.011199999999999995,0.0588,0.0476
 2025-03-09 10:33:19.097838,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,0.011199999999999995,0.0588,0.0476
+2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,KJ Choi,0.011199999999999995,0.0588,0.0476
+2025-03-09 09:26:20.979930,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.011199999999999995,0.0588,0.0476
+2025-03-09 10:33:19.113951,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Union Berlin,0.011199999999999995,0.0588,0.0476
+2025-03-09 11:22:27.044847,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Huracán,0.011199999999999995,0.0588,0.0476
 2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,0.011099999999999999,0.1111,0.1
+2025-03-09 09:26:21.005030,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.011099999999999999,0.1111,0.1
 2025-03-09 11:22:26.837419,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,0.011099999999999999,0.1111,0.1
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,UCLA,0.011099999999999999,0.1111,0.1
-2025-03-09 09:26:21.005030,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.011099999999999999,0.1111,0.1
-2025-03-09 07:23:08.503898,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Northern Arizona,0.010999999999999996,0.0455,0.0345
-2025-03-09 07:23:08.492122,Men's Basketball Conference Tournaments - Southern Conference Tournament Winner - SoCon Winner,Chattanooga,0.010699999999999987,0.3333,0.3226
 2025-03-09 13:26:21.679863,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - Brice Turang Total Stolen Bases,Over 36.5,0.010699999999999932,0.5455,0.5348
 2025-03-09 13:26:21.694047,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - Jackson Chourio Total Hits,Over 159.5,0.010699999999999932,0.5455,0.5348
 2025-03-09 13:26:20.888117,Regular Season Wins - Seattle Mariners Wins - 2025 Regular Season - Regular Season Wins,Over 85.5,0.010699999999999932,0.5455,0.5348
 2025-03-09 08:29:11.353173,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Grand Canyon,0.010099999999999998,0.4545,0.4444
 2025-03-09 13:26:21.697595,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - William Contreras Total Home Runs,Over 23.5,-0.010099999999999998,0.5455,0.5556
 2025-03-09 15:26:42.661001,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Rider,-0.010100000000000001,0.0244,0.0345
-2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,-0.0102,0.0667,0.0769
-2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Houston Dynamo,-0.0102,0.0667,0.0769
-2025-03-09 08:29:11.361378,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Kansas State,-0.0102,0.005,0.0152
 2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.0102,0.0667,0.0769
 2025-03-09 08:29:11.361378,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Utah,-0.0102,0.005,0.0152
+2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,-0.0102,0.0667,0.0769
+2025-03-09 08:29:11.361378,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Kansas State,-0.0102,0.005,0.0152
+2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Houston Dynamo,-0.0102,0.0667,0.0769
 2025-03-09 15:26:42.661001,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Fairfield,-0.010300000000000002,0.0141,0.0244
 2025-03-09 19:21:54.035300,Boxing Lines - Cesar Mateo Tapia vs Sergey Vorobiev - To Win the Bout,Sergey Vorobiev,-0.010499999999999982,0.2,0.2105
 2025-03-09 08:29:11.382767,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.010800000000000004,0.2273,0.2381
 2025-03-09 11:22:26.834467,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,-0.010899999999999993,0.1429,0.1538
 2025-03-09 12:41:24.809926,League Two - England League Two 2024/25 - Top 3 Finish,Bromley,-0.0109,0.004,0.0149
+2025-03-09 13:26:21.679863,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - Brice Turang Total Stolen Bases,Under 36.5,-0.01100000000000001,0.5238,0.5348
 2025-03-09 13:26:21.694047,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - Jackson Chourio Total Hits,Under 159.5,-0.01100000000000001,0.5238,0.5348
 2025-03-09 13:26:20.888117,Regular Season Wins - Seattle Mariners Wins - 2025 Regular Season - Regular Season Wins,Under 85.5,-0.01100000000000001,0.5238,0.5348
-2025-03-09 13:26:21.679863,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - Brice Turang Total Stolen Bases,Under 36.5,-0.01100000000000001,0.5238,0.5348
 2025-03-09 10:33:19.287278,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.011099999999999999,0.1,0.1111
-2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,-0.011199999999999988,0.9412,0.9524
 2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,-0.011199999999999988,0.9412,0.9524
-2025-03-09 09:26:20.982942,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.011199999999999995,0.0476,0.0588
+2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,-0.011199999999999988,0.9412,0.9524
 2025-03-09 17:27:03.075101,NFL Specials - DK Metcalf Next Team - Proposition,Atlanta Falcons,-0.011199999999999995,0.0476,0.0588
-2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.011199999999999995,0.0476,0.0588
 2025-03-09 08:29:11.396213,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.011199999999999995,0.0476,0.0588
-2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Minnesota,-0.0112,0.004,0.0152
-2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,USC,-0.0112,0.004,0.0152
+2025-03-09 09:26:20.982942,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.011199999999999995,0.0476,0.0588
+2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.011199999999999995,0.0476,0.0588
 2025-03-09 08:29:11.361378,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,TCU,-0.0112,0.004,0.0152
+2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Minnesota,-0.0112,0.004,0.0152
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Iowa,-0.0112,0.004,0.0152
+2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,USC,-0.0112,0.004,0.0152
 2025-03-09 19:21:51.774138,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.0116,0.4762,0.4878
 2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Providence,-0.011699999999999999,0.0079,0.0196
-2025-03-09 07:23:08.499946,Men's Basketball Conference Tournaments - Patriot League Conference Tournament Winner - Patriot Winner,Navy,-0.011900000000000008,0.0833,0.0952
 2025-03-09 13:26:20.903664,Regular Season Wins - Texas Rangers Wins - 2025 Regular Season - Regular Season Wins,Under 85.5,-0.012199999999999989,0.4878,0.5
 2025-03-09 08:29:11.210108,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.012300000000000002,0.0294,0.0417
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Rutgers,-0.012400000000000001,0.004,0.0164
 2025-03-09 10:33:19.130126,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,-0.012899999999999912,0.8333,0.8462
-2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,LA Galaxy,-0.012899999999999995,0.1538,0.1667
 2025-03-09 12:41:27.691838,Boxing Lines - Michael Zerafa vs Besir Ay - To Win the Bout,Besir Ay,-0.012899999999999995,0.1538,0.1667
+2025-03-09 11:22:26.831586,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,LA Galaxy,-0.012899999999999995,0.1538,0.1667
 2025-03-09 08:29:11.348950,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Prairie View A&M,-0.013,0.0066,0.0196
 2025-03-09 08:29:11.323492,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Stanford,-0.013,0.0066,0.0196
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Tim Petrovic,-0.0132,0.002,0.0152
 2025-03-09 08:29:11.210108,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Texas (TX),-0.013400000000000002,0.011,0.0244
-2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Illinois,-0.013899999999999996,0.1111,0.125
 2025-03-09 11:22:27.041141,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,-0.013899999999999996,0.1111,0.125
 2025-03-09 15:26:42.690492,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Iowa State,-0.013899999999999996,0.1111,0.125
-2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.013999999999999999,0.0769,0.0909
+2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Illinois,-0.013899999999999996,0.1111,0.125
 2025-03-09 17:27:03.075101,NFL Specials - DK Metcalf Next Team - Proposition,Pittsburgh Steelers,-0.013999999999999999,0.0769,0.0909
-2025-03-09 09:26:20.992634,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Alexander Isak (Newcastle),-0.013999999999999999,0.0769,0.0909
 2025-03-09 09:26:20.995987,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.013999999999999999,0.0769,0.0909
+2025-03-09 09:26:20.992634,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer Without Erling Haaland,Alexander Isak (Newcastle),-0.013999999999999999,0.0769,0.0909
 2025-03-09 11:22:26.834467,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,-0.013999999999999999,0.0769,0.0909
-2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Xavier,-0.013999999999999999,0.0769,0.0909
 2025-03-09 11:22:26.828234,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.013999999999999999,0.0769,0.0909
+2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.013999999999999999,0.0769,0.0909
+2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Xavier,-0.013999999999999999,0.0769,0.0909
 2025-03-09 09:26:21.014106,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.014099999999999998,0.0244,0.0385
 2025-03-09 11:22:27.044847,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,San Lorenzo,-0.014099999999999998,0.0244,0.0385
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Oregon,-0.014100000000000001,0.0385,0.0526
 2025-03-09 08:29:11.323492,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,North Carolina,-0.014399999999999996,0.0625,0.0769
 2025-03-09 12:41:24.773806,League One - England League One 2024/25 - Top Goalscorer,Matt Godden,-0.014499999999999999,0.0149,0.0294
 2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Georgia,-0.0145,0.0099,0.0244
-2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Nebraska,-0.014599999999999998,0.005,0.0196
-2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Vanderbilt,-0.014599999999999998,0.005,0.0196
 2025-03-09 08:29:11.348950,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Alabama A&M,-0.014599999999999998,0.005,0.0196
+2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Vanderbilt,-0.014599999999999998,0.005,0.0196
 2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Texas,-0.014599999999999998,0.005,0.0196
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Northwestern,-0.014599999999999998,0.005,0.0196
+2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Nebraska,-0.014599999999999998,0.005,0.0196
 2025-03-09 09:26:20.989414,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mikkel Damsgaard,-0.014900000000000004,0.0196,0.0345
 2025-03-09 15:26:45.206412,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - C. Bezuidenhout / S. Scheffler - Final Round 2-Balls,Christiaan Bezuidenhout,-0.014900000000000024,0.3077,0.3226
 2025-03-09 11:22:27.044847,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Estudiantes LP,-0.015100000000000002,0.1667,0.1818
@@ -233,10 +219,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Padraig Harrington,-0.015700000000000006,0.1176,0.1333
 2025-03-09 12:41:24.773806,League One - England League One 2024/25 - Top Goalscorer,Sam Smith,-0.016600000000000004,0.0667,0.0833
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Kennesaw State,-0.016600000000000004,0.0667,0.0833
-2025-03-09 15:26:45.132380,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Tiara Brown,-0.016600000000000004,0.1739,0.1905
 2025-03-09 15:26:42.661001,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Siena,-0.016600000000000004,0.0667,0.0833
+2025-03-09 15:26:45.132380,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Tiara Brown,-0.016600000000000004,0.1739,0.1905
 2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Auburn,-0.016699999999999993,0.4,0.4167
-2025-03-09 07:23:08.503898,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Northern Colorado,-0.016699999999999993,0.4,0.4167
 2025-03-09 08:29:11.323492,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,SMU,-0.0168,0.0217,0.0385
 2025-03-09 11:22:27.038096,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Belgrano,-0.017099999999999997,0.0123,0.0294
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Middle Tennessee,-0.017100000000000004,0.1429,0.16
@@ -245,21 +230,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 08:29:11.369488,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Mississippi State,-0.017800000000000003,0.0066,0.0244
 2025-03-09 10:33:19.116791,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,-0.0179,0.125,0.1429
 2025-03-09 16:29:27.610402,NFL Specials - Trey Hendrickson Next Team - Proposition,Kansas City Chiefs,-0.018099999999999998,0.0588,0.0769
-2025-03-09 12:41:28.064003,Puerto Rico Open - 2/3 Balls - Final Round 3 Balls - K. Vilips / J. Bramlett / K. Van Wyk - Final Round 3 Balls,Karl Vilips,-0.018100000000000005,0.4167,0.4348
 2025-03-09 13:26:22.398014,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - C. Morikawa / R. Henley - Final Round 2-Balls,Collin Morikawa,-0.018100000000000005,0.5652,0.5833
+2025-03-09 12:41:28.064003,Puerto Rico Open - 2/3 Balls - Final Round 3 Balls - K. Vilips / J. Bramlett / K. Van Wyk - Final Round 3 Balls,Karl Vilips,-0.018100000000000005,0.4167,0.4348
 2025-03-09 12:41:24.773806,League One - England League One 2024/25 - Top Goalscorer,Alfie May,-0.018200000000000004,0.0294,0.0476
 2025-03-09 11:22:27.068993,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,AD Tarma,-0.018200000000000004,0.0294,0.0476
 2025-03-09 10:33:19.116791,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.01820000000000002,0.1818,0.2
-2025-03-09 10:33:19.091897,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.0189,0.0196,0.0385
 2025-03-09 12:41:24.813101,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.0189,0.0196,0.0385
+2025-03-09 10:33:19.091897,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.0189,0.0196,0.0385
 2025-03-09 15:26:45.185221,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / M Fitzpatrick - Final Round 2-Balls,Matt Fitzpatrick,-0.018900000000000028,0.4255,0.4444
 2025-03-09 11:22:27.064210,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,-0.019000000000000017,0.2667,0.2857
 2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Georgetown,-0.020000000000000004,0.0123,0.0323
 2025-03-09 08:29:11.353173,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Tarleton State,-0.020000000000000004,0.0123,0.0323
 2025-03-09 10:33:19.299477,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,-0.02020000000000001,0.0909,0.1111
 2025-03-09 12:41:24.813101,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,-0.020299999999999985,0.9412,0.9615
-2025-03-09 08:29:11.353173,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,UT Arlington,-0.0203,0.0385,0.0588
 2025-03-09 09:26:20.999001,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Manchester City,-0.0203,0.0385,0.0588
+2025-03-09 08:29:11.353173,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,UT Arlington,-0.0203,0.0385,0.0588
 2025-03-09 11:22:26.895709,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Necaxa,-0.0203,0.0385,0.0588
 2025-03-09 08:29:11.203649,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southwest Division,-0.020600000000000004,0.0294,0.05
 2025-03-09 13:26:22.351093,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / M Fitzpatrick - Final Round 2-Balls,Matt Fitzpatrick,-0.020699999999999996,0.4444,0.4651
@@ -269,9 +254,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 08:29:11.323492,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Pittsburgh,-0.021199999999999997,0.0066,0.0278
 2025-03-09 13:26:22.329457,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - W. Zalatoris / J.J. Spaun - Final Round 2-Balls,Will Zalatoris,-0.02169999999999994,0.5238,0.5455
 2025-03-09 08:29:11.344675,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,New Mexico,-0.021999999999999964,0.2857,0.3077
-2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.022199999999999998,0.2,0.2222
-2025-03-09 07:23:08.503898,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Idaho State,-0.022199999999999998,0.1111,0.1333
 2025-03-09 15:26:42.616460,Men's Basketball Conference Tournaments - Coastal Athletic Association Conference Tournament Winner - CAA Winner,Towson,-0.022199999999999998,0.2,0.2222
+2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,Matthew Stevens,-0.022199999999999998,0.2,0.2222
 2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Butler,-0.022400000000000003,0.0099,0.0323
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Toledo,-0.0232,0.0435,0.0667
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Ohio State,-0.023200000000000002,0.0244,0.0476
@@ -282,8 +266,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 08:29:11.402811,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.023800000000000016,0.1667,0.1905
 2025-03-09 15:26:45.242244,Round Match-Ups - Final Round Match-Up - C. Morikawa vs J. Thomas - Final Round Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
 2025-03-09 11:22:27.044847,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Racing Club,-0.0242,0.0667,0.0909
-2025-03-09 15:26:45.223999,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - M. Kim / T. Finau - Final Round 2-Balls,Michael Kim,-0.024399999999999977,0.4878,0.5122
 2025-03-09 13:26:22.407640,Round Match-Ups - Final Round Match-Up - JJ Spaun vs A. Eckroat - Final Round Match-Up,Austin Eckroat,-0.024399999999999977,0.4878,0.5122
+2025-03-09 15:26:45.223999,Arnold Palmer Invitational - 2/3 Balls - Final Round 2-Balls - M. Kim / T. Finau - Final Round 2-Balls,Michael Kim,-0.024399999999999977,0.4878,0.5122
 2025-03-09 08:29:11.396213,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),-0.0252,0.697,0.7222
 2025-03-09 11:22:27.041141,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Vélez Sarsfield,-0.0254,0.004,0.0294
 2025-03-09 11:22:30.171287,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 70.5,-0.025599999999999956,0.5744,0.6
@@ -305,17 +289,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Jason Caron,-0.031,0.0278,0.0588
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Sam Houston State,-0.031200000000000002,0.0164,0.0476
 2025-03-09 14:26:50.607195,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Tiara Brown,-0.031700000000000006,0.1905,0.2222
-2025-03-09 16:29:27.610402,NFL Specials - Trey Hendrickson Next Team - Proposition,Philadelphia Eagles,-0.031799999999999995,0.1111,0.1429
-2025-03-09 09:26:20.979930,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.031799999999999995,0.1111,0.1429
-2025-03-09 10:33:19.287278,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,-0.031799999999999995,0.1111,0.1429
 2025-03-09 12:41:24.809926,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.031799999999999995,0.4444,0.4762
+2025-03-09 09:26:20.979930,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.031799999999999995,0.1111,0.1429
 2025-03-09 09:26:20.995987,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.031799999999999995,0.1111,0.1429
+2025-03-09 16:29:27.610402,NFL Specials - Trey Hendrickson Next Team - Proposition,Philadelphia Eagles,-0.031799999999999995,0.1111,0.1429
+2025-03-09 10:33:19.287278,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,-0.031799999999999995,0.1111,0.1429
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Steven Alker,-0.0321,0.0588,0.0909
-2025-03-09 15:26:42.661001,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Sacred Heart,-0.0321,0.0588,0.0909
 2025-03-09 10:33:19.143125,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Bradley Barcola (PSG),-0.0321,0.0588,0.0909
+2025-03-09 15:26:42.661001,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Sacred Heart,-0.0321,0.0588,0.0909
 2025-03-09 12:41:24.809926,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.03210000000000002,0.9091,0.9412
 2025-03-09 12:41:27.704791,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,-0.032399999999999984,0.2273,0.2597
-2025-03-09 07:23:08.496036,Men's Basketball Conference Tournaments - Sun Belt Conference Tournament Winner - Sun Belt Winner,South Alabama,-0.03259999999999999,0.2174,0.25
 2025-03-09 08:29:11.406116,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.033299999999999996,0.8,0.8333
 2025-03-09 12:41:24.813101,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.033300000000000024,0.1667,0.2
 2025-03-09 15:26:42.698517,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Wisconsin,-0.033399999999999985,0.1333,0.1667
@@ -327,30 +310,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 08:29:11.412731,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Jaylen Wells (MEM),-0.03889999999999999,0.1429,0.1818
 2025-03-09 15:26:42.694468,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Connecticut,-0.04040000000000002,0.1818,0.2222
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Mathew Goggin,-0.041,0.0066,0.0476
-2025-03-09 07:23:08.499946,Men's Basketball Conference Tournaments - Patriot League Conference Tournament Winner - Patriot Winner,Bucknell,-0.04139999999999999,0.5238,0.5652
 2025-03-09 08:29:11.348950,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Bethune Cookman,-0.04169999999999999,0.125,0.1667
-2025-03-09 07:23:08.420127,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.0417,0.0833,0.125
 2025-03-09 12:41:24.813101,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.04239999999999999,0.8667,0.9091
 2025-03-09 08:29:11.361378,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Arizona,-0.04269999999999999,0.1111,0.1538
-2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Western Kentucky,-0.04329999999999999,0.0476,0.0909
 2025-03-09 08:29:11.344675,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Nevada,-0.04329999999999999,0.0476,0.0909
+2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Western Kentucky,-0.04329999999999999,0.0476,0.0909
 2025-03-09 08:29:11.344675,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,UNLV,-0.04329999999999999,0.0476,0.0909
 2025-03-09 09:26:21.011074,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,-0.04409999999999992,0.6226,0.6667
-2025-03-09 07:23:08.429503,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,-0.044399999999999995,0.5556,0.6
 2025-03-09 11:22:30.196347,Cologuard Classic - Cologuard Classic - Winner,Tim O'Neal,-0.044700000000000004,0.0079,0.0526
 2025-03-09 10:33:19.146200,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.04619999999999991,0.8,0.8462
 2025-03-09 11:22:27.068993,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.04620000000000002,0.1538,0.2
 2025-03-09 12:41:24.813101,League Two - England League Two 2024/25 - Top 7 Finish,Fleetwood Town,-0.048100000000000004,0.0769,0.125
-2025-03-09 09:26:21.008054,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.05130000000000001,0.3333,0.3846
 2025-03-09 10:33:19.282660,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.05130000000000001,0.3333,0.3846
+2025-03-09 09:26:21.008054,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.05130000000000001,0.3333,0.3846
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Ohio,-0.05559999999999998,0.1111,0.1667
 2025-03-09 09:26:21.002000,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.05559999999999998,0.1111,0.1667
 2025-03-09 10:33:19.097838,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.055900000000000005,0.3077,0.3636
-2025-03-09 07:23:08.545096,Men's Basketball Conference Tournaments - America East Conference Tournament Winner - America East Winner,Vermont,-0.05790000000000001,0.3125,0.3704
 2025-03-09 08:29:11.331998,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Louisiana Tech,-0.0629,0.0909,0.1538
 2025-03-09 08:29:11.319549,Men's Basketball Conference Tournaments - West Coast Conference Tournament Winner - WCC Winner,Gonzaga,-0.06669999999999998,0.6,0.6667
-2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.06670000000000004,0.3333,0.4
 2025-03-09 08:29:11.315619,Men's Basketball Conference Tournaments - Horizon League Tournament Winner - Horizon Winner,Robert Morris,-0.06670000000000004,0.3333,0.4
+2025-03-09 12:41:24.797360,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.06670000000000004,0.3333,0.4
 2025-03-09 09:26:21.014106,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,-0.0683999999999999,0.7778,0.8462
 2025-03-09 09:26:20.979930,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.06970000000000004,0.3077,0.3774
 2025-03-09 09:26:20.982942,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),-0.07069999999999999,0.1111,0.1818
@@ -371,7 +350,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 10:33:22.259708,Scores - Final Round Score - Tony Finau - Final Round Score,Under 71.5,-0.10930000000000006,0.4255,0.5348
 2025-03-09 09:26:21.005030,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,-0.11110000000000009,0.6667,0.7778
 2025-03-09 11:22:27.038096,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Racing Club,-0.12819999999999998,0.0385,0.1667
-2025-03-09 07:23:08.424831,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.13180000000000003,0.303,0.4348
 2025-03-09 10:33:19.113951,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,-0.14100000000000001,0.6923,0.8333
 2025-03-09 10:33:22.246871,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 70.5,-0.15750000000000003,0.4651,0.6226
 2025-03-09 08:29:11.391208,Player Awards - John Wooden Award Winner 2024-25 - John R. Wooden Award,Cooper Flagg (Duke),-0.16069999999999995,0.7143,0.875

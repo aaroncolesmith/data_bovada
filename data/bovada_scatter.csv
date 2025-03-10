@@ -1,9 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-09 21:25:25.031539,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.1154,0.5,0.3846
 2025-03-09 21:25:25.031539,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.08330000000000001,0.25,0.1667
-2025-03-09 17:27:03.075101,NFL Specials - DK Metcalf Next Team - Proposition,New England Patriots,0.07520000000000002,0.2857,0.2105
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Akron,0.06670000000000004,0.4,0.3333
-2025-03-09 17:27:02.836668,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,Virginia Commonwealth,0.03179999999999994,0.5556,0.5238
+2025-03-10 04:29:43.394119,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Iowa State,0.031799999999999995,0.1429,0.1111
 2025-03-10 04:29:43.377191,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,UNLV,0.029299999999999993,0.0769,0.0476
 2025-03-10 04:29:43.377191,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Nevada,0.029299999999999993,0.0769,0.0476
 2025-03-10 01:42:41.577563,Championship - England Championship 2024/25 - Winner,Sheffield United,0.027999999999999997,0.1818,0.1538
@@ -14,29 +13,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-10 01:42:41.998113,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Seattle,0.021799999999999986,0.1818,0.16
 2025-03-10 01:42:41.998113,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,California Baptist,0.0179,0.1429,0.125
 2025-03-09 19:21:51.774138,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,0.01680000000000001,0.2273,0.2105
-2025-03-09 17:27:02.774088,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Duke,0.014700000000000046,0.7647,0.75
 2025-03-10 01:42:41.577563,Championship - England Championship 2024/25 - Winner,Burnley,0.01440000000000001,0.1053,0.0909
-2025-03-09 21:25:27.428907,Boxing Lines - Michael Zerafa vs Besir Ay - To Win the Bout,Besir Ay,0.012899999999999995,0.1667,0.1538
 2025-03-09 20:27:31.176083,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,Dayton,0.012899999999999995,0.1667,0.1538
+2025-03-09 21:25:27.428907,Boxing Lines - Michael Zerafa vs Besir Ay - To Win the Bout,Besir Ay,0.012899999999999995,0.1667,0.1538
 2025-03-09 23:23:41.165481,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Los Angeles Rams,0.011899999999999994,0.0833,0.0714
 2025-03-10 01:42:44.285220,Boxing Lines - Cesar Mateo Tapia vs Sergey Vorobiev - To Win the Bout,Cesar Mateo Tapia,0.01090000000000002,0.8571,0.8462
 2025-03-09 19:21:54.035300,Boxing Lines - Cesar Mateo Tapia vs Sergey Vorobiev - To Win the Bout,Sergey Vorobiev,-0.010499999999999982,0.2,0.2105
-2025-03-09 17:27:03.075101,NFL Specials - DK Metcalf Next Team - Proposition,Atlanta Falcons,-0.011199999999999995,0.0476,0.0588
 2025-03-09 19:21:51.774138,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.0116,0.4762,0.4878
 2025-03-09 21:25:27.433082,Boxing Lines - Keith Thurman vs Brock Jarvis - To Win the Bout,Keith Thurman,-0.011699999999999933,0.7778,0.7895
 2025-03-10 01:42:44.285220,Boxing Lines - Cesar Mateo Tapia vs Sergey Vorobiev - To Win the Bout,Sergey Vorobiev,-0.011700000000000016,0.2105,0.2222
 2025-03-10 01:42:44.298149,Boxing Lines - Shokichi Iwata vs Rene Santiago - To Win the Bout,Rene Santiago,-0.012899999999999995,0.1538,0.1667
-2025-03-09 17:27:03.075101,NFL Specials - DK Metcalf Next Team - Proposition,Pittsburgh Steelers,-0.013999999999999999,0.0769,0.0909
 2025-03-10 01:42:41.998113,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Abilene Chrsitian,-0.014899999999999997,0.0476,0.0625
 2025-03-10 01:42:41.577563,Championship - England Championship 2024/25 - Winner,Leeds United,-0.015100000000000002,0.8182,0.8333
 2025-03-10 01:42:41.706128,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.019099999999999995,0.0244,0.0435
 2025-03-09 21:25:27.424739,Boxing Lines - Cesar Mateo Tapia vs Sergey Vorobiev - To Win the Bout,Cesar Mateo Tapia,-0.020500000000000074,0.8462,0.8667
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Toledo,-0.0232,0.0435,0.0667
 2025-03-10 04:29:43.377191,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Boise State,-0.023800000000000016,0.1667,0.1905
+2025-03-10 04:29:43.394119,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,BYU,-0.028399999999999995,0.0625,0.0909
 2025-03-10 01:42:41.998113,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Grand Canyon,-0.029000000000000026,0.4255,0.4545
 2025-03-10 04:29:43.298360,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.04760000000000003,0.4762,0.5238
 2025-03-09 18:30:02.496153,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Ohio,-0.05559999999999998,0.1111,0.1667
 2025-03-10 04:29:43.377191,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Utah State,-0.0595,0.1905,0.25
 2025-03-10 04:29:43.288834,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.06309999999999993,0.905,0.9681
 2025-03-10 04:29:43.377191,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Colorado State,-0.06820000000000001,0.1818,0.25
+2025-03-10 04:29:43.394119,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Houston,-0.07740000000000002,0.4878,0.5652
 2025-03-09 21:25:25.031539,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.14290000000000003,0.3571,0.5

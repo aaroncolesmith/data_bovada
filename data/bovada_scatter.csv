@@ -36,17 +36,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-10 22:33:02.100706,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Michigan State,0.021999999999999964,0.3077,0.2857
 2025-03-10 21:29:05.643881,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,BYU,0.0208,0.0833,0.0625
 2025-03-10 21:29:05.613732,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Manhattan,0.02049999999999999,0.1538,0.1333
-2025-03-10 21:29:05.588675,Men's Basketball Conference Tournaments - Southland Conference Tournament Winner - Southland Winner,Lamar,0.02020000000000001,0.1111,0.0909
-2025-03-10 21:29:05.613732,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Sacred Heart,0.02020000000000001,0.1111,0.0909
 2025-03-10 22:33:02.104603,Men's Basketball Conference Tournaments - Ivy League Tournament Winner - Ivy League Winner,Dartmouth,0.02020000000000001,0.1111,0.0909
+2025-03-10 21:29:05.613732,Men's Basketball Conference Tournaments - Metro Atlantic Athletic Conference Tournament Winner - MAAC Winner,Sacred Heart,0.02020000000000001,0.1111,0.0909
+2025-03-10 21:29:05.588675,Men's Basketball Conference Tournaments - Southland Conference Tournament Winner - Southland Winner,Lamar,0.02020000000000001,0.1111,0.0909
 2025-03-10 21:29:05.609191,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Western Kentucky,0.019099999999999992,0.0667,0.0476
-2025-03-10 22:33:02.104603,Men's Basketball Conference Tournaments - Ivy League Tournament Winner - Ivy League Winner,Cornell,0.019000000000000017,0.2857,0.2667
 2025-03-11 03:04:38.728452,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.019000000000000017,0.2857,0.2667
+2025-03-10 22:33:02.104603,Men's Basketball Conference Tournaments - Ivy League Tournament Winner - Ivy League Winner,Cornell,0.019000000000000017,0.2857,0.2667
 2025-03-10 21:29:05.584737,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Montana,0.018799999999999983,0.3636,0.3448
 2025-03-10 21:29:05.643881,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Kansas,0.01830000000000001,0.0952,0.0769
 2025-03-10 22:33:02.096684,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Connecticut,0.01820000000000002,0.2,0.1818
-2025-03-10 20:31:55.669571,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Maryland,0.01820000000000002,0.2,0.1818
 2025-03-10 22:33:02.075904,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,San Diego State,0.01820000000000002,0.2,0.1818
+2025-03-10 20:31:55.669571,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Maryland,0.01820000000000002,0.2,0.1818
 2025-03-10 21:29:05.643881,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Texas Tech,0.018100000000000005,0.2222,0.2041
 2025-03-11 02:01:14.478546,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.017600000000000005,0.3509,0.3333
 2025-03-10 22:33:02.067395,Men's Basketball Conference Tournaments - Mid-American Conference Tournament Winner - MAC Winner,Akron,0.016699999999999993,0.4167,0.4
@@ -58,11 +58,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-10 22:33:02.108835,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Texas A&M,0.014399999999999996,0.0769,0.0625
 2025-03-10 21:29:07.990020,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,0.014300000000000035,0.274,0.2597
 2025-03-10 22:33:02.104603,Men's Basketball Conference Tournaments - Ivy League Tournament Winner - Ivy League Winner,Yale,0.014200000000000101,0.6296,0.6154
-2025-03-10 15:31:48.288115,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,George Washington,0.014100000000000001,0.0526,0.0385
 2025-03-10 20:31:55.669571,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Michigan,0.013999999999999999,0.0909,0.0769
 2025-03-10 21:29:05.584737,Men's Basketball Conference Tournaments - Big Sky Conference Tournament Winner - Big Sky Winner,Idaho State,0.013899999999999996,0.125,0.1111
-2025-03-10 16:36:43.926330,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,0.012899999999999995,0.1667,0.1538
 2025-03-10 20:31:55.677916,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Tennessee,0.012899999999999995,0.1667,0.1538
+2025-03-10 16:36:43.926330,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,0.012899999999999995,0.1667,0.1538
 2025-03-10 23:28:51.923546,Boxing Lines - Kenshiro Teraji vs Seigo Yuri Akui - To Win the Bout,Kenshiro Teraji,0.011900000000000022,0.8333,0.8214
 2025-03-10 21:29:05.631346,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Alcorn State,0.011899999999999994,0.0833,0.0714
 2025-03-10 16:36:45.768179,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,No,0.01150000000000001,0.3448,0.3333

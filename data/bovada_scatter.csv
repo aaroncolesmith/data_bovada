@@ -23,9 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-13 02:02:18.052887,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Anthony Olascuaga,0.027999999999999914,0.8462,0.8182
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.025600000000000067,0.6923,0.6667
 2025-03-13 03:05:11.582559,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Bayern Munich,0.02560000000000001,0.3333,0.3077
-2025-03-12 16:39:36.241321,Tournament Match-Ups - Tournament Match-Up - P. Reed vs P. Uihlein - Tournament Match-Up,Peter Uihlein,0.023799999999999988,0.5,0.4762
 2025-03-12 21:29:13.133445,Tournament Match-Ups - Tournament Match-Up - J.J. Spaun v Cam. Young - Requests,J.J. Spaun,0.022600000000000064,0.6226,0.6
-2025-03-12 16:39:36.208355,Tournament Match-Ups - Tournament Match-Up - B. Campbell vs T. Pieters - Tournament Match-Up,Thomas Pieters,0.022600000000000064,0.6226,0.6
 2025-03-13 02:02:14.908655,UEFA Champions League - UEFA Champions League 2024/25 - Both Teams From The Same Country To Meet In The Final ,All Spanish Final,0.02049999999999999,0.1538,0.1333
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,0.019499999999999997,0.0294,0.0099
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,0.019099999999999992,0.0667,0.0476
@@ -33,17 +31,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-13 03:05:11.582559,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.018900000000000028,0.4444,0.4255
 2025-03-13 02:02:18.057348,Boxing Lines - Kenshiro Teraji vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.01680000000000001,0.2273,0.2105
 2025-03-13 03:05:11.582559,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,0.016699999999999993,0.2667,0.25
-2025-03-12 17:32:08.108488,Boxing Lines - Andrew Cain vs Charlie Edwards - To Win the Bout,Andrew Cain,0.015899999999999914,0.7937,0.7778
 2025-03-13 02:02:19.226138,Scores - 1st Round Scores - Brooks Koepka - 1st Round Scores,Over 67.5,0.014800000000000035,0.6226,0.6078
 2025-03-13 02:02:14.905811,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.01469999999999999,0.25,0.2353
 2025-03-13 03:05:11.700522,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,0.013899999999999996,0.125,0.1111
+2025-03-13 05:32:35.751078,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,0.0131,0.2353,0.2222
 2025-03-13 03:44:14.623489,Men's Basketball Conference Tournaments - Ivy League Tournament Winner - Ivy League Winner,Yale,0.012299999999999978,0.6552,0.6429
 2025-03-13 02:02:14.905811,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Borussia Dortmund,0.012100000000000001,0.0244,0.0123
 2025-03-12 21:29:12.626643,Boxing Lines - Andrew Cain vs Charlie Edwards - To Win the Bout,Charlie Edwards,0.011699999999999988,0.2857,0.274
 2025-03-12 21:29:12.622470,Boxing Lines - Nick Ball vs TJ Doheny - To Win the Bout,Nick Ball,0.011199999999999988,0.9524,0.9412
 2025-03-12 21:29:12.601118,Boxing Lines - Shokichi Iwata vs Rene Santiago - To Win the Bout,Shokichi Iwata,0.011099999999999999,0.9,0.8889
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.011099999999999999,0.1111,0.1
-2025-03-12 16:39:35.592493,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.010599999999999998,0.4651,0.4545
+2025-03-13 05:32:35.755254,Boxing Lines - Kenshiro Teraji vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.010800000000000004,0.2381,0.2273
 2025-03-13 02:02:19.226138,Scores - 1st Round Scores - Brooks Koepka - 1st Round Scores,Under 67.5,-0.010099999999999998,0.4444,0.4545
 2025-03-13 03:05:11.715626,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,-0.010100000000000001,0.0244,0.0345
 2025-03-13 02:02:18.048359,Boxing Lines - Shokichi Iwata vs Rene Santiago - To Win the Bout,Shokichi Iwata,-0.010199999999999987,0.9231,0.9333
@@ -52,7 +50,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-13 02:02:15.024671,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.010899999999999993,0.1429,0.1538
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.010899999999999993,0.1429,0.1538
 2025-03-13 02:02:15.024671,A-League - Australia A-League 2024/25 - Grand Final Winner,Western Sydney Wanderers,-0.011199999999999995,0.0476,0.0588
-2025-03-12 17:32:08.108488,Boxing Lines - Andrew Cain vs Charlie Edwards - To Win the Bout,Charlie Edwards,-0.011699999999999988,0.274,0.2857
+2025-03-13 05:32:35.755254,Boxing Lines - Kenshiro Teraji vs Seigo Yuri Akui - To Win the Bout,Kenshiro Teraji,-0.011200000000000099,0.8291,0.8403
+2025-03-13 05:32:35.751078,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Anthony Olascuaga,-0.012899999999999912,0.8333,0.8462
 2025-03-13 03:05:11.579204,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.013899999999999996,0.1111,0.125
 2025-03-12 21:29:12.626643,Boxing Lines - Andrew Cain vs Charlie Edwards - To Win the Bout,Andrew Cain,-0.015899999999999914,0.7778,0.7937
 2025-03-13 03:05:11.697569,Championship - England Championship 2024/25 - Winner,Burnley,-0.016700000000000007,0.0833,0.1
@@ -64,7 +63,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-13 03:05:11.706790,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.018100000000000005,0.9231,0.9412
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.018999999999999906,0.7143,0.7333
 2025-03-13 03:05:11.579204,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.019000000000000017,0.2667,0.2857
-2025-03-12 16:39:36.208355,Tournament Match-Ups - Tournament Match-Up - B. Campbell vs T. Pieters - Tournament Match-Up,Ben Campbell,-0.020699999999999996,0.4444,0.4651
 2025-03-12 21:29:13.133445,Tournament Match-Ups - Tournament Match-Up - J.J. Spaun v Cam. Young - Requests,Cameron Young,-0.020699999999999996,0.4444,0.4651
 2025-03-13 03:05:11.582559,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Inter Milan,-0.022199999999999998,0.2,0.2222
 2025-03-13 02:02:15.024671,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,-0.022199999999999998,0.2,0.2222
@@ -73,7 +71,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.025499999999999967,0.4,0.4255
 2025-03-13 03:05:11.579204,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),-0.02560000000000001,0.3077,0.3333
 2025-03-13 03:05:11.703807,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.0262,0.0123,0.0385
-2025-03-12 16:39:36.241321,Tournament Match-Ups - Tournament Match-Up - P. Reed vs P. Uihlein - Tournament Match-Up,Patrick Reed,-0.026499999999999968,0.5652,0.5917
 2025-03-12 23:29:38.235746,Boxing Lines - Kenshiro Teraji vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.027600000000000013,0.2105,0.2381
 2025-03-13 02:02:18.052887,Boxing Lines - Anthony Olascuaga vs Hiroto Kyoguchi - To Win the Bout,Hiroto Kyoguchi,-0.02779999999999999,0.2222,0.25
 2025-03-13 03:05:11.697569,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.033399999999999985,0.1333,0.1667

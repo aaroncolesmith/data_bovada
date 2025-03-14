@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 12:52:59.057095,League Two - England League Two 2024/25 - To Be Promoted,Notts County,0.12379999999999997,0.6,0.4762
 2025-03-14 14:33:12.333091,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Boise State,0.10669999999999999,0.2667,0.16
 2025-03-14 12:52:58.993084,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Achraf Hakimi (PSG),0.10619999999999999,0.1538,0.0476
-2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Athletic Bilbao,0.10460000000000001,0.2222,0.1176
 2025-03-14 14:33:12.337251,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Bethune Cookman,0.09720000000000001,0.2222,0.125
 2025-03-14 16:37:04.999124,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),0.08979999999999999,0.9231,0.8333
 2025-03-14 14:33:12.345743,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Houston,0.08900000000000002,0.5652,0.4762
@@ -19,34 +18,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 14:33:12.320613,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Middle Tennessee,0.07500000000000001,0.2,0.125
 2025-03-14 13:33:50.578340,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,North Carolina,0.075,0.125,0.05
 2025-03-14 14:33:12.345743,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Arizona,0.07379999999999999,0.1538,0.08
-2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.06840000000000002,0.2222,0.1538
 2025-03-14 16:37:04.988892,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),0.066,0.1429,0.0769
 2025-03-14 14:33:12.349746,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,St. John's,0.06519999999999998,0.5,0.4348
 2025-03-14 13:33:50.578340,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Louisville,0.0642,0.1818,0.1176
-2025-03-14 14:33:12.333091,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Utah State,0.0562,0.2667,0.2105
 2025-03-14 14:33:12.333091,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Colorado State,0.0562,0.2667,0.2105
-2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,0.05550000000000002,0.2222,0.1667
+2025-03-14 14:33:12.333091,Men's Basketball Conference Tournaments - Mountain West Conference Tournament Winner - Mountain West Winner,Utah State,0.0562,0.2667,0.2105
 2025-03-14 14:33:12.316246,Men's Basketball Conference Tournaments - Big West Conference Tournament Winner - Big West Winner,UC San Diego,0.05520000000000003,0.6296,0.5744
 2025-03-14 12:53:02.260568,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 66.5,0.052200000000000024,0.6078,0.5556
-2025-03-14 09:31:17.422618,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.052000000000000005,0.1429,0.0909
 2025-03-14 14:33:12.345743,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,BYU,0.052000000000000005,0.1429,0.0909
+2025-03-14 09:31:17.422618,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.052000000000000005,0.1429,0.0909
 2025-03-14 14:33:12.345743,Men's Basketball Conference Tournaments - Big 12 Conference Tournament Winner - Big 12 Winner,Texas Tech,0.04999999999999999,0.25,0.2
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.0494,0.6923,0.6429
 2025-03-14 19:26:33.122458,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.04849999999999999,0.1818,0.1333
 2025-03-14 14:33:12.320613,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Liberty,0.04820000000000002,0.6226,0.5744
 2025-03-14 12:52:59.057095,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,0.042899999999999994,0.1429,0.1
 2025-03-14 14:33:12.320613,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Kennesaw State,0.0417,0.125,0.0833
-2025-03-14 14:33:12.353724,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Wisconsin,0.04169999999999999,0.1667,0.125
 2025-03-14 14:33:12.353724,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Purdue,0.04169999999999999,0.1667,0.125
+2025-03-14 14:33:12.353724,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Wisconsin,0.04169999999999999,0.1667,0.125
 2025-03-14 14:33:12.328944,Men's Basketball Conference Tournaments - Mid-Eastern Athletic Conference Tournament Winner - MEAC Winner,Norfolk State,0.04139999999999999,0.5652,0.5238
 2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,Rico Hoey,0.04139999999999999,0.4762,0.4348
-2025-03-14 14:33:12.361836,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Alabama,0.0406,0.1739,0.1333
 2025-03-14 14:33:12.361836,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Tennessee,0.0406,0.1739,0.1333
+2025-03-14 14:33:12.361836,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Alabama,0.0406,0.1739,0.1333
 2025-03-14 14:33:12.328944,Men's Basketball Conference Tournaments - Mid-Eastern Athletic Conference Tournament Winner - MEAC Winner,Morgan State,0.0389,0.0667,0.0278
 2025-03-14 10:34:54.640111,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Over 69.5,0.03600000000000003,0.5238,0.4878
 2025-03-14 16:37:04.988892,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.035699999999999954,0.75,0.7143
 2025-03-14 16:37:04.988892,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.03420000000000001,0.1111,0.0769
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,0.033399999999999985,0.1667,0.1333
 2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,New England Patriots,0.033399999999999985,0.1667,0.1333
 2025-03-14 14:33:12.349746,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Creighton,0.033300000000000024,0.2,0.1667
 2025-03-14 14:33:12.328944,Men's Basketball Conference Tournaments - Mid-Eastern Athletic Conference Tournament Winner - MEAC Winner,NC Central,0.03330000000000001,0.1,0.0667
@@ -59,14 +54,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 13:33:50.578340,Men's Basketball Conference Tournaments - Atlantic Coast Conference Tournament Winner - ACC Winner,Clemson,0.027999999999999997,0.1818,0.1538
 2025-03-14 13:33:50.590740,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,St. Bonaventure,0.026499999999999996,0.0588,0.0323
 2025-03-14 13:33:50.590740,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,George Mason,0.025300000000000003,0.1429,0.1176
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,0.025300000000000003,0.1429,0.1176
-2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,0.024999999999999994,0.125,0.1
 2025-03-14 16:37:04.988892,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.0242,0.0909,0.0667
 2025-03-14 20:33:21.630191,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Emmet Brennan,0.023800000000000043,0.5238,0.5
 2025-03-14 14:33:12.341411,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Seattle,0.023799999999999988,0.1667,0.1429
-2025-03-14 08:35:36.098381,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Denny McCarthy,0.023799999999999988,0.5,0.4762
 2025-03-14 11:26:37.920864,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Vilips / S. Burns / C. Young - 2nd Round 3 Balls ,Sam Burns,0.02360000000000001,0.4082,0.3846
-2025-03-14 08:35:34.359329,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Roki Sasaki (LAD),0.023200000000000002,0.0476,0.0244
 2025-03-14 09:31:17.429537,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.022699999999999998,0.25,0.2273
 2025-03-14 12:53:02.118835,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Nick Taylor,0.021999999999999964,0.3077,0.2857
 2025-03-14 10:34:54.520771,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Sepp Straka,0.02169999999999994,0.5455,0.5238
@@ -80,7 +71,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 16:37:04.999124,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.018099999999999998,0.0769,0.0588
 2025-03-14 11:26:37.901806,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Taylor Moore,0.017600000000000005,0.3509,0.3333
 2025-03-14 16:37:04.999124,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zach Edey (MEM),0.017099999999999997,0.0588,0.0417
-2025-03-14 08:35:35.973948,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Bryce Mills,0.016900000000000026,0.6721,0.6552
 2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,Florida Atlantic,0.016600000000000004,0.0833,0.0667
 2025-03-14 13:33:50.590740,Men's Basketball Conference Tournaments - Atlantic 10 Conference Tournament Winner - Atlantic 10 Winner,George Washington,0.0157,0.0435,0.0278
 2025-03-14 19:26:35.400973,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Wesley Rivers,0.015400000000000025,0.4,0.3846
@@ -88,17 +78,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 16:37:04.982161,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (CLE),0.014399999999999996,0.0769,0.0625
 2025-03-14 16:37:04.982161,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),0.014100000000000001,0.0526,0.0385
 2025-03-14 14:33:12.361836,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Missouri,0.014100000000000001,0.0526,0.0385
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Rapid Wien,0.014099999999999994,0.0667,0.0526
 2025-03-14 12:52:58.993084,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Joshua Kimmich (Bayern Munich),0.013899999999999996,0.125,0.1111
 2025-03-14 11:26:37.854303,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Andrew Putnam,0.013600000000000001,0.3077,0.2941
 2025-03-14 14:33:12.349746,Men's Basketball Conference Tournaments - Big East Conference Tournament Winner - Big East Winner,Marquette,0.012899999999999995,0.1667,0.1538
 2025-03-14 12:52:59.057095,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.012700000000000045,0.6491,0.6364
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Djurgårdens IF,0.012100000000000001,0.0244,0.0123
 2025-03-14 10:34:54.580232,Round Match-Ups - 2nd Round Match-Ups - P. Cantlay vs X. Schauffele - 2nd Round Match-Ups,Xander Schauffele,0.011600000000000055,0.5238,0.5122
 2025-03-14 14:33:13.348331,Regular Season Wins - New York Yankees Wins - 2025 Regular Season - Regular Season Wins,Over 88.5,0.011600000000000055,0.5238,0.5122
 2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,East Carolina,0.011199999999999995,0.0435,0.0323
+2025-03-14 21:31:11.612358,Boxing Lines - Jose Roman Vazquez vs Jalil Major Hackett - To Win the Bout,Jalil Major Hackett,0.011099999999999999,0.9,0.8889
 2025-03-14 16:37:07.228827,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.010899999999999993,0.1538,0.1429
-2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Legia Warsaw,0.010700000000000001,0.0385,0.0278
 2025-03-14 15:32:03.001049,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Bryce Mills,0.010099999999999998,0.6875,0.6774
 2025-03-14 14:33:13.348331,Regular Season Wins - New York Yankees Wins - 2025 Regular Season - Regular Season Wins,Under 88.5,-0.010099999999999998,0.5455,0.5556
 2025-03-14 19:26:35.400973,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,-0.010700000000000043,0.6667,0.6774
@@ -108,9 +96,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 13:33:51.529096,Regular Season Wins - New York Mets Wins - 2025 Regular Season - Regular Season Wins,Over 90.5,-0.012199999999999989,0.5,0.5122
 2025-03-14 11:26:37.901806,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Jake Knapp,-0.012699999999999989,0.3509,0.3636
 2025-03-14 14:33:12.320613,Men's Basketball Conference Tournaments - Conference USA Tournament Winner - CUSA Winner,Jacksonville State,-0.012899999999999995,0.1538,0.1667
+2025-03-14 21:31:11.578753,Boxing Lines - Jack Turner vs Ryan Farrag - To Win the Bout,Ryan Farrag,-0.012899999999999995,0.1538,0.1667
 2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,Denver Broncos,-0.0131,0.2222,0.2353
 2025-03-14 12:52:58.993084,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),-0.013800000000000034,0.3636,0.3774
-2025-03-14 08:35:35.978155,Boxing Lines - Euri Cedeno vs Ulices Tovar Rivera - To Win the Bout,Ulices Tovar Rivera,-0.013999999999999999,0.0769,0.0909
 2025-03-14 12:52:58.993084,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Julian Brandt (Borussia Dortmund),-0.013999999999999999,0.0769,0.0909
 2025-03-14 14:33:12.353724,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Oregon,-0.014099999999999994,0.0526,0.0667
 2025-03-14 12:52:59.057095,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.014099999999999998,0.0244,0.0385
@@ -119,23 +107,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,Nate Lashley,-0.014900000000000024,0.3077,0.3226
 2025-03-14 14:33:12.341411,Men's Basketball Conference Tournaments - Western Athletic Conference Tournament Winner - WAC Winner,Utah Valley,-0.014900000000000024,0.3077,0.3226
 2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,Kansas City Chiefs,-0.015700000000000006,0.1176,0.1333
-2025-03-14 08:35:35.973948,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Alex Martin (ARST),-0.016000000000000014,0.3922,0.4082
+2025-03-14 12:53:02.118835,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Thomas Detry,-0.016699999999999993,0.25,0.2667
 2025-03-14 14:33:12.361836,Men's Basketball Conference Tournaments - Southeastern Conference Tournament Winner - SEC Winner,Auburn,-0.016699999999999993,0.4,0.4167
 2025-03-14 14:33:12.337251,Men's Basketball Conference Tournaments - Southwestern Athletic Conference Tournament Winner - SWAC Winner,Jackson State,-0.016699999999999993,0.4,0.4167
-2025-03-14 12:53:02.118835,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Thomas Detry,-0.016699999999999993,0.25,0.2667
 2025-03-14 11:26:37.854303,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Charley Hoffman,-0.017299999999999982,0.2857,0.303
-2025-03-14 08:35:36.098381,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Andrew Putnam,-0.018400000000000027,0.2941,0.3125
 2025-03-14 20:33:21.630191,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Kevin Cronin,-0.01970000000000005,0.5455,0.5652
 2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,Washington Commanders,-0.02020000000000001,0.0909,0.1111
-2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,North Texas,-0.020799999999999985,0.3125,0.3333
 2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,William Gordon,-0.020799999999999985,0.3125,0.3333
+2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,North Texas,-0.020799999999999985,0.3125,0.3333
 2025-03-14 10:34:51.929467,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,-0.021100000000000008,0.2353,0.2564
 2025-03-14 10:34:54.520771,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Nick Taylor,-0.021999999999999964,0.2857,0.3077
 2025-03-14 14:33:12.353724,Men's Basketball Conference Tournaments - Big Ten Conference Tournament Winner - Big Ten Winner,Maryland,-0.022199999999999998,0.2,0.2222
 2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,Memphis,-0.023800000000000043,0.5,0.5238
 2025-03-14 11:26:37.920864,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Vilips / S. Burns / C. Young - 2nd Round 3 Balls ,Karl Vilips,-0.024599999999999955,0.339,0.3636
-2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Chargers,-0.028799999999999992,0.1379,0.1667
 2025-03-14 13:33:50.586800,Men's Basketball Conference Tournaments - American Athletic Conference Tournament Winner - AAC Winner,UAB,-0.028799999999999992,0.125,0.1538
+2025-03-14 13:33:50.859931,NFL Specials - Where will Cooper Kupp Play Week 1 of the 2025 NFL Season - Proposition,Los Angeles Chargers,-0.028799999999999992,0.1379,0.1667
 2025-03-14 10:34:54.640111,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Under 69.5,-0.028900000000000037,0.5455,0.5744
 2025-03-14 12:52:59.060061,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.029299999999999993,0.0476,0.0769
 2025-03-14 16:37:07.228827,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.04329999999999999,0.0476,0.0909

@@ -1,18 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 02:00:11.105881,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Kevin Cronin,0.343,0.5652,0.2222
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,TEN Titans,0.1491,0.7143,0.5652
-2025-03-13 18:39:52.544191,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,0.06930000000000003,0.5238,0.4545
-2025-03-13 19:25:11.419162,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),0.044500000000000095,0.7778,0.7333
-2025-03-13 19:25:11.408800,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),0.04319999999999999,0.1667,0.1235
 2025-03-13 21:28:37.402528,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Carlos Santana Total RBIs,Under 65.5,0.03959999999999997,0.5744,0.5348
-2025-03-13 19:25:11.408800,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Armand Membou (MIZZ),0.03959999999999997,0.5744,0.5348
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Sepp Straka,0.03600000000000003,0.5238,0.4878
 2025-03-13 21:28:37.593854,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Roki Sasaki Total Strikeouts,Over 145.5,0.033299999999999996,0.5455,0.5122
-2025-03-13 19:25:11.419162,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Emeka Egbuka (OSU),0.031,0.1,0.069
 2025-03-13 21:28:38.097313,Player Props - Washington Nationals - 2025 Regular Season Player Props - James Wood Total RBIs,Over 65.5,0.030399999999999983,0.5652,0.5348
-2025-03-13 19:25:13.490292,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Austin Williams,0.029899999999999927,0.7222,0.6923
 2025-03-13 21:28:38.216292,Boxing Lines - Brad Strand vs Ionut Baluta - To Win the Bout,Brad Strand,0.024399999999999977,0.5122,0.4878
 2025-03-14 05:32:18.272982,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Alex Martin (ARST),0.02360000000000001,0.4082,0.3846
+2025-03-14 07:29:32.842493,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Kitayama / P. Malnati / T. Pendrith - 2nd Round 3 Balls,Kurt Kitayama,0.021799999999999986,0.3922,0.3704
 2025-03-13 21:28:37.383091,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total RBIs,Under 75.5,0.02079999999999993,0.5556,0.5348
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Xander Schauffele,0.020100000000000007,0.25,0.2299
 2025-03-13 21:28:37.668787,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - William Contreras Total RBIs,Over 82.5,0.01970000000000005,0.5652,0.5455
@@ -21,46 +15,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 05:32:18.471703,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Vegas / M. Kuchar / A. Hadwin - 2nd Round 3 Balls,Adam Hadwin,0.015400000000000025,0.4,0.3846
 2025-03-14 02:00:11.068400,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,0.01539999999999997,0.6875,0.6721
 2025-03-14 04:34:38.513259,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Austin Eckroat,0.01479999999999998,0.3922,0.3774
-2025-03-13 18:39:52.549322,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Galatasaray SK,0.014399999999999996,0.0769,0.0625
-2025-03-13 19:25:11.412295,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Ashton Jeanty (BSU),0.014100000000000001,0.9615,0.9474
 2025-03-14 05:32:18.509696,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Kim / J. Dahmen / P. Rodgers - 2nd Round 3 Balls ,Patrick Rodgers,0.013300000000000034,0.3704,0.3571
 2025-03-13 21:28:38.237235,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Patrice Volny,0.012699999999999989,0.3636,0.3509
-2025-03-13 18:39:55.457086,LET Australian Women's Classic - LET Australia Women's Classic - Winner,Shannon Tan,0.0102,0.0769,0.0667
+2025-03-14 07:29:32.939630,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - D. Riley / G. Woodland / R. Campos - 2nd Round 3 Balls,Rafael Campos,0.011700000000000016,0.2222,0.2105
 2025-03-14 06:38:57.556890,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,-0.010099999999999998,0.6774,0.6875
-2025-03-13 18:39:52.549322,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Manresa,-0.010600000000000002,0.0294,0.04
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Scottie Scheffler,-0.011099999999999999,0.4651,0.4762
 2025-03-14 04:34:38.513259,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Taylor Moore,-0.01150000000000001,0.3333,0.3448
+2025-03-14 07:29:32.842493,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Kitayama / P. Malnati / T. Pendrith - 2nd Round 3 Balls,Taylor Pendrith,-0.011600000000000055,0.5122,0.5238
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Thomas Detry,-0.011699999999999988,0.274,0.2857
-2025-03-13 18:39:52.544191,Euro Cup - Euro Cup 2024/25 - Outright,Bahcesehir Koleji,-0.011700000000000016,0.2105,0.2222
-2025-03-13 18:39:52.549322,FIBA Champions League - FIBA Champions League 2024/25 - Outright,s.Oliver Würzburg,-0.0121,0.0435,0.0556
 2025-03-14 05:32:18.414464,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Schenk / B. Hun An / E. Grillo - 2nd Round 3 Balls,Adam Schenk,-0.012299999999999978,0.3448,0.3571
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,SEA Seahawks,-0.013,0.0066,0.0196
 2025-03-14 05:32:18.471703,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Vegas / M. Kuchar / A. Hadwin - 2nd Round 3 Balls,Matt Kuchar,-0.013300000000000034,0.3571,0.3704
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Rory McIlroy,-0.01419999999999999,0.3704,0.3846
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,LV Raiders,-0.0145,0.0099,0.0244
 2025-03-14 02:00:11.068400,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Wesley Rivers,-0.01479999999999998,0.3774,0.3922
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Nick Taylor,-0.014900000000000024,0.3077,0.3226
-2025-03-13 19:25:11.415733,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Tyler Warren (PSU),-0.015100000000000002,0.8182,0.8333
 2025-03-13 21:28:38.237235,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Austin Williams,-0.017300000000000093,0.697,0.7143
-2025-03-13 19:25:11.408800,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Josh Simmons (ORE),-0.0177,0.0278,0.0455
 2025-03-13 21:28:38.216292,Boxing Lines - Brad Strand vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.01880000000000004,0.5556,0.5744
-2025-03-13 18:39:52.549322,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Rytas Vilnius,-0.019099999999999992,0.0476,0.0667
-2025-03-13 19:25:11.412295,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Omarion Hampton (NC),-0.02020000000000001,0.0909,0.1111
 2025-03-14 05:32:18.509696,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Kim / J. Dahmen / P. Rodgers - 2nd Round 3 Balls ,Chan Kim,-0.02030000000000004,0.3571,0.3774
 2025-03-14 05:32:18.272982,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Bryce Mills,-0.022199999999999998,0.6552,0.6774
-2025-03-13 18:39:52.544191,Euro Cup - Euro Cup 2024/25 - Outright,Hapoel Tel Aviv,-0.022199999999999998,0.2,0.2222
 2025-03-13 21:28:37.383091,Player Props - Cincinnati Reds - 2025 Regular Season Player Props - Spencer Steer Total RBIs,Over 75.5,-0.022600000000000064,0.5122,0.5348
 2025-03-13 21:28:37.668787,Player Props - Milwaukee Brewers - 2025 Regular Season Player Props - William Contreras Total RBIs,Under 82.5,-0.023800000000000043,0.5,0.5238
 2025-03-13 23:28:50.266985,Match-Ups - Tournament Match-Up - B. DeChambeau v J. Niemann - Requests,Bryson DeChambeau,-0.024399999999999977,0.4878,0.5122
-2025-03-13 19:25:13.490292,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Patrice Volny,-0.02560000000000001,0.3448,0.3704
 2025-03-13 21:28:37.593854,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Roki Sasaki Total Strikeouts,Under 145.5,-0.03179999999999994,0.5238,0.5556
-2025-03-13 18:39:52.544191,Euro Cup - Euro Cup 2024/25 - Outright,Gran Canaria,-0.033300000000000024,0.1667,0.2
 2025-03-13 21:28:38.097313,Player Props - Washington Nationals - 2025 Regular Season Player Props - James Wood Total RBIs,Under 65.5,-0.03480000000000005,0.5,0.5348
-2025-03-13 19:25:11.408800,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),-0.03480000000000005,0.5,0.5348
-2025-03-13 19:25:11.415733,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Colston Loveland (MICH),-0.04409999999999997,0.25,0.2941
 2025-03-13 21:28:37.402528,Player Props - Cleveland Guardians - 2025 Regular Season Player Props - Carlos Santana Total RBIs,Over 65.5,-0.04700000000000004,0.4878,0.5348
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,NY Jets,-0.059,0.0179,0.0769
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,CLE Browns,-0.08979999999999999,0.0769,0.1667
-2025-03-13 19:25:11.403540,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,NY Giants,-0.09999999999999998,0.4,0.5
-2025-03-13 19:25:11.419162,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),-0.12040000000000001,0.25,0.3704
 2025-03-14 02:00:11.105881,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Emmet Brennan,-0.34619999999999995,0.5,0.8462

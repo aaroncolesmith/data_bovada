@@ -9,12 +9,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,0.05550000000000002,0.2222,0.1667
 2025-03-14 09:31:17.422618,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.052000000000000005,0.1429,0.0909
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Chelsea,0.0494,0.6923,0.6429
+2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,Rico Hoey,0.04139999999999999,0.4762,0.4348
 2025-03-14 10:34:54.640111,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Over 69.5,0.03600000000000003,0.5238,0.4878
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Sepp Straka,0.03600000000000003,0.5238,0.4878
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,0.033399999999999985,0.1667,0.1333
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Fiorentina,0.025300000000000003,0.1429,0.1176
 2025-03-14 08:35:33.080550,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,0.024999999999999994,0.125,0.1
 2025-03-14 08:35:36.098381,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Denny McCarthy,0.023799999999999988,0.5,0.4762
+2025-03-14 11:26:37.920864,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Vilips / S. Burns / C. Young - 2nd Round 3 Balls ,Sam Burns,0.02360000000000001,0.4082,0.3846
 2025-03-14 05:32:18.272982,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Alex Martin (ARST),0.02360000000000001,0.4082,0.3846
 2025-03-14 08:35:34.359329,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Roki Sasaki (LAD),0.023200000000000002,0.0476,0.0244
 2025-03-14 09:31:17.429537,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.022699999999999998,0.25,0.2273
@@ -22,6 +24,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 10:34:54.520771,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Sepp Straka,0.02169999999999994,0.5455,0.5238
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Xander Schauffele,0.020100000000000007,0.25,0.2299
 2025-03-13 23:28:50.266985,Match-Ups - Tournament Match-Up - B. DeChambeau v J. Niemann - Requests,Joaquin Niemann,0.01880000000000004,0.5744,0.5556
+2025-03-14 11:26:37.901806,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Taylor Moore,0.017600000000000005,0.3509,0.3333
 2025-03-14 05:32:18.414464,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Schenk / B. Hun An / E. Grillo - 2nd Round 3 Balls,Byeong Hun An,0.017299999999999982,0.4255,0.4082
 2025-03-14 08:35:35.973948,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Bryce Mills,0.016900000000000026,0.6721,0.6552
 2025-03-14 05:32:18.471703,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Vegas / M. Kuchar / A. Hadwin - 2nd Round 3 Balls,Adam Hadwin,0.015400000000000025,0.4,0.3846
@@ -29,29 +32,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 09:31:17.441067,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.01539999999999997,0.6154,0.6
 2025-03-14 04:34:38.513259,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Austin Eckroat,0.01479999999999998,0.3922,0.3774
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Rapid Wien,0.014099999999999994,0.0667,0.0526
+2025-03-14 11:26:37.854303,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Andrew Putnam,0.013600000000000001,0.3077,0.2941
 2025-03-14 05:32:18.509696,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Kim / J. Dahmen / P. Rodgers - 2nd Round 3 Balls ,Patrick Rodgers,0.013300000000000034,0.3704,0.3571
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Djurgårdens IF,0.012100000000000001,0.0244,0.0123
 2025-03-14 07:29:32.939630,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - D. Riley / G. Woodland / R. Campos - 2nd Round 3 Balls,Rafael Campos,0.011700000000000016,0.2222,0.2105
 2025-03-14 10:34:54.580232,Round Match-Ups - 2nd Round Match-Ups - P. Cantlay vs X. Schauffele - 2nd Round Match-Ups,Xander Schauffele,0.011600000000000055,0.5238,0.5122
 2025-03-14 08:35:33.089144,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Legia Warsaw,0.010700000000000001,0.0385,0.0278
 2025-03-14 06:38:57.556890,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,-0.010099999999999998,0.6774,0.6875
+2025-03-14 11:26:37.768617,Boxing Lines - Jamaine Ortiz vs Yomar Alamo - To Win the Bout,Yomar Alamo,-0.010899999999999993,0.1429,0.1538
 2025-03-14 10:34:54.580232,Round Match-Ups - 2nd Round Match-Ups - P. Cantlay vs X. Schauffele - 2nd Round Match-Ups,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Scottie Scheffler,-0.011099999999999999,0.4651,0.4762
 2025-03-14 04:34:38.513259,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Taylor Moore,-0.01150000000000001,0.3333,0.3448
 2025-03-14 07:29:32.842493,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Kitayama / P. Malnati / T. Pendrith - 2nd Round 3 Balls,Taylor Pendrith,-0.011600000000000055,0.5122,0.5238
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Thomas Detry,-0.011699999999999988,0.274,0.2857
 2025-03-14 05:32:18.414464,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Schenk / B. Hun An / E. Grillo - 2nd Round 3 Balls,Adam Schenk,-0.012299999999999978,0.3448,0.3571
+2025-03-14 11:26:37.901806,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Eckroat / J. Knapp / T. Moore - 2nd Round 3 Balls,Jake Knapp,-0.012699999999999989,0.3509,0.3636
 2025-03-14 05:32:18.471703,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Vegas / M. Kuchar / A. Hadwin - 2nd Round 3 Balls,Matt Kuchar,-0.013300000000000034,0.3571,0.3704
 2025-03-14 08:35:35.978155,Boxing Lines - Euri Cedeno vs Ulices Tovar Rivera - To Win the Bout,Ulices Tovar Rivera,-0.013999999999999999,0.0769,0.0909
 2025-03-14 04:34:38.499839,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - R. McIlroy / S. Scheffler / X. Schauffele - 2nd Round 3 Balls,Rory McIlroy,-0.01419999999999999,0.3704,0.3846
 2025-03-14 02:00:11.068400,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Wesley Rivers,-0.01479999999999998,0.3774,0.3922
 2025-03-14 04:34:38.628288,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Nick Taylor,-0.014900000000000024,0.3077,0.3226
+2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,Nate Lashley,-0.014900000000000024,0.3077,0.3226
 2025-03-14 08:35:35.973948,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Alex Martin (ARST),-0.016000000000000014,0.3922,0.4082
+2025-03-14 11:26:37.854303,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Charley Hoffman,-0.017299999999999982,0.2857,0.303
 2025-03-14 08:35:36.098381,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - A. Putnam / C. Hoffman / D. McCarthy - 2nd Round 3 Balls ,Andrew Putnam,-0.018400000000000027,0.2941,0.3125
 2025-03-14 05:32:18.509696,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Kim / J. Dahmen / P. Rodgers - 2nd Round 3 Balls ,Chan Kim,-0.02030000000000004,0.3571,0.3774
+2025-03-14 11:26:38.052801,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Lashley / R. Hoey / W. Gordon - 2nd Round 3 Balls ,William Gordon,-0.020799999999999985,0.3125,0.3333
+2025-03-14 10:34:51.929467,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,-0.021100000000000008,0.2353,0.2564
 2025-03-14 10:34:54.520771,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Taylor / S. Straka / T. Detry - 2nd Round 3 Balls ,Nick Taylor,-0.021999999999999964,0.2857,0.3077
 2025-03-14 05:32:18.272982,Boxing Lines - Bryce Mills vs Alex Martin - To Win the Bout,Bryce Mills,-0.022199999999999998,0.6552,0.6774
 2025-03-13 23:28:50.266985,Match-Ups - Tournament Match-Up - B. DeChambeau v J. Niemann - Requests,Bryson DeChambeau,-0.024399999999999977,0.4878,0.5122
+2025-03-14 11:26:37.920864,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - K. Vilips / S. Burns / C. Young - 2nd Round 3 Balls ,Karl Vilips,-0.024599999999999955,0.339,0.3636
 2025-03-14 10:34:54.640111,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Under 69.5,-0.028900000000000037,0.5455,0.5744
 2025-03-14 09:31:17.459138,To Make the Playoffs - Chicago Bulls 2024-25 - To Make the Playoffs,No,-0.08040000000000003,0.9,0.9804
 2025-03-14 09:31:17.467381,To Make the Playoffs - Miami Heat 2024-25 - To Make the Playoffs,Yes,-0.20450000000000002,0.5455,0.75

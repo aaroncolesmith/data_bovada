@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-14 19:26:33.122458,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.04849999999999999,0.1818,0.1333
 2025-03-15 03:38:38.581938,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Skye Nicolson,0.027799999999999936,0.9167,0.8889
+2025-03-15 06:36:39.830658,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,NY Jets,0.025599999999999998,0.0435,0.0179
 2025-03-14 20:33:21.630191,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Emmet Brennan,0.023800000000000043,0.5238,0.5
 2025-03-14 23:30:39.107337,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Patrice Volny,0.02100000000000002,0.3846,0.3636
 2025-03-14 22:32:22.874482,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,0.02080000000000004,0.6875,0.6667
@@ -9,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-15 03:02:03.947723,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Patrice Volny,0.015400000000000025,0.4,0.3846
 2025-03-14 19:26:35.400973,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Wesley Rivers,0.015400000000000025,0.4,0.3846
 2025-03-14 21:31:11.612358,Boxing Lines - Jose Roman Vazquez vs Jalil Major Hackett - To Win the Bout,Jalil Major Hackett,0.011099999999999999,0.9,0.8889
+2025-03-15 06:36:42.031970,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Austin Williams,0.010700000000000043,0.6774,0.6667
 2025-03-15 03:02:01.137682,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.0102,0.0769,0.0667
 2025-03-14 23:30:39.032515,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,-0.010099999999999998,0.6774,0.6875
 2025-03-14 19:26:35.400973,Boxing Lines - Joseph Adorno vs Wesley Rivers - To Win the Bout,Joseph Adorno,-0.010700000000000043,0.6667,0.6774
@@ -16,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-15 03:38:38.520166,Boxing Lines - Jadier Herrera vs Jose Macias Enriquez - To Win the Bout,Jose Macias Enriquez,-0.011099999999999999,0.1,0.1111
 2025-03-15 03:02:01.098873,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.012699999999999989,0.3509,0.3636
 2025-03-14 21:31:11.578753,Boxing Lines - Jack Turner vs Ryan Farrag - To Win the Bout,Ryan Farrag,-0.012899999999999995,0.1538,0.1667
+2025-03-15 06:36:42.031970,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Patrice Volny,-0.015400000000000025,0.3846,0.4
 2025-03-15 01:58:49.968562,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.0179,0.125,0.1429
 2025-03-14 23:30:39.107337,Boxing Lines - Austin Williams vs Patrice Volny - To Win the Bout,Austin Williams,-0.01959999999999995,0.6774,0.697
 2025-03-14 20:33:21.630191,Boxing Lines - Emmet Brennan vs Kevin Cronin - To Win the Bout,Kevin Cronin,-0.01970000000000005,0.5455,0.5652

@@ -7,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-18 14:35:09.092145,Cut Lines - Adam Scott - Make Cut / Miss Cut - Adam Scott,Make,0.06669999999999998,0.6667,0.6
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Sebastian Munoz,0.0617,0.0769,0.0152
 2025-03-18 14:35:09.105710,Cut Lines - Sahith Theegala - Make Cut / Miss Cut - Sahith Theegala,Make,0.05520000000000003,0.6552,0.6
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Golden State Warriors to beat Cleveland Cavaliers,0.054099999999999995,0.0556,0.0015
 2025-03-18 18:41:07.277934,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.052200000000000024,0.6078,0.5556
 2025-03-18 11:27:53.440530,Trump Policy Specials - Biden Pardon Void Specials - Biden Pardons,A US court to declare any Biden presidential pardon for Anthony Fauci/Hunter Biden/Jan 6th select committee void in 2025,0.052000000000000005,0.1429,0.0909
 2025-03-18 14:35:09.069495,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,0.04760000000000009,0.7143,0.6667
@@ -16,13 +15,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Kazuki Higa,0.041,0.0476,0.0066
 2025-03-18 14:35:09.028283,Cut Lines - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Make,0.04039999999999999,0.8182,0.7778
 2025-03-18 15:33:50.876882,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Shota Imanaga ERA,Under 3.45,0.03959999999999997,0.5744,0.5348
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,0.0392,0.0556,0.0164
 2025-03-18 14:35:09.074047,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Make,0.03710000000000002,0.6923,0.6552
 2025-03-18 11:27:55.585053,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,0.03709999999999991,0.6667,0.6296
 2025-03-18 14:35:09.041934,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,0.035699999999999954,0.75,0.7143
 2025-03-18 14:35:09.037357,Cut Lines - Sepp Straka - Make Cut / Miss Cut - Sepp Straka,Make,0.035699999999999954,0.75,0.7143
-2025-03-18 15:33:51.944481,Tournament Match-Ups - Tournament Match-Up - S. Straka vs S. Burns - Tournament Match-Up,Sepp Straka,0.03479999999999994,0.6,0.5652
 2025-03-18 15:33:51.925221,Tournament Match-Ups - Tournament Match-Up - Cam. Young vs V. Hovland - Tournament Match-Up,Viktor Hovland,0.03479999999999994,0.6,0.5652
+2025-03-18 15:33:51.944481,Tournament Match-Ups - Tournament Match-Up - S. Straka vs S. Burns - Tournament Match-Up,Sepp Straka,0.03479999999999994,0.6,0.5652
 2025-03-18 14:35:08.830652,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Tennessee Volunteers,0.033300000000000024,0.2,0.1667
 2025-03-18 16:39:22.115904,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Real Betis,0.033300000000000024,0.2,0.1667
 2025-03-18 14:35:09.023671,Cut Lines - Tommy Fleetwood - Make Cut / Miss Cut - Tommy Fleetwood,Make,0.033299999999999996,0.8333,0.8
@@ -33,16 +31,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-18 11:27:53.440530,Trump Policy Specials - Biden Pardon Void Specials - Biden Pardons,DoJ to prosecute any member of the January 6th select committee in 2025 in relation to evidence handling,0.029299999999999993,0.0769,0.0476
 2025-03-18 17:32:06.031619,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),0.02850000000000008,0.7959,0.7674
 2025-03-18 18:41:04.646913,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.02779999999999999,0.25,0.2222
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Cleveland Cavaliers to beat Golden State Warriors,0.027,0.0278,0.0008
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Patrick Reed,0.026499999999999996,0.0588,0.0323
 2025-03-18 18:41:07.251524,Tournament Match-Ups - Tournament Match-Up - B. Cauley vs T. Detry - Tournament Match-Up,Bud Cauley,0.023800000000000043,0.5238,0.5
 2025-03-18 18:41:07.260346,Tournament Match-Ups - Tournament Match-Up - B.H. An vs L. Clanton - Tournament Match-Up,Byeong Hun An,0.023800000000000043,0.5238,0.5
 2025-03-18 18:41:05.041702,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,TEN Titans,0.022800000000000042,0.7561,0.7333
 2025-03-18 10:36:20.124309,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.021999999999999964,0.3077,0.2857
 2025-03-18 19:25:27.151955,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Florida OR Houston,0.02180000000000004,0.6296,0.6078
-2025-03-18 16:39:25.460433,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
 2025-03-18 15:33:50.884513,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Shota Imanaga Total Wins,Under 10.5,0.02079999999999993,0.5556,0.5348
+2025-03-18 16:39:25.460433,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
+2025-03-18 20:31:42.942791,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,St. John's,0.02049999999999999,0.1538,0.1333
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Miguel Tabuena,0.0204,0.0244,0.004
+2025-03-18 20:31:42.942791,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.02020000000000001,0.1111,0.0909
 2025-03-18 14:35:07.377178,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.019099999999999995,0.0435,0.0244
 2025-03-18 17:32:06.024697,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Ashton Jeanty (BSU),0.018900000000000028,0.9804,0.9615
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Sadom Kaewkanjana,0.0187,0.0244,0.0057
@@ -55,59 +54,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-18 11:27:53.440530,Trump Policy Specials - Biden Pardon Void Specials - Biden Pardons,DoJ to prosecute Anthony Fauci in 2025 in relation to Covid 19 information and Congress,0.015300000000000001,0.0476,0.0323
 2025-03-18 19:25:27.171598,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.015100000000000002,0.1818,0.1667
 2025-03-18 18:41:04.646913,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Michigan State,0.014100000000000001,0.0526,0.0385
+2025-03-18 21:29:04.680970,International Series Macau - International Series Macau - Winner,Abraham Ancer,0.013999999999999999,0.0909,0.0769
 2025-03-18 14:35:08.830652,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.012899999999999995,0.1667,0.1538
 2025-03-18 18:41:07.410340,Singapore Classic - Singapore Classic - Winner,Calum Hill,0.0127,0.0152,0.0025
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Memphis Grizzlies,0.012199999999999999,0.0152,0.003
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Detroit Pistons vs Oklahoma City Thunder,0.0118,0.0123,0.0005
 2025-03-18 18:41:04.673140,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Tennessee,0.011700000000000016,0.2222,0.2105
 2025-03-18 14:35:07.574914,Regular Season Wins - Chicago Cubs Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,0.011600000000000055,0.5238,0.5122
 2025-03-18 14:35:06.475546,Liga ACB - Spain Liga ACB 2024/25 - Outright,Tenerife,0.011199999999999995,0.0588,0.0476
 2025-03-18 20:31:42.723096,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2025 NCAA Tournament,Under 11.5,0.010699999999999932,0.5455,0.5348
 2025-03-18 18:41:04.673140,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Clemson,0.0102,0.0769,0.0667
-2025-03-18 08:36:56.535749,TGL - Semi Final - Atlanta Drive vs The Bay - Winner,The Bay,0.010099999999999998,0.5556,0.5455
 2025-03-18 15:33:51.159901,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Under 31.5,0.010099999999999998,0.5556,0.5455
 2025-03-18 14:35:07.574914,Regular Season Wins - Chicago Cubs Wins - 2025 Regular Season - Regular Season Wins,Over 86.5,-0.010099999999999998,0.5455,0.5556
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Scott Hend,-0.0102,0.005,0.0152
 2025-03-18 18:41:04.673140,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.0102,0.0667,0.0769
 2025-03-18 18:41:07.269171,Tournament Match-Ups - Tournament Match-Up - Cam. Young vs V. Hovland - Tournament Match-Up,Cameron Young,-0.010599999999999998,0.4545,0.4651
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Memphis Grizzlies,-0.0108,0.0033,0.0141
 2025-03-18 20:31:42.723096,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2025 NCAA Tournament,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2025-03-18 12:56:09.532492,To Make The Playoffs - Texas Rangers To Make The Playoffs - 2025 - To Make The Playoffs ,No,-0.011099999999999999,0.4651,0.4762
 2025-03-18 18:41:04.673140,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Gonzaga,-0.011099999999999999,0.1,0.1111
 2025-03-18 09:33:03.668355,Valspar Championship - Valspar Championship - Winner,Xander Schauffele,-0.011199999999999995,0.0476,0.0588
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Denver Nuggets,-0.0112,0.004,0.0152
 2025-03-18 16:39:25.346117,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,-0.011499999999999955,0.6552,0.6667
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Orlando Magic vs Oklahoma City Thunder,-0.0116,0.0025,0.0141
-2025-03-18 08:36:56.535749,TGL - Semi Final - Atlanta Drive vs The Bay - Winner,Atlanta Drive,-0.011600000000000055,0.5122,0.5238
 2025-03-18 15:33:51.159901,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Shohei Ohtani Total Stolen Bases,Over 31.5,-0.011600000000000055,0.5122,0.5238
 2025-03-18 15:33:50.880747,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Shota Imanaga Total Strikeouts,Over 162.5,-0.012199999999999989,0.5,0.5122
 2025-03-18 14:35:07.625923,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Under 104.5,-0.012199999999999989,0.5,0.5122
 2025-03-18 19:25:27.171598,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Iowa State,-0.012899999999999995,0.1538,0.1667
+2025-03-18 21:29:04.687140,Hoag Classic - Hoag Classic - Winner,Stephen Ames,-0.0131,0.0345,0.0476
 2025-03-18 17:32:06.024697,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Omarion Hampton (NC),-0.013999999999999999,0.0769,0.0909
 2025-03-18 18:41:04.646913,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Arizona,-0.014099999999999998,0.0244,0.0385
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Andy Ogletree,-0.0145,0.0099,0.0244
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Milwaukee Bucks vs Oklahoma City Thunder,-0.014900000000000004,0.0196,0.0345
 2025-03-18 18:41:04.646913,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Tennessee,-0.015300000000000001,0.0435,0.0588
 2025-03-18 17:32:06.031619,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Luther Burden III (MIZZ),-0.0159,0.0164,0.0323
 2025-03-18 10:36:20.124309,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.016699999999999993,0.25,0.2667
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Houston Rockets,-0.0167,0.005,0.0217
 2025-03-18 18:41:04.673140,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,-0.016700000000000007,0.0833,0.1
 2025-03-18 14:35:06.453359,Euroleague - Euroleague 2024/25 - To Make Final Four,AS Monaco,-0.01759999999999995,0.6491,0.6667
 2025-03-18 18:41:04.669026,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Arizona,-0.01759999999999999,0.1,0.1176
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Houston Rockets,-0.0179,0.0099,0.0278
+2025-03-18 21:29:04.687140,Hoag Classic - Hoag Classic - Winner,Stewart Cink,-0.0179,0.125,0.1429
+2025-03-18 21:29:04.687140,Hoag Classic - Hoag Classic - Winner,Padraig Harrington,-0.0179,0.125,0.1429
 2025-03-18 19:25:27.171598,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,-0.018099999999999998,0.0588,0.0769
 2025-03-18 18:41:04.669026,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,-0.018100000000000005,0.5652,0.5833
-2025-03-18 18:41:07.251524,Tournament Match-Ups - Tournament Match-Up - B. Cauley vs T. Detry - Tournament Match-Up,Thomas Detry,-0.01970000000000005,0.5455,0.5652
+2025-03-18 20:31:42.942791,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Missouri,-0.019099999999999992,0.0476,0.0667
+2025-03-18 20:31:42.942791,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Kansas,-0.019099999999999992,0.0476,0.0667
 2025-03-18 18:41:07.260346,Tournament Match-Ups - Tournament Match-Up - B.H. An vs L. Clanton - Tournament Match-Up,Luke Clanton,-0.01970000000000005,0.5455,0.5652
+2025-03-18 18:41:07.251524,Tournament Match-Ups - Tournament Match-Up - B. Cauley vs T. Detry - Tournament Match-Up,Thomas Detry,-0.01970000000000005,0.5455,0.5652
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Jeunghun Wang,-0.019899999999999998,0.0079,0.0278
-2025-03-18 08:36:53.131983,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat LA Clippers,-0.019899999999999998,0.0079,0.0278
 2025-03-18 14:35:09.032844,Cut Lines - Shane Lowry - Make Cut / Miss Cut - Shane Lowry,Miss,-0.020799999999999985,0.3125,0.3333
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Tatsunori Shogenji,-0.021199999999999997,0.0066,0.0278
-2025-03-18 08:36:53.127941,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Dallas Mavericks,-0.022400000000000003,0.002,0.0244
 2025-03-18 16:39:25.460433,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Justin Thomas,-0.022600000000000064,0.5122,0.5348
 2025-03-18 15:33:50.884513,Player Props - Chicago Cubs - 2025 Regular Season Player Props - Shota Imanaga Total Wins,Over 10.5,-0.022600000000000064,0.5122,0.5348
-2025-03-18 17:32:06.031619,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Emeka Egbuka (OSU),-0.0242,0.0667,0.0909
 2025-03-18 14:35:06.449654,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,-0.0242,0.0667,0.0909
+2025-03-18 17:32:06.031619,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Emeka Egbuka (OSU),-0.0242,0.0667,0.0909
 2025-03-18 18:41:05.031726,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.02460000000000001,0.1754,0.2
 2025-03-18 14:35:09.101178,Cut Lines - Viktor Hovland - Make Cut / Miss Cut - Viktor Hovland,Miss,-0.027700000000000002,0.4167,0.4444
 2025-03-18 18:41:05.041702,NFL Draft Specials - Which Team Makes #1 Overall Pick - Team to make #1 pick,NY Jets,-0.0283,0.0152,0.0435
@@ -116,8 +109,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-18 11:27:55.585053,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Nina Hughes,-0.0348,0.4,0.4348
 2025-03-18 15:33:51.179573,Player Props - Los Angeles Dodgers - 2025 Regular Season Player Props - Yoshinobu Yamamoto ERA,Over 3.30,-0.03480000000000005,0.5,0.5348
 2025-03-18 18:41:07.246946,Tournament Match-Ups - Tournament Match-Up - A. Smalley vs M. Kim - Tournament Match-Up,Alex Smalley,-0.03480000000000005,0.5,0.5348
-2025-03-18 15:33:51.944481,Tournament Match-Ups - Tournament Match-Up - S. Straka vs S. Burns - Tournament Match-Up,Sam Burns,-0.03489999999999999,0.4651,0.5
 2025-03-18 15:33:51.925221,Tournament Match-Ups - Tournament Match-Up - Cam. Young vs V. Hovland - Tournament Match-Up,Cameron Young,-0.03489999999999999,0.4651,0.5
+2025-03-18 15:33:51.944481,Tournament Match-Ups - Tournament Match-Up - S. Straka vs S. Burns - Tournament Match-Up,Sam Burns,-0.03489999999999999,0.4651,0.5
 2025-03-18 14:35:09.028283,Cut Lines - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Miss,-0.03570000000000001,0.25,0.2857
 2025-03-18 12:56:10.673441,International Series Macau - International Series Macau - Winner,Carlos Ortiz,-0.0384,0.0385,0.0769
 2025-03-18 14:35:09.074047,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Miss,-0.0393,0.3774,0.4167

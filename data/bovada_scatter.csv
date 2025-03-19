@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 07:30:14.746483,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Trae Young (ATL),0.0744,0.3125,0.2381
 2025-03-19 11:27:16.247065,Tournament Match-Ups - Tournament Match-Up - A. Smalley vs M. Kim - Tournament Match-Up,Michael Kim,0.07119999999999993,0.6364,0.5652
 2025-03-19 12:55:57.479178,Cut Lines - Sahith Theegala - Make Cut / Miss Cut - Sahith Theegala,Miss,0.0711,0.4878,0.4167
+2025-03-19 14:35:14.559847,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2025 NCAA Tournament,Under 11.5,0.06989999999999996,0.6154,0.5455
 2025-03-19 12:55:57.410292,Cut Lines - Sepp Straka - Make Cut / Miss Cut - Sepp Straka,Make,0.06820000000000004,0.8182,0.75
 2025-03-19 12:55:57.423935,Cut Lines - Xander Schauffele - Make Cut / Miss Cut - Xander Schauffele,Make,0.06670000000000009,0.8,0.7333
 2025-03-19 12:55:57.442365,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,0.0635,0.7778,0.7143
@@ -58,10 +59,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 12:55:55.424380,MLB Futures Specials - MLB 2025 To Win World Series & Division - MLB 2025 To Win World Series & Division,Los Angeles Dodgers,0.014600000000000002,0.2778,0.2632
 2025-03-19 08:39:13.626426,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.014599999999999946,0.995,0.9804
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Stephen Curry (GSW),0.014100000000000001,0.0526,0.0385
-2025-03-19 02:02:35.986322,International Series Macau - International Series Macau - Winner,Lucas Herbert,0.013999999999999999,0.0909,0.0769
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.013999999999999999,0.0909,0.0769
 2025-03-19 03:06:11.636799,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Xavier,0.013900000000000003,0.0417,0.0278
-2025-03-19 02:02:35.998509,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,0.013899999999999996,0.125,0.1111
 2025-03-19 08:39:15.713221,To Make The Playoffs - Atlanta Braves To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.012600000000000056,0.8,0.7874
 2025-03-19 07:30:14.767529,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.012499999999999997,0.0625,0.05
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,LeBron James (LAL),0.012300000000000002,0.0417,0.0294
@@ -74,26 +73,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.010699999999999987,0.3333,0.3226
 2025-03-19 07:30:14.749952,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.010199999999999987,0.9333,0.9231
 2025-03-19 09:34:01.330206,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Danny Walker,0.010099999999999998,0.5556,0.5455
-2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.0102,0.0667,0.0769
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Halifax Town,-0.0102,0.0667,0.0769
 2025-03-19 10:37:07.414947,League One - England League One 2024/25 - Top Goalscorer,Charlie Kelman,-0.0102,0.0667,0.0769
+2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.0102,0.0667,0.0769
 2025-03-19 08:39:15.474023,Regular Season Wins - New York Yankees Wins - 2025 Regular Season - Regular Season Wins,Under 88.5,-0.010699999999999932,0.5348,0.5455
-2025-03-19 08:39:15.713221,To Make The Playoffs - Atlanta Braves To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.011099999999999999,0.2667,0.2778
 2025-03-19 12:55:54.763575,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.011099999999999999,0.1,0.1111
+2025-03-19 08:39:15.713221,To Make The Playoffs - Atlanta Braves To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.011099999999999999,0.2667,0.2778
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Ty Jerome (CLE),-0.011199999999999995,0.0323,0.0435
+2025-03-19 14:35:17.588935,TGL - TGL Final - Atltanta Drive vs New York - Game 1 - Winner,New York,-0.0116,0.4762,0.4878
 2025-03-19 09:34:01.330206,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Karl Vilips,-0.011600000000000055,0.5122,0.5238
 2025-03-19 08:39:15.364124,Regular Season Wins - Baltimore Orioles Wins - 2025 Regular Season - Regular Season Wins,Under 86.5,-0.012199999999999989,0.4878,0.5
 2025-03-19 07:30:14.756874,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Tyler Herro (MIA),-0.012700000000000003,0.0196,0.0323
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),-0.01319999999999999,0.7368,0.75
-2025-03-19 12:55:57.507527,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,-0.013899999999999996,0.1111,0.125
 2025-03-19 08:39:13.623430,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,-0.013899999999999996,0.1111,0.125
-2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,-0.015100000000000002,0.1667,0.1818
+2025-03-19 12:55:57.507527,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,-0.013899999999999996,0.1111,0.125
 2025-03-19 07:30:14.764008,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.015100000000000002,0.1667,0.1818
+2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,-0.015100000000000002,0.1667,0.1818
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.0159,0.0164,0.0323
 2025-03-19 07:30:14.756874,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Christian Braun (DEN),-0.0162,0.0132,0.0294
 2025-03-19 06:42:16.213342,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.016600000000000004,0.2273,0.2439
-2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,-0.016699999999999993,0.25,0.2667
 2025-03-19 12:55:57.469855,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Miss,-0.016699999999999993,0.4,0.4167
+2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,-0.016699999999999993,0.25,0.2667
 2025-03-19 12:55:57.414883,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,-0.016700000000000048,0.7333,0.75
 2025-03-19 07:30:14.753404,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),-0.017800000000000003,0.0066,0.0244
 2025-03-19 07:30:14.753404,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.01830000000000001,0.0769,0.0952
@@ -114,8 +114,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 08:39:13.614544,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.030299999999999994,0.3333,0.3636
 2025-03-19 06:42:16.241022,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.033399999999999985,0.5744,0.6078
 2025-03-19 07:30:14.767529,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.03410000000000002,0.875,0.9091
-2025-03-19 08:39:17.764476,TGL - TGL - Winner,New York,-0.035999999999999976,0.4762,0.5122
 2025-03-19 12:55:57.386710,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Karl Vilips,-0.035999999999999976,0.4762,0.5122
+2025-03-19 08:39:17.764476,TGL - TGL - Winner,New York,-0.035999999999999976,0.4762,0.5122
 2025-03-19 12:55:57.483734,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Make,-0.03639999999999999,0.6,0.6364
 2025-03-19 09:34:00.720219,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,-0.038299999999999994,0.0526,0.0909
 2025-03-19 12:55:57.391204,Tournament Match-Ups - Tournament Match-Up - M. Kim v C. Young - Requests,Cameron Young,-0.039600000000000024,0.4255,0.4651
@@ -133,6 +133,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 12:55:57.446999,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Miss,-0.06490000000000001,0.3125,0.3774
 2025-03-19 12:55:57.423935,Cut Lines - Xander Schauffele - Make Cut / Miss Cut - Xander Schauffele,Miss,-0.06659999999999999,0.2667,0.3333
 2025-03-19 08:39:13.623430,League One - England League One 2024/25 - Top 2 Finish,Wrexham,-0.06929999999999997,0.4762,0.5455
+2025-03-19 14:35:14.559847,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2025 NCAA Tournament,Over 11.5,-0.06930000000000003,0.4545,0.5238
 2025-03-19 12:55:57.442365,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,-0.07139999999999996,0.2857,0.3571
 2025-03-19 11:27:16.247065,Tournament Match-Ups - Tournament Match-Up - A. Smalley vs M. Kim - Tournament Match-Up,Alex Smalley,-0.07450000000000001,0.4255,0.5
 2025-03-19 12:55:57.437813,Cut Lines - Lucas Glover - Make Cut / Miss Cut - Lucas Glover,Make,-0.07790000000000008,0.6364,0.7143

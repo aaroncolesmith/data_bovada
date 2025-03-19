@@ -12,9 +12,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 14:35:14.559847,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2025 NCAA Tournament,Under 11.5,0.06989999999999996,0.6154,0.5455
 2025-03-19 12:55:57.410292,Cut Lines - Sepp Straka - Make Cut / Miss Cut - Sepp Straka,Make,0.06820000000000004,0.8182,0.75
 2025-03-19 12:55:57.423935,Cut Lines - Xander Schauffele - Make Cut / Miss Cut - Xander Schauffele,Make,0.06670000000000009,0.8,0.7333
-2025-03-19 12:55:57.442365,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,0.0635,0.7778,0.7143
 2025-03-19 06:42:16.241022,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.0635,0.2857,0.2222
+2025-03-19 12:55:57.442365,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,0.0635,0.7778,0.7143
 2025-03-19 06:42:16.241022,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.062100000000000016,0.2439,0.1818
+2025-03-19 14:35:14.815223,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,North Carolina,0.0595,0.25,0.1905
 2025-03-19 08:39:17.662020,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 71.5,0.05870000000000003,0.5238,0.4651
 2025-03-19 12:55:57.446999,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Make,0.057699999999999974,0.75,0.6923
 2025-03-19 12:55:57.433230,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Miss,0.05740000000000001,0.4348,0.3774
@@ -33,34 +34,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 12:55:57.391204,Tournament Match-Ups - Tournament Match-Up - M. Kim v C. Young - Requests,Michael Kim,0.03639999999999999,0.6364,0.6
 2025-03-19 12:55:57.386710,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Danny Walker,0.03610000000000002,0.5917,0.5556
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (CLE),0.035699999999999996,0.0833,0.0476
-2025-03-19 12:55:57.428494,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Miss,0.030299999999999994,0.3636,0.3333
+2025-03-19 15:33:28.243598,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Atlantic Coast,0.031399999999999983,0.2667,0.2353
+2025-03-19 15:33:31.621259,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs T. Kim - Tournament Match-Up,Tom Kim,0.03090000000000004,0.6226,0.5917
 2025-03-19 12:55:57.483734,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Miss,0.030299999999999994,0.4651,0.4348
+2025-03-19 12:55:57.428494,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Miss,0.030299999999999994,0.3636,0.3333
 2025-03-19 11:27:16.277619,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Tommy Fleetwood,0.02859999999999996,0.6364,0.6078
 2025-03-19 12:55:57.465276,Cut Lines - Adam Scott - Make Cut / Miss Cut - Adam Scott,Make,0.025600000000000067,0.6923,0.6667
 2025-03-19 09:34:00.720219,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.024800000000000016,0.1786,0.1538
 2025-03-19 08:39:17.656765,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 70.5,0.022600000000000064,0.6226,0.6
 2025-03-19 12:55:57.451576,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.02260000000000001,0.4,0.3774
-2025-03-19 03:06:14.249916,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Danny Walker,0.02169999999999994,0.5455,0.5238
 2025-03-19 06:42:16.217055,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,0.0213,0.0769,0.0556
 2025-03-19 12:55:57.414883,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Miss,0.020799999999999985,0.3333,0.3125
 2025-03-19 07:30:14.746483,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Darius Garland (CLE),0.020700000000000003,0.0323,0.0116
 2025-03-19 06:42:16.213342,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs LA Lakers,0.02020000000000001,0.1111,0.0909
+2025-03-19 15:33:28.377013,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),0.019699999999999995,0.125,0.1053
 2025-03-19 06:42:16.217055,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat LA Lakers,0.01949999999999999,0.0909,0.0714
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Southend Utd,0.0189,0.0385,0.0196
 2025-03-19 06:42:16.213342,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Golden State Warriors,0.01830000000000001,0.0952,0.0769
 2025-03-19 08:39:13.626426,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,0.018100000000000005,0.9412,0.9231
-2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.0179,0.1429,0.125
 2025-03-19 08:39:13.626426,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.0179,0.1429,0.125
+2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Paris,0.0179,0.1429,0.125
 2025-03-19 07:30:14.764008,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.01760000000000006,0.9,0.8824
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,0.017600000000000005,0.3509,0.3333
 2025-03-19 12:55:55.338740,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,0.017299999999999982,0.303,0.2857
 2025-03-19 08:39:13.617512,League One - England League One 2024/25 - To Be Relegated,Burton Albion,0.016700000000000048,0.75,0.7333
 2025-03-19 12:55:55.420119,MLB Futures Specials - MLB 2025 To Win National League & Division - MLB 2025 To Win National League & Division,Los Angeles Dodgers,0.015400000000000025,0.4,0.3846
+2025-03-19 15:33:31.615916,Tournament Match-Ups - Tournament Match-Up - Cam. Young vs V. Hovland - Tournament Match-Up,Viktor Hovland,0.014800000000000035,0.6226,0.6078
 2025-03-19 12:55:55.424380,MLB Futures Specials - MLB 2025 To Win World Series & Division - MLB 2025 To Win World Series & Division,Los Angeles Dodgers,0.014600000000000002,0.2778,0.2632
 2025-03-19 08:39:13.626426,League One - England League One 2024/25 - Top 6 Finish,Wycombe,0.014599999999999946,0.995,0.9804
+2025-03-19 15:33:31.086563,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Skye Nicolson,0.014100000000000001,0.9615,0.9474
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Stephen Curry (GSW),0.014100000000000001,0.0526,0.0385
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Oldham Athletic,0.013999999999999999,0.0909,0.0769
-2025-03-19 03:06:11.636799,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Xavier,0.013900000000000003,0.0417,0.0278
 2025-03-19 08:39:15.713221,To Make The Playoffs - Atlanta Braves To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.012600000000000056,0.8,0.7874
 2025-03-19 07:30:14.767529,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.012499999999999997,0.0625,0.05
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,LeBron James (LAL),0.012300000000000002,0.0417,0.0294
@@ -73,12 +77,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 07:30:14.760547,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.010699999999999987,0.3333,0.3226
 2025-03-19 07:30:14.749952,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,Kenny Atkinson,0.010199999999999987,0.9333,0.9231
 2025-03-19 09:34:01.330206,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Danny Walker,0.010099999999999998,0.5556,0.5455
-2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Halifax Town,-0.0102,0.0667,0.0769
-2025-03-19 10:37:07.414947,League One - England League One 2024/25 - Top Goalscorer,Charlie Kelman,-0.0102,0.0667,0.0769
+2025-03-19 15:33:31.615916,Tournament Match-Ups - Tournament Match-Up - Cam. Young vs V. Hovland - Tournament Match-Up,Cameron Young,-0.010099999999999998,0.4444,0.4545
 2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Gateshead,-0.0102,0.0667,0.0769
+2025-03-19 10:37:07.414947,League One - England League One 2024/25 - Top Goalscorer,Charlie Kelman,-0.0102,0.0667,0.0769
+2025-03-19 09:33:58.035926,National League - English National League 2024/25 - To Be Promoted,Halifax Town,-0.0102,0.0667,0.0769
+2025-03-19 15:33:28.243598,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Big 12,-0.010499999999999982,0.2,0.2105
 2025-03-19 08:39:15.474023,Regular Season Wins - New York Yankees Wins - 2025 Regular Season - Regular Season Wins,Under 88.5,-0.010699999999999932,0.5348,0.5455
-2025-03-19 12:55:54.763575,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.011099999999999999,0.1,0.1111
 2025-03-19 08:39:15.713221,To Make The Playoffs - Atlanta Braves To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.011099999999999999,0.2667,0.2778
+2025-03-19 12:55:54.763575,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.011099999999999999,0.1,0.1111
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Ty Jerome (CLE),-0.011199999999999995,0.0323,0.0435
 2025-03-19 14:35:17.588935,TGL - TGL Final - Atltanta Drive vs New York - Game 1 - Winner,New York,-0.0116,0.4762,0.4878
 2025-03-19 09:34:01.330206,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Karl Vilips,-0.011600000000000055,0.5122,0.5238
@@ -87,13 +93,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),-0.01319999999999999,0.7368,0.75
 2025-03-19 08:39:13.623430,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,-0.013899999999999996,0.1111,0.125
 2025-03-19 12:55:57.507527,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,-0.013899999999999996,0.1111,0.125
-2025-03-19 07:30:14.764008,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.015100000000000002,0.1667,0.1818
 2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Milano,-0.015100000000000002,0.1667,0.1818
+2025-03-19 07:30:14.764008,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.015100000000000002,0.1667,0.1818
 2025-03-19 07:30:14.742994,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Naz Reid (MIN),-0.0159,0.0164,0.0323
 2025-03-19 07:30:14.756874,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Christian Braun (DEN),-0.0162,0.0132,0.0294
 2025-03-19 06:42:16.213342,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.016600000000000004,0.2273,0.2439
-2025-03-19 12:55:57.469855,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Miss,-0.016699999999999993,0.4,0.4167
 2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,-0.016699999999999993,0.25,0.2667
+2025-03-19 12:55:57.469855,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Miss,-0.016699999999999993,0.4,0.4167
 2025-03-19 12:55:57.414883,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,-0.016700000000000048,0.7333,0.75
 2025-03-19 07:30:14.753404,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Shai Gilgeous-Alexander (OKC),-0.017800000000000003,0.0066,0.0244
 2025-03-19 07:30:14.753404,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.01830000000000001,0.0769,0.0952
@@ -103,25 +109,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-19 09:34:00.720219,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.019000000000000003,0.0435,0.0625
 2025-03-19 12:55:54.773398,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Milano,-0.019199999999999995,0.5263,0.5455
 2025-03-19 08:39:13.623430,League One - England League One 2024/25 - Top 2 Finish,Stockport County,-0.02020000000000001,0.0909,0.1111
+2025-03-19 15:33:31.086563,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Tiara Brown,-0.02020000000000001,0.0909,0.1111
 2025-03-19 08:39:17.656765,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 70.5,-0.020699999999999996,0.4444,0.4651
-2025-03-19 03:06:14.249916,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Karl Vilips,-0.02169999999999994,0.5238,0.5455
 2025-03-19 12:55:57.465276,Cut Lines - Adam Scott - Make Cut / Miss Cut - Adam Scott,Miss,-0.02260000000000001,0.3774,0.4
 2025-03-19 10:37:07.414947,League One - England League One 2024/25 - Top Goalscorer,Sam Smith,-0.02310000000000001,0.0769,0.1
+2025-03-19 15:33:28.243598,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Big East,-0.0232,0.0435,0.0667
 2025-03-19 12:55:54.770308,Euroleague - Euroleague 2024/25 - To Make Final Four,AS Monaco,-0.02410000000000001,0.625,0.6491
 2025-03-19 12:55:57.451576,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.025600000000000067,0.6667,0.6923
 2025-03-19 11:27:16.277619,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Fleetwood - Tournament Match-Up,Justin Thomas,-0.029000000000000026,0.4255,0.4545
 2025-03-19 08:39:13.614544,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.030299999999999994,0.3333,0.3636
 2025-03-19 08:39:13.614544,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.030299999999999994,0.3333,0.3636
+2025-03-19 15:33:31.621259,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs T. Kim - Tournament Match-Up,Jordan Spieth,-0.031799999999999995,0.4444,0.4762
 2025-03-19 06:42:16.241022,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.033399999999999985,0.5744,0.6078
 2025-03-19 07:30:14.767529,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Stephon Castle (SAS),-0.03410000000000002,0.875,0.9091
+2025-03-19 15:33:28.243598,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Big Ten,-0.03420000000000001,0.0769,0.1111
 2025-03-19 12:55:57.386710,Tournament Match-Ups - Tournament Match-Up - D. Walker v K. Vilips - Requests,Karl Vilips,-0.035999999999999976,0.4762,0.5122
 2025-03-19 08:39:17.764476,TGL - TGL - Winner,New York,-0.035999999999999976,0.4762,0.5122
 2025-03-19 12:55:57.483734,Cut Lines - Luke Clanton - Make Cut / Miss Cut - Luke Clanton,Make,-0.03639999999999999,0.6,0.6364
 2025-03-19 09:34:00.720219,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,-0.038299999999999994,0.0526,0.0909
 2025-03-19 12:55:57.391204,Tournament Match-Ups - Tournament Match-Up - M. Kim v C. Young - Requests,Cameron Young,-0.039600000000000024,0.4255,0.4651
 2025-03-19 08:39:13.614544,League One - England League One 2024/25 - To Be Promoted,Wrexham,-0.04409999999999992,0.6226,0.6667
-2025-03-19 11:27:16.251416,Tournament Match-Ups - Tournament Match-Up - B. Cauley vs T. Detry - Tournament Match-Up,Bud Cauley,-0.04760000000000003,0.4762,0.5238
 2025-03-19 11:27:16.255756,Tournament Match-Ups - Tournament Match-Up - B. Griffin vs K. Mitchell - Tournament Match-Up,Ben Griffin,-0.04760000000000003,0.4762,0.5238
+2025-03-19 11:27:16.251416,Tournament Match-Ups - Tournament Match-Up - B. Cauley vs T. Detry - Tournament Match-Up,Bud Cauley,-0.04760000000000003,0.4762,0.5238
 2025-03-19 12:55:57.401150,Cut Lines - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Make,-0.05080000000000007,0.7674,0.8182
 2025-03-19 08:39:17.662020,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 71.5,-0.05449999999999999,0.5455,0.6
 2025-03-19 12:55:57.474419,Cut Lines - Viktor Hovland - Make Cut / Miss Cut - Viktor Hovland,Make,-0.05520000000000003,0.6,0.6552

@@ -1,7 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Crvena Zvezda,0.16669999999999996,0.6667,0.5
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Matthew Jordan,0.1089,0.1333,0.0244
-2025-03-21 02:03:39.879770,BNXT League - BNXT League 2024/25 - Outright,Kortrijk Spurs,0.09999999999999999,0.1667,0.0667
 2025-03-21 06:42:39.433975,Conference Winners - Big 10 Conference - Big 10 2025 Conference Winner,Oregon,0.09740000000000004,0.6429,0.5455
 2025-03-21 05:32:54.176692,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Gonzaga,0.07979999999999998,0.2703,0.1905
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Marcus Armitage,0.0767,0.0833,0.0066
@@ -9,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Hao Tong Li,0.07300000000000001,0.1053,0.0323
 2025-03-21 07:28:55.181569,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Conor McGregor,0.0713,0.0909,0.0196
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Drake,0.0708,0.1333,0.0625
-2025-03-21 02:03:39.823530,Euroleague - Euroleague 2024/25 - To Make Final Four,Crvena Zvezda,0.06840000000000002,0.2222,0.1538
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Jordan Smith,0.0655,0.1,0.0345
 2025-03-21 05:32:54.176692,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Creighton,0.06139999999999998,0.1667,0.1053
 2025-03-21 05:32:54.176692,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Purdue,0.0572,0.1905,0.1333
@@ -23,12 +20,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Manuel Elvira,0.0385,0.0435,0.005
 2025-03-21 06:42:40.052301,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 70.5,0.03610000000000002,0.5917,0.5556
 2025-03-21 12:54:39.304031,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Andrew Angelcor,0.03600000000000003,0.5238,0.4878
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Real Madrid,0.035699999999999954,0.75,0.7143
 2025-03-21 11:27:11.270864,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0353,0.8,0.7647
 2025-03-21 11:27:11.591795,Round Match-Ups - 2nd Round Match-Ups - D. Riley vs M. Pavon - 2nd Round Match-Ups,Matthieu Pavon,0.03480000000000005,0.5348,0.5
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Texas A&M,0.033399999999999985,0.1667,0.1333
 2025-03-21 13:35:59.052764,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2027,0.033300000000000024,0.2,0.1667
-2025-03-21 02:03:39.909589,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,St. John's,0.0321,0.0909,0.0588
 2025-03-21 12:54:39.331827,BKFC Fight Night: Philly - Pat Carroll vs Mikey Furnier - To Win the Bout,Pat Carroll,0.03180000000000005,0.8889,0.8571
 2025-03-21 04:35:32.302979,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - T. Detry / B. Horschel / T. Fleetwood - 2nd Round 3-Balls,Tommy Fleetwood,0.031799999999999995,0.4762,0.4444
 2025-03-21 06:42:38.859095,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total RBIs,Under 88.5,0.03179999999999994,0.5556,0.5238
@@ -38,27 +33,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,North Carolina,0.02779999999999999,0.2778,0.25
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Ricardo Gouveia,0.0257,0.0323,0.0066
 2025-03-21 10:35:40.809669,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Dustin Pague,0.025599999999999956,0.6,0.5744
-2025-03-21 03:44:46.382739,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
 2025-03-21 11:27:08.216631,Tournament Futures - FIFA World Cup 2026 - Winner,Spain,0.023799999999999988,0.1667,0.1429
+2025-03-21 03:44:46.382739,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,Alex Smalley,0.023799999999999988,0.5,0.4762
 2025-03-21 10:35:40.797072,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Anthony Pagan,0.022800000000000042,0.7561,0.7333
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Nacho Elvira,0.022799999999999997,0.0278,0.005
 2025-03-21 11:27:11.279457,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Andrew Angelcor,0.022699999999999998,0.4878,0.4651
-2025-03-21 07:28:57.350868,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.022600000000000064,0.5348,0.5122
 2025-03-21 10:35:41.054943,Round Match-Ups - 2nd Round Match-Ups - A. Hadwin vs S. Ryder - 2nd Round Match-Ups,Sam Ryder,0.022600000000000064,0.5348,0.5122
-2025-03-21 03:06:54.346864,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / S. Theegala / C. Conners - 2nd Round 3-Balls,Sahith Theegala,0.022199999999999998,0.3448,0.3226
+2025-03-21 07:28:57.350868,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.022600000000000064,0.5348,0.5122
 2025-03-21 04:35:32.281447,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - D. Riley / M. Pavon / W. Simpson - 2nd Round 3-Balls,Webb Simpson,0.022199999999999998,0.3448,0.3226
+2025-03-21 03:06:54.346864,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - S. Lowry / S. Theegala / C. Conners - 2nd Round 3-Balls,Sahith Theegala,0.022199999999999998,0.3448,0.3226
 2025-03-21 12:54:39.299447,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Justin Walters,0.022199999999999998,0.3448,0.3226
 2025-03-21 11:27:11.557227,Round Match-Ups - 2nd Round Match-Ups - J. Thomas vs S. Lowry - 2nd Round Match-Ups,Justin Thomas,0.02169999999999994,0.5455,0.5238
 2025-03-21 10:35:40.801272,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Cody Vidal,0.021299999999999986,0.303,0.2817
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Jeong Weon Ko,0.021199999999999997,0.0278,0.0066
 2025-03-21 04:35:31.965007,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,0.02080000000000004,0.6875,0.6667
-2025-03-21 02:03:39.823530,Euroleague - Euroleague 2024/25 - To Make Final Four,Barcelona,0.020799999999999985,0.3333,0.3125
 2025-03-21 13:35:59.052764,European Union Specials - When will Ukraine become an EU Member State? - When will Ukraine become an EU member state?,2028,0.02020000000000001,0.1111,0.0909
 2025-03-21 06:42:38.855393,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Home Runs,Under 30.5,0.01970000000000005,0.5652,0.5455
-2025-03-21 02:03:39.816714,Euroleague - Euroleague 2024/25 - Outright,Barcelona,0.019099999999999992,0.0667,0.0476
 2025-03-21 08:36:09.769326,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - M. McGreevy / M. Thorbjornsen / R. Neergaard - 2nd Round 3-Balls,Max McGreevy,0.018900000000000028,0.4444,0.4255
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,AS Monaco,0.018900000000000028,0.9804,0.9615
 2025-03-21 11:27:11.296464,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.01880000000000004,0.5744,0.5556
+2025-03-21 13:35:58.901037,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,St. John's,0.018799999999999983,0.3636,0.3448
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Xavier,0.018500000000000003,0.0741,0.0556
 2025-03-21 05:32:54.176692,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Arizona,0.01820000000000002,0.2,0.1818
 2025-03-21 13:36:01.470490,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Dalvin Blair,0.018100000000000005,0.7403,0.7222
@@ -66,31 +59,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 11:27:08.216631,Tournament Futures - FIFA World Cup 2026 - Winner,England,0.0179,0.1429,0.125
 2025-03-21 04:35:32.290212,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K. Yu / J. Vegas / S. Jaeger - 2nd Round 3-Balls,Kevin Yu,0.017600000000000005,0.3509,0.3333
 2025-03-21 04:35:32.332799,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / K. Van Wyk - 2nd Round 3-Balls,John Pak,0.017600000000000005,0.3509,0.3333
+2025-03-21 13:36:01.460666,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Colin Reeser,0.017299999999999982,0.303,0.2857
 2025-03-21 11:27:11.565872,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs D. Ghim - 2nd Round Match-Ups,Lucas Glover,0.017299999999999982,0.5917,0.5744
 2025-03-21 10:35:40.813861,BKFC Fight Night: Philly - Elijah Harris vs Brandon Honsvick - To Win the Bout,Elijah Harris,0.017299999999999982,0.5917,0.5744
-2025-03-21 13:36:01.460666,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Colin Reeser,0.017299999999999982,0.303,0.2857
 2025-03-21 08:36:07.185200,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,UCLA,0.017099999999999997,0.0556,0.0385
 2025-03-21 13:35:58.978521,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Larry Ellison,0.016699999999999993,0.4167,0.4
 2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Xavier,0.015700000000000006,0.1333,0.1176
-2025-03-21 08:36:07.176280,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,Midwest,0.015400000000000025,0.2564,0.241
+2025-03-21 14:33:28.381378,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - L. Griffin / N. Hojgaard / R. Fox - 2nd Round 3-Balls,Ryan Fox,0.015400000000000025,0.4,0.3846
 2025-03-21 12:54:39.417544,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K. Kisner / J. Bramlett / P. Fishburn - 2nd Round 3-Balls,Patrick Fishburn,0.015400000000000025,0.4,0.3846
-2025-03-21 02:03:39.893121,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Gonzaga,0.015100000000000002,0.1818,0.1667
+2025-03-21 08:36:07.176280,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,Midwest,0.015400000000000025,0.2564,0.241
 2025-03-21 03:44:43.701577,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,St. John's,0.015100000000000002,0.1818,0.1667
-2025-03-21 11:27:11.275109,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Justin Walters,0.014900000000000024,0.3226,0.3077
-2025-03-21 08:36:09.503227,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,0.014900000000000024,0.6923,0.6774
 2025-03-21 12:54:39.317989,BKFC Fight Night: Philly - Lex Ludlow vs Connor McKenna - To Win the Bout,Connor McKenna,0.014900000000000024,0.3226,0.3077
-2025-03-21 02:03:39.897144,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,0.014399999999999996,0.0769,0.0625
+2025-03-21 08:36:09.503227,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,0.014900000000000024,0.6923,0.6774
+2025-03-21 11:27:11.275109,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Justin Walters,0.014900000000000024,0.3226,0.3077
+2025-03-21 14:33:25.885456,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Notre Dame (W),0.014399999999999996,0.0769,0.0625
 2025-03-21 05:32:54.176692,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,McNeese State,0.014399999999999996,0.0769,0.0625
 2025-03-21 08:36:07.193737,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,0.014099999999999998,0.0385,0.0244
-2025-03-21 02:03:39.750696,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beater in Sweet Sixteen Round of NCAA Tournament,Yes,0.013999999999999999,0.0909,0.0769
-2025-03-21 08:36:07.189466,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,0.013999999999999999,0.0909,0.0769
 2025-03-21 08:36:07.202617,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Texas Tech,0.013999999999999999,0.0909,0.0769
-2025-03-21 12:54:39.294850,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0131,0.8131,0.8
-2025-03-21 04:35:32.088869,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0131,0.7778,0.7647
+2025-03-21 08:36:07.189466,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,0.013999999999999999,0.0909,0.0769
+2025-03-21 14:33:25.885456,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),0.013899999999999996,0.125,0.1111
 2025-03-21 12:54:39.290202,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Anthony Pagan,0.0131,0.7778,0.7647
+2025-03-21 04:35:32.088869,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0131,0.7778,0.7647
+2025-03-21 12:54:39.294850,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0131,0.8131,0.8
 2025-03-21 13:36:01.465568,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,0.0129999999999999,0.8261,0.8131
 2025-03-21 06:42:37.219491,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,UCLA,0.012899999999999995,0.1667,0.1538
-2025-03-21 02:03:39.879770,BNXT League - BNXT League 2024/25 - Outright,Heroes Den Bosch,0.012700000000000003,0.0323,0.0196
 2025-03-21 08:36:07.202617,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Gonzaga,0.012600000000000007,0.0714,0.0588
 2025-03-21 12:54:39.322551,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,0.012199999999999989,0.5,0.4878
 2025-03-21 05:32:56.561538,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.012199999999999989,0.5122,0.5
@@ -99,93 +91,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 11:27:11.561522,Round Match-Ups - 2nd Round Match-Ups - V. Hovland vs S. Theegala - 2nd Round Match-Ups,Sahith Theegala,0.011600000000000055,0.5238,0.5122
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Natipong Srithong,0.0116,0.0141,0.0025
 2025-03-21 04:35:32.097344,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Andrew Angelcor,0.0116,0.4878,0.4762
-2025-03-21 13:35:58.978521,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,0.01150000000000001,0.3448,0.3333
 2025-03-21 10:35:40.830683,BKFC Fight Night: Philly - Nick Burgos vs Noah Norman - To Win the Bout,Nick Burgos,0.01150000000000001,0.3448,0.3333
-2025-03-21 02:03:39.823530,Euroleague - Euroleague 2024/25 - To Make Final Four,AS Monaco,0.011399999999999966,0.6364,0.625
+2025-03-21 13:35:58.978521,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,0.01150000000000001,0.3448,0.3333
+2025-03-21 14:33:28.340120,BKFC Fight Night: Philly - Travis Thompson vs Aj Craig - To Win the Bout,Travis Thompson,0.011200000000000099,0.8403,0.8291
 2025-03-21 08:36:07.193737,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Drake,0.011200000000000002,0.0244,0.0132
-2025-03-21 02:03:39.909589,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Tennessee,0.011099999999999999,0.1111,0.1
 2025-03-21 13:36:01.503753,BKFC Fight Night: Philly - Pat Carroll vs Mikey Furnier - To Win the Bout,Pat Carroll,0.011099999999999999,0.9,0.8889
 2025-03-21 06:42:38.851187,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Hits,Under 131.5,0.01100000000000001,0.5348,0.5238
 2025-03-21 13:36:01.508870,BKFC Fight Night: Philly - Travis Thompson vs Aj Craig - To Win the Bout,Travis Thompson,0.01089999999999991,0.8291,0.8182
-2025-03-21 02:03:39.885020,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Michigan State,0.010700000000000001,0.0385,0.0278
-2025-03-21 02:03:39.909589,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Texas A&M,0.010700000000000001,0.0385,0.0278
+2025-03-21 14:33:25.885456,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),0.010699999999999987,0.3333,0.3226
 2025-03-21 03:44:46.569008,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / K. Van Wyk - 2nd Round 3-Balls,John Pak,0.010699999999999987,0.3333,0.3226
+2025-03-21 14:33:25.845645,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,West,0.010699999999999987,0.3333,0.3226
 2025-03-21 09:31:39.479895,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.010699999999999932,0.5455,0.5348
+2025-03-21 14:33:28.545613,Singapore Classic - Singapore Classic - Winner,Adrien Saddier,0.0102,0.0769,0.0667
 2025-03-21 08:36:07.241108,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,North Texas,0.0102,0.0769,0.0667
 2025-03-21 10:35:40.826469,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Maurice Horne,0.010099999999999998,0.5556,0.5455
-2025-03-21 03:44:46.569008,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / K. Van Wyk - 2nd Round 3-Balls,Ricky Castillo,-0.010099999999999998,0.4444,0.4545
-2025-03-21 08:36:07.193737,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.010099999999999998,0.5455,0.5556
 2025-03-21 05:32:56.408755,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,-0.010099999999999998,0.6774,0.6875
+2025-03-21 08:36:07.193737,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.010099999999999998,0.5455,0.5556
 2025-03-21 08:36:07.185200,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,-0.010099999999999998,0.0952,0.1053
+2025-03-21 03:44:46.569008,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / K. Van Wyk - 2nd Round 3-Balls,Ricky Castillo,-0.010099999999999998,0.4444,0.4545
 2025-03-21 08:36:07.189466,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Creighton,-0.0102,0.0667,0.0769
 2025-03-21 12:54:39.294850,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Cody Vidal,-0.010299999999999976,0.2564,0.2667
 2025-03-21 11:27:11.565872,Round Match-Ups - 2nd Round Match-Ups - L. Glover vs D. Ghim - 2nd Round Match-Ups,Doug Ghim,-0.010599999999999998,0.4545,0.4651
 2025-03-21 06:42:38.851187,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Hits,Over 131.5,-0.010699999999999932,0.5348,0.5455
-2025-03-21 03:44:46.382739,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,K H Lee,-0.010699999999999987,0.3226,0.3333
 2025-03-21 04:35:32.302979,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - T. Detry / B. Horschel / T. Fleetwood - 2nd Round 3-Balls,Billy Horschel,-0.010699999999999987,0.3226,0.3333
+2025-03-21 03:44:46.382739,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,K H Lee,-0.010699999999999987,0.3226,0.3333
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Marcel Schneider,-0.010700000000000001,0.0057,0.0164
 2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Michigan State,-0.010700000000000043,0.6667,0.6774
-2025-03-21 09:31:39.479895,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,-0.01100000000000001,0.5238,0.5348
+2025-03-21 14:33:28.340120,BKFC Fight Night: Philly - Travis Thompson vs Aj Craig - To Win the Bout,Aj Craig,-0.010800000000000004,0.2273,0.2381
 2025-03-21 11:27:11.561522,Round Match-Ups - 2nd Round Match-Ups - V. Hovland vs S. Theegala - 2nd Round Match-Ups,Viktor Hovland,-0.01100000000000001,0.5238,0.5348
-2025-03-21 04:35:32.163414,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,Aaron Baddeley,-0.011099999999999999,0.2667,0.2778
+2025-03-21 09:31:39.479895,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,-0.01100000000000001,0.5238,0.5348
 2025-03-21 10:35:40.830683,BKFC Fight Night: Philly - Nick Burgos vs Noah Norman - To Win the Bout,Noah Norman,-0.011099999999999999,0.7222,0.7333
+2025-03-21 04:35:32.163414,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K.H. Lee / A. Baddeley / A. Smalley - 2nd Round 3-Balls,Aaron Baddeley,-0.011099999999999999,0.2667,0.2778
 2025-03-21 12:54:39.308589,BKFC Fight Night: Philly - Elijah Harris vs Brandon Honsvick - To Win the Bout,Brandon Honsvick,-0.011099999999999999,0.4651,0.4762
-2025-03-21 02:03:39.879770,BNXT League - BNXT League 2024/25 - Outright,Kangoeres Mechelen,-0.011199999999999995,0.0476,0.0588
 2025-03-21 10:35:40.813861,BKFC Fight Night: Philly - Elijah Harris vs Brandon Honsvick - To Win the Bout,Brandon Honsvick,-0.0116,0.4762,0.4878
 2025-03-21 10:35:40.826469,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,-0.011600000000000055,0.5122,0.5238
 2025-03-21 13:36:01.508870,BKFC Fight Night: Philly - Travis Thompson vs Aj Craig - To Win the Bout,Aj Craig,-0.011899999999999994,0.2381,0.25
+2025-03-21 11:27:09.920747,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Under 104.5,-0.012199999999999989,0.4878,0.5
 2025-03-21 06:42:38.235448,Regular Season Wins - Kansas City Royals Wins - 2025 Regular Season - Regular Season Wins,Under 82.5,-0.012199999999999989,0.4878,0.5
 2025-03-21 06:42:39.145730,Player Props - Pittsburgh Pirates - 2025 Regular Season Player Props - Oneil Cruz Total Home Runs,Under 22.5,-0.012199999999999989,0.5,0.5122
-2025-03-21 11:27:09.920747,Regular Season Wins - Los Angeles Dodgers Wins - 2025 Regular Season - Regular Season Wins,Under 104.5,-0.012199999999999989,0.4878,0.5
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Ewen Ferguson,-0.012199999999999999,0.0057,0.0179
-2025-03-21 02:03:39.893121,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,-0.012299999999999991,0.1053,0.1176
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Andy Sullivan,-0.0124,0.0028,0.0152
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Ivan Cantero,-0.0127,0.0025,0.0152
 2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Colorado State,-0.012799999999999978,0.2,0.2128
-2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Guido Migliozzi,-0.013,0.0066,0.0196
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Norfolk State,-0.013,0.0066,0.0196
+2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Guido Migliozzi,-0.013,0.0066,0.0196
 2025-03-21 08:36:07.172613,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.0131,0.2222,0.2353
 2025-03-21 13:36:01.460666,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Anthony Pagan,-0.0131,0.7647,0.7778
 2025-03-21 12:54:39.417544,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - K. Kisner / J. Bramlett / P. Fishburn - 2nd Round 3-Balls,Kevin Kisner,-0.01319999999999999,0.25,0.2632
-2025-03-21 02:03:39.816714,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,-0.013300000000000034,0.3571,0.3704
-2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2029,-0.013899999999999996,0.1111,0.125
-2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2028,-0.013899999999999996,0.1111,0.125
 2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2027,-0.013899999999999996,0.1111,0.125
+2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2029,-0.013899999999999996,0.1111,0.125
 2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2026,-0.013899999999999996,0.1111,0.125
+2025-03-21 13:35:59.077037,Irish Politics - United Ireland - Year of Next United Ireland Referendum,2028,-0.013899999999999996,0.1111,0.125
 2025-03-21 08:36:07.241108,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,George Mason,-0.013999999999999999,0.0769,0.0909
-2025-03-21 02:03:39.819771,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Fenerbahce,-0.014099999999999994,0.0526,0.0667
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Milano,-0.014100000000000001,0.5122,0.5263
 2025-03-21 08:36:09.503227,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Nina Hughes,-0.01419999999999999,0.3704,0.3846
-2025-03-21 02:03:39.893121,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Tennessee,-0.01469999999999999,0.2353,0.25
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Julien Guerrier,-0.0151,0.0066,0.0217
-2025-03-21 02:03:39.823530,Euroleague - Euroleague 2024/25 - To Make Final Four,Partizan,-0.015100000000000002,0.1667,0.1818
 2025-03-21 13:36:01.465568,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Cody Vidal,-0.015400000000000025,0.241,0.2564
-2025-03-21 04:35:32.272928,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - L. Griffin / N. Hojgaard / R. Fox - 2nd Round 3-Balls,Ryan Fox,-0.015400000000000025,0.3846,0.4
 2025-03-21 04:35:32.281447,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - D. Riley / M. Pavon / W. Simpson - 2nd Round 3-Balls,Davis Riley,-0.015400000000000025,0.3846,0.4
+2025-03-21 04:35:32.272928,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - L. Griffin / N. Hojgaard / R. Fox - 2nd Round 3-Balls,Ryan Fox,-0.015400000000000025,0.3846,0.4
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Florida,-0.015599999999999947,0.7143,0.7299
-2025-03-21 12:54:39.317989,BKFC Fight Night: Philly - Lex Ludlow vs Connor McKenna - To Win the Bout,Lex Ludlow,-0.015800000000000036,0.7403,0.7561
 2025-03-21 11:27:11.275109,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Dalvin Blair,-0.015800000000000036,0.7403,0.7561
-2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Brandon Robinson-Thompson,-0.0163,0.0033,0.0196
+2025-03-21 12:54:39.317989,BKFC Fight Night: Philly - Lex Ludlow vs Connor McKenna - To Win the Bout,Lex Ludlow,-0.015800000000000036,0.7403,0.7561
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Joost Luiten,-0.0163,0.0033,0.0196
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Francesco Laporta,-0.0163,0.0033,0.0196
+2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Brandon Robinson-Thompson,-0.0163,0.0033,0.0196
 2025-03-21 08:36:07.176280,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,South,-0.016699999999999993,0.25,0.2667
-2025-03-21 04:35:32.097344,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Dustin Pague,-0.017299999999999982,0.5744,0.5917
+2025-03-21 14:33:28.381378,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - L. Griffin / N. Hojgaard / R. Fox - 2nd Round 3-Balls,Nicolai Hojgaard,-0.016699999999999993,0.4,0.4167
 2025-03-21 04:35:32.088869,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Cody Vidal,-0.017299999999999982,0.2857,0.303
 2025-03-21 12:54:39.290202,BKFC Fight Night: Philly - Anthony Pagan vs Colin Reeser - To Win the Bout,Colin Reeser,-0.017299999999999982,0.2857,0.303
+2025-03-21 04:35:32.097344,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Dustin Pague,-0.017299999999999982,0.5744,0.5917
 2025-03-21 10:35:40.801272,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Brandon Conley,-0.017899999999999916,0.7647,0.7826
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Alejandro Del Rey,-0.0179,0.0099,0.0278
 2025-03-21 12:54:39.299447,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Dalvin Blair,-0.018100000000000005,0.7222,0.7403
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Partizan,-0.02079999999999993,0.5348,0.5556
 2025-03-21 07:28:57.350868,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,-0.02079999999999993,0.5348,0.5556
 2025-03-21 08:36:07.176280,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,East,-0.020799999999999985,0.3125,0.3333
 2025-03-21 13:36:01.470490,BKFC Fight Night: Philly - Dalvin Blair vs Justin Walters - To Win the Bout,Justin Walters,-0.022199999999999998,0.3226,0.3448
 2025-03-21 04:35:31.965007,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Nina Hughes,-0.02260000000000001,0.3774,0.4
 2025-03-21 10:35:41.054943,Round Match-Ups - 2nd Round Match-Ups - A. Hadwin vs S. Ryder - 2nd Round Match-Ups,Adam Hadwin,-0.022600000000000064,0.5122,0.5348
 2025-03-21 10:35:40.809669,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Andrew Angelcor,-0.022699999999999998,0.4651,0.4878
-2025-03-21 02:03:39.879770,BNXT League - BNXT League 2024/25 - Outright,Antwerp Giants,-0.023200000000000002,0.0294,0.0526
-2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Kentucky,-0.023800000000000043,0.5,0.5238
 2025-03-21 11:27:11.557227,Round Match-Ups - 2nd Round Match-Ups - J. Thomas vs S. Lowry - 2nd Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
 2025-03-21 06:42:38.855393,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total Home Runs,Over 30.5,-0.023800000000000043,0.5,0.5238
+2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Kentucky,-0.023800000000000043,0.5,0.5238
 2025-03-21 11:27:11.296464,BKFC Fight Night: Philly - Maurice Horne vs Adam De Freitas - To Win the Bout,Adam De Freitas,-0.024399999999999977,0.4878,0.5122
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Arizona,-0.02460000000000001,0.1754,0.2
 2025-03-21 11:27:11.279457,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Dustin Pague,-0.025599999999999956,0.5744,0.6
@@ -195,9 +180,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Sam Bairstow,-0.028800000000000003,0.0057,0.0345
 2025-03-21 12:54:39.304031,BKFC Fight Night: Philly - Dustin Pague vs Andrew Angelcor - To Win the Bout,Dustin Pague,-0.028900000000000037,0.5455,0.5744
 2025-03-21 08:36:09.769326,Valspar Championship - 2/3 Balls - 2nd Round 3-Balls - M. McGreevy / M. Thorbjornsen / R. Neergaard - 2nd Round 3-Balls,Rasmus Neergaard-Petersen,-0.029000000000000026,0.4255,0.4545
-2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Tennessee,-0.033299999999999996,0.5122,0.5455
 2025-03-21 06:42:38.859095,Player Props - Houston Astros - 2025 Regular Season Player Props - Christian Walker Total RBIs,Over 88.5,-0.033299999999999996,0.5122,0.5455
 2025-03-21 11:27:11.591795,Round Match-Ups - 2nd Round Match-Ups - D. Riley vs M. Pavon - 2nd Round Match-Ups,Davis Riley,-0.033299999999999996,0.5122,0.5455
+2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Tennessee,-0.033299999999999996,0.5122,0.5455
 2025-03-21 08:36:07.185200,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,-0.03330000000000001,0.0667,0.1
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Tom McKibbin,-0.03439999999999999,0.0323,0.0667
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Wenyi Ding,-0.0357,0.0028,0.0385
@@ -205,11 +190,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-21 11:27:11.270864,BKFC Fight Night: Philly - Cody Vidal vs Brandon Conley - To Win the Bout,Cody Vidal,-0.0363,0.2667,0.303
 2025-03-21 12:54:39.331827,BKFC Fight Night: Philly - Pat Carroll vs Mikey Furnier - To Win the Bout,Mikey Furnier,-0.036599999999999994,0.1739,0.2105
 2025-03-21 07:28:55.011170,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Houston,-0.03709999999999991,0.6296,0.6667
-2025-03-21 02:03:39.819771,Euroleague - Euroleague 2024/25 - Regular Season League Winner,Panathinaikos,-0.0403,0.0123,0.0526
 2025-03-21 07:28:55.002625,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Sweet Sixteen - To Reach the Sweet Sixteen,Norfolk State,-0.041,0.0066,0.0476
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Paul Casey,-0.0436,0.004,0.0476
-2025-03-21 02:03:39.823530,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,-0.04999999999999999,0.2,0.25
 2025-03-21 08:36:07.180872,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,-0.05019999999999991,0.5652,0.6154
-2025-03-21 02:03:39.879770,BNXT League - BNXT League 2024/25 - Outright,BC Oostende,-0.08330000000000004,0.75,0.8333
 2025-03-21 12:54:39.605423,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,-0.1061,0.005,0.1111
-2025-03-21 02:03:39.826755,Euroleague - Euroleague 2024/25 - To Make the Playoffs,Bayern Munich,-0.16360000000000008,0.6364,0.8

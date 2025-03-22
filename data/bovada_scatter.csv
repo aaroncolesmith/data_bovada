@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 12:50:31.150493,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,0.08099999999999996,0.9901,0.9091
 2025-03-22 10:35:01.898622,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.07789999999999997,0.3636,0.2857
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Fabrizio Zanotti,0.0754,0.0833,0.0079
+2025-03-22 13:30:50.903150,Boxing Lines - Freudis Rojas vs Maurice Lee - To Win the Bout,Maurice Lee,0.0705,0.1538,0.0833
 2025-03-22 10:35:01.898622,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,0.066,0.1429,0.0769
 2025-03-22 06:37:27.704428,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Illinois,0.06420000000000001,0.2381,0.1739
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR St. John's,0.0524,0.3509,0.2985
@@ -18,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Houston,0.048099999999999976,0.4255,0.3774
 2025-03-22 07:28:30.474852,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,0.04809999999999992,0.7917,0.7436
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Duke,0.04579999999999995,0.7826,0.7368
-2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Texas Tech,0.045499999999999985,0.5455,0.5
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Alabama,0.045499999999999985,0.5,0.4545
+2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Texas Tech,0.045499999999999985,0.5455,0.5
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Iowa State,0.044800000000000006,0.3226,0.2778
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Michigan State,0.043399999999999994,0.3333,0.2899
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Robert MacIntyre,0.042600000000000006,0.0476,0.005
@@ -28,17 +29,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Colorado State,0.037500000000000006,0.1,0.0625
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Texas Tech,0.03689999999999999,0.3226,0.2857
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Florida,0.03600000000000003,0.5238,0.4878
-2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Adrien Saddier,0.03420000000000001,0.1111,0.0769
+2025-03-22 13:30:51.093979,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J.T. Poston / M. Meissner - 3rd Round 2-Balls,J.T. Poston,0.03479999999999994,0.6,0.5652
 2025-03-22 06:37:27.666573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Big Ten,0.03420000000000001,0.1111,0.0769
+2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Adrien Saddier,0.03420000000000001,0.1111,0.0769
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,UCLA,0.033300000000000024,0.2,0.1667
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR St. John's,0.03270000000000001,0.303,0.2703
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Florida OR Houston,0.031399999999999983,0.661,0.6296
 2025-03-22 01:59:58.649614,Boxing Lines - George Kambosos Jr vs Jake Wyllie - To Win the Bout,Jake Wyllie,0.031,0.1739,0.1429
-2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Florida,0.029299999999999993,0.7436,0.7143
 2025-03-22 05:33:09.373559,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Iowa State,0.029299999999999993,0.0769,0.0476
+2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Florida,0.029299999999999993,0.7436,0.7143
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,St. John's,0.028600000000000014,0.3922,0.3636
+2025-03-22 13:30:51.089680,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - K. Mitchell / S. Straka - 3rd Round 2-Balls,Sepp Straka,0.02859999999999996,0.6364,0.6078
 2025-03-22 12:50:34.097744,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - T. Detry / T. Fleetwood - 3rd Round 2-Balls,Tommy Fleetwood,0.02859999999999996,0.6364,0.6078
+2025-03-22 13:30:51.111128,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - D. Riley / H. Hall - 3rd Round 2-Balls,Harry Hall,0.027700000000000058,0.5833,0.5556
 2025-03-22 12:50:34.081969,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Thomas / J. Spieth - 3rd Round 2-Balls,Justin Thomas,0.027700000000000058,0.5833,0.5556
+2025-03-22 13:30:51.054952,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - R. Neergaard / K. Ventura - 3rd Round 2-Balls,Rasmus Neergaard-Petersen,0.027700000000000058,0.5833,0.5556
 2025-03-22 05:33:09.373559,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Duke,0.026500000000000024,0.3774,0.3509
 2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#2 Seed,0.026100000000000012,0.2,0.1739
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Alabama,0.02560000000000001,0.3333,0.3077
@@ -49,11 +54,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 06:37:27.666573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,SEC,0.02200000000000002,0.5348,0.5128
 2025-03-22 12:50:34.220507,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 70.5,0.02180000000000004,0.6296,0.6078
 2025-03-22 01:59:56.860371,NL East - NL East 2025 - NL East Winner,Atlanta Braves,0.021699999999999997,0.4762,0.4545
+2025-03-22 13:30:51.076735,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Highsmith / B. Hossler - 3rd Round 2-Balls,Beau Hossler,0.021699999999999997,0.4762,0.4545
 2025-03-22 03:05:12.644354,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,0.0208,0.0833,0.0625
 2025-03-22 01:59:56.692759,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.0203,0.0526,0.0323
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Wisconsin,0.020299999999999985,0.2703,0.25
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Baylor,0.02020000000000001,0.1111,0.0909
 2025-03-22 03:45:29.639117,Boxing Lines - George Kambosos Jr vs Jake Wyllie - To Win the Bout,George Kambosos Jr,0.020199999999999996,0.9091,0.8889
+2025-03-22 13:30:51.029760,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - R. Fox / S. Jaeger - 3rd Round 2-Balls,Stephan Jaeger,0.01970000000000005,0.5652,0.5455
 2025-03-22 01:59:56.423960,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,New Mexico,0.019600000000000003,0.0345,0.0149
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Houston,0.019500000000000017,0.3704,0.3509
 2025-03-22 01:59:56.692759,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.0189,0.0385,0.0196
@@ -66,9 +73,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 12:50:34.263464,Round Match-Ups - 3rd Round Match Up - T. Fleetwood vs T. Kim - 3rd Round Match Up,Tommy Fleetwood,0.017299999999999982,0.5917,0.5744
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Gonzaga,0.017100000000000004,0.2703,0.2532
 2025-03-22 01:59:56.419974,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,0.016700000000000007,0.1,0.0833
-2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#3 Seed,0.016700000000000007,0.1,0.0833
-2025-03-22 03:05:12.667138,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Stanford,0.016700000000000007,0.1,0.0833
 2025-03-22 04:35:39.775024,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,0.016700000000000007,0.1,0.0833
+2025-03-22 03:05:12.667138,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Stanford,0.016700000000000007,0.1,0.0833
+2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#3 Seed,0.016700000000000007,0.1,0.0833
 2025-03-22 01:59:56.725912,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,NY Giants,0.015899999999999997,0.2381,0.2222
 2025-03-22 01:59:58.645330,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Tiara Brown,0.015700000000000006,0.1333,0.1176
 2025-03-22 06:37:27.666573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,West Coast,0.0157,0.0435,0.0278
@@ -80,21 +87,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Texas Tech,0.013899999999999968,0.2703,0.2564
 2025-03-22 06:37:27.669895,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - First Time Winner,Yes,0.01369999999999999,0.241,0.2273
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Iowa State,0.01319999999999999,0.2632,0.25
+2025-03-22 13:30:50.915549,Boxing Lines - Elijah Garcia vs Terrell Gausha - To Win the Bout,Terrell Gausha,0.0131,0.2353,0.2222
 2025-03-22 04:35:41.973669,Boxing Lines - George Kambosos Jr vs Jake Wyllie - To Win the Bout,Jake Wyllie,0.012899999999999995,0.1667,0.1538
 2025-03-22 06:37:27.704428,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Connecticut,0.012299999999999991,0.1176,0.1053
 2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,New Mexico,0.012299999999999991,0.1176,0.1053
-2025-03-22 03:05:12.640358,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Oregon,0.011199999999999995,0.0435,0.0323
 2025-03-22 01:59:58.641013,Boxing Lines - Teremoana Jnr vs James Singh - To Win the Bout,James Singh,0.011199999999999995,0.0588,0.0476
+2025-03-22 03:05:12.640358,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Oregon,0.011199999999999995,0.0435,0.0323
 2025-03-22 03:05:12.644354,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,0.011099999999999999,0.1111,0.1
 2025-03-22 06:37:27.666573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Atlantic Coast,0.011099999999999999,0.2778,0.2667
+2025-03-22 13:30:51.128322,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Bridgeman / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,0.01100000000000001,0.5348,0.5238
 2025-03-22 12:50:34.258678,Round Match-Ups - 3rd Round Match Up - L. Clanton vs T. Detry - 3rd Round Match Up,Luke Clanton,0.01100000000000001,0.5348,0.5238
 2025-03-22 12:50:34.268302,Round Match-Ups - 3rd Round Match Up - K. Yu vs M. McGreevy - 3rd Round Match Up ,Max McGreevy,0.010699999999999932,0.5455,0.5348
 2025-03-22 12:50:34.306591,Round Match-Ups - 3rd Round Match Up - V. Perez vs E. Grillo - 3rd Round Match Up ,Victor Perez,0.010699999999999932,0.5455,0.5348
 2025-03-22 05:33:09.365481,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.010499999999999982,0.2105,0.2
 2025-03-22 03:45:29.634987,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Skye Nicolson,0.010199999999999987,0.9333,0.9231
 2025-03-22 12:50:34.188002,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - D. Riley / H. Hall - 3rd Round 2-Balls,Harry Hall,0.010099999999999998,0.5556,0.5455
-2025-03-22 12:50:34.161504,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - K. Yu / T. Kim - 3rd Round 2-Balls,Kevin Yu,-0.010099999999999998,0.4444,0.4545
+2025-03-22 13:30:51.072396,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - S. Ryder / B. Cauley - 3rd Round 2-Balls,Bud Cauley,0.010099999999999998,0.5556,0.5455
 2025-03-22 05:33:09.361596,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Houston,-0.010099999999999998,0.4444,0.4545
+2025-03-22 12:50:34.161504,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - K. Yu / T. Kim - 3rd Round 2-Balls,Kevin Yu,-0.010099999999999998,0.4444,0.4545
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Auburn,-0.010099999999999998,0.4444,0.4545
 2025-03-22 05:33:09.365481,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,New Mexico,-0.010100000000000001,0.0244,0.0345
 2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#7 Seed,-0.010100000000000001,0.0244,0.0345
@@ -106,32 +116,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 05:33:09.365481,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Creighton,-0.011199999999999995,0.0476,0.0588
 2025-03-22 12:50:34.277886,Round Match-Ups - 3rd Round Match Up - K. Mitchell vs L. Glover - 3rd Round Match Up ,Keith Mitchell,-0.0116,0.4762,0.4878
 2025-03-22 12:50:34.170130,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J.T. Poston / M. Meissner - 3rd Round 2-Balls,Mac Meissner,-0.0116,0.4762,0.4878
+2025-03-22 13:30:51.128322,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Bridgeman / V. Hovland - 3rd Round 2-Balls,Jacob Bridgeman,-0.011600000000000055,0.5122,0.5238
 2025-03-22 12:50:34.258678,Round Match-Ups - 3rd Round Match Up - L. Clanton vs T. Detry - 3rd Round Match Up,Thomas Detry,-0.011600000000000055,0.5122,0.5238
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Brandon Wu,-0.0119,0.0033,0.0152
 2025-03-22 12:50:34.306591,Round Match-Ups - 3rd Round Match Up - V. Perez vs E. Grillo - 3rd Round Match Up ,Emiliano Grillo,-0.012199999999999989,0.5,0.5122
 2025-03-22 12:50:34.268302,Round Match-Ups - 3rd Round Match Up - K. Yu vs M. McGreevy - 3rd Round Match Up ,Kevin Yu,-0.012199999999999989,0.5,0.5122
 2025-03-22 12:50:34.188002,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - D. Riley / H. Hall - 3rd Round 2-Balls,Davis Riley,-0.012199999999999989,0.4878,0.5
+2025-03-22 13:30:51.072396,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - S. Ryder / B. Cauley - 3rd Round 2-Balls,Sam Ryder,-0.012199999999999989,0.4878,0.5
 2025-03-22 07:28:30.479587,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.012599999999999998,0.0152,0.0278
 2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#5 Seed,-0.012700000000000003,0.0196,0.0323
-2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Creighton,-0.012899999999999995,0.1538,0.1667
+2025-03-22 13:30:50.915549,Boxing Lines - Elijah Garcia vs Terrell Gausha - To Win the Bout,Elijah Garcia,-0.012899999999999912,0.8333,0.8462
 2025-03-22 05:33:09.353725,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.012899999999999995,0.1538,0.1667
+2025-03-22 03:45:27.494365,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Creighton,-0.012899999999999995,0.1538,0.1667
 2025-03-22 01:59:56.692759,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,-0.013900000000000023,0.875,0.8889
 2025-03-22 06:37:27.676734,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,East,-0.014000000000000012,0.2985,0.3125
 2025-03-22 05:33:09.357655,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Oregon,-0.014100000000000001,0.0385,0.0526
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Jordan Smith,-0.01440000000000001,0.0909,0.1053
-2025-03-22 05:33:09.361596,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Tennessee,-0.01469999999999999,0.2353,0.25
 2025-03-22 11:25:30.443844,College Specials - NCAA Mens Tournament Specials - Team Mascot to win 2025 NCAA Tournament,Reptile,-0.01469999999999999,0.2353,0.25
+2025-03-22 05:33:09.361596,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Tennessee,-0.01469999999999999,0.2353,0.25
 2025-03-22 07:28:32.774063,Boxing Lines - Cherneka Johnson vs Nina Hughes - To Win the Bout,Cherneka Johnson,-0.014900000000000024,0.6774,0.6923
-2025-03-22 03:45:27.482375,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Xavier,-0.0151,0.0066,0.0217
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Romain Langasque,-0.0151,0.0066,0.0217
+2025-03-22 03:45:27.482375,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Xavier,-0.0151,0.0066,0.0217
 2025-03-22 05:33:09.353725,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,-0.015300000000000001,0.0323,0.0476
 2025-03-22 06:37:27.680104,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Seed # to Win,#6 Seed,-0.015300000000000001,0.0323,0.0476
 2025-03-22 05:33:09.357655,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,-0.01539999999999997,0.6,0.6154
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Oliver Lindell,-0.0154,0.001,0.0164
 2025-03-22 06:37:27.669895,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - First Time Winner,No,-0.017300000000000093,0.823,0.8403
-2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Gavin Green,-0.0179,0.0099,0.0278
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Matthew Jordan,-0.0179,0.125,0.1429
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Jeong Weon Ko,-0.0179,0.0099,0.0278
+2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Gavin Green,-0.0179,0.0099,0.0278
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Keita Nakajima,-0.018099999999999998,0.0345,0.0526
 2025-03-22 01:59:58.645330,Boxing Lines - Skye Nicolson vs Tiara Brown - To Win the Bout,Skye Nicolson,-0.018100000000000005,0.9231,0.9412
 2025-03-22 05:33:09.369393,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,St. John's,-0.01820000000000002,0.1818,0.2
@@ -142,12 +155,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 03:45:29.639117,Boxing Lines - George Kambosos Jr vs Jake Wyllie - To Win the Bout,Jake Wyllie,-0.020100000000000007,0.1538,0.1739
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Auburn OR Houston,-0.02079999999999993,0.5348,0.5556
 2025-03-22 05:33:09.357655,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,-0.022199999999999998,0.2,0.2222
+2025-03-22 13:30:51.111128,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - D. Riley / H. Hall - 3rd Round 2-Balls,Davis Riley,-0.022699999999999998,0.4651,0.4878
 2025-03-22 12:50:34.081969,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Thomas / J. Spieth - 3rd Round 2-Balls,Jordan Spieth,-0.022699999999999998,0.4651,0.4878
+2025-03-22 13:30:51.054952,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - R. Neergaard / K. Ventura - 3rd Round 2-Balls,Kris Ventura,-0.022699999999999998,0.4651,0.4878
+2025-03-22 13:30:51.029760,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - R. Fox / S. Jaeger - 3rd Round 2-Balls,Ryan Fox,-0.023799999999999988,0.4762,0.5
 2025-03-22 07:28:30.465378,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.023799999999999988,0.3333,0.3571
-2025-03-22 01:59:56.415863,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Saint Mary's CA,-0.024299999999999995,0.0526,0.0769
 2025-03-22 06:37:29.830352,Boxing Lines - Hemi Ahio vs Aekkaphob Auraiwan - To Win the Bout,Aekkaphob Auraiwan,-0.024299999999999995,0.0526,0.0769
+2025-03-22 01:59:56.415863,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Saint Mary's CA,-0.024299999999999995,0.0526,0.0769
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Florida,-0.025499999999999967,0.4,0.4255
+2025-03-22 13:30:51.076735,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J. Highsmith / B. Hossler - 3rd Round 2-Balls,Joe Highsmith,-0.026499999999999968,0.5652,0.5917
 2025-03-22 12:50:34.097744,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - T. Detry / T. Fleetwood - 3rd Round 2-Balls,Thomas Detry,-0.026600000000000013,0.4082,0.4348
+2025-03-22 13:30:51.089680,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - K. Mitchell / S. Straka - 3rd Round 2-Balls,Keith Mitchell,-0.026600000000000013,0.4082,0.4348
 2025-03-22 01:59:58.649614,Boxing Lines - George Kambosos Jr vs Jake Wyllie - To Win the Bout,George Kambosos Jr,-0.027799999999999936,0.8889,0.9167
 2025-03-22 05:33:09.361596,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,-0.027800000000000005,0.0833,0.1111
 2025-03-22 05:33:09.361596,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,-0.0286,0.0714,0.1
@@ -161,9 +179,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 06:37:27.666573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Any Other,-0.0335,0.005,0.0385
 2025-03-22 12:50:34.327427,Singapore Classic - Singapore Classic - Winner,Callum Shinkwin,-0.037700000000000004,0.0099,0.0476
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Houston,-0.03920000000000001,0.2941,0.3333
+2025-03-22 13:30:51.093979,Valspar Championship - 2/3 Balls - 3rd Round 2-Balls - J.T. Poston / M. Meissner - 3rd Round 2-Balls,Mac Meissner,-0.04139999999999999,0.4348,0.4762
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Texas Tech,-0.044800000000000006,0.1905,0.2353
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Alabama,-0.049199999999999994,0.2105,0.2597
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Michigan State,-0.05049999999999999,0.1905,0.241
+2025-03-22 13:30:50.903150,Boxing Lines - Freudis Rojas vs Maurice Lee - To Win the Bout,Freudis Rojas,-0.056400000000000006,0.9091,0.9655
 2025-03-22 12:50:31.150493,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Randers,-0.05710000000000001,0.1429,0.2
 2025-03-22 06:37:27.676734,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Region to Win,West,-0.059299999999999964,0.274,0.3333
 2025-03-22 06:37:27.673400,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Tennessee,-0.059699999999999975,0.2,0.2597

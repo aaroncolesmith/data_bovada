@@ -1,17 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,0.12119999999999997,0.6667,0.5455
+2025-03-23 02:13:51.056379,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Houston,0.11119999999999997,0.5556,0.4444
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Bradford City,0.10390000000000002,0.2857,0.1818
 2025-03-22 21:27:38.144708,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,0.06519999999999992,0.6,0.5348
 2025-03-22 22:31:46.483316,AFC South - AFC South 2025/26 - AFC South Winner,Indianapolis Colts,0.05879999999999996,0.2941,0.2353
 2025-03-22 20:29:57.366521,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,LV Raiders,0.05449999999999999,0.4545,0.4
+2025-03-23 02:13:51.052447,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,BYU,0.04440000000000001,0.1111,0.0667
 2025-03-22 22:31:46.488005,AFC West - AFC West 2025/26 - AFC West Winner,Kansas City Chiefs,0.044399999999999995,0.6,0.5556
 2025-03-22 21:27:38.144708,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,0.04329999999999999,0.0909,0.0476
 2025-03-22 22:31:46.473903,AFC East - AFC East 2025/26 - AFC East Winner,Miami Dolphins,0.042300000000000004,0.1961,0.1538
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan,0.0407,0.1176,0.0769
 2025-03-22 22:31:46.439893,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.039600000000000024,0.4651,0.4255
 2025-03-22 23:28:35.534626,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan,0.0384,0.0769,0.0385
 2025-03-22 22:31:46.488005,AFC West - AFC West 2025/26 - AFC West Winner,Las Vegas Raiders,0.035699999999999996,0.0833,0.0476
 2025-03-22 20:29:57.050760,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,0.033299999999999996,0.5455,0.5122
+2025-03-23 02:13:51.056379,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,0.031799999999999995,0.1429,0.1111
 2025-03-22 21:27:38.144708,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.031700000000000006,0.2222,0.1905
 2025-03-22 20:29:57.357915,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Colston Loveland (MICH),0.027999999999999997,0.1818,0.1538
 2025-03-22 16:34:37.128166,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,0.027800000000000005,0.1111,0.0833
+2025-03-23 02:13:51.064244,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.02779999999999999,0.25,0.2222
 2025-03-22 20:29:57.366521,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,SF 49ers,0.0245,0.0833,0.0588
 2025-03-22 21:27:38.148754,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Arkansas,0.024399999999999998,0.0385,0.0141
 2025-03-22 17:28:53.764972,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Julian Sayin (OSU),0.024,0.0625,0.0385
@@ -20,8 +27,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 16:34:38.657810,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Kerry Carpenter Total Home Runs,Over 21.5,0.02169999999999994,0.5455,0.5238
 2025-03-22 20:29:57.361298,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.020799999999999985,0.3333,0.3125
 2025-03-22 16:34:37.478803,NFC West - NFC West 2025/26 - NFC West Winner,San Francisco 49ers,0.020699999999999996,0.4651,0.4444
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Mississippi,0.0203,0.0588,0.0385
 2025-03-22 20:29:57.082574,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Bradley,0.019800000000000005,0.0476,0.0278
-2025-03-22 14:31:25.365400,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,St. John's,0.01820000000000002,0.2,0.1818
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Port Vale,0.019099999999999992,0.0667,0.0476
 2025-03-22 15:28:58.582928,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Cal Irvine,0.0179,0.1429,0.125
 2025-03-22 22:31:46.483316,AFC South - AFC South 2025/26 - AFC South Winner,Jacksonville Jaguars,0.0174,0.25,0.2326
 2025-03-22 20:29:57.072865,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.017299999999999982,0.303,0.2857
@@ -29,27 +37,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 02:13:51.029171,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.016699999999999993,0.2667,0.25
 2025-03-22 20:29:57.042882,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,0.01539999999999997,0.6154,0.6
 2025-03-22 20:29:57.054782,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,0.015300000000000001,0.0476,0.0323
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Iowa State,0.015100000000000002,0.1818,0.1667
 2025-03-22 20:29:57.072865,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),0.014900000000000024,0.3226,0.3077
+2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.01469999999999999,0.25,0.2353
 2025-03-22 20:29:57.319496,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Seattle Seahawks,0.014099999999999998,0.0435,0.0294
 2025-03-22 20:29:57.050760,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Iowa State,0.012899999999999995,0.1667,0.1538
+2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.012899999999999995,0.1667,0.1538
 2025-03-22 22:31:46.473903,AFC East - AFC East 2025/26 - AFC East Winner,New York Jets,0.011899999999999994,0.0833,0.0714
-2025-03-22 23:28:35.538642,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.011700000000000016,0.2222,0.2105
 2025-03-22 20:29:57.050760,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.011700000000000016,0.2222,0.2105
+2025-03-22 23:28:35.538642,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.011700000000000016,0.2222,0.2105
 2025-03-22 16:34:37.369468,Winning Division - Super Bowl 2026 - Winning Division - Winning Division,AFC North,0.011300000000000004,0.2,0.1887
-2025-03-22 17:28:53.764972,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,DJ Lagway (FLA),0.011199999999999995,0.0588,0.0476
+2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,0.011200000000000002,0.0244,0.0132
 2025-03-22 23:28:35.522624,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,0.011199999999999995,0.0435,0.0323
+2025-03-22 17:28:53.764972,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,DJ Lagway (FLA),0.011199999999999995,0.0588,0.0476
+2025-03-23 02:13:51.052447,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Baylor,0.011199999999999995,0.0435,0.0323
 2025-03-22 18:36:06.901228,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Florida,0.01100000000000001,0.5348,0.5238
+2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.010700000000000001,0.0385,0.0278
 2025-03-23 02:13:51.029171,Euroleague - Euroleague 2024/25 - Outright,Anadolu Efes,0.010600000000000002,0.04,0.0294
+2025-03-23 02:13:51.056379,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,0.0102,0.0769,0.0667
 2025-03-22 15:28:59.561894,Regular Season Wins - Milwaukee Brewers Wins - 2025 Regular Season - Regular Season Wins,Over 83.5,0.010099999999999998,0.5556,0.5455
-2025-03-22 20:29:57.042882,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,BYU,-0.0102,0.0667,0.0769
+2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Gonzaga,-0.010100000000000001,0.0244,0.0345
 2025-03-22 16:34:37.506194,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Cade Klubnik (CLEM),-0.0102,0.0667,0.0769
+2025-03-22 20:29:57.042882,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,BYU,-0.0102,0.0667,0.0769
 2025-03-22 20:29:57.370075,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,SF 49ers,-0.010600000000000002,0.0217,0.0323
 2025-03-22 20:29:57.370075,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,NO Saints,-0.010700000000000001,0.0278,0.0385
-2025-03-22 21:27:38.403854,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,-0.011199999999999995,0.0476,0.0588
+2025-03-23 02:13:51.052447,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Arizona,-0.011099999999999999,0.1,0.1111
 2025-03-22 20:29:57.042882,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Baylor,-0.011199999999999995,0.0323,0.0435
+2025-03-22 21:27:38.403854,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,-0.011199999999999995,0.0476,0.0588
 2025-03-22 20:29:57.370075,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,ATL Falcons,-0.011200000000000002,0.0132,0.0244
 2025-03-22 15:28:59.561894,Regular Season Wins - Milwaukee Brewers Wins - 2025 Regular Season - Regular Season Wins,Under 83.5,-0.011600000000000055,0.5122,0.5238
-2025-03-22 14:31:25.361501,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.011600000000000055,0.5122,0.5238
 2025-03-22 22:31:46.157151,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,-0.011700000000000016,0.2105,0.2222
 2025-03-22 20:29:57.319496,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.011899999999999994,0.2381,0.25
 2025-03-22 20:29:57.050760,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,-0.011900000000000008,0.0833,0.0952
@@ -74,19 +90,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-22 16:34:37.450437,AFC North - AFC North 2025/26 - AFC North Winner,Baltimore Ravens,-0.018100000000000005,0.5652,0.5833
 2025-03-22 16:34:37.318992,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,Birmingham Stallions,-0.018799999999999983,0.3448,0.3636
 2025-03-22 16:34:37.459879,AFC West - AFC West 2025/26 - AFC West Winner,Los Angeles Chargers,-0.019000000000000017,0.2667,0.2857
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Notts County,-0.019800000000000005,0.0278,0.0476
 2025-03-22 16:34:37.478803,NFC West - NFC West 2025/26 - NFC West Winner,Seattle Seahawks,-0.02049999999999999,0.1333,0.1538
 2025-03-22 16:34:38.657810,Player Props - Detroit Tigers - 2025 Regular Season Player Props - Kerry Carpenter Total Home Runs,Under 21.5,-0.02169999999999994,0.5238,0.5455
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,-0.022199999999999998,0.2,0.2222
 2025-03-22 20:29:57.351136,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Armand Membou (MIZZ),-0.023799999999999932,0.6429,0.6667
 2025-03-22 20:29:57.370075,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,JAX Jaguars,-0.023799999999999988,0.1429,0.1667
 2025-03-22 20:29:57.366521,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,DAL Cowboys,-0.023799999999999988,0.1429,0.1667
 2025-03-22 16:34:37.455141,AFC South - AFC South 2025/26 - AFC South Winner,Houston Texans,-0.023800000000000043,0.5,0.5238
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.024299999999999995,0.0526,0.0769
 2025-03-22 20:29:57.351136,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),-0.0267,0.1333,0.16
 2025-03-22 20:29:57.357915,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Tyler Warren (PSU),-0.026700000000000057,0.8824,0.9091
 2025-03-22 22:31:46.439893,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.027700000000000058,0.5556,0.5833
 2025-03-22 20:29:57.054782,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,St. John's,-0.033300000000000024,0.1667,0.2
 2025-03-22 22:31:46.488005,AFC West - AFC West 2025/26 - AFC West Winner,Los Angeles Chargers,-0.03939999999999999,0.2273,0.2667
 2025-03-22 22:31:46.488005,AFC West - AFC West 2025/26 - AFC West Winner,Denver Broncos,-0.04329999999999998,0.1695,0.2128
+2025-03-23 02:13:51.052447,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Wisconsin,-0.0491,0.0278,0.0769
 2025-03-22 20:29:57.351136,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),-0.05130000000000001,0.3333,0.3846
 2025-03-22 23:28:35.534626,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Texas A&M,-0.0524,0.0476,0.1
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Walsall,-0.06669999999999998,0.6,0.6667
 2025-03-22 22:31:46.473903,AFC East - AFC East 2025/26 - AFC East Winner,Buffalo Bills,-0.0736,0.6667,0.7403
 2025-03-22 22:31:46.483316,AFC South - AFC South 2025/26 - AFC South Winner,Houston Texans,-0.08329999999999999,0.4167,0.5
+2025-03-23 02:13:51.056379,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Gonzaga,-0.12319999999999999,0.0435,0.1667

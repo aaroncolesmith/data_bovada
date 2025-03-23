@@ -44,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 12:51:15.680142,Valspar Championship - 2/3 Balls - Final Round 2-Balls - M. Pavon / G. Woodland - Final Round 2-Balls,Gary Woodland,0.03179999999999994,0.5556,0.5238
 2025-03-23 12:51:15.659422,Valspar Championship - 2/3 Balls - Final Round 2-Balls - H. Hall / X. Schauffele - Final Round 2-Balls,Xander Schauffele,0.030299999999999994,0.6667,0.6364
 2025-03-23 12:51:15.752864,Valspar Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / R. Castillo - Final Round 2-Balls,Viktor Hovland,0.02960000000000007,0.6296,0.6
+2025-03-23 13:31:34.057766,Valspar Championship - 2/3 Balls - Final Round 2-Balls - L. Clanton / L. List - Final Round 2-Balls,Luke Clanton,0.02859999999999996,0.6364,0.6078
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,0.028199999999999996,0.0667,0.0385
 2025-03-23 02:13:51.064244,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.02779999999999999,0.25,0.2222
 2025-03-23 12:51:15.731757,Valspar Championship - 2/3 Balls - Final Round 2-Balls - B. Horschel / C. Conners - Final Round 2-Balls,Corey Conners,0.027700000000000058,0.5833,0.5556
@@ -55,17 +56,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 06:37:12.606338,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Memphis Grizzlies,0.022199999999999998,0.1333,0.1111
 2025-03-23 05:31:47.188451,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.022199999999999998,0.2222,0.2
 2025-03-23 07:28:10.253285,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
-2025-03-23 06:37:14.971867,Round Match-Ups - Final Round Match-Ups - R. Hisatsune vs R. Castillo - Final Round Match-Ups,Ryo Hisatsune,0.02079999999999993,0.5556,0.5348
-2025-03-23 12:51:15.688602,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Gerard / C. Phillips - Final Round 2-Balls,Ryan Gerard,0.02079999999999993,0.5556,0.5348
 2025-03-23 05:31:49.471889,Round Match-Ups - Final Round Match-Ups - J. Bridgeman vs V. Hovland - Final Round Match-Ups,Viktor Hovland,0.02079999999999993,0.5556,0.5348
+2025-03-23 12:51:15.688602,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Gerard / C. Phillips - Final Round 2-Balls,Ryan Gerard,0.02079999999999993,0.5556,0.5348
 2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Tom Kim,0.02079999999999993,0.5556,0.5348
+2025-03-23 06:37:14.971867,Round Match-Ups - Final Round Match-Ups - R. Hisatsune vs R. Castillo - Final Round Match-Ups,Ryo Hisatsune,0.02079999999999993,0.5556,0.5348
 2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Mississippi,0.0203,0.0588,0.0385
 2025-03-23 12:51:15.792895,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.01970000000000005,0.5652,0.5455
 2025-03-23 06:37:12.592224,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.01970000000000005,0.5652,0.5455
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,FC Dallas,0.019099999999999995,0.0435,0.0244
+2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Port Vale,0.019099999999999992,0.0667,0.0476
 2025-03-23 09:28:46.340094,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,0.019099999999999992,0.0667,0.0476
 2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,0.019099999999999992,0.0667,0.0476
-2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Port Vale,0.019099999999999992,0.0667,0.0476
 2025-03-23 12:51:13.388335,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,0.019000000000000017,0.2857,0.2667
 2025-03-23 03:43:29.292471,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,0.018900000000000028,0.4444,0.4255
 2025-03-23 03:43:29.292471,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,0.01880000000000004,0.6552,0.6364
@@ -79,17 +80,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.01469999999999999,0.25,0.2353
 2025-03-23 06:37:12.575741,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.014600000000000002,0.2778,0.2632
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,David Duval,0.0142,0.0152,0.001
-2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,0.014100000000000001,0.0526,0.0385
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,0.014100000000000001,0.0526,0.0385
+2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,0.014100000000000001,0.0526,0.0385
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Jason Caron,0.014099999999999998,0.0385,0.0244
 2025-03-23 09:28:46.340094,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,0.013999999999999999,0.0909,0.0769
+2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,0.013899999999999996,0.125,0.1111
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR LA Lakers,0.013899999999999996,0.1739,0.16
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR LA Lakers,0.013899999999999996,0.1739,0.16
-2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,0.013899999999999996,0.125,0.1111
 2025-03-23 12:51:15.706585,Valspar Championship - 2/3 Balls - Final Round 2-Balls - K. Onishi / T. Fleetwood - Final Round 2-Balls,Tommy Fleetwood,0.013700000000000045,0.7727,0.759
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.013600000000000001,0.3077,0.2941
-2025-03-23 06:37:12.558003,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
 2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.012899999999999995,0.1667,0.1538
+2025-03-23 06:37:12.558003,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
 2025-03-23 06:37:12.729632,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Shai Gilgeous-Alexander (OKC),0.012400000000000078,0.8948,0.8824
 2025-03-23 06:37:12.587411,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Detroit Pistons,0.012100000000000001,0.0244,0.0123
 2025-03-23 06:37:12.564847,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Golden State Warriors,0.011900000000000008,0.0952,0.0833
@@ -102,9 +103,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.010700000000000001,0.0385,0.0278
 2025-03-23 03:43:32.182068,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.010699999999999932,0.5455,0.5348
 2025-03-23 02:13:51.029171,Euroleague - Euroleague 2024/25 - Outright,Anadolu Efes,0.010600000000000002,0.04,0.0294
-2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,0.0102,0.0769,0.0667
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.0102,0.0769,0.0667
 2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,0.0102,0.0769,0.0667
+2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,0.0102,0.0769,0.0667
 2025-03-23 02:13:51.056379,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,0.0102,0.0769,0.0667
 2025-03-23 12:51:15.823082,Round Match-Ups - Final Round Match-Ups - J. Thomas vs S. Lowry - Final Round Match-Ups,Justin Thomas,0.010099999999999998,0.5556,0.5455
 2025-03-23 02:13:51.048465,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Gonzaga,-0.010100000000000001,0.0244,0.0345
@@ -114,21 +115,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,LA Galaxy,-0.011099999999999999,0.1,0.1111
 2025-03-23 02:13:51.052447,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Arizona,-0.011099999999999999,0.1,0.1111
 2025-03-23 06:37:12.606338,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.011199999999999988,0.9412,0.9524
-2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,St. Louis City SC,-0.011199999999999995,0.0476,0.0588
 2025-03-23 03:43:29.283412,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.011199999999999995,0.0476,0.0588
+2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,St. Louis City SC,-0.011199999999999995,0.0476,0.0588
 2025-03-23 06:37:12.582339,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.011399999999999997,0.0164,0.0278
-2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,-0.0116,0.4762,0.4878
 2025-03-23 12:51:15.835672,Round Match-Ups - Final Round Match-Ups - J. Bridgeman vs V. Hovland - Final Round Match-Ups,Jacob Bridgeman,-0.0116,0.4762,0.4878
+2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,-0.0116,0.4762,0.4878
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Lakers,-0.0116,0.4762,0.4878
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.011699999999999999,0.0079,0.0196
-2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,-0.011899999999999994,0.1481,0.16
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Golden State Warriors,-0.011899999999999994,0.1481,0.16
+2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,-0.011899999999999994,0.1481,0.16
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,-0.011900000000000022,0.1667,0.1786
 2025-03-23 04:34:03.582507,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,-0.012100000000000001,0.0123,0.0244
-2025-03-23 12:51:15.823082,Round Match-Ups - Final Round Match-Ups - J. Thomas vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2025-03-23 03:43:32.182068,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Patrick Fishburn,-0.012199999999999989,0.5,0.5122
-2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,-0.012899999999999995,0.1538,0.1667
+2025-03-23 12:51:15.823082,Round Match-Ups - Final Round Match-Ups - J. Thomas vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2025-03-23 06:37:12.575741,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.012899999999999995,0.1538,0.1667
+2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,-0.012899999999999995,0.1538,0.1667
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR LA Clippers,-0.012899999999999995,0.1538,0.1667
 2025-03-23 05:31:47.188451,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.012899999999999995,0.1538,0.1667
 2025-03-23 06:37:12.575741,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,-0.0131,0.2899,0.303
@@ -156,15 +157,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 03:43:29.292471,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.0189,0.0196,0.0385
 2025-03-23 03:43:29.289428,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.018900000000000028,0.4255,0.4444
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Real Salt Lake,-0.019099999999999992,0.0476,0.0667
-2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Ricardo Gonzalez,-0.019700000000000002,0.002,0.0217
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Doug Barron,-0.019700000000000002,0.002,0.0217
+2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Ricardo Gonzalez,-0.019700000000000002,0.002,0.0217
 2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,Notts County,-0.019800000000000005,0.0278,0.0476
-2025-03-23 10:33:39.905665,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.0203,0.0385,0.0588
 2025-03-23 10:33:39.911676,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,-0.0203,0.0385,0.0588
+2025-03-23 10:33:39.905665,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.0203,0.0385,0.0588
 2025-03-23 04:34:05.850610,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Sahith Theegala,-0.02169999999999994,0.5238,0.5455
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Golden State Warriors,-0.021999999999999964,0.2857,0.3077
-2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,-0.022199999999999998,0.2,0.2222
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Clippers,-0.022199999999999998,0.3226,0.3448
+2025-03-23 02:13:51.060308,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,-0.022199999999999998,0.2,0.2222
 2025-03-23 12:51:15.659422,Valspar Championship - 2/3 Balls - Final Round 2-Balls - H. Hall / X. Schauffele - Final Round 2-Balls,Harry Hall,-0.02260000000000001,0.3774,0.4
 2025-03-23 12:51:15.731757,Valspar Championship - 2/3 Balls - Final Round 2-Balls - B. Horschel / C. Conners - Final Round 2-Balls,Billy Horschel,-0.022699999999999998,0.4651,0.4878
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Sporting Kansas City,-0.023200000000000002,0.0244,0.0476
@@ -174,14 +175,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 07:28:10.253285,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Patrick Fishburn,-0.023800000000000043,0.5,0.5238
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Ernie Els,-0.0242,0.0667,0.0909
 2025-03-23 03:11:15.820794,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.024299999999999995,0.0526,0.0769
-2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
-2025-03-23 05:31:49.471889,Round Match-Ups - Final Round Match-Ups - J. Bridgeman vs V. Hovland - Final Round Match-Ups,Jacob Bridgeman,-0.024399999999999977,0.4878,0.5122
 2025-03-23 12:51:15.688602,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Gerard / C. Phillips - Final Round 2-Balls,Chandler Phillips,-0.024399999999999977,0.4878,0.5122
+2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
 2025-03-23 06:37:14.971867,Round Match-Ups - Final Round Match-Ups - R. Hisatsune vs R. Castillo - Final Round Match-Ups,Ricky Castillo,-0.024399999999999977,0.4878,0.5122
+2025-03-23 05:31:49.471889,Round Match-Ups - Final Round Match-Ups - J. Bridgeman vs V. Hovland - Final Round Match-Ups,Jacob Bridgeman,-0.024399999999999977,0.4878,0.5122
 2025-03-23 12:51:15.719060,Valspar Championship - 2/3 Balls - Final Round 2-Balls - H. Norlander / L. Glover - Final Round 2-Balls,Henrik Norlander,-0.024500000000000022,0.3922,0.4167
 2025-03-23 06:37:12.558003,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.02560000000000001,0.3077,0.3333
 2025-03-23 03:43:29.280311,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.02560000000000001,0.3077,0.3333
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Retief Goosen,-0.026600000000000002,0.0057,0.0323
+2025-03-23 13:31:34.057766,Valspar Championship - 2/3 Balls - Final Round 2-Balls - L. Clanton / L. List - Final Round 2-Balls,Luke List,-0.026600000000000013,0.4082,0.4348
 2025-03-23 06:37:12.561324,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Houston Rockets,-0.02729999999999999,0.3175,0.3448
 2025-03-23 03:43:32.242730,Hoag Classic - Hoag Classic - Winner,Justin Leonard,-0.0273,0.005,0.0323
 2025-03-23 12:51:15.752864,Valspar Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / R. Castillo - Final Round 2-Balls,Ricky Castillo,-0.027700000000000002,0.4167,0.4444

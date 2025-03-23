@@ -36,7 +36,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.025999999999999968,0.3077,0.2817
 2025-03-23 15:30:12.888768,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,New Mexico,0.025300000000000003,0.1429,0.1176
 2025-03-23 18:36:53.908630,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.023799999999999988,0.1667,0.1429
-2025-03-23 07:28:10.253285,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
 2025-03-23 12:51:15.688602,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Gerard / C. Phillips - Final Round 2-Balls,Ryan Gerard,0.02079999999999993,0.5556,0.5348
 2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Tom Kim,0.02079999999999993,0.5556,0.5348
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,0.0203,0.0588,0.0385
@@ -52,10 +51,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 18:36:56.354258,Futures - The Masters 2025 - Winner,Viktor Hovland,0.0159,0.0323,0.0164
 2025-03-23 14:30:42.816571,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,South Carolina (W),0.015800000000000036,0.7561,0.7403
 2025-03-23 18:36:54.339609,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Stefon Diggs (HOU),0.015300000000000001,0.0476,0.0323
+2025-03-23 15:30:12.884706,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,BYU,0.014100000000000001,0.0526,0.0385
+2025-03-23 14:30:42.816571,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,Alabama (W),0.014100000000000001,0.0526,0.0385
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,0.014100000000000001,0.0526,0.0385
 2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,0.014100000000000001,0.0526,0.0385
-2025-03-23 14:30:42.816571,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,Alabama (W),0.014100000000000001,0.0526,0.0385
-2025-03-23 15:30:12.884706,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,BYU,0.014100000000000001,0.0526,0.0385
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.014099999999999998,0.0435,0.0294
 2025-03-23 09:28:46.340094,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,0.013999999999999999,0.0909,0.0769
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,0.013899999999999996,0.125,0.1111
@@ -68,8 +67,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.011199999999999988,0.9524,0.9412
 2025-03-23 18:36:53.908630,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,0.011099999999999999,0.1111,0.1
 2025-03-23 14:30:42.820814,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 1 Winner - Spokane Region 1 Winner,Michigan State (W),0.010700000000000001,0.0385,0.0278
-2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,0.0102,0.0769,0.0667
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.0102,0.0769,0.0667
+2025-03-23 09:28:46.346427,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,0.0102,0.0769,0.0667
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,0.0102,0.0769,0.0667
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Maryland,0.010100000000000001,0.0345,0.0244
 2025-03-23 12:51:15.823082,Round Match-Ups - Final Round Match-Ups - J. Thomas vs S. Lowry - Final Round Match-Ups,Justin Thomas,0.010099999999999998,0.5556,0.5455
@@ -77,14 +76,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 16:35:11.753664,Round Match-Ups - Final Round Match-Ups - J. Paul vs E. Grillo - Final Round Match-Ups,Jeremy Paul,-0.01100000000000001,0.5238,0.5348
 2025-03-23 09:28:46.349377,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,LA Galaxy,-0.011099999999999999,0.1,0.1111
 2025-03-23 15:30:12.884706,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Alabama,-0.011099999999999999,0.1,0.1111
-2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,St. Louis City SC,-0.011199999999999995,0.0476,0.0588
 2025-03-23 15:30:12.876605,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Mississippi,-0.011199999999999995,0.0476,0.0588
+2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,St. Louis City SC,-0.011199999999999995,0.0476,0.0588
 2025-03-23 12:51:15.835672,Round Match-Ups - Final Round Match-Ups - J. Bridgeman vs V. Hovland - Final Round Match-Ups,Jacob Bridgeman,-0.0116,0.4762,0.4878
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.011699999999999999,0.0079,0.0196
 2025-03-23 12:51:15.823082,Round Match-Ups - Final Round Match-Ups - J. Thomas vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.012199999999999989,0.4878,0.5
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.012899999999999995,0.1538,0.1667
 2025-03-23 10:33:39.917878,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.013900000000000023,0.875,0.8889
 2025-03-23 10:33:39.914762,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.014599999999999998,0.005,0.0196
+2025-03-23 19:24:58.349972,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.01469999999999999,0.2353,0.25
 2025-03-23 15:30:12.888768,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Elite Eight - To Reach the Elite Eight,Duke,-0.015199999999999991,0.7674,0.7826
 2025-03-23 12:51:15.706585,Valspar Championship - 2/3 Balls - Final Round 2-Balls - K. Onishi / T. Fleetwood - Final Round 2-Balls,Kaito Onishi,-0.015400000000000025,0.2703,0.2857
 2025-03-23 09:28:46.352982,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,-0.016600000000000004,0.0667,0.0833
@@ -102,11 +102,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 12:51:15.731757,Valspar Championship - 2/3 Balls - Final Round 2-Balls - B. Horschel / C. Conners - Final Round 2-Balls,Billy Horschel,-0.022699999999999998,0.4651,0.4878
 2025-03-23 09:28:46.343471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Sporting Kansas City,-0.023200000000000002,0.0244,0.0476
 2025-03-23 12:51:15.792895,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Patrick Fishburn,-0.023799999999999988,0.4762,0.5
-2025-03-23 07:28:10.253285,Round Match-Ups - Final Round Match-Ups - P. Fishburn vs S. Theegala - Final Round Match-Ups,Patrick Fishburn,-0.023800000000000043,0.5,0.5238
-2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
 2025-03-23 12:51:15.688602,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Gerard / C. Phillips - Final Round 2-Balls,Chandler Phillips,-0.024399999999999977,0.4878,0.5122
+2025-03-23 12:51:15.638554,Valspar Championship - 2/3 Balls - Final Round 2-Balls - T. Kim / K. Mitchell - Final Round 2-Balls,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
 2025-03-23 12:51:15.719060,Valspar Championship - 2/3 Balls - Final Round 2-Balls - H. Norlander / L. Glover - Final Round 2-Balls,Henrik Norlander,-0.024500000000000022,0.3922,0.4167
 2025-03-23 13:31:34.057766,Valspar Championship - 2/3 Balls - Final Round 2-Balls - L. Clanton / L. List - Final Round 2-Balls,Luke List,-0.026600000000000013,0.4082,0.4348
+2025-03-23 20:30:52.562541,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,-0.0267,0.0909,0.1176
 2025-03-23 12:51:15.752864,Valspar Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / R. Castillo - Final Round 2-Balls,Ricky Castillo,-0.027700000000000002,0.4167,0.4444
 2025-03-23 10:33:39.908701,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,-0.028799999999999937,0.8333,0.8621
 2025-03-23 12:51:15.766515,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs W. Zalatoris - Final Round Match-Ups,Xander Schauffele,-0.028900000000000037,0.5455,0.5744
@@ -123,8 +123,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 12:51:15.646829,Valspar Championship - 2/3 Balls - Final Round 2-Balls - B. Snedeker / D. Willett - Final Round 2-Balls,Danny Willett,-0.04760000000000003,0.4762,0.5238
 2025-03-23 10:33:39.905665,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,-0.04849999999999999,0.1333,0.1818
 2025-03-23 10:33:39.914762,League Two - England League Two 2024/25 - Top 3 Finish,Colchester United,-0.0491,0.0278,0.0769
-2025-03-23 10:33:39.908701,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.05559999999999998,0.2222,0.2778
 2025-03-23 10:33:39.905665,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.05559999999999998,0.5,0.5556
+2025-03-23 10:33:39.908701,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.05559999999999998,0.2222,0.2778
 2025-03-23 17:30:28.227199,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.05860000000000004,0.4762,0.5348
 2025-03-23 15:30:12.880643,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.06519999999999992,0.5348,0.6
 2025-03-23 15:30:12.876605,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.06669999999999998,0.6,0.6667

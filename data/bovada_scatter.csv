@@ -12,8 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 21:27:28.284586,98th Academy Awards - 2026 Oscars - Best Director - Best Director,Spike Lee (Highest 2 Lowest),0.04169999999999999,0.1667,0.125
 2025-03-24 02:06:26.914645,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.04169999999999999,0.1667,0.125
 2025-03-23 23:28:18.773223,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,0.0397,0.1111,0.0714
-2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,0.03570000000000001,0.2857,0.25
 2025-03-24 02:06:26.914645,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.03570000000000001,0.2857,0.25
+2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,0.03570000000000001,0.2857,0.25
 2025-03-24 05:33:19.940820,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Incarnate Word,0.03439999999999999,0.0667,0.0323
 2025-03-24 05:33:19.927168,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,0.033399999999999985,0.6078,0.5744
 2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.033300000000000024,0.2,0.1667
@@ -37,15 +37,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-24 05:33:19.940820,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Army,0.0156,0.0196,0.004
 2025-03-23 21:27:28.477612,Watch What Happens Live - Watch What Happens Live: Next Host After Andy Cohen - Next Host,Kathy Griffin,0.015300000000000001,0.0476,0.0323
 2025-03-24 02:06:26.898587,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.015300000000000001,0.0588,0.0435
-2025-03-23 23:28:19.469701,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Cristopher Sanchez (PHI),0.014099999999999998,0.0385,0.0244
 2025-03-24 04:36:12.897833,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,TCU (W),0.014099999999999998,0.0385,0.0244
+2025-03-23 23:28:19.469701,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Cristopher Sanchez (PHI),0.014099999999999998,0.0385,0.0244
 2025-03-24 05:33:19.842828,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.01319999999999999,0.2632,0.25
 2025-03-24 04:36:12.877459,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.012899999999999995,0.1667,0.1538
 2025-03-24 04:36:12.877459,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.012899999999999995,0.1667,0.1538
 2025-03-24 02:06:26.902550,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,0.012299999999999978,0.6552,0.6429
 2025-03-24 03:11:30.019255,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.012199999999999989,0.5,0.4878
-2025-03-24 02:06:27.617673,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.011899999999999994,0.0833,0.0714
 2025-03-24 05:33:19.825445,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Golden State Warriors,0.011899999999999994,0.16,0.1481
+2025-03-24 02:06:27.617673,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.011899999999999994,0.0833,0.0714
 2025-03-24 04:36:12.897833,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Tennessee (W),0.0118,0.0217,0.0099
 2025-03-24 03:11:29.940075,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.011700000000000016,0.2222,0.2105
 2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,0.0116,0.4878,0.4762
@@ -71,22 +71,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-24 05:33:19.818548,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.013600000000000001,0.2941,0.3077
 2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Denver Nuggets,-0.01419999999999999,0.3704,0.3846
 2025-03-24 05:33:19.847851,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.01419999999999999,0.3704,0.3846
-2025-03-23 19:24:58.349972,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.01469999999999999,0.2353,0.25
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,-0.014899999999999997,0.0476,0.0625
 2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Tennessee,-0.014899999999999997,0.0476,0.0625
-2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Clippers,-0.014900000000000024,0.3077,0.3226
 2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Memphis Grizzlies,-0.014900000000000024,0.3077,0.3226
+2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Clippers,-0.014900000000000024,0.3077,0.3226
 2025-03-23 21:27:28.293853,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,France,-0.015100000000000002,0.1667,0.1818
 2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,-0.015400000000000025,0.2703,0.2857
-2025-03-24 03:45:04.591449,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
 2025-03-23 20:30:52.193089,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,BYU,-0.015700000000000006,0.1176,0.1333
 2025-03-23 20:30:52.197039,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
+2025-03-24 03:45:04.591449,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
 2025-03-24 05:33:19.821920,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Minnesota Timberwolves,-0.01579999999999998,0.3175,0.3333
 2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,-0.015899999999999997,0.0952,0.1111
 2025-03-23 20:30:52.201027,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.016699999999999937,0.5833,0.6
 2025-03-23 20:30:52.204973,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,-0.016699999999999993,0.25,0.2667
-2025-03-24 04:36:12.881309,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,-0.016699999999999993,0.25,0.2667
 2025-03-23 22:33:13.094409,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.016699999999999993,0.25,0.2667
+2025-03-24 04:36:12.881309,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,-0.016699999999999993,0.25,0.2667
 2025-03-24 03:45:04.595342,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.017299999999999982,0.5744,0.5917
 2025-03-24 03:11:30.019255,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.017299999999999982,0.5744,0.5917
 2025-03-24 03:45:04.587577,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,-0.01759999999999995,0.6491,0.6667
@@ -99,8 +98,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-24 05:33:19.842828,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.020100000000000007,0.8261,0.8462
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.02020000000000001,0.0909,0.1111
 2025-03-24 02:06:26.990457,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.023699999999999943,0.5917,0.6154
-2025-03-24 05:33:19.940820,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Jacksonville,-0.023799999999999988,0.1429,0.1667
 2025-03-23 21:27:28.293853,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Sweden,-0.023799999999999988,0.3333,0.3571
+2025-03-24 05:33:19.940820,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Jacksonville,-0.023799999999999988,0.1429,0.1667
 2025-03-23 22:33:13.098412,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,-0.023800000000000016,0.1667,0.1905
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Richard Madden,-0.024,0.0385,0.0625
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Josh O'Connor,-0.0242,0.0667,0.0909
@@ -113,8 +112,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-24 02:06:26.902550,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Saint Mary's CA,-0.0392,0.0196,0.0588
 2025-03-24 04:36:12.877459,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.03950000000000001,0.2105,0.25
 2025-03-24 05:33:19.923170,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Houston,-0.04139999999999999,0.5238,0.5652
-2025-03-23 20:30:52.204973,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,-0.04169999999999999,0.125,0.1667
 2025-03-24 05:33:19.940820,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Queen's University,-0.04169999999999999,0.125,0.1667
+2025-03-23 20:30:52.204973,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,-0.04169999999999999,0.125,0.1667
 2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.044399999999999995,0.5556,0.6
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Theo James,-0.06670000000000004,0.3333,0.4
 2025-03-24 05:33:19.927168,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,-0.07189999999999996,0.2222,0.2941

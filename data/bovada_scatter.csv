@@ -5,20 +5,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.09620000000000001,0.25,0.1538
 2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Bertie Ahern,0.0905,0.1905,0.1
 2025-03-24 02:06:26.902550,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,0.08330000000000001,0.25,0.1667
+2025-03-24 03:45:04.595342,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.07189999999999996,0.2941,0.2222
 2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Frances Black,0.06649999999999999,0.0909,0.0244
 2025-03-23 21:27:28.284586,98th Academy Awards - 2026 Oscars - Best Director - Best Director,Spike Lee (Highest 2 Lowest),0.04169999999999999,0.1667,0.125
 2025-03-24 02:06:26.914645,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.04169999999999999,0.1667,0.125
 2025-03-23 18:36:53.928283,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Chattanooga,0.0403,0.0526,0.0123
 2025-03-23 23:28:18.773223,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,0.0397,0.1111,0.0714
 2025-03-23 17:30:28.227199,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Connecticut,0.037500000000000006,0.1,0.0625
-2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,0.03570000000000001,0.2857,0.25
 2025-03-24 02:06:26.914645,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.03570000000000001,0.2857,0.25
+2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,0.03570000000000001,0.2857,0.25
+2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.033300000000000024,0.2,0.1667
 2025-03-24 02:06:26.990457,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.033299999999999996,0.4878,0.4545
 2025-03-24 02:06:26.906502,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Kentucky,0.031799999999999995,0.1429,0.1111
 2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.031399999999999983,0.2667,0.2353
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.025999999999999968,0.3077,0.2817
 2025-03-24 03:11:29.932195,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Arizona,0.024999999999999994,0.125,0.1
 2025-03-23 18:36:53.908630,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,0.023799999999999988,0.1667,0.1429
+2025-03-24 04:36:12.897833,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Notre Dame (W),0.02310000000000001,0.1,0.0769
+2025-03-24 03:45:04.595342,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan,0.022199999999999998,0.1333,0.1111
 2025-03-24 03:45:04.737667,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Wes Streeting,0.022199999999999998,0.2222,0.2
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,0.0203,0.0588,0.0385
 2025-03-23 22:33:13.098412,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,0.020299999999999985,0.6429,0.6226
@@ -26,48 +30,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 21:27:28.293853,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Austria,0.019000000000000017,0.2857,0.2667
 2025-03-23 18:36:56.245734,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Cameron Vuong,0.016799999999999926,0.8571,0.8403
 2025-03-23 18:36:53.908630,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,0.016699999999999993,0.2667,0.25
+2025-03-24 03:45:04.587577,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Alabama,0.016699999999999993,0.2667,0.25
 2025-03-24 02:06:26.910664,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,0.016699999999999937,0.6,0.5833
 2025-03-23 18:36:56.354258,Futures - The Masters 2025 - Winner,Viktor Hovland,0.0159,0.0323,0.0164
 2025-03-23 22:33:13.102397,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,0.015700000000000006,0.1333,0.1176
 2025-03-23 21:27:28.477612,Watch What Happens Live - Watch What Happens Live: Next Host After Andy Cohen - Next Host,Kathy Griffin,0.015300000000000001,0.0476,0.0323
-2025-03-24 02:06:26.898587,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.015300000000000001,0.0588,0.0435
 2025-03-23 18:36:54.339609,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Stefon Diggs (HOU),0.015300000000000001,0.0476,0.0323
-2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.014099999999999998,0.0435,0.0294
+2025-03-24 02:06:26.898587,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.015300000000000001,0.0588,0.0435
 2025-03-23 23:28:19.469701,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Cristopher Sanchez (PHI),0.014099999999999998,0.0385,0.0244
+2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,0.014099999999999998,0.0435,0.0294
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.012899999999999995,0.1667,0.1538
 2025-03-24 02:06:26.902550,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,0.012299999999999978,0.6552,0.6429
 2025-03-24 03:11:30.019255,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.012199999999999989,0.5,0.4878
 2025-03-24 02:06:27.617673,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.011899999999999994,0.0833,0.0714
 2025-03-24 03:11:29.940075,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.011700000000000016,0.2222,0.2105
-2025-03-23 16:35:11.753664,Round Match-Ups - Final Round Match-Ups - J. Paul vs E. Grillo - Final Round Match-Ups,Emiliano Grillo,0.011600000000000055,0.5238,0.5122
 2025-03-24 03:11:29.932195,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,0.011499999999999955,0.6667,0.6552
 2025-03-23 22:33:13.094409,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Tennessee,0.011199999999999995,0.0588,0.0476
 2025-03-23 18:36:53.908630,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,0.011099999999999999,0.1111,0.1
+2025-03-24 04:36:12.897833,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),0.010699999999999987,0.3333,0.3226
 2025-03-23 22:33:14.287953,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Under 165.5,0.010699999999999932,0.5455,0.5348
 2025-03-23 20:30:52.201027,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Michigan State,0.010499999999999982,0.2105,0.2
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Maryland,0.010100000000000001,0.0345,0.0244
 2025-03-23 23:28:18.856804,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.010099999999999998,0.4545,0.4444
 2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Maryland,-0.010100000000000001,0.0244,0.0345
-2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Rege-Jean Page,-0.0102,0.0667,0.0769
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Paul Mescal,-0.0102,0.0667,0.0769
+2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Rege-Jean Page,-0.0102,0.0667,0.0769
 2025-03-23 22:33:14.287953,Player Props - Arizona Diamondbacks - 2025 Regular Season Player Props - Brandon Pfaadt Total Strikeouts,Over 165.5,-0.01100000000000001,0.5238,0.5348
-2025-03-23 16:35:11.753664,Round Match-Ups - Final Round Match-Ups - J. Paul vs E. Grillo - Final Round Match-Ups,Jeremy Paul,-0.01100000000000001,0.5238,0.5348
-2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,-0.011199999999999995,0.0476,0.0588
 2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Iowa State,-0.011199999999999995,0.0323,0.0435
-2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.012899999999999995,0.1538,0.1667
+2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,-0.011199999999999995,0.0476,0.0588
 2025-03-23 18:36:53.892147,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.012899999999999995,0.1538,0.1667
+2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.012899999999999995,0.1538,0.1667
 2025-03-23 21:27:28.998755,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts,-0.0133,0.0455,0.0588
 2025-03-23 19:24:58.349972,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.01469999999999999,0.2353,0.25
 2025-03-23 20:30:52.189124,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Tennessee,-0.014899999999999997,0.0476,0.0625
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,-0.014899999999999997,0.0476,0.0625
 2025-03-23 21:27:28.293853,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,France,-0.015100000000000002,0.1667,0.1818
-2025-03-23 20:30:52.197039,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
+2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,-0.015400000000000025,0.2703,0.2857
 2025-03-23 20:30:52.193089,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,BYU,-0.015700000000000006,0.1176,0.1333
+2025-03-23 20:30:52.197039,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
+2025-03-24 03:45:04.591449,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Purdue,-0.015700000000000006,0.1176,0.1333
+2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Arkansas,-0.015899999999999997,0.0952,0.1111
 2025-03-23 20:30:52.201027,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.016699999999999937,0.5833,0.6
 2025-03-23 20:30:52.204973,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Texas Tech,-0.016699999999999993,0.25,0.2667
 2025-03-23 22:33:13.094409,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.016699999999999993,0.25,0.2667
 2025-03-23 18:36:56.245734,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Jordan Flynn,-0.01680000000000001,0.2105,0.2273
+2025-03-24 03:45:04.595342,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Auburn,-0.017299999999999982,0.5744,0.5917
 2025-03-24 03:11:30.019255,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.017299999999999982,0.5744,0.5917
+2025-03-24 03:45:04.587577,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Duke,-0.01759999999999995,0.6491,0.6667
 2025-03-23 21:27:28.998755,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Patrick Mahomes (KC),-0.01759999999999999,0.1,0.1176
 2025-03-23 22:33:13.224785,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Fergus Finlay,-0.0179,0.125,0.1429
 2025-03-23 20:30:52.197039,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Houston,-0.018100000000000005,0.5652,0.5833
@@ -80,9 +89,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Josh O'Connor,-0.0242,0.0667,0.0909
 2025-03-23 20:30:52.562541,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,-0.0267,0.0909,0.1176
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Harris Dickinson,-0.03420000000000001,0.0769,0.1111
+2025-03-24 03:45:04.595342,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region WInner,Mississippi,-0.036199999999999996,0.1176,0.1538
 2025-03-23 23:28:18.773223,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region WInner,Illinois,-0.0384,0.0385,0.0769
 2025-03-24 02:06:26.902550,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region WInner,Saint Mary's CA,-0.0392,0.0196,0.0588
 2025-03-23 20:30:52.204973,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Maryland,-0.04169999999999999,0.125,0.1667
+2025-03-24 03:45:04.599226,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.044399999999999995,0.5556,0.6
 2025-03-23 17:30:28.227199,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region WInner,Florida,-0.05860000000000004,0.4762,0.5348
 2025-03-23 21:27:28.377070,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Theo James,-0.06670000000000004,0.3333,0.4
 2025-03-23 17:30:28.210995,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.08150000000000002,0.1538,0.2353

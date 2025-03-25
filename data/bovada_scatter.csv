@@ -16,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-25 13:37:44.976029,Cut Lines - Kurt Kitayama - Make Cut / Miss Cut - Kurt Kitayama,Miss,0.05740000000000001,0.4348,0.3774
 2025-03-25 13:37:44.885933,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Miss,0.05109999999999998,0.3636,0.3125
 2025-03-25 10:37:35.122275,UK Party Leaders - Next Reform Leader After Nigel Farage - Next Reform Leader,Suella Braverman,0.048600000000000004,0.1111,0.0625
+2025-03-25 15:35:06.195983,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.04849999999999999,0.1818,0.1333
 2025-03-25 13:37:44.881447,Cut Lines - Tony Finau - Make Cut / Miss Cut - Tony Finau,Make,0.04760000000000009,0.7143,0.6667
 2025-03-25 10:37:35.126620,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,James Cleverly,0.044499999999999984,0.2667,0.2222
 2025-03-25 13:37:42.520328,NCAA - CBI - CBI Tournament Winner 2025 - CBI Tournament Winner 2025,Incarnate Word,0.04440000000000001,0.1111,0.0667
@@ -28,63 +29,71 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-25 10:37:34.752517,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.0339,0.1053,0.0714
 2025-03-25 06:41:55.412677,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,0.033299999999999996,0.1333,0.1
 2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),0.03260000000000002,0.3774,0.3448
+2025-03-25 14:36:41.864461,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.0305,0.241,0.2105
 2025-03-25 09:33:17.103596,Boxing Lines - Mikaela Mayer vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.030399999999999983,0.5652,0.5348
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Golden State Warriors,0.030299999999999994,0.4651,0.4348
+2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.029600000000000015,0.4,0.3704
 2025-03-25 10:37:35.122275,UK Party Leaders - Next Reform Leader After Nigel Farage - Next Reform Leader,Richard Tice,0.027700000000000002,0.4444,0.4167
-2025-03-25 13:37:44.876917,Cut Lines - Jason Day - Make Cut / Miss Cut - Jason Day,Make,0.025600000000000067,0.6923,0.6667
 2025-03-25 13:37:44.912931,Cut Lines - Stephan Jaeger - Make Cut / Miss Cut - Stephan Jaeger,Make,0.025600000000000067,0.6923,0.6667
+2025-03-25 13:37:44.876917,Cut Lines - Jason Day - Make Cut / Miss Cut - Jason Day,Make,0.025600000000000067,0.6923,0.6667
 2025-03-25 14:36:41.868191,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Alabama,0.024800000000000016,0.2353,0.2105
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Houston Rockets,0.02410000000000001,0.3226,0.2985
 2025-03-25 13:37:42.525344,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Oklahoma State,0.023800000000000016,0.1905,0.1667
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Golden State Warriors,0.021999999999999964,0.3077,0.2857
 2025-03-25 06:41:55.222768,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.019699999999999995,0.125,0.1053
+2025-03-25 14:36:41.884124,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Florida,0.018100000000000005,0.5833,0.5652
 2025-03-25 06:41:55.207586,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.018100000000000005,0.4348,0.4167
-2025-03-25 10:37:34.312003,League One - England League One 2024/25 - Top 6 Finish,Reading,0.0179,0.1429,0.125
 2025-03-25 10:37:35.126620,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Boris Johnson,0.0179,0.1429,0.125
 2025-03-25 10:37:35.126620,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Nigel Farage,0.0179,0.1429,0.125
+2025-03-25 10:37:34.312003,League One - England League One 2024/25 - Top 6 Finish,Reading,0.0179,0.1429,0.125
 2025-03-25 06:41:55.210950,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.01679999999999998,0.2985,0.2817
 2025-03-25 13:37:44.944448,Cut Lines - Taylor Moore - Make Cut / Miss Cut - Taylor Moore,Miss,0.016699999999999993,0.4167,0.4
+2025-03-25 14:36:41.880208,Men's Basketball Tournament - 2025 NCAA Tournament - South Region Winner - South Region Winner,Auburn,0.016100000000000003,0.6078,0.5917
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Minnesota Timberwolves,0.01579999999999998,0.3333,0.3175
+2025-03-25 14:36:41.864461,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.01579999999999998,0.3333,0.3175
 2025-03-25 13:37:42.525344,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Loyola Chicago,0.015100000000000002,0.1818,0.1667
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR LA Lakers,0.014900000000000024,0.3226,0.3077
-2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Clippers,0.014900000000000024,0.3226,0.3077
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Memphis Grizzlies,0.014900000000000024,0.3226,0.3077
+2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Clippers,0.014900000000000024,0.3226,0.3077
 2025-03-25 06:41:55.227673,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.014600000000000002,0.2778,0.2632
 2025-03-25 07:31:21.043584,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Oklahoma (W),0.0145,0.0244,0.0099
 2025-03-25 10:37:35.126620,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Claire Coutinho,0.014399999999999996,0.0769,0.0625
 2025-03-25 06:41:55.203693,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,0.013999999999999999,0.0909,0.0769
-2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,0.012899999999999995,0.1667,0.1538
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Memphis Grizzlies,0.012899999999999995,0.1667,0.1538
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR LA Clippers,0.012899999999999995,0.1667,0.1538
+2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,0.012899999999999995,0.1667,0.1538
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Golden State Warriors,0.011899999999999994,0.16,0.1481
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,0.011899999999999994,0.16,0.1481
+2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Tennessee (W),0.011699999999999999,0.0196,0.0079
 2025-03-25 06:41:55.222768,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Milwaukee Bucks,0.011199999999999995,0.0588,0.0476
-2025-03-25 03:08:07.284993,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Emeka Egbuka (OSU),0.011199999999999995,0.0588,0.0476
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Lakers,0.011099999999999999,0.4762,0.4651
 2025-03-25 05:34:13.577194,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.010099999999999998,0.4545,0.4444
-2025-03-25 06:41:55.193172,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.010099999999999998,0.3125,0.3226
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Denver Nuggets,-0.010099999999999998,0.0952,0.1053
+2025-03-25 06:41:55.193172,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.010099999999999998,0.3125,0.3226
 2025-03-25 06:41:55.193172,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.0102,0.0667,0.0769
 2025-03-25 12:56:26.962156,Hero Indian Open - Hero Indian Open - Winner,Jorge Campillo,-0.010700000000000001,0.0278,0.0385
 2025-03-25 06:41:55.193172,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.011099999999999999,0.3279,0.339
+2025-03-25 14:36:41.864461,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.011199999999999995,0.0476,0.0588
 2025-03-25 06:41:55.217685,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,-0.011299999999999977,0.8148,0.8261
 2025-03-25 13:37:44.944448,Cut Lines - Taylor Moore - Make Cut / Miss Cut - Taylor Moore,Make,-0.011499999999999955,0.6552,0.6667
-2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Oklahoma City Thunder,-0.01150000000000001,0.3333,0.3448
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Oklahoma City Thunder,-0.01150000000000001,0.3333,0.3448
+2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Oklahoma City Thunder,-0.01150000000000001,0.3333,0.3448
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,-0.0116,0.4762,0.4878
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Denver Nuggets,-0.011899999999999994,0.0714,0.0833
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Denver Nuggets,-0.011899999999999994,0.0714,0.0833
 2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Oklahoma (W),-0.012100000000000001,0.0123,0.0244
-2025-03-25 10:37:34.312003,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.012299999999999978,0.6429,0.6552
 2025-03-25 06:41:55.196521,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Oklahoma City Thunder,-0.012299999999999978,0.6429,0.6552
+2025-03-25 10:37:34.312003,League One - England League One 2024/25 - Top 6 Finish,Huddersfield Town,-0.012299999999999978,0.6429,0.6552
 2025-03-25 06:41:55.193172,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.012899999999999995,0.1538,0.1667
 2025-03-25 07:31:21.043584,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Tennessee (W),-0.0138,0.0079,0.0217
+2025-03-25 14:36:41.864461,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Maryland,-0.014099999999999998,0.0244,0.0385
 2025-03-25 06:41:55.409265,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Jalen Brunson (NYK),-0.014200000000000101,0.6154,0.6296
 2025-03-25 05:34:13.577194,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Lindolfo Delgado,-0.014800000000000035,0.6078,0.6226
 2025-03-25 10:37:35.122275,UK Party Leaders - Next Reform Leader After Nigel Farage - Next Reform Leader,James McMurdock,-0.014899999999999997,0.0476,0.0625
 2025-03-25 13:37:42.525344,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,North Texas,-0.015100000000000002,0.1667,0.1818
 2025-03-25 06:41:55.416195,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.015300000000000001,0.0323,0.0476
 2025-03-25 07:31:21.043584,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),-0.015700000000000006,0.1176,0.1333
+2025-03-25 14:36:41.872389,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region Winner,Alabama,-0.016000000000000014,0.2062,0.2222
 2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),-0.01759999999999999,0.1,0.1176
 2025-03-25 10:37:34.762053,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,-0.018100000000000005,0.9231,0.9412
 2025-03-25 14:36:41.902649,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Notre Dame (W),-0.01830000000000001,0.0769,0.0952

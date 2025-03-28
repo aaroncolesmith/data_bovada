@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Michigan State,0.05020000000000002,0.4348,0.3846
 2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Houston OR Alabama,0.050100000000000006,0.2353,0.1852
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Flamengo,0.04999999999999999,0.25,0.2
-2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Florida To Beat Duke,0.048100000000000004,0.125,0.0769
 2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Duke To Beat Florida,0.048100000000000004,0.1481,0.1
+2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Florida To Beat Duke,0.048100000000000004,0.125,0.0769
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Florida vs Houston,0.04769999999999999,0.1429,0.0952
 2025-03-28 12:55:25.038852,Euroleague - Euroleague 2024/25 - To Make Final Four,Bayern Munich,0.047599999999999976,0.3333,0.2857
 2025-03-28 13:36:22.483083,College Specials - NCAA Mens Tournament Specials - Game with Most Total Points Scored,Kentucky At Tennessee,0.046599999999999975,0.303,0.2564
@@ -40,8 +40,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 13:36:22.466265,College Specials - NCAA Mens Tournament Specials - Conference to Win 2025 Men's NCAA Tournament,ACC,0.04459999999999997,0.3571,0.3125
 2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Duke OR Tennessee,0.044399999999999995,0.4444,0.4
 2025-03-28 14:34:16.546054,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Most Points in the Sweet Sixteen,Tennessee,0.043800000000000006,0.2105,0.1667
-2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Andrea Pavan,0.0436,0.0588,0.0152
 2025-03-28 05:34:44.119927,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Texas Tech,0.0436,0.0476,0.004
+2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Andrea Pavan,0.0436,0.0588,0.0152
 2025-03-28 13:36:22.476452,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2025 NCAA Tournament,Exactly 4,0.04269999999999999,0.1538,0.1111
 2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Duke To Beat Auburn,0.04240000000000001,0.1333,0.0909
 2025-03-28 13:36:22.605829,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Alabama,0.04169999999999999,0.1667,0.125
@@ -57,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 13:36:22.466265,College Specials - NCAA Mens Tournament Specials - Conference to Win 2025 Men's NCAA Tournament,SEC,0.03600000000000003,0.5238,0.4878
 2025-03-28 13:36:22.483083,College Specials - NCAA Mens Tournament Specials - Game with Most Total Points Scored,Ole Miss At Michigan State,0.03570000000000001,0.2857,0.25
 2025-03-28 12:55:25.038852,Euroleague - Euroleague 2024/25 - To Make Final Four,Barcelona,0.03570000000000001,0.2857,0.25
-2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Alabama,0.0353,0.2353,0.2
 2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Tennessee,0.0353,0.2353,0.2
+2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Alabama,0.0353,0.2353,0.2
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Ewen Ferguson,0.0344,0.0588,0.0244
 2025-03-28 16:38:08.757273,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 1 Winner - Spokane Region 1 Winner,LSU (W),0.03409999999999999,0.2667,0.2326
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Florida vs Alabama,0.0334,0.0769,0.0435
@@ -68,15 +68,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 12:55:25.038852,Euroleague - Euroleague 2024/25 - To Make Final Four,AS Monaco,0.030299999999999994,0.6667,0.6364
 2025-03-28 14:34:16.546054,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Most Points in the Sweet Sixteen,Ole Miss,0.029799999999999993,0.125,0.0952
 2025-03-28 13:36:22.761643,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,0.02960000000000007,0.6296,0.6
-2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Houston To Beat Florida,0.029299999999999993,0.0769,0.0476
 2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Houston To Beat Auburn,0.029299999999999993,0.0769,0.0476
+2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Houston To Beat Florida,0.029299999999999993,0.0769,0.0476
 2025-03-28 10:36:19.137738,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.028799999999999992,0.1538,0.125
 2025-03-28 09:33:27.433109,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,0.0282,0.0526,0.0244
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Angel Ayora,0.028000000000000004,0.0476,0.0196
 2025-03-28 08:36:39.194115,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.027999999999999997,0.1333,0.1053
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Walter Clayton (UF),0.027999999999999997,0.1818,0.1538
-2025-03-28 13:36:22.483083,College Specials - NCAA Mens Tournament Specials - Game with Most Total Points Scored,Purdue At Houston,0.0267,0.1176,0.0909
 2025-03-28 14:34:16.546054,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Most Points in the Sweet Sixteen,Houston,0.0267,0.1176,0.0909
+2025-03-28 13:36:22.483083,College Specials - NCAA Mens Tournament Specials - Game with Most Total Points Scored,Purdue At Houston,0.0267,0.1176,0.0909
 2025-03-28 13:36:22.479797,College Specials - NCAA Mens Tournament Specials - Game with Least Total Points Scored,Michigan At Auburn,0.0267,0.1176,0.0909
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Tom Vaillant,0.0262,0.0385,0.0123
 2025-03-28 14:34:16.546054,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Most Points in the Sweet Sixteen,Michigan,0.025300000000000003,0.1429,0.1176
@@ -92,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Auburn vs Alabama,0.0232,0.0667,0.0435
 2025-03-28 15:33:17.771549,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Auburn To Beat Houston,0.0232,0.0667,0.0435
 2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.02260000000000001,0.4,0.3774
-2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Michigan State,0.02239999999999999,0.1176,0.0952
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Auburn vs Houston,0.02239999999999999,0.1176,0.0952
+2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Michigan State,0.02239999999999999,0.1176,0.0952
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Palmeiras,0.022199999999999998,0.2222,0.2
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Todd Clements,0.022099999999999998,0.0385,0.0164
 2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Purdue,0.021699999999999997,0.4762,0.4545
@@ -112,9 +112,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 08:36:39.031556,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,0.01880000000000004,0.5744,0.5556
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Cal Irvine,0.018799999999999983,0.3636,0.3448
 2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Tennessee,0.01830000000000001,0.0952,0.0769
+2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.018100000000000005,0.4348,0.4167
 2025-03-28 09:33:27.592794,Copa America Futures - Copa America 2028 - Winner,Uruguay,0.0179,0.1429,0.125
-2025-03-28 13:36:22.605829,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Texas Tech,0.01759999999999999,0.1176,0.1
 2025-03-28 09:33:27.433109,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,0.01759999999999999,0.1176,0.1
+2025-03-28 13:36:22.605829,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Texas Tech,0.01759999999999999,0.1176,0.1
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Loyola Chicago,0.0174,0.25,0.2326
 2025-03-28 12:55:25.711955,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Khalil El Hadri,0.016699999999999993,0.2667,0.25
 2025-03-28 08:36:39.129372,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.016699999999999993,0.4167,0.4
@@ -123,12 +124,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 15:33:17.750021,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Florida OR Michigan State,0.015400000000000025,0.2857,0.2703
 2025-03-28 15:33:17.837743,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.015300000000000001,0.0476,0.0323
 2025-03-28 16:38:08.784471,NCAA - CBC - College Basketball Crown Tournament Winner 2025 - College Basketball Crown Tournament Winner 2025,Boise State,0.015100000000000002,0.1818,0.1667
+2025-03-28 17:31:50.092795,Futures - The Masters 2025 - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
 2025-03-28 09:33:27.588191,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Olympique Lyon (W),0.014900000000000024,0.3226,0.3077
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Mark Sears (BAMA),0.014899999999999997,0.0625,0.0476
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Marcus Kinhult,0.0145,0.0244,0.0099
 2025-03-28 13:36:22.462831,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - How many Game Winning buzzer beating shots will occur during the 2025 NCAA Men's Basketball Championship Tournament?,Under 1.5,0.01429999999999998,0.9,0.8857
 2025-03-28 05:34:44.119927,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.013999999999999999,0.0909,0.0769
 2025-03-28 09:33:27.592794,Copa America Futures - Copa America 2028 - Winner,Argentina,0.013800000000000034,0.3774,0.3636
+2025-03-28 16:38:08.718129,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region Winner,Kentucky,0.012899999999999995,0.1379,0.125
 2025-03-28 13:36:22.489872,College Specials - NCAA Mens Tournament Specials - Seed to Win 2025 NCAA Tournament,2,0.012899999999999995,0.1667,0.1538
 2025-03-28 16:38:09.239084,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.011900000000000008,0.0952,0.0833
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Andreas Halvorsen,0.011699999999999999,0.0196,0.0079
@@ -139,9 +142,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Houston,0.010899999999999993,0.1538,0.1429
 2025-03-28 14:34:16.542794,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Least Points in the Sweet Sixteen,Auburn,0.010600000000000002,0.0323,0.0217
 2025-03-28 13:36:22.605829,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Duke,0.010599999999999998,0.4651,0.4545
+2025-03-28 17:31:49.743184,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Khalil El Hadri,0.010299999999999976,0.2667,0.2564
 2025-03-28 14:34:16.546054,College Specials - NCAA Mens Tournament Specials - Which Team Will Record the Most Points in the Sweet Sixteen,Purdue,0.010100000000000001,0.0345,0.0244
-2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.010099999999999998,0.3125,0.3226
 2025-03-28 16:38:09.210078,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.010099999999999998,0.3125,0.3226
+2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.010099999999999998,0.3125,0.3226
 2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),-0.010099999999999998,0.0952,0.1053
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,LJ Cryer (HOU),-0.0102,0.0667,0.0769
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Alabama vs Michigan State,-0.0102,0.005,0.0152
@@ -157,13 +161,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 15:33:17.837743,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.012600000000000007,0.0588,0.0714
 2025-03-28 13:36:22.605829,Men's Basketball Tournament - 2025 NCAA Tournament - To Reach the Championship Game - To Reach the Championship Game,Houston,-0.012699999999999989,0.3509,0.3636
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Oliver Lindell,-0.012899999999999998,0.005,0.0179
+2025-03-28 17:31:49.743184,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Michael Magnesi,-0.0131,0.8,0.8131
 2025-03-28 14:34:15.979298,Tournament Futures - FIFA World Cup 2026 - Winner,Brazil,-0.013899999999999996,0.1111,0.125
+2025-03-28 16:38:08.718129,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region Winner,Purdue,-0.013899999999999996,0.1111,0.125
+2025-03-28 16:38:08.710199,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.013999999999999999,0.0769,0.0909
 2025-03-28 09:33:27.588191,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.013999999999999999,0.0769,0.0909
 2025-03-28 09:33:27.531835,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Deportivo Cali,-0.013999999999999999,0.0769,0.0909
 2025-03-28 16:38:08.748823,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,North Carolina (W),-0.014099999999999994,0.0526,0.0667
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Alex Fitzpatrick,-0.0142,0.001,0.0152
 2025-03-28 15:33:17.931130,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.014200000000000101,0.6154,0.6296
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Martin Couvra,-0.014400000000000001,0.002,0.0164
+2025-03-28 16:38:08.765387,NCAA DI Women - 2025 NCAA Womens Tournament - To Reach the Championship Game - To Reach the Championship Game,UCLA (W),-0.01469999999999999,0.2353,0.25
 2025-03-28 09:33:28.605734,Boxing Lines - Reece Farnhill vs Mark Dickinson - To Win the Bout,Mark Dickinson,-0.014700000000000046,0.75,0.7647
 2025-03-28 13:36:22.462831,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - How many Game Winning buzzer beating shots will occur during the 2025 NCAA Men's Basketball Championship Tournament?,Over 1.5,-0.015100000000000002,0.1667,0.1818
 2025-03-28 10:36:19.137738,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.015300000000000001,0.0323,0.0476
@@ -177,22 +185,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 14:34:16.632357,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.016699999999999993,0.25,0.2667
 2025-03-28 14:34:17.329675,Boxing Lines - Yokasta Valle vs Marlen Esparza - To Win the Bout,Yokasta Valle,-0.016700000000000048,0.7333,0.75
 2025-03-28 13:36:22.469648,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2025 Final Four,0,-0.0168,0.0217,0.0385
-2025-03-28 16:38:09.239084,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,-0.0174,0.2,0.2174
+2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Duke (W),-0.0168,0.0217,0.0385
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Chattanooga,-0.0174,0.2,0.2174
+2025-03-28 16:38:09.239084,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,-0.0174,0.2,0.2174
 2025-03-28 09:33:27.541141,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,-0.017600000000000005,0.3333,0.3509
 2025-03-28 16:38:09.363612,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Khalil El Hadri,-0.017600000000000005,0.2564,0.274
 2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.017600000000000005,0.3333,0.3509
 2025-03-28 12:55:25.038852,Euroleague - Euroleague 2024/25 - To Make Final Four,Olympiacos,-0.01760000000000006,0.8772,0.8948
 2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Notre Dame (W),-0.018099999999999998,0.0588,0.0769
-2025-03-28 13:36:22.476452,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2025 NCAA Tournament,Exactly 11,-0.018099999999999998,0.0588,0.0769
-2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Kon Knueppel (DUKE),-0.018099999999999998,0.0345,0.0526
 2025-03-28 13:36:22.489872,College Specials - NCAA Mens Tournament Specials - Seed to Win 2025 NCAA Tournament,3,-0.018099999999999998,0.0588,0.0769
+2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Kon Knueppel (DUKE),-0.018099999999999998,0.0345,0.0526
+2025-03-28 13:36:22.476452,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2025 NCAA Tournament,Exactly 11,-0.018099999999999998,0.0588,0.0769
 2025-03-28 12:55:25.711955,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Michael Magnesi,-0.018199999999999994,0.8,0.8182
 2025-03-28 16:38:08.748823,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,Duke (W),-0.01820000000000002,0.1818,0.2
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Calum Hill,-0.0186,0.001,0.0196
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Ugo Coussaud,-0.0187,0.0057,0.0244
 2025-03-28 10:36:20.740392,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 67.5,-0.01880000000000004,0.5556,0.5744
 2025-03-28 16:38:08.748823,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,Maryland (W),-0.019099999999999992,0.0476,0.0667
+2025-03-28 17:31:49.122968,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),-0.019500000000000017,0.3509,0.3704
 2025-03-28 08:36:39.187224,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.01959999999999995,0.6774,0.697
 2025-03-28 16:38:09.229328,NL East - NL East 2025 - NL East Winner,New York Mets,-0.019600000000000006,0.303,0.3226
 2025-03-28 16:38:08.761254,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 4 Winner - Spokane Region 4 Winner,Kansas State (W),-0.019699999999999995,0.1053,0.125
@@ -205,6 +215,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 15:33:17.762682,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Matchup - Exact Finals Matchup,Houston vs Michigan State,-0.022400000000000003,0.0099,0.0323
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Cruzeiro MG,-0.02310000000000001,0.0769,0.1
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Brandon Robinson-Thompson,-0.0234,0.001,0.0244
+2025-03-28 16:38:08.757273,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 1 Winner - Spokane Region 1 Winner,NC State (W),-0.023799999999999988,0.1429,0.1667
 2025-03-28 14:34:15.979298,Tournament Futures - FIFA World Cup 2026 - Winner,Spain,-0.023799999999999988,0.1429,0.1667
 2025-03-28 13:36:22.469648,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2025 Final Four,2,-0.023799999999999988,0.3333,0.3571
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Internacional,-0.024999999999999994,0.1,0.125
@@ -216,8 +227,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 12:55:25.038852,Euroleague - Euroleague 2024/25 - To Make Final Four,Partizan,-0.030699999999999998,0.0526,0.0833
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,North Texas,-0.033399999999999985,0.3175,0.3509
 2025-03-28 13:36:22.476452,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2025 NCAA Tournament,Exactly 13,-0.0347,0.0179,0.0526
-2025-03-28 11:27:20.023382,Round Match-Ups - 2nd Round Match-Ups - R. Fowler v S. Im - Requests,Rickie Fowler,-0.035999999999999976,0.4762,0.5122
 2025-03-28 11:27:20.027994,Round Match-Ups - 2nd Round Match-Ups - R. McIlroy v S. Scheffler - Requests,Rory McIlroy,-0.035999999999999976,0.4762,0.5122
+2025-03-28 11:27:20.023382,Round Match-Ups - 2nd Round Match-Ups - R. Fowler v S. Im - Requests,Rickie Fowler,-0.035999999999999976,0.4762,0.5122
 2025-03-28 16:38:08.757273,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 1 Winner - Spokane Region 1 Winner,Mississippi (W),-0.036199999999999996,0.1176,0.1538
 2025-03-28 13:36:22.476452,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2025 NCAA Tournament,Exactly 14,-0.037700000000000004,0.0099,0.0476
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Tyrese Proctor (DUKE),-0.038299999999999994,0.0526,0.0909

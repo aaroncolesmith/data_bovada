@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),0.04169999999999999,0.1667,0.125
 2025-03-28 08:36:39.036263,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.038899999999999935,0.9722,0.9333
 2025-03-28 02:03:44.029878,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.038299999999999994,0.0909,0.0526
-2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Jin Hee Im,0.037099999999999994,0.0588,0.0217
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Ina Yoon,0.037099999999999994,0.0588,0.0217
+2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Jin Hee Im,0.037099999999999994,0.0588,0.0217
 2025-03-28 09:33:27.541141,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,0.0368,0.2667,0.2299
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Sei Young Kim,0.033,0.0526,0.0196
 2025-03-28 03:44:57.385563,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.03260000000000002,0.3774,0.3448
@@ -32,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 10:36:19.137738,League One - England League One 2024/25 - To Be Relegated,Northampton Town,0.028799999999999992,0.1538,0.125
 2025-03-28 09:33:27.433109,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,0.0282,0.0526,0.0244
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Jac Caglianone,0.028000000000000004,0.0476,0.0196
-2025-03-28 08:36:39.194115,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.027999999999999997,0.1333,0.1053
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Walter Clayton (UF),0.027999999999999997,0.1818,0.1538
+2025-03-28 08:36:39.194115,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),0.027999999999999997,0.1333,0.1053
 2025-03-28 10:36:20.740392,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,0.024399999999999977,0.5122,0.4878
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Ayaka Furue,0.024299999999999995,0.0769,0.0526
 2025-03-28 09:33:27.429802,League One - England League One 2024/25 - Top Goalscorer,Charlie Kelman,0.0242,0.0909,0.0667
@@ -57,12 +57,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 09:33:27.592794,Copa America Futures - Copa America 2028 - Winner,Argentina,0.013800000000000034,0.3774,0.3636
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Pajaree Anannarukarn,0.013,0.0196,0.0066
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Lilia Vu,0.012100000000000001,0.0244,0.0123
-2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Peiyun Chien,0.0103,0.0123,0.002
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Amanda Doherty,0.0103,0.0123,0.002
+2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Peiyun Chien,0.0103,0.0123,0.002
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,LJ Cryer (HOU),-0.0102,0.0667,0.0769
 2025-03-28 02:03:44.033794,Men's Basketball Tournament - 2025 NCAA Tournament - East Region Winner - East Region Winner,Duke,-0.010700000000000043,0.6667,0.6774
-2025-03-28 02:03:44.029878,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.010899999999999993,0.1429,0.1538
 2025-03-27 23:31:04.079966,Boxing Lines - Delante Johnson vs Kendo Castaneda - To Win the Bout,Kendo Castaneda,-0.010899999999999993,0.1429,0.1538
+2025-03-28 02:03:44.029878,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.010899999999999993,0.1429,0.1538
 2025-03-28 02:03:44.168479,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,-0.011099999999999999,0.4651,0.4762
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Kumar Rocker (TEX),-0.011199999999999995,0.0476,0.0588
 2025-03-28 02:03:44.658019,Boxing Lines - Angel Ayala Lardizabal vs Masamichi Yabuki - To Win the Bout,Angel Ayala Lardizabal,-0.0116,0.4762,0.4878
@@ -71,8 +71,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Johni Broome (AUB),-0.012299999999999991,0.1053,0.1176
 2025-03-28 04:36:10.610758,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Jordan Flynn,-0.012899999999999995,0.1538,0.1667
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Jennifer Kupcho,-0.0139,0.004,0.0179
-2025-03-28 03:44:57.385563,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.013999999999999999,0.0769,0.0909
 2025-03-28 09:33:27.531835,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Deportivo Cali,-0.013999999999999999,0.0769,0.0909
+2025-03-28 03:44:57.385563,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,-0.013999999999999999,0.0769,0.0909
 2025-03-28 09:33:27.588191,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.013999999999999999,0.0769,0.0909
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Colson Montgomery (CWS),-0.014099999999999998,0.0244,0.0385
 2025-03-28 02:03:44.045542,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Texas Tech,-0.01469999999999999,0.2353,0.25
@@ -80,8 +80,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Tomoyuki Sugano,-0.015300000000000001,0.0323,0.0476
 2025-03-28 10:36:19.137738,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.015300000000000001,0.0323,0.0476
 2025-03-28 08:36:39.190767,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Donovan Mitchell (CLE),-0.015700000000000006,0.1176,0.1333
-2025-03-28 02:03:44.685716,Boxing Lines - Brian Norman Jr. vs Derrieck Cuevas - To Win the Bout,Derrieck Cuevas,-0.016600000000000004,0.1739,0.1905
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,São Paulo,-0.016600000000000004,0.0667,0.0833
+2025-03-28 02:03:44.685716,Boxing Lines - Brian Norman Jr. vs Derrieck Cuevas - To Win the Bout,Derrieck Cuevas,-0.016600000000000004,0.1739,0.1905
 2025-03-28 08:36:39.197474,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),-0.016600000000000004,0.0667,0.0833
 2025-03-28 09:33:27.588191,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,FC Barcelona (W),-0.016699999999999937,0.5833,0.6
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Megan Khang,-0.0167,0.005,0.0217
@@ -109,9 +109,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 05:34:44.135553,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Florida,-0.029299999999999993,0.7519,0.7812
 2025-03-28 04:36:10.016335,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Arkansas,-0.033300000000000024,0.1667,0.2
 2025-03-28 03:44:57.401554,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Texas Tech,-0.034100000000000005,0.0909,0.125
+2025-03-28 11:27:20.027994,Round Match-Ups - 2nd Round Match-Ups - R. McIlroy v S. Scheffler - Requests,Rory McIlroy,-0.035999999999999976,0.4762,0.5122
+2025-03-28 11:27:20.023382,Round Match-Ups - 2nd Round Match-Ups - R. Fowler v S. Im - Requests,Rickie Fowler,-0.035999999999999976,0.4762,0.5122
 2025-03-28 09:33:27.976881,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Tyrese Proctor (DUKE),-0.038299999999999994,0.0526,0.0909
-2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Christian Moore (LAA),-0.0384,0.0385,0.0769
 2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Coby Mayo (BAL),-0.0384,0.0385,0.0769
+2025-03-28 02:03:44.581370,ROY - AL ROY 2025 - American League Rookie of the Year,Christian Moore (LAA),-0.0384,0.0385,0.0769
 2025-03-28 02:03:44.045542,Men's Basketball Tournament - 2025 NCAA Tournament - West Region Winner - West Region Winner,Arkansas,-0.03860000000000001,0.0667,0.1053
 2025-03-28 04:36:10.945372,Ford Championship - Ford Championship - Winner,Jin Young Ko,-0.03949999999999999,0.004,0.0435
 2025-03-28 10:36:19.019542,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Botafogo,-0.04169999999999999,0.125,0.1667

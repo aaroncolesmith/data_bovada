@@ -4,9 +4,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-29 03:06:21.607938,League Two - England League Two 2024/25 - Winner,Walsall,0.07050000000000001,0.5833,0.5128
 2025-03-28 22:32:30.015962,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,L.A. Clippers,0.0648,0.16,0.0952
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Matthew Jordan,0.061500000000000006,0.1,0.0385
+2025-03-29 04:37:41.162246,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,0.05710000000000001,0.2,0.1429
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Joost Luiten,0.052399999999999995,0.0909,0.0385
 2025-03-28 16:38:08.748823,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,South Carolina (W),0.05080000000000007,0.8182,0.7674
 2025-03-29 03:42:47.490181,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.04760000000000009,0.7143,0.6667
+2025-03-29 04:37:40.980851,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),0.044399999999999995,0.6,0.5556
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Andrea Pavan,0.0436,0.0588,0.0152
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Kiradech Aphibarnrat,0.041,0.0476,0.0066
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Jens Dantorp,0.0397,0.0476,0.0079
@@ -27,26 +29,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Cal Irvine,0.018799999999999983,0.3636,0.3448
 2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.018100000000000005,0.4348,0.4167
 2025-03-28 16:38:08.779354,NCAA - NIT - NIT Tournament Winner 2025 - NIT Tournament Winner 2025,Loyola Chicago,0.0174,0.25,0.2326
-2025-03-28 16:38:08.784471,NCAA - CBC - College Basketball Crown Tournament Winner 2025 - College Basketball Crown Tournament Winner 2025,Boise State,0.015100000000000002,0.1818,0.1667
+2025-03-29 03:42:48.121401,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.01579999999999998,0.2597,0.2439
 2025-03-28 17:31:50.092795,Futures - The Masters 2025 - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
-2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Marcus Kinhult,0.0145,0.0244,0.0099
+2025-03-28 16:38:08.784471,NCAA - CBC - College Basketball Crown Tournament Winner 2025 - College Basketball Crown Tournament Winner 2025,Boise State,0.015100000000000002,0.1818,0.1667
 2025-03-28 22:32:30.020703,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,0.0145,0.0244,0.0099
+2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Marcus Kinhult,0.0145,0.0244,0.0099
 2025-03-28 20:32:36.904395,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,0.014200000000000101,0.6296,0.6154
-2025-03-28 20:32:37.365577,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Jordan Flynn,0.012899999999999995,0.1667,0.1538
 2025-03-28 16:38:08.718129,Men's Basketball Tournament - 2025 NCAA Tournament - Midwest Region Winner - Midwest Region Winner,Kentucky,0.012899999999999995,0.1379,0.125
+2025-03-28 20:32:37.365577,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Jordan Flynn,0.012899999999999995,0.1667,0.1538
 2025-03-28 16:38:09.239084,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.011900000000000008,0.0952,0.0833
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Andreas Halvorsen,0.011699999999999999,0.0196,0.0079
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Jack Senior,0.0114,0.0164,0.005
 2025-03-28 16:38:09.229328,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.011099999999999999,0.339,0.3279
 2025-03-29 03:06:22.592879,Boxing Lines - Angel Ayala Lardizabal vs Masamichi Yabuki - To Win the Bout,Angel Ayala Lardizabal,0.011099999999999999,0.4762,0.4651
 2025-03-28 17:31:49.743184,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Khalil El Hadri,0.010299999999999976,0.2667,0.2564
-2025-03-28 16:38:09.210078,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.010099999999999998,0.3125,0.3226
 2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.010099999999999998,0.3125,0.3226
+2025-03-28 16:38:09.210078,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.010099999999999998,0.3125,0.3226
 2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),-0.010099999999999998,0.0952,0.1053
+2025-03-29 04:37:41.162246,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.0103,0.002,0.0123
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,John Parry,-0.010300000000000002,0.0141,0.0244
 2025-03-28 19:25:53.664165,Boxing Lines - Yokasta Valle vs Marlen Esparza - To Win the Bout,Marlen Esparza,-0.010699999999999987,0.3226,0.3333
 2025-03-28 16:38:09.229328,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.011099999999999999,0.4651,0.4762
 2025-03-29 02:02:16.926215,Boxing Lines - Angel Ayala Lardizabal vs Masamichi Yabuki - To Win the Bout,Angel Ayala Lardizabal,-0.011099999999999999,0.4651,0.4762
+2025-03-29 04:37:40.986924,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.011199999999999995,0.0476,0.0588
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Nathan Kimsey,-0.0112,0.004,0.0152
 2025-03-28 16:38:09.659064,Hero Indian Open - Hero Indian Open - Winner,Fabrizio Zanotti,-0.0114,0.005,0.0164
 2025-03-28 22:32:30.020703,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,-0.012199999999999989,0.5,0.5122
@@ -66,6 +71,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 16:38:09.239084,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,-0.0174,0.2,0.2174
 2025-03-28 16:38:09.219738,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.017600000000000005,0.3333,0.3509
 2025-03-28 16:38:09.363612,Boxing Lines - Khalil El Hadri vs Michael Magnesi - To Win the Bout,Khalil El Hadri,-0.017600000000000005,0.2564,0.274
+2025-03-29 04:37:41.162246,League One - England League One 2024/25 - Top 6 Finish,Reading,-0.0179,0.125,0.1429
 2025-03-28 17:31:49.122968,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,UCLA (W),-0.0179,0.125,0.1429
 2025-03-28 16:38:08.744778,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Notre Dame (W),-0.018099999999999998,0.0588,0.0769
 2025-03-28 16:38:08.748823,NCAA DI Women - 2025 NCAA Womens Tournament - Birmingham Region 2 Winner - Birmingham Region 2 Winner,Duke (W),-0.01820000000000002,0.1818,0.2
@@ -84,6 +90,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-28 23:29:42.003256,Boxing Lines - Yokasta Valle vs Marlen Esparza - To Win the Bout,Yokasta Valle,-0.034399999999999986,0.7059,0.7403
 2025-03-28 16:38:08.757273,NCAA DI Women - 2025 NCAA Womens Tournament - Spokane Region 1 Winner - Spokane Region 1 Winner,Mississippi (W),-0.036199999999999996,0.1176,0.1538
 2025-03-28 16:38:09.224536,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.045499999999999985,0.4545,0.5
-2025-03-29 03:06:21.607938,League Two - England League Two 2024/25 - Winner,Bradford City,-0.055900000000000005,0.3077,0.3636
+2025-03-29 04:37:40.980851,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.04760000000000003,0.4762,0.5238
+2025-03-29 03:42:48.121401,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.052000000000000005,0.0909,0.1429
 2025-03-29 03:42:47.490181,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.055900000000000005,0.3077,0.3636
+2025-03-29 03:06:21.607938,League Two - England League Two 2024/25 - Winner,Bradford City,-0.055900000000000005,0.3077,0.3636
 2025-03-28 22:32:30.015962,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Golden State Warriors,-0.06820000000000001,0.1818,0.25

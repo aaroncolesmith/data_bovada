@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 02:16:03.860688,FA Cup - England FA Cup 2024/25 - Winner,Crystal Palace,0.08179999999999998,0.1818,0.1
 2025-03-30 06:38:17.274274,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.07579999999999998,0.9091,0.8333
 2025-03-30 06:38:17.255109,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.07069999999999999,0.8889,0.8182
-2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.06930000000000003,0.5238,0.4545
 2025-03-30 03:15:38.843320,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.06930000000000003,0.5238,0.4545
+2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.06930000000000003,0.5238,0.4545
 2025-03-30 06:38:18.402802,Ford Championship - Ford Championship - Winner,Charley Hull,0.06670000000000001,0.2,0.1333
 2025-03-30 06:38:17.260874,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.06669999999999998,0.6667,0.6
 2025-03-30 06:38:17.271379,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.06519999999999998,0.5,0.4348
@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.055900000000000005,0.3636,0.3077
 2025-03-30 03:15:38.838675,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.05559999999999998,0.5,0.4444
 2025-03-30 06:38:17.257979,League One - England League One 2024/25 - To Finish Bottom,Cambridge United,0.05070000000000002,0.4762,0.4255
-2025-03-30 02:16:03.924958,Championship - England Championship 2024/25 - Winner,Burnley,0.04849999999999999,0.1818,0.1333
 2025-03-30 06:38:17.271379,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,0.04849999999999999,0.1818,0.1333
+2025-03-30 02:16:03.924958,Championship - England Championship 2024/25 - Winner,Burnley,0.04849999999999999,0.1818,0.1333
 2025-03-30 06:38:17.282999,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,0.04810000000000003,0.9231,0.875
 2025-03-30 02:16:04.413444,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.0476,0.2857,0.2381
 2025-03-30 05:32:26.023837,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.047599999999999976,0.3333,0.2857
@@ -67,8 +67,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 06:38:18.402802,Ford Championship - Ford Championship - Winner,Hyo Joo Kim,0.0189,0.0385,0.0196
 2025-03-30 06:38:18.392385,Round Match-Ups - Final Round Match-Ups - T. Detry vs S. Jaeger - Requests,Stephan Jaeger,0.01880000000000004,0.5744,0.5556
 2025-03-30 05:32:26.023837,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.017099999999999997,0.0294,0.0123
-2025-03-30 04:36:13.477068,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Denver Nuggets,0.016600000000000004,0.0833,0.0667
 2025-03-30 04:36:13.477068,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Denver Nuggets,0.016600000000000004,0.0833,0.0667
+2025-03-30 04:36:13.477068,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Denver Nuggets,0.016600000000000004,0.0833,0.0667
 2025-03-30 06:38:17.255109,League One - England League One 2024/25 - To Be Relegated,Exeter City,0.015300000000000001,0.0476,0.0323
 2025-03-30 06:38:18.402802,Ford Championship - Ford Championship - Winner,Allisen Corpuz,0.014900000000000004,0.0345,0.0196
 2025-03-30 07:28:59.861216,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Georgia,0.014899999999999997,0.0625,0.0476
@@ -76,13 +76,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 06:38:18.402802,Ford Championship - Ford Championship - Winner,Yahui Zhang,0.014400000000000001,0.0164,0.002
 2025-03-30 04:36:13.477068,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Denver Nuggets,0.014399999999999996,0.0769,0.0625
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Vijay Singh,0.014099999999999998,0.0385,0.0244
-2025-03-30 04:36:13.497935,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.01319999999999999,0.2632,0.25
 2025-03-30 04:36:13.491365,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.01319999999999999,0.2632,0.25
+2025-03-30 04:36:13.497935,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.01319999999999999,0.2632,0.25
 2025-03-30 08:34:08.953299,Ford Championship - Ford Championship - Winner,Lilia Vu,0.012699999999999989,0.3636,0.3509
 2025-03-30 03:15:38.843320,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),0.012299999999999991,0.1176,0.1053
 2025-03-29 23:28:31.147583,Boxing Lines - Mikaela Mayer vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.011600000000000055,0.5238,0.5122
 2025-03-30 05:32:26.020906,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.011199999999999995,0.0588,0.0476
-2025-03-29 21:28:10.082893,Boxing Lines - Gregory Morales vs Jonathan Rojas Jardines - To Win the Bout,Gregory Morales,0.011099999999999999,0.7333,0.7222
 2025-03-30 03:15:38.888929,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.011099999999999999,0.4762,0.4651
 2025-03-30 02:16:04.959066,Boxing Lines - Mikaela Mayer vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.01100000000000001,0.5348,0.5238
 2025-03-30 02:16:04.014609,League Two - England League Two 2024/25 - Winner,Notts County,0.010700000000000001,0.0385,0.0278
@@ -93,9 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 04:36:13.480563,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.010399999999999993,0.2222,0.2326
 2025-03-30 02:16:04.959066,Boxing Lines - Mikaela Mayer vs Sandy Ryan - To Win the Bout,Mikaela Mayer,-0.010699999999999932,0.5348,0.5455
 2025-03-30 03:15:38.843320,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,LSU (W),-0.010700000000000001,0.0278,0.0385
-2025-03-30 02:16:04.413444,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.010899999999999993,0.1429,0.1538
 2025-03-30 04:36:13.491365,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.010899999999999993,0.1429,0.1538
-2025-03-29 21:28:10.082893,Boxing Lines - Gregory Morales vs Jonathan Rojas Jardines - To Win the Bout,Jonathan Rojas Jardines,-0.01150000000000001,0.3333,0.3448
+2025-03-30 02:16:04.413444,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.010899999999999993,0.1429,0.1538
 2025-03-30 04:36:13.484121,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,-0.012499999999999997,0.05,0.0625
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Charlie Wi,-0.012700000000000001,0.009,0.0217
 2025-03-30 06:38:17.255109,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,-0.012700000000000003,0.0196,0.0323
@@ -104,14 +102,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Felipe Aguilar,-0.014900000000000004,0.0196,0.0345
 2025-03-30 05:32:26.020906,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.015100000000000002,0.1667,0.1818
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Mark Hensby,-0.015400000000000002,0.009,0.0244
-2025-03-30 06:38:17.263817,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.0168,0.0028,0.0196
 2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.0168,0.0028,0.0196
+2025-03-30 06:38:17.263817,League One - England League One 2024/25 - Top 6 Finish,Barnsley,-0.0168,0.0028,0.0196
 2025-03-30 05:32:26.026708,Championship - England Championship 2024/25 - To Finish Bottom,Stoke City,-0.017099999999999997,0.0123,0.0294
 2025-03-30 06:38:17.277144,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,-0.0179,0.0099,0.0278
-2025-03-30 04:36:13.480563,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Golden State Warriors,-0.018099999999999998,0.0588,0.0769
-2025-03-30 03:15:38.888929,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.018099999999999998,0.0588,0.0769
 2025-03-30 05:32:26.020906,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.018099999999999998,0.0588,0.0769
+2025-03-30 03:15:38.888929,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Dyson Daniels (ATL),-0.018099999999999998,0.0588,0.0769
 2025-03-30 04:36:13.484121,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat LA Lakers,-0.018099999999999998,0.0588,0.0769
+2025-03-30 04:36:13.480563,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Golden State Warriors,-0.018099999999999998,0.0588,0.0769
 2025-03-30 02:16:04.014609,League Two - England League Two 2024/25 - Winner,Walsall,-0.018100000000000005,0.5652,0.5833
 2025-03-30 03:15:38.838675,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.019000000000000017,0.2667,0.2857
 2025-03-30 05:32:26.026708,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.019099999999999992,0.0476,0.0667
@@ -119,20 +117,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Cameron Percy,-0.019699999999999995,0.1053,0.125
 2025-03-30 06:38:18.402802,Ford Championship - Ford Championship - Winner,Lydia Ko,-0.019800000000000005,0.0278,0.0476
 2025-03-30 02:16:04.014609,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.0203,0.0385,0.0588
-2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Ken Tanigawa,-0.021199999999999997,0.0066,0.0278
 2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Colchester United,-0.021199999999999997,0.0066,0.0278
+2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Ken Tanigawa,-0.021199999999999997,0.0066,0.0278
 2025-03-30 02:16:04.014609,League Two - England League Two 2024/25 - Winner,Bradford City,-0.021999999999999964,0.2857,0.3077
 2025-03-30 05:32:26.020906,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.02260000000000001,0.3774,0.4
 2025-03-30 06:38:17.255109,League One - England League One 2024/25 - To Be Relegated,Mansfield Town,-0.023799999999999998,0.004,0.0278
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Ernie Els,-0.023899999999999998,0.0196,0.0435
 2025-03-30 04:36:13.480563,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs LA Lakers,-0.0242,0.0667,0.0909
 2025-03-30 06:38:18.392385,Round Match-Ups - Final Round Match-Ups - T. Detry vs S. Jaeger - Requests,Thomas Detry,-0.024399999999999977,0.4878,0.5122
-2025-03-30 05:32:26.017663,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.02560000000000001,0.3077,0.3333
 2025-03-29 22:31:52.502685,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,-0.02560000000000001,0.3077,0.3333
+2025-03-30 05:32:26.017663,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.02560000000000001,0.3077,0.3333
 2025-03-30 04:36:13.480563,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,-0.027500000000000024,0.3571,0.3846
 2025-03-30 06:38:17.280060,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.027799999999999936,0.8889,0.9167
-2025-03-30 05:32:26.032477,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.0282,0.0244,0.0526
 2025-03-30 05:32:26.032477,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.0282,0.0244,0.0526
+2025-03-30 05:32:26.032477,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.0282,0.0244,0.0526
 2025-03-30 07:29:00.092051,The Galleri Classic - The Galleri Classic - Winner ,Retief Goosen,-0.0283,0.0152,0.0435
 2025-03-30 06:38:17.271379,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.029299999999999993,0.9231,0.9524
 2025-03-30 03:15:38.888929,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),-0.02960000000000007,0.6,0.6296

@@ -11,23 +11,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 10:33:51.730351,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.02560000000000001,0.3333,0.3077
 2025-03-30 12:52:05.270624,Scores - Final Round Score - Ryan Gerard - Final Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
 2025-03-30 13:32:15.592971,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs H. English - Final Round Match-Ups,Rasmus Hojgaard,0.024399999999999977,0.5122,0.4878
-2025-03-30 14:32:15.746423,Houston Open - 2/3 Balls - Final Round 3-Balls - M. Manassero / C. Reiter / B. Griffin - Final Round 3-Balls,Ben Griffin,0.023800000000000043,0.5238,0.5
 2025-03-30 10:33:52.858649,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 66.5,0.023800000000000043,0.5238,0.5
-2025-03-30 10:33:51.730351,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,0.02310000000000001,0.1,0.0769
+2025-03-30 14:32:15.746423,Houston Open - 2/3 Balls - Final Round 3-Balls - M. Manassero / C. Reiter / B. Griffin - Final Round 3-Balls,Ben Griffin,0.023800000000000043,0.5238,0.5
 2025-03-30 12:52:03.932724,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.02310000000000001,0.1,0.0769
+2025-03-30 10:33:51.730351,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,0.02310000000000001,0.1,0.0769
 2025-03-30 11:27:07.504538,Round Match-Ups - Final Round Match-Ups - R. Fox vs R. Gerard - Final Round Match-Ups,Ryan Fox,0.022600000000000064,0.5348,0.5122
 2025-03-30 10:33:51.661718,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,0.021999999999999964,0.3077,0.2857
 2025-03-30 10:33:51.661718,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.021999999999999964,0.3077,0.2857
 2025-03-30 10:33:51.681229,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,0.02100000000000002,0.3846,0.3636
 2025-03-30 14:32:15.228233,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.019500000000000017,0.3704,0.3509
+2025-03-30 21:28:21.054631,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,0.015899999999999997,0.1111,0.0952
 2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.015700000000000006,0.1333,0.1176
+2025-03-30 20:31:59.771840,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.015100000000000002,0.1818,0.1667
 2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.014600000000000002,0.2778,0.2632
 2025-03-30 20:32:00.081701,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean Payton,0.014100000000000001,0.0526,0.0385
 2025-03-30 12:52:04.132019,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Independiente,0.013999999999999999,0.0909,0.0769
 2025-03-30 11:27:06.221353,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.013800000000000034,0.3774,0.3636
 2025-03-30 12:52:05.233172,Scores - Final Round Score - Alejandro Tosti - Final Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-03-30 11:27:06.221353,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,0.012899999999999995,0.1667,0.1538
-2025-03-30 08:34:08.953299,Ford Championship - Ford Championship - Winner,Lilia Vu,0.012699999999999989,0.3636,0.3509
 2025-03-30 10:33:52.827676,Round Match-Ups - Final Round Match-Ups - T. Detry vs S. Jaeger - Requests,Thomas Detry,0.012199999999999989,0.5,0.4878
 2025-03-30 12:52:03.936393,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.011199999999999995,0.0435,0.0323
 2025-03-30 16:36:17.181108,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,0.011199999999999995,0.0435,0.0323
@@ -36,7 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 11:27:07.456595,Round Match-Ups - Final Round Match-Ups - A. Hadwin vs M. Meissner - Final Round Match-Ups,Mac Meissner,0.01100000000000001,0.5348,0.5238
 2025-03-30 11:27:07.488575,Round Match-Ups - Final Round Match-Ups - S. Scheffler vs R. McIIroy - Final Round Match-Ups,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
 2025-03-30 20:32:00.274460,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.010599999999999998,0.4651,0.4545
-2025-03-30 08:34:08.953299,Ford Championship - Ford Championship - Winner,Charley Hull,0.010499999999999982,0.2105,0.2
+2025-03-30 21:28:21.088495,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,0.010499999999999982,0.2105,0.2
 2025-03-30 16:36:17.917191,Futures - The Masters 2025 - Winner,Min Woo Lee,0.010300000000000002,0.0244,0.0141
 2025-03-30 11:27:07.448525,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs H. English - Final Round Match-Ups,Harris English,0.010099999999999998,0.5556,0.5455
 2025-03-30 10:33:51.681229,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,-0.0102,0.0667,0.0769
@@ -48,6 +49,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 11:27:07.448525,Round Match-Ups - Final Round Match-Ups - R. Hojgaard vs H. English - Final Round Match-Ups,Rasmus Hojgaard,-0.012199999999999989,0.4878,0.5
 2025-03-30 12:52:03.936393,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.013899999999999996,0.1111,0.125
 2025-03-30 11:27:06.221353,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,-0.013999999999999999,0.0769,0.0909
+2025-03-30 20:31:59.771840,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.014600000000000002,0.2632,0.2778
 2025-03-30 18:36:19.385182,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,-0.015700000000000006,0.1176,0.1333
 2025-03-30 12:52:03.932724,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.016699999999999993,0.25,0.2667
 2025-03-30 14:32:15.746423,Houston Open - 2/3 Balls - Final Round 3-Balls - M. Manassero / C. Reiter / B. Griffin - Final Round 3-Balls,Charles Reiter,-0.0174,0.2326,0.25

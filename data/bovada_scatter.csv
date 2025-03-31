@@ -16,21 +16,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-31 03:47:06.958823,NBA Awards & League Leaders - NBA Awards 2024-25  - Rookie of the Year ,Zaccharie Risacher (ATL),0.0509,0.1176,0.0667
 2025-03-30 22:32:05.110535,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.05059999999999998,0.5744,0.5238
 2025-03-30 22:32:05.105959,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.04169999999999999,0.1667,0.125
-2025-03-31 03:47:06.948588,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Dyson Daniels (ATL),0.04139999999999999,0.4762,0.4348
 2025-03-31 02:14:43.928215,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.04139999999999999,0.4762,0.4348
+2025-03-31 03:47:06.948588,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Dyson Daniels (ATL),0.04139999999999999,0.4762,0.4348
 2025-03-31 05:33:59.295105,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,DC Defenders,0.03889999999999999,0.1818,0.1429
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Golden State Warriors,0.03560000000000002,0.2174,0.1818
 2025-03-31 02:14:43.535462,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.0353,0.2353,0.2
 2025-03-30 22:32:05.114368,NCAA DI Women - 2025 NCAA Womens Tournament - To Reach the Championship Game - To Reach the Championship Game,UCLA (W),0.034999999999999976,0.2703,0.2353
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Golden State Warriors,0.03489999999999999,0.5,0.4651
 2025-03-31 05:33:59.295105,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,Michigan Panthers,0.033399999999999985,0.1667,0.1333
-2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.033399999999999985,0.1667,0.1333
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Memphis Grizzlies,0.033300000000000024,0.2,0.1667
-2025-03-31 02:14:44.003252,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Florida,0.033299999999999996,0.4255,0.3922
 2025-03-31 03:47:06.822788,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.033299999999999996,0.1333,0.1
+2025-03-31 02:14:44.003252,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Florida,0.033299999999999996,0.4255,0.3922
+2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,0.0305,0.1905,0.16
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Golden State Warriors,0.0305,0.1905,0.16
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,0.0305,0.1905,0.16
-2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,0.0305,0.1905,0.16
 2025-03-31 05:33:59.252751,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.029600000000000015,0.4,0.3704
 2025-03-31 03:47:06.822788,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.029600000000000015,0.4,0.3704
 2025-03-31 04:35:56.297841,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR LA Lakers,0.029400000000000037,0.3279,0.2985
@@ -59,11 +58,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-30 21:28:21.054631,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,0.015899999999999997,0.1111,0.0952
 2025-03-31 04:35:56.301207,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,0.015899999999999997,0.2381,0.2222
 2025-03-31 03:47:06.952111,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Donovan Mitchell (CLE),0.015700000000000006,0.1333,0.1176
-2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Auburn,0.015700000000000006,0.1333,0.1176
 2025-03-31 03:47:06.945250,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),0.01539999999999997,0.6154,0.6
 2025-03-30 20:31:59.771840,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.015100000000000002,0.1818,0.1667
 2025-03-31 03:47:06.935261,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Russell Westbrook (DEN),0.014899999999999997,0.0625,0.0476
-2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.014600000000000002,0.2778,0.2632
 2025-03-31 02:14:43.931520,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Atlantic Division,0.014500000000000013,0.3175,0.303
 2025-03-30 20:32:00.081701,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean Payton,0.014100000000000001,0.0526,0.0385
 2025-03-31 06:43:05.850528,Boxing Lines - Richard Torrez vs Guido Vianello - To Win the Bout,Guido Vianello,0.013800000000000034,0.3774,0.3636
@@ -102,8 +99,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-31 02:14:43.535462,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,-0.02020000000000001,0.0909,0.1111
 2025-03-30 22:32:05.610399,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,-0.020699999999999996,0.4444,0.4651
 2025-03-30 22:32:05.105959,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Michigan State,-0.021300000000000003,0.0132,0.0345
-2025-03-31 03:47:06.945250,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.021699999999999997,0.4545,0.4762
 2025-03-31 04:35:56.305080,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.021699999999999997,0.4545,0.4762
+2025-03-31 03:47:06.945250,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.021699999999999997,0.4545,0.4762
 2025-03-31 03:47:06.935261,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),-0.025300000000000003,0.1176,0.1429
 2025-03-31 03:14:27.447546,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.02560000000000001,0.3077,0.3333
 2025-03-31 05:33:59.252751,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.025600000000000067,0.6667,0.6923
@@ -113,7 +110,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-31 03:47:06.938625,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.033299999999999996,0.1,0.1333
 2025-03-31 03:47:06.955476,NBA Awards & League Leaders - NBA Awards 2024-25  - Regular Season MVP ,Nikola Jokic (DEN),-0.03330000000000001,0.0667,0.1
 2025-03-31 03:47:06.948588,NBA Awards & League Leaders - NBA Awards 2024-25  - Most Improved Player,Cade Cunningham (DET),-0.034499999999999975,0.6429,0.6774
-2025-03-30 19:24:33.212559,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Tennessee,-0.0357,0.0028,0.0385
 2025-03-31 05:33:59.295105,UFL Futures - UFL Champion - UFL Championship Game Winner 2025,Birmingham Stallions,-0.03710000000000002,0.3077,0.3448
 2025-03-31 02:14:43.928215,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.037900000000000045,0.5917,0.6296
 2025-03-31 03:14:27.400681,FA Cup - England FA Cup 2024/25 - Winner,Nottingham Forest,-0.04040000000000002,0.1818,0.2222

@@ -6,10 +6,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 11:28:10.039300,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Make,0.11360000000000003,0.75,0.6364
 2025-04-01 08:39:06.592903,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.10870000000000002,0.8788,0.7701
 2025-04-01 08:39:06.551466,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.10360000000000003,0.4545,0.3509
+2025-04-01 19:26:15.452587,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.10299999999999998,0.303,0.2
 2025-04-01 08:39:06.801218,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.09830000000000005,0.5238,0.4255
 2025-04-01 08:39:06.598661,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.09620000000000001,0.25,0.1538
 2025-04-01 16:38:31.954083,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Florida To Beat Duke,0.08659999999999998,0.1818,0.0952
 2025-04-01 11:28:10.026153,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,0.08490000000000009,0.8182,0.7333
+2025-04-01 19:26:15.463937,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),0.08330000000000004,0.5833,0.5
 2025-04-01 08:39:06.810486,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.07940000000000003,0.5238,0.4444
 2025-04-01 11:28:10.091856,Cut Lines - Keith Mitchell - Make Cut / Miss Cut - Keith Mitchell,Make,0.07790000000000008,0.7143,0.6364
 2025-04-01 11:28:10.070026,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,0.07139999999999996,0.3571,0.2857
@@ -29,11 +31,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 14:35:55.999230,League Two - England League Two 2024/25 - Winner,Bradford City,0.03689999999999999,0.3226,0.2857
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jaxson Dart (MISS),0.0344,0.0588,0.0244
 2025-04-01 16:38:31.954083,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Auburn To Beat Duke,0.03420000000000001,0.1111,0.0769
+2025-04-01 19:26:15.419636,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.031799999999999995,0.1429,0.1111
+2025-04-01 19:26:15.460336,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.031700000000000006,0.2222,0.1905
 2025-04-01 16:38:31.954083,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Houston To Beat Auburn,0.030699999999999998,0.0833,0.0526
-2025-04-01 08:39:06.595792,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.030299999999999994,0.9091,0.8788
 2025-04-01 14:35:55.953640,Copa Libertadores - Group H - Winner,Club Olimpia,0.030299999999999994,0.3636,0.3333
-2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Mason Graham (NMSU),0.030199999999999998,0.0385,0.0083
+2025-04-01 08:39:06.595792,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.030299999999999994,0.9091,0.8788
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.030199999999999998,0.0385,0.0083
+2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Mason Graham (NMSU),0.030199999999999998,0.0385,0.0083
 2025-04-01 08:39:06.554316,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.029299999999999993,0.0769,0.0476
 2025-04-01 08:39:06.851093,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,0.027999999999999997,0.1818,0.1538
 2025-04-01 08:39:06.598661,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.0242,0.0909,0.0667
@@ -42,8 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),0.024,0.0323,0.0083
 2025-04-01 08:39:06.592903,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.023800000000000043,0.5238,0.5
 2025-04-01 12:58:25.085650,Tournament Match-Ups - Tournament Match-Up - T. Kim vs B. Cauley - Tournament Match-Up,Bud Cauley,0.023800000000000043,0.5238,0.5
-2025-04-01 08:39:07.554781,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.023799999999999988,0.1667,0.1429
 2025-04-01 08:39:07.642869,NCAA Football Futures - 2025 Big 12 Conference Championship - Championship Game Winner,Arizona State,0.023799999999999988,0.1667,0.1429
+2025-04-01 08:39:07.554781,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.023799999999999988,0.1667,0.1429
 2025-04-01 08:39:06.589713,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Moises Kean (Fiorentina),0.02310000000000001,0.1,0.0769
 2025-04-01 12:58:25.073511,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs S. Burns - Tournament Match-Up,J.T. Poston,0.022600000000000064,0.5348,0.5122
 2025-04-01 14:35:57.181319,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Tim Tszyu,0.022199999999999998,0.8889,0.8667
@@ -53,7 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 08:39:06.551466,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.02169999999999994,0.5455,0.5238
 2025-04-01 11:28:09.184505,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,0.020799999999999985,0.3333,0.3125
 2025-04-01 14:35:57.262858,Tournament Match-Ups - Tournament Match-Up - H. Hall vs M. Fitzpatrick - Tournament Match-Up,Harry Hall,0.02079999999999993,0.5556,0.5348
-2025-04-01 06:44:48.220076,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.02030000000000004,0.3774,0.3571
 2025-04-01 16:38:32.322752,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.019100000000000006,0.9524,0.9333
 2025-04-01 08:39:06.598661,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.019099999999999992,0.0667,0.0476
 2025-04-01 11:28:10.061199,Cut Lines - Tony Finau - Make Cut / Miss Cut - Tony Finau,Make,0.018999999999999906,0.7333,0.7143
@@ -65,11 +68,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 11:28:09.189339,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.016699999999999993,0.2667,0.25
 2025-04-01 11:28:09.160163,CBA - China CBA 2024/25 - Outright,Liaoning Flying Leopards,0.016699999999999993,0.2667,0.25
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jalon Walker (UGA),0.016100000000000003,0.0244,0.0083
-2025-04-01 08:39:07.554781,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.01539999999999997,0.6154,0.6
+2025-04-01 19:26:15.231918,45th Federal Election - Prime Minister After Next Election - Proposition,Pierre Poilievre,0.015400000000000025,0.4,0.3846
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.01539999999999997,0.6154,0.6
+2025-04-01 08:39:07.554781,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.01539999999999997,0.6154,0.6
 2025-04-01 08:39:06.851093,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Santa Fe,0.015100000000000002,0.1818,0.1667
 2025-04-01 08:39:07.554781,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.01419999999999999,0.3846,0.3704
-2025-04-01 06:44:48.220076,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs LA Lakers,0.013899999999999996,0.125,0.1111
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jalen Milroe (ALA),0.013,0.0196,0.0066
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Tyler Warren (PSU),0.013,0.0196,0.0066
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shemar Stewart (TAM),0.013,0.0196,0.0066
@@ -80,11 +83,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 11:28:09.189339,B League - Japan B-League 2024/25 - Outright,Chiba Jets,0.011099999999999999,0.1111,0.1
 2025-04-01 11:28:09.160163,CBA - China CBA 2024/25 - Outright,Beijing Ducks,0.011099999999999999,0.1111,0.1
 2025-04-01 08:39:06.855810,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Vinotinto Ecuador,0.010700000000000001,0.0385,0.0278
+2025-04-01 19:26:15.460336,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.010699999999999987,0.3333,0.3226
 2025-04-01 12:58:25.057261,Tournament Match-Ups - Tournament Match-Up - G. Woodland vs S. Stevens - Tournament Match-Up,Sam Stevens,0.010699999999999932,0.5455,0.5348
 2025-04-01 18:41:45.804966,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Filip Hrgovic,0.010500000000000065,0.8,0.7895
 2025-04-01 16:38:32.322752,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.010100000000000001,0.0345,0.0244
 2025-04-01 08:39:06.855810,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Libertad,-0.0102,0.0667,0.0769
 2025-04-01 08:39:07.852485,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Filip Hrgovic,-0.010500000000000065,0.7895,0.8
+2025-04-01 19:26:15.231918,45th Federal Election - Prime Minister After Next Election - Proposition,Mark Carney,-0.010700000000000043,0.6667,0.6774
 2025-04-01 08:39:06.855810,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,-0.010899999999999993,0.1429,0.1538
 2025-04-01 12:58:25.057261,Tournament Match-Ups - Tournament Match-Up - G. Woodland vs S. Stevens - Tournament Match-Up,Gary Woodland,-0.01100000000000001,0.5238,0.5348
 2025-04-01 09:33:35.856903,James Hardie Invitational - James Hardie Invitational - Winner,Alex Cejka,-0.011099999999999999,0.1,0.1111
@@ -92,7 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 08:39:06.589713,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),-0.011199999999999988,0.9412,0.9524
 2025-04-01 08:39:06.589713,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.011199999999999995,0.0476,0.0588
 2025-04-01 08:39:06.589713,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Ademola Lookman (Atalanta),-0.011199999999999995,0.0476,0.0588
-2025-04-01 06:44:48.223538,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat New York Knicks,-0.011199999999999995,0.0323,0.0435
+2025-04-01 19:26:15.463937,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),-0.012600000000000007,0.0588,0.0714
+2025-04-01 19:26:15.463937,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Will Campbell (LSU),-0.012600000000000007,0.0588,0.0714
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.012700000000000003,0.0196,0.0323
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jalen Milroe (ALA),-0.013,0.0066,0.0196
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Tyler Warren (PSU),-0.013,0.0066,0.0196
@@ -100,6 +106,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 08:39:06.595792,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.014100000000000001,0.0385,0.0526
 2025-04-01 11:28:10.021752,Cut Lines - Tommy Fleetwood - Make Cut / Miss Cut - Tommy Fleetwood,Make,-0.015100000000000002,0.8182,0.8333
 2025-04-01 16:38:32.331309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.01539999999999997,0.6,0.6154
+2025-04-01 19:26:15.452587,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.015599999999999947,0.7143,0.7299
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.016100000000000003,0.0083,0.0244
 2025-04-01 11:28:09.160163,CBA - China CBA 2024/25 - Outright,Zhejiang Golden Bulls,-0.016600000000000004,0.0667,0.0833
 2025-04-01 08:39:06.810486,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,-0.016699999999999993,0.25,0.2667
@@ -113,23 +120,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 08:39:06.598661,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.01849999999999996,0.9524,0.9709
 2025-04-01 08:39:06.810486,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.019000000000000017,0.2667,0.2857
 2025-04-01 12:58:25.085650,Tournament Match-Ups - Tournament Match-Up - T. Kim vs B. Cauley - Tournament Match-Up,Tom Kim,-0.01970000000000005,0.5455,0.5652
-2025-04-01 08:39:06.855810,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,-0.020100000000000007,0.2299,0.25
 2025-04-01 16:38:32.326511,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.020100000000000007,0.7299,0.75
+2025-04-01 08:39:06.855810,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,-0.020100000000000007,0.2299,0.25
 2025-04-01 11:28:10.096211,Cut Lines - J.T. Poston - Make Cut / Miss Cut - J.T. Poston,Miss,-0.02030000000000004,0.3571,0.3774
 2025-04-01 11:28:10.109524,Cut Lines - Jacob Bridgeman - Make Cut / Miss Cut - Jacob Bridgeman,Miss,-0.02030000000000004,0.3571,0.3774
+2025-04-01 19:26:15.463937,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.02049999999999999,0.1333,0.1538
 2025-04-01 12:58:25.073511,Tournament Match-Ups - Tournament Match-Up - J.T. Poston vs S. Burns - Tournament Match-Up,Sam Burns,-0.02079999999999993,0.5348,0.5556
 2025-04-01 14:35:57.262858,Tournament Match-Ups - Tournament Match-Up - H. Hall vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,-0.022600000000000064,0.5122,0.5348
 2025-04-01 08:39:06.595792,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.023799999999999988,0.1429,0.1667
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),-0.024,0.0083,0.0323
 2025-04-01 11:28:09.160163,CBA - China CBA 2024/25 - Outright,Shandong Heroes,-0.0245,0.0588,0.0833
 2025-04-01 14:35:55.953640,Copa Libertadores - Group H - Winner,Peñarol,-0.025499999999999967,0.4,0.4255
+2025-04-01 19:26:15.460336,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.0257,0.241,0.2667
 2025-04-01 14:35:57.181319,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Joey Spencer,-0.026100000000000012,0.1739,0.2
 2025-04-01 08:39:06.551466,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,-0.026499999999999968,0.6226,0.6491
-2025-04-01 06:44:48.220076,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Oklahoma City Thunder,-0.027700000000000002,0.0556,0.0833
+2025-04-01 19:26:15.118811,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,South Carolina (W),-0.02739999999999998,0.2667,0.2941
 2025-04-01 16:38:32.322752,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.027999999999999997,0.1053,0.1333
+2025-04-01 19:26:15.463937,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.027999999999999997,0.1538,0.1818
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),-0.030199999999999998,0.0083,0.0385
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Mason Graham (NMSU),-0.030199999999999998,0.0083,0.0385
 2025-04-01 11:28:10.061199,Cut Lines - Tony Finau - Make Cut / Miss Cut - Tony Finau,Miss,-0.030299999999999994,0.3333,0.3636
+2025-04-01 19:26:15.419636,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.031799999999999995,0.1111,0.1429
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Jaxson Dart (MISS),-0.0355,0.0233,0.0588
 2025-04-01 11:28:09.184505,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,-0.035699999999999954,0.7143,0.75
 2025-04-01 08:39:06.551466,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.038099999999999995,0.2,0.2381
@@ -143,6 +154,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Cameron Ward,-0.05859999999999999,0.0323,0.0909
 2025-04-01 11:28:10.100572,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Miss,-0.05960000000000004,0.3571,0.4167
 2025-04-01 11:28:10.070026,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,-0.0635,0.7143,0.7778
+2025-04-01 19:26:15.118811,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),-0.066,0.0769,0.1429
+2025-04-01 19:26:15.460336,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.06670000000000004,0.3333,0.4
 2025-04-01 08:39:06.598661,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.07500000000000001,0.125,0.2
 2025-04-01 11:28:10.113968,Cut Lines - Jake Knapp - Make Cut / Miss Cut - Jake Knapp,Miss,-0.0771,0.3774,0.4545
 2025-04-01 11:28:10.091856,Cut Lines - Keith Mitchell - Make Cut / Miss Cut - Keith Mitchell,Miss,-0.07770000000000005,0.3571,0.4348
@@ -151,6 +164,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 08:39:06.801218,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.11259999999999992,0.5238,0.6364
 2025-04-01 17:32:56.719867,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.12120000000000003,0.3333,0.4545
 2025-04-01 11:28:10.039300,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Miss,-0.12230000000000002,0.3125,0.4348
+2025-04-01 19:26:15.452587,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.1334,0.1333,0.2667
 2025-04-01 14:35:55.999230,League Two - England League Two 2024/25 - Winner,Walsall,-0.13970000000000005,0.4255,0.5652
 2025-04-01 17:32:55.771466,Copa Sudamericana - Group G - Winner,Atlético Lanús,-0.14549999999999996,0.4,0.5455
 2025-04-01 08:39:06.586798,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.1607,0.125,0.2857

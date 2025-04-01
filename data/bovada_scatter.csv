@@ -13,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-01 05:34:22.556191,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),0.02100000000000002,0.6364,0.6154
 2025-04-01 06:44:48.220076,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.02030000000000004,0.3774,0.3571
 2025-04-01 05:34:22.403211,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.01820000000000002,0.2,0.1818
-2025-03-31 19:26:33.932234,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Connecticut (W),0.017299999999999982,0.5917,0.5744
 2025-04-01 05:34:22.844766,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.015700000000000006,0.1333,0.1176
 2025-04-01 05:34:22.398468,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.01539999999999997,0.6154,0.6
 2025-04-01 05:34:22.403211,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.01539999999999997,0.6154,0.6
@@ -24,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-31 20:33:03.417707,NFL Draft - Team Markets - Team's First Pick - DEN Broncos - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.010399999999999993,0.2326,0.2222
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Memphis Grizzlies,-0.010000000000000002,0.04,0.05
 2025-04-01 05:34:22.383575,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.010099999999999998,0.4444,0.4545
-2025-04-01 05:34:22.403211,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.010100000000000001,0.0244,0.0345
 2025-04-01 05:34:22.844766,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.010100000000000001,0.0244,0.0345
+2025-04-01 05:34:22.403211,Western Conference - Western Conference 2024-25 - Western Conference Winner,Memphis Grizzlies,-0.010100000000000001,0.0244,0.0345
 2025-03-31 20:33:03.421067,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.0102,0.0667,0.0769
 2025-03-31 20:33:03.390751,NFL Draft - Team Markets - Team's First Pick - ARI Cardinals - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.0102,0.0667,0.0769
 2025-03-31 20:33:03.451528,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.01100000000000001,0.5238,0.5348
@@ -34,28 +33,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-03-31 20:33:03.397492,NFL Draft - Team Markets - Team's First Pick - BAL Ravens - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.011899999999999994,0.2381,0.25
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,-0.012199999999999989,0.5,0.5122
 2025-03-31 20:33:03.438029,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.012699999999999989,0.3509,0.3636
-2025-03-31 20:33:03.441390,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.012899999999999995,0.1538,0.1667
-2025-04-01 05:34:22.386857,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.012899999999999995,0.1538,0.1667
 2025-03-31 20:33:03.438029,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.012899999999999995,0.1538,0.1667
 2025-03-31 20:33:03.448169,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.012899999999999995,0.1538,0.1667
+2025-04-01 05:34:22.386857,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.012899999999999995,0.1538,0.1667
+2025-03-31 20:33:03.441390,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.012899999999999995,0.1538,0.1667
 2025-03-31 20:33:03.404211,NFL Draft - Team Markets - Team's First Pick - CAR Panthers - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.0131,0.2222,0.2353
 2025-04-01 05:34:22.552605,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,-0.013300000000000034,0.3571,0.3704
 2025-04-01 02:21:44.042356,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.013600000000000001,0.2941,0.3077
 2025-03-31 20:33:03.424427,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.013899999999999996,0.2083,0.2222
 2025-03-31 21:29:55.414272,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),-0.013999999999999999,0.0769,0.0909
-2025-03-31 20:33:03.444816,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.014900000000000024,0.3077,0.3226
 2025-03-31 20:33:03.444816,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.014900000000000024,0.3077,0.3226
-2025-04-01 05:34:22.376398,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.015100000000000002,0.1667,0.1818
+2025-03-31 20:33:03.444816,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.014900000000000024,0.3077,0.3226
 2025-03-31 20:33:03.414325,NFL Draft - Team Markets - Team's First Pick - DAL Cowboys - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.015100000000000002,0.1667,0.1818
-2025-04-01 05:34:22.398468,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.015400000000000025,0.3846,0.4
+2025-04-01 05:34:22.376398,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.015100000000000002,0.1667,0.1818
 2025-03-31 20:33:03.424427,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.015400000000000025,0.3846,0.4
+2025-04-01 05:34:22.398468,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.015400000000000025,0.3846,0.4
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,-0.015699999999999992,0.1695,0.1852
-2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Denver Nuggets,-0.01579999999999998,0.2439,0.2597
 2025-03-31 20:33:03.458266,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.01579999999999998,0.3175,0.3333
+2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Denver Nuggets,-0.01579999999999998,0.2439,0.2597
 2025-04-01 05:34:22.545521,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,De'Andre Hunter (CLE),-0.0159,0.0164,0.0323
+2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,-0.016600000000000004,0.1739,0.1905
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Golden State Warriors,-0.016600000000000004,0.1739,0.1905
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Houston Rockets,-0.016600000000000004,0.1739,0.1905
-2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,-0.016600000000000004,0.1739,0.1905
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Golden State Warriors,-0.0174,0.2,0.2174
 2025-04-01 05:34:22.545521,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),-0.01759999999999999,0.1,0.1176
 2025-04-01 05:34:22.379692,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Minnesota Timberwolves,-0.01780000000000001,0.1905,0.2083

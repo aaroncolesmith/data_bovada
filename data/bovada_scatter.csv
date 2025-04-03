@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 23:29:32.715716,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.02560000000000001,0.3333,0.3077
 2025-04-02 16:43:05.518414,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Payton Pritchard (BOS),0.0242,0.9333,0.9091
 2025-04-02 16:43:05.470813,Men's Basketball Tournament - 2025 NCAA Tournament - Final Four Most Outstanding Player - Final Four Most Outstanding Player,Cooper Flagg (DUKE),0.023800000000000043,0.5238,0.5
+2025-04-03 03:08:27.362245,Valero Texas Open - 2/3 Balls - 1st Round 3 Ball - C. Conners / M. Homa / G. Woodland - 1st Round 3 Ball ,Corey Conners,0.023799999999999988,0.5,0.4762
 2025-04-02 18:41:01.806323,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.022299999999999986,0.2128,0.1905
 2025-04-02 15:33:51.911721,Euroleague - Euroleague 2024/25 - To Make Final Four,Barcelona,0.021999999999999964,0.3077,0.2857
 2025-04-02 18:41:01.820008,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.0213,0.0769,0.0556
@@ -38,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 17:32:20.017424,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.02079999999999993,0.5556,0.5348
 2025-04-02 15:33:52.032041,NBA Awards & League Leaders - NBA Awards 2024-25  - 6th Man of the Year,Malik Beasley (DET),0.02049999999999999,0.1538,0.1333
 2025-04-02 16:43:05.528854,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.02020000000000001,0.1111,0.0909
+2025-04-03 03:08:27.585445,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
 2025-04-03 02:04:17.524023,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.019699999999999995,0.4545,0.4348
 2025-04-02 23:29:32.715716,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.018999999999999906,0.7333,0.7143
 2025-04-02 16:43:05.480483,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),0.01830000000000001,0.0952,0.0769
@@ -46,6 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 17:32:20.094970,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.017600000000000005,0.3509,0.3333
 2025-04-02 16:43:05.895563,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.017600000000000005,0.3509,0.3333
 2025-04-02 16:43:05.338756,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Orlando Magic,0.017299999999999982,0.5917,0.5744
+2025-04-03 03:08:27.362245,Valero Texas Open - 2/3 Balls - 1st Round 3 Ball - C. Conners / M. Homa / G. Woodland - 1st Round 3 Ball ,Max Homa,0.016699999999999993,0.2667,0.25
 2025-04-02 18:41:01.813143,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.01579999999999998,0.3333,0.3175
 2025-04-02 17:32:20.059650,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.015699999999999936,0.9681,0.9524
 2025-04-02 15:33:51.911721,Euroleague - Euroleague 2024/25 - To Make Final Four,Real Madrid,0.015400000000000025,0.4,0.3846
@@ -64,14 +67,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 16:43:05.521964,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.01150000000000001,0.3448,0.3333
 2025-04-02 23:29:33.805280,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Tim Tszyu,0.011099999999999999,0.9,0.8889
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),0.010899999999999993,0.1538,0.1429
-2025-04-02 14:35:22.997573,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Conference to Win,Atlantic Coast,0.010099999999999998,0.5556,0.5455
-2025-04-02 15:33:51.585743,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.0102,0.0667,0.0769
 2025-04-02 16:43:05.293812,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.0102,0.0667,0.0769
+2025-04-02 15:33:51.585743,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.0102,0.0667,0.0769
 2025-04-02 19:26:04.643507,NFL Draft - Team Markets - Team's First Pick - DEN Broncos - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.010899999999999993,0.1429,0.1538
 2025-04-02 16:43:05.338756,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Atlanta Hawks,-0.011099999999999999,0.4651,0.4762
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Kumar Rocker (TEX),-0.011199999999999995,0.0476,0.0588
-2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Roman Anthony,-0.011899999999999994,0.0714,0.0833
 2025-04-02 15:33:51.985517,Men's Basketball Tournament - 2025 NCAA Tournament - Exact Finals Result - Exact Finals Result,Duke To Beat Auburn,-0.011899999999999994,0.2381,0.25
+2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Roman Anthony,-0.011899999999999994,0.0714,0.0833
 2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.0121,0.0435,0.0556
 2025-04-02 22:33:55.636667,NCAA Football Futures - 2025 ACC Conference Championship  - Championship Game Winner,Louisville,-0.012899999999999995,0.1538,0.1667
 2025-04-03 02:04:16.304208,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.013800000000000034,0.3636,0.3774
@@ -96,10 +98,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Alexis Ohanian,-0.023200000000000002,0.0244,0.0476
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,X (Twitter),-0.023200000000000002,0.0244,0.0476
 2025-04-02 16:43:05.457387,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Florida,-0.02360000000000001,0.3846,0.4082
-2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,-0.023799999999999988,0.4762,0.5
+2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2025-04-02 16:43:05.293812,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.023799999999999988,0.1429,0.1667
+2025-04-03 03:08:27.362245,Valero Texas Open - 2/3 Balls - 1st Round 3 Ball - C. Conners / M. Homa / G. Woodland - 1st Round 3 Ball ,Gary Woodland,-0.023799999999999988,0.3333,0.3571
 2025-04-02 18:41:01.806323,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.023800000000000043,0.5,0.5238
+2025-04-03 03:08:27.585445,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 70.5,-0.023800000000000043,0.5,0.5238
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,MrBeast,-0.024299999999999995,0.0526,0.0769
 2025-04-02 18:41:01.826916,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.024999999999999994,0.1,0.125
 2025-04-02 15:33:51.852390,Pacific Division - Pacific Division 2024-25 - Pacific Division Winner,Los Angeles Lakers,-0.02529999999999999,0.8571,0.8824
@@ -126,8 +130,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),-0.05559999999999998,0.1111,0.1667
 2025-04-02 18:41:01.820008,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.0619,0.0714,0.1333
 2025-04-02 15:33:51.911721,Euroleague - Euroleague 2024/25 - To Make Final Four,Crvena Zvezda,-0.06820000000000001,0.1818,0.25
-2025-04-02 18:41:01.813143,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.07190000000000002,0.3448,0.4167
 2025-04-02 22:33:55.578576,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,CHI Bears,-0.07190000000000002,0.3448,0.4167
+2025-04-02 18:41:01.813143,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.07190000000000002,0.3448,0.4167
 2025-04-02 19:26:04.653863,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.08549999999999996,0.2222,0.3077
 2025-04-02 15:33:51.585743,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Olympique Lyon (W),-0.09,0.2326,0.3226
 2025-04-02 18:41:01.820008,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.0952,0.1429,0.2381

@@ -16,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 18:41:01.754875,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.037500000000000006,0.1,0.0625
 2025-04-02 23:29:33.763876,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Filip Hrgovic,0.036699999999999955,0.8462,0.8095
 2025-04-02 18:41:01.826916,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.03570000000000001,0.2857,0.25
+2025-04-03 04:37:33.089962,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,Jeamie Tshikeva,0.033300000000000024,0.2,0.1667
 2025-04-02 23:29:33.785170,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,David Adeleye,0.033299999999999996,0.9,0.8667
 2025-04-02 17:32:20.074584,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.0321,0.0909,0.0588
 2025-04-02 17:32:20.003940,NFL Draft - Team Markets - Team's First Pick - JAX Jaguars - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.03179999999999994,0.5556,0.5238
@@ -38,11 +39,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Yealimi Noh,0.0203,0.0588,0.0385
 2025-04-02 16:43:05.528854,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Luguentz Dort (OKC),0.02020000000000001,0.1111,0.0909
 2025-04-03 03:08:27.585445,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
+2025-04-03 04:37:33.415508,Round Match-Ups - 1st Round Match-Ups - M. Homa v T. Hoge - 1st Round Match-Ups,Tom Hoge,0.01970000000000005,0.5652,0.5455
 2025-04-03 02:04:17.524023,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.019699999999999995,0.4545,0.4348
 2025-04-02 23:29:32.715716,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.018999999999999906,0.7333,0.7143
 2025-04-02 16:43:05.480483,NCAA DI Women - 2025 NCAA Womens Tournament - National Champion,Texas (W),0.01830000000000001,0.0952,0.0769
-2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Minjee Lee,0.018099999999999998,0.0769,0.0588
 2025-04-03 02:04:16.304208,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.018099999999999998,0.0769,0.0588
+2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Minjee Lee,0.018099999999999998,0.0769,0.0588
 2025-04-02 18:41:01.751441,NFL Draft - Team Markets - Team's First Pick - BAL Ravens - Position of 1st Drafted Player in 2025 NFL Draft,Safety,0.0179,0.1429,0.125
 2025-04-02 16:43:05.895563,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.017600000000000005,0.3509,0.3333
 2025-04-02 17:32:20.094970,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.017600000000000005,0.3509,0.3333
@@ -50,9 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-03 03:08:27.362245,Valero Texas Open - 2/3 Balls - 1st Round 3 Ball - C. Conners / M. Homa / G. Woodland - 1st Round 3 Ball ,Max Homa,0.016699999999999993,0.2667,0.25
 2025-04-02 18:41:01.813143,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.01579999999999998,0.3333,0.3175
 2025-04-02 17:32:20.059650,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Cameron Ward,0.015699999999999936,0.9681,0.9524
-2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Ina Yoon,0.015300000000000001,0.0476,0.0323
 2025-04-02 18:41:01.361509,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Maddy Siegrist (DAL),0.015300000000000001,0.0476,0.0323
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Rumble,0.015300000000000001,0.0476,0.0323
+2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Ina Yoon,0.015300000000000001,0.0476,0.0323
 2025-04-03 02:04:16.304208,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.015100000000000002,0.8333,0.8182
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Hyo Joo Kim,0.014100000000000001,0.0526,0.0385
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Celine Boutier,0.014099999999999998,0.0385,0.0244
@@ -64,6 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 16:43:05.521964,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),0.01150000000000001,0.3448,0.3333
 2025-04-02 23:29:33.805280,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Tim Tszyu,0.011099999999999999,0.9,0.8889
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),0.010899999999999993,0.1538,0.1429
+2025-04-03 04:37:33.098042,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.010599999999999998,0.4651,0.4545
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Mao Saigo,0.010100000000000001,0.0345,0.0244
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Gaby Lopez,0.010100000000000001,0.0345,0.0244
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Brooke Henderson,0.010100000000000001,0.0345,0.0244
@@ -74,8 +77,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Jennifer Kupcho,-0.011699999999999999,0.0079,0.0196
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Roman Anthony,-0.011899999999999994,0.0714,0.0833
 2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.0121,0.0435,0.0556
-2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Nanna Koerstz Madsen,-0.012100000000000001,0.0123,0.0244
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Jin Hee Im,-0.012100000000000001,0.0123,0.0244
+2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Nanna Koerstz Madsen,-0.012100000000000001,0.0123,0.0244
 2025-04-02 22:33:55.636667,NCAA Football Futures - 2025 ACC Conference Championship  - Championship Game Winner,Louisville,-0.012899999999999995,0.1538,0.1667
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Allisen Corpuz,-0.012899999999999998,0.0149,0.0278
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Leona Maguire,-0.013,0.0066,0.0196
@@ -100,13 +103,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-03 02:04:17.524023,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Lindolfo Delgado,-0.02180000000000004,0.6078,0.6296
 2025-04-02 23:29:32.715716,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.022000000000000006,0.0833,0.1053
 2025-04-02 17:32:20.074584,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.022199999999999998,0.1111,0.1333
-2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,X (Twitter),-0.023200000000000002,0.0244,0.0476
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Alexis Ohanian,-0.023200000000000002,0.0244,0.0476
+2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,X (Twitter),-0.023200000000000002,0.0244,0.0476
 2025-04-02 16:43:05.457387,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion - Multiple Chances,Auburn OR Florida,-0.02360000000000001,0.3846,0.4082
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Oracle,-0.023799999999999988,0.4762,0.5
-2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
-2025-04-02 16:43:05.293812,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.023799999999999988,0.1429,0.1667
 2025-04-03 03:08:27.362245,Valero Texas Open - 2/3 Balls - 1st Round 3 Ball - C. Conners / M. Homa / G. Woodland - 1st Round 3 Ball ,Gary Woodland,-0.023799999999999988,0.3333,0.3571
+2025-04-02 16:43:05.329204,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
+2025-04-03 04:37:33.415508,Round Match-Ups - 1st Round Match-Ups - M. Homa v T. Hoge - 1st Round Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
+2025-04-02 16:43:05.293812,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.023799999999999988,0.1429,0.1667
 2025-04-02 18:41:01.806323,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.023800000000000043,0.5,0.5238
 2025-04-03 03:08:27.585445,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 70.5,-0.023800000000000043,0.5,0.5238
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,MrBeast,-0.024299999999999995,0.0526,0.0769
@@ -123,6 +127,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-02 19:26:04.657366,NFL Draft - Team Markets - Team's First Pick - IND Colts - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.031799999999999995,0.1111,0.1429
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Frank McCourt,-0.031799999999999995,0.1111,0.1429
 2025-04-02 17:32:19.777957,Trump Policy Specials - Who will buy TikTok (US Unit)? - Who will buy TikTok?,Larry Ellison,-0.03210000000000002,0.3846,0.4167
+2025-04-03 04:37:33.089962,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,David Adeleye,-0.033299999999999996,0.8667,0.9
 2025-04-02 23:29:33.785170,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,Jeamie Tshikeva,-0.033300000000000024,0.1667,0.2
 2025-04-02 18:41:02.111685,ROY - AL ROY 2025 - American League Rookie of the Year,Jackson Jobe (DET),-0.0343,0.0833,0.1176
 2025-04-03 03:47:29.084276,T-Mobile Match-Play - T-Mobile Match Play - Winner,Lydia Ko,-0.0344,0.0244,0.0588

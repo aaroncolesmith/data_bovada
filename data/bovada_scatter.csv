@@ -22,12 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 09:29:29.999302,T-Mobile Match-Play - T-Mobile Match Play - Winner,Ashleigh Buhai,0.04229999999999999,0.0667,0.0244
 2025-04-05 14:31:06.059064,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Lindolfo Delgado,0.0413,0.6491,0.6078
 2025-04-05 09:29:29.999302,T-Mobile Match-Play - T-Mobile Match Play - Winner,Mao Saigo,0.0389,0.0667,0.0278
+2025-04-05 17:30:26.465917,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Filip Hrgovic,0.038899999999999935,0.8571,0.8182
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Greg Chalmers,0.0384,0.0769,0.0385
 2025-04-05 09:29:29.999302,T-Mobile Match-Play - T-Mobile Match Play - Winner,Celine Boutier,0.038299999999999994,0.0909,0.0526
 2025-04-05 12:51:30.458821,BKFC 72: Stewart vs Strydom - Guto Inocente vs Hasan Yousefi - To Win the Bout,Guto Inocente,0.0363,0.7333,0.697
 2025-04-05 12:51:30.454721,BKFC 72: Stewart vs Strydom - Brandon Allen vs Nico Gaffie - To Win the Bout,Brandon Allen (SF),0.035699999999999954,0.75,0.7143
 2025-04-05 09:29:29.999302,T-Mobile Match-Play - T-Mobile Match Play - Winner,Carlotta Ciganda,0.0344,0.0588,0.0244
 2025-04-05 06:37:57.787315,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - M. Wallace / R. Hisatsune / D. Berger - 3rd Round 3-Balls,Matt Wallace,0.032299999999999995,0.3448,0.3125
+2025-04-05 17:30:25.763131,45th Federal Election - Prime Minister After Next Election - PM After Election,Mark Carney,0.032299999999999995,0.6875,0.6552
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,David Bransdon,0.0306,0.0385,0.0079
 2025-04-05 08:34:13.671291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,0.029600000000000015,0.4,0.3704
 2025-04-05 10:34:16.443356,NBA Championship - NBA Championship 2024-25 - First Time Winner,Yes,0.029299999999999993,0.0769,0.0476
@@ -73,10 +75,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 14:31:05.853594,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.013900000000000023,0.8889,0.875
 2025-04-05 14:31:05.858516,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,0.013899999999999996,0.125,0.1111
 2025-04-05 13:31:50.490879,CFL Futures - Grey Cup 2025 - Grey Cup Winner,Saskatchewan Roughriders,0.013899999999999996,0.125,0.1111
-2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Joe Durant,0.013699999999999999,0.0278,0.0141
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Matt Gogel,0.013699999999999999,0.0278,0.0141
-2025-04-05 14:31:06.144907,BKFC 72: Stewart vs Strydom - John Phillips vs Maldonado Fabio - To Win the Bout,Maldonado Fabio,0.01319999999999999,0.2632,0.25
+2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Joe Durant,0.013699999999999999,0.0278,0.0141
+2025-04-05 17:30:26.069281,NFL Draft - Player Markets - Player Drafted By... - Travis Hunter (COL) - Which team will draft Travis Hunter?,NY Giants,0.013299999999999979,0.6429,0.6296
 2025-04-05 14:31:05.843934,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.01319999999999999,0.2632,0.25
+2025-04-05 14:31:06.144907,BKFC 72: Stewart vs Strydom - John Phillips vs Maldonado Fabio - To Win the Bout,Maldonado Fabio,0.01319999999999999,0.2632,0.25
 2025-04-05 09:29:29.607537,Boxing Lines - Tina Rupprecht vs Sumire Yamanaka - To Win the Bout,Tina Rupprecht,0.0131,0.7778,0.7647
 2025-04-05 14:31:05.843934,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,0.012899999999999995,0.1667,0.1538
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina State Wolfpack,0.012700000000000003,0.0323,0.0196
@@ -86,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Jay Haas,0.0119,0.0152,0.0033
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.011899999999999994,0.1905,0.1786
 2025-04-05 10:34:17.472210,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Joseph Joyce,0.011700000000000016,0.2222,0.2105
-2025-04-05 10:34:17.689579,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Matin Safari,0.011600000000000055,0.5238,0.5122
 2025-04-05 14:31:06.160928,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Dilshat Nurym,0.011600000000000055,0.5238,0.5122
+2025-04-05 10:34:17.689579,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Matin Safari,0.011600000000000055,0.5238,0.5122
 2025-04-05 11:26:10.066203,BKFC 72: Stewart vs Strydom - Hannah Rankin vs Jessica Borga - To Win the Bout,Jessica Borga,0.0116,0.4878,0.4762
 2025-04-05 08:34:13.674857,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Necaxa,0.011199999999999995,0.0588,0.0476
 2025-04-05 16:36:55.566326,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,David Adeleye,0.011099999999999999,0.9,0.8889
@@ -96,27 +99,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 13:31:50.317204,NFC North - NFC North 2025/26 - NFC North Winner,Minnesota Vikings,0.010499999999999982,0.2105,0.2
 2025-04-05 06:37:57.480003,Boxing Lines - Zhanibek Alimkhanuly vs Mpi Anauel Ngamissengue - To Win the Bout,Zhanibek Alimkhanuly,0.010199999999999987,0.9333,0.9231
 2025-04-05 14:31:06.148976,BKFC 72: Stewart vs Strydom - Kai Stewart vs Tommy Strydom - To Win the Bout,Kai Stewart,0.010199999999999987,0.9333,0.9231
-2025-04-05 10:34:17.698074,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,0.010099999999999998,0.5556,0.5455
 2025-04-05 08:34:13.671291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club América,0.010099999999999998,0.8889,0.8788
-2025-04-05 14:31:06.160928,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,-0.010099999999999998,0.5455,0.5556
+2025-04-05 10:34:17.698074,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,0.010099999999999998,0.5556,0.5455
 2025-04-05 13:31:50.317204,NFC North - NFC North 2025/26 - NFC North Winner,Detroit Lions,-0.010099999999999998,0.4444,0.4545
 2025-04-05 10:34:17.689579,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Mark Angel Sadang,-0.010099999999999998,0.5455,0.5556
-2025-04-05 08:34:13.674857,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,-0.0102,0.0667,0.0769
+2025-04-05 14:31:06.160928,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,-0.010099999999999998,0.5455,0.5556
 2025-04-05 14:31:05.853594,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.0102,0.0667,0.0769
 2025-04-05 13:31:50.918404,BKFC 72: Stewart vs Strydom - Vladislav Tuinov vs Sabri Ben Henia - To Win the Bout,Sabri Ben Henia,-0.0102,0.0667,0.0769
-2025-04-05 16:36:54.284063,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,-0.010499999999999982,0.2,0.2105
+2025-04-05 08:34:13.674857,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,-0.0102,0.0667,0.0769
 2025-04-05 10:34:17.664668,BKFC 72: Stewart vs Strydom - Aaron Chalmers vs Chas Symonds - To Win the Bout,Chas Symonds,-0.010499999999999982,0.2,0.2105
+2025-04-05 16:36:54.284063,Coppa Italia - Coppa Italia 2024/25 - Winner,AC Milan,-0.010499999999999982,0.2,0.2105
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Wake Forest Demon Deacons,-0.010600000000000002,0.0217,0.0323
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Virginia Cavaliers,-0.010700000000000001,0.0278,0.0385
 2025-04-05 14:31:05.843934,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.010899999999999993,0.1429,0.1538
 2025-04-05 06:37:57.690208,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Dilshat Nurym,-0.01100000000000001,0.5238,0.5348
 2025-04-05 06:37:57.458691,Elite Boxing - Tim Tszyu vs Joey Spencer - To Win the Bout,Tim Tszyu,-0.011099999999999999,0.8889,0.9
 2025-04-05 12:51:30.730246,Scores - 2nd Round Score - Patrick Reed - 2nd Round Score ,Over 71.5,-0.011099999999999999,0.4651,0.4762
-2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Jason Caron,-0.011199999999999995,0.0476,0.0588
 2025-04-05 14:31:05.853594,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.011199999999999995,0.0323,0.0435
+2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Jason Caron,-0.011199999999999995,0.0476,0.0588
 2025-04-05 10:34:17.698074,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Dilshat Nurym,-0.011600000000000055,0.5122,0.5238
-2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oklahoma State Cowboys,-0.0118,0.0099,0.0217
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,South Carolina Gamecocks,-0.0118,0.0099,0.0217
+2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oklahoma State Cowboys,-0.0118,0.0099,0.0217
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Bob Estes,-0.0119,0.0033,0.0152
 2025-04-05 14:31:05.834341,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,-0.0121,0.2778,0.2899
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arizona Wildcats,-0.012700000000000003,0.0196,0.0323
@@ -128,8 +131,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 10:34:17.472210,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Filip Hrgovic,-0.015100000000000002,0.8182,0.8333
 2025-04-05 14:31:05.947557,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Florida,-0.0157,0.0278,0.0435
 2025-04-05 08:34:15.135294,Boxing Lines - Zhanibek Alimkhanuly vs Mpi Anauel Ngamissengue - To Win the Bout,Zhanibek Alimkhanuly,-0.01660000000000006,0.9167,0.9333
-2025-04-05 09:29:29.607537,Boxing Lines - Tina Rupprecht vs Sumire Yamanaka - To Win the Bout,Sumire Yamanaka,-0.017299999999999982,0.2857,0.303
 2025-04-05 11:26:10.066203,BKFC 72: Stewart vs Strydom - Hannah Rankin vs Jessica Borga - To Win the Bout,Hannah Rankin,-0.017299999999999982,0.5744,0.5917
+2025-04-05 09:29:29.607537,Boxing Lines - Tina Rupprecht vs Sumire Yamanaka - To Win the Bout,Sumire Yamanaka,-0.017299999999999982,0.2857,0.303
 2025-04-05 12:51:30.384686,Boxing Lines - Richard Torrez vs Guido Vianello - To Win the Bout,Guido Vianello,-0.017600000000000005,0.3333,0.3509
 2025-04-05 06:37:57.725027,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - F. Molinari / E. van Rooyen / T. Hoge - 3rd Round 3-Balls,Tom Hoge,-0.019699999999999995,0.4348,0.4545
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Brett Quigley,-0.019700000000000002,0.002,0.0217
@@ -140,11 +143,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Steve Flesch,-0.022799999999999997,0.005,0.0278
 2025-04-05 14:31:05.863446,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Atlanta Braves,-0.023799999999999988,0.1429,0.1667
 2025-04-05 10:34:17.874389,Round Match-Ups - 3rd Round Match-Up - B. Harman vs S. Ryder - 3rd Round Match-Up,Sam Ryder,-0.023799999999999988,0.4762,0.5
-2025-04-05 08:34:13.823046,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,-0.023799999999999988,0.1429,0.1667
 2025-04-05 07:27:32.791012,BKFC 72: Stewart vs Strydom - Hannah Rankin vs Jessica Borga - To Win the Bout,Jessica Borga,-0.023799999999999988,0.4762,0.5
-2025-04-05 10:34:17.815932,Round Match-Ups - 3rd Round Match-Up - C. Kim vs A. Tosti - 3rd Round Match-Up,Alejandro Tosti,-0.023800000000000043,0.5,0.5238
-2025-04-05 10:34:17.838577,Round Match-Ups - 3rd Round Match-Up - C. Young vs J. Rose - 3rd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
+2025-04-05 08:34:13.823046,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Estudiantes LP,-0.023799999999999988,0.1429,0.1667
 2025-04-05 12:51:30.475060,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Matin Safari,-0.023800000000000043,0.5,0.5238
+2025-04-05 10:34:17.838577,Round Match-Ups - 3rd Round Match-Up - C. Young vs J. Rose - 3rd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
+2025-04-05 10:34:17.815932,Round Match-Ups - 3rd Round Match-Up - C. Kim vs A. Tosti - 3rd Round Match-Up,Alejandro Tosti,-0.023800000000000043,0.5,0.5238
 2025-04-05 08:34:13.671291,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Chivas Guadalajara,-0.0242,0.0667,0.0909
 2025-04-05 16:36:55.106267,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.025099999999999983,0.2381,0.2632
 2025-04-05 09:29:28.720574,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),-0.02510000000000001,0.1923,0.2174
@@ -154,8 +157,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Doug Barron,-0.0273,0.005,0.0323
 2025-04-05 10:34:16.451777,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.027500000000000024,0.3571,0.3846
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Cameron Percy,-0.0283,0.0152,0.0435
+2025-04-05 17:30:26.049868,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),-0.0286,0.0714,0.1
+2025-04-05 17:30:25.763131,45th Federal Election - Prime Minister After Next Election - PM After Election,Pierre Poilievre,-0.029600000000000015,0.3704,0.4
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,Tag Ridings,-0.029800000000000004,0.0025,0.0323
 2025-04-05 12:51:30.458821,BKFC 72: Stewart vs Strydom - Guto Inocente vs Hasan Yousefi - To Win the Bout,Hasan Yousefi,-0.030299999999999994,0.3333,0.3636
+2025-04-05 17:30:26.465917,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Joseph Joyce,-0.031700000000000006,0.1905,0.2222
 2025-04-05 08:34:13.618214,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.031799999999999995,0.4444,0.4762
 2025-04-05 08:34:15.527842,James Hardie Invitational - James Hardie Invitational - Winner,YE Yang,-0.0365,0.002,0.0385
 2025-04-05 14:31:06.059064,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,-0.0378,0.4167,0.4545

@@ -27,7 +27,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-04 17:31:46.156733,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),0.028399999999999995,0.0909,0.0625
 2025-04-04 19:27:57.241993,Boxing Lines - Ben Crocker vs Tiernan Bradley - To Win the Bout,Tiernan Bradley,0.027800000000000047,0.7778,0.75
 2025-04-05 02:02:09.173314,BKFC 72: Stewart vs Strydom - Aaron Chalmers vs Chas Symonds - To Win the Bout,Aaron Chalmers,0.027200000000000002,0.8403,0.8131
-2025-04-04 14:34:21.036406,BKFC 71: Trout vs Trinidad-Snake - David Mora vs Adel Altamimi - To Win the Bout,David Mora,0.025600000000000067,0.6923,0.6667
 2025-04-05 02:02:08.519309,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.025099999999999983,0.2632,0.2381
 2025-04-04 21:29:13.961120,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.024999999999999994,0.125,0.1
 2025-04-05 02:02:09.198051,BKFC 72: Stewart vs Strydom - Mohd Azahar vs Muhammad Bilal - To Win the Bout,Mohd Azahar,0.024500000000000022,0.4167,0.3922
@@ -38,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 02:02:08.926274,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Spencer Schwellenbach (ATL),0.0203,0.0588,0.0385
 2025-04-04 17:31:46.623150,ROY - AL ROY 2025 - American League Rookie of the Year,Jack Leiter (TEX),0.0203,0.0526,0.0323
 2025-04-04 21:29:14.741143,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Joey Spencer,0.020100000000000007,0.1739,0.1538
-2025-04-04 14:34:21.023433,BKFC 71: Trout vs Trinidad-Snake - Aleksei Oleinik vs Geronimo Dos Santos - To Win the Bout,Geronimo Dos Santos,0.018900000000000028,0.4444,0.4255
 2025-04-04 21:29:13.953016,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.01880000000000004,0.5744,0.5556
 2025-04-04 20:32:21.968940,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,0.01820000000000002,0.2,0.1818
 2025-04-04 16:38:20.341060,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Colston Loveland (MICH),0.01820000000000002,0.2,0.1818
@@ -54,23 +52,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-04 18:39:35.154095,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.013999999999999999,0.0909,0.0769
 2025-04-05 02:02:09.037190,Boxing Lines - David Adeleye vs Jeamie Tshikeva - To Win the Bout,David Adeleye,0.013900000000000023,0.8889,0.875
 2025-04-04 15:34:34.591088,Valero Texas Open - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Kim / D. McCarthy - 2nd Round 3-Balls,Jake Knapp,0.013600000000000001,0.3077,0.2941
-2025-04-04 14:34:21.058198,BKFC 71: Trout vs Trinidad-Snake - Mahmoud Ahmed vs Fuad Tarverdi - To Win the Bout,Fuad Tarverdi,0.0131,0.7778,0.7647
 2025-04-04 20:32:21.965489,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.012899999999999995,0.1667,0.1538
 2025-04-04 22:33:42.052493,BKFC 72: Stewart vs Strydom - Hannah Rankin vs Jessica Borga - To Win the Bout,Hannah Rankin,0.011600000000000055,0.5238,0.5122
 2025-04-05 02:02:09.193828,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Mark Angel Sadang,0.011600000000000055,0.5238,0.5122
 2025-04-04 16:38:20.835016,Boxing Lines - Daniel Blenda Dos Santos vs Bradley Rea - To Win the Bout,Bradley Rea,0.011499999999999955,0.6667,0.6552
 2025-04-04 18:39:35.669935,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),0.011199999999999995,0.0588,0.0476
-2025-04-04 21:29:14.599339,Boxing Lines - Zhanibek Alimkhanuly vs Mpi Anauel Ngamissengue - To Win the Bout,Zhanibek Alimkhanuly,0.011099999999999999,0.9,0.8889
 2025-04-05 02:02:09.111005,Boxing Lines - Tim Tszyu vs Joey Spencer - To Win the Bout,Tim Tszyu,0.011099999999999999,0.9,0.8889
+2025-04-04 21:29:14.599339,Boxing Lines - Zhanibek Alimkhanuly vs Mpi Anauel Ngamissengue - To Win the Bout,Zhanibek Alimkhanuly,0.011099999999999999,0.9,0.8889
 2025-04-04 18:39:35.950925,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,0.01100000000000001,0.5348,0.5238
 2025-04-04 16:38:21.058572,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Shamil Dzhakhbarov,0.010699999999999932,0.5455,0.5348
 2025-04-04 18:39:35.157307,NFL Draft - Team Markets - Team's First Pick - CAR Panthers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.0102,0.0769,0.0667
 2025-04-05 02:02:09.094589,Boxing Lines - Lindolfo Delgado vs Elvis Rodriguez - To Win the Bout,Elvis Rodriguez,0.010099999999999998,0.4545,0.4444
 2025-04-04 15:34:34.591088,Valero Texas Open - 2/3 Balls - 2nd Round 3-Balls - J. Knapp / T. Kim / D. McCarthy - 2nd Round 3-Balls,Denny McCarthy,-0.010099999999999998,0.4444,0.4545
 2025-04-05 02:02:08.522919,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),-0.010099999999999998,0.0952,0.1053
+2025-04-04 19:27:57.237881,Boxing Lines - Hughie Fury vs Dan Garber - To Win the Bout,Dan Garber,-0.010099999999999998,0.0455,0.0556
 2025-04-04 22:33:42.052493,BKFC 72: Stewart vs Strydom - Hannah Rankin vs Jessica Borga - To Win the Bout,Jessica Borga,-0.010099999999999998,0.5455,0.5556
 2025-04-05 02:02:09.193828,BKFC 72: Stewart vs Strydom - Matin Safari vs Mark Angel Sadang - To Win the Bout,Matin Safari,-0.010099999999999998,0.5455,0.5556
-2025-04-04 19:27:57.237881,Boxing Lines - Hughie Fury vs Dan Garber - To Win the Bout,Dan Garber,-0.010099999999999998,0.0455,0.0556
 2025-04-04 18:39:35.950925,BKFC 72: Stewart vs Strydom - Shamil Dzhakhbarov vs Dilshat Nurym - To Win the Bout,Dilshat Nurym,-0.010699999999999932,0.5348,0.5455
 2025-04-04 16:38:20.919938,Boxing Lines - Jahi Tucker vs Troy Williamson - To Win the Bout,Troy Williamson,-0.010899999999999993,0.1429,0.1538
 2025-04-05 02:02:08.526502,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.010899999999999993,0.1429,0.1538
@@ -82,9 +79,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 02:02:08.974603,Elite Boxing - Joseph Joyce vs Filip Hrgovic - To Win the Bout,Joseph Joyce,-0.011700000000000016,0.2105,0.2222
 2025-04-05 02:02:08.526502,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Matthew Golden (TEX),-0.012700000000000003,0.0196,0.0323
 2025-04-05 02:02:08.996174,Boxing Lines - Zhanibek Alimkhanuly vs Mpi Anauel Ngamissengue - To Win the Bout,Mpi Anauel Ngamissengue,-0.012899999999999995,0.1538,0.1667
-2025-04-05 02:02:07.594524,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,-0.0131,0.2222,0.2353
 2025-04-05 02:02:08.526502,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Will Johnson (MICH),-0.0131,0.0345,0.0476
-2025-04-04 14:34:21.023433,BKFC 71: Trout vs Trinidad-Snake - Aleksei Oleinik vs Geronimo Dos Santos - To Win the Bout,Aleksei Oleinik,-0.013799999999999923,0.6226,0.6364
+2025-04-05 02:02:07.594524,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,-0.0131,0.2222,0.2353
 2025-04-04 18:39:35.157307,NFL Draft - Team Markets - Team's First Pick - CAR Panthers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.013999999999999999,0.0769,0.0909
 2025-04-05 02:02:07.594524,A-League - Australia A-League 2024/25 - Grand Final Winner,Sydney FC,-0.013999999999999999,0.0769,0.0909
 2025-04-04 18:39:35.154095,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.014300000000000007,0.1818,0.1961
@@ -97,7 +93,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-05 02:02:08.522919,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.016699999999999993,0.25,0.2667
 2025-04-04 18:39:35.242063,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.016700000000000007,0.0833,0.1
 2025-04-04 18:39:35.720369,Boxing Lines - Emma Dolan vs Lauren Parker - To Win the Bout,Lauren Parker,-0.01680000000000001,0.2105,0.2273
-2025-04-04 14:34:21.058198,BKFC 71: Trout vs Trinidad-Snake - Mahmoud Ahmed vs Fuad Tarverdi - To Win the Bout,Mahmoud Ahmed,-0.017299999999999982,0.2857,0.303
 2025-04-04 19:27:56.731929,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.017300000000000093,0.697,0.7143
 2025-04-04 21:29:13.953016,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.0179,0.125,0.1429
 2025-04-04 17:31:46.809490,Boxing Lines - Richard Torrez vs Guido Vianello - To Win the Bout,Richard Torrez,-0.018999999999999906,0.7143,0.7333
@@ -113,10 +108,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-04 20:32:21.937730,NFL Draft - Team Markets - Team's First Pick - DEN Broncos - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.0238,0.0476,0.0714
 2025-04-04 18:39:35.669935,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Chris Sale (ATL),-0.0242,0.0667,0.0909
 2025-04-04 19:27:57.241993,Boxing Lines - Ben Crocker vs Tiernan Bradley - To Win the Bout,Ben Crocker,-0.02679999999999999,0.2857,0.3125
-2025-04-04 17:31:46.140444,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.028399999999999995,0.0625,0.0909
 2025-04-04 18:39:35.669935,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Blake Snell (LAD),-0.028399999999999995,0.0625,0.0909
+2025-04-04 17:31:46.140444,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.028399999999999995,0.0625,0.0909
 2025-04-05 02:02:09.173314,BKFC 72: Stewart vs Strydom - Aaron Chalmers vs Chas Symonds - To Win the Bout,Chas Symonds,-0.029100000000000015,0.2273,0.2564
-2025-04-04 14:34:21.036406,BKFC 71: Trout vs Trinidad-Snake - David Mora vs Adel Altamimi - To Win the Bout,Adel Altamimi,-0.029600000000000015,0.3704,0.4
 2025-04-04 17:31:46.623150,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),-0.033399999999999985,0.1333,0.1667
 2025-04-04 16:38:19.998602,Trump Policy Specials - When will Elon Musk cease to be a member of the Trump administration? - Elon Musk Govt Exit Date,Before July 2025,-0.0348,0.4,0.4348
 2025-04-05 02:02:07.594524,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,-0.03570000000000001,0.25,0.2857

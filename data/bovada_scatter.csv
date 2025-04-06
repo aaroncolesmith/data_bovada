@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 04:37:47.643068,Championship - England Championship 2024/25 - Winner,Burnley,0.253,0.4348,0.1818
 2025-04-06 09:30:24.224996,T-Mobile Match-Play - T-Mobile Match Play - Winner,Angel Yin,0.23329999999999998,0.3333,0.1
 2025-04-06 09:30:22.806201,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.2257,0.8621,0.6364
-2025-04-06 02:15:35.899383,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.2179,0.3846,0.1667
 2025-04-06 09:30:24.224996,T-Mobile Match-Play - T-Mobile Match Play - Winner,Lauren Coughlin,0.2044,0.2632,0.0588
 2025-04-06 09:30:24.224996,T-Mobile Match-Play - T-Mobile Match Play - Winner,Ariya Jutanugarn,0.1965,0.2632,0.0667
 2025-04-06 08:35:16.385913,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.18060000000000004,0.5652,0.3846
@@ -26,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 08:35:15.710040,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.10710000000000003,0.5833,0.4762
 2025-04-06 09:30:22.897283,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.09999999999999998,0.9333,0.8333
 2025-04-06 10:34:42.327060,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.09830000000000005,0.5238,0.4255
-2025-04-06 02:15:35.899383,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.08999999999999997,0.6552,0.5652
 2025-04-06 09:30:24.224996,T-Mobile Match-Play - T-Mobile Match Play - Winner,Madelene Sagstrom,0.0865,0.125,0.0385
 2025-04-06 04:37:47.647605,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.08329999999999999,0.3333,0.25
 2025-04-06 09:30:22.809093,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.0771,0.4545,0.3774
@@ -47,9 +45,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 08:35:15.710040,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.043200000000000016,0.6923,0.6491
 2025-04-06 09:30:24.224996,T-Mobile Match-Play - T-Mobile Match Play - Winner,Celine Boutier,0.04240000000000001,0.1333,0.0909
 2025-04-06 08:35:16.959483,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - J. Spieth / W. Mouw / R. Gerard - Final Round 3-Balls,William Mouw,0.039699999999999985,0.2778,0.2381
+2025-04-06 14:31:27.570389,Scores - Final Round Score - Jon Rahm - Final Round Score,Under 70.5,0.039600000000000024,0.4651,0.4255
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,KJ Choi,0.03860000000000001,0.1053,0.0667
-2025-04-06 08:35:16.939439,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - S. Ryder / B. Cauley / T. Fleetwood - Final Round 3-Balls,Bud Cauley,0.03710000000000002,0.3704,0.3333
 2025-04-06 03:12:42.814701,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,0.03710000000000002,0.6923,0.6552
+2025-04-06 08:35:16.939439,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - S. Ryder / B. Cauley / T. Fleetwood - Final Round 3-Balls,Bud Cauley,0.03710000000000002,0.3704,0.3333
 2025-04-06 08:35:17.007865,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - P. Malnati / P. Rodgers / T. Dickson - Final Round 3-Balls,Peter Malnati,0.03689999999999999,0.3226,0.2857
 2025-04-06 04:37:47.724010,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.03640000000000004,0.4,0.3636
 2025-04-06 09:30:22.809093,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,0.03639999999999999,0.6364,0.6
@@ -65,8 +64,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 09:30:22.811942,Championship - England Championship 2024/25 - To Finish Bottom,Luton Town,0.0321,0.0909,0.0588
 2025-04-06 10:34:42.467163,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Atlético Nacional,0.031799999999999995,0.1429,0.1111
 2025-04-06 08:35:17.003748,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - B. Harman / A. Novak / T. Hoge - Final Round 3-Balls,Andrew Novak,0.029600000000000015,0.4,0.3704
-2025-04-06 09:30:22.811942,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.0294,0.0588,0.0294
 2025-04-06 09:30:22.811942,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,0.0294,0.0588,0.0294
+2025-04-06 09:30:22.811942,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.0294,0.0588,0.0294
 2025-04-06 09:30:22.809093,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.029299999999999993,0.0769,0.0476
 2025-04-06 08:35:16.963497,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - J.T. Poston / J. Svensson / D. Berger - Final Round 3-Balls,Jesper Svensson,0.028500000000000025,0.3226,0.2941
 2025-04-06 10:34:42.452925,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,0.027999999999999997,0.1818,0.1538
@@ -77,19 +76,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 10:34:42.310655,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.024999999999999994,0.125,0.1
 2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Columbus Crew,0.0242,0.0909,0.0667
 2025-04-06 04:37:47.724010,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,AGF Aarhus,0.023800000000000043,0.5238,0.5
-2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.023799999999999988,0.1667,0.1429
 2025-04-06 10:34:42.330654,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,0.023799999999999988,0.1667,0.1429
+2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.023799999999999988,0.1667,0.1429
 2025-04-06 08:35:16.393534,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.023799999999999988,0.3571,0.3333
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,0.023799999999999988,0.1667,0.1429
 2025-04-06 08:35:16.943469,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - C. Young / J. Pak / J. Rose - Final Round 3-Balls,Cameron Young,0.02360000000000001,0.4082,0.3846
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,0.02310000000000001,0.1,0.0769
+2025-04-06 14:31:27.470310,Round Match-Ups - Final Round Match-Ups - A. Tosti v B. Hossler - Requests,Alejandro Tosti,0.022600000000000064,0.5348,0.5122
 2025-04-06 04:37:47.647605,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.022199999999999998,0.2222,0.2
 2025-04-06 10:34:42.452925,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,0.021999999999999964,0.3077,0.2857
+2025-04-06 14:31:27.528010,Miami - 2/3 Balls - Final Round 3 Balls - A. Ancer / J. Niemann / L. Oosthuizen - Final Round 3 Balls,Joaquin Niemann,0.020699999999999996,0.4651,0.4444
 2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Austin FC,0.0203,0.0588,0.0385
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,0.0203,0.0588,0.0385
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,0.02020000000000001,0.1111,0.0909
 2025-04-06 08:35:16.999650,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - T. Finau / B. Garnett / G. Woodland - Final Round 3-Balls,Brice Garnett,0.019000000000000017,0.2857,0.2667
-2025-04-06 02:15:36.678266,Boxing Lines - Richard Torrez vs Guido Vianello - To Win the Bout,Richard Torrez,0.018999999999999906,0.7333,0.7143
+2025-04-06 14:31:27.566131,Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 70.5,0.018900000000000028,0.4444,0.4255
 2025-04-06 04:37:47.718258,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.018200000000000004,0.0476,0.0294
 2025-04-06 08:35:16.393534,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.01780000000000001,0.2083,0.1905
 2025-04-06 08:35:16.983529,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - T. Olesen / E. Cole / L. Griffin - Final Round 3-Balls,Lanto Griffin,0.017299999999999982,0.303,0.2857
@@ -100,8 +101,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Charlotte FC,0.014099999999999998,0.0385,0.0244
 2025-04-06 10:34:42.467163,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Deportes Tolima,0.013999999999999999,0.0909,0.0769
 2025-04-06 10:34:42.330654,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.013999999999999999,0.0909,0.0769
-2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,0.013899999999999996,0.125,0.1111
 2025-04-06 10:34:42.307713,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,0.013899999999999996,0.125,0.1111
+2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,0.013899999999999996,0.125,0.1111
 2025-04-06 08:35:15.710040,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.012899999999999995,0.1667,0.1538
 2025-04-06 10:34:42.452925,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,River Plate,0.012799999999999978,0.2985,0.2857
 2025-04-06 04:37:47.709221,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.012700000000000003,0.0323,0.0196
@@ -112,34 +113,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 12:52:04.699612,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,0.012199999999999989,0.5122,0.5
 2025-04-06 09:30:23.146218,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,0.012199999999999989,0.5,0.4878
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,0.011199999999999995,0.0588,0.0476
-2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,0.011199999999999995,0.0588,0.0476
-2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,0.011199999999999995,0.0588,0.0476
 2025-04-06 10:34:42.310655,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Real Salt Lake,0.011199999999999995,0.0588,0.0476
+2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,0.011199999999999995,0.0588,0.0476
+2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,0.011199999999999995,0.0588,0.0476
 2025-04-06 09:30:23.146218,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Minnesota Timberwolves,0.011099999999999999,0.339,0.3279
 2025-04-06 04:37:47.718258,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.01100000000000001,0.5348,0.5238
 2025-04-06 05:32:21.995428,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,0.010699999999999932,0.5455,0.5348
 2025-04-06 08:35:16.947469,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - H. Hall / B. James / A. Rozner - Final Round 3-Balls,Harry Hall,0.010599999999999998,0.4651,0.4545
 2025-04-06 08:35:16.971490,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - K. Roy / B. Martin / B. Griffin - Final Round 3-Balls,Ben Griffin,0.010599999999999998,0.4651,0.4545
 2025-04-06 08:35:16.975493,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - H. Norlander / P. Cantlay / C. Conners - Final Round 3-Balls,Henrik Norlander,0.010399999999999993,0.2326,0.2222
-2025-04-06 08:35:16.971490,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - K. Roy / B. Martin / B. Griffin - Final Round 3-Balls,Ben Martin,-0.010099999999999998,0.3125,0.3226
 2025-04-06 06:41:27.762788,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,-0.010099999999999998,0.4444,0.4545
+2025-04-06 08:35:16.971490,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - K. Roy / B. Martin / B. Griffin - Final Round 3-Balls,Ben Martin,-0.010099999999999998,0.3125,0.3226
 2025-04-06 09:30:23.149582,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs LA Lakers,-0.0102,0.0667,0.0769
 2025-04-06 09:30:23.153091,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Oklahoma City Thunder,-0.01050000000000001,0.1818,0.1923
 2025-04-06 12:52:04.699612,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Florida,-0.010699999999999932,0.5348,0.5455
-2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.011099999999999999,0.1,0.1111
 2025-04-06 08:35:17.007865,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - P. Malnati / P. Rodgers / T. Dickson - Final Round 3-Balls,Patrick Rodgers,-0.011099999999999999,0.4651,0.4762
+2025-04-06 10:34:42.314274,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.011099999999999999,0.1,0.1111
 2025-04-06 10:34:42.338332,Championship - England Championship 2024/25 - Top Goalscorer,Wilson Isidro,-0.011199999999999995,0.0476,0.0588
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Jay Haas,-0.0112,0.004,0.0152
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Joe Durant,-0.011399999999999997,0.0164,0.0278
+2025-04-06 14:31:27.528010,Miami - 2/3 Balls - Final Round 3 Balls - A. Ancer / J. Niemann / L. Oosthuizen - Final Round 3 Balls,Abraham Ancer,-0.01150000000000001,0.3333,0.3448
 2025-04-06 08:35:16.382420,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.011899999999999994,0.0714,0.0833
 2025-04-06 08:35:16.393534,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),-0.011900000000000008,0.0833,0.0952
 2025-04-06 05:32:21.995428,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.012199999999999989,0.5,0.5122
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,-0.012699999999999989,0.3509,0.3636
 2025-04-06 04:37:47.647605,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,-0.012899999999999995,0.1538,0.1667
 2025-04-06 09:30:23.269283,NBA Awards & League Leaders - NBA Awards 2024-25  - Clutch Player of the Year,Nikola Jokic (DEN),-0.013300000000000034,0.3571,0.3704
+2025-04-06 14:31:27.566131,Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 70.5,-0.013799999999999923,0.6226,0.6364
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Billy Andrade,-0.0139,0.0057,0.0196
-2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.013999999999999999,0.0769,0.0909
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,LA Galaxy,-0.013999999999999999,0.0769,0.0909
+2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.013999999999999999,0.0769,0.0909
 2025-04-06 10:34:42.310655,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,-0.013999999999999999,0.0769,0.0909
 2025-04-06 04:37:47.647605,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,-0.01440000000000001,0.0909,0.1053
 2025-04-06 09:30:22.817708,Championship - England Championship 2024/25 - Top 6 Finish,Watford,-0.0145,0.0099,0.0244
@@ -152,9 +155,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Tim Petrovic,-0.0163,0.0033,0.0196
 2025-04-06 09:30:22.882263,League Two - England League Two 2024/25 - Top Goalscorer,Luke Molyneux,-0.017599999999999998,0.002,0.0196
 2025-04-06 08:35:17.003748,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - B. Harman / A. Novak / T. Hoge - Final Round 3-Balls,Brian Harman,-0.017600000000000005,0.3333,0.3509
-2025-04-06 02:15:36.678266,Boxing Lines - Richard Torrez vs Guido Vianello - To Win the Bout,Guido Vianello,-0.017600000000000005,0.3333,0.3509
-2025-04-06 04:37:47.724010,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Randers,-0.0179,0.125,0.1429
 2025-04-06 10:34:42.467163,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,-0.0179,0.125,0.1429
+2025-04-06 04:37:47.724010,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Randers,-0.0179,0.125,0.1429
 2025-04-06 10:34:42.310655,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,LA Galaxy,-0.018099999999999998,0.0588,0.0769
 2025-04-06 08:35:16.943469,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - C. Young / J. Pak / J. Rose - Final Round 3-Balls,Justin Rose,-0.018100000000000005,0.4167,0.4348
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,St. Louis City SC,-0.018200000000000004,0.0294,0.0476
@@ -171,6 +173,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 08:35:16.959483,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - J. Spieth / W. Mouw / R. Gerard - Final Round 3-Balls,Jordan Spieth,-0.021699999999999997,0.4545,0.4762
 2025-04-06 08:35:16.939439,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - S. Ryder / B. Cauley / T. Fleetwood - Final Round 3-Balls,Tommy Fleetwood,-0.021699999999999997,0.4545,0.4762
 2025-04-06 10:34:42.327060,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,-0.02200000000000002,0.6923,0.7143
+2025-04-06 14:31:27.470310,Round Match-Ups - Final Round Match-Ups - A. Tosti v B. Hossler - Requests,Beau Hossler,-0.022600000000000064,0.5122,0.5348
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Retief Goosen,-0.023200000000000002,0.0244,0.0476
 2025-04-06 12:52:05.774646,Scores - Final Round Score - Tom Hoge - Final Round Score,Over 72.5,-0.023799999999999988,0.4762,0.5
 2025-04-06 06:41:27.769164,NBA Championship - NBA Championship 2024-25 - First Time Winner,Yes,-0.024299999999999995,0.0526,0.0769
@@ -189,13 +192,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 08:35:16.935420,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - S. Fisk / C. Phillips / K. Bradley - Final Round 3-Balls,Keegan Bradley,-0.03489999999999999,0.4651,0.5
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Jason Caron,-0.035300000000000005,0.0123,0.0476
 2025-04-06 04:37:47.718258,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.03600000000000003,0.4878,0.5238
+2025-04-06 14:31:27.570389,Scores - Final Round Score - Jon Rahm - Final Round Score,Over 70.5,-0.03639999999999999,0.6,0.6364
 2025-04-06 09:30:23.272549,NBA Awards & League Leaders - NBA Awards 2024-25  - Coach of the Year ,J.B. Bickerstaff,-0.03689999999999999,0.2857,0.3226
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Darren Clarke,-0.0384,0.0385,0.0769
 2025-04-06 09:30:22.817708,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.0384,0.0385,0.0769
 2025-04-06 09:30:24.219800,James Hardie Invitational - James Hardie Invitational - Winner,Vijay Singh,-0.0402,0.0033,0.0435
 2025-04-06 10:34:42.304765,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,-0.04040000000000002,0.1818,0.2222
-2025-04-06 09:30:22.806201,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.04169999999999999,0.125,0.1667
 2025-04-06 08:35:16.385913,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.04169999999999999,0.125,0.1667
+2025-04-06 09:30:22.806201,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.04169999999999999,0.125,0.1667
 2025-04-06 03:12:42.814701,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.0429,0.0196,0.0625
 2025-04-06 08:35:16.397121,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),-0.04290000000000005,0.6,0.6429
 2025-04-06 10:34:42.310655,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.04999999999999999,0.2,0.25
@@ -221,7 +225,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-06 04:37:47.643068,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.10389999999999999,0.2597,0.3636
 2025-04-06 09:30:22.885496,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.10620000000000007,0.8462,0.9524
 2025-04-06 09:30:22.891309,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,-0.11110000000000009,0.6667,0.7778
-2025-04-06 02:15:35.899383,Men's Basketball Tournament - 2025 NCAA DI Men's Basketball Tournament - National Champion,Houston,-0.1114,0.0625,0.1739
 2025-04-06 09:30:22.817708,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.1154,0.3846,0.5
 2025-04-06 10:34:42.338332,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.12589999999999998,0.1818,0.3077
 2025-04-06 10:34:43.838864,Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.1318999999999999,0.5348,0.6667

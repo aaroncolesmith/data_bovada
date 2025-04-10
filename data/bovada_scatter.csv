@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 18:37:43.105659,NFL Draft - Team Markets - Team's First Pick - TB Buccaneers - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.07789999999999997,0.3636,0.2857
 2025-04-10 18:37:43.098862,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.06779999999999997,0.5122,0.4444
 2025-04-10 16:40:13.631056,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.066,0.1429,0.0769
+2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.05870000000000003,0.5238,0.4651
 2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.05130000000000001,0.6667,0.6154
 2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.047599999999999976,0.3333,0.2857
 2025-04-10 18:37:43.095457,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.04459999999999997,0.3571,0.3125
@@ -24,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 17:32:08.996529,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,NE Patriots,0.0245,0.0833,0.0588
 2025-04-10 09:32:52.897457,Scores - 1st Round Score - Min Woo Lee - 1st Round Score,Under 71.5,0.023799999999999988,0.5,0.4762
 2025-04-10 19:25:04.395468,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),0.023799999999999932,0.6667,0.6429
-2025-04-10 07:31:24.200844,Tournament Match-Ups - Tournament Match-Ups - A. Cabrera v B. Langer - Requests,Angel Cabrera,0.02079999999999993,0.5556,0.5348
 2025-04-10 18:37:43.098862,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.0203,0.0526,0.0323
 2025-04-10 13:40:17.212006,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.019499999999999962,0.6491,0.6296
 2025-04-10 16:40:13.631056,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),0.016699999999999937,0.6,0.5833
@@ -32,25 +32,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 17:32:07.772578,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.01469999999999999,0.25,0.2353
 2025-04-10 19:25:04.395468,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),0.014399999999999996,0.0769,0.0625
 2025-04-10 15:34:21.001390,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Christopher Guerrero,0.014100000000000001,0.9615,0.9474
-2025-04-10 07:31:23.575731,Boxing Lines - Jordan White vs Jose Matias Romero - To Win the Bout,Jordan White (UGA),0.013900000000000023,0.8889,0.875
 2025-04-10 16:40:13.648166,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Tyler Warren (PSU),0.013900000000000023,0.8889,0.875
-2025-04-10 07:31:24.055048,Cut Lines - Phil Mickelson - Make Cut / Miss Cut - Phil Mickelson,Make,0.013799999999999923,0.6364,0.6226
 2025-04-10 16:40:13.619829,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.01319999999999999,0.75,0.7368
 2025-04-10 08:38:32.908369,Boxing Lines - Shakhram Giyasov vs Franco Maximiliano Ocampo - To Win the Bout,Shakhram Giyasov,0.0131,0.9655,0.9524
 2025-04-10 17:32:07.772578,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.012899999999999995,0.1667,0.1538
 2025-04-10 09:32:52.882112,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 71.5,0.012199999999999989,0.5122,0.5
-2025-04-10 09:32:52.852231,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 71.5,0.011600000000000055,0.5238,0.5122
 2025-04-10 09:32:52.867298,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 71.5,0.011600000000000055,0.5238,0.5122
+2025-04-10 09:32:52.852231,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Under 71.5,0.011600000000000055,0.5238,0.5122
 2025-04-10 08:38:32.888178,Boxing Lines - Matthew Griego vs Ephraim Bui - To Win the Bout,Matthew Griego,0.011499999999999955,0.6667,0.6552
 2025-04-10 12:57:39.776437,Main Markets - 1st Round 3 Balls - C. Morikawa / J. Niemann / M.W. Lee - 1st Round 3 Balls,Collin Morikawa,0.011099999999999999,0.4762,0.4651
 2025-04-10 09:32:52.872288,Scores - 1st Round Score - Joaquin Niemann - 1st Round Score,Under 71.5,0.01100000000000001,0.5348,0.5238
 2025-04-10 18:37:43.589309,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.01090000000000002,0.8571,0.8462
 2025-04-10 12:57:39.893443,Round Match-Ups - 1st Round Match-Ups - M.W. Lee v S. Scheffler - 1st Round Match-Ups,Scottie Scheffler,0.010700000000000043,0.6774,0.6667
+2025-04-10 20:32:51.592263,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.010699999999999987,0.3333,0.3226
 2025-04-10 09:32:52.852231,Scores - 1st Round Score - Brooks Koepka - 1st Round Score,Over 71.5,-0.010099999999999998,0.5455,0.5556
 2025-04-10 09:32:52.867298,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 71.5,-0.010099999999999998,0.5455,0.5556
 2025-04-10 10:37:13.792760,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.0102,0.0667,0.0769
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0102,0.0667,0.0769
 2025-04-10 10:37:13.775833,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Bayern Munich,-0.0102,0.0667,0.0769
+2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0102,0.0667,0.0769
 2025-04-10 09:32:52.872288,Scores - 1st Round Score - Joaquin Niemann - 1st Round Score,Over 71.5,-0.010699999999999932,0.5348,0.5455
 2025-04-10 16:40:13.619829,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.010699999999999987,0.3226,0.3333
 2025-04-10 12:57:39.776437,Main Markets - 1st Round 3 Balls - C. Morikawa / J. Niemann / M.W. Lee - 1st Round 3 Balls,Joaquin Niemann,-0.010699999999999987,0.3226,0.3333
@@ -66,39 +65,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 18:37:43.102279,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.01319999999999999,0.25,0.2632
 2025-04-10 16:40:13.623912,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.013299999999999979,0.6296,0.6429
 2025-04-10 12:57:39.893443,Round Match-Ups - 1st Round Match-Ups - M.W. Lee v S. Scheffler - 1st Round Match-Ups,Min Woo Lee,-0.013800000000000034,0.3636,0.3774
+2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.013899999999999996,0.1111,0.125
 2025-04-10 18:37:43.095457,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.013899999999999996,0.1111,0.125
 2025-04-10 18:37:43.092066,NFL Draft - Team Markets - Team's First Pick - PHI Eagles - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.013999999999999999,0.0769,0.0909
 2025-04-10 09:32:51.090135,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.014900000000000004,0.0196,0.0345
 2025-04-10 17:32:08.942719,NFL Draft - Team Markets - Team's First Pick - TB Buccaneers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.015100000000000002,0.1667,0.1818
-2025-04-10 07:31:23.575731,Boxing Lines - Jordan White vs Jose Matias Romero - To Win the Bout,Jose Matias Romero,-0.016600000000000004,0.1739,0.1905
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.016699999999999993,0.1961,0.2128
 2025-04-10 09:32:51.190553,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.016699999999999993,0.25,0.2667
+2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.016699999999999993,0.1961,0.2128
 2025-04-10 08:38:32.908369,Boxing Lines - Shakhram Giyasov vs Franco Maximiliano Ocampo - To Win the Bout,Franco Maximiliano Ocampo,-0.016700000000000007,0.0833,0.1
 2025-04-10 09:32:51.086813,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Jules Kounde (Barcelona),-0.017099999999999997,0.0123,0.0294
 2025-04-10 13:40:17.212006,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.018100000000000005,0.4167,0.4348
 2025-04-10 16:40:13.631056,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.018599999999999978,0.1481,0.1667
 2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0189,0.0196,0.0385
-2025-04-10 07:31:24.055048,Cut Lines - Phil Mickelson - Make Cut / Miss Cut - Phil Mickelson,Miss,-0.018900000000000028,0.4255,0.4444
 2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.019299999999999998,0.0333,0.0526
+2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.01949999999999999,0.0714,0.0909
 2025-04-10 17:32:08.996529,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,CHI Bears,-0.019600000000000006,0.303,0.3226
 2025-04-10 15:34:21.001390,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Oliver Quintana Sanchez,-0.02020000000000001,0.0909,0.1111
 2025-04-10 10:37:16.002670,Round Match-Ups - 1st Round Match-Ups - M.W. Lee v S. Scheffler - 1st Round Match-Ups,Scottie Scheffler,-0.02080000000000004,0.6667,0.6875
 2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.022000000000000006,0.0833,0.1053
-2025-04-10 07:31:24.200844,Tournament Match-Ups - Tournament Match-Ups - A. Cabrera v B. Langer - Requests,Bernhard Langer,-0.022600000000000064,0.5122,0.5348
 2025-04-10 16:40:13.641285,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),-0.023799999999999932,0.6429,0.6667
 2025-04-10 09:32:51.086813,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Bradley Barcola (PSG),-0.023899999999999998,0.0196,0.0435
 2025-04-10 14:35:50.908422,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.026499999999999968,0.6226,0.6491
 2025-04-10 09:32:52.897457,Scores - 1st Round Score - Min Woo Lee - 1st Round Score,Over 71.5,-0.026499999999999968,0.5652,0.5917
 2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,-0.0267,0.0909,0.1176
 2025-04-10 16:40:13.627482,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.027700000000000002,0.0556,0.0833
+2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.028399999999999995,0.0625,0.0909
 2025-04-10 16:40:13.641285,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),-0.028399999999999995,0.0625,0.0909
 2025-04-10 09:32:51.090135,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.0294,0.0294,0.0588
+2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.030199999999999998,0.0323,0.0625
 2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.030299999999999994,0.3333,0.3636
 2025-04-10 16:40:13.644763,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Omarion Hampton (NC),-0.030699999999999998,0.0526,0.0833
 2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.031200000000000002,0.0164,0.0476
 2025-04-10 17:32:08.946526,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.033299999999999996,0.1,0.1333
-2025-04-10 18:37:43.095457,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.033300000000000024,0.1667,0.2
 2025-04-10 16:40:13.627482,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.033300000000000024,0.1667,0.2
+2025-04-10 18:37:43.095457,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.033300000000000024,0.1667,0.2
 2025-04-10 09:32:51.090135,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Ousmane Dembele (PSG),-0.03439999999999999,0.0323,0.0667
 2025-04-10 09:32:51.086813,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Ollie Watkins (Aston Villa),-0.0344,0.0244,0.0588
 2025-04-10 18:37:43.098862,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.037599999999999995,0.1053,0.1429
@@ -118,6 +118,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 09:32:51.086813,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Julian Brandt (Borussia Dortmund),-0.0713,0.0196,0.0909
 2025-04-10 17:32:08.946526,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.07139999999999996,0.2857,0.3571
 2025-04-10 18:37:43.102279,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.07220000000000001,0.0278,0.1
+2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.07930000000000001,0.1429,0.2222
 2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.08039999999999997,0.2273,0.3077
 2025-04-10 09:32:51.086813,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Achraf Hakimi (PSG),-0.10910000000000002,0.0909,0.2
 2025-04-10 09:32:51.090135,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),-0.1111,0.1111,0.2222

@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-09 16:42:55.452617,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),0.028399999999999995,0.0909,0.0625
 2025-04-09 21:28:37.305807,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Satou Sabally (DAL),0.028000000000000004,0.0476,0.0196
 2025-04-09 22:33:11.340783,45th Federal Election - Prime Minister After Next Election - PM After Election,Mark Carney,0.027800000000000047,0.7778,0.75
+2025-04-10 04:36:38.974978,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Oliver Quintana Sanchez,0.027800000000000005,0.1111,0.0833
 2025-04-09 19:27:17.376417,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.02779999999999999,0.25,0.2222
 2025-04-09 16:42:55.042276,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Houston,0.0267,0.1176,0.0909
 2025-04-10 02:05:06.024626,Positions - Finishing Position - Jon Rahm - Finishing Position,15th or better,0.025599999999999956,0.6,0.5744
@@ -48,12 +49,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-09 16:42:55.042276,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Duke,0.01440000000000001,0.1053,0.0909
 2025-04-09 16:42:55.442229,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.014399999999999996,0.0769,0.0625
 2025-04-09 16:42:55.910824,Boxing Lines - Dzmitry Asanau vs Francesco Patera - To Win the Bout,Dzmitry Asanau,0.01429999999999998,0.9852,0.9709
-2025-04-09 20:32:20.622992,Boxing Lines - Mary Spencer vs Ogleidis Suarez - To Win the Bout,Mary Spencer,0.0131,0.9655,0.9524
 2025-04-10 02:05:05.717524,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Christopher Guerrero,0.0131,0.9655,0.9524
+2025-04-09 20:32:20.622992,Boxing Lines - Mary Spencer vs Ogleidis Suarez - To Win the Bout,Mary Spencer,0.0131,0.9655,0.9524
 2025-04-09 17:32:55.895491,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,DEN Broncos,0.012899999999999998,0.0385,0.0256
+2025-04-10 04:36:39.109209,The Masters - The Masters 2025 - Winner,Will Zalatoris,0.012700000000000003,0.0323,0.0196
+2025-04-10 04:36:39.109209,The Masters - The Masters 2025 - Winner,Russell Henley,0.012700000000000003,0.0323,0.0196
 2025-04-09 21:28:37.759807,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.012700000000000003,0.0323,0.0196
 2025-04-09 17:32:56.371838,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.012199999999999989,0.5122,0.5
 2025-04-09 22:33:12.078708,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.01090000000000002,0.8571,0.8462
+2025-04-10 04:36:39.109209,The Masters - The Masters 2025 - Winner,Collin Morikawa,0.0102,0.0769,0.0667
 2025-04-10 02:05:04.375731,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,-0.010099999999999998,0.4444,0.4545
 2025-04-09 21:28:36.759565,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Arsenal-Bayern Munich,-0.0102,0.0667,0.0769
 2025-04-09 21:28:38.322623,Boxing Lines - Dalton Smith vs Mathieu Germain - To Win the Bout,Mathieu Germain,-0.010899999999999993,0.1429,0.1538
@@ -70,11 +74,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-09 21:28:36.756630,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,-0.01469999999999999,0.2353,0.25
 2025-04-10 02:05:04.369554,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.015100000000000002,0.1667,0.1818
 2025-04-09 21:28:37.305807,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.015700000000000006,0.1176,0.1333
-2025-04-09 20:32:20.622992,Boxing Lines - Mary Spencer vs Ogleidis Suarez - To Win the Bout,Ogleidis Suarez,-0.016700000000000007,0.0833,0.1
 2025-04-10 02:05:05.717524,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Oliver Quintana Sanchez,-0.016700000000000007,0.0833,0.1
+2025-04-09 20:32:20.622992,Boxing Lines - Mary Spencer vs Ogleidis Suarez - To Win the Bout,Ogleidis Suarez,-0.016700000000000007,0.0833,0.1
 2025-04-09 21:28:37.805461,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.017600000000000005,0.3333,0.3509
-2025-04-10 02:05:04.378630,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,-0.018200000000000004,0.0294,0.0476
+2025-04-10 04:36:38.974978,Boxing Lines - Christopher Guerrero vs Oliver Quintana Sanchez - To Win the Bout,Christopher Guerrero,-0.018100000000000005,0.9474,0.9655
 2025-04-10 02:05:04.378630,Championship - England Championship 2024/25 - To Finish Bottom,Derby County,-0.018200000000000004,0.0294,0.0476
+2025-04-10 02:05:04.378630,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,-0.018200000000000004,0.0294,0.0476
 2025-04-10 02:05:04.375731,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.019000000000000017,0.2667,0.2857
 2025-04-10 02:05:04.375731,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.02020000000000001,0.0909,0.1111
 2025-04-09 16:42:55.042276,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Kansas,-0.0203,0.0385,0.0588
@@ -82,15 +87,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-09 19:27:18.299188,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,-0.02079999999999993,0.5348,0.5556
 2025-04-09 16:42:55.383499,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,-0.0213,0.0556,0.0769
 2025-04-09 21:28:37.759807,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.022199999999999998,0.2,0.2222
-2025-04-10 02:05:04.384429,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.022200000000000004,0.0123,0.0345
 2025-04-09 21:28:36.759565,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Inter Milan-Aston Villa,-0.022200000000000004,0.0123,0.0345
+2025-04-10 02:05:04.384429,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.022200000000000004,0.0123,0.0345
 2025-04-09 21:28:36.756630,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Borussia Dortmund,-0.022400000000000003,0.002,0.0244
 2025-04-10 02:05:06.024626,Positions - Finishing Position - Jon Rahm - Finishing Position,16th or worse,-0.022699999999999998,0.4651,0.4878
 2025-04-09 21:28:36.766153,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Germany,-0.02310000000000001,0.0769,0.1
 2025-04-09 21:28:36.756630,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Aston Villa,-0.0233,0.0152,0.0385
 2025-04-10 02:05:04.375731,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.0254,0.004,0.0294
-2025-04-09 21:28:37.305807,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.02560000000000001,0.3077,0.3333
 2025-04-09 21:28:37.759807,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.02560000000000001,0.3077,0.3333
+2025-04-09 21:28:37.305807,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.02560000000000001,0.3077,0.3333
 2025-04-09 22:33:11.340783,45th Federal Election - Prime Minister After Next Election - PM After Election,Pierre Poilievre,-0.02679999999999999,0.2857,0.3125
 2025-04-09 21:28:37.305807,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Sabrina Ionescu (NYL),-0.029299999999999993,0.0476,0.0769
 2025-04-09 21:28:36.759565,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Barcelona-Aston Villa,-0.033,0.0196,0.0526

@@ -1,19 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Safety,0.11109999999999998,0.3333,0.2222
 2025-04-11 04:37:00.498163,"Daily Soccer Specials - European Soccer Specials - Friday, 11th April - European Soccer Specials - Friday, 11th April","AC Milan, Leipzig and Lens each to score 1 or more goals",0.10149999999999992,0.6667,0.5652
 2025-04-10 21:29:30.206090,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),0.08330000000000001,0.25,0.1667
 2025-04-11 06:42:23.740144,Scores - 2nd Round Scores - Rory McIIroy - 2nd Round Scores,Under 70.5,0.06520000000000004,0.5652,0.5
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.05870000000000003,0.5238,0.4651
 2025-04-10 21:29:30.131881,NL East - NL East 2025 - NL East Winner,New York Mets,0.05790000000000001,0.3704,0.3125
 2025-04-11 02:05:39.106369,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Eintracht Frankfurt,0.05559999999999998,0.1667,0.1111
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.05130000000000001,0.6667,0.6154
 2025-04-10 21:29:30.200792,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),0.048100000000000004,0.125,0.0769
-2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.047599999999999976,0.3333,0.2857
 2025-04-11 03:45:05.898204,Scores - 2nd Round Scores - Akshay Bhatia - 2nd Round Scores,Over 72.5,0.045499999999999985,0.5,0.4545
 2025-04-11 02:05:39.106369,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Bodø/Glimt,0.0392,0.0588,0.0196
-2025-04-10 19:25:04.406489,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),0.03710000000000002,0.6923,0.6552
 2025-04-11 03:10:19.989582,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.03709999999999991,0.6667,0.6296
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.03420000000000001,0.1111,0.0769
 2025-04-11 06:42:22.366978,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.03420000000000001,0.1111,0.0769
 2025-04-10 22:35:04.327288,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.02529999999999999,0.8824,0.8571
 2025-04-10 21:29:30.189973,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),0.024,0.0625,0.0385
@@ -21,11 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-11 06:42:23.703469,Scores - 2nd Round Scores - Bryson DeChambeau - 2nd Round Scores,Under 70.5,0.023799999999999988,0.5,0.4762
 2025-04-11 06:42:23.722311,Scores - 2nd Round Scores - Jason Day - 2nd Round Scores,Over 72.5,0.023799999999999988,0.5,0.4762
 2025-04-11 02:05:40.610998,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Michele De Filippo,0.023799999999999988,0.5,0.4762
-2025-04-10 19:25:04.395468,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),0.023799999999999932,0.6667,0.6429
 2025-04-11 02:05:39.106369,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Athletic Bilbao,0.019000000000000017,0.2857,0.2667
 2025-04-10 22:35:04.171252,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.016700000000000007,0.1,0.0833
 2025-04-11 06:42:22.509321,NBA Awards & League Leaders - NBA Awards 2024-25  - Western Conference Finals MVP,Nikola Jokic (DEN),0.016600000000000004,0.0833,0.0667
-2025-04-10 19:25:04.395468,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),0.014399999999999996,0.0769,0.0625
 2025-04-10 22:35:04.338430,Boxing Lines - Dzmitry Asanau vs Francesco Patera - To Win the Bout,Francesco Patera,0.014399999999999996,0.0769,0.0625
 2025-04-11 03:10:20.689749,Main Markets - 2nd Round 3 Balls - J.L. Ballester / J. Thomas / S. Scheffler - 2nd Round 3 Balls,Scottie Scheffler,0.013799999999999923,0.6364,0.6226
 2025-04-11 06:42:23.708063,Scores - 2nd Round Scores - Cameron Smith - 2nd Round Scores,Under 71.5,0.0116,0.4878,0.4762
@@ -33,52 +26,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-10 20:32:51.592263,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.010699999999999987,0.3333,0.3226
 2025-04-11 02:05:39.557803,NBA Championship - NBA Championship 2024-25 - NBA Champion,Houston Rockets,0.010300000000000002,0.0244,0.0141
 2025-04-11 02:05:39.110970,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Rapid Wien,0.0102,0.0769,0.0667
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0102,0.0667,0.0769
 2025-04-10 23:31:06.627357,Boxing Lines - Dzmitry Asanau vs Francesco Patera - To Win the Bout,Francesco Patera,-0.0102,0.0667,0.0769
 2025-04-11 02:05:39.110970,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Djurgårdens IF,-0.010300000000000002,0.0141,0.0244
 2025-04-11 06:42:22.348267,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.010899999999999993,0.1429,0.1538
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.0109,0.0417,0.0526
-2025-04-11 06:42:23.744469,Scores - 2nd Round Scores - Scottie Scheffler - 2nd Round Scores,Over 70.5,-0.011099999999999999,0.4651,0.4762
 2025-04-11 06:42:23.712875,Scores - 2nd Round Scores - Collin Morikawa - 2nd Round Scores,Over 71.5,-0.011099999999999999,0.4651,0.4762
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.011099999999999999,0.1,0.1111
+2025-04-11 06:42:23.744469,Scores - 2nd Round Scores - Scottie Scheffler - 2nd Round Scores,Over 70.5,-0.011099999999999999,0.4651,0.4762
 2025-04-11 06:42:23.698730,Scores - 2nd Round Scores - Akshay Bhatia - 2nd Round Scores,Over 72.5,-0.012199999999999989,0.4878,0.5
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.012299999999999978,0.3448,0.3571
-2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.012299999999999991,0.1053,0.1176
-2025-04-11 03:45:05.176949,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.012899999999999995,0.1538,0.1667
 2025-04-10 21:29:30.200792,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),-0.012899999999999995,0.1538,0.1667
-2025-04-10 19:25:04.868383,Boxing Lines - Kacper Meyna vs Mariusz Wach - To Win the Bout,Mariusz Wach,-0.012899999999999995,0.1538,0.1667
+2025-04-11 03:45:05.176949,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.012899999999999995,0.1538,0.1667
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.013899999999999996,0.1111,0.125
 2025-04-11 02:05:39.110970,UEFA Europa Conference League - UEFA Europa Conference League 2024/25 - Winner,Legia Warsaw,-0.014099999999999998,0.0244,0.0385
 2025-04-10 22:35:04.338430,Boxing Lines - Dzmitry Asanau vs Francesco Patera - To Win the Bout,Dzmitry Asanau,-0.01429999999999998,0.9709,0.9852
 2025-04-11 03:10:19.989582,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.015400000000000025,0.2703,0.2857
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.016699999999999993,0.1961,0.2128
 2025-04-11 06:42:23.708063,Scores - 2nd Round Scores - Cameron Smith - 2nd Round Scores,Over 71.5,-0.017299999999999982,0.5744,0.5917
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0189,0.0196,0.0385
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.019299999999999998,0.0333,0.0526
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.01949999999999999,0.0714,0.0909
 2025-04-11 06:42:23.726873,Scores - 2nd Round Scores - Justin Rose - 2nd Round Scores,Under 72.5,-0.01970000000000005,0.5455,0.5652
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.0208,0.0625,0.0833
-2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.022000000000000006,0.0833,0.1053
 2025-04-10 22:35:04.327288,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,-0.023800000000000016,0.1667,0.1905
+2025-04-11 02:05:40.610998,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.026499999999999968,0.5652,0.5917
 2025-04-11 06:42:23.722311,Scores - 2nd Round Scores - Jason Day - 2nd Round Scores,Under 72.5,-0.026499999999999968,0.5652,0.5917
 2025-04-11 06:42:23.703469,Scores - 2nd Round Scores - Bryson DeChambeau - 2nd Round Scores,Over 70.5,-0.026499999999999968,0.5652,0.5917
-2025-04-11 02:05:40.610998,Boxing Lines - Michele De Filippo vs Antonio Licata - To Win the Bout,Antonio Licata,-0.026499999999999968,0.5652,0.5917
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,-0.0267,0.0909,0.1176
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.028399999999999995,0.0625,0.0909
 2025-04-10 21:29:30.200792,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),-0.029600000000000015,0.3704,0.4
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.030199999999999998,0.0323,0.0625
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.030299999999999994,0.3333,0.3636
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.031200000000000002,0.0164,0.0476
 2025-04-11 02:05:39.106369,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.033300000000000024,0.1667,0.2
-2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.04000000000000001,0.16,0.2
-2025-04-10 19:25:04.332783,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.0417,0.0833,0.125
 2025-04-11 03:45:05.898204,Scores - 2nd Round Scores - Akshay Bhatia - 2nd Round Scores,Under 72.5,-0.04259999999999997,0.5652,0.6078
-2025-04-10 19:25:04.336729,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.04269999999999999,0.1111,0.1538
 2025-04-10 21:29:30.206090,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),-0.05130000000000001,0.3333,0.3846
-2025-04-10 19:25:04.340225,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.05310000000000001,0.2326,0.2857
 2025-04-11 06:42:22.366978,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.05890000000000001,0.3333,0.3922
 2025-04-10 21:29:30.131881,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.059099999999999986,0.2857,0.3448
 2025-04-11 06:42:23.740144,Scores - 2nd Round Scores - Rory McIIroy - 2nd Round Scores,Over 70.5,-0.06520000000000004,0.5,0.5652
 2025-04-11 02:05:39.106369,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Lazio,-0.07069999999999999,0.1111,0.1818
 2025-04-10 20:32:52.455486,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.07930000000000001,0.1429,0.2222
-2025-04-10 19:25:04.329256,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.08039999999999997,0.2273,0.3077

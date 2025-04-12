@@ -12,21 +12,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 16:35:18.483132,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Safety,0.0339,0.0625,0.0286
 2025-04-12 12:51:36.764502,Scores - 3rd Round Score - Sungjae Im - 3rd Round Score,Under 71.5,0.033299999999999996,0.4878,0.4545
 2025-04-12 15:29:46.948205,Scores - 3rd Round Score - Tyrrell Hatton - 3rd Round Score,Over 71.5,0.033299999999999996,0.5455,0.5122
-2025-04-12 16:35:18.496813,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.031799999999999995,0.1429,0.1111
 2025-04-12 14:31:13.548758,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,0.031799999999999995,0.4762,0.4444
+2025-04-12 16:35:18.496813,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.031799999999999995,0.1429,0.1111
 2025-04-12 14:31:13.386704,Round Match-Ups - 3rd Round Match-Ups - S. Lowry v J. Rose - 3rd Round Match-Ups ,Shane Lowry,0.028900000000000037,0.5744,0.5455
 2025-04-12 16:35:18.476242,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.028600000000000014,0.3922,0.3636
 2025-04-12 12:51:35.517961,45th Federal Election - 45th Federal Election - Will Pierre Poilievre lose his seat?,Yes,0.027800000000000005,0.1111,0.0833
 2025-04-12 16:35:18.486591,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,0.02779999999999999,0.25,0.2222
 2025-04-12 20:30:29.880801,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.02750000000000008,0.6429,0.6154
-2025-04-12 15:29:46.076441,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.026499999999999968,0.5917,0.5652
 2025-04-12 15:29:46.160701,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,LV Raiders,0.026499999999999968,0.5917,0.5652
+2025-04-12 15:29:46.076441,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.026499999999999968,0.5917,0.5652
 2025-04-12 14:31:13.539144,Scores - 3rd Round Score - Shane Lowry - 3rd Round Score,Under 71.5,0.025599999999999956,0.6,0.5744
 2025-04-12 16:35:18.483132,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.025300000000000003,0.1429,0.1176
 2025-04-12 18:36:48.484412,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.024999999999999994,0.125,0.1
 2025-04-12 12:51:36.596154,Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Under 70.5,0.023800000000000043,0.5238,0.5
-2025-04-12 15:29:46.904439,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
 2025-04-12 20:30:29.403719,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,0.023799999999999988,0.1667,0.1429
+2025-04-12 15:29:46.904439,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
 2025-04-12 15:29:46.926345,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 71.5,0.022600000000000064,0.6226,0.6
 2025-04-12 13:32:11.584792,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 70.5,0.022600000000000064,0.6226,0.6
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Oklahoma City Thunder,0.022199999999999998,0.6774,0.6552
@@ -37,11 +37,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 13:32:11.231105,Round Match-Ups - 3rd Round Match-Ups - J. Thomas v J. Rahm - Requests,Jon Rahm,0.02169999999999994,0.5455,0.5238
 2025-04-12 22:32:25.495697,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.020500000000000074,0.8667,0.8462
 2025-04-12 14:31:13.283582,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / W. Clark - 3rd Round 2-Balls,Wyndham Clark,0.01970000000000005,0.5652,0.5455
-2025-04-12 11:25:19.452522,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Jayson Tatum (BOS),0.019000000000000017,0.2857,0.2667
+2025-04-12 23:49:43.437858,Boxing Lines - Stephan Shaw vs Raphael Akpejiori - To Win the Bout,Stephan Shaw,0.01959999999999995,0.8291,0.8095
 2025-04-12 13:32:11.597935,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 70.5,0.01880000000000004,0.6552,0.6364
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR LA Lakers,0.018100000000000005,0.4348,0.4167
 2025-04-12 13:32:11.615262,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 71.5,0.017299999999999982,0.5917,0.5744
 2025-04-12 15:29:46.943817,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 70.5,0.016900000000000026,0.6721,0.6552
+2025-04-12 23:49:42.964597,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.016600000000000004,0.0833,0.0667
 2025-04-12 20:30:30.344838,Boxing Lines - William Foster III vs Brandon Leon Benitez - To Win the Bout,Brandon Leon Benitez,0.01629999999999998,0.2632,0.2469
 2025-04-12 15:29:46.965495,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 70.5,0.016100000000000003,0.6078,0.5917
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Memphis Grizzlies,0.01579999999999998,0.3333,0.3175
@@ -55,13 +56,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 15:29:46.104042,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.011600000000000055,0.5238,0.5122
 2025-04-12 15:29:46.767617,Main Markets - 3rd Round 2-Balls - L. Aberg / H. Matsuyama - 3rd Round 2-Balls,Hideki Matsuyama,0.011600000000000055,0.5238,0.5122
 2025-04-12 17:31:58.789494,Round Match-Ups - 3rd Round Match-Ups - C. Conners v V. Hovland - Requests,Corey Conners,0.011600000000000055,0.5238,0.5122
-2025-04-12 13:32:11.515683,Scores - 3rd Round Score - Joaquin Niemann - 3rd Round Score,Under 71.5,0.0116,0.4878,0.4762
 2025-04-12 13:32:11.463619,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 70.5,0.0116,0.4878,0.4762
+2025-04-12 13:32:11.515683,Scores - 3rd Round Score - Joaquin Niemann - 3rd Round Score,Under 71.5,0.0116,0.4878,0.4762
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Minnesota Timberwolves,0.01150000000000001,0.3448,0.3333
-2025-04-12 12:51:36.733693,Scores - 3rd Round Score - Rasmus Hojgaard - 3rd Round Score,Over 72.5,0.011099999999999999,0.4762,0.4651
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Denver Nuggets,0.011099999999999999,0.0667,0.0556
-2025-04-12 18:36:48.948553,Boxing Lines - Francisco Rodriguez Jr vs Naheem Parker - To Win the Bout,Naheem Parker,0.011099999999999999,0.1111,0.1
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Houston Rockets,0.011099999999999999,0.339,0.3279
+2025-04-12 12:51:36.733693,Scores - 3rd Round Score - Rasmus Hojgaard - 3rd Round Score,Over 72.5,0.011099999999999999,0.4762,0.4651
+2025-04-12 18:36:48.948553,Boxing Lines - Francisco Rodriguez Jr vs Naheem Parker - To Win the Bout,Naheem Parker,0.011099999999999999,0.1111,0.1
 2025-04-12 13:32:11.446310,Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Under 70.5,0.01100000000000001,0.5348,0.5238
 2025-04-12 15:29:46.594473,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.01090000000000002,0.8571,0.8462
 2025-04-12 15:29:46.104042,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.010899999999999993,0.1538,0.1429
@@ -69,7 +70,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 13:32:11.498224,Scores - 3rd Round Score - Hideki Matsuyama - 3rd Round Score,Under 70.5,0.010599999999999998,0.4651,0.4545
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Oklahoma City Thunder OR La Lakers,0.010599999999999998,0.4651,0.4545
 2025-04-12 16:35:19.183316,Main Markets - 3rd Round Six Shooter Group E - 3rd Round Six Shooter,Rasmus Hojgaard,0.010499999999999982,0.2105,0.2
-2025-04-12 11:25:19.298421,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.010099999999999998,0.3226,0.3125
 2025-04-12 13:32:11.511315,Scores - 3rd Round Score - Jason Day - 3rd Round Score,Under 71.5,0.010099999999999998,0.5556,0.5455
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR LA Lakers,0.010099999999999998,0.1212,0.1111
 2025-04-12 15:29:46.319430,New Orleans Saints - New Orleans Saints Regular Season Wins - Saints Regular Season Wins,Over 6.5,-0.010599999999999998,0.4545,0.4651
@@ -78,50 +78,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 13:32:11.446310,Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Over 70.5,-0.010699999999999932,0.5348,0.5455
 2025-04-12 20:30:29.880801,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.010899999999999993,0.1429,0.1538
 2025-04-12 22:32:25.510093,Boxing Lines - Jordan White vs Jose Matias Romero - To Win the Bout,Jose Matias Romero,-0.010899999999999993,0.1429,0.1538
-2025-04-12 18:36:48.935672,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,-0.01090000000000002,0.8462,0.8571
 2025-04-12 12:51:36.238355,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,-0.01090000000000002,0.8462,0.8571
+2025-04-12 18:36:48.935672,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,-0.01090000000000002,0.8462,0.8571
+2025-04-12 15:29:46.767617,Main Markets - 3rd Round 2-Balls - L. Aberg / H. Matsuyama - 3rd Round 2-Balls,Ludvig Aberg,-0.01100000000000001,0.5238,0.5348
 2025-04-12 16:35:19.318010,Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Over 70.5,-0.01100000000000001,0.5238,0.5348
 2025-04-12 17:31:58.789494,Round Match-Ups - 3rd Round Match-Ups - C. Conners v V. Hovland - Requests,Viktor Hovland,-0.01100000000000001,0.5238,0.5348
-2025-04-12 15:29:46.767617,Main Markets - 3rd Round 2-Balls - L. Aberg / H. Matsuyama - 3rd Round 2-Balls,Ludvig Aberg,-0.01100000000000001,0.5238,0.5348
-2025-04-12 11:25:19.317163,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.011099999999999999,0.1,0.1111
-2025-04-12 11:25:19.456042,NBA Awards & League Leaders - NBA Awards 2024-25  - Western Conference Finals MVP,Luka Doncic (LAL),-0.011099999999999999,0.1,0.1111
-2025-04-12 11:25:19.452522,NBA Awards & League Leaders - NBA Awards 2024-25  - NBA Finals MVP,Jaylen Brown (BOS),-0.011199999999999995,0.0476,0.0588
-2025-04-12 14:31:12.545634,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.011399999999999997,0.0164,0.0278
 2025-04-12 17:31:58.111051,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.011399999999999997,0.0164,0.0278
+2025-04-12 14:31:12.545634,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.011399999999999997,0.0164,0.0278
 2025-04-12 13:32:11.615262,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 71.5,-0.0116,0.4762,0.4878
 2025-04-12 13:32:11.511315,Scores - 3rd Round Score - Jason Day - 3rd Round Score,Over 71.5,-0.011600000000000055,0.5122,0.5238
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Memphis Grizzlies,-0.011899999999999994,0.1481,0.16
 2025-04-12 14:31:13.386704,Round Match-Ups - 3rd Round Match-Ups - S. Lowry v J. Rose - 3rd Round Match-Ups ,Justin Rose,-0.012199999999999989,0.4878,0.5
 2025-04-12 17:31:58.107551,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.012199999999999989,0.5,0.5122
-2025-04-12 11:25:19.321938,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.012899999999999995,0.1538,0.1667
 2025-04-12 18:36:48.484412,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.014900000000000024,0.3077,0.3226
 2025-04-12 12:51:35.421390,45th Federal Election - 45th Federal Election - Next Government of Canada,Conservative Minority,-0.015100000000000002,0.1667,0.1818
 2025-04-12 15:29:46.943817,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 70.5,-0.016000000000000014,0.3922,0.4082
 2025-04-12 13:32:11.628267,Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score,Over 71.5,-0.016100000000000003,0.5917,0.6078
 2025-04-12 12:51:35.318689,NBA Awards & League Leaders - NBA Awards 2024-25  - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.016699999999999993,0.25,0.2667
 2025-04-12 20:30:29.403719,B League - Japan B-League 2024/25 - Outright,Chiba Jets,-0.016700000000000007,0.0833,0.1
-2025-04-12 13:32:11.597935,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 70.5,-0.017299999999999982,0.4082,0.4255
 2025-04-12 13:32:11.515683,Scores - 3rd Round Score - Joaquin Niemann - 3rd Round Score,Over 71.5,-0.017299999999999982,0.5744,0.5917
+2025-04-12 13:32:11.597935,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 70.5,-0.017299999999999982,0.4082,0.4255
 2025-04-12 13:32:11.463619,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Over 70.5,-0.017299999999999982,0.5744,0.5917
 2025-04-12 17:31:58.111051,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.017300000000000003,0.0303,0.0476
 2025-04-12 20:30:30.344838,Boxing Lines - William Foster III vs Brandon Leon Benitez - To Win the Bout,William Foster III,-0.01750000000000007,0.8039,0.8214
 2025-04-12 16:35:18.483132,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.01759999999999999,0.1,0.1176
 2025-04-12 15:29:46.079904,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.018100000000000005,0.4167,0.4348
 2025-04-12 22:32:25.495697,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Eimantas Stanionis,-0.01820000000000002,0.1818,0.2
-2025-04-12 11:25:19.456042,NBA Awards & League Leaders - NBA Awards 2024-25  - Western Conference Finals MVP,LeBron James (LAL),-0.019099999999999992,0.0476,0.0667
 2025-04-12 16:35:19.313777,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,-0.019699999999999995,0.4348,0.4545
 2025-04-12 12:51:36.596154,Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Over 70.5,-0.01970000000000005,0.5455,0.5652
 2025-04-12 16:35:18.483132,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.02020000000000001,0.0909,0.1111
 2025-04-12 15:29:46.926345,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 71.5,-0.020699999999999996,0.4444,0.4651
 2025-04-12 13:32:11.584792,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,-0.020699999999999996,0.4444,0.4651
+2025-04-12 23:49:43.437858,Boxing Lines - Stephan Shaw vs Raphael Akpejiori - To Win the Bout,Raphael Akpejiori,-0.02159999999999998,0.2381,0.2597
 2025-04-12 15:29:46.965495,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,-0.021699999999999997,0.4545,0.4762
 2025-04-12 15:29:46.090251,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.022000000000000006,0.0833,0.1053
 2025-04-12 14:31:12.014129,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.02210000000000001,0.2105,0.2326
 2025-04-12 14:31:13.539144,Scores - 3rd Round Score - Shane Lowry - 3rd Round Score,Over 71.5,-0.022699999999999998,0.4651,0.4878
-2025-04-12 14:31:13.283582,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / W. Clark - 3rd Round 2-Balls,Matt Fitzpatrick,-0.023799999999999988,0.4762,0.5
 2025-04-12 17:31:58.111051,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.023799999999999988,0.1429,0.1667
-2025-04-12 15:29:46.738883,Main Markets - 3rd Round 2-Balls - T. Hoge / M. Homa - 3rd Round 2-Balls,Max Homa,-0.023800000000000043,0.5,0.5238
+2025-04-12 14:31:13.283582,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / W. Clark - 3rd Round 2-Balls,Matt Fitzpatrick,-0.023799999999999988,0.4762,0.5
 2025-04-12 13:32:11.222335,Round Match-Ups - 3rd Round Match-Ups - M. Greyserman v JT Poston - Requests,Max Greyserman,-0.023800000000000043,0.5,0.5238
+2025-04-12 15:29:46.738883,Main Markets - 3rd Round 2-Balls - T. Hoge / M. Homa - 3rd Round 2-Balls,Max Homa,-0.023800000000000043,0.5,0.5238
 2025-04-12 15:29:46.904439,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 71.5,-0.026499999999999968,0.5652,0.5917
 2025-04-12 14:31:12.545634,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.026500000000000024,0.1818,0.2083
 2025-04-12 15:29:46.090251,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.027800000000000005,0.0833,0.1111
@@ -133,8 +129,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 14:31:13.548758,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 70.5,-0.03090000000000004,0.5917,0.6226
 2025-04-12 15:29:46.948205,Scores - 3rd Round Score - Tyrrell Hatton - 3rd Round Score,Under 71.5,-0.03179999999999994,0.5238,0.5556
 2025-04-12 15:29:46.090251,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.033399999999999985,0.1333,0.1667
-2025-04-12 12:51:36.764502,Scores - 3rd Round Score - Sungjae Im - 3rd Round Score,Over 71.5,-0.033399999999999985,0.5744,0.6078
 2025-04-12 16:35:18.483132,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.033399999999999985,0.1333,0.1667
+2025-04-12 12:51:36.764502,Scores - 3rd Round Score - Sungjae Im - 3rd Round Score,Over 71.5,-0.033399999999999985,0.5744,0.6078
 2025-04-12 15:29:46.956838,Scores - 3rd Round Score - Shane Lowry - 3rd Round Score,Under 71.5,-0.03479999999999994,0.5652,0.6
 2025-04-12 15:29:46.079904,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.0348,0.1081,0.1429
 2025-04-12 15:29:46.127395,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.03570000000000001,0.25,0.2857
@@ -152,8 +148,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Golden State Warriors,-0.05679999999999999,0.125,0.1818
 2025-04-12 17:31:58.104074,NFL Draft - Team Markets - Team's First Pick - JAX Jaguars - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.0588,0.0588,0.1176
 2025-04-12 16:35:18.496813,NFL Draft - Team Markets - Team's First Pick - NE Patriots - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.059099999999999986,0.2857,0.3448
-2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,-0.06,0.1,0.16
 2025-04-12 15:29:46.090251,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.06,0.1,0.16
+2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR Golden State Warriors,-0.06,0.1,0.16
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,-0.06139999999999998,0.1053,0.1667
 2025-04-12 14:31:12.010602,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Golden State Warriors,-0.07239999999999996,0.2353,0.3077
 2025-04-12 15:29:46.090251,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.07649999999999998,0.1053,0.1818

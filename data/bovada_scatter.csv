@@ -8,14 +8,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 03:31:28.831903,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.18879999999999997,0.2941,0.1053
 2025-04-13 06:39:40.671586,League Two - England League Two 2024/25 - Winner,Port Vale,0.15149999999999997,0.4255,0.274
 2025-04-13 08:35:35.750710,Scores - Final Round Score - Patrick Reed - Final Round Score,Under 71.5,0.14549999999999996,0.5455,0.4
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.13639999999999997,0.6364,0.5
 2025-04-13 08:35:35.729166,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 70.5,0.13639999999999997,0.6364,0.5
 2025-04-13 03:31:28.835183,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Aneesah Morrow (LSU),0.13070000000000004,0.4878,0.3571
 2025-04-13 08:35:34.261506,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.1301,0.5556,0.4255
 2025-04-13 08:35:34.229289,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.12880000000000003,0.8788,0.75
 2025-04-13 08:35:35.755014,Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 70.5,0.11119999999999997,0.5556,0.4444
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.10339999999999999,0.3333,0.2299
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.09589999999999999,0.9709,0.875
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.09090000000000004,0.4545,0.3636
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.08979999999999999,0.9231,0.8333
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,0.0871,0.1538,0.0667
 2025-04-13 08:35:34.165844,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.0857,0.9524,0.8667
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.08339999999999992,0.6667,0.5833
 2025-04-13 08:35:34.168712,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,0.08170000000000001,0.1111,0.0294
@@ -25,17 +28,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,0.07500000000000001,0.2,0.125
 2025-04-13 08:35:35.634928,Scores - Final Round Score - Sahith Theegala - Final Round Score,Over 71.5,0.07299999999999995,0.6078,0.5348
 2025-04-13 05:37:24.163027,Championship - England Championship 2024/25 - Winner,Leeds United,0.07140000000000002,0.7143,0.6429
+2025-04-13 09:32:28.864089,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Brian White,0.06649999999999999,0.0909,0.0244
 2025-04-13 08:35:34.261506,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.066,0.1429,0.0769
-2025-04-13 08:35:35.746315,Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.06519999999999992,0.6,0.5348
 2025-04-13 08:35:35.566371,Scores - Final Round Score - Brian Harman - Final Round Score,Under 72.5,0.06519999999999992,0.6,0.5348
+2025-04-13 08:35:35.746315,Scores - Final Round Score - Corey Conners - Final Round Score,Under 71.5,0.06519999999999992,0.6,0.5348
+2025-04-13 09:32:28.893340,Championship - England Championship 2024/25 - Top Goalscorer,Borja Sainz,0.0635,0.7778,0.7143
 2025-04-13 08:35:34.223539,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.061799999999999966,0.9709,0.9091
+2025-04-13 09:32:28.878172,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.0615,0.8948,0.8333
 2025-04-13 08:35:34.168712,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,0.055800000000000016,0.2857,0.2299
 2025-04-13 05:37:24.158457,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.055499999999999994,0.8333,0.7778
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.050000000000000044,0.8,0.75
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.04910000000000003,0.4,0.3509
+2025-04-13 09:32:28.997494,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,0.0475,0.0769,0.0294
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.045499999999999985,0.5,0.4545
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.044500000000000095,0.7778,0.7333
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.042899999999999994,0.1429,0.1
 2025-04-13 04:58:42.565864,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs J. Thomas - Final Round Match-Ups,Patrick Cantlay,0.03959999999999997,0.5744,0.5348
+2025-04-13 09:32:28.878172,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.03759999999999997,0.9709,0.9333
 2025-04-13 08:35:34.168712,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.035699999999999954,0.75,0.7143
 2025-04-13 08:35:35.660712,Scores - Final Round Score - Jon Rahm - Final Round Score,Under 70.5,0.03489999999999999,0.5,0.4651
 2025-04-13 08:35:34.229289,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,0.031799999999999995,0.1429,0.1111
@@ -43,6 +52,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester City,0.028200000000000003,0.9615,0.9333
 2025-04-13 08:35:35.716300,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 70.5,0.026499999999999968,0.5917,0.5652
 2025-04-13 05:37:25.492095,Main Markets - Final Round 2-Balls - J. Thomas / M.W. Lee - Final Round 2-Balls,Justin Thomas,0.026499999999999968,0.5917,0.5652
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,0.025300000000000003,0.1429,0.1176
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,0.02429999999999999,0.9474,0.9231
 2025-04-13 08:35:35.793419,Main Markets - Final Round 2-Balls - T. Kim / C. Schwartzel - Final Round 2-Balls,Charl Schwartzel,0.023799999999999988,0.5,0.4762
 2025-04-13 05:37:24.149339,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.023799999999999932,0.8571,0.8333
@@ -56,37 +66,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-12 22:32:25.495697,Elite Boxing - Jaron Ennis vs Eimantas Stanionis - To Win the Bout,Jaron Ennis,0.020500000000000074,0.8667,0.8462
 2025-04-12 23:49:43.437858,Boxing Lines - Stephan Shaw vs Raphael Akpejiori - To Win the Bout,Stephan Shaw,0.01959999999999995,0.8291,0.8095
 2025-04-13 08:35:34.168712,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,0.018999999999999906,0.7333,0.7143
+2025-04-13 09:32:28.992842,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.018999999999999906,0.7333,0.7143
 2025-04-13 05:37:25.488055,Main Markets - Final Round 2-Balls - H. Matsuyama / A. Bhatia - Final Round 2-Balls,Hideki Matsuyama,0.01880000000000004,0.5744,0.5556
 2025-04-13 08:35:35.862836,Main Markets - Final Round 2-Balls - C. Conners / P. Reed - Final Round 2-Balls,Corey Conners,0.018100000000000005,0.5833,0.5652
 2025-04-13 08:35:34.286162,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Declan Rice (Arsenal),0.017800000000000003,0.0244,0.0066
+2025-04-13 09:32:28.878172,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,0.01759999999999995,0.6667,0.6491
 2025-04-13 07:28:20.763862,Main Markets - Final Round 2-Balls - H. Matsuyama / A. Bhatia - Final Round 2-Balls,Hideki Matsuyama,0.017299999999999982,0.5917,0.5744
 2025-04-12 23:49:42.964597,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.016600000000000004,0.0833,0.0667
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,0.016000000000000014,0.8948,0.8788
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.016000000000000014,0.8948,0.8788
+2025-04-13 09:32:28.960665,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.01429999999999998,0.9091,0.8948
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,0.014100000000000001,0.9756,0.9615
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,0.013999999999999999,0.0909,0.0769
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,0.012799999999999978,0.2985,0.2857
 2025-04-13 05:37:24.163027,Championship - England Championship 2024/25 - Winner,Burnley,0.012699999999999989,0.3636,0.3509
+2025-04-13 09:32:28.997494,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.012699999999999989,0.3636,0.3509
 2025-04-13 08:35:35.866923,Main Markets - Final Round 2-Balls - R. McIIroy / B. DeChambeau - Final Round 2-Balls,Bryson DeChambeau,0.012199999999999989,0.5,0.4878
+2025-04-13 09:32:30.487109,Scores - Final Round Score - Justin Rose - Final Round Score,Under 71.5,0.012199999999999989,0.5122,0.5
+2025-04-13 09:32:30.508538,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Under 70.5,0.0116,0.4878,0.4762
 2025-04-13 07:28:20.863484,Main Markets - Final Round 2-Balls - R. McIIroy / B. DeChambeau - Final Round 2-Balls,Bryson DeChambeau,0.0116,0.4878,0.4762
+2025-04-13 09:32:30.482827,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 70.5,0.0116,0.4878,0.4762
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Millwall,0.0109,0.0149,0.004
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,0.010899999999999993,0.1538,0.1429
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.010099999999999998,0.4545,0.4444
+2025-04-13 09:32:30.422562,Scores - Final Round Score - Joaquin Niemann - Final Round Score,Over 71.5,0.010099999999999998,0.4545,0.4444
 2025-04-13 08:35:35.866923,Main Markets - Final Round 2-Balls - R. McIIroy / B. DeChambeau - Final Round 2-Balls,Rory McIlroy,-0.010099999999999998,0.5455,0.5556
+2025-04-13 09:32:28.864089,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.0102,0.0667,0.0769
 2025-04-13 07:28:20.763862,Main Markets - Final Round 2-Balls - H. Matsuyama / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,-0.010599999999999998,0.4545,0.4651
 2025-04-12 22:32:25.510093,Boxing Lines - Jordan White vs Jose Matias Romero - To Win the Bout,Jose Matias Romero,-0.010899999999999993,0.1429,0.1538
-2025-04-13 08:35:35.862836,Main Markets - Final Round 2-Balls - C. Conners / P. Reed - Final Round 2-Balls,Patrick Reed,-0.011099999999999999,0.4651,0.4762
-2025-04-13 08:35:35.776736,Main Markets - Final Round 2-Balls - P. Cantlay / W. Clark - Final Round 2-Balls,Wyndham Clark,-0.011099999999999999,0.4651,0.4762
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.010899999999999993,0.1429,0.1538
 2025-04-13 08:35:35.690664,Scores - Final Round Score - Tom Hoge - Final Round Score,Over 72.5,-0.011099999999999999,0.4651,0.4762
+2025-04-13 08:35:35.776736,Main Markets - Final Round 2-Balls - P. Cantlay / W. Clark - Final Round 2-Balls,Wyndham Clark,-0.011099999999999999,0.4651,0.4762
+2025-04-13 08:35:35.862836,Main Markets - Final Round 2-Balls - C. Conners / P. Reed - Final Round 2-Balls,Patrick Reed,-0.011099999999999999,0.4651,0.4762
 2025-04-13 03:31:28.835183,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.01150000000000001,0.3333,0.3448
 2025-04-13 07:28:20.859540,Main Markets - Final Round 2-Balls - C. Conners / P. Reed - Final Round 2-Balls,Patrick Reed,-0.0116,0.4762,0.4878
 2025-04-13 03:31:28.828588,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Shyanne Sellers,-0.012700000000000003,0.0196,0.0323
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.012899999999999912,0.8333,0.8462
+2025-04-13 09:32:28.864089,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,-0.012899999999999995,0.1538,0.1667
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Bournemouth,-0.0131,0.0345,0.0476
 2025-04-13 08:35:34.160186,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.013999999999999999,0.0769,0.0909
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.013999999999999999,0.0769,0.0909
+2025-04-13 09:32:28.997494,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hannover 96,-0.014599999999999998,0.005,0.0196
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,-0.014599999999999998,0.005,0.0196
+2025-04-13 09:32:30.422562,Scores - Final Round Score - Joaquin Niemann - Final Round Score,Under 71.5,-0.014800000000000035,0.6078,0.6226
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.015100000000000002,0.1667,0.1818
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.016700000000000048,0.8621,0.8788
 2025-04-13 03:31:28.828588,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Aneesah Morrow (LSU),-0.017100000000000004,0.0152,0.0323
+2025-04-13 09:32:30.482827,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 70.5,-0.017299999999999982,0.5744,0.5917
+2025-04-13 09:32:30.508538,Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 70.5,-0.017299999999999982,0.5744,0.5917
 2025-04-13 06:39:40.671586,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,-0.017400000000000002,0.0149,0.0323
 2025-04-13 08:35:34.232191,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,-0.018099999999999998,0.0588,0.0769
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,-0.018099999999999998,0.0588,0.0769
@@ -96,6 +123,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 03:31:28.831903,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Georgia Amoore,-0.019000000000000003,0.0435,0.0625
 2025-04-13 08:35:34.223539,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.019099999999999992,0.0476,0.0667
 2025-04-13 08:35:35.793419,Main Markets - Final Round 2-Balls - T. Kim / C. Schwartzel - Final Round 2-Balls,Tom Kim,-0.01970000000000005,0.5455,0.5652
+2025-04-13 09:32:28.997494,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Magdeburg,-0.0203,0.0385,0.0588
 2025-04-12 23:49:43.437858,Boxing Lines - Stephan Shaw vs Raphael Akpejiori - To Win the Bout,Raphael Akpejiori,-0.02159999999999998,0.2381,0.2597
 2025-04-13 08:35:35.574917,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 71.5,-0.02169999999999994,0.5238,0.5455
 2025-04-13 05:37:25.492095,Main Markets - Final Round 2-Balls - J. Thomas / M.W. Lee - Final Round 2-Balls,Min Woo Lee,-0.021699999999999997,0.4545,0.4762
@@ -108,24 +136,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 05:37:25.497049,Main Markets - Final Round 2-Balls - B. Harman / J.J. Spaun - Final Round 2-Balls,Brian Harman,-0.023800000000000043,0.5,0.5238
 2025-04-13 04:58:42.565864,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs J. Thomas - Final Round Match-Ups,Justin Thomas,-0.024399999999999977,0.4878,0.5122
 2025-04-13 08:35:34.223539,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,-0.024999999999999994,0.1,0.125
-2025-04-13 06:39:42.040561,Main Markets - Final Round 2-Balls - R. McIIroy / B. DeChambeau - Final Round 2-Balls,Rory McIlroy,-0.026499999999999968,0.5652,0.5917
 2025-04-13 08:35:35.768681,Main Markets - Final Round 2-Balls - J. Thomas / M.W. Lee - Final Round 2-Balls,Justin Thomas,-0.026499999999999968,0.5652,0.5917
+2025-04-13 06:39:42.040561,Main Markets - Final Round 2-Balls - R. McIIroy / B. DeChambeau - Final Round 2-Balls,Rory McIlroy,-0.026499999999999968,0.5652,0.5917
 2025-04-13 08:35:34.232191,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.027999999999999997,0.1538,0.1818
+2025-04-13 09:32:28.997494,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Kaiserslautern,-0.028000000000000004,0.0196,0.0476
 2025-04-13 08:35:34.270705,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.029299999999999993,0.9231,0.9524
 2025-04-13 08:35:34.229289,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,-0.029900000000000038,0.7701,0.8
+2025-04-13 09:32:28.992842,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.031799999999999995,0.1111,0.1429
+2025-04-13 09:32:28.893340,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.031799999999999995,0.1111,0.1429
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.03420000000000001,0.0769,0.1111
 2025-04-13 08:35:35.660712,Scores - Final Round Score - Jon Rahm - Final Round Score,Over 70.5,-0.03479999999999994,0.5652,0.6
 2025-04-13 06:39:40.671586,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.0353,0.2,0.2353
 2025-04-13 05:37:24.158457,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.03570000000000001,0.25,0.2857
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.04099999999999998,0.2667,0.3077
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.04169999999999999,0.125,0.1667
+2025-04-13 09:32:28.893340,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.04169999999999999,0.125,0.1667
 2025-04-13 03:31:28.835183,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Georgia Amoore,-0.04240000000000001,0.0909,0.1333
 2025-04-13 08:35:34.223539,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,-0.043300000000000005,0.9091,0.9524
 2025-04-13 08:35:34.232191,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.04910000000000003,0.6,0.6491
 2025-04-13 08:35:34.220640,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,-0.050000000000000044,0.75,0.8
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.0585,0.0526,0.1111
 2025-04-13 08:35:34.279665,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.061000000000000054,0.8621,0.9231
-2025-04-13 03:31:28.825227,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Kiki Iriafen,-0.0635,0.0476,0.1111
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brighton & Hove Albion,-0.0635,0.0476,0.1111
+2025-04-13 03:31:28.825227,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Kiki Iriafen,-0.0635,0.0476,0.1111
 2025-04-13 06:39:40.671586,League Two - England League Two 2024/25 - Winner,Walsall,-0.06659999999999999,0.2667,0.3333
 2025-04-13 08:35:35.746315,Scores - Final Round Score - Corey Conners - Final Round Score,Over 71.5,-0.06970000000000004,0.4651,0.5348
 2025-04-13 08:35:35.566371,Scores - Final Round Score - Brian Harman - Final Round Score,Over 72.5,-0.06970000000000004,0.4651,0.5348
@@ -133,11 +166,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 05:37:24.163027,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.076,0.0149,0.0909
 2025-04-13 08:35:35.634928,Scores - Final Round Score - Sahith Theegala - Final Round Score,Under 71.5,-0.08030000000000004,0.4545,0.5348
 2025-04-13 08:35:34.276657,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.0827,0.8788,0.9615
+2025-04-13 09:32:28.878172,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,St. Pauli,-0.08410000000000001,0.0588,0.1429
 2025-04-13 03:31:28.831903,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Aneesah Morrow (LSU),-0.0857,0.2,0.2857
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Mönchengladbach,-0.0857,0.0476,0.1333
 2025-04-13 08:35:34.229289,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.09689999999999999,0.6364,0.7333
 2025-04-13 06:39:40.671586,League Two - England League Two 2024/25 - Winner,Bradford City,-0.1,0.1667,0.2667
 2025-04-13 08:35:34.282682,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.10000000000000009,0.7333,0.8333
 2025-04-13 08:35:35.755014,Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 70.5,-0.11040000000000005,0.5122,0.6226
+2025-04-13 09:32:28.896566,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.12,0.4255,0.5455
 2025-04-13 08:35:35.729166,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 70.5,-0.13970000000000005,0.4255,0.5652
 2025-04-13 08:35:35.750710,Scores - Final Round Score - Patrick Reed - Final Round Score,Over 71.5,-0.14289999999999992,0.5238,0.6667
 2025-04-13 03:31:28.835183,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Kiki Iriafen,-0.1515,0.1818,0.3333
@@ -145,6 +181,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-13 08:35:34.165844,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,-0.1758,0.0909,0.2667
 2025-04-13 08:35:34.232191,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.18269999999999997,0.125,0.3077
 2025-04-13 08:35:34.261506,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.18330000000000002,0.4,0.5833
+2025-04-13 09:32:28.881099,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Mainz,-0.1846,0.2,0.3846
 2025-04-13 08:35:34.160186,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.2079,0.0588,0.2667
 2025-04-13 08:35:34.273692,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.21089999999999998,0.4255,0.6364
 2025-04-13 08:35:34.160186,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.2331,0.0526,0.2857

@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-04-14 09:34:13.872721,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Robert Lewandowski (FC Barcelona),0.22550000000000003,0.8333,0.6078
 2025-04-14 08:40:24.418956,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,0.19050000000000006,0.5238,0.3333
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,0.17770000000000002,0.4444,0.2667
 2025-04-14 08:40:24.405502,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.17290000000000005,0.5238,0.3509
@@ -6,16 +7,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 08:40:24.567733,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,0.13639999999999997,0.6364,0.5
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.12870000000000004,0.7778,0.6491
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,0.12819999999999998,0.9615,0.8333
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,0.11900000000000002,0.2857,0.1667
 2025-04-14 08:40:24.405502,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,0.10910000000000002,0.2,0.0909
 2025-04-14 08:40:24.558966,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.09350000000000003,0.6491,0.5556
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,0.09350000000000003,0.4444,0.3509
 2025-04-14 08:40:24.418956,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Deportivo Toluca,0.08979999999999999,0.9231,0.8333
-2025-04-14 08:40:24.398211,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.08330000000000004,0.5833,0.5
+2025-04-14 09:34:14.062539,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,0.0882,0.1176,0.0294
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.08550000000000002,0.7778,0.6923
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,0.08330000000000004,0.75,0.6667
+2025-04-14 08:40:24.398211,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.08330000000000004,0.5833,0.5
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.08330000000000001,0.25,0.1667
+2025-04-14 09:34:14.057946,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,0.08330000000000001,0.25,0.1667
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.07579999999999998,0.9091,0.8333
 2025-04-14 02:15:08.535650,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Aneesah Morrow (LSU),0.06779999999999997,0.5556,0.4878
+2025-04-14 09:34:14.057946,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.06670000000000004,0.4,0.3333
 2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,0.0637,0.0833,0.0196
+2025-04-14 09:34:14.111552,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.05109999999999998,0.3636,0.3125
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Cleveland Cavaliers OR Golden State Warriors,0.0504,0.2857,0.2353
+2025-04-14 09:34:13.878713,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.04999999999999999,0.25,0.2
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,New York Knicks OR Golden State Warriors,0.0489,0.1739,0.125
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Golden State Warriors,0.04849999999999999,0.1538,0.1053
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR Golden State Warriors,0.04849999999999999,0.1538,0.1053
@@ -23,109 +32,175 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 08:40:24.382087,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.0464,0.9412,0.8948
 2025-04-14 08:40:24.570729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.045499999999999985,0.5,0.4545
 2025-04-13 23:29:56.233709,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.04409999999999997,0.2941,0.25
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.0417,0.125,0.0833
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Golden State Warriors,0.039600000000000024,0.4651,0.4255
 2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Paulinho,0.0393,0.6226,0.5833
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Alonso Martinez,0.0384,0.0769,0.0385
 2025-04-14 08:40:24.426950,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Flamengo,0.03570000000000001,0.2857,0.25
 2025-04-14 08:40:24.405502,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.035699999999999996,0.0833,0.0476
 2025-04-14 08:40:24.532756,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.0344,0.0588,0.0244
 2025-04-14 08:40:24.580077,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.034399999999999986,0.9756,0.9412
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Brian White,0.034100000000000005,0.125,0.0909
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Minnesota United,0.034100000000000005,0.125,0.0909
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.03249999999999997,0.994,0.9615
-2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.030299999999999994,0.6667,0.6364
 2025-04-14 08:40:24.573678,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.030299999999999994,0.3636,0.3333
+2025-04-14 09:34:14.084198,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.030299999999999994,0.3636,0.3333
+2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.030299999999999994,0.6667,0.6364
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Colorado Rapids,0.0294,0.0588,0.0294
 2025-04-14 08:40:24.408308,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Arnaud Kalimuendo (Rennes),0.0286,0.0385,0.0099
 2025-04-14 08:40:24.570729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,0.028299999999999992,0.9231,0.8948
 2025-04-14 02:15:08.525819,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Sonia Citron,0.027999999999999997,0.1333,0.1053
+2025-04-14 09:34:14.084198,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,0.02560000000000001,0.3333,0.3077
 2025-04-14 08:40:24.398211,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.025499999999999967,0.4255,0.4
 2025-04-14 08:40:25.829977,Futures - US Open 2025 - Winner,Rory McIlroy,0.023799999999999988,0.1667,0.1429
 2025-04-14 08:40:25.834687,Futures - The Open 2025 - Winner,Rory McIlroy,0.023799999999999988,0.1667,0.1429
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,0.023200000000000002,0.0476,0.0244
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Werder Bremen,0.023200000000000002,0.0476,0.0244
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,0.022399999999999975,0.998,0.9756
 2025-04-13 23:29:56.221751,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.022199999999999998,0.2222,0.2
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Indiana Pacers OR LA Clippers,0.022099999999999998,0.0385,0.0164
 2025-04-13 22:32:49.396590,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.022000000000000006,0.1053,0.0833
+2025-04-14 09:34:14.076448,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.021999999999999964,0.3077,0.2857
 2025-04-14 08:40:24.561897,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,0.020399999999999974,0.996,0.9756
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Dejan Joveljic,0.0203,0.0588,0.0385
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,0.019099999999999992,0.0667,0.0476
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.019000000000000017,0.2857,0.2667
 2025-04-14 08:40:24.395117,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.01849999999999996,0.9709,0.9524
+2025-04-14 09:34:14.081180,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Tigre,0.01820000000000002,0.2,0.1818
+2025-04-14 09:34:14.081180,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,0.01820000000000002,0.2,0.1818
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,0.018200000000000004,0.0476,0.0294
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,0.018099999999999998,0.0769,0.0588
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,0.018099999999999998,0.0769,0.0588
+2025-04-14 09:34:14.111552,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,0.0179,0.1429,0.125
 2025-04-14 02:15:09.481580,Futures - US Open 2025 - Winner,Rory McIlroy,0.0179,0.1429,0.125
 2025-04-14 04:35:58.887965,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Pacific Division,0.0174,0.2174,0.2
 2025-04-14 08:40:24.573678,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,0.016700000000000048,0.8788,0.8621
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Detroit Pistons OR LA Clippers,0.0159,0.0323,0.0164
+2025-04-14 09:34:13.890086,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,0.015100000000000002,0.1818,0.1667
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,0.015100000000000002,0.1818,0.1667
 2025-04-14 04:35:58.904220,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,0.015100000000000002,0.1818,0.1667
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Diego Rossi,0.014499999999999999,0.0294,0.0149
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Colorado Rapids,0.014499999999999999,0.0294,0.0149
 2025-04-14 08:40:24.573678,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.01429999999999998,0.9091,0.8948
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.014099999999999998,0.0385,0.0244
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Portland Timbers,0.014099999999999998,0.0385,0.0244
+2025-04-14 09:34:13.890086,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,0.013999999999999999,0.0909,0.0769
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,0.013999999999999999,0.0909,0.0769
 2025-04-14 08:40:24.392298,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.013999999999999999,0.0909,0.0769
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Austin FC,0.013999999999999999,0.0909,0.0769
 2025-04-14 02:15:08.525819,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.013900000000000023,0.8889,0.875
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.013899999999999996,0.125,0.1111
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Boston Celtics OR Denver Nuggets,0.013800000000000034,0.3774,0.3636
-2025-04-13 22:32:49.396590,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.012899999999999995,0.1667,0.1538
 2025-04-14 08:40:25.825322,Futures - PGA Championship 2025 - Winner,Rory McIlroy,0.012899999999999995,0.1667,0.1538
+2025-04-13 22:32:49.396590,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.012899999999999995,0.1667,0.1538
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.012899999999999995,0.1667,0.1538
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.012699999999999989,0.3636,0.3509
 2025-04-13 22:32:49.391936,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.01150000000000001,0.3448,0.3333
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Mönchengladbach,0.011199999999999995,0.0588,0.0476
 2025-04-13 22:32:49.391936,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.011199999999999995,0.0435,0.0323
-2025-04-14 02:15:09.476839,Futures - PGA Championship 2025 - Winner,Rory McIlroy,0.010899999999999993,0.1538,0.1429
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,0.011099999999999999,0.1111,0.1
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.011099999999999999,0.1111,0.1
 2025-04-14 04:35:58.870443,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.010899999999999993,0.1538,0.1429
+2025-04-14 02:15:09.476839,Futures - PGA Championship 2025 - Winner,Rory McIlroy,0.010899999999999993,0.1538,0.1429
 2025-04-14 04:35:58.880816,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat New York Knicks,0.010700000000000001,0.0385,0.0278
 2025-04-14 04:35:58.894494,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),0.010499999999999982,0.2105,0.2
+2025-04-14 09:34:13.869826,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.0102,0.0769,0.0667
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,0.0102,0.0769,0.0667
 2025-04-14 08:40:24.426950,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Santos,-0.010100000000000001,0.0244,0.0345
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,-0.0102,0.0667,0.0769
+2025-04-14 09:34:13.890086,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,-0.0102,0.0667,0.0769
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,-0.010899999999999993,0.1429,0.1538
 2025-04-14 08:40:24.392298,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Bologna,-0.0109,0.004,0.0149
 2025-04-14 04:35:58.870443,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.011099999999999999,0.1,0.1111
-2025-04-14 08:40:24.561897,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.011199999999999995,0.0476,0.0588
-2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.011199999999999995,0.0476,0.0588
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.011199999999999995,0.0476,0.0588
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,-0.011199999999999995,0.0476,0.0588
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Atlanta United,-0.011199999999999995,0.0476,0.0588
+2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester City,-0.011199999999999995,0.0476,0.0588
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Austin FC,-0.011199999999999995,0.0476,0.0588
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Luis Suarez,-0.011199999999999995,0.0476,0.0588
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,-0.011199999999999995,0.0476,0.0588
+2025-04-14 08:40:24.561897,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.011199999999999995,0.0476,0.0588
 2025-04-14 04:35:58.877270,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs LA Lakers,-0.011700000000000002,0.1026,0.1143
 2025-04-14 04:35:58.870443,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.011900000000000008,0.0833,0.0952
 2025-04-14 02:15:08.535650,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Sonia Citron,-0.012700000000000003,0.0196,0.0323
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.012799999999999978,0.2857,0.2985
-2025-04-13 21:28:33.843211,NBA Specials - Next Denver Nuggets Head Coach (Game 1 of 2025/2026 NBA Season) - Next Nuggets Coach,Jeff Van Gundy,-0.012899999999999995,0.1538,0.1667
 2025-04-14 04:35:58.904220,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.012899999999999995,0.1538,0.1667
 2025-04-14 08:40:25.825322,Futures - PGA Championship 2025 - Winner,Scottie Scheffler,-0.012899999999999995,0.1538,0.1667
 2025-04-14 04:35:58.887965,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.012899999999999995,0.1538,0.1667
-2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Alexis Vega,-0.013999999999999999,0.0769,0.0909
 2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Salomon Rondon,-0.013999999999999999,0.0769,0.0909
-2025-04-14 08:40:24.408308,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.013999999999999999,0.0769,0.0909
+2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Alexis Vega,-0.013999999999999999,0.0769,0.0909
 2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,John Kennedy,-0.013999999999999999,0.0769,0.0909
 2025-04-14 02:15:08.535650,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Georgia Amoore,-0.013999999999999999,0.0769,0.0909
+2025-04-14 08:40:24.408308,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),-0.013999999999999999,0.0769,0.0909
 2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.014000000000000012,0.9091,0.9231
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,LA Galaxy,-0.014099999999999998,0.0244,0.0385
 2025-04-14 04:35:58.873807,NBA Championship - NBA Championship 2024-25 - NBA Champion Multiple Chances,Milwaukee Bucks OR Memphis Grizzlies,-0.014199999999999999,0.0152,0.0294
 2025-04-13 22:32:49.391936,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.014200000000000101,0.6154,0.6296
 2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,-0.0145,0.0099,0.0244
+2025-04-14 09:34:13.883682,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Felipe Mora,-0.014599999999999998,0.005,0.0196
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Houston Dynamo,-0.014900000000000004,0.0196,0.0345
 2025-04-13 22:32:49.396590,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.015100000000000002,0.1667,0.1818
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.0179,0.125,0.1429
-2025-04-14 08:40:24.580077,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Virgil van Dijk (Liverpool),-0.018200000000000004,0.0294,0.0476
 2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Jose Zuniga,-0.018200000000000004,0.0294,0.0476
-2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Uros Djurdevic,-0.01820000000000002,0.1818,0.2
+2025-04-14 08:40:24.580077,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Virgil van Dijk (Liverpool),-0.018200000000000004,0.0294,0.0476
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,-0.01820000000000002,0.1818,0.2
+2025-04-14 08:40:24.415821,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Uros Djurdevic,-0.01820000000000002,0.1818,0.2
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.018999999999999906,0.7143,0.7333
+2025-04-14 09:34:14.111552,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,-0.019000000000000017,0.2667,0.2857
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,New York Red Bulls,-0.019099999999999992,0.0476,0.0667
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.019600000000000003,0.0149,0.0345
 2025-04-14 04:35:58.894494,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.019800000000000005,0.0278,0.0476
+2025-04-14 09:34:14.076448,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.020100000000000007,0.75,0.7701
+2025-04-14 09:34:13.890086,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.02020000000000001,0.0909,0.1111
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,-0.02020000000000001,0.0909,0.1111
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Austin FC,-0.02020000000000001,0.0909,0.1111
+2025-04-14 09:34:13.890086,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,-0.02100000000000002,0.3636,0.3846
 2025-04-14 04:35:58.887965,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Southeast Division,-0.0222,0.0022,0.0244
 2025-04-14 08:40:24.555888,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.022400000000000003,0.0099,0.0323
 2025-04-14 08:40:24.405502,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Strasbourg,-0.0236,0.0149,0.0385
 2025-04-14 08:40:24.576627,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.023799999999999988,0.1429,0.1667
 2025-04-14 08:40:24.395117,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Moises Kean (Fiorentina),-0.0242,0.0667,0.0909
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,-0.0242,0.0667,0.0909
 2025-04-14 08:40:24.570729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Manchester City,-0.02429999999999999,0.9231,0.9474
 2025-04-14 08:40:24.561897,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,-0.024399999999999998,0.005,0.0294
 2025-04-14 08:40:24.567733,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.025499999999999967,0.4,0.4255
-2025-04-14 08:40:24.532756,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.0294,0.0294,0.0588
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,LA Galaxy,-0.029299999999999993,0.0476,0.0769
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.0294,0.0294,0.0588
 2025-04-13 23:29:56.221751,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.0294,0.0294,0.0588
+2025-04-14 08:40:24.532756,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Paderborn,-0.0294,0.0294,0.0588
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,-0.029899999999999982,0.2,0.2299
 2025-04-14 08:40:24.382087,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,-0.030299999999999994,0.6364,0.6667
 2025-04-14 08:40:24.558966,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.031799999999999995,0.1111,0.1429
 2025-04-14 08:40:24.564802,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Nottingham Forest,-0.033,0.0196,0.0526
+2025-04-14 09:34:13.896700,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.03330000000000001,0.0667,0.1
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,-0.034100000000000005,0.0909,0.125
 2025-04-14 08:40:24.418956,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,-0.035699999999999954,0.7143,0.75
 2025-04-14 08:40:24.580077,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Alexander Isak (Newcastle),-0.0384,0.0385,0.0769
 2025-04-14 08:40:24.573678,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,-0.0392,0.0196,0.0588
 2025-04-14 08:40:24.573678,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,-0.04239999999999999,0.0345,0.0769
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,-0.044500000000000095,0.7333,0.7778
 2025-04-14 02:15:08.535650,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.047599999999999976,0.2857,0.3333
 2025-04-14 08:40:24.398211,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,-0.04810000000000003,0.7701,0.8182
 2025-04-14 08:40:24.398211,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.05130000000000001,0.3333,0.3846
+2025-04-14 09:34:13.878713,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.0524,0.0476,0.1
 2025-04-13 23:29:56.233709,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.055499999999999994,0.7778,0.8333
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.05550000000000002,0.1667,0.2222
+2025-04-14 09:34:14.111552,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,-0.055800000000000016,0.2299,0.2857
+2025-04-14 09:34:14.084198,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,River Plate,-0.055800000000000016,0.2299,0.2857
+2025-04-14 09:34:13.893052,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.05679999999999999,0.125,0.1818
+2025-04-14 09:34:13.887105,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,-0.05679999999999999,0.125,0.1818
 2025-04-14 08:40:24.558966,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.06670000000000004,0.3333,0.4
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Strasbourg,-0.0807,0.0526,0.1333
 2025-04-14 08:40:24.570729,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.09199999999999997,0.7701,0.8621
+2025-04-14 09:34:14.062539,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.0988,0.5238,0.6226
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Nice,-0.1039,0.0294,0.1333
 2025-04-14 08:40:24.384954,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.11529999999999999,0.0385,0.1538
 2025-04-14 08:40:24.567733,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,-0.12120000000000003,0.3333,0.4545
+2025-04-14 09:34:13.875868,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.1222,0.1,0.2222
 2025-04-14 08:40:24.418956,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.12380000000000002,0.4,0.5238
 2025-04-14 08:40:24.401037,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.12589999999999998,0.1818,0.3077
 2025-04-14 04:35:58.880816,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Minnesota Timberwolves,-0.1288,0.0141,0.1429
+2025-04-14 09:34:14.057946,First Division A - Belgium First Division A 2024/25 - Outright,Genk,-0.14549999999999996,0.4545,0.6
 2025-04-14 08:40:24.411390,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.18420000000000003,0.6491,0.8333
+2025-04-14 09:34:13.872721,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.20329999999999998,0.2222,0.4255
 2025-04-14 08:40:24.405502,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.2745,0.3333,0.6078

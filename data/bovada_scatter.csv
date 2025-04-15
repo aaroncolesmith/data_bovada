@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 22:34:04.661383,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Sonia Citron,0.09230000000000005,0.6923,0.6
 2025-04-14 22:34:04.664678,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Kiki Iriafen,0.068,0.4762,0.4082
 2025-04-15 04:36:20.790995,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Conference Finals,0.0585,0.1111,0.0526
+2025-04-15 07:32:46.225348,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,0.05710000000000001,0.2,0.1429
 2025-04-14 22:34:05.014929,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.05130000000000001,0.6667,0.6154
 2025-04-14 23:29:37.819007,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.03920000000000001,0.9804,0.9412
 2025-04-15 04:36:20.800903,Detroit Pistons - Exact Round Elimination - Pistons - 2024-25 Playoffs,Second Round,0.03420000000000001,0.2564,0.2222
@@ -12,16 +13,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 21:29:59.934958,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.028299999999999992,0.9231,0.8948
 2025-04-15 02:13:37.459954,Denver Nuggets - Exact Round Elimination - Nuggets - 2024-25 Playoffs,First Round,0.023800000000000043,0.5238,0.5
 2025-04-15 04:36:20.790995,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Second Round,0.02260000000000001,0.4,0.3774
-2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.022199999999999998,0.3448,0.3226
 2025-04-14 23:29:38.790736,RBC Heritage - RBC Heritage - Winner,Scottie Scheffler,0.022199999999999998,0.2222,0.2
+2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.022199999999999998,0.3448,0.3226
 2025-04-14 22:34:05.014929,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.020799999999999985,0.3333,0.3125
 2025-04-15 02:13:37.444884,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Second Round,0.02030000000000004,0.3774,0.3571
 2025-04-14 22:34:04.658061,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Kiki Iriafen,0.0203,0.0588,0.0385
 2025-04-14 22:34:04.974728,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),0.020100000000000007,0.1739,0.1538
 2025-04-14 20:34:00.005681,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,0.019600000000000006,0.3226,0.303
 2025-04-14 23:29:38.540341,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Justin Jefferson (MIN),0.019099999999999992,0.0667,0.0476
+2025-04-15 07:32:46.225348,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,0.018999999999999906,0.7333,0.7143
+2025-04-15 07:32:46.225348,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,0.01820000000000002,0.2,0.1818
 2025-04-14 22:34:04.658061,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.018100000000000005,0.9412,0.9231
-2025-04-14 19:26:54.587071,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.01759999999999999,0.1176,0.1
 2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Kiki Iriafen,0.016000000000000014,0.4082,0.3922
 2025-04-14 20:33:59.798169,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),0.013999999999999999,0.0909,0.0769
 2025-04-14 20:33:59.031382,Los Angeles Lakers - Exact Round Elimination - Lakers - 2024-25 Playoffs,First Round,0.013800000000000034,0.3774,0.3636
@@ -35,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 22:34:05.011554,NFL Draft - Team Markets - Team's First Pick - DEN Broncos - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.014099999999999998,0.0294,0.0435
 2025-04-14 21:29:59.938432,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Aneesah Morrow (LSU),-0.015300000000000001,0.0323,0.0476
 2025-04-15 02:13:37.424815,Minnesota Timberwolves - Exact Round Elimination - Timberwolves - 2024-25 Playoffs,First Round,-0.01639999999999997,0.661,0.6774
-2025-04-14 19:26:54.587071,AL East - AL East 2025 - AL East Winner 2025,Baltimore Orioles,-0.018100000000000005,0.2041,0.2222
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Kiki Iriafen,-0.018799999999999983,0.3448,0.3636
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Georgia Amoore,-0.019099999999999992,0.0476,0.0667
 2025-04-15 02:13:37.459954,Denver Nuggets - Exact Round Elimination - Nuggets - 2024-25 Playoffs,Second Round,-0.019699999999999995,0.4348,0.4545
@@ -61,4 +62,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 22:34:04.661383,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Kiki Iriafen,-0.07619999999999999,0.4,0.4762
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.0909,0.0909,0.1818
 2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Shyanne Sellers,-0.09409999999999996,0.2,0.2941
+2025-04-15 07:32:46.225348,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.10390000000000002,0.1818,0.2857
 2025-04-14 22:34:04.668010,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.1515,0.1818,0.3333

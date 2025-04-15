@@ -1,15 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 22:34:04.668010,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Kiki Iriafen,0.1818,0.3636,0.1818
-2025-04-14 15:33:07.509426,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Evan Mobley (CLE),0.14489999999999992,0.7101,0.5652
 2025-04-14 18:41:43.266017,45th Federal Election - 45th Federal Election - Which party will win the popular vote in the next Canadian election?,Conservative Party,0.14250000000000002,0.4651,0.3226
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jung Hoo Lee (SF),0.13419999999999999,0.1818,0.0476
 2025-04-14 18:41:43.523221,NFL Draft - Team Markets - Team's First Pick - DAL Cowboys - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.1276,0.5122,0.3846
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Aneesah Morrow (LSU),0.1271,0.6923,0.5652
 2025-04-14 23:29:37.825875,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Kiki Iriafen,0.12379999999999997,0.6,0.4762
-2025-04-14 15:33:07.531480,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Kiki Iriafen,0.11910000000000004,0.4762,0.3571
 2025-04-14 18:41:44.023452,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),0.1167,0.25,0.1333
 2025-04-14 22:34:04.661383,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Sonia Citron,0.09230000000000005,0.6923,0.6
-2025-04-14 15:33:07.528136,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Sonia Citron,0.0889,0.2222,0.1333
 2025-04-14 18:41:44.018086,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),0.08329999999999999,0.3333,0.25
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Casey Mize (DET),0.07579999999999999,0.1667,0.0909
 2025-04-14 22:34:04.664678,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Kiki Iriafen,0.068,0.4762,0.4082
@@ -17,60 +14,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,0.05679999999999999,0.1818,0.125
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Haotong Li,0.052199999999999996,0.0588,0.0066
 2025-04-14 22:34:05.014929,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.05130000000000001,0.6667,0.6154
-2025-04-14 15:33:07.538135,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,0.047599999999999976,0.3333,0.2857
 2025-04-14 18:41:43.954898,NL East - NL East 2025 - NL East Winner,New York Mets,0.04630000000000001,0.4167,0.3704
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Ben Griffin,0.0454,0.0476,0.0022
 2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Beijing Royal Fighters,0.0448,0.0833,0.0385
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Jordan Smith,0.042600000000000006,0.0476,0.005
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Matthew Jordan,0.0402,0.0435,0.0033
 2025-04-14 18:41:43.614936,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Tetairoa McMillan (ARI),0.03980000000000006,0.7368,0.697
 2025-04-14 23:29:37.819007,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.03920000000000001,0.9804,0.9412
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Chan Kim,0.0333,0.0345,0.0012
-2025-04-14 15:33:07.531480,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Aneesah Morrow (LSU),0.032400000000000005,0.0476,0.0152
-2025-04-14 15:33:08.216168,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Jeremiah Smith (OSU),0.0321,0.0909,0.0588
 2025-04-14 20:33:59.134268,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Pierre Poilievre (Conservative Party of Canada),0.030299999999999994,0.3636,0.3333
-2025-04-14 15:33:07.531480,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Sonia Citron,0.030299999999999994,0.6667,0.6364
-2025-04-14 15:33:08.211505,NCAA Football Futures - 2025 SEC Conference Championship - Championship Game Winner,Texas,0.030299999999999994,0.3333,0.303
 2025-04-14 18:41:43.523221,NFL Draft - Team Markets - Team's First Pick - DAL Cowboys - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.030199999999999998,0.0625,0.0323
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Rico Hoey,0.029800000000000004,0.0323,0.0025
 2025-04-14 18:41:44.023452,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Spencer Schwellenbach (ATL),0.028799999999999992,0.1538,0.125
-2025-04-14 15:33:07.534800,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.028500000000000025,0.3226,0.2941
 2025-04-14 21:29:59.934958,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.028299999999999992,0.9231,0.8948
 2025-04-14 16:39:18.685482,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.02560000000000001,0.3704,0.3448
-2025-04-14 15:33:08.216168,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Arch Manning (TEX),0.025300000000000003,0.1429,0.1176
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Johannes Veerman,0.0253,0.0278,0.0025
 2025-04-14 18:41:43.959727,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.024999999999999994,0.125,0.1
 2025-04-15 02:13:37.459954,Denver Nuggets - Exact Round Elimination - Nuggets - 2024-25 Playoffs,First Round,0.023800000000000043,0.5238,0.5
-2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,0.023799999999999988,0.3571,0.3333
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Mike Trout (LAA),0.023799999999999988,0.3571,0.3333
+2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,0.023799999999999988,0.3571,0.3333
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Calum Hill,0.0234,0.0244,0.001
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Romain Langasque,0.022799999999999997,0.0278,0.005
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Pierceson Coody,0.0227,0.0244,0.0017
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Brandon Stone,0.022400000000000003,0.0244,0.002
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Sam Bairstow,0.022400000000000003,0.0244,0.002
-2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.022199999999999998,0.3448,0.3226
-2025-04-14 18:41:44.018086,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Cole Ragans (KC),0.022199999999999998,0.1333,0.1111
 2025-04-14 23:29:38.790736,RBC Heritage - RBC Heritage - Winner,Scottie Scheffler,0.022199999999999998,0.2222,0.2
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Hayden Springer,0.021900000000000003,0.0244,0.0025
-2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Daniel Hillier,0.021199999999999997,0.0278,0.0066
+2025-04-14 18:41:44.018086,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Cole Ragans (KC),0.022199999999999998,0.1333,0.1111
+2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Sonia Citron,0.022199999999999998,0.3448,0.3226
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Joost Luiten,0.021199999999999997,0.0278,0.0066
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Joel Dahmen,0.0211,0.0244,0.0033
+2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Daniel Hillier,0.021199999999999997,0.0278,0.0066
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Alejandro Del Rey,0.0211,0.0244,0.0033
 2025-04-14 22:34:05.014929,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.020799999999999985,0.3333,0.3125
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Matti Schmid,0.0205,0.0217,0.0012
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Garrick Higgo,0.0204,0.0244,0.004
 2025-04-15 02:13:37.444884,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Second Round,0.02030000000000004,0.3774,0.3571
 2025-04-14 22:34:04.658061,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Kiki Iriafen,0.0203,0.0588,0.0385
 2025-04-14 22:34:04.974728,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),0.020100000000000007,0.1739,0.1538
 2025-04-14 18:41:44.023452,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Michael King (SD),0.019800000000000005,0.0476,0.0278
 2025-04-14 20:34:00.005681,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,0.019600000000000006,0.3226,0.303
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Vince Whaley,0.019200000000000002,0.0217,0.0025
 2025-04-14 23:29:38.540341,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Justin Jefferson (MIN),0.019099999999999992,0.0667,0.0476
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Joseph Bramlett,0.0184,0.0217,0.0033
 2025-04-14 22:34:04.658061,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Dominique Malonga,0.018100000000000005,0.9412,0.9231
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Alex Smalley,0.018099999999999998,0.0526,0.0345
-2025-04-14 15:33:08.216168,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Julian Sayin (OSU),0.018099999999999998,0.0769,0.0588
-2025-04-14 15:33:08.211505,NCAA Football Futures - 2025 SEC Conference Championship - Championship Game Winner,Alabama,0.0179,0.1429,0.125
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Julien Guerrier,0.017800000000000003,0.0244,0.0066
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Andy Sullivan,0.017599999999999998,0.0196,0.002
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Marco Penge,0.017599999999999998,0.0196,0.002
@@ -81,21 +58,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Kodai Senga (NYM),0.014899999999999997,0.0625,0.0476
 2025-04-14 18:41:43.100590,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,0.01469999999999999,0.25,0.2353
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Gavin Green,0.014599999999999998,0.0196,0.005
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Chad Ramey,0.0141,0.0196,0.0055
 2025-04-14 20:33:59.798169,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),0.013999999999999999,0.0909,0.0769
 2025-04-14 20:33:59.031382,Los Angeles Lakers - Exact Round Elimination - Lakers - 2024-25 Playoffs,First Round,0.013800000000000034,0.3774,0.3636
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Connor Syme,0.0132,0.0152,0.002
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Henrik Norlander,0.012100000000000001,0.0244,0.0123
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Bernd Wiesberger,0.011300000000000001,0.0123,0.001
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Casey Jarvis,0.011300000000000001,0.0123,0.001
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Wenyi Ding,0.011199999999999995,0.0588,0.0476
 2025-04-14 18:41:44.018086,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.011099999999999999,0.0667,0.0556
-2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Taijuan Walker (PHI),0.010700000000000001,0.0385,0.0278
 2025-04-14 16:39:18.655529,NBA Championship - NBA Championship 2024-25 - NBA Champion,L.A. Clippers,0.010700000000000001,0.0385,0.0278
+2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Taijuan Walker (PHI),0.010700000000000001,0.0385,0.0278
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Fabrizio Zanotti,0.0103,0.0123,0.002
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Scott Jamieson,0.0103,0.0123,0.002
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Andrea Pavan,0.0102,0.0152,0.005
-2025-04-14 15:33:08.216168,NCAA Football Futures - 2025 Heisman Trophy Winner - Heisman Trophy,Cade Klubnik (CLEM),0.0102,0.0769,0.0667
 2025-04-14 21:30:00.843344,Boxing Lines - Dalton Smith vs Mathieu Germain - To Win the Bout,Dalton Smith,0.010199999999999987,0.9333,0.9231
 2025-04-14 22:34:04.668010,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Georgia Amoore,-0.0102,0.0667,0.0769
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Lloyd Jefferson Go,-0.0103,0.002,0.0123
@@ -114,7 +88,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Qingdao Eagles,-0.014100000000000001,0.0385,0.0526
 2025-04-14 16:39:18.685482,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.01440000000000001,0.0909,0.1053
 2025-04-14 21:29:59.938432,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Aneesah Morrow (LSU),-0.015300000000000001,0.0323,0.0476
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Bill Haas,-0.015399999999999999,0.0025,0.0179
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Lance McCullers Jr. (HOU),-0.0159,0.0164,0.0323
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Gordan Brixi,-0.016,0.0004,0.0164
 2025-04-15 02:13:37.424815,Minnesota Timberwolves - Exact Round Elimination - Timberwolves - 2024-25 Playoffs,First Round,-0.01639999999999997,0.661,0.6774
@@ -123,7 +96,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:44.018086,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Pablo Lopez (MIN),-0.0182,0.0141,0.0323
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Kiki Iriafen,-0.018799999999999983,0.3448,0.3636
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Lucas Giolito (BOS),-0.0189,0.0196,0.0385
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Greyson Sigg,-0.0189,0.0196,0.0385
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Ronald Acuna Jr. (ATL),-0.019000000000000017,0.2667,0.2857
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Georgia Amoore,-0.019099999999999992,0.0476,0.0667
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),-0.019600000000000006,0.303,0.3226
@@ -133,8 +105,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:43.945108,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.020699999999999996,0.4444,0.4651
 2025-04-14 18:41:43.954898,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.02250000000000002,0.2632,0.2857
 2025-04-14 23:29:37.822467,WNBA Draft - WNBA Draft 2025 - Number 3 Pick,Dominique Malonga,-0.023200000000000002,0.0244,0.0476
-2025-04-14 18:41:43.523221,NFL Draft - Team Markets - Team's First Pick - DAL Cowboys - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.023799999999999988,0.1429,0.1667
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Dustin May (LAD),-0.023799999999999988,0.1429,0.1667
+2025-04-14 18:41:43.523221,NFL Draft - Team Markets - Team's First Pick - DAL Cowboys - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.023799999999999988,0.1429,0.1667
 2025-04-14 22:34:04.664678,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Aneesah Morrow (LSU),-0.023800000000000016,0.1667,0.1905
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jordan Walker (STL),-0.024,0.0385,0.0625
 2025-04-14 18:41:44.049753,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Shane McClanahan (TB),-0.024,0.0385,0.0625
@@ -150,7 +122,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Zander Lombard,-0.0335,0.005,0.0385
 2025-04-14 18:41:43.090804,CBA - China CBA 2024/25 - Outright,Beijing Ducks,-0.034100000000000005,0.0909,0.125
 2025-04-14 23:29:37.819007,WNBA Draft - WNBA Draft 2025 - Number 2 Pick,Sonia Citron,-0.034100000000000005,0.0909,0.125
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Troy Merritt,-0.0345,0.004,0.0385
 2025-04-14 20:33:59.134268,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Mark Carney (Liberal Party of Canada),-0.035699999999999954,0.7143,0.75
 2025-04-14 18:41:43.614936,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),-0.03640000000000004,0.3636,0.4
 2025-04-14 22:34:05.014929,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.037500000000000006,0.0625,0.1
@@ -177,9 +148,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-14 18:41:44.054902,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Matt McLain (CIN),-0.08979999999999999,0.0769,0.1667
 2025-04-14 23:29:37.829323,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.0909,0.0909,0.1818
 2025-04-14 21:29:59.941764,WNBA Draft - WNBA Draft 2025 - Number 4 Pick,Shyanne Sellers,-0.09409999999999996,0.2,0.2941
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Justin Lower,-0.1294,0.0244,0.1538
-2025-04-14 15:33:07.509426,NBA Awards & League Leaders - NBA Awards 2024-25  - Defensive Player of the Year,Draymond Green (GSW),-0.1488,0.339,0.4878
 2025-04-14 18:41:43.266017,45th Federal Election - 45th Federal Election - Which party will win the popular vote in the next Canadian election?,Liberal Party,-0.1493000000000001,0.6154,0.7647
 2025-04-14 22:34:04.668010,WNBA Draft - WNBA Draft 2025 - Number 5 Pick,Shyanne Sellers,-0.1515,0.1818,0.3333
-2025-04-14 15:33:08.510293,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Kevin Tway,-0.1806,0.0099,0.1905
 2025-04-14 18:41:44.140593,Volvo China Open - Volvo China Open - Winner,Sebastian Soderberg,-0.6865,0.0278,0.7143

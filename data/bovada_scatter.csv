@@ -4,12 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 08:40:26.201637,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club América,0.09030000000000005,0.9524,0.8621
 2025-04-16 04:36:08.073019,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 69.5,0.07450000000000001,0.5,0.4255
 2025-04-16 08:40:26.093387,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.06669999999999998,0.8667,0.8
-2025-04-16 02:09:59.936266,45th Federal Election - 45th Federal Election - Which party wins most seats in Nova Scotia?,Conservative Party,0.0596,0.1429,0.0833
-2025-04-16 02:09:59.926312,45th Federal Election - 45th Federal Election - Which party wins most seats in New Brunswick?,Conservative Party,0.058599999999999985,0.1538,0.0952
 2025-04-16 03:14:40.352556,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.053300000000000014,0.7143,0.661
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ayaka Furue,0.0476,0.0526,0.005
-2025-04-16 02:09:59.942943,45th Federal Election - 45th Federal Election - Which Party wins most seats in Ontario?,Conservative Party,0.04620000000000002,0.2,0.1538
-2025-04-16 02:09:59.778932,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Second Round,0.044399999999999995,0.4444,0.4
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),0.04269999999999999,0.1538,0.1111
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Yealimi Noh,0.041499999999999995,0.0435,0.002
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Angel Yin,0.0385,0.0435,0.005
@@ -22,38 +18,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 03:14:40.399970,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.028299999999999992,0.3509,0.3226
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Haeran Ryu,0.028199999999999996,0.0667,0.0385
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nasa Hataoka,0.026600000000000002,0.0345,0.0079
-2025-04-16 02:10:00.843836,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6,0.5744
 2025-04-16 13:41:08.815313,Corales Puntacana Championship - 2/3 Balls - 1st Round 3-Balls - B. Haas / C. Kim / E. Compton - 1st Round 3-Balls,Chan Kim,0.024499999999999966,0.6078,0.5833
 2025-04-16 13:41:08.369780,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Thomas Detry,0.024499999999999966,0.6078,0.5833
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Hee Im,0.023799999999999998,0.0278,0.004
 2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.023799999999999988,0.1667,0.1429
 2025-04-16 10:38:50.695457,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,0.023799999999999988,0.1667,0.1429
 2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.023799999999999932,0.6667,0.6429
-2025-04-16 02:09:59.929599,45th Federal Election - 45th Federal Election - Which party wins most seats in Newfoundland and Labrador?,Conservative Party,0.02310000000000001,0.1,0.0769
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Gaby Lopez,0.023100000000000002,0.0244,0.0013
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hye-Jin Choi,0.022799999999999997,0.0278,0.005
 2025-04-16 08:40:27.922121,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Max Homa,0.022699999999999998,0.4878,0.4651
 2025-04-16 08:40:26.102865,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.022600000000000064,0.6226,0.6
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Celine Boutier,0.022400000000000003,0.0244,0.002
-2025-04-16 13:41:08.410691,Main Markets - 1st Round 2-Balls - C. Morikawa / S. Theegala - 1st Round 2-Balls,Collin Morikawa,0.022199999999999998,0.6774,0.6552
 2025-04-16 10:38:51.248862,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.022199999999999998,0.1333,0.1111
+2025-04-16 13:41:08.410691,Main Markets - 1st Round 2-Balls - C. Morikawa / S. Theegala - 1st Round 2-Balls,Collin Morikawa,0.022199999999999998,0.6774,0.6552
 2025-04-16 10:38:50.695457,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.021999999999999964,0.3077,0.2857
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Allisen Corpuz,0.021199999999999997,0.0278,0.0066
 2025-04-16 08:40:26.106277,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,0.02100000000000002,0.3846,0.3636
-2025-04-16 09:33:48.984105,Match-Ups - Tournament Match-Ups - H. Li v W. Ding - Requests,Haotong Li,0.02079999999999993,0.5556,0.5348
 2025-04-16 03:14:40.981672,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,0.02079999999999993,0.5556,0.5348
+2025-04-16 09:33:48.984105,Match-Ups - Tournament Match-Ups - H. Li v W. Ding - Requests,Haotong Li,0.02079999999999993,0.5556,0.5348
 2025-04-16 13:41:08.637012,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.01970000000000005,0.5652,0.5455
-2025-04-16 13:41:08.296501,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,0.01880000000000004,0.5744,0.5556
 2025-04-16 03:46:46.726570,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,0.01880000000000004,0.5744,0.5556
-2025-04-16 02:09:59.946269,45th Federal Election - 45th Federal Election - Which party wins most seats in Prince Edward Island?,Conservative Party,0.01830000000000001,0.0952,0.0769
+2025-04-16 13:41:08.296501,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,0.01880000000000004,0.5744,0.5556
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Young Ko,0.0182,0.0323,0.0141
 2025-04-16 07:30:33.626291,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.018100000000000005,0.9412,0.9231
-2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.018099999999999998,0.0769,0.0588
 2025-04-16 10:38:50.695457,Euroleague - Euroleague 2024/25 - Outright,Paris,0.018099999999999998,0.0526,0.0345
+2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.018099999999999998,0.0769,0.0588
 2025-04-16 08:40:26.326623,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,0.0179,0.1429,0.125
 2025-04-16 03:14:40.961784,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.01759999999999995,0.6667,0.6491
-2025-04-16 08:40:27.942410,Main Markets - 1st Round 2-Balls - M. Fitzpatrick / E. Cole - 1st Round 2-Balls,Matt Fitzpatrick,0.017299999999999982,0.5917,0.5744
 2025-04-16 03:46:46.798904,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Thomas Detry,0.017299999999999982,0.5917,0.5744
+2025-04-16 08:40:27.942410,Main Markets - 1st Round 2-Balls - M. Fitzpatrick / E. Cole - 1st Round 2-Balls,Matt Fitzpatrick,0.017299999999999982,0.5917,0.5744
 2025-04-16 13:41:08.390278,Main Markets - 1st Round 2-Balls - A. Rai / S. Jaeger - 1st Round 2-Balls,Aaron Rai,0.016699999999999937,0.6,0.5833
 2025-04-16 11:28:06.233753,Boxing Lines - Hendri Cedeno vs Idalberto Umara - To Win the Bout,Idalberto Umara,0.01629999999999998,0.2632,0.2469
 2025-04-16 13:41:08.349475,Main Markets - 1st Round 2-Balls - D. Berger / G. Woodland - 1st Round 2-Balls,Daniel Berger,0.016100000000000003,0.6078,0.5917
@@ -62,12 +55,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 03:14:40.806444,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Yoshinobu Yamamoto (LAD),0.014399999999999996,0.0769,0.0625
 2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),0.014099999999999994,0.0667,0.0526
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Scottie Scheffler,0.012899999999999995,0.1667,0.1538
-2025-04-16 02:10:00.795936,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.012700000000000045,0.6491,0.6364
-2025-04-16 08:40:28.251424,Round Match-Ups - 1st Round Match-Ups - S. Jaeger vs C. Kirk - 1st Round Match-Ups,Chris Kirk,0.012199999999999989,0.5,0.4878
+2025-04-16 14:34:37.713974,Houston Rockets - Exact Round Elimination - Rockets - 2024-25 Playoffs,First Round,0.012700000000000045,0.6491,0.6364
 2025-04-16 08:40:28.154422,Tournament Match-Ups - Tournament Match-Ups - R. Henley vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.012199999999999989,0.5,0.4878
+2025-04-16 08:40:28.251424,Round Match-Ups - 1st Round Match-Ups - S. Jaeger vs C. Kirk - 1st Round Match-Ups,Chris Kirk,0.012199999999999989,0.5,0.4878
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ashleigh Buhai,0.0119,0.0152,0.0033
 2025-04-16 05:34:18.719721,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.011600000000000055,0.5238,0.5122
-2025-04-16 02:10:00.803909,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Benjamin Whittaker,0.011099999999999999,0.7333,0.7222
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Yuri Yoshida,0.011,0.0123,0.0013
 2025-04-16 06:42:59.689316,NFL Draft - Team Markets - Team's First Pick - CHI Bears - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.010899999999999993,0.1538,0.1429
 2025-04-16 06:42:59.262774,Minnesota Timberwolves - Exact Round Elimination - Timberwolves - 2024-25 Playoffs,First Round,0.010700000000000043,0.6774,0.6667
@@ -76,33 +68,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 08:40:27.995014,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Nick Dunlap,0.010599999999999998,0.4651,0.4545
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Lauren Coughlin,0.010300000000000002,0.0244,0.0141
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nataliya Guseva,0.0103,0.0123,0.002
-2025-04-16 02:09:59.913031,45th Federal Election - 45th Federal Election - Which Party wins 2nd most seats in Canadian election?,Liberal Party,0.010299999999999976,0.2667,0.2564
 2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.0102,0.0769,0.0667
 2025-04-16 06:43:00.393999,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010099999999999998,0.4545,0.4444
 2025-04-16 03:14:40.977709,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.010099999999999998,0.4444,0.4545
-2025-04-16 08:40:28.251424,Round Match-Ups - 1st Round Match-Ups - S. Jaeger vs C. Kirk - 1st Round Match-Ups,Stephan Jaeger,-0.010099999999999998,0.5455,0.5556
 2025-04-16 13:41:08.390278,Main Markets - 1st Round 2-Balls - A. Rai / S. Jaeger - 1st Round 2-Balls,Stephan Jaeger,-0.010099999999999998,0.4444,0.4545
 2025-04-16 05:34:18.719721,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,-0.010099999999999998,0.5455,0.5556
-2025-04-16 05:34:19.220692,JM Eagle LA Championship - JM Eagle LA Championship  - Winner,Haeran Ryu,-0.0102,0.0667,0.0769
-2025-04-16 11:28:06.942227,Futures - US Open 2025 - Winner,Jon Rahm,-0.0102,0.0667,0.0769
-2025-04-16 11:28:06.947060,Futures - The Open 2025 - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
+2025-04-16 08:40:28.251424,Round Match-Ups - 1st Round Match-Ups - S. Jaeger vs C. Kirk - 1st Round Match-Ups,Stephan Jaeger,-0.010099999999999998,0.5455,0.5556
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
+2025-04-16 11:28:06.942227,Futures - US Open 2025 - Winner,Jon Rahm,-0.0102,0.0667,0.0769
+2025-04-16 05:34:19.220692,JM Eagle LA Championship - JM Eagle LA Championship  - Winner,Haeran Ryu,-0.0102,0.0667,0.0769
 2025-04-16 12:58:18.552780,RBC Heritage - RBC Heritage - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
+2025-04-16 11:28:06.947060,Futures - The Open 2025 - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Sam Burns,-0.010300000000000002,0.0141,0.0244
 2025-04-16 03:46:46.798904,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Nick Dunlap,-0.010599999999999998,0.4545,0.4651
 2025-04-16 08:40:27.942410,Main Markets - 1st Round 2-Balls - M. Fitzpatrick / E. Cole - 1st Round 2-Balls,Eric Cole,-0.010599999999999998,0.4545,0.4651
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Patrick Cantlay,-0.010700000000000001,0.0278,0.0385
-2025-04-16 08:40:27.926162,Main Markets - 1st Round 2-Balls - S. Burns / C. Bezuidenhout - 1st Round 2-Balls,Christiaan Bezuidenhout,-0.011099999999999999,0.4651,0.4762
 2025-04-16 03:14:40.806444,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),-0.011099999999999999,0.1,0.1111
+2025-04-16 08:40:27.926162,Main Markets - 1st Round 2-Balls - S. Burns / C. Bezuidenhout - 1st Round 2-Balls,Christiaan Bezuidenhout,-0.011099999999999999,0.4651,0.4762
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Mookie Betts (LAD),-0.011199999999999995,0.0476,0.0588
 2025-04-16 08:40:26.093387,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Lamine Yamal (Barcelona),-0.011199999999999995,0.0476,0.0588
 2025-04-16 03:14:40.352556,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.011199999999999995,0.0476,0.0588
 2025-04-16 03:14:40.352556,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.011199999999999995,0.0476,0.0588
-2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Max Homa,-0.011399999999999997,0.0164,0.0278
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Wyndham Clark,-0.011399999999999997,0.0164,0.0278
+2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Max Homa,-0.011399999999999997,0.0164,0.0278
 2025-04-16 05:34:18.699742,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,-0.011499999999999955,0.6552,0.6667
-2025-04-16 02:10:00.803909,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.01150000000000001,0.3333,0.3448
-2025-04-16 02:09:59.778932,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,First Round,-0.0116,0.4762,0.4878
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Auston Kim,-0.011699999999999999,0.0079,0.0196
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Cameron Young,-0.0118,0.0099,0.0217
 2025-04-16 08:40:28.122019,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Lowry - Tournament Match-Ups,Shane Lowry,-0.012199999999999989,0.5,0.5122
@@ -111,8 +100,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 08:40:26.099728,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Arsenal-Inter Milan,-0.012899999999999995,0.1538,0.1667
 2025-04-16 08:40:26.093387,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Federico Valverde (Real Madrid),-0.013,0.0066,0.0196
 2025-04-16 08:40:26.106277,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,-0.0131,0.2222,0.2353
-2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Viktor Hovland,-0.014100000000000001,0.0385,0.0526
 2025-04-16 03:14:40.806444,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),-0.014100000000000001,0.0385,0.0526
+2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Viktor Hovland,-0.014100000000000001,0.0385,0.0526
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Bryce Harper (PHI),-0.014100000000000001,0.0385,0.0526
 2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),-0.014399999999999996,0.0625,0.0769
 2025-04-16 06:43:00.393999,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.014800000000000035,0.6078,0.6226
@@ -122,7 +111,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 11:28:06.233753,Boxing Lines - Hendri Cedeno vs Idalberto Umara - To Win the Bout,Hendri Cedeno,-0.01750000000000007,0.8039,0.8214
 2025-04-16 08:40:26.099728,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Inter Milan-Paris Saint Germain,-0.01820000000000002,0.1818,0.2
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Gemma Dryburgh,-0.0184,0.0033,0.0217
-2025-04-16 02:09:59.946269,45th Federal Election - 45th Federal Election - Which party wins most seats in Prince Edward Island?,Liberal Party,-0.01849999999999996,0.9524,0.9709
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Elly De La Cruz (CIN),-0.018800000000000004,0.0526,0.0714
 2025-04-16 08:40:27.922121,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,-0.01880000000000004,0.5556,0.5744
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Sei Young Kim,-0.0189,0.0196,0.0385
@@ -131,12 +119,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 08:40:26.096588,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),-0.02020000000000001,0.0909,0.1111
 2025-04-16 10:38:52.422093,Futures - PGA Championship 2025 - Winner,Brooks Koepka,-0.0203,0.0385,0.0588
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Emily Pedersen,-0.0204,0.004,0.0244
-2025-04-16 09:33:48.984105,Match-Ups - Tournament Match-Ups - H. Li v W. Ding - Requests,Wenyi Ding,-0.022600000000000064,0.5122,0.5348
 2025-04-16 03:14:40.981672,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.022600000000000064,0.5122,0.5348
+2025-04-16 09:33:48.984105,Match-Ups - Tournament Match-Ups - H. Li v W. Ding - Requests,Wenyi Ding,-0.022600000000000064,0.5122,0.5348
 2025-04-16 13:41:08.296501,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
 2025-04-16 03:46:46.726570,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
-2025-04-16 02:10:00.843836,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.022699999999999998,0.4651,0.4878
-2025-04-16 02:09:59.929599,45th Federal Election - 45th Federal Election - Which party wins most seats in Newfoundland and Labrador?,Liberal Party,-0.0232,0.9524,0.9756
 2025-04-16 13:41:08.637012,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,-0.023799999999999988,0.4762,0.5
 2025-04-16 08:40:26.201637,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,-0.023800000000000043,0.5,0.5238
 2025-04-16 08:40:26.099728,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Barcelona-Arsenal,-0.02739999999999998,0.2667,0.2941
@@ -146,8 +132,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 08:40:26.102865,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,-0.031799999999999995,0.4444,0.4762
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Esther Henseleit,-0.0319,0.0066,0.0385
 2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Logan Gilbert (SEA),-0.033399999999999985,0.1333,0.1667
-2025-04-16 02:09:59.942943,45th Federal Election - 45th Federal Election - Which Party wins most seats in Ontario?,Liberal Party,-0.03420000000000001,0.8889,0.9231
-2025-04-16 02:09:59.793912,Denver Nuggets - Exact Round Elimination - Nuggets - 2024-25 Playoffs,Second Round,-0.0348,0.4,0.4348
 2025-04-16 13:41:08.288308,Main Markets - 1st Round 2-Balls - B. Campbell / S. Valimaki - 1st Round 2-Balls,Sami Valimaki,-0.03480000000000005,0.5,0.5348
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Juan Soto (NYM),-0.037500000000000006,0.0625,0.1
 2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.03889999999999999,0.1429,0.1818
@@ -155,8 +139,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 03:14:40.399970,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.04910000000000003,0.3509,0.4
 2025-04-16 06:42:59.656936,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.052000000000000005,0.0909,0.1429
 2025-04-16 09:33:49.054566,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hannah Green,-0.052399999999999995,0.0385,0.0909
-2025-04-16 02:09:59.926312,45th Federal Election - 45th Federal Election - Which party wins most seats in New Brunswick?,Liberal Party,-0.0524,0.9,0.9524
-2025-04-16 02:09:59.936266,45th Federal Election - 45th Federal Election - Which party wins most seats in Nova Scotia?,Liberal Party,-0.0524,0.9091,0.9615
 2025-04-16 03:46:45.745585,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Pierre Poilievre (Conservative Party of Canada),-0.055900000000000005,0.3077,0.3636
 2025-04-16 08:40:26.201637,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,-0.05910000000000004,0.6552,0.7143
 2025-04-16 04:36:08.073019,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 69.5,-0.07119999999999993,0.5652,0.6364

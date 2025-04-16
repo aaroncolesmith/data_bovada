@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-15 17:32:33.255976,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mason Graham (NMSU),0.04259999999999997,0.6078,0.5652
 2025-04-15 17:32:33.382257,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),0.03640000000000004,0.4,0.3636
 2025-04-15 17:32:34.043125,Positions - Finishing Position - Ludvig Aberg - Finishing Position,13th or better,0.03610000000000002,0.5917,0.5556
+2025-04-16 03:46:45.745585,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Mark Carney (Liberal Party of Canada),0.035699999999999954,0.75,0.7143
 2025-04-15 21:30:08.130931,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.03480000000000005,0.5348,0.5
 2025-04-15 22:34:22.336197,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Mason Graham (NMSU),0.032099999999999906,0.6154,0.5833
 2025-04-15 18:39:53.199576,Denver Nuggets - Exact Round Elimination - Nuggets - 2024-25 Playoffs,First Round,0.03179999999999994,0.5556,0.5238
@@ -31,12 +32,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-15 20:33:14.814203,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.02020000000000001,0.1111,0.0909
 2025-04-15 16:39:04.586220,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.019699999999999995,0.4545,0.4348
 2025-04-15 18:39:53.155342,Indiana Pacers - Exact Round Elimination - Pacers - 2024-25 Playoffs,First Round,0.019500000000000017,0.3704,0.3509
+2025-04-16 03:46:46.726570,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,0.01880000000000004,0.5744,0.5556
 2025-04-15 17:32:33.692588,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,0.018599999999999978,0.1667,0.1481
 2025-04-16 02:09:59.946269,45th Federal Election - 45th Federal Election - Which party wins most seats in Prince Edward Island?,Conservative Party,0.01830000000000001,0.0952,0.0769
 2025-04-15 16:39:03.479507,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,0.01820000000000002,0.2,0.1818
 2025-04-15 21:30:08.279601,JM Eagle LA Championship - JM Eagle LA Championship  - Winner,Haeran Ryu,0.018099999999999998,0.0769,0.0588
 2025-04-15 20:33:14.824543,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.01759999999999999,0.1176,0.1
 2025-04-16 03:14:40.961784,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.01759999999999995,0.6667,0.6491
+2025-04-16 03:46:46.798904,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Thomas Detry,0.017299999999999982,0.5917,0.5744
 2025-04-15 16:39:03.737753,45th Federal Election - 45th Federal Election - Which party wins most seats in Nova Scotia?,Conservative Party,0.016600000000000004,0.0833,0.0667
 2025-04-15 18:39:53.160264,New York Knicks - Exact Round Elimination - Knicks - 2024-25 Playoffs,Second Round,0.01639999999999997,0.6774,0.661
 2025-04-15 21:30:08.187875,Tournament Match-Ups - Tournament Match-Ups - D. Berger vs M.W. Lee - Tournament Match-Ups,Daniel Berger,0.016100000000000003,0.6078,0.5917
@@ -47,24 +50,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),0.014099999999999994,0.0667,0.0526
 2025-04-15 17:32:33.707449,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.013999999999999999,0.0909,0.0769
 2025-04-15 17:32:33.707449,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Los Angeles Angels,0.013400000000000002,0.0244,0.011
-2025-04-15 15:34:21.853581,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.012700000000000045,0.6491,0.6364
 2025-04-16 02:10:00.795936,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.012700000000000045,0.6491,0.6364
 2025-04-15 17:32:33.672856,World Series Winner - World Series 2025 - Winner - World Series Winner,Tampa Bay Rays,0.012400000000000001,0.0303,0.0179
 2025-04-15 21:30:08.118551,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,0.01150000000000001,0.3448,0.3333
 2025-04-15 17:32:33.687671,AL West - AL West 2025 - AL West Winner 2025,Los Angeles Angels,0.011099999999999999,0.0667,0.0556
 2025-04-16 02:10:00.803909,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Benjamin Whittaker,0.011099999999999999,0.7333,0.7222
 2025-04-15 17:32:34.029654,Positions - Finishing Position - Collin Morikawa - Finishing Position,12th or worse,0.01100000000000001,0.5348,0.5238
-2025-04-15 15:34:21.681212,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,0.010700000000000001,0.0385,0.0278
 2025-04-15 19:27:08.423533,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,0.010699999999999987,0.3333,0.3226
 2025-04-16 02:09:59.913031,45th Federal Election - 45th Federal Election - Which Party wins 2nd most seats in Canadian election?,Liberal Party,0.010299999999999976,0.2667,0.2564
-2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.0102,0.0769,0.0667
 2025-04-15 17:32:33.702438,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
-2025-04-15 21:30:08.183665,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Lowry - Tournament Match-Ups,Corey Conners,0.010099999999999998,0.5556,0.5455
+2025-04-16 03:14:40.801017,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.0102,0.0769,0.0667
 2025-04-15 17:32:33.687671,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.010099999999999998,0.4545,0.4444
-2025-04-15 15:34:21.845236,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,0.010099999999999998,0.5556,0.5455
-2025-04-16 03:14:40.977709,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.010099999999999998,0.4444,0.4545
+2025-04-15 21:30:08.183665,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Lowry - Tournament Match-Ups,Corey Conners,0.010099999999999998,0.5556,0.5455
 2025-04-15 17:32:33.692588,NL Central - NL Central 2025 - NL Central Winner,Pittsburgh Pirates,-0.010099999999999998,0.0455,0.0556
 2025-04-15 17:32:32.858157,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Houston Rockets,-0.010099999999999998,0.4444,0.4545
+2025-04-16 03:14:40.977709,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.010099999999999998,0.4444,0.4545
+2025-04-16 03:46:46.798904,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Nick Dunlap,-0.010599999999999998,0.4545,0.4651
 2025-04-15 17:32:34.029654,Positions - Finishing Position - Collin Morikawa - Finishing Position,11th or better,-0.010699999999999932,0.5348,0.5455
 2025-04-15 21:30:08.118551,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Benjamin Whittaker,-0.011099999999999999,0.7222,0.7333
 2025-04-16 03:14:40.806444,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),-0.011099999999999999,0.1,0.1111
@@ -72,13 +73,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 03:14:40.352556,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.011199999999999995,0.0476,0.0588
 2025-04-15 20:33:15.549702,Volvo China Open - Volvo China Open - Winner,Wenyi Ding,-0.011199999999999995,0.0476,0.0588
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Mookie Betts (LAD),-0.011199999999999995,0.0476,0.0588
-2025-04-15 17:32:32.858157,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Minnesota Timberwolves,-0.01150000000000001,0.3333,0.3448
 2025-04-16 02:10:00.803909,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.01150000000000001,0.3333,0.3448
+2025-04-15 17:32:32.858157,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Minnesota Timberwolves,-0.01150000000000001,0.3333,0.3448
 2025-04-16 02:09:59.778932,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,First Round,-0.0116,0.4762,0.4878
 2025-04-15 21:30:08.183665,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Lowry - Tournament Match-Ups,Shane Lowry,-0.011600000000000055,0.5122,0.5238
-2025-04-15 15:34:21.845236,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.011600000000000055,0.5122,0.5238
-2025-04-15 15:34:21.888845,RBC Heritage - RBC Heritage - Winner,Scottie Scheffler,-0.011700000000000016,0.2105,0.2222
-2025-04-15 15:34:21.681212,World Series Winner - World Series 2025 - Winner - World Series Winner,Atlanta Braves,-0.011899999999999994,0.0714,0.0833
 2025-04-15 16:39:04.590274,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.012199999999999989,0.5,0.5122
 2025-04-15 17:32:33.707449,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,-0.012299999999999991,0.1053,0.1176
 2025-04-16 03:14:40.352556,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.012899999999999995,0.1538,0.1667
@@ -89,8 +87,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-15 17:32:33.707449,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Baltimore Orioles,-0.013899999999999996,0.1111,0.125
 2025-04-16 03:14:40.795647,MVP - NL MVP 2025 - National League MVP,Bryce Harper (PHI),-0.014100000000000001,0.0385,0.0526
 2025-04-16 03:14:40.806444,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),-0.014100000000000001,0.0385,0.0526
-2025-04-15 17:32:33.692588,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.016699999999999993,0.25,0.2667
 2025-04-16 03:14:40.961784,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Sam Eggington,-0.016699999999999993,0.4,0.4167
+2025-04-15 17:32:33.692588,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.016699999999999993,0.25,0.2667
 2025-04-15 17:32:33.672856,World Series Winner - World Series 2025 - Winner - World Series Winner,Philadelphia Phillies,-0.016799999999999995,0.0741,0.0909
 2025-04-15 21:30:07.016750,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jamal Murray (DEN),-0.0168,0.0028,0.0196
 2025-04-15 21:30:07.016750,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Ja Morant (MEM),-0.0177,0.004,0.0217
@@ -106,6 +104,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-15 16:39:04.586220,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.02180000000000004,0.6078,0.6296
 2025-04-15 22:34:22.336197,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Shedeur Sanders (COL),-0.021999999999999964,0.2857,0.3077
 2025-04-16 03:14:40.981672,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.022600000000000064,0.5122,0.5348
+2025-04-16 03:46:46.726570,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
 2025-04-16 02:10:00.843836,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.022699999999999998,0.4651,0.4878
 2025-04-16 02:09:59.929599,45th Federal Election - 45th Federal Election - Which party wins most seats in Newfoundland and Labrador?,Liberal Party,-0.0232,0.9524,0.9756
 2025-04-15 21:30:07.016750,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Nikola Jokic (DEN),-0.024299999999999995,0.0345,0.0588
@@ -125,9 +124,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-15 20:33:14.814203,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.047599999999999976,0.2857,0.3333
 2025-04-15 22:34:22.336197,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Armand Membou (MIZZ),-0.047599999999999976,0.2857,0.3333
 2025-04-16 03:14:40.399970,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.04910000000000003,0.3509,0.4
-2025-04-16 02:09:59.936266,45th Federal Election - 45th Federal Election - Which party wins most seats in Nova Scotia?,Liberal Party,-0.0524,0.9091,0.9615
 2025-04-16 02:09:59.926312,45th Federal Election - 45th Federal Election - Which party wins most seats in New Brunswick?,Liberal Party,-0.0524,0.9,0.9524
+2025-04-16 02:09:59.936266,45th Federal Election - 45th Federal Election - Which party wins most seats in Nova Scotia?,Liberal Party,-0.0524,0.9091,0.9615
 2025-04-15 16:39:03.479507,CBA - China CBA 2024/25 - Outright,Xinjiang Flying Tigers,-0.0539,0.0294,0.0833
+2025-04-16 03:46:45.745585,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Pierre Poilievre (Conservative Party of Canada),-0.055900000000000005,0.3077,0.3636
 2025-04-15 22:34:21.384670,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,-0.05710000000000001,0.1429,0.2
 2025-04-15 21:30:07.016750,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),-0.0573,0.0196,0.0769
 2025-04-15 21:30:07.016750,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),-0.0573,0.0196,0.0769

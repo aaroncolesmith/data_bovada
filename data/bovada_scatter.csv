@@ -7,62 +7,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 20:33:48.103903,45th Federal Election - 45th Federal Election - Which Party wins 2nd most seats in Canadian election?,Liberal Party,0.07230000000000003,0.339,0.2667
 2025-04-16 16:42:17.090554,NFL Draft - Team Markets - Team's First Pick - CHI Bears - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.06840000000000002,0.2222,0.1538
 2025-04-17 02:06:29.730627,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Jaxson Dart (MISS),0.0676,0.8571,0.7895
-2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,0.0635,0.2857,0.2222
 2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.0635,0.2857,0.2222
+2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,0.0635,0.2857,0.2222
 2025-04-16 16:42:17.175798,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Will Campbell (LSU),0.06320000000000003,0.7299,0.6667
 2025-04-16 16:42:17.068326,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Jalon Walker (UGA),0.060600000000000015,0.2273,0.1667
-2025-04-16 15:34:48.886418,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Conference Finals,0.04909999999999999,0.1667,0.1176
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,0.04849999999999999,0.1818,0.1333
 2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.04849999999999999,0.1818,0.1333
 2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,170-179,0.04329999999999999,0.0909,0.0476
 2025-04-16 20:33:48.079983,45th Federal Election - 45th Federal Election - Number of seats the Green Party wins in Canadian Election?,3,0.04329999999999999,0.0909,0.0476
 2025-04-17 02:06:29.800298,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.04169999999999999,0.1667,0.125
-2025-04-16 15:34:50.515594,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.03479999999999994,0.6,0.5652
 2025-04-17 03:11:59.077204,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.034100000000000005,0.125,0.0909
 2025-04-16 20:33:48.398219,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.03270000000000001,0.0952,0.0625
 2025-04-16 20:33:48.079983,45th Federal Election - 45th Federal Election - Number of seats the Green Party wins in Canadian Election?,4,0.0306,0.0385,0.0079
 2025-04-16 19:26:22.262031,Los Angeles Lakers - Exact Round Elimination - Lakers - 2024-25 Playoffs,Conference Finals,0.029899999999999982,0.3077,0.2778
 2025-04-16 20:33:48.165030,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Pierre Poilievre (Conservative Party of Canada),0.02560000000000001,0.3333,0.3077
 2025-04-16 23:29:49.212660,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.024999999999999994,0.125,0.1
-2025-04-16 15:34:48.886418,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Runner Up,0.0242,0.0909,0.0667
-2025-04-16 15:34:48.720001,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,0.0242,0.0909,0.0667
 2025-04-17 02:06:28.912401,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Southampton,0.02410000000000001,0.995,0.9709
 2025-04-16 20:33:47.993226,Boston Celtics - Exact Round Elimination - Celtics - 2024-25 Playoffs,First Round,0.024,0.0625,0.0385
 2025-04-16 16:42:16.789850,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Alexandria Ocasio-Cortez,0.023200000000000002,0.0476,0.0244
-2025-04-16 15:34:49.373651,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.02169999999999994,0.5455,0.5238
+2025-04-17 03:46:03.290610,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.022199999999999998,0.8889,0.8667
 2025-04-16 19:26:22.262031,Los Angeles Lakers - Exact Round Elimination - Lakers - 2024-25 Playoffs,Runner Up,0.02020000000000001,0.1111,0.0909
 2025-04-16 16:42:16.582789,CBA - China CBA 2024/25 - Outright,Beijing Ducks,0.02020000000000001,0.1111,0.0909
 2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,180-189,0.019800000000000005,0.0476,0.0278
 2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,>210,0.019800000000000005,0.0476,0.0278
-2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,140-149,0.019699999999999995,0.125,0.1053
 2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,150-159,0.019699999999999995,0.125,0.1053
+2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,140-149,0.019699999999999995,0.125,0.1053
 2025-04-16 19:26:22.725783,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.019500000000000017,0.3704,0.3509
 2025-04-17 02:06:30.306457,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Josh Padley,0.01849999999999996,0.9709,0.9524
 2025-04-16 20:33:48.865090,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Auburn,0.0182,0.0323,0.0141
-2025-04-16 15:34:50.108389,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Denny McCarthy,0.017299999999999982,0.5917,0.5744
 2025-04-16 19:26:22.627879,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Carson Schwesinger (UCLA),0.015700000000000006,0.1333,0.1176
 2025-04-16 20:33:48.066461,45th Federal Election - 45th Federal Election - Next Government of Canada,Liberal Minority,0.015100000000000002,0.1818,0.1667
 2025-04-17 02:06:28.915326,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Manchester City,0.015000000000000013,0.9859,0.9709
 2025-04-17 02:06:28.918837,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Declan Rice (Arsenal),0.014900000000000004,0.0345,0.0196
-2025-04-16 15:34:50.193009,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Thomas Detry,0.014800000000000035,0.6226,0.6078
 2025-04-16 20:33:47.937789,Indiana Pacers - Exact Round Elimination - Pacers - 2024-25 Playoffs,First Round,0.01419999999999999,0.3846,0.3704
 2025-04-16 20:33:48.833439,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Yoshinobu Yamamoto (LAD),0.013999999999999999,0.0909,0.0769
 2025-04-16 18:42:26.318695,Boxing Lines - Elliot Whale vs Lucas Ballingall - To Win the Bout,Elliot Whale,0.013900000000000023,0.8889,0.875
-2025-04-16 15:34:49.373651,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.013600000000000001,0.2041,0.1905
 2025-04-16 16:42:17.618745,Boxing Lines - Hendri Cedeno vs Idalberto Umara - To Win the Bout,Idalberto Umara,0.01319999999999999,0.2632,0.25
 2025-04-16 21:30:17.618247,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Viddal Riley,0.012700000000000045,0.6491,0.6364
 2025-04-16 21:30:17.072320,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,NY Giants,0.012100000000000001,0.0244,0.0123
-2025-04-16 15:34:50.211808,Main Markets - 1st Round 2-Balls - C. Kirk / C. Young - 1st Round 2-Balls,Chris Kirk,0.011600000000000055,0.5238,0.5122
-2025-04-16 15:34:49.998372,Boxing Lines - Tyler Denny vs Elvis Ahorgah - To Win the Bout,Elvis Ahorgah,0.011099999999999999,0.1111,0.1
 2025-04-16 20:33:47.967958,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,First Round,0.011099999999999999,0.4762,0.4651
 2025-04-16 16:42:17.614694,Boxing Lines - Kevin Hayler Brown vs Esteuri Metiver Suero - To Win the Bout,Kevin Hayler Brown,0.010199999999999987,0.9333,0.9231
 2025-04-16 16:42:17.175798,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),-0.0102,0.0667,0.0769
-2025-04-16 15:34:50.108389,Main Markets - 1st Round 2-Balls - M. Homa / D. McCarthy - 1st Round 2-Balls,Max Homa,-0.010599999999999998,0.4545,0.4651
 2025-04-16 20:33:48.079983,45th Federal Election - 45th Federal Election - Number of seats the Green Party wins in Canadian Election?,1,-0.010599999999999998,0.4545,0.4651
-2025-04-16 15:34:50.211808,Main Markets - 1st Round 2-Balls - C. Kirk / C. Young - 1st Round 2-Balls,Cameron Young,-0.01100000000000001,0.5238,0.5348
-2025-04-16 15:34:48.886418,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,First Round,-0.011099999999999999,0.4651,0.4762
 2025-04-17 02:06:28.906219,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.012700000000000003,0.0196,0.0323
-2025-04-16 15:34:48.891597,Houston Rockets - Exact Round Elimination - Rockets - 2024-25 Playoffs,First Round,-0.012700000000000045,0.6364,0.6491
 2025-04-16 23:29:49.848582,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.012700000000000045,0.6364,0.6491
 2025-04-16 16:42:16.789850,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Donald Trump Jr.,-0.014099999999999994,0.0526,0.0667
 2025-04-17 02:06:28.918837,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),-0.014100000000000001,0.9615,0.9756
@@ -70,7 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 18:42:26.318695,Boxing Lines - Elliot Whale vs Lucas Ballingall - To Win the Bout,Lucas Ballingall,-0.016600000000000004,0.1739,0.1905
 2025-04-16 16:42:17.068326,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Will Campbell (LSU),-0.017300000000000093,0.697,0.7143
 2025-04-16 20:33:47.957852,Milwaukee Bucks - Exact Round Elimination - Bucks - 2024-25 Playoffs,First Round,-0.01759999999999995,0.6491,0.6667
-2025-04-16 15:34:50.193009,Main Markets - 1st Round 2-Balls - T. Detry / N. Dunlap - 1st Round 2-Balls,Nick Dunlap,-0.018100000000000005,0.4167,0.4348
 2025-04-17 02:06:28.915326,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.0189,0.0196,0.0385
 2025-04-16 16:42:16.789850,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,-0.019000000000000017,0.2667,0.2857
 2025-04-16 18:42:25.684423,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Nic Scourton (TAM),-0.019500000000000017,0.3509,0.3704
@@ -78,18 +64,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-16 20:33:48.398219,NFL Draft - Team Markets - Team's First Pick - KC Chiefs - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.02260000000000001,0.3774,0.4
 2025-04-17 02:06:30.306457,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Marko Cvetanovic,-0.02310000000000001,0.0769,0.1
 2025-04-16 20:33:48.066461,45th Federal Election - 45th Federal Election - Next Government of Canada,Conservative Majority,-0.023799999999999988,0.1429,0.1667
-2025-04-16 15:34:48.720001,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.0242,0.0667,0.0909
 2025-04-16 16:42:16.582789,CBA - China CBA 2024/25 - Outright,Guangdong Southern Tigers,-0.0242,0.0667,0.0909
 2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,-0.02560000000000001,0.3077,0.3333
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,France,-0.02560000000000001,0.3077,0.3333
 2025-04-16 23:29:49.212660,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.026499999999999968,0.5652,0.5917
 2025-04-16 20:33:48.079983,45th Federal Election - 45th Federal Election - Number of seats the Green Party wins in Canadian Election?,2,-0.027600000000000013,0.2899,0.3175
 2025-04-16 20:33:48.165030,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Mark Carney (Liberal Party of Canada),-0.027800000000000047,0.7222,0.75
-2025-04-16 15:34:49.373651,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.029799999999999993,0.0952,0.125
-2025-04-16 15:34:50.515594,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,-0.031799999999999995,0.4444,0.4762
 2025-04-17 02:06:28.912401,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.0373,0.0294,0.0667
 2025-04-16 20:33:48.079983,45th Federal Election - 45th Federal Election - Number of seats the Green Party wins in Canadian Election?,0,-0.04099999999999998,0.2222,0.2632
-2025-04-16 15:34:48.886418,L.A. Clippers - Exact Round Elimination - Clippers - 2024-25 Playoffs,Second Round,-0.044399999999999995,0.4,0.4444
 2025-04-16 20:33:48.086724,45th Federal Election - 45th Federal Election - Number seats Conservatives win in Canadian Election?,100-119,-0.044800000000000006,0.1905,0.2353
 2025-04-16 16:42:17.090554,NFL Draft - Team Markets - Team's First Pick - CHI Bears - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.047599999999999976,0.2857,0.3333
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,-0.05130000000000001,0.3333,0.3846

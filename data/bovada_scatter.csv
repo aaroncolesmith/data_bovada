@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 09:33:11.638981,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Paulinho,0.1956,0.8182,0.6226
+2025-04-17 10:37:17.509072,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Luther Burden III (MIZZ),0.15000000000000002,0.4,0.25
 2025-04-17 04:37:01.623774,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,0.10109999999999997,0.5455,0.4444
 2025-04-17 08:38:35.058264,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,JAX Jaguars,0.08979999999999999,0.1667,0.0769
 2025-04-17 04:37:01.620619,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Barcelona-Arsenal,0.0781,0.3448,0.2667
@@ -7,14 +8,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 02:06:29.730627,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Jaxson Dart (MISS),0.0676,0.8571,0.7895
 2025-04-17 04:37:01.623774,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Inter Milan,0.06670000000000004,0.4,0.3333
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,England,0.0635,0.2857,0.2222
-2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.0635,0.2857,0.2222
 2025-04-17 09:33:11.642238,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Tigres UANL,0.05910000000000004,0.7143,0.6552
 2025-04-17 08:38:34.920319,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),0.05710000000000001,0.2,0.1429
 2025-04-17 04:37:01.620619,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Arsenal-Inter Milan,0.0567,0.2105,0.1538
 2025-04-17 08:38:34.933225,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Ashton Jeanty (BSU),0.0563,0.1739,0.1176
 2025-04-17 04:37:01.620619,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Inter Milan-Paris Saint Germain,0.05350000000000002,0.2353,0.1818
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Italy,0.04849999999999999,0.1818,0.1333
-2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.04849999999999999,0.1818,0.1333
 2025-04-17 04:37:01.623774,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,0.04409999999999992,0.6667,0.6226
 2025-04-17 02:06:29.800298,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.04169999999999999,0.1667,0.125
 2025-04-17 03:11:59.077204,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.034100000000000005,0.125,0.0909
@@ -29,6 +28,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 09:33:11.778813,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Atlético Nacional,0.023799999999999988,0.1667,0.1429
 2025-04-17 09:33:13.197585,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.02250000000000002,0.2857,0.2632
 2025-04-17 03:46:03.290610,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.022199999999999998,0.8889,0.8667
+2025-04-17 10:37:18.090182,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.021999999999999964,0.3077,0.2857
 2025-04-17 04:37:01.617466,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),0.021999999999999964,0.3077,0.2857
 2025-04-17 08:38:35.732744,Main Markets - 1st Round 2-Balls - M. Kuchar / S. Stevens - 1st Round 2-Balls,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2025-04-17 09:33:11.642238,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Cruz Azul,0.021199999999999997,0.9,0.8788
@@ -48,12 +48,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 04:37:03.284033,Boxing Lines - Ryan Kelly  vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,0.0131,0.7778,0.7647
 2025-04-17 04:37:01.614288,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Ousmane Dembele (PSG),0.013,0.0196,0.0066
 2025-04-17 08:38:35.766945,Main Markets - 1st Round 2-Balls - S.W. Kim / P. Cantlay - 1st Round 2-Balls,Patrick Cantlay,0.012700000000000045,0.6491,0.6364
-2025-04-17 08:38:36.043653,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs P. Cantlay - 1st Round Match-Ups,Patrick Cantlay,0.011600000000000055,0.5238,0.5122
 2025-04-17 06:42:38.906980,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Eastern Conference,0.011600000000000055,0.5238,0.5122
+2025-04-17 08:38:36.043653,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs P. Cantlay - 1st Round Match-Ups,Patrick Cantlay,0.011600000000000055,0.5238,0.5122
 2025-04-17 09:33:11.645626,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Necaxa,0.011199999999999995,0.0588,0.0476
 2025-04-17 04:37:01.617466,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),0.011099999999999999,0.4762,0.4651
 2025-04-17 08:38:35.567230,Boxing Lines - Elliot Whale vs Lucas Ballingall - To Win the Bout,Elliot Whale,0.011099999999999999,0.9,0.8889
 2025-04-17 06:42:38.906980,NBA Championship - NBA Championship 2024-25 - Conference to Win the NBA Finals,Western Conference,-0.010099999999999998,0.5455,0.5556
+2025-04-17 10:37:18.106227,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Marko Cvetanovic,-0.0102,0.0667,0.0769
 2025-04-17 06:42:38.916619,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,California (CA),-0.010499999999999982,0.2,0.2105
 2025-04-17 06:42:38.910204,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Central Division,-0.010899999999999993,0.1429,0.1538
 2025-04-17 08:38:36.043653,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs P. Cantlay - 1st Round Match-Ups,Ludvig Aberg,-0.01100000000000001,0.5238,0.5348
@@ -67,20 +68,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 02:06:28.915326,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.0189,0.0196,0.0385
 2025-04-17 05:34:21.894429,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.019500000000000017,0.3509,0.3704
 2025-04-17 05:34:21.875817,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.02049999999999999,0.1333,0.1538
+2025-04-17 10:37:18.090182,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Shuichiro Yoshino,-0.021700000000000053,0.7561,0.7778
 2025-04-17 09:33:11.645626,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,-0.021999999999999964,0.2857,0.3077
 2025-04-17 02:06:30.306457,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Marko Cvetanovic,-0.02310000000000001,0.0769,0.1
 2025-04-17 08:38:35.732744,Main Markets - 1st Round 2-Balls - M. Kuchar / S. Stevens - 1st Round 2-Balls,Sam Stevens,-0.023800000000000043,0.5,0.5238
 2025-04-17 08:38:36.058370,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs S. Scheffler - 1st Round Match-Ups,Justin Thomas,-0.025499999999999967,0.4,0.4255
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,France,-0.02560000000000001,0.3077,0.3333
-2025-04-16 22:35:19.236050,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,-0.02560000000000001,0.3077,0.3333
 2025-04-17 09:33:13.197585,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Shuichiro Yoshino,-0.0260999999999999,0.7778,0.8039
 2025-04-16 23:29:49.212660,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.026499999999999968,0.5652,0.5917
 2025-04-17 05:34:22.988928,Boxing Lines - Seung Yeol Kim vs Kenta Nakagawa - To Win the Bout,Seung Yeol Kim,-0.029000000000000026,0.4255,0.4545
 2025-04-17 05:34:22.992982,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Shuichiro Yoshino,-0.029400000000000093,0.8039,0.8333
 2025-04-17 09:33:11.778813,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,-0.031799999999999995,0.1111,0.1429
 2025-04-17 02:06:28.912401,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.0373,0.0294,0.0667
-2025-04-17 09:33:11.645626,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.042899999999999994,0.1,0.1429
 2025-04-17 09:33:11.642238,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,-0.042899999999999994,0.1,0.1429
+2025-04-17 09:33:11.645626,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Pachuca,-0.042899999999999994,0.1,0.1429
 2025-04-17 03:11:57.940333,UEFA Champions League - UEFA Champions League 2024/25 - Nationality of Winner,Spain,-0.05130000000000001,0.3333,0.3846
 2025-04-17 04:37:01.623774,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Paris Saint-Germain,-0.0595,0.5238,0.5833
 2025-04-17 02:06:28.915326,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,-0.06649999999999999,0.0244,0.0909

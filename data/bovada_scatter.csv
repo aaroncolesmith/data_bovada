@@ -5,19 +5,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Eugenio Lopez-Chacarra,0.11900000000000002,0.2857,0.1667
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Flamengo,0.11430000000000001,0.4,0.2857
 2025-04-18 14:33:23.966587,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 67.5,0.09040000000000004,0.5348,0.4444
-2025-04-18 09:33:04.799308,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.087,0.2299,0.1429
-2025-04-18 14:33:22.423629,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Tenerife,0.08329999999999999,0.3333,0.25
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Palmeiras,0.08329999999999999,0.3333,0.25
+2025-04-18 14:33:22.423629,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Tenerife,0.08329999999999999,0.3333,0.25
 2025-04-18 20:31:54.585482,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.0814999999999999,0.8462,0.7647
 2025-04-18 20:31:54.569347,BKFC Fight Night: Omaha - Alonso Martinez vs Kurtis Ellis - To Win the Bout,Kurtis Ellis,0.07400000000000007,0.6296,0.5556
 2025-04-18 14:33:23.952317,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 69.5,0.06669999999999998,0.6667,0.6
 2025-04-18 12:55:17.013006,NFL Draft - Team Markets - Team's First Pick - NO Saints - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.0567,0.2105,0.1538
-2025-04-18 09:33:04.758810,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.05449999999999999,0.9333,0.8788
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Zecheng Dou,0.0447,0.0588,0.0141
 2025-04-18 14:33:23.961022,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score,Under 69.5,0.04469999999999996,0.6364,0.5917
-2025-04-18 09:33:05.336323,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Playoffs Team Specials,Mike Breen to say 'Bang' after a Luka Doncic made three,0.04139999999999999,0.5652,0.5238
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Sei Young Kim,0.0392,0.0588,0.0196
-2025-04-18 09:33:04.758810,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.03889999999999999,0.1818,0.1429
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Madelene Sagstrom,0.037700000000000004,0.0476,0.0099
 2025-04-18 14:33:23.956674,Scores - 2nd Round Score - Russell Henley - 2nd Round Score,Under 69.5,0.03639999999999999,0.6364,0.6
 2025-04-18 20:31:54.602599,BKFC Fight Night: Omaha - Sean Wilson vs Jordan Christensen - To Win the Bout,Sean Wilson,0.0363,0.7333,0.697
@@ -25,8 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 11:26:47.398762,NFL Draft - Team Markets - Team's First Pick - PHI Eagles - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,0.036199999999999996,0.1538,0.1176
 2025-04-18 21:30:06.542492,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.03600000000000003,0.5238,0.4878
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Jannik De Bruyn,0.03559999999999999,0.0435,0.0079
-2025-04-18 09:33:06.454897,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Sam Eggington,0.0348,0.4348,0.4
-2025-04-18 09:33:05.278318,Denver Nuggets - Denver Nuggets 2024-25 - Playoffs Team Specials,Nikola Jokic to average a triple double,0.0348,0.4348,0.4
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Akie Iwai,0.0344,0.0588,0.0244
 2025-04-18 12:55:17.756069,BKFC Fight Night: Omaha - Daniel Cooper vs Jeff Souder - To Win the Bout,Daniel Cooper,0.034399999999999986,0.7403,0.7059
 2025-04-18 12:55:17.533442,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jung Hoo Lee (SF),0.03259999999999999,0.2326,0.2
@@ -65,34 +59,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Sam Bairstow,0.015499999999999998,0.0278,0.0123
 2025-04-18 14:33:23.846880,BKFC Fight Night: Omaha - Zeb Vincent vs Dionisio Ramirez - To Win the Bout,Zeb Vincent,0.015400000000000025,0.4,0.3846
 2025-04-18 12:55:15.932400,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Colo-Colo,0.015400000000000025,0.4,0.3846
-2025-04-18 09:33:04.700759,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,0.015100000000000002,0.1818,0.1667
-2025-04-18 09:33:04.749556,League Two - England League Two 2024/25 - Top Goalscorer,David McGoldrick,0.014900000000000004,0.0345,0.0196
 2025-04-18 18:39:24.543467,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.014700000000000046,0.7647,0.75
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,In Gee Chun,0.014400000000000001,0.0164,0.002
-2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Minjee Lee,0.014100000000000001,0.0526,0.0385
 2025-04-18 13:36:05.830167,Boxing Lines - Dalton Smith vs Mathieu Germain - To Win the Bout,Dalton Smith,0.014100000000000001,0.9615,0.9474
-2025-04-18 09:33:04.749556,League Two - England League Two 2024/25 - Top Goalscorer,Michael Cheek,0.014000000000000012,0.9231,0.9091
-2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nelly Korda,0.013899999999999996,0.125,0.1111
+2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Minjee Lee,0.014100000000000001,0.0526,0.0385
 2025-04-18 14:33:22.423629,FIBA Champions League - FIBA Champions League 2024/25 - Outright,Galatasaray SK,0.013899999999999996,0.125,0.1111
+2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nelly Korda,0.013899999999999996,0.125,0.1111
 2025-04-18 19:25:36.748954,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.013799999999999923,0.6364,0.6226
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Edoardo Molinari,0.013699999999999999,0.0278,0.0141
 2025-04-18 12:55:17.533442,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Dustin May (LAD),0.012899999999999995,0.1667,0.1538
 2025-04-18 13:36:06.285693,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3-Balls - A. Smalley / G. Sigg / D. Walker - 2nd Round 3-Balls,Greyson Sigg,0.012699999999999989,0.3636,0.3509
 2025-04-18 16:37:29.184857,MLB Series Prices - MLB Series Prices April 18-21 - 3 Game Series,Atlanta Braves,0.012299999999999978,0.6552,0.6429
 2025-04-18 20:31:54.400007,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.012299999999999978,0.3571,0.3448
-2025-04-18 12:55:17.746907,BKFC Fight Night: Omaha - Alonso Martinez vs Kurtis Ellis - To Win the Bout,Kurtis Ellis,0.012199999999999989,0.5,0.4878
 2025-04-18 10:37:54.538200,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.012199999999999989,0.5,0.4878
-2025-04-18 18:39:24.569239,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.012199999999999989,0.5122,0.5
 2025-04-18 15:32:09.746091,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.012199999999999989,0.5,0.4878
+2025-04-18 12:55:17.746907,BKFC Fight Night: Omaha - Alonso Martinez vs Kurtis Ellis - To Win the Bout,Kurtis Ellis,0.012199999999999989,0.5,0.4878
 2025-04-18 13:36:05.909780,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.012199999999999989,0.5,0.4878
+2025-04-18 18:39:24.569239,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.012199999999999989,0.5122,0.5
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Saki Baba,0.011699999999999999,0.0196,0.0079
 2025-04-18 15:32:09.560022,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.01150000000000001,0.3448,0.3333
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jeongeun Lee6,0.0112,0.0132,0.002
+2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Rio Takeda,0.011199999999999995,0.0435,0.0323
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Chisato Iwai,0.011199999999999995,0.0435,0.0323
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Young Ko,0.011199999999999995,0.0435,0.0323
-2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Rio Takeda,0.011199999999999995,0.0435,0.0323
 2025-04-18 13:36:05.979478,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.011099999999999999,0.7333,0.7222
 2025-04-18 15:32:09.820042,Main Markets - 2nd Round 2 Balls - S. Lowry v J. Spieth - 2nd Round 2 Balls,Jordan Spieth,0.01100000000000001,0.5348,0.5238
+2025-04-18 22:34:22.947341,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.01090000000000002,0.8571,0.8462
 2025-04-18 12:55:17.584460,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.010699999999999987,0.3333,0.3226
 2025-04-18 17:31:52.562984,Boxing Lines - Seung Yeol Kim vs Kenta Nakagawa - To Win the Bout,Seung Yeol Kim,0.010099999999999998,0.4545,0.4444
 2025-04-18 15:32:09.737335,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.010099999999999998,0.3125,0.3226
@@ -104,35 +96,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 13:36:06.285693,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3-Balls - A. Smalley / G. Sigg / D. Walker - 2nd Round 3-Balls,Alex Smalley,-0.010599999999999998,0.4545,0.4651
 2025-04-18 14:33:23.825625,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.010699999999999987,0.3226,0.3333
 2025-04-18 14:33:23.846880,BKFC Fight Night: Omaha - Zeb Vincent vs Dionisio Ramirez - To Win the Bout,Dionisio Ramirez,-0.010700000000000043,0.6667,0.6774
-2025-04-18 20:31:54.490778,Boxing Lines - Frazer Clarke vs Ebenezer Tetteh - To Win the Bout,Ebenezer Tetteh,-0.011099999999999999,0.1,0.1111
 2025-04-18 15:32:09.560022,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Shuichiro Yoshino,-0.011099999999999999,0.7222,0.7333
+2025-04-18 20:31:54.490778,Boxing Lines - Frazer Clarke vs Ebenezer Tetteh - To Win the Bout,Ebenezer Tetteh,-0.011099999999999999,0.1,0.1111
 2025-04-18 21:30:06.546571,BKFC Fight Night: Omaha - Ramiro Figueroa vs James Brown - To Win the Bout,James Brown,-0.011099999999999999,0.4651,0.4762
 2025-04-18 12:55:15.932400,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,-0.011199999999999995,0.0476,0.0588
 2025-04-18 12:55:18.048047,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 69.5,-0.011499999999999955,0.6552,0.6667
 2025-04-18 13:36:05.979478,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.01150000000000001,0.3333,0.3448
 2025-04-18 15:32:09.820042,Main Markets - 2nd Round 2 Balls - S. Lowry v J. Spieth - 2nd Round 2 Balls,Shane Lowry,-0.011600000000000055,0.5122,0.5238
 2025-04-18 19:25:36.662231,Boxing Lines - Ryan Kelly  vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,-0.011699999999999933,0.7778,0.7895
+2025-04-18 22:34:22.947341,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.011700000000000016,0.2105,0.2222
 2025-04-18 11:26:47.402248,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.0121,0.1212,0.1333
-2025-04-18 14:33:23.947914,Scores - 2nd Round Score - Justin Rose - 2nd Round Score,Over 69.5,-0.012199999999999989,0.4878,0.5
 2025-04-18 12:55:17.774642,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,-0.012199999999999989,0.4878,0.5
+2025-04-18 14:33:23.947914,Scores - 2nd Round Score - Justin Rose - 2nd Round Score,Over 69.5,-0.012199999999999989,0.4878,0.5
 2025-04-18 17:31:52.672822,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.012199999999999989,0.4878,0.5
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Nacho Elvira,-0.012199999999999999,0.001,0.0132
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Jordan Gumberg,-0.013,0.0066,0.0196
 2025-04-18 13:36:06.343412,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / P. Flavin - 2nd Round 3-Balls,Patrick Flavin,-0.013600000000000001,0.2941,0.3077
 2025-04-18 13:36:06.043713,Main Markets - 2nd Round 2 Balls - J. Highsmith v M. McNealy - 2nd Round 2 Balls,Maverick McNealy,-0.013799999999999923,0.6226,0.6364
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jeeno Thitikul,-0.013899999999999996,0.1111,0.125
-2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Bahia,-0.0145,0.0099,0.0244
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nanna Koertz Madsen,-0.0145,0.0099,0.0244
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Gaby Lopez,-0.0145,0.0099,0.0244
+2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Bahia,-0.0145,0.0099,0.0244
 2025-04-18 17:31:52.562984,Boxing Lines - Seung Yeol Kim vs Kenta Nakagawa - To Win the Bout,Kenta Nakagawa,-0.014800000000000035,0.6078,0.6226
 2025-04-18 13:36:05.971243,BKFC Fight Night: Omaha - Daniel Cooper vs Jeff Souder - To Win the Bout,Jeff Souder,-0.014900000000000024,0.3077,0.3226
-2025-04-18 12:55:17.533442,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.015100000000000002,0.1667,0.1818
-2025-04-18 09:33:04.700759,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,-0.015100000000000002,0.1667,0.1818
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Tapio Pulkkanen,-0.015100000000000002,0.1667,0.1818
+2025-04-18 12:55:17.533442,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.015100000000000002,0.1667,0.1818
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Linn Grant,-0.0156,0.004,0.0196
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Daniel Hillier,-0.0157,0.0278,0.0435
-2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Lilia Vu,-0.0159,0.0164,0.0323
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Wenyi Ding,-0.0159,0.0164,0.0323
+2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Lilia Vu,-0.0159,0.0164,0.0323
 2025-04-18 14:33:23.971058,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 69.5,-0.016000000000000014,0.3922,0.4082
 2025-04-18 20:31:54.400007,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Shuichiro Yoshino,-0.01629999999999998,0.7059,0.7222
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ina Yoon,-0.0165,0.0079,0.0244
@@ -148,11 +140,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Julien Guerrier,-0.0184,0.0033,0.0217
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Celine Boutier,-0.0187,0.0057,0.0244
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Atlético Mineiro,-0.0189,0.0196,0.0385
-2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hannah Green,-0.0189,0.0196,0.0385
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Fortaleza,-0.0189,0.0196,0.0385
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Kazuma Kobori,-0.0189,0.0196,0.0385
-2025-04-18 19:25:36.748954,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.018900000000000028,0.4255,0.4444
+2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hannah Green,-0.0189,0.0196,0.0385
 2025-04-18 19:25:36.670615,Boxing Lines - Dalton Smith vs Mathieu Germain - To Win the Bout,Dalton Smith,-0.018900000000000028,0.9615,0.9804
+2025-04-18 19:25:36.748954,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.018900000000000028,0.4255,0.4444
 2025-04-18 13:36:06.343412,Corales Puntacana Championship - 2/3 Balls - 2nd Round 3-Balls - R. Castillo / J. Pak / P. Flavin - 2nd Round 3-Balls,Ricky Castillo,-0.018900000000000028,0.4255,0.4444
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Cruzeiro MG,-0.019099999999999992,0.0476,0.0667
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Mao Saigo,-0.0194,0.005,0.0244
@@ -172,13 +164,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 12:55:15.932400,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Huachipato,-0.028199999999999996,0.0385,0.0667
 2025-04-18 21:30:06.538359,BKFC Fight Night: Omaha - Josh Krejci vs Austin Peterson - To Win the Bout,Austin Peterson,-0.028299999999999992,0.3226,0.3509
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Yealimi Noh,-0.0283,0.0152,0.0435
-2025-04-18 20:31:54.581448,BKFC Fight Night: Omaha - Emeka Ifekandu vs Brandon Meyer - To Win the Bout,Brandon Meyer,-0.028600000000000014,0.3636,0.3922
 2025-04-18 12:55:17.783531,BKFC Fight Night: Omaha - Sean Wilson vs Jordan Christensen - To Win the Bout,Jordan Christensen,-0.028600000000000014,0.3636,0.3922
+2025-04-18 20:31:54.581448,BKFC Fight Night: Omaha - Emeka Ifekandu vs Brandon Meyer - To Win the Bout,Brandon Meyer,-0.028600000000000014,0.3636,0.3922
 2025-04-18 21:30:06.542492,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Dakota Cochrane,-0.028900000000000037,0.5455,0.5744
 2025-04-18 20:31:54.602599,BKFC Fight Night: Omaha - Sean Wilson vs Jordan Christensen - To Win the Bout,Jordan Christensen,-0.030299999999999994,0.3333,0.3636
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Taichi Kho,-0.0303,0.002,0.0323
-2025-04-18 09:33:04.758810,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.031799999999999995,0.1111,0.1429
-2025-04-18 09:33:04.749556,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.0321,0.0588,0.0909
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Jason Scrivener,-0.0325,0.011,0.0435
 2025-04-18 15:32:09.672921,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.03259999999999996,0.6226,0.6552
 2025-04-18 18:39:24.526231,BKFC Fight Night: Omaha - Alonso Martinez vs Kurtis Ellis - To Win the Bout,Alonso Martinez,-0.033299999999999996,0.5122,0.5455
@@ -187,14 +177,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Angel Yin,-0.0336,0.0099,0.0435
 2025-04-18 12:55:17.756069,BKFC Fight Night: Omaha - Daniel Cooper vs Jeff Souder - To Win the Bout,Jeff Souder,-0.034499999999999975,0.3226,0.3571
 2025-04-18 11:26:48.061345,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.03600000000000003,0.4878,0.5238
-2025-04-18 09:33:06.454897,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,-0.03709999999999991,0.6296,0.6667
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Corinthians,-0.038299999999999994,0.0526,0.0909
 2025-04-18 14:33:23.956674,Scores - 2nd Round Score - Russell Henley - 2nd Round Score,Over 69.5,-0.039600000000000024,0.4255,0.4651
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ayaka Furue,-0.0403,0.0123,0.0526
 2025-04-18 11:26:47.398762,NFL Draft - Team Markets - Team's First Pick - PHI Eagles - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.04169999999999999,0.125,0.1667
-2025-04-18 09:33:04.758810,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,-0.044399999999999995,0.5556,0.6
 2025-04-18 12:55:15.827304,Brasileirão Série A - Brasileirão Série A 2025 - Winner,Botafogo,-0.04440000000000001,0.0667,0.1111
-2025-04-18 09:33:04.758810,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,-0.04469999999999996,0.5917,0.6364
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Rasmus Neergaard-Petersen,-0.047099999999999996,0.0196,0.0667
 2025-04-18 14:33:23.961022,Scores - 2nd Round Score - Tommy Fleetwood - 2nd Round Score,Over 69.5,-0.05070000000000002,0.4255,0.4762
 2025-04-18 13:36:06.235222,Volvo China Open - Volvo China Open - Winner,Matthew Jordan,-0.052599999999999994,0.0141,0.0667
@@ -202,6 +189,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 10:37:54.852211,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Haeran Ryu,-0.0642,0.0025,0.0667
 2025-04-18 14:33:23.952317,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 69.5,-0.06509999999999999,0.4,0.4651
 2025-04-18 20:31:54.569347,BKFC Fight Night: Omaha - Alonso Martinez vs Kurtis Ellis - To Win the Bout,Alonso Martinez,-0.07739999999999997,0.4348,0.5122
-2025-04-18 09:33:04.799308,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.07879999999999998,0.8,0.8788
 2025-04-18 20:31:54.585482,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.08079999999999998,0.2222,0.303
 2025-04-18 14:33:23.966587,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,-0.08779999999999999,0.5348,0.6226

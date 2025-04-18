@@ -15,10 +15,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Quade Cummins,0.0347,0.0526,0.0179
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Andrew Putnam,0.031200000000000002,0.0476,0.0164
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Chris Gotterup,0.0282,0.0526,0.0244
-2025-04-17 19:26:10.425374,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
-2025-04-17 20:32:55.464535,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
-2025-04-17 21:28:52.083052,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
 2025-04-17 22:33:39.086199,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
+2025-04-17 21:28:52.083052,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
+2025-04-17 20:32:55.464535,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,0.027500000000000024,0.3846,0.3571
 2025-04-17 23:29:41.375285,BKFC Fight Night: Omaha - Emeka Ifekandu vs Brandon Meyer - To Win the Bout,Brandon Meyer,0.026600000000000013,0.4348,0.4082
 2025-04-17 21:28:52.434996,BKFC Fight Night: Omaha - Daniel Cooper vs Jeff Souder - To Win the Bout,Daniel Cooper,0.024899999999999922,0.697,0.6721
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Rikuya Hoshino,0.0244,0.0323,0.0079
@@ -32,11 +31,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 03:09:21.544015,League Two - England League Two 2024/25 - Winner,Walsall,0.0174,0.25,0.2326
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Charley Hoffman,0.0168,0.0385,0.0217
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Jeremy Paul,0.015499999999999998,0.0278,0.0123
-2025-04-17 20:32:55.813648,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.01539999999999997,0.6875,0.6721
 2025-04-17 20:32:55.833890,BKFC Fight Night: Omaha - Zeb Vincent vs Dionisio Ramirez - To Win the Bout,Dionisio Ramirez,0.01539999999999997,0.6875,0.6721
+2025-04-17 20:32:55.813648,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.01539999999999997,0.6875,0.6721
 2025-04-17 22:33:39.268346,Boxing Lines - Siro Choi vs Shuichiro Yoshino - To Win the Bout,Siro Choi,0.014900000000000024,0.3226,0.3077
-2025-04-17 20:32:55.809572,BKFC Fight Night: Omaha - Emeka Ifekandu vs Brandon Meyer - To Win the Bout,Emeka Ifekandu,0.014900000000000024,0.6923,0.6774
 2025-04-18 02:03:33.679879,Boxing Lines - Joe Howarth vs Mario Ramon Valenzuela Portillo - To Win the Bout,Joe Howarth,0.014900000000000024,0.9804,0.9655
+2025-04-17 20:32:55.809572,BKFC Fight Night: Omaha - Emeka Ifekandu vs Brandon Meyer - To Win the Bout,Emeka Ifekandu,0.014900000000000024,0.6923,0.6774
 2025-04-18 03:09:21.392553,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Bodø/Glimt,0.014399999999999996,0.0769,0.0625
 2025-04-18 02:03:33.675584,Boxing Lines - Emmanuel Buttigieg vs Grant Dennis - To Win the Bout,Emmanuel Buttigieg,0.01429999999999998,0.9852,0.9709
 2025-04-17 23:29:41.218686,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Marko Cvetanovic,0.013999999999999999,0.0909,0.0769
@@ -46,21 +45,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 02:03:33.752887,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.011499999999999955,0.6667,0.6552
 2025-04-17 20:32:55.801432,BKFC Fight Night: Omaha - Bryce Henry vs Derrick Findley - To Win the Bout,Bryce Henry,0.011099999999999999,0.9,0.8889
 2025-04-17 23:29:41.181018,Boxing Lines - Christopher Diaz vs Jose Antonio Meza - To Win the Bout,Jose Antonio Meza,0.0102,0.0769,0.0667
-2025-04-18 02:03:33.642268,Boxing Lines - Bakary Samake vs Roarke Knapp - To Win the Bout,Bakary Samake,0.010199999999999987,0.9333,0.9231
-2025-04-18 02:03:33.646220,Boxing Lines - Gurgen Hovhannisyan vs Dajuan Calloway - To Win the Bout,Gurgen Hovhannisyan,0.010199999999999987,0.9333,0.9231
 2025-04-18 05:33:52.844409,Boxing Lines - Charles Conwell vs Jorge Garcia Perez - To Win the Bout,Charles Conwell,0.010199999999999987,0.9333,0.9231
+2025-04-18 02:03:33.646220,Boxing Lines - Gurgen Hovhannisyan vs Dajuan Calloway - To Win the Bout,Gurgen Hovhannisyan,0.010199999999999987,0.9333,0.9231
+2025-04-18 02:03:33.642268,Boxing Lines - Bakary Samake vs Roarke Knapp - To Win the Bout,Bakary Samake,0.010199999999999987,0.9333,0.9231
 2025-04-17 21:28:52.463562,BKFC Fight Night: Omaha - Zeb Vincent vs Dionisio Ramirez - To Win the Bout,Dionisio Ramirez,-0.010099999999999998,0.6774,0.6875
 2025-04-17 23:29:41.193542,Boxing Lines - Kevin Hayler Brown vs Esteuri Metiver Suero - To Win the Bout,Kevin Hayler Brown,-0.010199999999999987,0.9231,0.9333
 2025-04-18 02:03:33.736990,Boxing Lines - Gabriela Fundora vs Marilyn Badillo Amaya - To Win the Bout,Marilyn Badillo Amaya,-0.0102,0.0667,0.0769
-2025-04-18 02:03:33.650820,Boxing Lines - Christopher Diaz vs Jose Antonio Meza - To Win the Bout,Jose Antonio Meza,-0.0102,0.0667,0.0769
 2025-04-18 02:03:33.692717,Boxing Lines - Josh Warrington vs Asad Asif Khan - To Win the Bout,Asad Asif Khan,-0.0102,0.0667,0.0769
+2025-04-18 02:03:33.650820,Boxing Lines - Christopher Diaz vs Jose Antonio Meza - To Win the Bout,Jose Antonio Meza,-0.0102,0.0667,0.0769
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,S Y Noh,-0.0103,0.0007,0.011
 2025-04-18 02:03:33.760853,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,-0.010699999999999987,0.3226,0.3333
 2025-04-18 02:03:33.637841,Boxing Lines - Angelo Pena vs Karim Guerfi - To Win the Bout,Karim Guerfi,-0.010899999999999993,0.1429,0.1538
 2025-04-17 23:29:41.411138,Main Markets - 2nd Round 2 Balls - K. Vilips v R. Fowler - 2nd Round 2 Balls,Karl Vilips,-0.011099999999999999,0.4651,0.4762
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Alex Smalley,-0.011199999999999995,0.0476,0.0588
-2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Danny Walker,-0.011300000000000001,0.001,0.0123
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Tyler Duncan,-0.011300000000000001,0.001,0.0123
+2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Danny Walker,-0.011300000000000001,0.001,0.0123
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Harry Higgs,-0.011600000000000001,0.0007,0.0123
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Michael Thorbjornsen,-0.0118,0.0099,0.0217
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Hayden Springer,-0.0118,0.0099,0.0217
@@ -96,7 +95,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-17 22:33:39.082685,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,-0.027500000000000024,0.3571,0.3846
 2025-04-17 21:28:52.079397,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,-0.027500000000000024,0.3571,0.3846
 2025-04-17 20:32:55.461089,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,-0.027500000000000024,0.3571,0.3846
-2025-04-17 19:26:10.421954,MLB Series Prices - MLB Series Prices April 17-20 - 4 Game Series,Tie,-0.027500000000000024,0.3571,0.3846
 2025-04-17 21:28:52.434996,BKFC Fight Night: Omaha - Daniel Cooper vs Jeff Souder - To Win the Bout,Jeff Souder,-0.028600000000000014,0.3636,0.3922
 2025-04-17 23:29:41.600110,Corales Puntacana Championship - Corales Puntacana Championship - Winner,Aldrich Potgieter,-0.0313,0.001,0.0323
 2025-04-17 21:28:52.459474,BKFC Fight Night: Omaha - Sean Wilson vs Jordan Christensen - To Win the Bout,Jordan Christensen,-0.033299999999999996,0.3922,0.4255

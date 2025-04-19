@@ -43,6 +43,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Hee Im,0.0282,0.0526,0.0244
 2025-04-19 02:01:23.662116,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.027999999999999997,0.1818,0.1538
 2025-04-19 02:01:24.098944,CBA - China CBA 2024/25 - Outright,Beijing Royal Fighters,0.027800000000000005,0.1111,0.0833
+2025-04-19 11:26:21.199173,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
 2025-04-19 10:34:09.110448,Main Markets - 3rd Round 2-Balls - J. Highsmith / N. Dunlap - 3rd Round 2-Balls,Joe Highsmith,0.026499999999999968,0.6491,0.6226
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Lauren Coughlin,0.024299999999999995,0.0769,0.0526
 2025-04-19 10:34:09.114516,Main Markets - 3rd Round 2-Balls - M. Pavon / A. Hadwin - 3rd Round 2-Balls,Matthieu Pavon,0.023799999999999988,0.5,0.4762
@@ -65,11 +66,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Jacob Skov Olesen,0.0132,0.0152,0.002
 2025-04-19 02:01:25.328792,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.012700000000000045,0.6491,0.6364
 2025-04-19 06:38:14.579105,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.0116,0.4878,0.4762
-2025-04-19 02:01:23.665024,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.011199999999999995,0.0588,0.0476
 2025-04-19 07:27:20.513775,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Shane Baz (TB),0.011199999999999995,0.0435,0.0323
+2025-04-19 02:01:23.665024,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,0.011199999999999995,0.0588,0.0476
 2025-04-19 09:29:56.802926,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.011099999999999999,0.1111,0.1
 2025-04-18 23:30:16.010554,BKFC Fight Night: Omaha - Marcus Edwards vs Dakota Cochrane - To Win the Bout,Marcus Edwards,0.01100000000000001,0.5348,0.5238
-2025-04-18 22:34:22.947341,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Traevon Kroger,0.01090000000000002,0.8571,0.8462
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ashleigh Buhai,0.010899999999999993,0.1538,0.1429
 2025-04-19 03:43:08.386519,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.010699999999999987,0.3333,0.3226
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nasa Hataoka,0.010300000000000002,0.0244,0.0141
@@ -81,9 +81,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 03:06:13.829406,League Two - England League Two 2024/25 - Top Goalscorer,Alassana Jatta,-0.011199999999999995,0.0476,0.0588
 2025-04-19 03:06:13.844508,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,-0.011199999999999995,0.0476,0.0588
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Chisato Iwai,-0.011199999999999995,0.0323,0.0435
-2025-04-19 10:34:09.172074,Main Markets - 3rd Round 2-Balls - R. Fowler / H. English - 3rd Round 2-Balls,Rickie Fowler,-0.0116,0.4762,0.4878
 2025-04-19 02:01:25.316518,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.0116,0.4762,0.4878
-2025-04-18 22:34:22.947341,BKFC Fight Night: Omaha - Jared Tallent vs Traevon Kroger - To Win the Bout,Jared Tallent,-0.011700000000000016,0.2105,0.2222
+2025-04-19 10:34:09.172074,Main Markets - 3rd Round 2-Balls - R. Fowler / H. English - 3rd Round 2-Balls,Rickie Fowler,-0.0116,0.4762,0.4878
 2025-04-19 03:06:13.832722,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,-0.0121,0.0028,0.0149
 2025-04-19 02:01:25.320625,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.012199999999999989,0.4878,0.5
 2025-04-19 03:06:15.576628,Main Markets - 3rd Round 2-Balls - C. Young / L. Aberg - 3rd Round 2-Balls,Cameron Young,-0.012299999999999978,0.3448,0.3571
@@ -109,6 +108,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-18 23:30:16.022868,BKFC Fight Night: Omaha - Zeb Vincent vs Dionisio Ramirez - To Win the Bout,Dionisio Ramirez,-0.02080000000000004,0.6667,0.6875
 2025-04-19 10:34:09.200699,Main Markets - 3rd Round 2-Balls - D. McCarthy / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
 2025-04-19 10:34:09.130899,Main Markets - 3rd Round 2-Balls - M. Homa / S. Theegala - 3rd Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
+2025-04-19 11:26:21.199173,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2025-04-19 06:38:14.669037,Main Markets - 3rd Round 2-Balls - T. Finau / B. Hun An - 3rd Round 2-Balls,Byeong Hun An,-0.023800000000000043,0.5,0.5238
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Young Ko,-0.023899999999999998,0.0196,0.0435
 2025-04-19 02:01:25.250326,Boxing Lines - Dalton Smith vs Mathieu Germain - To Win the Bout,Mathieu Germain,-0.0242,0.0667,0.0909
@@ -142,9 +142,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 03:06:13.841540,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,-0.0642,0.1176,0.1818
 2025-04-19 02:01:23.715120,League Two - England League Two 2024/25 - Winner,Walsall,-0.06820000000000001,0.1818,0.25
 2025-04-19 09:29:56.899578,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.06930000000000003,0.4545,0.5238
+2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Salomon Rondon,-0.0703,0.0066,0.0769
 2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,John Kennedy,-0.0703,0.0066,0.0769
 2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Alexis Vega,-0.0703,0.0066,0.0769
-2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Salomon Rondon,-0.0703,0.0066,0.0769
 2025-04-19 09:29:56.924022,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Rosario Central,-0.08329999999999999,0.25,0.3333
 2025-04-19 09:29:56.924022,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,River Plate,-0.087,0.1429,0.2299
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Tapio Pulkkanen,-0.08979999999999999,0.0769,0.1667

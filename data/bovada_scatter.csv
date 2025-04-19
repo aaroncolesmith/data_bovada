@@ -9,6 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Kiradech Aphibarnrat,0.1265,0.1429,0.0164
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Minjee Lee,0.11409999999999998,0.1667,0.0526
 2025-04-19 09:29:56.899578,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,0.09999999999999998,0.5,0.4
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.06669999999999998,0.2667,0.2
+2025-04-19 16:36:48.799573,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),0.06379999999999997,0.7561,0.6923
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Miyu Yamashita,0.05249999999999999,0.0769,0.0244
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Zecheng Dou,0.052300000000000006,0.1111,0.0588
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Yannik Paul,0.051,0.0833,0.0323
@@ -19,17 +21,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 08:34:21.371974,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,0.0368,0.2667,0.2299
 2025-04-19 15:30:19.676015,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Late Games","K. Towns, J. Duren & R. Gobert 33+ combined rebounds",0.03610000000000002,0.5917,0.5556
 2025-04-19 15:30:19.679551,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Player Props Specials","Nikola Jokic, Giannis Antetokounmpo, Karl-Anthony Towns, Ivica Zubac & Rudy Gobert 10+ Rebs Each",0.0348,0.3333,0.2985
+2025-04-19 16:36:48.799573,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.03420000000000001,0.1111,0.0769
+2025-04-19 16:36:48.791943,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Travis Hunter (COL),0.03410000000000002,0.9091,0.875
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Jordan Smith,0.0334,0.0769,0.0435
 2025-04-19 05:33:49.950128,45th Federal Election - 45th Federal Election - Next Government of Canada,Conservative Majority,0.031,0.1739,0.1429
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,0.0309,0.0526,0.0217
 2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Jose Zuniga,0.0294,0.0588,0.0294
+2025-04-19 16:36:48.795989,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.028799999999999937,0.8621,0.8333
 2025-04-19 06:38:14.747103,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / P. Cantlay - 3rd Round 2-Balls,Patrick Cantlay,0.02859999999999996,0.6364,0.6078
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Hee Im,0.0282,0.0526,0.0244
 2025-04-19 15:30:19.676015,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Late Games","K. Towns, J. Duren & R. Gobert 36+ combined rebounds",0.026500000000000024,0.3774,0.3509
-2025-04-19 10:34:09.110448,Main Markets - 3rd Round 2-Balls - J. Highsmith / N. Dunlap - 3rd Round 2-Balls,Joe Highsmith,0.026499999999999968,0.6491,0.6226
 2025-04-19 12:51:47.795810,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs V. Hovland - 3rd Round Match-Ups,Xander Schauffele,0.026499999999999968,0.5917,0.5652
 2025-04-19 11:26:21.199173,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
 2025-04-19 13:33:44.401825,Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score,Under 69.5,0.026499999999999968,0.5917,0.5652
+2025-04-19 10:34:09.110448,Main Markets - 3rd Round 2-Balls - J. Highsmith / N. Dunlap - 3rd Round 2-Balls,Joe Highsmith,0.026499999999999968,0.6491,0.6226
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Lauren Coughlin,0.024299999999999995,0.0769,0.0526
 2025-04-19 10:34:09.114516,Main Markets - 3rd Round 2-Balls - M. Pavon / A. Hadwin - 3rd Round 2-Balls,Matthieu Pavon,0.023799999999999988,0.5,0.4762
 2025-04-19 12:51:47.479916,Boxing Lines - Ethan George vs Willy Gilheaney - To Win the Bout,Willy Gilheaney,0.023799999999999988,0.5,0.4762
@@ -41,12 +46,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 06:38:14.669037,Main Markets - 3rd Round 2-Balls - T. Finau / B. Hun An - 3rd Round 2-Balls,Tony Finau,0.02169999999999994,0.5455,0.5238
 2025-04-19 10:34:09.118613,Main Markets - 3rd Round 2-Balls - T. Pendrith / W. Zalatoris - 3rd Round 2-Balls,Taylor Pendrith,0.02079999999999993,0.5556,0.5348
 2025-04-19 14:31:35.320978,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.020699999999999996,0.4651,0.4444
-2025-04-19 03:43:08.386519,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.02030000000000004,0.3774,0.3571
 2025-04-19 14:31:35.233550,Round Match-Ups - 3rd Round Match-Ups - A. Scott vs S. Burns - 3rd Round Match-Ups,Sam Burns,0.01970000000000005,0.5652,0.5455
 2025-04-19 14:31:35.204525,Main Markets - 3rd Round 2-Balls - C. Morikawa / M. McNealy - 3rd Round 2-Balls,Collin Morikawa,0.019499999999999962,0.6491,0.6296
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Pajaree Anannarukarn,0.0194,0.0244,0.005
-2025-04-19 13:33:44.242937,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / P. Cantlay - 3rd Round 2-Balls,Patrick Cantlay,0.01880000000000004,0.6552,0.6364
 2025-04-19 10:34:09.130899,Main Markets - 3rd Round 2-Balls - M. Homa / S. Theegala - 3rd Round 2-Balls,Sahith Theegala,0.01880000000000004,0.5744,0.5556
+2025-04-19 13:33:44.242937,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / P. Cantlay - 3rd Round 2-Balls,Patrick Cantlay,0.01880000000000004,0.6552,0.6364
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Georgia Tech Yellow Jackets,0.0168,0.0385,0.0217
 2025-04-19 15:30:19.676015,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Late Games","K. Towns, J. Duren & R. Gobert 30+ combined rebounds",0.016700000000000048,0.75,0.7333
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Andrea Lee,0.0167,0.0217,0.005
@@ -58,70 +62,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Jacob Skov Olesen,0.0132,0.0152,0.002
 2025-04-19 06:38:14.579105,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.0116,0.4878,0.4762
 2025-04-19 07:27:20.513775,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Shane Baz (TB),0.011199999999999995,0.0435,0.0323
-2025-04-19 09:29:56.802926,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.011099999999999999,0.1111,0.1
 2025-04-19 15:30:19.676015,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Late Games","K. Towns, J. Duren & R. Gobert 42+ combined rebounds",0.011099999999999999,0.1111,0.1
+2025-04-19 09:29:56.802926,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,CF Pachuca,0.011099999999999999,0.1111,0.1
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ashleigh Buhai,0.010899999999999993,0.1538,0.1429
-2025-04-19 03:43:08.386519,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.010699999999999987,0.3333,0.3226
 2025-04-19 14:31:35.160049,Main Markets - 3rd Round 2-Balls - S. Burns / A. Bhatia - 3rd Round 2-Balls,Akshay Bhatia,0.010699999999999932,0.5455,0.5348
 2025-04-19 15:30:19.676015,"Daily Specials - NBA Daily Specials - Saturday, April 19th - Late Games","K. Towns, J. Duren & R. Gobert 39+ combined rebounds",0.010499999999999982,0.2105,0.2
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nasa Hataoka,0.010300000000000002,0.0244,0.0141
-2025-04-19 13:33:43.556601,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.010099999999999998,0.3226,0.3125
 2025-04-19 12:51:47.769417,Round Match-Ups - 3rd Round Match-Up - A. Bhatia v C. Young - Request,Akshay Bhatia,0.010099999999999998,0.5556,0.5455
+2025-04-19 13:33:43.556601,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.010099999999999998,0.3226,0.3125
+2025-04-19 16:36:49.353563,Boxing Lines - Josh Padley vs Marko Cvetanovic - To Win the Bout,Marko Cvetanovic,-0.0102,0.0667,0.0769
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Yu Liu,-0.0103,0.002,0.0123
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jeeno Thitikul,-0.011099999999999999,0.1,0.1111
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Chisato Iwai,-0.011199999999999995,0.0323,0.0435
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,-0.011300000000000001,0.0244,0.0357
 2025-04-19 10:34:09.172074,Main Markets - 3rd Round 2-Balls - R. Fowler / H. English - 3rd Round 2-Balls,Rickie Fowler,-0.0116,0.4762,0.4878
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Shemar Stewart (TAM),-0.011699999999999999,0.0079,0.0196
 2025-04-19 14:31:35.160049,Main Markets - 3rd Round 2-Balls - S. Burns / A. Bhatia - 3rd Round 2-Balls,Sam Burns,-0.012199999999999989,0.5,0.5122
 2025-04-19 12:51:47.769417,Round Match-Ups - 3rd Round Match-Up - A. Bhatia v C. Young - Request,Cameron Young,-0.012199999999999989,0.4878,0.5
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Sam Bairstow,-0.012599999999999998,0.0152,0.0278
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Yan Liu,-0.012700000000000003,0.0196,0.0323
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.012700000000000003,0.0196,0.0323
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,-0.012899999999999995,0.1538,0.1667
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Matthew Golden (TEX),-0.013,0.0066,0.0196
 2025-04-19 07:27:20.513775,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Cole Ragans (KC),-0.013899999999999996,0.1111,0.125
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.014099999999999998,0.0244,0.0385
+2025-04-19 16:36:48.791943,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.014399999999999996,0.0625,0.0769
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Mississippi State Bulldogs,-0.0145,0.0099,0.0244
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Jaxson Dart (MISS),-0.0145,0.0099,0.0244
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Kazuma Kobori,-0.014599999999999998,0.005,0.0196
+2025-04-19 16:36:49.439915,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Benjamin Whittaker,-0.014700000000000046,0.75,0.7647
 2025-04-19 08:34:21.788281,LKL - Lithuania LKL 2024/25 - Outright,Lietkabelis,-0.014899999999999997,0.0476,0.0625
 2025-04-19 13:33:44.242937,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / P. Cantlay - 3rd Round 2-Balls,Matt Fitzpatrick,-0.016000000000000014,0.3922,0.4082
 2025-04-19 12:51:47.751740,Main Markets - 3rd Round 2-Balls - S. Scheffler / W. Clark - 3rd Round 2-Balls,Wyndham Clark,-0.016400000000000026,0.3226,0.339
 2025-04-19 05:33:49.676110,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,-0.016700000000000007,0.0833,0.1
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mykel Williams (UGA),-0.0168,0.011,0.0278
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Tyler Warren (PSU),-0.017099999999999997,0.0385,0.0556
 2025-04-19 09:29:56.899578,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,-0.017099999999999997,0.0123,0.0294
 2025-04-19 06:38:14.579105,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.017299999999999982,0.5744,0.5917
 2025-04-19 09:29:56.899578,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.01759999999999999,0.1,0.1176
 2025-04-19 10:34:09.390260,Volvo China Open - Volvo China Open - Winner,Rasmus Neergaard-Petersen,-0.017599999999999998,0.002,0.0196
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Kenneth Grant (MICH),-0.0179,0.0099,0.0278
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina State Wolfpack,-0.0182,0.0141,0.0323
 2025-04-19 15:30:19.529282,NBA Championship - NBA Championship 2024-25 - First Time Winner,No,-0.019399999999999973,0.9756,0.995
 2025-04-19 08:34:21.367333,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,-0.0194,0.2105,0.2299
 2025-04-19 13:33:44.379953,Scores - 3rd Round Score - Jason Day - 3rd Round Score,Over 69.5,-0.019699999999999995,0.4348,0.4545
 2025-04-19 10:34:09.114516,Main Markets - 3rd Round 2-Balls - M. Pavon / A. Hadwin - 3rd Round 2-Balls,Adam Hadwin,-0.01970000000000005,0.5455,0.5652
-2025-04-19 12:51:47.795810,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs V. Hovland - 3rd Round Match-Ups,Viktor Hovland,-0.021699999999999997,0.4545,0.4762
+2025-04-19 16:36:48.791943,NFL Draft - Pick Markets - Draft Picks - 2nd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.021600000000000008,0.1538,0.1754
 2025-04-19 13:33:44.371295,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Over 69.5,-0.021699999999999997,0.4545,0.4762
+2025-04-19 12:51:47.795810,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs V. Hovland - 3rd Round Match-Ups,Viktor Hovland,-0.021699999999999997,0.4545,0.4762
 2025-04-19 14:31:34.984112,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Vanderbilt Commodores,-0.021799999999999996,0.0217,0.0435
-2025-04-19 10:34:09.200699,Main Markets - 3rd Round 2-Balls - D. McCarthy / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
 2025-04-19 14:31:35.320978,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 68.5,-0.022600000000000064,0.6,0.6226
+2025-04-19 10:34:09.200699,Main Markets - 3rd Round 2-Balls - D. McCarthy / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
 2025-04-19 10:34:09.130899,Main Markets - 3rd Round 2-Balls - M. Homa / S. Theegala - 3rd Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
-2025-04-19 11:26:21.199173,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2025-04-19 13:33:44.401825,Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
+2025-04-19 11:26:21.199173,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2025-04-19 14:31:35.233550,Round Match-Ups - 3rd Round Match-Ups - A. Scott vs S. Burns - 3rd Round Match-Ups,Adam Scott,-0.023799999999999988,0.4762,0.5
 2025-04-19 06:38:14.669037,Main Markets - 3rd Round 2-Balls - T. Finau / B. Hun An - 3rd Round 2-Balls,Byeong Hun An,-0.023800000000000043,0.5,0.5238
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Young Ko,-0.023899999999999998,0.0196,0.0435
 2025-04-19 10:34:09.118613,Main Markets - 3rd Round 2-Balls - T. Pendrith / W. Zalatoris - 3rd Round 2-Balls,Will Zalatoris,-0.024399999999999977,0.4878,0.5122
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.024399999999999998,0.0141,0.0385
 2025-04-19 10:34:09.110448,Main Markets - 3rd Round 2-Balls - J. Highsmith / N. Dunlap - 3rd Round 2-Balls,Nick Dunlap,-0.024500000000000022,0.3922,0.4167
 2025-04-19 14:31:35.312344,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 67.5,-0.025599999999999956,0.5744,0.6
 2025-04-19 15:30:20.159172,NFL Draft - Pick Markets - Draft Picks - 1st Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.0257,0.0066,0.0323
 2025-04-19 12:51:47.479916,Boxing Lines - Ethan George vs Willy Gilheaney - To Win the Bout,Ethan George,-0.026499999999999968,0.5652,0.5917
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Akie Iwai,-0.026499999999999996,0.0323,0.0588
 2025-04-19 06:38:14.747103,Main Markets - 3rd Round 2-Balls - M. Fitzpatrick / P. Cantlay - 3rd Round 2-Balls,Matt Fitzpatrick,-0.026600000000000013,0.4082,0.4348
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),-0.028000000000000004,0.0196,0.0476
+2025-04-19 16:36:48.799573,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.028399999999999995,0.0625,0.0909
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Will Campbell (LSU),-0.028399999999999995,0.0625,0.0909
 2025-04-19 09:29:56.802926,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club América,-0.029299999999999993,0.9231,0.9524
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Kelvin Banks Jr. (TEX),-0.031200000000000002,0.0164,0.0476
 2025-04-19 08:34:21.754399,FIBA Champions League - FIBA Champions League 2024/25 - Outright,AEK Athens,-0.031799999999999995,0.1111,0.1429
+2025-04-19 16:36:48.799573,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Abdul Carter (PSU),-0.033399999999999985,0.1333,0.1667
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.033399999999999985,0.5744,0.6078
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nelly Korda,-0.034100000000000005,0.0909,0.125
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Rio Takeda,-0.036899999999999995,0.0066,0.0435
 2025-04-19 08:34:21.371974,Professional League - Saudi Professional League 2024/25 - Winner,Al Nassr,-0.0373,0.0294,0.0667
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.03889999999999999,0.1429,0.1818
+2025-04-19 16:36:48.803172,NFL Draft - Pick Markets - Draft Picks - 5th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.039099999999999996,0.1333,0.1724
 2025-04-19 10:34:09.395494,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Madelene Sagstrom,-0.041,0.0066,0.0476
 2025-04-19 08:34:21.749341,CBA - China CBA 2024/25 - Outright,Beijing Royal Fighters,-0.04440000000000001,0.0667,0.1111
 2025-04-19 14:31:33.444462,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Arsenal,-0.045499999999999985,0.5,0.5455
 2025-04-19 09:29:56.802926,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top 4 Finish,Club León,-0.04630000000000001,0.3704,0.4167
 2025-04-19 08:34:21.371974,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,-0.050000000000000044,0.75,0.8
 2025-04-19 09:29:56.924022,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,San Lorenzo,-0.05710000000000001,0.1429,0.2
+2025-04-19 16:36:48.795989,NFL Draft - Pick Markets - Draft Picks - 3rd Overall Pick 2025 NFL Draft,Travis Hunter (COL),-0.06540000000000001,0.1429,0.2083
+2025-04-19 16:36:48.799573,NFL Draft - Pick Markets - Draft Picks - 4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.066,0.0769,0.1429
 2025-04-19 09:29:56.899578,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.06930000000000003,0.4545,0.5238
 2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,Alexis Vega,-0.0703,0.0066,0.0769
 2025-04-19 09:29:56.799620,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Top Goalscorer,John Kennedy,-0.0703,0.0066,0.0769

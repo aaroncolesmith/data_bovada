@@ -30,23 +30,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 11:26:15.217277,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Olympique Lyon (W),0.03409999999999999,0.2667,0.2326
 2025-04-20 08:34:33.408200,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 69.5,0.030299999999999994,0.4651,0.4348
 2025-04-20 09:29:45.443011,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,0.030299999999999994,0.6667,0.6364
-2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,0.029299999999999993,0.0769,0.0476
 2025-04-20 09:29:45.432367,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,0.029299999999999993,0.0769,0.0476
+2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,0.029299999999999993,0.0769,0.0476
 2025-04-20 14:32:45.586525,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,0.025599999999999956,0.6,0.5744
 2025-04-20 13:34:54.731539,Main Markets - Final Round 2-Balls - J. Bridgeman / A. Rai - Final Round 2-Balls,Aaron Rai,0.025599999999999956,0.6,0.5744
+2025-04-20 09:29:45.425778,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,0.0242,0.0909,0.0667
 2025-04-20 09:29:45.422786,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,0.0242,0.0909,0.0667
 2025-04-20 11:26:14.971175,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,0.0242,0.0909,0.0667
-2025-04-20 09:29:45.425778,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,0.0242,0.0909,0.0667
 2025-04-20 16:36:34.036625,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 68.5,0.023800000000000043,0.5238,0.5
-2025-04-20 12:52:25.428128,Main Markets - Final Round 2-Balls - C. Kirk / T. Detry - Final Round 2-Balls,Chris Kirk,0.023799999999999988,0.5,0.4762
 2025-04-20 16:36:34.045233,Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 68.5,0.023799999999999988,0.5,0.4762
 2025-04-20 11:26:16.802625,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs L. Aberg - Final Round Match-Ups,Ludvig Aberg,0.023799999999999988,0.5,0.4762
+2025-04-20 12:52:25.428128,Main Markets - Final Round 2-Balls - C. Kirk / T. Detry - Final Round 2-Balls,Chris Kirk,0.023799999999999988,0.5,0.4762
 2025-04-20 08:34:33.403763,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
 2025-04-20 12:52:25.391497,Main Markets - Final Round 2-Balls - T. Finau / L. Glover - Final Round 2-Balls,Lucas Glover,0.022600000000000064,0.5348,0.5122
-2025-04-20 11:26:15.171070,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,0.022199999999999998,0.2222,0.2
 2025-04-20 09:29:45.432367,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.022199999999999998,0.2222,0.2
 2025-04-20 08:34:31.679087,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.022199999999999998,0.2222,0.2
 2025-04-20 08:34:31.538682,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,0.022199999999999998,0.2222,0.2
+2025-04-20 11:26:15.171070,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,0.022199999999999998,0.2222,0.2
 2025-04-20 08:34:31.538682,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,0.022000000000000006,0.1053,0.0833
 2025-04-20 16:36:34.023787,Scores - Final Round Score - Russell Henley - Final Round Score,Under 68.5,0.021699999999999997,0.4762,0.4545
 2025-04-20 16:36:34.040910,Scores - Final Round Score - Justin Thomas - Final Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
@@ -55,22 +55,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 09:29:45.425778,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,0.02020000000000001,0.1111,0.0909
 2025-04-20 09:29:45.428764,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,0.02020000000000001,0.1111,0.0909
 2025-04-20 11:26:15.171070,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,0.020100000000000007,0.25,0.2299
-2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2025-04-20 13:34:54.892566,Round Match-Ups - Final Round Match-Ups - C. Young v J. Rose - Requests,Justin Rose,0.01970000000000005,0.5652,0.5455
+2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
+2025-04-20 17:31:25.898742,Scores - Final Round Score - Justin Thomas - Final Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
 2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Josef Martinez,0.019099999999999992,0.0667,0.0476
 2025-04-20 09:29:45.459526,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.018900000000000028,0.4444,0.4255
-2025-04-20 08:34:31.674230,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,0.01820000000000002,0.2,0.1818
 2025-04-20 11:26:15.039876,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,0.01820000000000002,0.2,0.1818
+2025-04-20 08:34:31.674230,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,0.01820000000000002,0.2,0.1818
 2025-04-20 11:26:15.039876,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Necaxa,0.018099999999999998,0.0769,0.0588
 2025-04-20 11:26:16.634454,Main Markets - Final Round 2-Balls - J. Highsmith / N. Dunlap - Final Round 2-Balls,Joe Highsmith,0.01759999999999995,0.6667,0.6491
-2025-04-20 08:34:33.151953,Main Markets - Final Round 2-Balls - P. Rodgers / M.W. Lee - Final Round 2-Balls,Min Woo Lee,0.017299999999999982,0.5917,0.5744
+2025-04-20 17:31:25.819212,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.01759999999999995,0.6667,0.6491
 2025-04-20 05:33:23.218988,Main Markets - Final Round 2-Balls - J. Thomas / M. McNealy - Final Round 2-Balls,Justin Thomas,0.017299999999999982,0.5917,0.5744
+2025-04-20 08:34:33.151953,Main Markets - Final Round 2-Balls - P. Rodgers / M.W. Lee - Final Round 2-Balls,Min Woo Lee,0.017299999999999982,0.5917,0.5744
 2025-04-20 16:36:33.865567,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Sam Eggington,0.016699999999999993,0.4167,0.4
-2025-04-20 08:34:31.674230,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,0.016699999999999993,0.2667,0.25
 2025-04-20 09:29:47.371455,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Akie Iwai,0.016699999999999993,0.2667,0.25
-2025-04-20 12:52:25.419947,Main Markets - Final Round 2-Balls - K. Vilips / R. Gerard - Final Round 2-Balls,Ryan Gerard,0.016100000000000003,0.6078,0.5917
-2025-04-20 12:52:25.411874,Main Markets - Final Round 2-Balls - C. Young / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,0.016100000000000003,0.6078,0.5917
+2025-04-20 08:34:31.674230,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,0.016699999999999993,0.2667,0.25
 2025-04-20 09:29:47.283664,Round Match-Ups - Final Round Match-Ups - R. Henley vs B. Harman - Final Round Match-Ups,Russell Henley,0.016100000000000003,0.6078,0.5917
+2025-04-20 12:52:25.411874,Main Markets - Final Round 2-Balls - C. Young / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,0.016100000000000003,0.6078,0.5917
+2025-04-20 12:52:25.419947,Main Markets - Final Round 2-Balls - K. Vilips / R. Gerard - Final Round 2-Balls,Ryan Gerard,0.016100000000000003,0.6078,0.5917
 2025-04-20 12:52:25.424063,Main Markets - Final Round 2-Balls - J. Day / S. Valimaki - Final Round 2-Balls,Jason Day,0.014800000000000035,0.6226,0.6078
 2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Felipe Mora,0.014599999999999998,0.0196,0.005
 2025-04-20 16:36:33.853470,Boxing Lines - Troy Coleman vs Bradley Goldsmith - To Win the Bout,Bradley Goldsmith,0.014200000000000101,0.8403,0.8261
@@ -79,14 +81,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 11:26:15.185115,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,0.013899999999999996,0.125,0.1111
 2025-04-20 11:26:15.194417,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,0.012799999999999978,0.2985,0.2857
 2025-04-20 05:33:23.010085,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.011499999999999955,0.6667,0.6552
-2025-04-20 11:26:14.974160,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,0.011199999999999995,0.0588,0.0476
 2025-04-20 09:29:45.432367,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.011199999999999995,0.0588,0.0476
 2025-04-20 09:29:45.462422,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.011199999999999995,0.0588,0.0476
+2025-04-20 11:26:14.974160,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,0.011199999999999995,0.0588,0.0476
 2025-04-20 09:29:45.432367,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Austin FC,0.011199999999999995,0.0588,0.0476
 2025-04-20 16:36:33.886009,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.011099999999999999,0.4762,0.4651
 2025-04-20 16:36:34.019519,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 68.5,0.01100000000000001,0.5348,0.5238
-2025-04-20 11:26:15.167491,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.010699999999999932,0.5455,0.5348
 2025-04-20 08:34:33.416946,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,0.010699999999999932,0.5455,0.5348
+2025-04-20 11:26:15.167491,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,0.010699999999999932,0.5455,0.5348
 2025-04-20 09:29:47.371455,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Ingrid Lindblad,0.010499999999999982,0.2105,0.2
 2025-04-20 11:26:15.039876,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club León,0.0102,0.0769,0.0667
 2025-04-20 08:34:31.544906,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,0.010099999999999998,0.4545,0.4444
@@ -95,8 +97,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 09:29:45.589993,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Elversberg,-0.0102,0.0667,0.0769
 2025-04-20 11:26:15.194417,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,-0.010499999999999982,0.2,0.2105
 2025-04-20 08:34:33.151953,Main Markets - Final Round 2-Balls - P. Rodgers / M.W. Lee - Final Round 2-Balls,Patrick Rodgers,-0.010599999999999998,0.4545,0.4651
-2025-04-20 05:33:23.218988,Main Markets - Final Round 2-Balls - J. Thomas / M. McNealy - Final Round 2-Balls,Maverick McNealy,-0.010599999999999998,0.4545,0.4651
 2025-04-20 16:36:34.010943,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 69.5,-0.010599999999999998,0.4545,0.4651
+2025-04-20 05:33:23.218988,Main Markets - Final Round 2-Balls - J. Thomas / M. McNealy - Final Round 2-Balls,Maverick McNealy,-0.010599999999999998,0.4545,0.4651
 2025-04-20 16:36:34.019519,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,-0.010699999999999932,0.5348,0.5455
 2025-04-20 08:34:33.416946,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 68.5,-0.01100000000000001,0.5238,0.5348
 2025-04-20 09:29:45.428764,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,-0.011099999999999999,0.1,0.1111
@@ -113,6 +115,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 09:29:45.456344,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.0145,0.0099,0.0244
 2025-04-20 05:33:23.293759,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Jin Young Ko,-0.015199999999999998,0.0044,0.0196
 2025-04-20 16:36:34.023787,Scores - Final Round Score - Russell Henley - Final Round Score,Over 68.5,-0.016100000000000003,0.5917,0.6078
+2025-04-20 17:31:25.819212,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.016699999999999993,0.4,0.4167
 2025-04-20 16:36:33.865567,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,-0.01759999999999995,0.6491,0.6667
 2025-04-20 11:26:15.194417,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.0179,0.125,0.1429
 2025-04-20 11:26:15.171070,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Estudiantes LP,-0.0179,0.125,0.1429
@@ -122,16 +125,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,-0.01820000000000002,0.1818,0.2
 2025-04-20 09:29:45.445953,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.0189,0.0196,0.0385
 2025-04-20 09:29:45.443011,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,-0.018900000000000028,0.9615,0.9804
+2025-04-20 11:26:15.217277,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.019099999999999992,0.0476,0.0667
 2025-04-20 09:29:45.456344,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Moises Kean (Fiorentina),-0.019099999999999992,0.0476,0.0667
 2025-04-20 09:29:45.425778,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,-0.019099999999999992,0.0476,0.0667
-2025-04-20 11:26:15.217277,UEFA Champions League Women - UEFA Womens's Champions League Winner - UEFA Women's Champions League Winner,Arsenal (W),-0.019099999999999992,0.0476,0.0667
 2025-04-20 09:29:45.453463,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,-0.019099999999999992,0.0476,0.0667
 2025-04-20 09:29:47.283664,Round Match-Ups - Final Round Match-Ups - R. Henley vs B. Harman - Final Round Match-Ups,Brian Harman,-0.019699999999999995,0.4348,0.4545
 2025-04-20 12:52:25.419947,Main Markets - Final Round 2-Balls - K. Vilips / R. Gerard - Final Round 2-Balls,Karl Vilips,-0.019699999999999995,0.4348,0.4545
 2025-04-20 12:52:25.411874,Main Markets - Final Round 2-Balls - C. Young / A. Bhatia - Final Round 2-Balls,Cameron Young,-0.019699999999999995,0.4348,0.4545
 2025-04-20 16:36:34.036625,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
-2025-04-20 11:26:16.802625,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs L. Aberg - Final Round Match-Ups,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2025-04-20 12:52:25.428128,Main Markets - Final Round 2-Balls - C. Kirk / T. Detry - Final Round 2-Balls,Thomas Detry,-0.01970000000000005,0.5455,0.5652
+2025-04-20 11:26:16.802625,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs L. Aberg - Final Round Match-Ups,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2025-04-20 11:26:14.971175,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.020299999999999985,0.9412,0.9615
 2025-04-20 09:29:45.432367,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,-0.0203,0.0385,0.0588
 2025-04-20 13:34:54.731539,Main Markets - Final Round 2-Balls - J. Bridgeman / A. Rai - Final Round 2-Balls,Jacob Bridgeman,-0.020699999999999996,0.4444,0.4651
@@ -142,9 +145,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 14:32:45.586525,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.022699999999999998,0.4651,0.4878
 2025-04-20 05:33:23.293759,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Pajaree Anannarukarn,-0.0227,0.0017,0.0244
 2025-04-20 09:29:45.419355,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,-0.023799999999999988,0.1429,0.1667
-2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Max Homa,-0.023799999999999988,0.4762,0.5
 2025-04-20 13:34:54.892566,Round Match-Ups - Final Round Match-Ups - C. Young v J. Rose - Requests,Cameron Young,-0.023799999999999988,0.4762,0.5
+2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Max Homa,-0.023799999999999988,0.4762,0.5
 2025-04-20 05:33:23.293759,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Miranda Wang,-0.023799999999999998,0.004,0.0278
+2025-04-20 17:31:25.898742,Scores - Final Round Score - Justin Thomas - Final Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-04-20 08:34:33.309459,Main Markets - Final Round Six-Shooter - Group A - S. Scheffler / R. Henley / P. Cantlay / T. Fleetwood / J. Thomas / M. McNealy - Final Round Six-Shooter,Scottie Scheffler,-0.02560000000000001,0.3077,0.3333
 2025-04-20 16:36:34.045233,Scores - Final Round Score - Maverick McNealy - Final Round Score,Over 68.5,-0.026499999999999968,0.5652,0.5917
 2025-04-20 05:33:23.293759,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Chisato Iwai,-0.026800000000000004,0.0055,0.0323

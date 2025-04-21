@@ -7,31 +7,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 19:25:28.786497,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Liam Cameron,0.034499999999999975,0.3571,0.3226
 2025-04-20 20:31:32.223964,Boxing Lines - Benjamin Whittaker vs Liam Cameron - To Win the Bout,Benjamin Whittaker,0.034399999999999986,0.7403,0.7059
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),0.031799999999999995,0.1429,0.1111
-2025-04-20 13:34:54.731539,Main Markets - Final Round 2-Balls - J. Bridgeman / A. Rai - Final Round 2-Balls,Aaron Rai,0.025599999999999956,0.6,0.5744
 2025-04-20 14:32:45.586525,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,0.025599999999999956,0.6,0.5744
 2025-04-20 19:25:28.782543,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.024899999999999922,0.697,0.6721
 2025-04-20 19:25:28.735430,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Cristopher Sanchez (PHI),0.024299999999999995,0.0769,0.0526
 2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,Chiba Jets,0.0242,0.0909,0.0667
 2025-04-20 16:36:34.036625,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 68.5,0.023800000000000043,0.5238,0.5
 2025-04-20 16:36:34.045233,Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 68.5,0.023799999999999988,0.5,0.4762
-2025-04-20 12:52:25.428128,Main Markets - Final Round 2-Balls - C. Kirk / T. Detry - Final Round 2-Balls,Chris Kirk,0.023799999999999988,0.5,0.4762
-2025-04-20 12:52:25.391497,Main Markets - Final Round 2-Balls - T. Finau / L. Glover - Final Round 2-Balls,Lucas Glover,0.022600000000000064,0.5348,0.5122
 2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,0.022199999999999998,0.2222,0.2
 2025-04-20 16:36:34.023787,Scores - Final Round Score - Russell Henley - Final Round Score,Under 68.5,0.021699999999999997,0.4762,0.4545
 2025-04-20 16:36:34.040910,Scores - Final Round Score - Justin Thomas - Final Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
 2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.020799999999999985,0.3333,0.3125
 2025-04-20 19:25:28.238660,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Derrick Harmon (ORE),0.0203,0.0588,0.0385
-2025-04-20 13:34:54.892566,Round Match-Ups - Final Round Match-Ups - C. Young v J. Rose - Requests,Justin Rose,0.01970000000000005,0.5652,0.5455
 2025-04-20 17:31:25.898742,Scores - Final Round Score - Justin Thomas - Final Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
-2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Taylor Pendrith,0.01970000000000005,0.5652,0.5455
 2025-04-20 17:31:25.819212,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.01759999999999995,0.6667,0.6491
 2025-04-20 19:25:28.735430,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Kodai Senga (NYM),0.017100000000000004,0.0323,0.0152
 2025-04-20 18:37:42.828104,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,0.016900000000000026,0.6721,0.6552
 2025-04-20 16:36:33.865567,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Sam Eggington,0.016699999999999993,0.4167,0.4
 2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,SeaHorses Mikawa,0.016600000000000004,0.0833,0.0667
-2025-04-20 12:52:25.411874,Main Markets - Final Round 2-Balls - C. Young / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,0.016100000000000003,0.6078,0.5917
-2025-04-20 12:52:25.419947,Main Markets - Final Round 2-Balls - K. Vilips / R. Gerard - Final Round 2-Balls,Ryan Gerard,0.016100000000000003,0.6078,0.5917
-2025-04-20 12:52:25.424063,Main Markets - Final Round 2-Balls - J. Day / S. Valimaki - Final Round 2-Balls,Jason Day,0.014800000000000035,0.6226,0.6078
 2025-04-20 16:36:33.853470,Boxing Lines - Troy Coleman vs Bradley Goldsmith - To Win the Bout,Bradley Goldsmith,0.014200000000000101,0.8403,0.8261
 2025-04-20 18:37:42.844581,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.012199999999999989,0.5,0.4878
 2025-04-20 16:36:33.886009,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.011099999999999999,0.4762,0.4651
@@ -41,15 +33,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 16:36:34.010943,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 69.5,-0.010599999999999998,0.4545,0.4651
 2025-04-20 16:36:34.019519,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,-0.010699999999999932,0.5348,0.5455
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),-0.010699999999999987,0.3226,0.3333
-2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,Gunma Crane Thunders,-0.011199999999999995,0.0476,0.0588
 2025-04-20 19:25:28.750901,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Liam Hendriks (BOS),-0.011199999999999995,0.0323,0.0435
+2025-04-20 20:31:31.282037,B League - Japan B-League 2024/25 - Outright,Gunma Crane Thunders,-0.011199999999999995,0.0476,0.0588
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Chase DeLauter,-0.011399999999999997,0.0164,0.0278
 2025-04-20 18:37:42.853031,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.011499999999999955,0.6552,0.6667
-2025-04-20 12:52:25.415907,Main Markets - Final Round 2-Balls - D. Thompson / N. Taylor - Final Round 2-Balls,Nick Taylor,-0.0116,0.4762,0.4878
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Edgar Quero (CWS),-0.0118,0.0099,0.0217
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Shay Whitcomb (HOU),-0.0118,0.0099,0.0217
-2025-04-20 19:25:28.735430,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zac Gallen (ARI),-0.012100000000000001,0.0123,0.0244
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Coby Mayo (BAL),-0.012100000000000001,0.0123,0.0244
+2025-04-20 19:25:28.735430,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zac Gallen (ARI),-0.012100000000000001,0.0123,0.0244
 2025-04-20 16:36:33.853470,Boxing Lines - Troy Coleman vs Bradley Goldsmith - To Win the Bout,Troy Coleman,-0.01369999999999999,0.2273,0.241
 2025-04-20 19:25:28.750901,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Cade Smith (CLE),-0.013999999999999999,0.0769,0.0909
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Christian Moore (LAA),-0.0145,0.0099,0.0244
@@ -60,20 +51,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-20 17:31:25.819212,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.016699999999999993,0.4,0.4167
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Will Warren (NYY),-0.0168,0.0217,0.0385
 2025-04-20 16:36:33.865567,Boxing Lines - Lee Cutler vs Sam Eggington - To Win the Bout,Lee Cutler,-0.01759999999999995,0.6491,0.6667
-2025-04-20 12:52:25.424063,Main Markets - Final Round 2-Balls - J. Day / S. Valimaki - Final Round 2-Balls,Sami Valimaki,-0.018100000000000005,0.4167,0.4348
-2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Will Wagner (TOR),-0.0182,0.0141,0.0323
 2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Jack Leiter (TEX),-0.0182,0.0141,0.0323
+2025-04-20 19:25:28.740570,ROY - AL ROY 2025 - American League Rookie of the Year,Will Wagner (TOR),-0.0182,0.0141,0.0323
 2025-04-20 22:34:14.901613,MVP - NL MVP 2025 - National League MVP,Ronald Acuna Jr. (ATL),-0.019100000000000002,0.0132,0.0323
-2025-04-20 12:52:25.419947,Main Markets - Final Round 2-Balls - K. Vilips / R. Gerard - Final Round 2-Balls,Karl Vilips,-0.019699999999999995,0.4348,0.4545
-2025-04-20 12:52:25.411874,Main Markets - Final Round 2-Balls - C. Young / A. Bhatia - Final Round 2-Balls,Cameron Young,-0.019699999999999995,0.4348,0.4545
 2025-04-20 16:36:34.036625,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 68.5,-0.01970000000000005,0.5455,0.5652
-2025-04-20 12:52:25.428128,Main Markets - Final Round 2-Balls - C. Kirk / T. Detry - Final Round 2-Balls,Thomas Detry,-0.01970000000000005,0.5455,0.5652
-2025-04-20 13:34:54.731539,Main Markets - Final Round 2-Balls - J. Bridgeman / A. Rai - Final Round 2-Balls,Jacob Bridgeman,-0.020699999999999996,0.4444,0.4651
 2025-04-20 16:36:34.040910,Scores - Final Round Score - Justin Thomas - Final Round Score,Over 68.5,-0.02169999999999994,0.5238,0.5455
-2025-04-20 12:52:25.391497,Main Markets - Final Round 2-Balls - T. Finau / L. Glover - Final Round 2-Balls,Tony Finau,-0.022600000000000064,0.5122,0.5348
 2025-04-20 14:32:45.586525,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,-0.022699999999999998,0.4651,0.4878
-2025-04-20 13:34:54.892566,Round Match-Ups - Final Round Match-Ups - C. Young v J. Rose - Requests,Cameron Young,-0.023799999999999988,0.4762,0.5
-2025-04-20 12:52:25.387415,Main Markets - Final Round 2-Balls - T. Pendrith / M. Homa - Final Round 2-Balls,Max Homa,-0.023799999999999988,0.4762,0.5
 2025-04-20 17:31:25.898742,Scores - Final Round Score - Justin Thomas - Final Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-04-20 16:36:34.045233,Scores - Final Round Score - Maverick McNealy - Final Round Score,Over 68.5,-0.026499999999999968,0.5652,0.5917
 2025-04-20 19:25:28.750901,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Jeff Hoffman (TOR),-0.027999999999999997,0.1538,0.1818

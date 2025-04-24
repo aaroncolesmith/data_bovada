@@ -40,10 +40,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 03:14:53.067513,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted (Excluding Ashton Jeanty),TreVeyon Henderson (OSU),0.06740000000000002,0.3704,0.303
 2025-04-24 08:40:15.252858,Coppa Italia - Coppa Italia 2024/25 - Winner,Bologna,0.06670000000000004,0.4,0.3333
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Emeka Egbuka (OSU),0.06669999999999998,0.9,0.8333
+2025-04-24 13:42:15.329304,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Tyler Warren (PSU),0.06659999999999999,0.7333,0.6667
 2025-04-24 03:14:53.038888,NFL Draft - Position Markets - First Player of Position Group Drafted - First Cornerback Drafted (Excluding Travis Hunter),Maxwell Hairston (UK),0.066,0.1429,0.0769
 2025-04-24 09:33:38.421434,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),0.06120000000000003,0.339,0.2778
+2025-04-24 13:42:15.620072,NFL Draft - Position Markets - First Player of Position Group Drafted - First Quarterback Drafted (Excluding Cameron Ward),Jaxson Dart (MISS),0.061,0.4,0.339
 2025-04-24 03:14:53.042396,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Back Drafted (Excluding Travis Hunter),Maxwell Hairston (UK),0.060700000000000004,0.0952,0.0345
 2025-04-24 10:37:56.556552,NFL Draft - Player Markets - Player Draft Position - Emeka Egbuka Draft Position,Under 26.5,0.059799999999999964,0.6154,0.5556
+2025-04-24 13:42:15.329304,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Jalon Walker (UGA),0.05709999999999993,0.8571,0.8
 2025-04-24 12:59:13.131664,NFL Draft Specials - Exotics - First 5 Picks Exact Order,1. Cameron Ward 2. Travis Hunter 3. Abdul Carter 4. Will Campbell 5. Ashton Jeanty,0.05520000000000003,0.6552,0.6
 2025-04-24 03:14:53.053336,NFL Draft - Position Markets - First Player of Position Group Drafted - First Offensive Lineman Drafted,Kelvin Banks Jr. (TEX),0.05519999999999999,0.0909,0.0357
 2025-04-24 05:34:33.111763,NFL Draft - Prop Markets - Drafted in 1st Round - Total Running Backs Selected in 1st Round,Over 2.5 Players,0.05449999999999999,0.4545,0.4
@@ -70,13 +73,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 12:59:13.715132,Main Markets - 1st Round 2 Ball - Theegala / Rai v Bhatia / Car Young - Including Tie,Theegala / Rai,0.03600000000000003,0.5238,0.4878
 2025-04-24 09:33:38.425239,NFL Draft - Pick Markets - Draft Picks -  7th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),0.03600000000000003,0.339,0.303
 2025-04-24 03:14:52.857261,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Under 6.5,0.035699999999999954,0.8571,0.8214
-2025-04-24 10:37:56.633118,NFL Draft - Team Markets - Team's First Pick - ATL Falcons - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.03480000000000005,0.7647,0.7299
 2025-04-24 08:40:17.087569,Tournament Match-Ups - Tournament Match-Ups - H. Higgs / J. Dahmen vs J. Lower / C. Ramey - Tournament Match-Ups,Justin Lower / Chad Ramey,0.03480000000000005,0.5348,0.5
+2025-04-24 10:37:56.633118,NFL Draft - Team Markets - Team's First Pick - ATL Falcons - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.03480000000000005,0.7647,0.7299
 2025-04-24 12:59:13.119684,NFL Draft Specials - Draft Specials - Draft Parlays,Tyler Warren & Colston Loveland Both To Be Drafted In The Top 10 Picks,0.03420000000000001,0.1111,0.0769
 2025-04-24 10:37:56.041746,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pierbattista Pizzaballa (Italy),0.034100000000000005,0.125,0.0909
 2025-04-24 02:14:03.854214,NFL Draft - Position Markets - First Player of Position Group Drafted - First Cornerback Drafted (Excluding Travis Hunter),Maxwell Hairston (UK),0.0334,0.0769,0.0435
-2025-04-24 12:59:13.110442,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.033300000000000024,0.2,0.1667
 2025-04-24 10:37:57.155393,MVP - NL MVP 2025 - National League MVP,Kyle Tucker (CHC),0.033300000000000024,0.2,0.1667
+2025-04-24 12:59:13.110442,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.033300000000000024,0.2,0.1667
 2025-04-24 10:37:56.686410,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.033100000000000004,0.0625,0.0294
 2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.03270000000000001,0.0952,0.0625
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Calum Hill,0.032400000000000005,0.0476,0.0152
@@ -84,6 +87,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 02:14:03.634773,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Walter Nolen (MISS),0.031200000000000002,0.0476,0.0164
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Sam Bairstow,0.031,0.0588,0.0278
 2025-04-24 06:43:57.439335,NFL Draft - Prop Markets - Drafted in 1st Round - Total Quarterbacks Selected in 1st Round,Over 2.5 Players,0.03090000000000004,0.6226,0.5917
+2025-04-24 13:42:15.479029,NFL Draft - Player Markets - Player Draft Position - Tyler Warren Draft Position,Under 10.5,0.030299999999999994,0.697,0.6667
 2025-04-24 10:37:56.612290,NFL Draft - Player Markets - Player Draft Position - Tetairoa McMillan Draft Position,Under 12.5,0.030299999999999994,0.6667,0.6364
 2025-04-24 11:28:34.131579,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.029700000000000004,0.0476,0.0179
 2025-04-24 05:34:33.319368,NFL Draft - Position Markets - First Player of Position Group Drafted - First Quarterback Drafted (Excluding Cameron Ward),Shedeur Sanders (COL),0.02849999999999997,0.7059,0.6774
@@ -97,36 +101,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 12:59:13.110442,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.025300000000000003,0.1429,0.1176
 2025-04-24 02:14:03.609991,NFL Draft - Pick Markets - Draft Picks -  3rd Overall Pick 2025 NFL Draft,Abdul Carter (PSU),0.02529999999999999,0.8824,0.8571
 2025-04-24 12:59:13.144176,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Back Drafted (Excluding Travis Hunter),Will Johnson (MICH),0.025099999999999983,0.2632,0.2381
-2025-04-24 02:14:02.870381,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Werder Bremen,0.024999999999999994,0.125,0.1
 2025-04-24 03:14:52.786106,NFL Draft - Pick Markets - Draft Picks -  4th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.024999999999999994,0.125,0.1
+2025-04-24 02:14:02.870381,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Werder Bremen,0.024999999999999994,0.125,0.1
 2025-04-24 03:14:53.042396,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Back Drafted (Excluding Travis Hunter),Trey Amos (MISS),0.024700000000000003,0.0357,0.011
 2025-04-24 10:37:56.661601,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,0.024599999999999955,0.3636,0.339
 2025-04-24 11:28:34.128037,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.024299999999999995,0.0769,0.0526
 2025-04-24 03:48:06.872672,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Armand Membou (MIZZ),0.02429999999999999,0.9132,0.8889
 2025-04-24 10:37:56.682816,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.0242,0.0909,0.0667
 2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Safety,0.024,0.0625,0.0385
-2025-04-24 09:33:39.661848,Scores - 1st Round Score - Rory McIlroy / Shane Lowry - 1st Round Score,Under 63.5,0.023800000000000043,0.5238,0.5
 2025-04-24 03:14:52.121343,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,0.023800000000000043,0.5238,0.5
-2025-04-24 03:48:06.872672,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Tyler Warren (PSU),0.023799999999999932,0.6667,0.6429
+2025-04-24 09:33:39.661848,Scores - 1st Round Score - Rory McIlroy / Shane Lowry - 1st Round Score,Under 63.5,0.023800000000000043,0.5238,0.5
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Will Campbell (LSU),0.023799999999999932,0.8571,0.8333
-2025-04-24 10:37:56.563488,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Under 38.5,0.022600000000000064,0.5348,0.5122
+2025-04-24 03:48:06.872672,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Tyler Warren (PSU),0.023799999999999932,0.6667,0.6429
+2025-04-24 13:42:16.133673,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Anthony Cacace,0.02300000000000002,0.6721,0.6491
 2025-04-24 08:40:17.109285,Tournament Match-Ups - Tournament Match-Ups - R. Shelton / T. Mullinax vs M. Meissner / N. Goodwin - Tournament Match-Ups,Mac Meissner / Noah Goodwin,0.022600000000000064,0.5348,0.5122
+2025-04-24 13:42:16.081091,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.022600000000000064,0.5348,0.5122
+2025-04-24 10:37:56.563488,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Under 38.5,0.022600000000000064,0.5348,0.5122
+2025-04-24 13:42:15.575370,NFL Draft Specials - Draft Specials - Draft  Specials ,Jaxson Dart to be Drafted by New York Giants or Cleveland Browns,0.022600000000000064,0.5348,0.5122
 2025-04-24 10:37:57.155393,MVP - NL MVP 2025 - National League MVP,Fernando Tatis Jr. (SD),0.022199999999999998,0.2222,0.2
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Nic Scourton (TAM),0.022199999999999998,0.3448,0.3226
 2025-04-24 07:31:31.652490,NFL Draft - Position Markets - First Player of Position Group Drafted - First Cornerback Drafted (Excluding Travis Hunter),Trey Amos (MISS),0.022099999999999998,0.0385,0.0164
 2025-04-24 11:28:34.059256,NFL Draft - Team Markets - Team's First Pick - ARI Cardinals - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.021999999999999964,0.3077,0.2857
 2025-04-24 10:37:56.640183,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,0.020799999999999985,0.3333,0.3125
+2025-04-24 13:42:15.428982,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Under 38.5,0.02079999999999993,0.5556,0.5348
 2025-04-24 08:40:16.991494,Round Match-Ups - 1st Round Match Up - Cauley / Tway vs Valimaki / Silverman - 1st Round Match Up ,Cauley / Tway,0.02079999999999993,0.5556,0.5348
+2025-04-24 13:42:15.442180,NFL Draft - Player Markets - Player Draft Position - Jihaad Campbell Draft Position,Under 19.5,0.020699999999999996,0.4651,0.4444
 2025-04-24 10:37:56.711368,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,0.02020000000000001,0.1111,0.0909
 2025-04-24 04:36:38.774296,Round Match-Ups - 1st Round Match Up - Fox / Higgo vs Detry / MacIntyre - 1st Round Match Up,Detry / MacIntyre,0.01970000000000005,0.5652,0.5455
 2025-04-24 03:14:52.339846,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.019099999999999995,0.0435,0.0244
 2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Mykel Williams (UGA),0.019000000000000017,0.2857,0.2667
-2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.019000000000000003,0.0625,0.0435
 2025-04-24 03:14:53.042396,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Back Drafted (Excluding Travis Hunter),Nick Emmanwori (SCAR),0.019000000000000003,0.0625,0.0435
+2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,0.019000000000000003,0.0625,0.0435
 2025-04-24 10:37:56.647392,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,0.01880000000000004,0.6552,0.6364
 2025-04-24 10:37:57.155393,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),0.01820000000000002,0.2,0.1818
 2025-04-24 09:33:38.432777,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),0.018099999999999998,0.0769,0.0588
 2025-04-24 08:40:15.571647,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.0179,0.1429,0.125
+2025-04-24 13:42:15.348138,NFL Draft - Pick Markets - Draft Picks -  4th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.0179,0.1429,0.125
 2025-04-24 10:37:56.711368,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.01759999999999999,0.1176,0.1
 2025-04-24 10:37:56.496295,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Mykel Williams (UGA),0.017299999999999982,0.303,0.2857
 2025-04-24 12:59:13.633007,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Cheavon Clarke,0.017299999999999982,0.4255,0.4082
@@ -143,21 +153,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 02:14:03.004105,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Boca Juniors,0.014000000000000012,0.9231,0.9091
 2025-04-24 03:14:52.102333,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Vinotinto Ecuador,0.013999999999999999,0.0909,0.0769
 2025-04-24 10:37:56.661601,NFL Draft - Team Markets - Team's First Pick - GB Packers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.013899999999999996,0.125,0.1111
-2025-04-24 10:37:56.041746,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Matteo Zuppi (Italy),0.013899999999999996,0.125,0.1111
 2025-04-24 09:33:38.432777,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Mason Graham (MICH),0.013899999999999996,0.125,0.1111
+2025-04-24 10:37:56.041746,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Matteo Zuppi (Italy),0.013899999999999996,0.125,0.1111
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Martin Couvra,0.013699999999999999,0.0278,0.0141
 2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Shedeur Sanders (COL),0.013600000000000001,0.3077,0.2941
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Elvis Smylie,0.013400000000000002,0.0244,0.011
-2025-04-24 10:37:56.549620,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Over 6.5,0.0131,0.2353,0.2222
 2025-04-24 05:34:33.278079,NFL Draft Specials - Draft Specials - Draft Specials ,Shedeur Sanders to be Drafted 15th Overall or Later,0.0131,0.7778,0.7647
+2025-04-24 10:37:56.549620,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Over 6.5,0.0131,0.2353,0.2222
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Zihao Jin,0.013,0.0196,0.0066
 2025-04-24 03:14:53.046071,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Lineman/Edge Drafted ,Mykel Williams (UGA),0.012700000000000003,0.0323,0.0196
 2025-04-24 10:37:56.665134,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,0.012600000000000056,0.8,0.7874
 2025-04-24 09:33:38.425239,NFL Draft - Pick Markets - Draft Picks -  7th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),0.012299999999999991,0.1176,0.1053
-2025-04-24 04:36:38.724948,Round Match-Ups - 1st Round Match Up - McIlroy / Lowry vs Poston / Mitchell - 1st Round Match Up,McIlroy / Lowry,0.012299999999999978,0.6552,0.6429
 2025-04-24 11:28:34.107211,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Quarterback,0.012299999999999978,0.1818,0.1695
+2025-04-24 04:36:38.724948,Round Match-Ups - 1st Round Match Up - McIlroy / Lowry vs Poston / Mitchell - 1st Round Match Up,McIlroy / Lowry,0.012299999999999978,0.6552,0.6429
 2025-04-24 03:14:52.789813,NFL Draft - Pick Markets - Draft Picks -  5th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),0.012299999999999978,0.6552,0.6429
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Kelvin Banks Jr. (TEX),0.011899999999999994,0.0833,0.0714
+2025-04-24 13:42:15.438874,NFL Draft - Player Markets - Player Draft Position - Jaxson Dart Draft Position,Under 25.5,0.0116,0.4878,0.4762
 2025-04-24 02:14:03.620611,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),0.011200000000000002,0.0244,0.0132
 2025-04-24 10:37:56.647392,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.011200000000000002,0.0244,0.0132
 2025-04-24 02:14:03.010634,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Argentinos Juniors,0.011199999999999995,0.0588,0.0476
@@ -169,10 +180,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 12:59:13.620145,Boxing Lines - Ricardo Sonny Robledo vs Dante Ettore - To Win the Bout,Dante Ettore,0.010800000000000032,0.274,0.2632
 2025-04-24 05:34:33.170845,NFL Draft - Player Markets - Player Draft Position - Shedeur Sanders Draft Position,Over 21.5,0.010599999999999998,0.4651,0.4545
 2025-04-24 12:59:13.005872,NFL Draft - Player Markets - Player Draft Position - Shedeur Sanders Draft Position,Over 21.5,0.010599999999999998,0.4651,0.4545
+2025-04-24 13:42:15.578968,NFL Draft Specials - Draft Specials - Draft Parlays,"Tyler Warren 1st Tight End Drafted, Will Campbell 1st Offensive Lineman Drafted",0.010500000000000065,0.8,0.7895
 2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,0.0102,0.0769,0.0667
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Walter Nolen (MISS),0.0102,0.0769,0.0667
-2025-04-24 12:59:12.985271,NFL Draft - Player Markets - Player Draft Position - Malaki Starks Draft Position,Under 24.5,0.010099999999999998,0.5556,0.5455
 2025-04-24 02:14:04.331201,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,0.010099999999999998,0.5556,0.5455
+2025-04-24 12:59:12.985271,NFL Draft - Player Markets - Player Draft Position - Malaki Starks Draft Position,Under 24.5,0.010099999999999998,0.5556,0.5455
 2025-04-24 03:14:53.060402,NFL Draft - Position Markets - First Player of Position Group Drafted - First Quarterback Drafted (Excluding Cameron Ward),Shedeur Sanders (COL),-0.010099999999999998,0.6774,0.6875
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Ashun Wu,-0.0101,0.004,0.0141
 2025-04-24 05:34:33.265795,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.010100000000000001,0.0244,0.0345
@@ -186,11 +198,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 12:59:12.985271,NFL Draft - Player Markets - Player Draft Position - Malaki Starks Draft Position,Over 24.5,-0.010699999999999932,0.5348,0.5455
 2025-04-24 11:28:33.478519,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Mario Grech (Malta),-0.010700000000000001,0.0278,0.0385
 2025-04-24 11:28:34.131579,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Safety,-0.010700000000000001,0.0278,0.0385
-2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Tyler Booker (ALA),-0.010899999999999993,0.1429,0.1538
 2025-04-24 10:37:56.654520,NFL Draft - Team Markets - Team's First Pick - DEN Broncos - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.010899999999999993,0.1429,0.1538
 2025-04-24 03:14:52.339846,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.010899999999999993,0.1429,0.1538
-2025-04-24 10:37:56.549620,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Under 6.5,-0.01090000000000002,0.8462,0.8571
+2025-04-24 13:42:16.121572,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.010899999999999993,0.1429,0.1538
+2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Tyler Booker (ALA),-0.010899999999999993,0.1429,0.1538
 2025-04-24 03:14:52.786106,NFL Draft - Pick Markets - Draft Picks -  4th Overall Pick 2025 NFL Draft,Will Campbell (LSU),-0.01090000000000002,0.8462,0.8571
+2025-04-24 10:37:56.549620,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Under 6.5,-0.01090000000000002,0.8462,0.8571
+2025-04-24 13:42:15.482412,NFL Draft - Player Markets - Player Draft Position - Will Johnson Draft Position,Over 24.5,-0.01100000000000001,0.5238,0.5348
+2025-04-24 12:59:13.110442,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.011099999999999999,0.1,0.1111
 2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Mike Green (MARS),-0.011199999999999995,0.0323,0.0435
 2025-04-24 03:14:52.051249,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,-0.011300000000000001,0.001,0.0123
 2025-04-24 02:14:02.867479,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,-0.011499999999999955,0.6552,0.6667
@@ -208,6 +223,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 02:14:03.620611,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),-0.012700000000000003,0.0196,0.0323
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.012700000000000003,0.0196,0.0323
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Jihaad Campbell (ALA),-0.012700000000000003,0.0196,0.0323
+2025-04-24 13:42:15.329304,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Jaxson Dart (MISS),-0.012899999999999995,0.1538,0.1667
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Jihaad Campbell (ALA),-0.013,0.0066,0.0196
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Jacob Skov Olesen,-0.013400000000000002,0.011,0.0244
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Ashton Jeanty (BSU),-0.013599999999999945,0.6923,0.7059
@@ -221,31 +237,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 03:14:53.049661,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Lineman/Edge Drafted (Excluding Abdul Carter) ,Walter Nolen (MISS),-0.014399999999999996,0.0625,0.0769
 2025-04-24 03:14:52.793525,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.0145,0.0099,0.0244
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Mike Green (MARS),-0.014599999999999998,0.0132,0.0278
+2025-04-24 13:42:15.442180,NFL Draft - Player Markets - Player Draft Position - Jihaad Campbell Draft Position,Over 19.5,-0.014800000000000035,0.6078,0.6226
 2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Jaxson Dart (MISS),-0.015100000000000002,0.1667,0.1818
 2025-04-24 03:14:52.924295,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,DAL Cowboys,-0.015300000000000001,0.0323,0.0476
 2025-04-24 02:14:03.617057,NFL Draft - Pick Markets - Draft Picks -  5th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.015300000000000001,0.0323,0.0476
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Niklas Lemke,-0.015399999999999999,0.0025,0.0179
 2025-04-24 04:36:38.724948,Round Match-Ups - 1st Round Match Up - McIlroy / Lowry vs Poston / Mitchell - 1st Round Match Up,Poston / Mitchell,-0.015400000000000025,0.3846,0.4
-2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Colston Loveland (MICH),-0.015700000000000006,0.1176,0.1333
+2025-04-24 13:42:15.479029,NFL Draft - Player Markets - Player Draft Position - Tyler Warren Draft Position,Over 10.5,-0.015400000000000025,0.3846,0.4
 2025-04-24 02:14:03.620611,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.015700000000000006,0.1176,0.1333
+2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Colston Loveland (MICH),-0.015700000000000006,0.1176,0.1333
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Will Johnson (MICH),-0.0159,0.0164,0.0323
-2025-04-24 06:43:57.599832,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.016600000000000004,0.0667,0.0833
-2025-04-24 06:43:57.599832,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.016600000000000004,0.0667,0.0833
 2025-04-24 08:40:15.571647,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.016600000000000004,0.0667,0.0833
+2025-04-24 06:43:57.599832,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.016600000000000004,0.0667,0.0833
+2025-04-24 06:43:57.599832,NFL Draft - Team Markets - Team's First Pick - PIT Steelers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.016600000000000004,0.0667,0.0833
 2025-04-24 08:40:15.323478,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.016699999999999993,0.25,0.2667
 2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.016700000000000007,0.0833,0.1
-2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Joost Luiten,-0.0168,0.0217,0.0385
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Brandon Stone,-0.0168,0.0217,0.0385
+2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Joost Luiten,-0.0168,0.0217,0.0385
 2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Jaxson Dart (MISS),-0.01759999999999999,0.1,0.1176
 2025-04-24 09:33:38.421434,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.01759999999999999,0.1,0.1176
 2025-04-24 10:37:56.041746,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),-0.017600000000000005,0.3333,0.3509
 2025-04-24 03:14:52.102333,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,-0.017600000000000005,0.3333,0.3509
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Jahdae Barron (TEX),-0.017800000000000003,0.0066,0.0244
-2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Shemar Stewart (TAM),-0.017800000000000003,0.0066,0.0244
-2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Colston Loveland (MICH),-0.017800000000000003,0.0066,0.0244
-2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Nick Emmanwori (SCAR),-0.017800000000000003,0.0066,0.0244
-2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Mike Green (MARS),-0.017800000000000003,0.0066,0.0244
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Will Johnson (MICH),-0.017800000000000003,0.0066,0.0244
+2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Shemar Stewart (TAM),-0.017800000000000003,0.0066,0.0244
+2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Nick Emmanwori (SCAR),-0.017800000000000003,0.0066,0.0244
+2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Colston Loveland (MICH),-0.017800000000000003,0.0066,0.0244
+2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Mike Green (MARS),-0.017800000000000003,0.0066,0.0244
 2025-04-24 09:33:38.425239,NFL Draft - Pick Markets - Draft Picks -  7th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.01780000000000001,0.1905,0.2083
 2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Josh Conerly Jr. (ORE),-0.018099999999999998,0.0588,0.0769
 2025-04-24 10:37:56.711368,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.018099999999999998,0.0588,0.0769
@@ -253,8 +271,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 11:28:34.128037,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2025 NFL Draft,Wide Receiver,-0.01820000000000002,0.1818,0.2
 2025-04-24 03:14:52.924295,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,ATL Falcons,-0.018499999999999996,0.025,0.0435
 2025-04-24 10:37:56.682816,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2025 NFL Draft,Cornerback,-0.018799999999999983,0.3448,0.3636
-2025-04-24 10:37:56.563488,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Over 38.5,-0.01880000000000004,0.5556,0.5744
 2025-04-24 12:59:13.633007,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Viddal Riley,-0.01880000000000004,0.6364,0.6552
+2025-04-24 10:37:56.563488,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Over 38.5,-0.01880000000000004,0.5556,0.5744
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Tyler Shough (LOU),-0.019000000000000017,0.2667,0.2857
 2025-04-24 07:31:31.655955,NFL Draft - Position Markets - First Player of Position Group Drafted - First Defensive Back Drafted (Excluding Travis Hunter),Trey Amos (MISS),-0.0193,0.0164,0.0357
 2025-04-24 10:37:56.686410,NFL Draft - Team Markets - Team's First Pick - MIN Vikings - Position of 1st Drafted Player in 2025 NFL Draft,Linebacker,-0.01949999999999999,0.0714,0.0909
@@ -266,10 +284,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 03:14:52.789813,NFL Draft - Pick Markets - Draft Picks -  5th Overall Pick 2025 NFL Draft,Mason Graham (MICH),-0.020299999999999985,0.25,0.2703
 2025-04-24 03:48:07.066118,NFL Draft - Team Markets - Team's First Pick - IND Colts - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.020299999999999985,0.25,0.2703
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Wenyi Ding,-0.0203,0.0385,0.0588
+2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Kelvin Banks Jr. (TEX),-0.02049999999999999,0.1333,0.1538
 2025-04-24 12:59:13.131664,NFL Draft Specials - Exotics - First 5 Picks Exact Order,1. Cameron Ward 2. Travis Hunter 3. Abdul Carter 4. Will Campbell 5. Tetairoa McMillan,-0.02049999999999999,0.1333,0.1538
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Shedeur Sanders (COL),-0.02049999999999999,0.1333,0.1538
-2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Kelvin Banks Jr. (TEX),-0.02049999999999999,0.1333,0.1538
 2025-04-24 08:40:17.109285,Tournament Match-Ups - Tournament Match-Ups - R. Shelton / T. Mullinax vs M. Meissner / N. Goodwin - Tournament Match-Ups,Robby Shelton / Trey Mullinax,-0.02079999999999993,0.5348,0.5556
+2025-04-24 13:42:16.081091,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.02079999999999993,0.5348,0.5556
 2025-04-24 12:59:13.176188,NFL Draft - Position Markets - First Player of Position Group Drafted - First Tight End Drafted,Colston Loveland (MICH),-0.021100000000000008,0.2353,0.2564
 2025-04-24 11:28:34.107211,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.021100000000000008,0.2353,0.2564
 2025-04-24 03:14:52.924295,NFL Draft - Player Markets - Player Drafted By... - Ashton Jeanty (BSU) - Which team will draft Ashton Jeanty?,NE Patriots,-0.022000000000000006,0.0833,0.1053
@@ -284,17 +303,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Walter Nolen (MISS),-0.023800000000000016,0.1667,0.1905
 2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Ashton Jeanty (BSU),-0.023800000000000016,0.1667,0.1905
 2025-04-24 03:14:53.063898,NFL Draft - Position Markets - First Player of Position Group Drafted - First Running Back Drafted,Omarion Hampton (NC),-0.023899999999999998,0.0196,0.0435
-2025-04-24 02:14:03.613515,NFL Draft - Pick Markets - Draft Picks -  4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.024,0.0385,0.0625
 2025-04-24 10:37:56.633118,NFL Draft - Team Markets - Team's First Pick - ATL Falcons - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,-0.024,0.0385,0.0625
+2025-04-24 02:14:03.613515,NFL Draft - Pick Markets - Draft Picks -  4th Overall Pick 2025 NFL Draft,Armand Membou (MIZZ),-0.024,0.0385,0.0625
 2025-04-24 03:14:53.060402,NFL Draft - Position Markets - First Player of Position Group Drafted - First Quarterback Drafted (Excluding Cameron Ward),Tyler Shough (LOU),-0.0242,0.0667,0.0909
 2025-04-24 08:40:16.991494,Round Match-Ups - 1st Round Match Up - Cauley / Tway vs Valimaki / Silverman - 1st Round Match Up ,Valimaki / Silverman,-0.024399999999999977,0.4878,0.5122
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Romain Langasque,-0.024499999999999997,0.0033,0.0278
-2025-04-24 10:37:56.665134,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.024999999999999994,0.1,0.125
+2025-04-24 13:42:16.133673,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Leigh Wood,-0.024500000000000022,0.3922,0.4167
 2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Tyler Warren (PSU),-0.024999999999999994,0.1,0.125
+2025-04-24 10:37:56.665134,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.024999999999999994,0.1,0.125
 2025-04-24 02:14:03.609991,NFL Draft - Pick Markets - Draft Picks -  3rd Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.025300000000000003,0.1176,0.1429
 2025-04-24 03:48:06.869134,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,James Pearce Jr. (TEN),-0.026499999999999968,0.6226,0.6491
-2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Josh Simmons (OSU),-0.026499999999999996,0.0323,0.0588
 2025-04-24 03:14:52.808496,NFL Draft - Pick Markets - Draft Picks - 10th Overall Pick 2025 NFL Draft,Omarion Hampton (NC),-0.026499999999999996,0.0323,0.0588
+2025-04-24 09:33:38.394535,NFL Draft - Pick Markets - To Be Top X Pick - Top 10 Draft Pick,Josh Simmons (OSU),-0.026499999999999996,0.0323,0.0588
 2025-04-24 09:33:38.421434,NFL Draft - Pick Markets - Draft Picks -  6th Overall Pick 2025 NFL Draft,Jalon Walker (UGA),-0.026500000000000024,0.1818,0.2083
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Azareye'h Thomas (FSU),-0.0267,0.0909,0.1176
 2025-04-24 03:14:53.078018,NFL Draft - Position Markets - First Player of Position Group Drafted - First Wide Receiver Drafted (Travis Hunter excluded),Matthew Golden (TEX),-0.02679999999999999,0.2857,0.3125
@@ -303,8 +323,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 10:37:56.675706,NFL Draft - Team Markets - Team's First Pick - LA Chargers - Position of 1st Drafted Player in 2025 NFL Draft,Tight End,-0.02779999999999999,0.2222,0.25
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Elijah Arroyo (MIA),-0.028199999999999996,0.0385,0.0667
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Nick Emmanwori (SCAR),-0.02839999999999998,0.9091,0.9375
-2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.02840000000000001,0.0769,0.1053
 2025-04-24 02:14:03.627678,NFL Draft - Pick Markets - Draft Picks -  8th Overall Pick 2025 NFL Draft,Tetairoa McMillan (ARI),-0.02840000000000001,0.0769,0.1053
+2025-04-24 02:14:03.631195,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Shedeur Sanders (COL),-0.02840000000000001,0.0769,0.1053
 2025-04-24 08:40:15.571647,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.030299999999999994,0.3333,0.3636
 2025-04-24 08:40:17.087569,Tournament Match-Ups - Tournament Match-Ups - H. Higgs / J. Dahmen vs J. Lower / C. Ramey - Tournament Match-Ups,Harry Higgs / Joel Dahmen,-0.030399999999999983,0.5348,0.5652
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Omarion Hampton (NC),-0.03070000000000006,0.9167,0.9474
@@ -319,12 +339,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-24 10:37:56.612290,NFL Draft - Player Markets - Player Draft Position - Tetairoa McMillan Draft Position,Over 12.5,-0.0348,0.4,0.4348
 2025-04-24 10:37:56.640183,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.03480000000000005,0.5,0.5348
 2025-04-24 12:59:13.715132,Main Markets - 1st Round 2 Ball - Theegala / Rai v Bhatia / Car Young - Including Tie,Bhatia / Car Young,-0.03620000000000001,0.4082,0.4444
-2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.03689999999999999,0.2857,0.3226
 2025-04-24 06:43:57.364063,NFL Draft - Pick Markets - To Be Top X Pick - First Round Pick,Carson Schwesinger (UCLA),-0.03689999999999999,0.2857,0.3226
+2025-04-24 10:37:56.658061,NFL Draft - Team Markets - Team's First Pick - DET Lions - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.03689999999999999,0.2857,0.3226
 2025-04-24 11:28:34.131579,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2025 NFL Draft,Offensive Lineman,-0.03710000000000002,0.3077,0.3448
 2025-04-24 12:59:13.110442,NFL Draft - Team Markets - Team's First Pick - WAS Commanders - Position of 1st Drafted Player in 2025 NFL Draft,Defensive Lineman/Edge,-0.0378,0.3704,0.4082
 2025-04-24 09:33:38.432777,NFL Draft - Pick Markets - Draft Picks -  9th Overall Pick 2025 NFL Draft,Josh Conerly Jr. (ORE),-0.038299999999999994,0.0526,0.0909
 2025-04-24 02:14:02.870381,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Mönchengladbach,-0.0392,0.0196,0.0588
+2025-04-24 13:42:15.620072,NFL Draft - Position Markets - First Player of Position Group Drafted - First Quarterback Drafted (Excluding Cameron Ward),Shedeur Sanders (COL),-0.03920000000000001,0.6667,0.7059
 2025-04-24 09:33:39.701632,Hainan Classic - Hainan Classic - Winner,Eugenio Lopez-Chacarra,-0.0409,0.0179,0.0588
 2025-04-24 03:14:52.857261,NFL Draft - Player Markets - Player Draft Position - Ashton Jeanty Draft Position,Over 6.5,-0.04099999999999998,0.2222,0.2632
 2025-04-24 09:33:38.398183,NFL Draft - Pick Markets - To Be Top X Pick - Top 5 Draft Pick,Tetairoa McMillan (ARI),-0.04169999999999999,0.125,0.1667

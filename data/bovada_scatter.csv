@@ -8,6 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Sean Crocker,0.1294,0.1538,0.0244
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.12739999999999999,0.2941,0.1667
 2025-04-25 11:27:54.627702,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 68.5,0.11549999999999999,0.5917,0.4762
+2025-04-25 17:31:48.912083,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Luther Burden III (MIZZ),0.1071,0.25,0.1429
+2025-04-25 17:31:48.908580,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.10590000000000005,0.4,0.2941
 2025-04-25 07:29:58.107762,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.0948,0.8948,0.8
 2025-04-25 16:39:04.235237,MLB Series Prices - Series Prices April 25 to April 28 - 3 Game Series,Tampa Bay Rays,0.0796,0.4878,0.4082
 2025-04-25 14:34:35.112839,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mike Green (MARS),0.0726,0.1111,0.0385
@@ -19,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 14:34:35.125521,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Pittsburgh Steelers,0.0642,0.1818,0.1176
 2025-04-25 14:34:35.163596,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2025 NFL Draft,Running Back,0.06290000000000001,0.0952,0.0323
 2025-04-25 15:32:51.800462,BKFC 73: Camozzi v Bicchi - Sara Bitto vs Nicole Schaefer - To Win the Bout,Nicole Schaefer,0.06289999999999996,0.7403,0.6774
+2025-04-25 17:31:48.912083,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Mason Taylor (LSU),0.061500000000000006,0.1,0.0385
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Luther Burden III (MIZZ),0.061500000000000006,0.1,0.0385
 2025-04-25 12:57:28.261139,Main Markets - 2nd Round Foursomes - Hisatsune / Kanaya vs Skinns / Taylor - 2nd Round Foursomes,Hisatsune / Kanaya,0.05740000000000001,0.6491,0.5917
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,Anadolu Efes,0.05650000000000001,0.1,0.0435
@@ -31,37 +34,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",1+ shot on target each team in each half in each game,0.043200000000000016,0.3509,0.3077
 2025-04-25 12:57:28.277794,Main Markets - 2nd Round Foursomes - Salinda / Velo vs Canter / Smith - 2nd Round Foursomes,Canter / Smith,0.04259999999999997,0.6078,0.5652
 2025-04-25 14:34:35.125521,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Los Angeles Rams,0.04240000000000001,0.1333,0.0909
-2025-04-25 13:39:20.573354,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Aireontae Ersery (MINN),0.04229999999999999,0.0667,0.0244
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Elvis Smylie,0.04229999999999999,0.0667,0.0244
+2025-04-25 13:39:20.573354,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Aireontae Ersery (MINN),0.04229999999999999,0.0667,0.0244
+2025-04-25 17:31:48.908580,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Will Johnson (MICH),0.0417,0.125,0.0833
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Martin Couvra,0.0389,0.0667,0.0278
 2025-04-25 13:39:20.585443,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Las Vegas Raiders,0.03670000000000001,0.1905,0.1538
+2025-04-25 17:31:48.917233,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,San Francisco 49ers,0.036199999999999996,0.1538,0.1176
 2025-04-25 14:34:36.002608,Tournament Match-Ups - Tournament Match-Ups - B. DeChambeau vs T. Hatton - Tournament Match-Ups,Bryson DeChambeau,0.03610000000000002,0.5917,0.5556
 2025-04-25 12:57:28.273672,Main Markets - 2nd Round Foursomes - Roy / Cone vs Peterson / Rosenmueller - 2nd Round Foursomes,Roy / Cone,0.035999999999999976,0.5122,0.4762
 2025-04-25 16:39:03.050241,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.03480000000000005,0.5348,0.5
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Eugenio Lopez-Chacarra,0.0347,0.0526,0.0179
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Jack Senior,0.0335,0.0385,0.005
-2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Aireontae Ersery (MINN),0.03330000000000001,0.1,0.0667
 2025-04-25 12:57:27.486160,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Pittsburgh Steelers,0.03330000000000001,0.1,0.0667
+2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Aireontae Ersery (MINN),0.03330000000000001,0.1,0.0667
 2025-04-25 07:29:58.107762,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.0321,0.0909,0.0588
 2025-04-25 14:34:35.112839,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.031799999999999995,0.1429,0.1111
+2025-04-25 17:31:48.945059,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Under 45.5,0.030299999999999994,0.4651,0.4348
+2025-04-25 17:31:48.924089,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Las Vegas Raiders,0.030299999999999994,0.4651,0.4348
 2025-04-25 07:29:58.104893,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.029299999999999993,0.0769,0.0476
+2025-04-25 17:31:48.948421,NFL Draft - Player Markets - Player Draft Position - Will Johnson Draft Position,Under 38.5,0.027700000000000058,0.5833,0.5556
 2025-04-25 14:34:35.172259,NFL Draft Specials - Draft Specials - Shedeur Sanders Draft Specials,Shedeur Sanders NOT to be drafted in 2nd Round,0.025900000000000003,0.0476,0.0217
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.02560000000000001,0.3333,0.3077
 2025-04-25 16:39:03.870386,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: TreVeyon Henderson or Nic Scourton ?,TreVeyon Henderson (OSU),0.025599999999999956,0.6552,0.6296
+2025-04-25 17:31:48.908580,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Luther Burden III (MIZZ),0.024999999999999994,0.125,0.1
+2025-04-25 17:31:48.912083,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Aireontae Ersery (MINN),0.024999999999999994,0.125,0.1
 2025-04-25 12:57:28.230971,Main Markets - 2nd Round Foursomes - Vilips / Thorbjornsen vs Hojgaard / Hojgaard - 2nd Round Foursomes,R. Hojgaard / N. Hojgaard,0.024499999999999966,0.6078,0.5833
 2025-04-25 12:57:28.291528,Scores - 2nd Round Score - Collin Morikawa / Kurt Kitayama - 2nd Round Score,Under 69.5,0.024399999999999977,0.5122,0.4878
-2025-04-25 14:34:36.040521,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs T. McKibbin - Tournament Match-Ups,Tom McKibbin,0.023800000000000043,0.5238,0.5
 2025-04-25 12:57:28.157973,Main Markets - 2nd Round Foursomes - Higgo / Fox vs Taylor / Hadwin - 2nd Round Foursomes,N. Taylor / Hadwin,0.023800000000000043,0.5238,0.5
+2025-04-25 14:34:36.040521,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs T. McKibbin - Tournament Match-Ups,Tom McKibbin,0.023800000000000043,0.5238,0.5
 2025-04-25 07:29:59.494301,Main Markets - 2nd Round Foursomes - List / Norlander vs Schenk / Duncan - 2nd Round Foursomes,List / Norlander,0.023800000000000043,0.5238,0.5
-2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.023799999999999988,0.1667,0.1429
 2025-04-25 15:32:51.796440,BKFC 73: Camozzi v Bicchi - Rico Franco vs Jimmy Sweeney - To Win the Bout,Rico Franco,0.023799999999999988,0.5,0.4762
+2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.023799999999999988,0.1667,0.1429
+2025-04-25 17:31:48.940796,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: Trey Amos or Luther Burden III?,Luther Burden III (MIZZ),0.023799999999999932,0.6667,0.6429
 2025-04-25 08:38:43.569252,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,São Paulo,0.02310000000000001,0.1,0.0769
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,0.022199999999999998,0.2222,0.2
 2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",9+ match shots on target in each game,0.021999999999999964,0.3077,0.2857
 2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mason Taylor (LSU),0.021799999999999986,0.1818,0.16
+2025-04-25 07:29:59.482266,Main Markets - 2nd Round Foursomes - Tway / Cauley vs Ghim / C. Kim - 2nd Round Foursomes,Ghim / C. Kim,0.02169999999999994,0.5455,0.5238
 2025-04-25 10:36:57.926390,Round Match-Ups - 2nd Round Match-Ups - Canter / Smith vs Davis / Svensson - 2nd Round Match-Ups,Cam Davis / Adam Svensson,0.02169999999999994,0.5455,0.5238
 2025-04-25 14:34:36.027934,Tournament Match-Ups - Tournament Match-Ups - P. Mickelson vs T. Pieters - Tournament Match-Ups,Thomas Pieters,0.02169999999999994,0.5455,0.5238
-2025-04-25 07:29:59.482266,Main Markets - 2nd Round Foursomes - Tway / Cauley vs Ghim / C. Kim - 2nd Round Foursomes,Ghim / C. Kim,0.02169999999999994,0.5455,0.5238
 2025-04-25 16:39:03.890153,NFL Draft - Team Markets - 2nd Round Team Markets - Las Vegas Raiders to Draft both Shedeur Sanders and Shilo Sanders in 2025 NFL Draft?,Yes,0.0203,0.0526,0.0323
 2025-04-25 13:39:20.573354,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,TreVeyon Henderson (OSU),0.02020000000000001,0.1111,0.0909
 2025-04-25 06:43:19.142942,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,0.02020000000000001,0.1111,0.0909
@@ -69,10 +80,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 14:34:36.045178,Tournament Match-Ups - Tournament Match-Ups - T. Gooch vs C. Schwartzel - Tournament Match-Ups,Charl Schwartzel,0.01970000000000005,0.5652,0.5455
 2025-04-25 15:32:51.804529,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Walter Pugliesi,0.019600000000000006,0.3226,0.303
 2025-04-25 12:57:28.239578,Main Markets - 2nd Round Foursomes - McIIroy / Lowry vs Chappell / Hoge - 2nd Round Foursomes,Lowry / McIlroy,0.018999999999999906,0.7333,0.7143
-2025-04-25 08:38:43.569252,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Fortaleza,0.0189,0.0385,0.0196
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Bernd Wiesberger,0.0189,0.0385,0.0196
-2025-04-25 15:32:51.699270,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Viddal Riley,0.01880000000000004,0.6552,0.6364
+2025-04-25 08:38:43.569252,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Fortaleza,0.0189,0.0385,0.0196
 2025-04-25 14:34:36.036390,Tournament Match-Ups - Tournament Match-Ups - S. Garcia vs D. Burmester - Tournament Match-Ups,Sergio Garcia,0.01880000000000004,0.5744,0.5556
+2025-04-25 15:32:51.699270,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Viddal Riley,0.01880000000000004,0.6552,0.6364
 2025-04-25 13:39:20.576793,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,TreVeyon Henderson (OSU),0.018099999999999998,0.0526,0.0345
 2025-04-25 07:29:59.590448,Main Markets - 2nd Round Foursomes - McIIroy / Lowry vs Chappell / Hoge - 2nd Round Foursomes,Lowry / McIlroy,0.017300000000000093,0.7143,0.697
 2025-04-25 12:57:27.995618,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Cheavon Clarke,0.017299999999999982,0.4255,0.4082
@@ -82,12 +93,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",BTTS and 3+ corners each team in each game,0.015700000000000006,0.1333,0.1176
 2025-04-25 13:39:21.089535,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,0.015400000000000025,0.4,0.3846
 2025-04-25 08:38:43.569252,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Estudiantes de La Plata,0.015300000000000001,0.0476,0.0323
-2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",10+ match shots on target in each game,0.015100000000000002,0.1818,0.1667
 2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",Over 1.5 goals and 9+ corners in each game,0.015100000000000002,0.1818,0.1667
-2025-04-25 13:39:20.585443,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Seattle Seahawks,0.014899999999999997,0.0625,0.0476
+2025-04-25 15:32:50.540243,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",10+ match shots on target in each game,0.015100000000000002,0.1818,0.1667
 2025-04-25 15:32:51.195985,NFL Draft Specials - Draft Specials - Shedeur Sanders Draft Specials,Shedeur Sanders NOT to be drafted in 2nd Round,0.014899999999999997,0.0625,0.0476
-2025-04-25 15:32:51.164378,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: TreVeyon Henderson or Nic Scourton ?,TreVeyon Henderson (OSU),0.014200000000000101,0.6296,0.6154
+2025-04-25 13:39:20.585443,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Seattle Seahawks,0.014899999999999997,0.0625,0.0476
 2025-04-25 16:39:03.877810,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Over 45.5,0.014200000000000101,0.6296,0.6154
+2025-04-25 15:32:51.164378,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: TreVeyon Henderson or Nic Scourton ?,TreVeyon Henderson (OSU),0.014200000000000101,0.6296,0.6154
+2025-04-25 17:31:48.957668,NFL Draft - Team Markets - 2nd Round Team Markets - Las Vegas Raiders to Draft both Shedeur Sanders and Shilo Sanders in 2025 NFL Draft?,Yes,0.014099999999999994,0.0667,0.0526
 2025-04-25 13:39:20.573354,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Will Johnson (MICH),0.014099999999999994,0.0667,0.0526
 2025-04-25 06:43:19.299156,45th Federal Election - 45th Federal Election - Next Government of Canada,Conservative Majority,0.013999999999999999,0.0909,0.0769
 2025-04-25 15:32:51.167648,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: Trey Amos or Luther Burden III?,Luther Burden III (MIZZ),0.013299999999999979,0.6429,0.6296
@@ -103,18 +115,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Kiradech Aphibarnrat,0.011199999999999995,0.0588,0.0476
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Tyler Shough (LOU),0.011199999999999995,0.0588,0.0476
 2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Denver Broncos,0.011099999999999999,0.1111,0.1
-2025-04-25 15:32:51.813711,Main Markets - 2nd Round Foursomes - Hadley / Byrd vs Blair / Fishburn - 2nd Round Foursomes,Hadley / Byrd,0.01100000000000001,0.5348,0.5238
 2025-04-25 12:57:27.999812,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,0.01100000000000001,0.5348,0.5238
+2025-04-25 15:32:51.813711,Main Markets - 2nd Round Foursomes - Hadley / Byrd vs Blair / Fishburn - 2nd Round Foursomes,Hadley / Byrd,0.01100000000000001,0.5348,0.5238
 2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,New England Patriots,0.010899999999999993,0.1538,0.1429
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.010899999999999993,0.1538,0.1429
 2025-04-25 12:57:28.012593,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.010700000000000043,0.6774,0.6667
-2025-04-25 16:39:04.412156,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010699999999999932,0.5455,0.5348
 2025-04-25 07:29:59.360683,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010699999999999932,0.5455,0.5348
-2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Cleveland Browns,0.0102,0.0769,0.0667
+2025-04-25 16:39:04.412156,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010699999999999932,0.5455,0.5348
+2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Dallas Cowboys,0.0102,0.0769,0.0667
 2025-04-25 14:34:34.487621,"Daily Soccer Specials - European Soccer Specials - Friday, 25th April - European Soccer Specials - Friday, 25th April",1+ shot on target each team in each half and 1+ corners each team in each half of each game,0.0102,0.0769,0.0667
 2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Pittsburgh Steelers,0.0102,0.0769,0.0667
 2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,New York Giants,0.0102,0.0769,0.0667
-2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Dallas Cowboys,0.0102,0.0769,0.0667
+2025-04-25 14:34:35.121890,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Cam Skattebo,Cleveland Browns,0.0102,0.0769,0.0667
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Will Johnson (MICH),-0.010100000000000001,0.0244,0.0345
 2025-04-25 16:39:03.857284,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Pittsburgh Steelers,-0.0102,0.0667,0.0769
 2025-04-25 15:32:51.788356,BKFC 73: Camozzi v Bicchi - Jindrich Byrtus vs Arbi Chakaev - To Win the Bout,Jindrich Byrtus,-0.010599999999999998,0.4545,0.4651
@@ -132,19 +144,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 16:39:04.427963,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.011499999999999955,0.6552,0.6667
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Elijah Arroyo (MIA),-0.0115,0.0179,0.0294
 2025-04-25 15:32:51.813711,Main Markets - 2nd Round Foursomes - Hadley / Byrd vs Blair / Fishburn - 2nd Round Foursomes,Fishburn / Blair,-0.011600000000000055,0.5122,0.5238
-2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Marc Ouellet (Canada),-0.012700000000000003,0.0196,0.0323
 2025-04-25 14:34:35.125521,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Detroit Lions,-0.012700000000000003,0.0196,0.0323
 2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Christoph Schonborn (Austria),-0.012700000000000003,0.0196,0.0323
+2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Marc Ouellet (Canada),-0.012700000000000003,0.0196,0.0323
 2025-04-25 12:57:28.004062,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,-0.012700000000000045,0.6364,0.6491
 2025-04-25 16:39:03.845429,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Shedeur Sanders (COL),-0.0131,0.0345,0.0476
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Sebastian Soderberg,-0.014599999999999998,0.005,0.0196
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Shedeur Sanders (COL),-0.014899999999999997,0.0476,0.0625
-2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Agostino Vallini (Italy),-0.014900000000000004,0.0196,0.0345
-2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),-0.014900000000000004,0.0196,0.0345
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,Paris,-0.014900000000000004,0.0196,0.0345
-2025-04-25 16:39:03.853904,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Pittsburgh Steelers,-0.015100000000000002,0.1667,0.1818
-2025-04-25 07:29:58.099101,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.015100000000000002,0.1667,0.1818
+2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Archbishop Angelo Scola (Italy),-0.014900000000000004,0.0196,0.0345
+2025-04-25 13:39:20.136420,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Agostino Vallini (Italy),-0.014900000000000004,0.0196,0.0345
 2025-04-25 16:39:03.853904,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Las Vegas Raiders,-0.015100000000000002,0.1667,0.1818
+2025-04-25 07:29:58.099101,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.015100000000000002,0.1667,0.1818
+2025-04-25 16:39:03.853904,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,Pittsburgh Steelers,-0.015100000000000002,0.1667,0.1818
 2025-04-25 16:39:03.857284,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Seattle Seahawks,-0.015300000000000001,0.0323,0.0476
 2025-04-25 14:34:35.112839,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Shedeur Sanders (COL),-0.01539999999999997,0.6,0.6154
 2025-04-25 14:34:35.129108,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Cleveland Browns,-0.01539999999999997,0.6,0.6154
@@ -152,6 +164,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 06:43:19.299156,45th Federal Election - 45th Federal Election - Next Government of Canada,Liberal Minority,-0.015699999999999992,0.1905,0.2062
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Jaylin Noel (ISU),-0.0157,0.0278,0.0435
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Johannes Veerman,-0.0165,0.0079,0.0244
+2025-04-25 17:31:48.940796,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: Trey Amos or Luther Burden III?,Trey Amos (MISS),-0.016699999999999993,0.4,0.4167
 2025-04-25 15:32:51.699270,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Cheavon Clarke,-0.017299999999999982,0.4082,0.4255
 2025-04-25 07:29:59.590448,Main Markets - 2nd Round Foursomes - McIIroy / Lowry vs Chappell / Hoge - 2nd Round Foursomes,Hoge / Chappell,-0.017600000000000005,0.3333,0.3509
 2025-04-25 06:43:19.142942,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.0179,0.125,0.1429
@@ -164,8 +177,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 12:57:27.995618,Boxing Lines - Viddal Riley vs Cheavon Clarke - To Win the Bout,Viddal Riley,-0.01880000000000004,0.6364,0.6552
 2025-04-25 12:57:28.291528,Scores - 2nd Round Score - Collin Morikawa / Kurt Kitayama - 2nd Round Score,Over 69.5,-0.01880000000000004,0.5556,0.5744
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Wyatt Milum (WVU),-0.0189,0.0196,0.0385
-2025-04-25 12:57:28.230971,Main Markets - 2nd Round Foursomes - Vilips / Thorbjornsen vs Hojgaard / Hojgaard - 2nd Round Foursomes,Thorbjornsen / Vilips,-0.019699999999999995,0.4348,0.4545
 2025-04-25 16:39:03.877810,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Under 45.5,-0.019699999999999995,0.4348,0.4545
+2025-04-25 12:57:28.230971,Main Markets - 2nd Round Foursomes - Vilips / Thorbjornsen vs Hojgaard / Hojgaard - 2nd Round Foursomes,Thorbjornsen / Vilips,-0.019699999999999995,0.4348,0.4545
 2025-04-25 15:32:51.164378,NFL Draft - Player Markets - 2nd Round Player Markets - Who Will be Drafted First: TreVeyon Henderson or Nic Scourton ?,Nic Scourton (TAM),-0.019699999999999995,0.4348,0.4545
 2025-04-25 14:34:36.040521,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs T. McKibbin - Tournament Match-Ups,Sebastian Munoz,-0.01970000000000005,0.5455,0.5652
 2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Donovan Ezeiruaku (BC),-0.0203,0.0385,0.0588
@@ -173,11 +186,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 12:57:28.157973,Main Markets - 2nd Round Foursomes - Higgo / Fox vs Taylor / Hadwin - 2nd Round Foursomes,Fox / Higgo,-0.02169999999999994,0.5238,0.5455
 2025-04-25 07:29:59.494301,Main Markets - 2nd Round Foursomes - List / Norlander vs Schenk / Duncan - 2nd Round Foursomes,Schenk / Duncan,-0.02169999999999994,0.5238,0.5455
 2025-04-25 14:34:36.027934,Tournament Match-Ups - Tournament Match-Ups - P. Mickelson vs T. Pieters - Tournament Match-Ups,Phil Mickelson,-0.02169999999999994,0.5238,0.5455
+2025-04-25 17:31:48.945059,NFL Draft - Player Markets - Player Draft Position - Jalen Milroe Draft Position,Over 45.5,-0.02180000000000004,0.6078,0.6296
 2025-04-25 16:39:03.857284,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Los Angeles Rams,-0.02310000000000001,0.0769,0.1
 2025-04-25 14:34:35.129108,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Pittsburgh Steelers,-0.02310000000000001,0.0769,0.1
 2025-04-25 10:36:57.926390,Round Match-Ups - 2nd Round Match-Ups - Canter / Smith vs Davis / Svensson - 2nd Round Match-Ups,Laurie Canter / Jordan Smith,-0.023800000000000043,0.5,0.5238
-2025-04-25 07:29:59.482266,Main Markets - 2nd Round Foursomes - Tway / Cauley vs Ghim / C. Kim - 2nd Round Foursomes,Cauley / Tway,-0.023800000000000043,0.5,0.5238
 2025-04-25 14:34:36.045178,Tournament Match-Ups - Tournament Match-Ups - T. Gooch vs C. Schwartzel - Tournament Match-Ups,Talor Gooch,-0.023800000000000043,0.5,0.5238
+2025-04-25 07:29:59.482266,Main Markets - 2nd Round Foursomes - Tway / Cauley vs Ghim / C. Kim - 2nd Round Foursomes,Cauley / Tway,-0.023800000000000043,0.5,0.5238
 2025-04-25 14:34:36.036390,Tournament Match-Ups - Tournament Match-Ups - S. Garcia vs D. Burmester - Tournament Match-Ups,Dean Burmester,-0.024399999999999977,0.4878,0.5122
 2025-04-25 15:32:51.804529,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Dominik Herold,-0.02440000000000009,0.7403,0.7647
 2025-04-25 16:39:03.857284,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Cleveland Browns,-0.025599999999999956,0.5744,0.6
@@ -192,14 +206,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Aireontae Ersery (MINN),-0.0286,0.0714,0.1
 2025-04-25 12:57:28.273672,Main Markets - 2nd Round Foursomes - Roy / Cone vs Peterson / Rosenmueller - 2nd Round Foursomes,Peterson / Rosenmueller,-0.030399999999999983,0.5348,0.5652
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Julien Guerrier,-0.031700000000000006,0.0028,0.0345
+2025-04-25 17:31:48.948421,NFL Draft - Player Markets - Player Draft Position - Will Johnson Draft Position,Over 38.5,-0.03480000000000005,0.5,0.5348
 2025-04-25 16:39:03.853904,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Jalen Milroe,New Orleans Saints,-0.0353,0.2,0.2353
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Mason Taylor (LSU),-0.035699999999999996,0.0476,0.0833
 2025-04-25 14:34:36.002608,Tournament Match-Ups - Tournament Match-Ups - B. DeChambeau vs T. Hatton - Tournament Match-Ups,Tyrrell Hatton,-0.035999999999999976,0.4762,0.5122
+2025-04-25 17:31:48.924089,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,Cleveland Browns,-0.03959999999999997,0.5348,0.5744
 2025-04-25 13:39:20.573354,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mason Taylor (LSU),-0.04000000000000001,0.16,0.2
 2025-04-25 12:57:28.277794,Main Markets - 2nd Round Foursomes - Salinda / Velo vs Canter / Smith - 2nd Round Foursomes,Salinda / Velo,-0.04139999999999999,0.4348,0.4762
 2025-04-25 06:43:19.142942,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.04229999999999999,0.0244,0.0667
 2025-04-25 16:39:03.857284,NFL Draft - Player Markets - 2nd Round Player Markets - 2025 NFL Draft - Team To Draft Shedeur Sanders,New Orleans Saints,-0.04269999999999999,0.1111,0.1538
 2025-04-25 15:32:51.136005,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Shedeur Sanders (COL),-0.044399999999999995,0.5556,0.6
+2025-04-25 17:31:48.908580,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mason Taylor (LSU),-0.04440000000000001,0.0667,0.1111
 2025-04-25 08:38:43.569252,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Botafogo,-0.0448,0.0385,0.0833
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Calum Hill,-0.0456,0.002,0.0476
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mike Green (MARS),-0.048600000000000004,0.0625,0.1111
@@ -209,15 +226,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-25 16:39:03.845429,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Tate Ratledge (UGA),-0.05550000000000002,0.1667,0.2222
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Jared Wilson (UGA),-0.058899999999999994,0.0244,0.0833
 2025-04-25 15:32:51.800462,BKFC 73: Camozzi v Bicchi - Sara Bitto vs Nicole Schaefer - To Win the Bout,Sara Bitto,-0.062,0.3226,0.3846
-2025-04-25 12:57:28.261139,Main Markets - 2nd Round Foursomes - Hisatsune / Kanaya vs Skinns / Taylor - 2nd Round Foursomes,Taylor / Skinns,-0.06230000000000002,0.3922,0.4545
 2025-04-25 11:27:54.640305,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,-0.06230000000000002,0.5455,0.6078
+2025-04-25 12:57:28.261139,Main Markets - 2nd Round Foursomes - Hisatsune / Kanaya vs Skinns / Taylor - 2nd Round Foursomes,Taylor / Skinns,-0.06230000000000002,0.3922,0.4545
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Charles Grant,-0.06309999999999999,0.0278,0.0909
+2025-04-25 17:31:48.912083,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Tate Ratledge (UGA),-0.06669999999999998,0.1,0.1667
 2025-04-25 15:32:51.772154,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Enzo Tobbia,-0.06670000000000004,0.3333,0.4
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Mason Taylor (LSU),-0.07069999999999999,0.1111,0.1818
 2025-04-25 15:32:51.139457,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Jonah Savaiinaea (ARI),-0.07590000000000001,0.0294,0.1053
+2025-04-25 17:31:49.302581,MLB Series Prices - Series Prices April 25 to April 28 - 3 Game Series,Tampa Bay Rays,-0.0796,0.4082,0.4878
 2025-04-25 15:32:51.516943,MLB Series Prices - Series Prices April 25 to April 28 - 3 Game Series,Tampa Bay Rays,-0.0796,0.4082,0.4878
 2025-04-25 14:34:35.886023,Hainan Classic - Hainan Classic - Winner,Rasmus Neergaard-Petersen,-0.0871,0.0667,0.1538
+2025-04-25 17:31:48.908580,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Shedeur Sanders (COL),-0.08730000000000004,0.3571,0.4444
 2025-04-25 16:39:03.845429,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Aireontae Ersery (MINN),-0.0905,0.1,0.1905
+2025-04-25 17:31:48.912083,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 34 Overall Pick,Jayden Higgins (ISU),-0.0948,0.6552,0.75
 2025-04-25 10:36:56.788462,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.09799999999999998,0.2353,0.3333
 2025-04-25 16:39:03.841962,NFL Draft - Pick Markets - 2nd Round Picks - 2025 NFL Draft - Number 33 Overall Pick,Shedeur Sanders (COL),-0.11119999999999997,0.4444,0.5556
 2025-04-25 11:27:54.627702,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 68.5,-0.11549999999999999,0.4762,0.5917

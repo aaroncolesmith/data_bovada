@@ -21,8 +21,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 10:34:35.747652,Main Markets - 3rd Round 2-Balls - Lipsky / Wu vs N. Taylor / Hadwin - 3rd Round 2-Balls,N. Taylor / Hadwin,0.032099999999999906,0.6154,0.5833
 2025-04-26 09:29:53.565627,BKFC 73: Camozzi v Bicchi - Giovanni Carpentieri vs Josef Hala - To Win the Bout,Giovanni Carpentieri,0.029600000000000015,0.4,0.3704
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Lourenco Alan Patrick,0.02779999999999999,0.25,0.2222
+2025-04-26 15:30:19.716214,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.027700000000000002,0.4444,0.4167
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Hernan Barcos,0.0267,0.1176,0.0909
 2025-04-26 03:45:54.973791,BKFC 73: Camozzi v Bicchi - Rico Franco vs Jimmy Sweeney - To Win the Bout,Jimmy Sweeney,0.026499999999999968,0.5917,0.5652
+2025-04-26 15:30:19.796214,BKFC 73: Camozzi v Bicchi - Jesus De Nazaret vs Tomas Melis - To Win the Bout,Tomas Melis,0.025999999999999912,0.7403,0.7143
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Eugenio Lopez-Chacarra,0.024299999999999995,0.0769,0.0526
 2025-04-26 07:27:55.727804,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,0.023800000000000043,0.5238,0.5
 2025-04-26 06:38:24.701508,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.023799999999999932,0.8571,0.8333
@@ -31,14 +33,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 09:29:52.436774,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,0.022199999999999998,0.2222,0.2
 2025-04-26 05:33:08.409238,Championship - England Championship 2024/25 - Winner,Burnley,0.021999999999999964,0.3077,0.2857
 2025-04-26 12:52:34.606015,Main Markets - 3rd Round 2-Balls - Tway / Cauley vs Echavarria / Greyserman - 3rd Round 2-Balls,Cauley / Tway,0.021699999999999997,0.4762,0.4545
-2025-04-26 12:52:34.703495,Scores - 3rd Round Score - Ben Griffin / Andrew Novak - 3rd Round Score ,Under 64.5,0.02169999999999994,0.5455,0.5238
-2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,List / Norlander,0.02169999999999994,0.5455,0.5238
 2025-04-26 12:52:34.789521,Round Match-Ups - 2nd Round Match Up - J. Niemann v T. Hatton - 2nd Round Match Up ,Joaquin Niemann,0.02169999999999994,0.5455,0.5238
+2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,List / Norlander,0.02169999999999994,0.5455,0.5238
 2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
+2025-04-26 12:52:34.703495,Scores - 3rd Round Score - Ben Griffin / Andrew Novak - 3rd Round Score ,Under 64.5,0.02169999999999994,0.5455,0.5238
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Luciano Pons,0.0206,0.0385,0.0179
 2025-04-26 05:33:09.638197,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Enzo Tobbia,0.019600000000000006,0.3226,0.303
-2025-04-26 07:27:55.825590,BKFC 73: Camozzi v Bicchi - Marco Giustarini vs Zdravko Dimitrov - To Win the Bout,Zdravko Dimitrov,0.01880000000000004,0.5744,0.5556
 2025-04-26 04:36:24.937140,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,0.01880000000000004,0.6552,0.6364
+2025-04-26 07:27:55.825590,BKFC 73: Camozzi v Bicchi - Marco Giustarini vs Zdravko Dimitrov - To Win the Bout,Zdravko Dimitrov,0.01880000000000004,0.5744,0.5556
 2025-04-26 14:31:31.582995,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 66.5,0.01880000000000004,0.5744,0.5556
 2025-04-26 06:38:25.958947,BKFC 73: Camozzi v Bicchi - Jesus De Nazaret vs Tomas Melis - To Win the Bout,Tomas Melis,0.018399999999999972,0.7059,0.6875
 2025-04-26 03:45:54.189114,45th Federal Election - 45th Federal Election - Next Government of Canada,Liberal Minority,0.01820000000000002,0.2,0.1818
@@ -50,13 +52,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 03:45:54.189114,45th Federal Election - 45th Federal Election - Next Government of Canada,Conservative Majority,0.016700000000000007,0.1,0.0833
 2025-04-26 07:27:55.731828,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Liam Smith,0.016699999999999993,0.4167,0.4
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Fabio Gomes,0.0165,0.0244,0.0079
+2025-04-26 15:30:18.886674,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.01579999999999998,0.3333,0.3175
 2025-04-26 12:52:34.540429,BKFC 73: Camozzi v Bicchi - Chris Camozzi vs Andrea Bicchi - To Win the Bout,Chris Camozzi,0.015699999999999936,0.8824,0.8667
 2025-04-26 05:33:08.855740,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),0.015400000000000025,0.2857,0.2703
+2025-04-26 15:30:18.896368,NBA Championship - NBA Championship 2024-25 - NBA Champion,L.A. Clippers,0.015300000000000001,0.0588,0.0435
 2025-04-26 06:38:25.963046,BKFC 73: Camozzi v Bicchi - Jindrich Byrtus vs Arbi Chakaev - To Win the Bout,Jindrich Byrtus,0.01419999999999999,0.3846,0.3704
 2025-04-26 05:33:08.862563,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Kawhi Leonard (LAC),0.013999999999999999,0.0909,0.0769
 2025-04-26 04:36:23.886583,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Corinthians SP,0.013899999999999996,0.125,0.1111
 2025-04-26 05:33:08.859179,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Luka Doncic (LAL),0.012499999999999997,0.0625,0.05
-2025-04-26 03:08:56.272919,BKFC 73: Camozzi v Bicchi - Marco Giustarini vs Zdravko Dimitrov - To Win the Bout,Marco Giustarini,0.012199999999999989,0.5122,0.5
 2025-04-26 05:33:08.855740,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),0.0118,0.0217,0.0099
 2025-04-26 10:34:35.681390,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Walter Pugliesi,0.011699999999999988,0.2857,0.274
 2025-04-26 14:31:31.350914,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Enzo Tobbia,0.01150000000000001,0.3448,0.3333
@@ -69,12 +72,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Elvis Smylie,0.0102,0.0769,0.0667
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Martin Couvra,0.0102,0.0769,0.0667
 2025-04-26 04:36:24.159569,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.0102,0.0769,0.0667
-2025-04-26 09:29:53.485374,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010099999999999998,0.5556,0.5455
 2025-04-26 12:52:34.568789,BKFC 73: Camozzi v Bicchi - Navid Mansouri vs Ruslan Tokhtarov - To Win the Bout,Navid Mansouri,0.010099999999999998,0.5556,0.5455
+2025-04-26 09:29:53.485374,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010099999999999998,0.5556,0.5455
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Janner Corozo,-0.010100000000000001,0.0244,0.0345
 2025-04-26 04:36:23.886583,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,-0.0102,0.0667,0.0769
-2025-04-26 06:38:25.904656,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.010899999999999993,0.1429,0.1538
 2025-04-26 06:38:24.698622,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.010899999999999993,0.1429,0.1538
+2025-04-26 06:38:25.904656,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.010899999999999993,0.1429,0.1538
 2025-04-26 14:31:31.350914,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Michael Igwegbe,-0.011099999999999999,0.7222,0.7333
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Braian Romero,-0.011199999999999995,0.0476,0.0588
 2025-04-26 12:52:34.568789,BKFC 73: Camozzi v Bicchi - Navid Mansouri vs Ruslan Tokhtarov - To Win the Bout,Ruslan Tokhtarov,-0.011600000000000055,0.5122,0.5238
@@ -82,11 +85,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 06:38:25.867874,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.012199999999999989,0.5,0.5122
 2025-04-26 14:31:31.389245,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Dominik Herold,-0.0131,0.7647,0.7778
 2025-04-26 06:38:24.701508,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.013799999999999923,0.6226,0.6364
-2025-04-26 05:33:08.862563,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.014099999999999998,0.0244,0.0385
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Ademir,-0.014099999999999998,0.0294,0.0435
+2025-04-26 05:33:08.862563,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.014099999999999998,0.0244,0.0385
 2025-04-26 06:38:25.963046,BKFC 73: Camozzi v Bicchi - Jindrich Byrtus vs Arbi Chakaev - To Win the Bout,Arbi Chakaev,-0.014900000000000024,0.6774,0.6923
-2025-04-26 06:38:25.814890,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),-0.015100000000000002,0.1667,0.1818
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Grant Forrest,-0.015100000000000002,0.0013,0.0164
+2025-04-26 06:38:25.814890,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),-0.015100000000000002,0.1667,0.1818
+2025-04-26 15:30:18.896368,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.015400000000000025,0.3846,0.4
 2025-04-26 05:33:09.634210,BKFC 73: Camozzi v Bicchi - Chris Camozzi vs Andrea Bicchi - To Win the Bout,Chris Camozzi,-0.015699999999999936,0.8667,0.8824
 2025-04-26 10:34:35.681390,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Dominik Herold,-0.015899999999999914,0.7778,0.7937
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Adrian Otaegui,-0.0168,0.0028,0.0196
@@ -98,30 +102,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.540429,BKFC 73: Camozzi v Bicchi - Chris Camozzi vs Andrea Bicchi - To Win the Bout,Andrea Bicchi,-0.01820000000000002,0.1818,0.2
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Richie Ramsay,-0.0186,0.001,0.0196
 2025-04-26 04:36:23.886583,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,-0.019099999999999992,0.0476,0.0667
-2025-04-26 10:34:34.340009,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.019099999999999992,0.0476,0.0667
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Rasmus Neergaard-Petersen,-0.019099999999999992,0.0476,0.0667
+2025-04-26 10:34:34.340009,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.019099999999999992,0.0476,0.0667
 2025-04-26 08:34:59.742997,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.019499999999999962,0.6296,0.6491
 2025-04-26 07:27:55.727804,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.01970000000000005,0.5455,0.5652
 2025-04-26 06:38:25.958947,BKFC 73: Camozzi v Bicchi - Jesus De Nazaret vs Tomas Melis - To Win the Bout,Jesus De Nazaret,-0.02030000000000004,0.3571,0.3774
 2025-04-26 12:52:34.467529,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.02079999999999993,0.5348,0.5556
-2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 66.5,-0.02169999999999994,0.5238,0.5455
 2025-04-26 12:52:34.703495,Scores - 3rd Round Score - Ben Griffin / Andrew Novak - 3rd Round Score ,Over 64.5,-0.02169999999999994,0.5238,0.5455
+2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 66.5,-0.02169999999999994,0.5238,0.5455
+2025-04-26 15:30:18.886674,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Luis Tagle (Philippines),-0.021999999999999964,0.2857,0.3077
 2025-04-26 06:38:24.698622,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.022199999999999998,0.2,0.2222
 2025-04-26 09:29:52.446120,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.022199999999999998,0.2,0.2222
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Wenyi Ding,-0.022400000000000003,0.0099,0.0323
 2025-04-26 05:33:08.450103,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Kevin Quevedo,-0.0232,0.0435,0.0667
-2025-04-26 09:29:52.411828,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.023799999999999988,0.4762,0.5
 2025-04-26 03:45:54.973791,BKFC 73: Camozzi v Bicchi - Rico Franco vs Jimmy Sweeney - To Win the Bout,Rico Franco,-0.023799999999999988,0.4762,0.5
+2025-04-26 09:29:52.411828,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.023799999999999988,0.4762,0.5
 2025-04-26 12:52:34.789521,Round Match-Ups - 2nd Round Match Up - J. Niemann v T. Hatton - 2nd Round Match Up ,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
-2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,Ventura / Rozner,-0.023800000000000043,0.5,0.5238
 2025-04-26 10:34:34.340009,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.023800000000000043,0.5,0.5238
+2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,Ventura / Rozner,-0.023800000000000043,0.5,0.5238
 2025-04-26 14:31:31.582995,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 66.5,-0.024399999999999977,0.4878,0.5122
 2025-04-26 07:27:55.825590,BKFC 73: Camozzi v Bicchi - Marco Giustarini vs Zdravko Dimitrov - To Win the Bout,Marco Giustarini,-0.024399999999999977,0.4878,0.5122
 2025-04-26 05:33:09.638197,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Michael Igwegbe,-0.02440000000000009,0.7403,0.7647
+2025-04-26 15:30:18.886674,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pierbattista Pizzaballa (Italy),-0.024999999999999994,0.1,0.125
+2025-04-26 15:30:18.896368,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.02560000000000001,0.3077,0.3333
 2025-04-26 06:38:24.698622,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.02560000000000001,0.3077,0.3333
 2025-04-26 09:29:53.565627,BKFC 73: Camozzi v Bicchi - Giovanni Carpentieri vs Josef Hala - To Win the Bout,Josef Hala,-0.025600000000000067,0.6667,0.6923
 2025-04-26 12:52:34.552563,BKFC 73: Camozzi v Bicchi - Haze Hepi vs Steven Banks - To Win the Bout,Haze Hepi,-0.0260999999999999,0.7778,0.8039
+2025-04-26 15:30:19.716214,Boxing Lines - Liam Smith vs Aaron McKenna - To Win the Bout,Aaron McKenna,-0.026499999999999968,0.6226,0.6491
 2025-04-26 05:33:08.409238,Championship - England Championship 2024/25 - Winner,Leeds United,-0.027800000000000047,0.75,0.7778
+2025-04-26 15:30:19.796214,BKFC 73: Camozzi v Bicchi - Jesus De Nazaret vs Tomas Melis - To Win the Bout,Jesus De Nazaret,-0.028299999999999992,0.3226,0.3509
 2025-04-26 10:34:35.747652,Main Markets - 3rd Round 2-Balls - Lipsky / Wu vs N. Taylor / Hadwin - 3rd Round 2-Balls,Lipsky / D. Wu,-0.029000000000000026,0.4255,0.4545
 2025-04-26 10:34:34.346987,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,-0.030299999999999994,0.3333,0.3636
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Bernd Wiesberger,-0.0306,0.0079,0.0385

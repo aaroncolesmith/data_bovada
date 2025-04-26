@@ -11,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Sam Bairstow,0.052300000000000006,0.1111,0.0588
 2025-04-26 19:26:42.483118,Boxing Lines - Anthony Yarde vs Lyndon Arthur - To Win the Bout,Anthony Yarde,0.050900000000000056,0.9333,0.8824
 2025-04-26 16:35:58.896352,BKFC 73: Camozzi v Bicchi - Rico Franco vs Jimmy Sweeney - To Win the Bout,Rico Franco,0.045499999999999985,0.5,0.4545
-2025-04-26 08:34:59.850545,Main Markets - 3rd Round 2-Balls - Snedeker / Reavie vs Dickson / Crowe - 3rd Round 2-Balls,Dickson / Crowe,0.04139999999999999,0.5652,0.5238
 2025-04-26 09:29:53.569667,BKFC 73: Camozzi v Bicchi - Haze Hepi vs Steven Banks - To Win the Bout,Steven Banks,0.04099999999999998,0.2632,0.2222
 2025-04-26 16:35:58.880463,BKFC 73: Camozzi v Bicchi - Jesus De Nazaret vs Tomas Melis - To Win the Bout,Tomas Melis,0.03750000000000009,0.7778,0.7403
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Kristoffer Reitan,0.0352,0.0385,0.0033
@@ -29,18 +28,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.552563,BKFC 73: Camozzi v Bicchi - Haze Hepi vs Steven Banks - To Win the Bout,Steven Banks,0.02250000000000002,0.2857,0.2632
 2025-04-26 09:29:52.436774,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,0.022199999999999998,0.2222,0.2
 2025-04-26 12:52:34.606015,Main Markets - 3rd Round 2-Balls - Tway / Cauley vs Echavarria / Greyserman - 3rd Round 2-Balls,Cauley / Tway,0.021699999999999997,0.4762,0.4545
-2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,List / Norlander,0.02169999999999994,0.5455,0.5238
+2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
 2025-04-26 12:52:34.789521,Round Match-Ups - 2nd Round Match Up - J. Niemann v T. Hatton - 2nd Round Match Up ,Joaquin Niemann,0.02169999999999994,0.5455,0.5238
 2025-04-26 12:52:34.703495,Scores - 3rd Round Score - Ben Griffin / Andrew Novak - 3rd Round Score ,Under 64.5,0.02169999999999994,0.5455,0.5238
-2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
 2025-04-26 20:31:01.497451,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.02030000000000004,0.3774,0.3571
 2025-04-26 16:35:59.001377,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,0.01970000000000005,0.5652,0.5455
 2025-04-26 17:29:41.020255,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.019499999999999962,0.6491,0.6296
 2025-04-26 14:31:31.582995,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 66.5,0.01880000000000004,0.5744,0.5556
-2025-04-26 08:34:59.742997,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,0.018100000000000005,0.4348,0.4167
 2025-04-26 10:34:34.346987,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Strasbourg,0.018099999999999998,0.0769,0.0588
 2025-04-26 16:35:58.696165,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.0179,0.1429,0.125
-2025-04-26 08:34:59.684888,ROY - NL ROY 2025 - National League Rookie of the Year,Dylan Crews (WAS),0.0174,0.25,0.2326
 2025-04-26 14:31:31.389245,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Walter Pugliesi,0.017299999999999982,0.303,0.2857
 2025-04-26 19:26:41.714837,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,0.016699999999999993,0.2667,0.25
 2025-04-26 15:30:18.886674,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pietro Parolin (Italy),0.01579999999999998,0.3333,0.3175
@@ -52,15 +48,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 14:31:31.350914,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Enzo Tobbia,0.01150000000000001,0.3448,0.3333
 2025-04-26 18:36:52.674249,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,0.011099999999999999,0.1111,0.1
 2025-04-26 12:52:34.544453,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Enzo Tobbia,0.010699999999999987,0.3333,0.3226
-2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Elvis Smylie,0.0102,0.0769,0.0667
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Martin Couvra,0.0102,0.0769,0.0667
-2025-04-26 12:52:34.568789,BKFC 73: Camozzi v Bicchi - Navid Mansouri vs Ruslan Tokhtarov - To Win the Bout,Navid Mansouri,0.010099999999999998,0.5556,0.5455
+2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Elvis Smylie,0.0102,0.0769,0.0667
 2025-04-26 09:29:53.485374,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,0.010099999999999998,0.5556,0.5455
+2025-04-26 12:52:34.568789,BKFC 73: Camozzi v Bicchi - Navid Mansouri vs Ruslan Tokhtarov - To Win the Bout,Navid Mansouri,0.010099999999999998,0.5556,0.5455
 2025-04-26 16:35:58.820409,Boxing Lines - Ryan Garcia vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010899999999999993,0.1429,0.1538
 2025-04-26 14:31:31.350914,BKFC 73: Camozzi v Bicchi - Enzo Tobbia vs Michael Igwegbe - To Win the Bout,Michael Igwegbe,-0.011099999999999999,0.7222,0.7333
 2025-04-26 18:36:52.637257,ROY - AL ROY 2025 - American League Rookie of the Year,Nick Kurtz (ATH),-0.011099999999999999,0.1,0.1111
-2025-04-26 09:29:53.485374,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.011600000000000055,0.5122,0.5238
 2025-04-26 12:52:34.568789,BKFC 73: Camozzi v Bicchi - Navid Mansouri vs Ruslan Tokhtarov - To Win the Bout,Ruslan Tokhtarov,-0.011600000000000055,0.5122,0.5238
+2025-04-26 09:29:53.485374,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Chris Billam-Smith,-0.011600000000000055,0.5122,0.5238
 2025-04-26 14:31:31.389245,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Dominik Herold,-0.0131,0.7647,0.7778
 2025-04-26 16:35:58.696165,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Atlanta Braves,-0.013899999999999996,0.1111,0.125
 2025-04-26 18:36:52.637257,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),-0.013999999999999999,0.0769,0.0909
@@ -72,14 +68,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Adrian Otaegui,-0.0168,0.0028,0.0196
 2025-04-26 16:35:58.904261,BKFC 73: Camozzi v Bicchi - Walter Pugliesi vs Dominik Herold - To Win the Bout,Walter Pugliesi,-0.017299999999999982,0.2857,0.303
 2025-04-26 09:29:52.436774,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Everton Viña del Mar,-0.017800000000000003,0.0066,0.0244
-2025-04-26 17:29:41.020255,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.018100000000000005,0.4167,0.4348
 2025-04-26 12:52:34.606015,Main Markets - 3rd Round 2-Balls - Tway / Cauley vs Echavarria / Greyserman - 3rd Round 2-Balls,Greyserman / Echavarria,-0.018100000000000005,0.5652,0.5833
+2025-04-26 17:29:41.020255,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.018100000000000005,0.4167,0.4348
 2025-04-26 12:52:34.540429,BKFC 73: Camozzi v Bicchi - Chris Camozzi vs Andrea Bicchi - To Win the Bout,Andrea Bicchi,-0.01820000000000002,0.1818,0.2
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Richie Ramsay,-0.0186,0.001,0.0196
 2025-04-26 16:35:58.918408,Hainan Classic - Hainan Classic - Winner,Marco Penge,-0.019000000000000017,0.2667,0.2857
-2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Rasmus Neergaard-Petersen,-0.019099999999999992,0.0476,0.0667
 2025-04-26 10:34:34.340009,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.019099999999999992,0.0476,0.0667
-2025-04-26 08:34:59.742997,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,-0.019499999999999962,0.6296,0.6491
+2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Rasmus Neergaard-Petersen,-0.019099999999999992,0.0476,0.0667
 2025-04-26 18:36:52.637257,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),-0.019600000000000006,0.303,0.3226
 2025-04-26 12:52:34.467529,Boxing Lines - Chris Billam-Smith vs Brandon Glanton - To Win the Bout,Brandon Glanton,-0.02079999999999993,0.5348,0.5556
 2025-04-26 14:31:31.573919,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 66.5,-0.02169999999999994,0.5238,0.5455
@@ -89,10 +84,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Wenyi Ding,-0.022400000000000003,0.0099,0.0323
 2025-04-26 16:35:59.009969,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 66.5,-0.022699999999999998,0.4651,0.4878
 2025-04-26 09:29:52.411828,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.023799999999999988,0.4762,0.5
-2025-04-26 12:52:34.789521,Round Match-Ups - 2nd Round Match Up - J. Niemann v T. Hatton - 2nd Round Match Up ,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
 2025-04-26 10:34:34.340009,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.023800000000000043,0.5,0.5238
-2025-04-26 08:34:59.891211,Main Markets - 3rd Round 2-Balls - Ventura / Rozner vs List / Norlander - 3rd Round 2-Balls,Ventura / Rozner,-0.023800000000000043,0.5,0.5238
 2025-04-26 16:35:59.001377,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 66.5,-0.023800000000000043,0.5,0.5238
+2025-04-26 12:52:34.789521,Round Match-Ups - 2nd Round Match Up - J. Niemann v T. Hatton - 2nd Round Match Up ,Tyrrell Hatton,-0.023800000000000043,0.5,0.5238
 2025-04-26 14:31:31.582995,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 66.5,-0.024399999999999977,0.4878,0.5122
 2025-04-26 15:30:18.886674,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Pierbattista Pizzaballa (Italy),-0.024999999999999994,0.1,0.125
 2025-04-26 15:30:18.896368,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.02560000000000001,0.3077,0.3333
@@ -116,7 +110,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-26 09:29:53.569667,BKFC 73: Camozzi v Bicchi - Haze Hepi vs Steven Banks - To Win the Bout,Haze Hepi,-0.042300000000000004,0.8039,0.8462
 2025-04-26 16:35:58.896352,BKFC 73: Camozzi v Bicchi - Rico Franco vs Jimmy Sweeney - To Win the Bout,Jimmy Sweeney,-0.04259999999999997,0.5652,0.6078
 2025-04-26 10:34:34.346987,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,-0.043200000000000016,0.6491,0.6923
-2025-04-26 08:34:59.850545,Main Markets - 3rd Round 2-Balls - Snedeker / Reavie vs Dickson / Crowe - 3rd Round 2-Balls,Reavie / Snedeker,-0.04760000000000003,0.4762,0.5238
 2025-04-26 10:34:34.346987,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.050000000000000044,0.75,0.8
 2025-04-26 12:52:34.732043,Hainan Classic - Hainan Classic - Winner,Fabrizio Zanotti,-0.0509,0.0079,0.0588
 2025-04-26 19:26:42.483118,Boxing Lines - Anthony Yarde vs Lyndon Arthur - To Win the Bout,Lyndon Arthur,-0.05679999999999999,0.125,0.1818

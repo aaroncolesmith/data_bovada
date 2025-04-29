@@ -4,8 +4,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 02:14:09.729913,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,0.23230000000000006,0.7778,0.5455
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.18390000000000006,0.9756,0.7917
 2025-04-29 05:34:43.489669,Championship - England Championship 2024/25 - Winner,Leeds United,0.15090000000000003,0.8,0.6491
+2025-04-29 11:28:18.433767,Cut Lines - Kevin Yu - Make Cut / Miss Cut - Kevin Yu,Make,0.08999999999999997,0.6552,0.5652
+2025-04-29 11:28:18.358531,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Make,0.07790000000000008,0.7143,0.6364
 2025-04-29 08:41:37.591969,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.07789999999999997,0.3636,0.2857
 2025-04-29 09:34:51.704732,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,0.07239999999999996,0.3077,0.2353
+2025-04-29 11:28:18.349152,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Make,0.050000000000000044,0.8,0.75
 2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.0494,0.3571,0.3077
 2025-04-29 08:41:37.596672,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.044399999999999995,0.4444,0.4
 2025-04-28 23:29:58.514568,BNXT League - BNXT League 2024/25 - Outright,Kangoeres Mechelen,0.042899999999999994,0.1429,0.1
@@ -15,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 08:41:38.567965,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.030299999999999994,0.3636,0.3333
 2025-04-29 05:34:43.971077,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,0.029299999999999993,0.0769,0.0476
 2025-04-29 06:44:04.746851,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jalon Walker (ATL),0.024999999999999994,0.125,0.1
+2025-04-29 11:28:18.416150,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,0.02260000000000001,0.4,0.3774
 2025-04-29 06:44:04.923170,Boxing Lines - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Jose Carlos Ramirez,0.02049999999999999,0.1538,0.1333
 2025-04-29 08:41:37.591969,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.018900000000000028,0.4444,0.4255
 2025-04-28 23:29:58.639994,45th Federal Election - 45th Federal Election -  Prime Minister After Next Election,Mark Carney (Liberal Party of Canada),0.018199999999999994,0.8077,0.7895
@@ -39,14 +43,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 08:41:37.591969,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,-0.02020000000000001,0.0909,0.1111
 2025-04-29 08:41:37.596672,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.02310000000000001,0.0769,0.1
 2025-04-29 08:41:37.591969,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,-0.0254,0.004,0.0294
+2025-04-29 11:28:18.416150,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,-0.025600000000000067,0.6667,0.6923
 2025-04-29 05:34:43.971077,45th Federal Election - 45th Federal Election -  Next Government of Canada,Conservative Minority,-0.0286,0.0099,0.0385
 2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.029200000000000004,0.5708,0.6
 2025-04-29 09:34:51.710698,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.029299999999999993,0.9231,0.9524
 2025-04-29 08:41:38.567965,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Teofimo Lopez,-0.0363,0.697,0.7333
 2025-04-29 08:41:37.904158,BNXT League - BNXT League 2024/25 - Outright,Kortrijk Spurs,-0.043399999999999994,0.4444,0.4878
+2025-04-29 11:28:18.349152,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Miss,-0.04580000000000001,0.2667,0.3125
 2025-04-29 09:34:51.701655,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.04620000000000002,0.1538,0.2
 2025-04-29 09:34:51.704732,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.047599999999999976,0.2857,0.3333
 2025-04-29 09:34:51.704732,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.05070000000000002,0.4255,0.4762
+2025-04-29 11:28:18.358531,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Miss,-0.07770000000000005,0.3571,0.4348
+2025-04-29 11:28:18.433767,Cut Lines - Kevin Yu - Make Cut / Miss Cut - Kevin Yu,Miss,-0.08329999999999999,0.4167,0.5
 2025-04-29 05:34:43.489669,Championship - England Championship 2024/25 - Winner,Burnley,-0.13330000000000003,0.2667,0.4
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Conservative Minority,-0.1615,0.0385,0.2
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,-0.2302,0.0476,0.2778

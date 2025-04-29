@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 03:14:51.829123,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.5299,0.8077,0.2778
 2025-04-29 09:34:51.707729,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.49210000000000004,0.7778,0.2857
-2025-04-29 02:14:09.729913,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,0.23230000000000006,0.7778,0.5455
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.18390000000000006,0.9756,0.7917
 2025-04-29 05:34:43.489669,Championship - England Championship 2024/25 - Winner,Leeds United,0.15090000000000003,0.8,0.6491
 2025-04-29 11:28:18.433767,Cut Lines - Kevin Yu - Make Cut / Miss Cut - Kevin Yu,Make,0.08999999999999997,0.6552,0.5652
@@ -11,7 +10,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 11:28:18.349152,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Make,0.050000000000000044,0.8,0.75
 2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.0494,0.3571,0.3077
 2025-04-29 08:41:37.596672,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.044399999999999995,0.4444,0.4
-2025-04-29 02:14:09.729913,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.04249999999999998,0.2778,0.2353
 2025-04-29 09:34:51.710698,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.03889999999999999,0.1818,0.1429
 2025-04-29 09:34:51.701655,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.036199999999999996,0.1538,0.1176
 2025-04-29 08:41:38.567965,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.030299999999999994,0.3636,0.3333
@@ -33,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 05:34:44.550011,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-04-29 13:46:10.762969,The CJ Cup - The CJ Cup - Winner,Scottie Scheffler,-0.01319999999999999,0.25,0.2632
 2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Brescia,-0.013999999999999999,0.0769,0.0909
+2025-04-29 14:36:14.204340,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.013999999999999999,0.0769,0.0909
 2025-04-29 06:44:04.923170,Boxing Lines - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,-0.014000000000000012,0.9091,0.9231
 2025-04-29 08:41:37.596672,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sport Huancayo,-0.014499999999999999,0.0149,0.0294
 2025-04-29 13:02:12.726584,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,-0.015100000000000002,0.1667,0.1818

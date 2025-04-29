@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-04-29 03:14:51.829123,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.5299,0.8077,0.2778
 2025-04-29 09:34:51.707729,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,0.49210000000000004,0.7778,0.2857
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Minority,0.18390000000000006,0.9756,0.7917
 2025-04-29 05:34:43.489669,Championship - England Championship 2024/25 - Winner,Leeds United,0.15090000000000003,0.8,0.6491
@@ -18,6 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 11:28:18.416150,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,0.02260000000000001,0.4,0.3774
 2025-04-29 06:44:04.923170,Boxing Lines - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Jose Carlos Ramirez,0.02049999999999999,0.1538,0.1333
 2025-04-29 08:41:37.591969,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.018900000000000028,0.4444,0.4255
+2025-04-29 15:34:13.931643,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.016700000000000007,0.1,0.0833
+2025-04-29 15:34:13.936300,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.016699999999999993,0.4167,0.4
 2025-04-29 08:41:38.623889,The CJ Cup - The CJ Cup - Winner,Scottie Scheffler,0.016699999999999993,0.2667,0.25
 2025-04-29 03:48:11.235613,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,0.014600000000000002,0.2778,0.2632
 2025-04-29 05:34:43.807193,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.012899999999999995,0.1667,0.1538
@@ -30,8 +31,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 05:34:43.807193,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,-0.011399999999999997,0.0164,0.0278
 2025-04-29 05:34:44.550011,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.01150000000000001,0.3333,0.3448
 2025-04-29 13:46:10.762969,The CJ Cup - The CJ Cup - Winner,Scottie Scheffler,-0.01319999999999999,0.25,0.2632
-2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Brescia,-0.013999999999999999,0.0769,0.0909
 2025-04-29 14:36:14.204340,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.013999999999999999,0.0769,0.0909
+2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Brescia,-0.013999999999999999,0.0769,0.0909
 2025-04-29 06:44:04.923170,Boxing Lines - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,-0.014000000000000012,0.9091,0.9231
 2025-04-29 08:41:37.596672,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sport Huancayo,-0.014499999999999999,0.0149,0.0294
 2025-04-29 13:02:12.726584,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,-0.015100000000000002,0.1667,0.1818
@@ -47,6 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 08:41:37.894562,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.029200000000000004,0.5708,0.6
 2025-04-29 09:34:51.710698,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.029299999999999993,0.9231,0.9524
 2025-04-29 08:41:38.567965,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Teofimo Lopez,-0.0363,0.697,0.7333
+2025-04-29 15:34:14.264849,NFL Specials - How Many Games will Shedeur Sanders Start During the 2025/2026 NFL Regualr Season - Proposition,Over 11.5,-0.03689999999999999,0.2857,0.3226
 2025-04-29 08:41:37.904158,BNXT League - BNXT League 2024/25 - Outright,Kortrijk Spurs,-0.043399999999999994,0.4444,0.4878
 2025-04-29 11:28:18.349152,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Miss,-0.04580000000000001,0.2667,0.3125
 2025-04-29 09:34:51.701655,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.04620000000000002,0.1538,0.2
@@ -58,4 +60,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Conservative Minority,-0.1615,0.0385,0.2
 2025-04-29 04:44:08.350305,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,-0.2302,0.0476,0.2778
 2025-04-29 09:34:51.707729,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,-0.49210000000000004,0.2857,0.7778
-2025-04-29 03:14:51.829123,45th Federal Election - 45th Federal Election -  Next Government of Canada,Liberal Majority,-0.5146000000000001,0.2632,0.7778

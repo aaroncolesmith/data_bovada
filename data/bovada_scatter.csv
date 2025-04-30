@@ -13,15 +13,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,Iceland,0.05130000000000001,0.3846,0.3333
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,Cyprus,0.04039999999999999,0.8182,0.7778
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,Norway,0.03770000000000007,0.8948,0.8571
-2025-04-29 18:40:28.399829,Tampa Bay Buccaneers - Tampa Bay Buccaneers Regular Season Wins - Buccaneers Regular Season Wins,Over 9.5,0.024399999999999977,0.5122,0.4878
 2025-04-30 03:47:27.220530,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.0232,0.0667,0.0435
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Lithuania,0.022199999999999998,0.8,0.7778
+2025-04-30 06:44:19.269707,Tournament Match-Ups - Tournament Match-Ups - B.H. An vs S. Im - Tournament Match-Ups,Sungjae Im,0.01970000000000005,0.5652,0.5455
 2025-04-30 02:14:10.678512,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Teofimo Lopez,0.018999999999999906,0.7333,0.7143
 2025-04-29 20:33:52.740035,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Tom Schwarz,0.014800000000000035,0.6226,0.6078
 2025-04-30 02:14:11.275125,Tulum Championship - Tulum Championship - Winner,Kensei Hirata,0.014100000000000001,0.0526,0.0385
 2025-04-29 20:33:52.760085,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,0.012899999999999995,0.1667,0.1538
+2025-04-30 06:44:19.297447,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs T. Kim - Tournament Match-Ups,Tom Kim,0.01100000000000001,0.5348,0.5238
 2025-04-29 20:33:52.740035,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Senad Gashi,-0.010099999999999998,0.4444,0.4545
 2025-04-30 04:36:53.456556,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,-0.0102,0.0667,0.0769
+2025-04-30 06:44:19.297447,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs T. Kim - Tournament Match-Ups,Rasmus Hojgaard,-0.010699999999999932,0.5348,0.5455
 2025-04-29 20:33:52.710881,Elite Boxing - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,-0.011699999999999933,0.905,0.9167
 2025-04-30 03:47:27.220530,Western Conference - Western Conference 2024-25 - Western Conference Winner,L.A. Clippers,-0.013999999999999999,0.0769,0.0909
 2025-04-30 03:47:27.211055,NBA Championship - NBA Championship 2024-25 - NBA Champion,L.A. Clippers,-0.014100000000000001,0.0385,0.0526
@@ -29,10 +31,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 02:14:10.678512,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.017600000000000005,0.3333,0.3509
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Australia,-0.018199999999999994,0.8,0.8182
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Finland,-0.018200000000000004,0.0294,0.0476
-2025-04-29 18:40:28.399829,Tampa Bay Buccaneers - Tampa Bay Buccaneers Regular Season Wins - Buccaneers Regular Season Wins,Under 9.5,-0.01880000000000004,0.5556,0.5744
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Albania,-0.0189,0.0196,0.0385
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Montenegro,-0.022199999999999998,0.2,0.2222
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Ukraine,-0.022400000000000003,0.0099,0.0323
+2025-04-30 06:44:19.269707,Tournament Match-Ups - Tournament Match-Ups - B.H. An vs S. Im - Tournament Match-Ups,Byeong Hun An,-0.023800000000000043,0.5,0.5238
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,San Marino,-0.025600000000000067,0.6667,0.6923
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Netherlands,-0.0321,0.0588,0.0909
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Armenia,-0.0378,0.4167,0.4545

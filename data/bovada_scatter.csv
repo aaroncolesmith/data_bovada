@@ -26,13 +26,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 13:40:15.812810,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Jake Knapp,0.01970000000000005,0.5652,0.5455
 2025-04-30 12:57:24.415338,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Kanaya / W. Chandler / V. Covello - 1st Round 3-Balls,Takumi Kanaya,0.01880000000000004,0.5744,0.5556
 2025-04-30 10:37:06.415667,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.01820000000000002,0.2,0.1818
+2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,Arizona Cardinals,0.01820000000000002,0.2,0.1818
 2025-04-30 14:35:31.086844,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.018100000000000005,0.5833,0.5652
 2025-04-30 10:37:07.804829,South Korea - South Korea - Winner,Jon Rahm,0.0179,0.1429,0.125
 2025-04-30 16:40:27.649461,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Sungjae Im,0.017600000000000005,0.3509,0.3333
 2025-04-30 15:33:54.020535,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Scottie Scheffler,0.015899999999999914,0.7937,0.7778
+2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,San Francisco 49ers,0.015400000000000025,0.4,0.3846
 2025-04-30 13:40:16.079142,Futures - PGA Championship 2025 - Winner,Rory McIlroy,0.015100000000000002,0.1818,0.1667
 2025-04-30 18:42:13.883779,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.01319999999999999,0.2632,0.25
 2025-04-30 16:40:27.165366,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),0.0119,0.0476,0.0357
+2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,Seattle Seahawks,0.010899999999999993,0.1538,0.1429
 2025-04-30 08:39:55.152587,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone A Winner - Apertura 2025,Argentinos Juniors,0.010899999999999993,0.1538,0.1429
 2025-04-30 08:39:54.924842,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Fabian Ruiz (PSG),-0.010100000000000001,0.0244,0.0345
 2025-04-30 12:57:24.415338,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Kanaya / W. Chandler / V. Covello - 1st Round 3-Balls,Vince Covello,-0.010499999999999982,0.2,0.2105
@@ -53,6 +56,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 13:40:15.812810,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Thorbjorn Olesen,-0.023800000000000043,0.5,0.5238
 2025-04-30 12:57:24.793415,Tournament Match-Ups - Tournament Match-Ups - E. Cole vs N. Hojgaard - Tournament Match-Ups,Nicolai Hojgaard,-0.030399999999999983,0.5348,0.5652
 2025-04-30 08:39:54.924842,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Achraf Hakimi (PSG),-0.03330000000000001,0.0667,0.1
+2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,Los Angeles Rams,-0.03510000000000002,0.3571,0.3922
 2025-04-30 15:33:54.020535,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Jordan Spieth,-0.03570000000000001,0.25,0.2857
 2025-04-30 14:35:31.091795,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.04910000000000003,0.3509,0.4
 2025-04-30 10:37:06.415667,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,-0.05790000000000001,0.3125,0.3704

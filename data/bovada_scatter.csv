@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Serbia,0.38730000000000003,0.6226,0.2353
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Sweden,0.19050000000000006,0.5238,0.3333
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Luxembourg,0.14640000000000003,0.6226,0.4762
+2025-04-30 03:14:48.908421,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,0.13190000000000002,0.4444,0.3125
 2025-04-29 21:30:02.063746,CBA - China CBA 2024/25 - Outright,Beijing Ducks,0.10200000000000001,0.3125,0.2105
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Malta,0.10199999999999998,0.8667,0.7647
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,Albania,0.09530000000000005,0.9524,0.8571
@@ -27,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 20:33:52.740035,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Senad Gashi,-0.010099999999999998,0.4444,0.4545
 2025-04-29 20:33:52.710881,Elite Boxing - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,-0.011699999999999933,0.905,0.9167
 2025-04-29 17:33:03.580223,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.012899999999999995,0.1538,0.1667
-2025-04-29 14:36:14.204340,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.013999999999999999,0.0769,0.0909
 2025-04-29 20:33:51.792275,Eurovision Song Contest - Eurovision 2025: Outright Winner - Outright Winner,Estonia,-0.014900000000000004,0.0196,0.0345
 2025-04-29 16:39:50.111834,NFL Specials - 2026 NFL Draft - Number 1 Overall Pick - Proposition,Cade Klubnik (CLEM),-0.015700000000000006,0.1176,0.1333
 2025-04-30 02:14:10.678512,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,-0.017600000000000005,0.3333,0.3509
@@ -54,4 +54,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-29 21:30:02.063746,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,-0.08979999999999999,0.0769,0.1667
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Georgia,-0.09240000000000001,0.1429,0.2353
 2025-04-29 20:33:51.800780,Eurovision Song Contest - Eurovision 2025: Semi Final 2 - To Qualify - Semi Final 2 To Qualify,Czechia,-0.12119999999999997,0.8621,0.9833
+2025-04-30 03:14:48.908421,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,-0.1349,0.1429,0.2778
 2025-04-29 20:33:51.796515,Eurovision Song Contest - Eurovision 2025: Semi Final 1 - To Qualify - Semi Final 1 To Qualify,Belgium,-0.23370000000000002,0.6552,0.8889

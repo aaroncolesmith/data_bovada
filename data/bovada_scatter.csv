@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-01 02:25:33.830548,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.03839999999999999,0.9615,0.9231
 2025-04-30 22:34:39.902162,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.033300000000000024,0.2,0.1667
 2025-05-01 05:34:59.110888,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.02679999999999999,0.1379,0.1111
+2025-05-01 06:44:01.348878,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2025-05-01 05:34:59.977189,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Hoffman / B. Martin / S. Valimaki - 1st Round 3-Balls,Sami Valimaki,0.025499999999999967,0.4255,0.4
 2025-05-01 05:35:00.385267,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Thorbjorn Olesen,0.023800000000000043,0.5238,0.5
 2025-05-01 05:35:00.247261,Round Match-Ups - 1st Round Match-Ups - A. Putnam v H. Norlander - 1st Round Match-Ups,Andrew Putnam,0.022600000000000064,0.5348,0.5122
@@ -15,10 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.017900000000000027,0.875,0.8571
 2025-05-01 02:25:34.127657,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.017100000000000004,0.0323,0.0152
 2025-05-01 02:25:33.833733,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Arsenal-Inter Milan,0.016700000000000007,0.1,0.0833
-2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,San Francisco 49ers,0.015400000000000025,0.4,0.3846
 2025-05-01 05:34:59.101633,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.015400000000000025,0.4,0.3846
+2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,San Francisco 49ers,0.015400000000000025,0.4,0.3846
 2025-04-30 22:34:40.979699,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.014600000000000002,0.2778,0.2632
-2025-04-30 18:42:13.883779,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.01319999999999999,0.2632,0.25
 2025-05-01 05:34:59.110888,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.012700000000000045,0.6491,0.6364
 2025-04-30 23:30:16.342922,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,0.012700000000000045,0.6491,0.6364
 2025-05-01 05:35:00.281983,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Sungjae Im,0.012699999999999989,0.3636,0.3509
@@ -27,12 +27,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-01 02:25:34.928018,Boxing Lines - Rohan Polanco vs Fabian Andres Maidana - To Win the Bout,Fabian Andres Maidana,-0.011099999999999999,0.1,0.1111
 2025-05-01 02:25:33.836924,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Paris Saint-Germain,-0.012899999999999912,0.8333,0.8462
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Bobby Witt Jr. (KC),-0.013899999999999996,0.1111,0.125
-2025-04-30 18:42:13.883779,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,-0.01430000000000009,0.8039,0.8182
 2025-04-30 22:34:40.979699,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,-0.014399999999999968,0.7895,0.8039
 2025-05-01 05:34:59.977189,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Hoffman / B. Martin / S. Valimaki - 1st Round 3-Balls,Charley Hoffman,-0.015400000000000025,0.3846,0.4
 2025-04-30 23:30:16.342922,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,-0.018099999999999998,0.0588,0.0769
 2025-05-01 05:35:00.385267,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Jake Knapp,-0.01970000000000005,0.5455,0.5652
 2025-05-01 05:35:00.247261,Round Match-Ups - 1st Round Match-Ups - A. Putnam v H. Norlander - 1st Round Match-Ups,Henrik Norlander,-0.022600000000000064,0.5122,0.5348
+2025-05-01 06:44:01.348878,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
 2025-05-01 02:25:34.127657,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2025-05-01 05:35:00.242950,Round Match-Ups - 1st Round Match-Ups - J. Svensson v P. Fishburn - 1st Round Match-Ups,Jesper Svensson,-0.023800000000000043,0.5,0.5238
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Mike Trout (LAA),-0.023899999999999998,0.0196,0.0435

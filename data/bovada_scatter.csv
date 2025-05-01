@@ -12,22 +12,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.06319999999999998,0.2632,0.2
 2025-05-01 09:32:55.163853,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 68.5,0.05889999999999995,0.6667,0.6078
 2025-05-01 09:32:55.133489,Scores - 1st Round Score - Byeong Hun An - 1st Round Score,Under 68.5,0.05889999999999995,0.6667,0.6078
+2025-05-01 09:32:55.172344,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Under 68.5,0.04469999999999996,0.6364,0.5917
 2025-05-01 09:32:55.155269,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Under 68.5,0.04469999999999996,0.6364,0.5917
 2025-05-01 09:32:55.151011,Scores - 1st Round Score - Rasmus Hojgaard - 1st Round Score,Under 68.5,0.04469999999999996,0.6364,0.5917
-2025-05-01 09:32:55.172344,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Under 68.5,0.04469999999999996,0.6364,0.5917
 2025-05-01 09:32:55.180898,Scores - 1st Round Score - Taylor Pendrith - 1st Round Score,Under 68.5,0.0413,0.6491,0.6078
 2025-05-01 08:38:11.447427,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - R. Campos / A. Eckroat / B. Garnett - 1st Round 3-Balls,Austin Eckroat,0.03600000000000003,0.5238,0.4878
 2025-05-01 12:56:27.837386,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Jordan Spieth,0.03570000000000001,0.2857,0.25
 2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Lance McCullers Jr. (HOU),0.035300000000000005,0.0476,0.0123
-2025-05-01 08:38:11.758344,Tournament Match-Up - Tournament Match-Ups - M. Wallace v S. Stevens - Requests,Matt Wallace,0.030399999999999983,0.5652,0.5348
 2025-05-01 08:38:11.745605,Tournament Match-Up - Tournament Match-Ups - B.H. An v T. Pendrith - Requests,Byeong Hun An,0.030399999999999983,0.5652,0.5348
-2025-05-01 11:27:50.611329,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,0.030299999999999994,0.6667,0.6364
-2025-05-01 11:27:50.606905,Scores - 1st Round Score - Jake Knapp - 1st Round Score,Under 68.5,0.030299999999999994,0.6667,0.6364
-2025-05-01 11:27:50.602307,Scores - 1st Round Score - Byeong Hun An - 1st Round Score,Under 68.5,0.030299999999999994,0.697,0.6667
+2025-05-01 08:38:11.758344,Tournament Match-Up - Tournament Match-Ups - M. Wallace v S. Stevens - Requests,Matt Wallace,0.030399999999999983,0.5652,0.5348
 2025-05-01 11:27:50.642036,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Under 68.5,0.030299999999999994,0.6667,0.6364
+2025-05-01 11:27:50.602307,Scores - 1st Round Score - Byeong Hun An - 1st Round Score,Under 68.5,0.030299999999999994,0.697,0.6667
+2025-05-01 11:27:50.606905,Scores - 1st Round Score - Jake Knapp - 1st Round Score,Under 68.5,0.030299999999999994,0.6667,0.6364
+2025-05-01 11:27:50.611329,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,0.030299999999999994,0.6667,0.6364
 2025-05-01 05:34:59.110888,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.02679999999999999,0.1379,0.1111
-2025-05-01 09:32:55.185099,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2025-05-01 06:44:01.348878,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
+2025-05-01 09:32:55.185099,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2025-05-01 05:34:59.977189,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Hoffman / B. Martin / S. Valimaki - 1st Round 3-Balls,Sami Valimaki,0.025499999999999967,0.4255,0.4
 2025-05-01 05:35:00.385267,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Thorbjorn Olesen,0.023800000000000043,0.5238,0.5
 2025-05-01 15:32:30.513033,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Tom Schwarz,0.02300000000000002,0.6721,0.6491
@@ -44,57 +44,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-01 05:34:59.101633,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.015400000000000025,0.4,0.3846
 2025-05-01 13:38:02.968392,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Manchester United,0.014900000000000024,0.3226,0.3077
 2025-05-01 13:38:04.225845,BKFC Fight Night: Clearwater - Crystal Pittman vs Claudia Zamora - To Win the Bout,Crystal Pittman,0.014800000000000035,0.6226,0.6078
+2025-05-01 16:39:58.993191,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.014600000000000002,0.2778,0.2632
 2025-05-01 10:37:22.899562,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,0.014399999999999968,0.8039,0.7895
 2025-05-01 11:27:49.952207,Elite Boxing - Ryan Garcia vs Rolando Romero - To Win the Bout,Ryan Garcia,0.014100000000000001,0.9474,0.9333
-2025-05-01 09:32:55.142344,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,0.013799999999999923,0.6364,0.6226
 2025-05-01 13:38:04.229866,BKFC Fight Night: Clearwater - Jared Warren vs Joseph Creer - To Win the Bout,Jared Warren,0.013799999999999923,0.6364,0.6226
 2025-05-01 10:37:23.770283,Round Match-Ups - 1st Round Match-Ups - J. Niemann v S. Garcia - Requests,Joaquin Niemann,0.013799999999999923,0.6364,0.6226
+2025-05-01 09:32:55.142344,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,0.013799999999999923,0.6364,0.6226
 2025-05-01 09:32:53.851438,LKL - Lithuania LKL 2024/25 - Outright,Rytas,0.012899999999999995,0.1667,0.1538
 2025-05-01 09:32:54.446471,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),0.012899999999999995,0.1667,0.1538
-2025-05-01 05:34:59.110888,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.012700000000000045,0.6491,0.6364
 2025-05-01 10:37:23.774694,Round Match-Ups - 1st Round Match-Ups - J. Rahm v S. Garcia - Requests,Jon Rahm,0.012700000000000045,0.6491,0.6364
+2025-05-01 05:34:59.110888,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.012700000000000045,0.6491,0.6364
 2025-05-01 08:38:11.305145,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Tom Schwarz,0.012700000000000045,0.6491,0.6364
 2025-05-01 05:35:00.281983,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Sungjae Im,0.012699999999999989,0.3636,0.3509
 2025-05-01 12:56:27.463432,Boxing Lines - Teofimo Lopez vs Arnold Barboza Jr - To Win the Bout,Arnold Barboza Jr,0.010699999999999987,0.3333,0.3226
 2025-05-01 10:37:22.857570,Elite Boxing - Ryan Garcia vs Rolando Romero - To Win the Bout,Ryan Garcia,0.010199999999999987,0.9333,0.9231
+2025-05-01 16:39:58.948192,Elite Boxing - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,0.010199999999999987,0.905,0.8948
 2025-05-01 13:38:04.237864,BKFC Fight Night: Clearwater - Joseph White vs Brady Meister - To Win the Bout,Brady Meister,0.010099999999999998,0.3226,0.3125
 2025-05-01 13:38:04.225845,BKFC Fight Night: Clearwater - Crystal Pittman vs Claudia Zamora - To Win the Bout,Claudia Zamora,-0.010099999999999998,0.4444,0.4545
 2025-05-01 13:38:04.245909,BKFC Fight Night: Clearwater - Ryan Reber vs Matt Guymon - To Win the Bout,Matt Guymon,-0.010499999999999982,0.2,0.2105
-2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Felix Bautista (BAL),-0.010700000000000001,0.0278,0.0385
+2025-05-01 16:39:58.289804,ABA League - ABA League 2024/25 - Outright,Partizan,-0.010699999999999932,0.5348,0.5455
 2025-05-01 10:37:22.857570,Elite Boxing - Ryan Garcia vs Rolando Romero - To Win the Bout,Rolando Romero,-0.010700000000000001,0.1143,0.125
+2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Felix Bautista (BAL),-0.010700000000000001,0.0278,0.0385
+2025-05-01 16:39:58.948192,Elite Boxing - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Jose Carlos Ramirez,-0.010899999999999993,0.1429,0.1538
 2025-05-01 15:32:30.532736,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,-0.010899999999999993,0.1429,0.1538
 2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Shane McClanahan (TB),-0.011399999999999997,0.0164,0.0278
 2025-05-01 13:38:04.241824,BKFC Fight Night: Clearwater - Nathan Rivera vs Alex Castro - To Win the Bout,Alex Castro,-0.011699999999999988,0.274,0.2857
 2025-05-01 13:38:04.249921,BKFC Fight Night: Clearwater - Samuel Samples vs Michael Larrimore - To Win the Bout,Samuel Samples,-0.013800000000000034,0.3636,0.3774
 2025-05-01 12:56:27.442915,Elite Boxing - Devin Haney vs Jose Carlos Ramirez - To Win the Bout,Devin Haney,-0.01429999999999998,0.8948,0.9091
 2025-05-01 11:27:49.952207,Elite Boxing - Ryan Garcia vs Rolando Romero - To Win the Bout,Rolando Romero,-0.014299999999999993,0.1,0.1143
+2025-05-01 16:39:58.993191,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,-0.014399999999999968,0.7895,0.8039
 2025-05-01 10:37:22.899562,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,-0.014600000000000002,0.2632,0.2778
 2025-05-01 05:34:59.977189,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Hoffman / B. Martin / S. Valimaki - 1st Round 3-Balls,Charley Hoffman,-0.015400000000000025,0.3846,0.4
 2025-05-01 12:56:27.837386,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Scottie Scheffler,-0.015899999999999914,0.7778,0.7937
 2025-05-01 08:38:11.447427,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - R. Campos / A. Eckroat / B. Garnett - 1st Round 3-Balls,Rafael Campos,-0.016699999999999993,0.25,0.2667
-2025-05-01 13:38:04.233830,BKFC Fight Night: Clearwater - John Escoboza vs Jason Jackson - To Win the Bout,Jason Jackson,-0.017299999999999982,0.4082,0.4255
 2025-05-01 10:37:23.770283,Round Match-Ups - 1st Round Match-Ups - J. Niemann v S. Garcia - Requests,Sergio Garcia,-0.017299999999999982,0.4082,0.4255
-2025-05-01 08:38:10.258202,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.0179,0.0099,0.0278
+2025-05-01 13:38:04.233830,BKFC Fight Night: Clearwater - John Escoboza vs Jason Jackson - To Win the Bout,Jason Jackson,-0.017299999999999982,0.4082,0.4255
 2025-05-01 09:32:54.446471,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),-0.0179,0.125,0.1429
-2025-05-01 09:32:55.142344,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,-0.018900000000000028,0.4255,0.4444
+2025-05-01 08:38:10.258202,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.0179,0.0099,0.0278
 2025-05-01 13:38:04.229866,BKFC Fight Night: Clearwater - Jared Warren vs Joseph Creer - To Win the Bout,Joseph Creer,-0.018900000000000028,0.4255,0.4444
+2025-05-01 09:32:55.142344,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,-0.018900000000000028,0.4255,0.4444
 2025-05-01 05:35:00.385267,Tournament Match-Ups - Tournament Match-Ups - J. Knapp vs T. Olesen - Tournament Match-Ups,Jake Knapp,-0.01970000000000005,0.5455,0.5652
 2025-05-01 13:38:02.968392,UEFA Europa League - UEFA Europa League 2024/25 - Winner,Tottenham Hotspur,-0.02030000000000004,0.3571,0.3774
 2025-05-01 08:38:11.447427,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - R. Campos / A. Eckroat / B. Garnett - 1st Round 3-Balls,Brice Garnett,-0.022199999999999998,0.3226,0.3448
 2025-05-01 11:27:50.628882,Scores - 1st Round Score - Ryan Gerard - 1st Round Score,Over 68.5,-0.02260000000000001,0.3774,0.4
 2025-05-01 05:35:00.247261,Round Match-Ups - 1st Round Match-Ups - A. Putnam v H. Norlander - 1st Round Match-Ups,Henrik Norlander,-0.022600000000000064,0.5122,0.5348
-2025-05-01 09:32:55.185099,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
-2025-05-01 06:44:01.348878,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
 2025-05-01 09:32:54.482898,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Spencer Strider (ATL),-0.023799999999999988,0.1429,0.1667
+2025-05-01 06:44:01.348878,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
+2025-05-01 09:32:55.185099,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
 2025-05-01 05:35:00.242950,Round Match-Ups - 1st Round Match-Ups - J. Svensson v P. Fishburn - 1st Round Match-Ups,Jesper Svensson,-0.023800000000000043,0.5,0.5238
 2025-05-01 04:40:54.210451,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.0242,0.0667,0.0909
 2025-05-01 09:32:54.477773,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Bo Bichette (TOR),-0.024299999999999995,0.0526,0.0769
 2025-05-01 15:32:30.513033,Boxing Lines - Senad Gashi vs Tom Schwarz - To Win the Bout,Senad Gashi,-0.024500000000000022,0.3922,0.4167
-2025-05-01 11:27:50.642036,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Over 68.5,-0.025499999999999967,0.4,0.4255
 2025-05-01 11:27:50.606905,Scores - 1st Round Score - Jake Knapp - 1st Round Score,Over 68.5,-0.025499999999999967,0.4,0.4255
 2025-05-01 11:27:50.611329,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,-0.025499999999999967,0.4,0.4255
+2025-05-01 11:27:50.642036,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Over 68.5,-0.025499999999999967,0.4,0.4255
 2025-05-01 08:38:10.593823,Euroleague - Euroleague 2024/25 - Outright,Fenerbahce,-0.02729999999999999,0.2,0.2273
-2025-05-01 03:55:02.569447,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.028000000000000004,0.0196,0.0476
 2025-05-01 08:38:10.258202,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.031799999999999995,0.1111,0.1429
 2025-05-01 08:38:11.745605,Tournament Match-Up - Tournament Match-Ups - B.H. An v T. Pendrith - Requests,Taylor Pendrith,-0.03480000000000005,0.5,0.5348
 2025-05-01 08:38:11.758344,Tournament Match-Up - Tournament Match-Ups - M. Wallace v S. Stevens - Requests,Sam Stevens,-0.03480000000000005,0.5,0.5348
@@ -106,14 +110,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-01 09:32:55.151011,Scores - 1st Round Score - Rasmus Hojgaard - 1st Round Score,Over 68.5,-0.05070000000000002,0.4255,0.4762
 2025-05-01 09:32:55.155269,Scores - 1st Round Score - Rico Hoey - 1st Round Score,Over 68.5,-0.05070000000000002,0.4255,0.4762
 2025-05-01 09:32:55.172344,Scores - 1st Round Score - Stephan Jaeger - 1st Round Score,Over 68.5,-0.05070000000000002,0.4255,0.4762
-2025-05-01 09:32:55.163853,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 68.5,-0.05449999999999999,0.4,0.4545
 2025-05-01 09:32:55.133489,Scores - 1st Round Score - Byeong Hun An - 1st Round Score,Over 68.5,-0.05449999999999999,0.4,0.4545
+2025-05-01 09:32:55.163853,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 68.5,-0.05449999999999999,0.4,0.4545
 2025-05-01 09:32:55.176564,Scores - 1st Round Score - Sunjae Im - 1st Round Score,Over 68.5,-0.067,0.3774,0.4444
 2025-05-01 09:32:55.146707,Scores - 1st Round Score - Nicolai Hojgaard - 1st Round Score,Over 68.5,-0.07450000000000001,0.4255,0.5
 2025-05-01 09:32:55.137829,Scores - 1st Round Score - Jake Knapp - 1st Round Score,Over 68.5,-0.07450000000000001,0.4255,0.5
 2025-05-01 09:32:55.168113,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 67.5,-0.0847,0.2857,0.3704
 2025-05-01 08:38:10.258202,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),-0.08900000000000002,0.4762,0.5652
 2025-05-01 09:32:55.124955,Scores - 1st Round Score - Si Woo Kim - 1st Round Score,Over 68.5,-0.09090000000000004,0.3636,0.4545
+2025-05-01 16:39:58.804229,MLB Series Prices - MLB Series Prices May 1 to May 4 - Outright,Tie,-0.12190000000000001,0.2703,0.3922
 2025-05-01 11:27:50.646416,Scores - 1st Round Score - Sungjae Im - 1st Round Score,Over 68.5,-0.18780000000000002,0.3774,0.5652
 2025-05-01 14:33:54.815104,45th Federal Election - Election Fallout Specials - Proposition,Pierre Poilievre ceases  to be leader of Conservatives in 2025,-0.2108,0.3448,0.5556
 2025-05-01 08:38:10.324018,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Zone B Winner - Apertura 2025,Independiente,-0.2598,0.2857,0.5455

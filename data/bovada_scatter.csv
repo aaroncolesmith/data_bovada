@@ -1,24 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-04-30 14:35:30.642685,45th Federal Election - Election Fallout Specials - Proposition,Pierre Poilievre resigns as leader of Conservatives by May 2 2025,0.18950000000000003,0.4,0.2105
-2025-04-30 14:35:30.642685,45th Federal Election - Election Fallout Specials - Proposition,Pierre Poilievre ceases  to be leader of Conservatives by May 30 2025,0.15559999999999996,0.6,0.4444
-2025-04-30 14:35:30.642685,45th Federal Election - Election Fallout Specials - Proposition,Pierre Poilievre ceases  to be leader of Conservatives in 2025,0.07939999999999997,0.5556,0.4762
 2025-05-01 02:25:33.836924,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,Inter Milan,0.0771,0.4545,0.3774
 2025-05-01 02:25:33.833733,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Inter Milan-Paris Saint Germain,0.05990000000000001,0.3774,0.3175
-2025-04-30 14:35:31.091795,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.04459999999999997,0.3571,0.3125
 2025-04-30 16:40:26.015116,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Raphinha (Barcelona),0.04139999999999999,0.5652,0.5238
 2025-05-01 02:25:33.830548,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Raphinha (Barcelona),0.03839999999999999,0.9615,0.9231
 2025-04-30 22:34:39.902162,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.033300000000000024,0.2,0.1667
 2025-05-01 02:25:35.623010,Cut Lines - Jake Knapp - Make Cut / Miss Cut - Jake Knapp,Miss,0.02260000000000001,0.4,0.3774
-2025-04-30 15:33:53.875893,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Scottie Scheffler,0.02200000000000002,0.7143,0.6923
 2025-04-30 22:34:39.902162,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,0.020699999999999996,0.4651,0.4444
 2025-05-01 02:25:35.614479,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Miss,0.02030000000000004,0.3774,0.3571
 2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,Arizona Cardinals,0.01820000000000002,0.2,0.1818
-2025-04-30 14:35:31.086844,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.018100000000000005,0.5833,0.5652
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.017900000000000027,0.875,0.8571
 2025-04-30 16:40:27.649461,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Sungjae Im,0.017600000000000005,0.3509,0.3333
 2025-05-01 02:25:34.127657,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,0.017100000000000004,0.0323,0.0152
 2025-05-01 02:25:33.833733,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Arsenal-Inter Milan,0.016700000000000007,0.1,0.0833
-2025-04-30 15:33:54.020535,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Scottie Scheffler,0.015899999999999914,0.7937,0.7778
 2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,San Francisco 49ers,0.015400000000000025,0.4,0.3846
 2025-04-30 22:34:40.979699,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.014600000000000002,0.2778,0.2632
 2025-04-30 18:42:13.883779,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Efe Ajagba,0.01319999999999999,0.2632,0.25
@@ -32,10 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Bobby Witt Jr. (KC),-0.013899999999999996,0.1111,0.125
 2025-04-30 18:42:13.883779,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,-0.01430000000000009,0.8039,0.8182
 2025-04-30 22:34:40.979699,Boxing Lines - Martin Bakole vs Efe Ajagba - To Win the Bout,Martin Bakole,-0.014399999999999968,0.7895,0.8039
-2025-04-30 14:35:31.163322,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),-0.015100000000000002,0.1667,0.1818
-2025-04-30 15:33:53.875893,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Sungjae Im,-0.017600000000000005,0.3333,0.3509
 2025-04-30 23:30:16.342922,CBA - China CBA 2024/25 - Outright,Shanxi Loongs,-0.018099999999999998,0.0588,0.0769
-2025-04-30 14:35:31.086844,AL East - AL East 2025 - AL East Winner 2025,Baltimore Orioles,-0.01830000000000001,0.0769,0.0952
 2025-04-30 16:40:27.649461,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs S. Im - 1st Round Match-Ups,Scottie Scheffler,-0.02200000000000002,0.6923,0.7143
 2025-05-01 02:25:34.127657,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2025-04-30 23:30:16.968408,MVP - AL MVP 2025 - American League MVP,Mike Trout (LAA),-0.023899999999999998,0.0196,0.0435
@@ -43,9 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-04-30 22:34:39.902162,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,-0.02560000000000001,0.3077,0.3333
 2025-05-01 02:25:35.623010,Cut Lines - Jake Knapp - Make Cut / Miss Cut - Jake Knapp,Make,-0.025600000000000067,0.6667,0.6923
 2025-05-01 02:25:35.614479,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Make,-0.026800000000000046,0.6875,0.7143
+2025-05-01 03:55:02.569447,NBA Championship - NBA Championship 2024-25 - NBA Champion,Los Angeles Lakers,-0.028000000000000004,0.0196,0.0476
 2025-04-30 20:33:17.741654,NFC West - NFC West 2025/26 - NFC West Winner,Los Angeles Rams,-0.03510000000000002,0.3571,0.3922
-2025-04-30 15:33:54.020535,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Spieth - Tournament Match-Ups,Jordan Spieth,-0.03570000000000001,0.25,0.2857
-2025-04-30 14:35:31.091795,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.04910000000000003,0.3509,0.4
 2025-05-01 02:25:33.833733,UEFA Champions League - UEFA Champions League 2024/25 - Name The Finalists,Barcelona-Paris Saint Germain,-0.0917,0.5,0.5917
 2025-05-01 02:25:33.836924,UEFA Champions League - UEFA Champions League 2024/25 - To Reach the Final,FC Barcelona,-0.10060000000000002,0.5917,0.6923
-2025-04-30 14:35:30.642685,45th Federal Election - Election Fallout Specials - Proposition,Pierre Poilievre to be leader of Conservatives at the end of 2025,-0.12080000000000002,0.4444,0.5652

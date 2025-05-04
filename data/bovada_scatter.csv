@@ -15,20 +15,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Mike Weir,0.08330000000000001,0.1111,0.0278
 2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Argentinos Juniors,0.0774,0.125,0.0476
 2025-05-04 08:35:31.673565,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.07579999999999998,0.9091,0.8333
+2025-05-04 12:54:38.772698,The CJ Cup - 2/3 Balls - Final Round 2-Balls - S.W. Kim / J. Spieth - Final Round 2-Balls,Jordan Spieth,0.06779999999999997,0.5556,0.4878
 2025-05-04 08:35:32.608341,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Lance McCullers Jr. (HOU),0.0577,0.1053,0.0476
 2025-05-04 02:24:35.860072,Black Desert Championship - Black Desert Championship - Winner,Haeran Ryu,0.05359999999999998,0.6,0.5464
 2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.052399999999999995,0.0909,0.0385
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,YE Yang,0.04650000000000001,0.1053,0.0588
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Steve Allan,0.0456,0.0588,0.0132
-2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.04169999999999999,0.1667,0.125
 2025-05-04 08:35:32.574903,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.04169999999999999,0.1667,0.125
+2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.04169999999999999,0.1667,0.125
 2025-05-04 09:30:31.147341,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,0.04040000000000002,0.2222,0.1818
 2025-05-04 08:35:31.575882,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.03839999999999999,0.661,0.6226
 2025-05-04 08:35:31.682313,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.034399999999999986,0.9756,0.9412
 2025-05-04 06:40:54.917463,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.03420000000000001,0.9231,0.8889
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,0.034100000000000005,0.125,0.0909
-2025-05-04 08:35:31.575882,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.033299999999999996,0.8333,0.8
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,0.033299999999999996,0.1333,0.1
+2025-05-04 08:35:31.575882,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.033299999999999996,0.8333,0.8
 2025-05-04 08:35:31.673565,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.0321,0.0909,0.0588
 2025-05-04 09:30:31.147341,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,0.031799999999999995,0.1429,0.1111
 2025-05-04 08:35:31.575882,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.0294,0.0588,0.0294
@@ -45,35 +46,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 06:40:54.922031,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.023799999999999932,0.8571,0.8333
 2025-05-04 08:35:32.586248,ROY - AL ROY 2025 - American League Rookie of the Year,Tomoyuki Sugano (BAL),0.023200000000000002,0.0476,0.0244
 2025-05-04 10:34:52.031160,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,0.02310000000000001,0.1,0.0769
+2025-05-04 12:54:38.780623,The CJ Cup - 2/3 Balls - Final Round 2-Balls - T. Kanaya / C. Champ - Final Round 2-Balls,Takumi Kanaya,0.022600000000000064,0.5348,0.5122
 2025-05-04 10:34:53.294886,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 65.5,0.021699999999999997,0.4762,0.4545
 2025-05-04 08:35:32.574903,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.020799999999999985,0.3333,0.3125
 2025-05-04 09:30:31.241229,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,0.020699999999999996,0.4651,0.4444
-2025-05-03 23:29:29.100087,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Bruno Surace,0.02049999999999999,0.1538,0.1333
-2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,0.0203,0.0588,0.0385
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Angel Cabrera,0.0203,0.0588,0.0385
+2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,0.0203,0.0588,0.0385
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Thongchai Jaidee,0.019800000000000005,0.0476,0.0278
 2025-05-04 09:30:31.264725,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.019099999999999992,0.0667,0.0476
 2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,0.019099999999999992,0.0667,0.0476
 2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Strasbourg,0.0189,0.0385,0.0196
-2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.01820000000000002,0.2,0.1818
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.01820000000000002,0.2,0.1818
+2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.01820000000000002,0.2,0.1818
 2025-05-04 10:34:51.924446,A-League - Australia A-League 2024/25 - Grand Final Winner,Adelaide United,0.018099999999999998,0.0769,0.0588
 2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.0179,0.1429,0.125
 2025-05-04 02:24:35.860072,Black Desert Championship - Black Desert Championship - Winner,Esther Henseleit,0.01759999999999999,0.1176,0.1
 2025-05-04 08:35:31.679378,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.016700000000000048,0.75,0.7333
 2025-05-04 09:30:31.264725,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,0.016699999999999993,0.2667,0.25
+2025-05-04 12:54:38.776651,The CJ Cup - 2/3 Balls - Final Round 2-Balls - S. Burns / M. Hubbard - Final Round 2-Balls,Mark Hubbard,0.016000000000000014,0.4082,0.3922
 2025-05-04 08:35:32.586248,ROY - AL ROY 2025 - American League Rookie of the Year,Coby Mayo (BAL),0.015499999999999998,0.0278,0.0123
-2025-05-04 09:30:32.671628,Futures - PGA Championship 2025 - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
 2025-05-04 10:34:51.924446,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.015100000000000002,0.1818,0.1667
+2025-05-04 09:30:32.671628,Futures - PGA Championship 2025 - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hirving Lozano,0.0145,0.0244,0.0099
 2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.014100000000000001,0.0526,0.0385
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Diego Rossi,0.014099999999999998,0.0385,0.0244
 2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Columbus Crew,0.013999999999999999,0.0909,0.0769
 2025-05-04 08:35:31.565626,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,0.013999999999999999,0.0909,0.0769
-2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.013899999999999996,0.125,0.1111
-2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.013899999999999996,0.125,0.1111
-2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Rosario Central,0.013899999999999996,0.125,0.1111
 2025-05-04 10:34:51.924446,A-League - Australia A-League 2024/25 - Grand Final Winner,Western Sydney Wanderers,0.013899999999999996,0.125,0.1111
+2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Rosario Central,0.013899999999999996,0.125,0.1111
+2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.013899999999999996,0.125,0.1111
+2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,0.013899999999999996,0.125,0.1111
 2025-05-04 09:30:31.175508,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.013800000000000034,0.3774,0.3636
 2025-05-04 03:53:54.080070,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
 2025-05-04 09:30:31.175508,Brasileirão Série A - Brazil Serie A 2025 - Winner,Bahia,0.012100000000000001,0.0244,0.0123
@@ -82,22 +84,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 08:35:32.586248,ROY - AL ROY 2025 - American League Rookie of the Year,Jackson Jobe (DET),0.011199999999999995,0.0588,0.0476
 2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Seattle Sounders,0.011199999999999995,0.0588,0.0476
 2025-05-04 08:35:32.586248,ROY - AL ROY 2025 - American League Rookie of the Year,Jack Leiter (TEX),0.010300000000000002,0.0244,0.0141
-2025-05-04 08:35:31.670667,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.0102,0.0769,0.0667
 2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Racing Club,0.0102,0.0769,0.0667
+2025-05-04 08:35:31.670667,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.0102,0.0769,0.0667
 2025-05-04 10:34:52.031160,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Cusco FC,0.010100000000000001,0.0345,0.0244
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,-0.0102,0.0667,0.0769
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.011199999999999995,0.0476,0.0588
-2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Portland Timbers,-0.011199999999999995,0.0476,0.0588
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Dejan Joveljic,-0.011199999999999995,0.0476,0.0588
+2025-05-04 09:30:31.150993,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Portland Timbers,-0.011199999999999995,0.0476,0.0588
 2025-05-04 08:35:32.586248,ROY - AL ROY 2025 - American League Rookie of the Year,Kumar Rocker (TEX),-0.011399999999999997,0.0164,0.0278
 2025-05-04 08:35:32.574903,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),-0.012899999999999995,0.1538,0.1667
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,-0.0131,0.0345,0.0476
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.013899999999999996,0.1111,0.125
+2025-05-04 08:35:31.568457,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.013999999999999999,0.0769,0.0909
+2025-05-04 03:53:54.080070,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,-0.013999999999999999,0.0769,0.0909
 2025-05-04 09:30:31.175508,Brasileirão Série A - Brazil Serie A 2025 - Winner,Internacional,-0.013999999999999999,0.0769,0.0909
 2025-05-04 09:30:31.140915,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.013999999999999999,0.0769,0.0909
-2025-05-04 03:53:54.080070,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,-0.013999999999999999,0.0769,0.0909
-2025-05-04 08:35:31.568457,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.013999999999999999,0.0769,0.0909
-2025-05-03 23:29:29.100087,Boxing Lines - Jaime Munguia vs Bruno Surace - To Win the Bout,Jaime Munguia,-0.014000000000000012,0.9091,0.9231
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Stephen Ames,-0.0145,0.0099,0.0244
 2025-05-04 09:30:31.147341,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,-0.015300000000000001,0.0435,0.0588
 2025-05-04 10:34:53.294886,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 65.5,-0.016100000000000003,0.5917,0.6078
@@ -105,6 +106,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,-0.018099999999999998,0.0588,0.0769
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Dallas,-0.018200000000000004,0.0294,0.0476
 2025-05-04 02:24:35.860072,Black Desert Championship - Black Desert Championship - Winner,Hye Jin Choi,-0.0187,0.0057,0.0244
+2025-05-04 12:54:38.776651,The CJ Cup - 2/3 Balls - Final Round 2-Balls - S. Burns / M. Hubbard - Final Round 2-Balls,Sam Burns,-0.01880000000000004,0.6364,0.6552
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Brett Quigley,-0.0189,0.0196,0.0385
 2025-05-04 08:35:31.670667,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.019000000000000017,0.2667,0.2857
 2025-05-04 09:30:31.175508,Brasileirão Série A - Brazil Serie A 2025 - Winner,Botafogo,-0.019099999999999992,0.0476,0.0667
@@ -118,14 +120,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lille,-0.022199999999999998,0.2,0.2222
 2025-05-04 08:35:31.676476,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.022199999999999998,0.8667,0.8889
 2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,River Plate,-0.022199999999999998,0.2,0.2222
+2025-05-04 12:54:38.780623,The CJ Cup - 2/3 Balls - Final Round 2-Balls - T. Kanaya / C. Champ - Final Round 2-Balls,Cameron Champ,-0.022600000000000064,0.5122,0.5348
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Austin FC,-0.02310000000000001,0.0769,0.1
 2025-05-04 06:40:54.917463,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.023799999999999988,0.1429,0.1667
 2025-05-04 08:35:31.578751,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.023799999999999988,0.1429,0.1667
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,-0.0242,0.0667,0.0909
 2025-05-04 09:30:31.144340,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,-0.024999999999999994,0.1,0.125
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Thomas Bjorn,-0.026600000000000002,0.0057,0.0323
-2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,-0.02779999999999999,0.2222,0.25
 2025-05-04 09:30:31.264725,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,-0.02779999999999999,0.2222,0.25
+2025-05-04 10:34:52.007799,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Boca Juniors,-0.02779999999999999,0.2222,0.25
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Ken Tanigawa,-0.0312,0.0123,0.0435
 2025-05-04 08:35:31.568457,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.033399999999999985,0.8333,0.8667
 2025-05-04 02:24:35.860072,Black Desert Championship - Black Desert Championship - Winner,Ariya Jutanugarn,-0.03439999999999999,0.0323,0.0667
@@ -141,6 +144,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 08:35:31.575882,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.05449999999999999,0.5455,0.6
 2025-05-04 08:35:31.583295,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.061000000000000054,0.6,0.661
 2025-05-04 08:35:31.565626,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.0635,0.2222,0.2857
+2025-05-04 12:54:38.772698,The CJ Cup - 2/3 Balls - Final Round 2-Balls - S.W. Kim / J. Spieth - Final Round 2-Balls,Si Woo Kim,-0.06779999999999997,0.4878,0.5556
 2025-05-04 02:24:35.723097,Insperity Invitational - Insperity Invitational - Winner,Steve Alker,-0.0756,0.0244,0.1
 2025-05-04 08:35:31.676476,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.07929999999999993,0.7778,0.8571
 2025-05-04 08:35:32.948845,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 65.5,-0.10109999999999997,0.4545,0.5556

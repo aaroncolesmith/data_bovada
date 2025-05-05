@@ -5,12 +5,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 14:37:05.428517,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.0947,0.4651,0.3704
 2025-05-05 16:40:39.455001,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,1000+ Regular Season Receiving Yards - Travis Hunter (JAX),0.09159999999999999,0.2128,0.1212
 2025-05-05 14:37:05.433262,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.0726,0.75,0.6774
-2025-05-05 13:41:35.719205,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 12:59:12.446162,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 16:40:39.773619,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
-2025-05-05 10:38:52.835025,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
-2025-05-05 18:38:59.274664,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 20:33:29.778591,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 22:35:37.361811,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 18:38:59.274664,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 10:38:52.835025,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 13:41:35.719205,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 21:30:44.050846,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 14:37:05.408927,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 18:38:59.443736,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.055600000000000094,0.7778,0.7222
@@ -46,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 16:40:39.455001,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,12+ Regular Season Sacks - Abdul Carter (NYG),0.013999999999999999,0.0909,0.0769
 2025-05-05 11:28:14.713775,Serie A - Italy Serie A 2024/25 - Outright,Brescia,0.013999999999999999,0.0909,0.0769
 2025-05-05 19:26:06.733513,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.013899999999999996,0.125,0.1111
-2025-05-05 18:38:58.626842,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Turkson (Ghana),0.013899999999999996,0.125,0.1111
 2025-05-05 15:33:51.359184,NCAA Football Futures - 2025 ACC Conference Championship  - Championship Game Winner,Louisville,0.013899999999999996,0.125,0.1111
+2025-05-05 18:38:58.626842,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Peter Turkson (Ghana),0.013899999999999996,0.125,0.1111
 2025-05-05 16:40:39.980123,Mizuho Americas Open - Mizuho Americas Open - Outright,A Lim Kim,0.012899999999999998,0.0278,0.0149
 2025-05-05 15:33:51.372561,NCAA Football Futures - 2025 SEC Conference Championship - Championship Game Winner,Alabama,0.012899999999999995,0.1667,0.1538
 2025-05-05 16:40:39.980123,Mizuho Americas Open - Mizuho Americas Open - Outright,Yan Liu,0.0121,0.0141,0.002
@@ -58,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 15:33:51.372561,NCAA Football Futures - 2025 SEC Conference Championship - Championship Game Winner,Oklahoma,0.010600000000000002,0.0323,0.0217
 2025-05-05 14:37:05.096979,NFL Specials - How Many Games will Shedeur Sanders Start During the 2025/2026 NFL Regualr Season - Proposition,Over 11.5,0.010499999999999982,0.2105,0.2
 2025-05-05 15:33:51.368022,NCAA Football Futures - 2025 Big Ten Conference Championship - Championship Game Winner,Ohio State,0.01040000000000002,0.3279,0.3175
+2025-05-05 22:35:36.796116,A1 - Greece A1 2024/25 - Outright,Olympiacos,0.010099999999999998,0.4545,0.4444
 2025-05-05 15:33:51.537439,Winning State - World Series 2025 - Winning State - Winning State,"New York (NYM, NYY)",0.010099999999999998,0.2062,0.1961
 2025-05-05 14:37:05.442847,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.0102,0.0667,0.0769
 2025-05-05 16:40:39.980123,Mizuho Americas Open - Mizuho Americas Open - Outright,Ashleigh Buhai,-0.010300000000000002,0.0141,0.0244
@@ -71,6 +73,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 15:33:50.805904,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.014099999999999994,0.0526,0.0667
 2025-05-05 16:40:39.980123,Mizuho Americas Open - Mizuho Americas Open - Outright,Celine Boutier,-0.014099999999999998,0.0244,0.0385
 2025-05-05 15:33:51.363550,NCAA Football Futures - 2025 Big 12 Conference Championship - Championship Game Winner,Iowa State,-0.014399999999999996,0.0625,0.0769
+2025-05-05 22:35:36.796116,A1 - Greece A1 2024/25 - Outright,Panathinaikos,-0.01539999999999997,0.6,0.6154
 2025-05-05 14:37:05.418988,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.015899999999999997,0.0952,0.1111
 2025-05-05 11:28:14.704392,B League - Japan B-League 2024/25 - Outright,Shimane Susanoo Magic,-0.016600000000000004,0.0667,0.0833
 2025-05-05 16:40:39.980123,Mizuho Americas Open - Mizuho Americas Open - Outright,Maja Stark,-0.017800000000000003,0.0066,0.0244
@@ -91,12 +94,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 11:28:14.713775,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.04810000000000003,0.5263,0.5744
 2025-05-05 14:37:05.428517,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.05230000000000001,0.2703,0.3226
 2025-05-05 18:38:59.443736,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,-0.059099999999999986,0.2857,0.3448
-2025-05-05 14:37:05.405520,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 21:30:44.054191,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 20:33:29.781948,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 13:41:35.715573,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 19:26:06.585531,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 17:33:15.441897,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
 2025-05-05 15:33:51.462992,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 22:35:37.365337,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 20:33:29.781948,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 19:26:06.585531,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
 2025-05-05 11:28:15.242163,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
-2025-05-05 09:34:07.612811,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 13:41:35.715573,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 21:30:44.054191,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 14:37:05.405520,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 17:33:15.441897,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636

@@ -6,23 +6,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 08:42:05.400581,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.07930000000000001,0.2222,0.1429
 2025-05-05 02:19:05.345200,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Rhyne Howard (ATL),0.07069999999999999,0.1818,0.1111
 2025-05-05 08:42:05.533718,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brighton & Hove Albion,0.06970000000000004,0.3774,0.3077
-2025-05-05 08:42:06.327640,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
-2025-05-05 10:38:52.835025,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 12:59:12.446162,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 10:38:52.835025,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 08:42:06.327640,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
+2025-05-05 13:41:35.719205,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-05 08:42:05.386162,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.05449999999999999,0.4545,0.4
 2025-05-05 08:42:05.405259,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,0.052000000000000005,0.1429,0.0909
 2025-05-05 11:28:14.704392,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.05109999999999998,0.3636,0.3125
-2025-05-05 08:42:05.371510,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.048100000000000004,0.125,0.0769
 2025-05-05 08:42:05.400581,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.048100000000000004,0.2299,0.1818
+2025-05-05 08:42:05.371510,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,0.048100000000000004,0.125,0.0769
 2025-05-05 08:42:05.409972,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.048099999999999976,0.4255,0.3774
 2025-05-05 08:42:05.485296,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.04409999999999992,0.6667,0.6226
 2025-05-05 08:42:05.509121,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,0.042899999999999994,0.1429,0.1
+2025-05-05 13:41:35.401213,NFL Specials - 2026 NFL Draft - Number 1 Overall Pick - Proposition,Cade Klubnik (CLEM),0.0407,0.1176,0.0769
+2025-05-05 13:41:35.932771,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Tom Kim,0.0397,0.0476,0.0079
 2025-05-05 04:38:32.481100,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.03709999999999991,0.6667,0.6296
 2025-05-05 08:42:05.371510,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.033300000000000024,0.2,0.1667
 2025-05-05 03:52:03.602233,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.033300000000000024,0.2,0.1667
+2025-05-05 13:41:35.401213,NFL Specials - 2026 NFL Draft - Number 1 Overall Pick - Proposition,LaNorris Sellers (SCAR),0.033299999999999996,0.1333,0.1
 2025-05-05 02:19:05.302459,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.032299999999999995,0.6875,0.6552
-2025-05-05 02:19:05.345200,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Sabrina Ionescu (NYL),0.031799999999999995,0.1429,0.1111
 2025-05-05 08:42:05.676149,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Matteo Zuppi (Italy),0.031799999999999995,0.1429,0.1111
+2025-05-05 02:19:05.345200,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Sabrina Ionescu (NYL),0.031799999999999995,0.1429,0.1111
 2025-05-05 02:19:05.341786,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Rebounds Per Game Leader,Aliyah Boston (IND),0.031200000000000002,0.0476,0.0164
 2025-05-05 02:19:05.297759,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.030699999999999998,0.0833,0.0526
 2025-05-05 04:38:32.474315,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),0.030299999999999994,0.3333,0.303
@@ -35,8 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 08:42:05.386162,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.02310000000000001,0.1,0.0769
 2025-05-05 05:35:11.086260,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,0.022199999999999998,0.2222,0.2
 2025-05-05 08:42:05.533718,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,0.020699999999999996,0.4651,0.4444
-2025-05-05 08:42:05.386162,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.02020000000000001,0.1111,0.0909
 2025-05-05 11:28:14.713775,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.02020000000000001,0.1111,0.0909
+2025-05-05 08:42:05.386162,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.02020000000000001,0.1111,0.0909
 2025-05-05 03:52:03.602233,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.019699999999999995,0.125,0.1053
 2025-05-05 04:38:32.481100,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),0.019099999999999992,0.0667,0.0476
 2025-05-05 08:42:05.518500,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,0.019000000000000017,0.2857,0.2667
@@ -83,8 +87,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 08:42:05.386162,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,-0.03420000000000001,0.0769,0.1111
 2025-05-05 08:42:05.485296,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.0348,0.4,0.4348
 2025-05-05 08:42:05.530748,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,-0.03639999999999999,0.6,0.6364
-2025-05-05 02:19:05.297759,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.03640000000000004,0.3636,0.4
 2025-05-05 08:42:05.409972,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.03640000000000004,0.3636,0.4
+2025-05-05 02:19:05.297759,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,-0.03640000000000004,0.3636,0.4
 2025-05-05 08:42:05.397655,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.03839999999999999,0.6226,0.661
 2025-05-05 02:19:05.302459,Western Conference - Western Conference 2024-25 - Western Conference Winner,Houston Rockets,-0.0384,0.0385,0.0769
 2025-05-05 08:42:05.676149,Next Pope Betting - Next Pope - Next Pope After Francis I,Cardinal Robert Sarah (French Guinea),-0.04120000000000001,0.0588,0.1
@@ -94,6 +98,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 08:42:05.530748,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,-0.057699999999999974,0.6923,0.75
 2025-05-05 09:34:07.612811,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
 2025-05-05 11:28:15.242163,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
+2025-05-05 13:41:35.715573,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
 2025-05-05 08:42:05.524748,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.07950000000000002,0.5122,0.5917
 2025-05-05 08:42:05.527780,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,-0.08039999999999997,0.4651,0.5455
 2025-05-05 08:42:05.533718,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.08549999999999996,0.2222,0.3077

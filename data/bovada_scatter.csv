@@ -2,8 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 02:19:05.345200,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Rhyne Howard (ATL),0.07069999999999999,0.1818,0.1111
 2025-05-04 23:29:40.943411,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (CON),0.06649999999999999,0.0909,0.0244
 2025-05-04 23:29:40.926035,WNBA Awards - 6th Player of the Year 2025 - 6th Player of the Year 2025,Sophie Cunningham (PHX),0.05710000000000001,0.2,0.1429
-2025-05-04 23:29:40.939082,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kamila Cardoso (CHI),0.04329999999999999,0.0909,0.0476
 2025-05-04 23:29:40.939082,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Maddy Siegrist (DAL),0.04329999999999999,0.0909,0.0476
+2025-05-04 23:29:40.939082,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kamila Cardoso (CHI),0.04329999999999999,0.0909,0.0476
 2025-05-04 23:29:40.934576,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Ezi Magbegor (SEA),0.0384,0.0769,0.0385
 2025-05-05 04:38:32.481100,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.03709999999999991,0.6667,0.6296
 2025-05-05 03:52:03.602233,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.033300000000000024,0.2,0.1667
@@ -17,7 +17,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-04 23:29:40.930290,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Noelle Quinn,0.0236,0.0385,0.0149
 2025-05-05 04:38:32.477745,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Stephen Curry (GSW),0.0232,0.0667,0.0435
 2025-05-05 05:35:11.086260,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,0.022199999999999998,0.2222,0.2
-2025-05-04 19:27:53.025985,Boxing Lines - Mikito Nakano vs Pedro Marquez Medina - To Win the Bout,Pedro Marquez Medina,0.020100000000000007,0.1739,0.1538
 2025-05-05 03:52:03.602233,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.019699999999999995,0.125,0.1053
 2025-05-05 04:38:32.481100,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),0.019099999999999992,0.0667,0.0476
 2025-05-04 23:29:40.934576,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Angel Reese (CHI),0.018200000000000004,0.0476,0.0294
@@ -46,7 +45,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-05 03:52:03.311383,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.0179,0.125,0.1429
 2025-05-05 02:19:05.293017,NBA Championship - NBA Championship 2024-25 - NBA Champion,Houston Rockets,-0.0182,0.0141,0.0323
 2025-05-04 23:29:40.934576,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Napheesa Collier (MIN),-0.019000000000000017,0.2667,0.2857
-2025-05-04 19:27:53.025985,Boxing Lines - Mikito Nakano vs Pedro Marquez Medina - To Win the Bout,Mikito Nakano,-0.020199999999999996,0.8889,0.9091
 2025-05-04 23:29:40.926035,WNBA Awards - 6th Player of the Year 2025 - 6th Player of the Year 2025,Cheyenne Parker-Tyus (ATL),-0.0245,0.0588,0.0833
 2025-05-05 02:19:05.345200,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Kelsey Mitchell (IND),-0.028199999999999996,0.0385,0.0667
 2025-05-05 03:52:03.591803,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.028799999999999992,0.1379,0.1667

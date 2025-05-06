@@ -25,13 +25,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 17:32:57.764617,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Aaliyah Edwards (WAS),0.024999999999999994,0.125,0.1
 2025-05-06 16:38:51.815071,Positions - Finishing Position - Justin Thomas - Finishing Position,17th or worse,0.023800000000000043,0.5238,0.5
 2025-05-06 09:33:54.925955,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.022199999999999998,0.8,0.7778
-2025-05-06 16:38:51.753346,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Straka - Tournament Match-Ups,Corey Conners,0.02079999999999993,0.5556,0.5348
 2025-05-06 13:44:20.394460,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs R. Henley - Tournament Match-Ups,Russell Henley,0.02079999999999993,0.5556,0.5348
+2025-05-06 16:38:51.753346,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs S. Straka - Tournament Match-Ups,Corey Conners,0.02079999999999993,0.5556,0.5348
 2025-05-06 15:39:47.979947,ROY - NL ROY 2025 - National League Rookie of the Year,Roki Sasaki (LAD),0.020299999999999985,0.2703,0.25
 2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.020100000000000007,0.7701,0.75
 2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Corinthians,0.019099999999999992,0.0667,0.0476
 2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.018900000000000028,0.4444,0.4255
 2025-05-06 17:32:57.764617,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Veronica Burton (CON),0.0189,0.0385,0.0196
+2025-05-06 19:26:37.548872,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.01820000000000002,0.2,0.1818
 2025-05-06 15:39:47.639918,Carolina Panthers - Carolina Panthers Regular Season Wins - Panthers Regular Season Wins,Over 6.5,0.017299999999999982,0.5917,0.5744
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Yealimi Noh,0.0171,0.0196,0.0025
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Sarah Schmelzel,0.0165,0.0244,0.0079
@@ -52,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Yan Liu,0.0116,0.0141,0.0025
 2025-05-06 08:40:39.541590,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Anthony Cacace,0.011499999999999955,0.6667,0.6552
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),0.011399999999999997,0.0278,0.0164
+2025-05-06 19:26:37.566083,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,0.01090000000000002,0.8571,0.8462
 2025-05-06 09:33:56.027001,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,0.01090000000000002,0.8571,0.8462
 2025-05-06 09:33:56.014668,Boxing Lines - Liam Davies vs Kurt Walker - To Win the Bout,Kurt Walker,0.010299999999999976,0.2667,0.2564
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.0102,0.0769,0.0667
@@ -63,18 +65,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 13:44:20.324880,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,-0.01090000000000002,0.8462,0.8571
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Stacy Lewis,-0.011300000000000001,0.001,0.0123
 2025-05-06 15:39:47.639918,Carolina Panthers - Carolina Panthers Regular Season Wins - Panthers Regular Season Wins,Under 6.5,-0.0116,0.4762,0.4878
+2025-05-06 19:26:37.566083,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Abdullaev Zaur,-0.011700000000000016,0.2105,0.2222
 2025-05-06 09:33:56.027001,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Abdullaev Zaur,-0.011700000000000016,0.2105,0.2222
 2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.012899999999999995,0.1538,0.1667
-2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Fluminense,-0.0131,0.0345,0.0476
 2025-05-06 09:33:56.014668,Boxing Lines - Liam Davies vs Kurt Walker - To Win the Bout,Liam Davies,-0.0131,0.8,0.8131
+2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Fluminense,-0.0131,0.0345,0.0476
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),-0.014600000000000002,0.2632,0.2778
 2025-05-06 15:39:48.123565,Tournament Match-Ups - Tournament Match-Ups - R. McIlroy vs C. Morikawa - Tournament Match-Ups,Rory McIlroy,-0.014900000000000024,0.6774,0.6923
 2025-05-06 16:38:51.806620,Positions - Finishing Position - Collin Morikawa - Finishing Position,15th or better,-0.018100000000000005,0.5652,0.5833
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,J J Spaun,-0.0182,0.0141,0.0323
-2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Rory McIlroy,-0.01820000000000002,0.1818,0.2
 2025-05-06 09:33:54.954302,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.01820000000000002,0.1818,0.2
-2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.019000000000000017,0.2667,0.2857
+2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Rory McIlroy,-0.01820000000000002,0.1818,0.2
 2025-05-06 13:44:19.272194,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.019000000000000017,0.2667,0.2857
+2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.019000000000000017,0.2667,0.2857
 2025-05-06 16:38:51.815071,Positions - Finishing Position - Justin Thomas - Finishing Position,16th or better,-0.01970000000000005,0.5455,0.5652
 2025-05-06 13:44:19.277086,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.020799999999999985,0.3125,0.3333
 2025-05-06 08:40:38.618660,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
@@ -92,6 +95,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 13:44:20.420664,Tournament Match-Ups - Tournament Match-Ups - R. McIlroy vs C. Morikawa - Tournament Match-Ups,Rory McIlroy,-0.040999999999999925,0.6923,0.7333
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.05559999999999998,0.4444,0.5
 2025-05-06 17:32:57.764617,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Rickea Jackson (LAS),-0.0567,0.1538,0.2105
+2025-05-06 19:26:37.548872,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,-0.05710000000000001,0.1429,0.2
 2025-05-06 17:32:57.764617,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Angel Reese (CHI),-0.07579999999999999,0.0909,0.1667
 2025-05-06 17:32:57.764617,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Caitlin Clark (IND),-0.08979999999999999,0.0769,0.1667
 2025-05-06 08:40:38.612712,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.10340000000000005,0.6667,0.7701

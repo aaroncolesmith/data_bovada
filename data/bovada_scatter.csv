@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Ayaka Furue,0.0397,0.0476,0.0079
 2025-05-06 02:16:09.971570,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.038299999999999994,0.0909,0.0526
 2025-05-06 08:40:38.609781,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.037700000000000004,0.0476,0.0099
+2025-05-06 13:44:20.420664,Tournament Match-Ups - Tournament Match-Ups - R. McIlroy vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,0.03710000000000002,0.3704,0.3333
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.0334,0.0769,0.0435
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Esther Henseleit,0.031700000000000006,0.0345,0.0028
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Lauren Coughlin,0.0306,0.0385,0.0079
@@ -21,33 +22,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Nikola Jokic (DEN),0.026499999999999996,0.0588,0.0323
 2025-05-06 09:33:54.925955,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.022199999999999998,0.8,0.7778
 2025-05-06 04:36:53.187126,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.022199999999999998,0.2222,0.2
+2025-05-06 13:44:20.394460,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs R. Henley - Tournament Match-Ups,Russell Henley,0.02079999999999993,0.5556,0.5348
 2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,0.020100000000000007,0.7701,0.75
 2025-05-06 04:36:53.323121,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),0.01999999999999999,0.2105,0.1905
+2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Corinthians,0.019099999999999992,0.0667,0.0476
+2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.018900000000000028,0.4444,0.4255
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Yealimi Noh,0.0171,0.0196,0.0025
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Sarah Schmelzel,0.0165,0.0244,0.0079
 2025-05-06 02:16:09.966910,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,0.0159,0.0323,0.0164
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Brooke Henderson,0.015899999999999997,0.0179,0.002
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Andrea Lee,0.014400000000000001,0.0164,0.002
-2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),0.014100000000000001,0.0526,0.0385
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.014100000000000001,0.0526,0.0385
+2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),0.014100000000000001,0.0526,0.0385
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.014099999999999998,0.0385,0.0244
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,A Lim Kim,0.013699999999999999,0.0278,0.0141
+2025-05-06 13:44:19.277086,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,0.0131,0.2353,0.2222
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Megan Khang,0.0127,0.0152,0.0025
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.012599999999999998,0.0278,0.0152
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Carlota Ciganda,0.012400000000000001,0.0164,0.004
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Ashleigh Buhai,0.0121,0.0141,0.002
+2025-05-06 13:44:20.324880,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Abdullaev Zaur,0.011700000000000016,0.2222,0.2105
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Yan Liu,0.0116,0.0141,0.0025
 2025-05-06 08:40:39.541590,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Anthony Cacace,0.011499999999999955,0.6667,0.6552
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),0.011399999999999997,0.0278,0.0164
 2025-05-06 09:33:56.027001,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,0.01090000000000002,0.8571,0.8462
 2025-05-06 09:33:56.014668,Boxing Lines - Liam Davies vs Kurt Walker - To Win the Bout,Kurt Walker,0.010299999999999976,0.2667,0.2564
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.0102,0.0769,0.0667
+2025-05-06 13:44:19.272194,League One - England League One 2024/25 - To Be Promoted,Stockport County,-0.010099999999999998,0.3125,0.3226
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Collin Morikawa,-0.0102,0.0667,0.0769
 2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),-0.010499999999999982,0.2,0.2105
 2025-05-06 02:16:09.966910,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.010699999999999987,0.3226,0.3333
+2025-05-06 13:44:20.324880,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,-0.01090000000000002,0.8462,0.8571
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Stacy Lewis,-0.011300000000000001,0.001,0.0123
 2025-05-06 09:33:56.027001,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Abdullaev Zaur,-0.011700000000000016,0.2105,0.2222
 2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.012899999999999995,0.1538,0.1667
+2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Fluminense,-0.0131,0.0345,0.0476
 2025-05-06 09:33:56.014668,Boxing Lines - Liam Davies vs Kurt Walker - To Win the Bout,Liam Davies,-0.0131,0.8,0.8131
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Kristaps Porzingis (BOS),-0.014099999999999998,0.0244,0.0385
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),-0.014600000000000002,0.2632,0.2778
@@ -55,17 +64,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,J J Spaun,-0.0182,0.0141,0.0323
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Rory McIlroy,-0.01820000000000002,0.1818,0.2
 2025-05-06 09:33:54.954302,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.01820000000000002,0.1818,0.2
+2025-05-06 13:44:19.272194,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.019000000000000017,0.2667,0.2857
 2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.019000000000000017,0.2667,0.2857
+2025-05-06 13:44:19.277086,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.020799999999999985,0.3125,0.3333
 2025-05-06 08:40:38.618660,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
+2025-05-06 13:44:20.394460,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs R. Henley - Tournament Match-Ups,Jordan Spieth,-0.022600000000000064,0.5122,0.5348
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Minjee Lee,-0.0232,0.0435,0.0667
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.023800000000000043,0.5,0.5238
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.0242,0.0667,0.0909
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.02560000000000001,0.3077,0.3333
+2025-05-06 13:44:19.224316,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.029299999999999993,0.0476,0.0769
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.029899999999999982,0.2778,0.3077
 2025-05-06 02:16:09.971570,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.032099999999999906,0.5833,0.6154
 2025-05-06 04:36:53.177942,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.03210000000000002,0.3846,0.4167
 2025-05-06 09:33:54.925955,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,-0.034100000000000005,0.0909,0.125
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),-0.03640000000000004,0.3636,0.4
+2025-05-06 13:44:20.420664,Tournament Match-Ups - Tournament Match-Ups - R. McIlroy vs C. Morikawa - Tournament Match-Ups,Rory McIlroy,-0.040999999999999925,0.6923,0.7333
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.05559999999999998,0.4444,0.5
 2025-05-06 08:40:38.612712,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.10340000000000005,0.6667,0.7701
 2025-05-06 04:36:53.323121,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.11109999999999998,0.5556,0.6667

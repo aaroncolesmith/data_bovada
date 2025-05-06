@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 04:36:53.187126,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.097,0.1739,0.0769
 2025-05-06 08:40:38.612712,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.09049999999999997,0.5556,0.4651
 2025-05-06 08:40:38.492688,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,CF Monterrey,0.08410000000000001,0.1429,0.0588
-2025-05-05 22:35:37.361811,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,0.0695,0.3636,0.2941
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Ruoning Yin,0.0647,0.0667,0.002
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,0.052399999999999995,0.0909,0.0385
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,0.049800000000000004,0.0526,0.0028
@@ -43,7 +42,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 09:33:56.027001,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,0.01090000000000002,0.8571,0.8462
 2025-05-06 09:33:56.014668,Boxing Lines - Liam Davies vs Kurt Walker - To Win the Bout,Kurt Walker,0.010299999999999976,0.2667,0.2564
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.0102,0.0769,0.0667
-2025-05-05 22:35:36.796116,A1 - Greece A1 2024/25 - Outright,Olympiacos,0.010099999999999998,0.4545,0.4444
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Collin Morikawa,-0.0102,0.0667,0.0769
 2025-05-06 08:40:38.932623,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),-0.010499999999999982,0.2,0.2105
 2025-05-06 02:16:09.966910,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.010699999999999987,0.3226,0.3333
@@ -54,10 +52,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 03:17:24.195833,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Kristaps Porzingis (BOS),-0.014099999999999998,0.0244,0.0385
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),-0.014600000000000002,0.2632,0.2778
 2025-05-06 04:36:53.177942,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.014900000000000024,0.3077,0.3226
-2025-05-05 22:35:36.796116,A1 - Greece A1 2024/25 - Outright,Panathinaikos,-0.01539999999999997,0.6,0.6154
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,J J Spaun,-0.0182,0.0141,0.0323
-2025-05-06 09:33:54.954302,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.01820000000000002,0.1818,0.2
 2025-05-06 08:40:39.591987,Truist Championship - Truist Championship - Winner,Rory McIlroy,-0.01820000000000002,0.1818,0.2
+2025-05-06 09:33:54.954302,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.01820000000000002,0.1818,0.2
 2025-05-06 08:40:38.603608,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.019000000000000017,0.2667,0.2857
 2025-05-06 08:40:38.618660,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
 2025-05-06 09:33:56.081889,Mizuho Americas Open - Mizuho Americas Open - Winner,Minjee Lee,-0.0232,0.0435,0.0667
@@ -70,7 +67,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-06 09:33:54.925955,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,-0.034100000000000005,0.0909,0.125
 2025-05-06 08:40:38.929257,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),-0.03640000000000004,0.3636,0.4
 2025-05-06 08:40:38.925719,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.05559999999999998,0.4444,0.5
-2025-05-05 22:35:37.365337,MLB Series Prices - MLB Series Prices May 5 to May 8 - 4 Game Series,Tie,-0.0695,0.2941,0.3636
 2025-05-06 08:40:38.612712,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Nottingham Forest,-0.10340000000000005,0.6667,0.7701
 2025-05-06 04:36:53.323121,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.11109999999999998,0.5556,0.6667
 2025-05-06 04:36:53.187126,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.1179,0.5744,0.6923

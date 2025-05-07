@@ -1,13 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-05-07 03:18:35.290745,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Inter Milan,0.2444,0.4444,0.2
 2025-05-07 05:35:03.075471,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,0.14549999999999996,0.5455,0.4
 2025-05-07 05:35:03.058446,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 68.5,0.08900000000000002,0.5238,0.4348
 2025-05-07 05:35:03.062670,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,0.06970000000000004,0.5348,0.4651
-2025-05-07 03:18:35.692087,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.05679999999999999,0.1818,0.125
 2025-05-07 05:35:03.066888,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,0.045499999999999985,0.5455,0.5
 2025-05-07 05:35:03.083967,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 68.5,0.04139999999999999,0.5652,0.5238
 2025-05-07 10:39:32.873023,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Anthony Cacace,0.03920000000000001,0.7059,0.6667
-2025-05-07 03:18:35.290745,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,0.03489999999999999,0.5,0.4651
 2025-05-07 06:44:23.868460,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.029299999999999993,0.0769,0.0476
 2025-05-07 04:37:14.490824,Boxing Lines - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,0.028800000000000048,0.875,0.8462
 2025-05-07 04:37:14.467394,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,0.02870000000000006,0.8182,0.7895
@@ -21,44 +18,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-07 14:37:59.706081,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,0.01880000000000004,0.5744,0.5556
 2025-05-07 14:37:59.701538,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,0.01880000000000004,0.5744,0.5556
 2025-05-07 04:37:13.672186,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.018100000000000005,0.5833,0.5652
-2025-05-07 03:18:35.292923,UEFA Champions League - UEFA Champions League 2024/25 - Most Assists,Achraf Hakimi (PSG),0.018099999999999998,0.0769,0.0588
-2025-05-07 03:18:36.479055,Boxing Lines - Erickson Lubin vs Ardreal Holmes - To Win the Bout,Erickson Lubin,0.017899999999999916,0.7826,0.7647
 2025-05-07 04:37:13.672186,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.015100000000000002,0.1818,0.1667
 2025-05-07 06:44:23.868460,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Kristaps Porzingis (BOS),0.014900000000000004,0.0345,0.0196
 2025-05-07 08:42:33.236794,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Chris Kongo,0.014800000000000035,0.6226,0.6078
 2025-05-07 14:37:59.390952,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Chris Kongo,0.013799999999999923,0.6364,0.6226
-2025-05-07 03:18:36.455323,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Ezra Taylor,0.0131,0.7778,0.7647
-2025-05-07 03:18:36.459265,Boxing Lines - Souleymane Cissokho vs Egidijus Kavaliauskas - To Win the Bout,Souleymane Cissokho,0.012700000000000045,0.6491,0.6364
 2025-05-07 06:44:23.868460,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.011900000000000008,0.0952,0.0833
 2025-05-07 05:35:03.054157,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,0.011600000000000055,0.5238,0.5122
 2025-05-07 06:44:23.871932,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),0.011399999999999997,0.0278,0.0164
-2025-05-07 03:18:35.682806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,0.0102,0.0769,0.0667
-2025-05-07 03:18:35.682806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.0102,0.0769,0.0667
 2025-05-07 13:01:38.748448,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-05-07 13:01:38.752786,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-05-07 05:35:03.079730,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
 2025-05-07 13:01:38.765826,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
-2025-05-07 13:01:38.757210,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-05-07 13:01:38.774530,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
+2025-05-07 13:01:38.757210,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-05-07 05:35:03.054157,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,-0.010099999999999998,0.5455,0.5556
 2025-05-07 08:42:33.236794,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Owen Cooper,-0.010099999999999998,0.4444,0.4545
 2025-05-07 06:44:23.871932,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Evan Mobley (CLE),-0.011200000000000002,0.0132,0.0244
-2025-05-07 13:01:38.774530,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,-0.011600000000000055,0.5122,0.5238
+2025-05-07 13:01:38.748448,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-07 13:01:38.752786,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-07 05:35:03.079730,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,-0.011600000000000055,0.5122,0.5238
+2025-05-07 13:01:38.774530,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-07 13:01:38.765826,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-07 13:01:38.757210,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
-2025-05-07 13:01:38.748448,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-07 05:35:03.088232,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Under 68.5,-0.012199999999999989,0.5,0.5122
-2025-05-07 03:18:35.682806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.013999999999999999,0.0769,0.0909
-2025-05-07 03:18:35.682806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.013999999999999999,0.0769,0.0909
-2025-05-07 03:18:36.455323,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Troy Jones,-0.017299999999999982,0.2857,0.303
+2025-05-07 14:37:58.747853,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,-0.016699999999999993,0.25,0.2667
 2025-05-07 04:37:13.662902,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.018099999999999998,0.0588,0.0769
 2025-05-07 06:44:23.871932,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),-0.018099999999999998,0.0588,0.0769
 2025-05-07 14:37:58.738665,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.01880000000000004,0.5556,0.5744
 2025-05-07 14:37:59.390952,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Owen Cooper,-0.018900000000000028,0.4255,0.4444
 2025-05-07 05:35:03.049878,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
-2025-05-07 03:18:36.479055,Boxing Lines - Erickson Lubin vs Ardreal Holmes - To Win the Bout,Ardreal Holmes,-0.021299999999999986,0.2817,0.303
 2025-05-07 14:37:59.665582,Scores - 1st Round Score - Rory McIIroy - 1st Round Score,Under 67.5,-0.022600000000000064,0.5122,0.5348
 2025-05-07 05:35:03.045615,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2025-05-07 14:37:59.706081,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,-0.024399999999999977,0.4878,0.5122
@@ -70,7 +58,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-07 05:35:03.066888,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.04139999999999999,0.5238,0.5652
 2025-05-07 10:39:32.873023,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Leigh Wood,-0.04290000000000005,0.3571,0.4
 2025-05-07 05:35:03.083967,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 68.5,-0.045499999999999985,0.5,0.5455
-2025-05-07 03:18:35.692087,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.05350000000000002,0.1818,0.2353
 2025-05-07 06:44:23.871932,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),-0.056400000000000006,0.0769,0.1333
 2025-05-07 06:44:23.868460,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.057699999999999974,0.4878,0.5455
 2025-05-07 05:35:03.062670,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,-0.06519999999999992,0.5348,0.6

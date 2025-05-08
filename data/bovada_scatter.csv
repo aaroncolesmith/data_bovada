@@ -12,17 +12,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-07 23:31:17.358851,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Ezra Taylor,0.032399999999999984,0.8261,0.7937
 2025-05-08 05:35:33.791992,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),0.03219999999999999,0.0667,0.0345
 2025-05-08 05:35:33.791992,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.03210000000000002,0.4167,0.3846
-2025-05-08 05:35:33.791992,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),0.0321,0.0909,0.0588
 2025-05-07 20:34:49.519708,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.0321,0.0909,0.0588
+2025-05-08 05:35:33.791992,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),0.0321,0.0909,0.0588
 2025-05-08 03:51:04.978549,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.02960000000000007,0.6296,0.6
 2025-05-08 02:17:36.725348,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.029600000000000015,0.4,0.3704
 2025-05-08 05:35:34.724842,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2025-05-08 05:35:34.750108,Scores - 1st Round Score - Russell Henley - 1st Round Score,Under 68.5,0.023800000000000043,0.5238,0.5
 2025-05-08 02:17:37.603070,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.022600000000000064,0.6226,0.6
 2025-05-08 05:35:33.795276,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),0.022199999999999998,0.2222,0.2
-2025-05-08 05:35:34.741753,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.02079999999999993,0.5556,0.5348
 2025-05-08 02:17:37.768074,Round Match-Ups - 1st Round Match-Ups - S. Straka vs M. McNealy - 1st Round Match-Ups,Sepp Straka,0.02079999999999993,0.5556,0.5348
 2025-05-08 02:17:37.748042,Round Match-Ups - 1st Round Match-Ups - A. Rai vs M.W. Lee - 1st Round Match-Ups,Aaron Rai,0.02079999999999993,0.5556,0.5348
+2025-05-08 05:35:34.741753,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.02079999999999993,0.5556,0.5348
 2025-05-08 05:35:33.658522,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.02049999999999999,0.1538,0.1333
 2025-05-08 05:35:33.455230,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,0.0189,0.0385,0.0196
 2025-05-08 05:35:34.729097,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 68.5,0.01880000000000004,0.5744,0.5556
@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-08 02:17:36.725348,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.01830000000000001,0.0952,0.0769
 2025-05-08 02:17:36.725348,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.018099999999999998,0.0769,0.0588
 2025-05-08 03:51:04.969326,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.016699999999999993,0.4167,0.4
-2025-05-08 05:35:33.795276,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.016699999999999937,0.6,0.5833
 2025-05-08 02:17:36.734581,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.016699999999999937,0.6,0.5833
+2025-05-08 05:35:33.795276,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.016699999999999937,0.6,0.5833
 2025-05-08 05:35:33.791992,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),0.014100000000000001,0.0526,0.0385
 2025-05-08 05:35:33.788621,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.014099999999999998,0.0385,0.0244
 2025-05-08 05:35:33.795276,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),0.014099999999999994,0.0667,0.0526
@@ -44,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-08 02:17:37.760120,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs V. Hovland - 1st Round Match-Ups,Jordan Spieth,-0.011600000000000055,0.5122,0.5238
 2025-05-08 03:51:04.969326,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.011700000000000016,0.2105,0.2222
 2025-05-08 05:35:34.468610,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Leigh Wood,-0.013300000000000034,0.3571,0.3704
-2025-05-07 19:27:33.322500,College World Series Winner - College World Series Winner - College World Series 2025 Winner,UC Irvine Anteaters,-0.013699999999999999,0.0141,0.0278
 2025-05-07 20:34:49.519708,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.016600000000000004,0.0667,0.0833
 2025-05-08 05:35:33.658522,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.01759999999999999,0.1,0.1176
 2025-05-07 20:34:49.519708,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.018099999999999998,0.0588,0.0769
@@ -56,12 +55,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-08 05:35:34.741753,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,-0.022600000000000064,0.5122,0.5348
 2025-05-07 20:34:49.629508,BNXT League - BNXT League 2024/25 - Outright,Kangoeres Mechelen,-0.023799999999999988,0.1429,0.1667
 2025-05-08 05:35:34.724842,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
+2025-05-08 05:35:34.729097,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,-0.024399999999999977,0.4878,0.5122
 2025-05-08 05:35:34.733345,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,-0.024399999999999977,0.4878,0.5122
 2025-05-08 02:17:37.748042,Round Match-Ups - 1st Round Match-Ups - A. Rai vs M.W. Lee - 1st Round Match-Ups,Min Woo Lee,-0.024399999999999977,0.4878,0.5122
 2025-05-08 02:17:37.768074,Round Match-Ups - 1st Round Match-Ups - S. Straka vs M. McNealy - 1st Round Match-Ups,Maverick McNealy,-0.024399999999999977,0.4878,0.5122
-2025-05-08 05:35:34.729097,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 68.5,-0.024399999999999977,0.4878,0.5122
 2025-05-08 05:35:33.795276,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.028799999999999992,0.125,0.1538
-2025-05-07 19:27:33.322500,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Tennessee Volunteers,-0.028799999999999992,0.1379,0.1667
 2025-05-07 23:31:17.358851,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Troy Jones,-0.03300000000000003,0.241,0.274
 2025-05-08 03:51:06.115367,Tournament Match-Ups - Tournament Match-Ups - R. Henley v H. Matsuyama - Requests,Hideki Matsuyama,-0.04700000000000004,0.4878,0.5348
 2025-05-08 03:51:04.978549,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.04849999999999999,0.1333,0.1818

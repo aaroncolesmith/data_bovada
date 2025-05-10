@@ -1,23 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Nelly Korda,0.1725,0.2778,0.1053
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Alex Arce,0.15239999999999998,0.1818,0.0294
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.1412,0.9412,0.8
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),0.13190000000000002,0.2857,0.1538
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,0.1306,0.1429,0.0123
 2025-05-09 23:29:29.269910,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.12829999999999997,0.3636,0.2353
 2025-05-10 05:32:46.946416,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.1167,0.25,0.1333
 2025-05-10 06:38:40.413753,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),0.1131,0.2381,0.125
 2025-05-10 02:06:09.774352,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.09939999999999996,0.3077,0.2083
+2025-05-10 08:35:18.429846,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,0.09689999999999999,0.3636,0.2667
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 35+ Combined Rebounds",0.0917,0.5917,0.5
-2025-05-09 20:33:55.796345,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Javier Baez (DET),0.0769,0.1538,0.0769
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 37+ Combined Rebounds",0.07619999999999999,0.4762,0.4
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Somi Lee,0.071,0.0833,0.0123
-2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,Luisangel Acuna (NYM),0.06999999999999999,0.1176,0.0476
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Danny Walker,0.0668,0.1053,0.0385
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 33+ Combined Rebounds",0.06669999999999998,0.6667,0.6
 2025-05-10 06:38:40.410440,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),0.066,0.1429,0.0769
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Andrea Lee,0.0654,0.0833,0.0179
 2025-05-10 07:28:09.774665,Scores - 3rd Round Scores - Max Homa - 3rd Round Scores,Under 69.5,0.06520000000000004,0.5652,0.5
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 31+ Combined Rebounds",0.0595,0.8095,0.75
+2025-05-10 08:35:18.365587,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.055800000000000016,0.2857,0.2299
 2025-05-09 23:29:29.661584,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.05559999999999998,0.1667,0.1111
 2025-05-10 05:32:46.937165,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,0.052700000000000004,0.1053,0.0526
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Harry Higgs,0.0509,0.0588,0.0079
@@ -25,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 39+ Combined Rebounds",0.047599999999999976,0.3333,0.2857
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 29+ Combined Rebounds",0.04619999999999991,0.8462,0.8
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Mackenzie Hughes,0.044499999999999984,0.2667,0.2222
+2025-05-10 08:35:18.365587,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.044499999999999984,0.2667,0.2222
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Davis Shore,0.0432,0.0476,0.0044
 2025-05-10 02:06:09.769745,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.042899999999999994,0.1429,0.1
 2025-05-10 04:36:36.485265,BKFC 74: Richman vs Dyer - Cody Beierle vs Zack Partridge - To Win the Bout,Zack Partridge,0.04250000000000009,0.7647,0.7222
@@ -37,22 +39,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 07:28:09.783056,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 67.5,0.03479999999999994,0.6,0.5652
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Kevin Yu,0.0344,0.0588,0.0244
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Racing Club,0.03420000000000001,0.1111,0.0769
-2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,AJ Smith-Shawver (ATL),0.0334,0.0769,0.0435
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Leganés,0.03410000000000002,0.9091,0.875
 2025-05-10 05:32:46.946416,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.03219999999999998,0.2703,0.2381
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Norman Xiong,0.032,0.0345,0.0025
+2025-05-10 08:35:18.448550,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.031799999999999995,0.4762,0.4444
 2025-05-10 03:46:47.952389,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.030299999999999994,0.6667,0.6364
 2025-05-10 06:38:40.060483,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.029299999999999993,0.0769,0.0476
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Nick Watney,0.0279,0.0345,0.0066
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 41+ Combined Rebounds",0.02779999999999999,0.25,0.2222
 2025-05-10 06:38:40.413753,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),0.02779999999999999,0.25,0.2222
 2025-05-10 03:13:34.930880,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
-2025-05-10 07:28:09.753407,Main Markets - 3rd Round 2-Balls - S. Straka / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.025599999999999956,0.6,0.5744
 2025-05-10 07:28:09.725880,Main Markets - 3rd Round 2-Balls - S. Im / A. Noren - 3rd Round 2-Balls,Sungjae Im,0.025599999999999956,0.6,0.5744
+2025-05-10 07:28:09.753407,Main Markets - 3rd Round 2-Balls - S. Straka / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.025599999999999956,0.6,0.5744
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 27+ Combined Rebounds",0.025000000000000022,0.9,0.875
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Carlota Ciganda,0.024800000000000003,0.0526,0.0278
 2025-05-10 07:28:09.795728,Scores - 3rd Round Scores - Si Woo Kim - 3rd Round Scores,Under 68.5,0.023800000000000043,0.5238,0.5
-2025-05-10 05:32:46.937165,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.023799999999999988,0.1667,0.1429
 2025-05-10 07:28:09.787309,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Over 68.5,0.023799999999999988,0.5,0.4762
+2025-05-10 05:32:46.937165,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.023799999999999988,0.1667,0.1429
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Claudio Spinelli,0.0236,0.0385,0.0149
 2025-05-10 03:13:35.918805,Main Markets - 3rd Round 2-Balls - L. Aberg / H. Matsuyama - 3rd Round 2-Balls,Hideki Matsuyama,0.022699999999999998,0.4878,0.4651
 2025-05-10 05:32:47.771951,BKFC 74: Richman vs Dyer - Josenaldo Araujo Silva vs Jordan Smith - To Win the Bout,Josenaldo Araujo Silva,0.022600000000000064,0.6226,0.6
@@ -67,33 +70,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 06:38:41.454491,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Tim Widing,0.0184,0.0217,0.0033
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Celine Boutier,0.018099999999999998,0.0769,0.0588
 2025-05-10 06:38:40.060483,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Grêmio,0.0179,0.1429,0.125
-2025-05-09 20:33:55.889364,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Chris Kongo,0.01759999999999995,0.6667,0.6491
 2025-05-10 06:38:41.166035,BKFC 74: Richman vs Dyer - Kathryn Paprocki vs Shelby Cannon - To Win the Bout,Kathryn Paprocki,0.01759999999999995,0.6667,0.6491
 2025-05-10 05:32:46.937165,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.0174,0.2174,0.2
 2025-05-10 06:38:41.154224,BKFC 74: Richman vs Dyer - Jim Pulgar vs Trever Bradshaw - To Win the Bout,Jim Pulgar,0.016900000000000026,0.6721,0.6552
 2025-05-10 03:46:48.732012,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Troy Jones,0.01680000000000001,0.2273,0.2105
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Maximiliano Silvera,0.0165,0.0244,0.0079
+2025-05-10 08:35:19.503586,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Mike Richman,0.016100000000000003,0.6078,0.5917
 2025-05-10 07:28:09.770466,Scores - 3rd Round Scores - Justin Thomas - 3rd Round Scores,Under 68.5,0.016100000000000003,0.6078,0.5917
 2025-05-10 07:28:09.799896,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Under 68.5,0.016100000000000003,0.6078,0.5917
 2025-05-10 04:36:35.663243,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.015899999999999997,0.2381,0.2222
-2025-05-09 20:33:55.801646,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Kodai Senga (NYM),0.015700000000000006,0.1333,0.1176
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Evan Mobley (CLE),0.0157,0.0435,0.0278
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Carson Young,0.015399999999999999,0.0179,0.0025
 2025-05-09 23:29:29.623678,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.015100000000000002,0.1818,0.1667
-2025-05-09 20:33:55.765260,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.015100000000000002,0.1818,0.1667
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 25+ Combined Rebounds",0.014900000000000024,0.9524,0.9375
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Facundo Colidio,0.014900000000000004,0.0345,0.0196
-2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Andrew Nembhard (IND),0.0145,0.0244,0.0099
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Myles Turner (IND),0.0145,0.0244,0.0099
+2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Andrew Nembhard (IND),0.0145,0.0244,0.0099
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Fortaleza,0.014100000000000001,0.0526,0.0385
-2025-05-10 06:38:40.060483,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,0.014099999999999998,0.0435,0.0294
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Darius Garland (CLE),0.014099999999999998,0.0385,0.0244
+2025-05-10 06:38:40.060483,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,0.014099999999999998,0.0435,0.0294
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Emiliano Grillo,0.0139,0.0196,0.0057
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,0.013899999999999996,0.125,0.1111
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Patton Kizzire,0.0138,0.0217,0.0079
 2025-05-10 05:32:47.756299,BKFC 74: Richman vs Dyer - Cody Beierle vs Zack Partridge - To Win the Bout,Zack Partridge,0.0131,0.7778,0.7647
 2025-05-10 06:38:41.150300,BKFC 74: Richman vs Dyer - Jeremiah Truhlar vs Dominico Salas - To Win the Bout,Dominico Salas,0.0131,0.7778,0.7647
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,0.0131,0.0476,0.0345
+2025-05-10 08:35:18.448550,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,0.013,0.0196,0.0066
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Leandro Fernandez,0.013,0.0196,0.0066
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Atlético Nacional,0.012899999999999998,0.0278,0.0149
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Ben Silverman,0.012100000000000001,0.0244,0.0123
@@ -109,14 +111,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 05:32:46.946416,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.0102,0.0667,0.0769
 2025-05-10 06:38:41.454491,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Hayden Springer,-0.0103,0.002,0.0123
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Victor Perez,-0.010300000000000002,0.0141,0.0244
-2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Mark Hubbard,-0.0108,0.0033,0.0141
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Chad Ramey,-0.0108,0.0044,0.0152
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,A Lim Kim,-0.0108,0.0033,0.0141
-2025-05-09 20:33:55.801646,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Dustin May (LAD),-0.010899999999999993,0.1429,0.1538
+2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Mark Hubbard,-0.0108,0.0033,0.0141
 2025-05-10 07:28:09.778842,Scores - 3rd Round Scores - Patrick Cantlay - 3rd Round Scores,Over 68.5,-0.011099999999999999,0.4651,0.4762
 2025-05-10 07:28:09.614529,BKFC 74: Richman vs Dyer - Kathryn Paprocki vs Shelby Cannon - To Win the Bout,Kathryn Paprocki,-0.011499999999999955,0.6552,0.6667
 2025-05-10 02:06:10.881129,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs S. Im - 3rd Round Match-Ups,Sam Burns,-0.011600000000000055,0.5122,0.5238
-2025-05-09 20:33:55.796345,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Trevor Story (BOS),-0.011899999999999994,0.0714,0.0833
 2025-05-10 05:32:47.629156,Boxing Lines - Souleymane Cissokho vs Egidijus Kavaliauskas - To Win the Bout,Souleymane Cissokho,-0.012700000000000045,0.6364,0.6491
 2025-05-10 03:13:34.930880,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.012899999999999995,0.1538,0.1667
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Bolívar,-0.013,0.0066,0.0196
@@ -136,18 +136,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Flamengo,-0.015100000000000002,0.1667,0.1818
 2025-05-10 06:38:41.154224,BKFC 74: Richman vs Dyer - Jim Pulgar vs Trever Bradshaw - To Win the Bout,Trever Bradshaw,-0.016000000000000014,0.3922,0.4082
 2025-05-09 23:29:29.269910,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.016699999999999937,0.5833,0.6
-2025-05-09 20:33:55.889364,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Owen Cooper,-0.016699999999999993,0.4,0.4167
 2025-05-10 06:38:41.166035,BKFC 74: Richman vs Dyer - Kathryn Paprocki vs Shelby Cannon - To Win the Bout,Shelby Cannon,-0.016699999999999993,0.4,0.4167
 2025-05-10 03:46:48.732012,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Ezra Taylor,-0.016799999999999926,0.8403,0.8571
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Lindy Duncan,-0.0168,0.011,0.0278
 2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Alianza Lima,-0.0169,0.001,0.0179
-2025-05-10 06:38:41.150300,BKFC 74: Richman vs Dyer - Jeremiah Truhlar vs Dominico Salas - To Win the Bout,Jeremiah Truhlar,-0.017299999999999982,0.2857,0.303
 2025-05-10 07:28:09.791497,Scores - 3rd Round Scores - Shane Lowry - 3rd Round Scores,Under 68.5,-0.017299999999999982,0.5744,0.5917
+2025-05-10 06:38:41.150300,BKFC 74: Richman vs Dyer - Jeremiah Truhlar vs Dominico Salas - To Win the Bout,Jeremiah Truhlar,-0.017299999999999982,0.2857,0.303
 2025-05-10 05:32:47.756299,BKFC 74: Richman vs Dyer - Cody Beierle vs Zack Partridge - To Win the Bout,Cody Beierle,-0.017299999999999982,0.2857,0.303
 2025-05-10 06:38:41.170100,BKFC 74: Richman vs Dyer - Sean Hotusing vs Mike Jones - To Win the Bout,Sean Hotusing,-0.017600000000000005,0.3333,0.3509
-2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.0179,0.125,0.1429
 2025-05-10 06:38:40.410440,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),-0.018099999999999998,0.0345,0.0526
 2025-05-10 05:32:47.779792,BKFC 74: Richman vs Dyer - Kathryn Paprocki vs Shelby Cannon - To Win the Bout,Shelby Cannon,-0.018100000000000005,0.4167,0.4348
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,-0.018200000000000004,0.0294,0.0476
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Braian Romero,-0.018200000000000004,0.0294,0.0476
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),-0.01820000000000002,0.1818,0.2
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Kevin Roy,-0.0184,0.0033,0.0217
@@ -155,46 +154,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Chris Gotterup,-0.0189,0.0196,0.0385
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Ryan Fox,-0.019099999999999992,0.0476,0.0667
 2025-05-10 07:28:09.795728,Scores - 3rd Round Scores - Si Woo Kim - 3rd Round Scores,Over 68.5,-0.01970000000000005,0.5455,0.5652
-2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,Roki Sasaki (LAD),-0.020299999999999985,0.25,0.2703
 2025-05-10 07:28:09.753407,Main Markets - 3rd Round 2-Balls - S. Straka / J. Thomas - 3rd Round 2-Balls,Sepp Straka,-0.020699999999999996,0.4444,0.4651
 2025-05-10 07:28:09.725880,Main Markets - 3rd Round 2-Balls - S. Im / A. Noren - 3rd Round 2-Balls,Alex Noren,-0.020699999999999996,0.4444,0.4651
 2025-05-10 05:32:47.771951,BKFC 74: Richman vs Dyer - Josenaldo Araujo Silva vs Jordan Smith - To Win the Bout,Jordan Smith,-0.020699999999999996,0.4444,0.4651
 2025-05-10 07:28:09.770466,Scores - 3rd Round Scores - Justin Thomas - 3rd Round Scores,Over 68.5,-0.021699999999999997,0.4545,0.4762
 2025-05-10 07:28:09.799896,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 68.5,-0.021699999999999997,0.4545,0.4762
+2025-05-10 08:35:19.503586,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Josh Dyer,-0.021699999999999997,0.4545,0.4762
 2025-05-10 07:28:09.941524,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Max McGreevy,-0.022400000000000003,0.002,0.0244
 2025-05-10 03:13:35.967677,Main Markets - 3rd Round 2-Balls - T. Detry / S. Jaeger - 3rd Round 2-Balls,Thomas Detry,-0.023800000000000043,0.5,0.5238
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Jennifer Kupcho,-0.0257,0.0066,0.0323
 2025-05-10 07:28:09.787309,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Under 68.5,-0.026499999999999968,0.5652,0.5917
 2025-05-09 23:29:29.274439,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.028299999999999992,0.8948,0.9231
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Ramiro Vaca,-0.0321,0.0588,0.0909
-2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),-0.03219999999999999,0.0345,0.0667
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.0321,0.0588,0.0909
 2025-05-10 06:38:40.413753,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),-0.03219999999999999,0.0345,0.0667
+2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),-0.03219999999999999,0.0345,0.0667
 2025-05-10 07:28:09.783056,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Over 67.5,-0.03489999999999999,0.4651,0.5
 2025-05-10 07:28:09.762052,Scores - 3rd Round Scores - Akshay Bhatia - 3rd Round Scores,Over 68.5,-0.03610000000000002,0.5556,0.5917
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Esther Henseleit,-0.037700000000000004,0.0099,0.0476
 2025-05-10 06:38:40.410440,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Stephen Curry (GSW),-0.0389,0.0278,0.0667
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Jesper Svensson,-0.039099999999999996,0.0044,0.0435
 2025-05-10 04:36:36.485265,BKFC 74: Richman vs Dyer - Cody Beierle vs Zack Partridge - To Win the Bout,Cody Beierle,-0.041800000000000004,0.303,0.3448
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,-0.04329999999999999,0.0476,0.0909
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Estevao,-0.0475,0.0294,0.0769
 2025-05-09 23:29:29.661584,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.04760000000000003,0.4762,0.5238
-2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Internacional,-0.048100000000000004,0.0769,0.125
 2025-05-10 06:38:40.060483,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Corinthians SP,-0.048100000000000004,0.0769,0.125
+2025-05-10 05:32:46.696893,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Internacional,-0.048100000000000004,0.0769,0.125
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Hye Jin Choi,-0.0506,0.002,0.0526
-2025-05-09 20:33:55.796345,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Mike Trout (LAA),-0.05679999999999999,0.125,0.1818
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.05790000000000001,0.3125,0.3704
-2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,Dylan Crews (WAS),-0.06319999999999998,0.2,0.2632
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Alejandro Tosti,-0.0647,0.002,0.0667
 2025-05-10 07:28:09.774665,Scores - 3rd Round Scores - Max Homa - 3rd Round Scores,Over 69.5,-0.06520000000000004,0.5,0.5652
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Lourenco Alan Patrick,-0.06820000000000001,0.1818,0.25
+2025-05-10 08:35:18.337585,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.06840000000000002,0.1538,0.2222
 2025-05-10 02:06:09.774352,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.06860000000000002,0.1667,0.2353
 2025-05-10 05:32:46.692999,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Hernan Barcos,-0.06999999999999999,0.0476,0.1176
 2025-05-10 06:38:40.407026,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),-0.07500000000000001,0.125,0.2
 2025-05-10 06:38:40.413753,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.07619999999999993,0.5238,0.6
 2025-05-10 06:38:40.410440,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),-0.08340000000000003,0.3333,0.4167
+2025-05-10 08:35:18.429846,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Hamburger SV,-0.0857,0.7143,0.8
 2025-05-10 05:32:46.937165,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.09090000000000004,0.3636,0.4545
+2025-05-10 08:35:18.362704,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.0917,0.6226,0.7143
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Thorbjorn Olesen,-0.0948,0.0385,0.1333
 2025-05-10 04:36:36.814108,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Seamus Power,-0.098,0.002,0.1
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Hae Ran Ryu,-0.10969999999999999,0.0079,0.1176
 2025-05-09 23:29:29.269910,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.1111,0.1111,0.2222
 2025-05-10 05:32:46.946416,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.12119999999999997,0.5455,0.6667
+2025-05-10 08:35:18.365587,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.123,0.0588,0.1818
 2025-05-10 06:38:41.423543,Mizuho Americas Open - Mizuho Americas Open - Winner,Jeeno Thitikul,-0.15089999999999998,0.2,0.3509

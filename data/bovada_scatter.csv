@@ -15,9 +15,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 29+ Combined Rebounds",0.04619999999999991,0.8462,0.8
 2025-05-10 02:06:09.769745,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.042899999999999994,0.1429,0.1
 2025-05-09 23:29:29.274439,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.04169999999999999,0.1667,0.125
-2025-05-09 15:33:46.138985,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,0.04099999999999998,0.3077,0.2667
 2025-05-09 16:37:56.908071,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,0.038099999999999995,0.2381,0.2
 2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,AJ Smith-Shawver (ATL),0.0334,0.0769,0.0435
+2025-05-10 03:46:47.952389,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.030299999999999994,0.6667,0.6364
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 41+ Combined Rebounds",0.02779999999999999,0.25,0.2222
 2025-05-09 16:37:56.888580,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,0.026499999999999968,0.5917,0.5652
 2025-05-10 03:13:34.930880,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
@@ -29,11 +29,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 03:13:35.967677,Main Markets - 3rd Round 2-Balls - T. Detry / S. Jaeger - 3rd Round 2-Balls,Stephan Jaeger,0.02169999999999994,0.5455,0.5238
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Todd Clements,0.0203,0.0526,0.0323
 2025-05-09 20:33:55.889364,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Chris Kongo,0.01759999999999995,0.6667,0.6491
+2025-05-10 03:46:48.732012,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Troy Jones,0.01680000000000001,0.2273,0.2105
 2025-05-09 18:41:53.538308,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.01579999999999998,0.3333,0.3175
 2025-05-09 20:33:55.801646,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Kodai Senga (NYM),0.015700000000000006,0.1333,0.1176
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Guido Migliozzi,0.0157,0.0435,0.0278
-2025-05-09 23:29:29.623678,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.015100000000000002,0.1818,0.1667
 2025-05-09 20:33:55.765260,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.015100000000000002,0.1818,0.1667
+2025-05-09 23:29:29.623678,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,0.015100000000000002,0.1818,0.1667
 2025-05-09 23:29:29.713229,"Daily Specials - Friday, May 9th  - Daily Specials","Jarrett Allen, Nikola Jokic & Chet Holmgren 25+ Combined Rebounds",0.014900000000000024,0.9524,0.9375
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Jorge Campillo,0.0131,0.0476,0.0345
 2025-05-09 18:41:54.636490,Boxing Lines - Souleymane Cissokho vs Egidijus Kavaliauskas - To Win the Bout,Souleymane Cissokho,0.012700000000000045,0.6491,0.6364
@@ -45,15 +46,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-09 22:34:08.810514,Boxing Lines - Kaipo Gallegos vs Pedro Castaneda Castro - To Win the Bout,Kaipo Gallegos,0.010199999999999987,0.9333,0.9231
 2025-05-09 18:41:53.538308,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.010099999999999998,0.3125,0.3226
 2025-05-09 20:33:55.801646,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Dustin May (LAD),-0.010899999999999993,0.1429,0.1538
-2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Kazuma Kobori,-0.011,0.0013,0.0123
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Nathan Kimsey,-0.011,0.0013,0.0123
+2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Kazuma Kobori,-0.011,0.0013,0.0123
 2025-05-09 16:37:57.480115,MLB Series Prices - MLB Series Prices May 9 to May 11 - 3 Game Series,St Louis Cardinals,-0.01100000000000001,0.5238,0.5348
 2025-05-09 16:37:57.765331,Boxing Lines - Raymond Muratalla vs Abdullaev Zaur - To Win the Bout,Raymond Muratalla,-0.011099999999999999,0.8889,0.9
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Sebastian Soderberg,-0.0113,0.0066,0.0179
 2025-05-09 17:32:17.479933,Boxing Lines - Corey Marksman vs Tayden Beltran - To Win the Bout,Corey Marksman,-0.011499999999999955,0.6552,0.6667
 2025-05-10 02:06:10.881129,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs S. Im - 3rd Round Match-Ups,Sam Burns,-0.011600000000000055,0.5122,0.5238
 2025-05-09 20:33:55.796345,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Trevor Story (BOS),-0.011899999999999994,0.0714,0.0833
-2025-05-09 15:33:46.138985,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.012799999999999978,0.2857,0.2985
 2025-05-10 03:13:34.930880,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.012899999999999995,0.1538,0.1667
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Oliver Lindell,-0.012899999999999998,0.005,0.0179
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Niklas Lemke,-0.0132,0.002,0.0152
@@ -61,13 +61,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 02:06:09.769745,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.014099999999999994,0.0526,0.0667
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Jens Dantorp,-0.0142,0.001,0.0152
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Julien Guerrier,-0.0145,0.0099,0.0244
-2025-05-09 15:33:46.138985,League Two - England League Two 2024/25 - To Be Promoted,Walsall,-0.01469999999999999,0.2353,0.25
 2025-05-09 18:41:53.538308,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.01469999999999999,0.2353,0.25
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Gregorio De Leo,-0.0151,0.0066,0.0217
-2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Jayden Schaper,-0.0156,0.004,0.0196
 2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Ugo Coussaud,-0.0156,0.004,0.0196
+2025-05-09 16:37:57.840212,Turkish Airlines Open - Turkish Airlines Open - Winner,Jayden Schaper,-0.0156,0.004,0.0196
 2025-05-09 23:29:29.269910,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.016699999999999937,0.5833,0.6
 2025-05-09 20:33:55.889364,Boxing Lines - Owen Cooper vs Chris Kongo - To Win the Bout,Owen Cooper,-0.016699999999999993,0.4,0.4167
+2025-05-10 03:46:48.732012,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Ezra Taylor,-0.016799999999999926,0.8403,0.8571
 2025-05-09 20:33:55.780927,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.0179,0.125,0.1429
 2025-05-09 16:37:56.912988,Bundesliga - Germany Bundesliga 2024/25 - Outright,Bayern Munich,-0.017900000000000027,0.8571,0.875
 2025-05-10 03:13:35.918805,Main Markets - 3rd Round 2-Balls - L. Aberg / H. Matsuyama - 3rd Round 2-Balls,Ludvig Aberg,-0.01880000000000004,0.5556,0.5744

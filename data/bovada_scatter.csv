@@ -1,11 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Jeeno Thitikul,0.3,0.5,0.2
+2025-05-11 04:37:20.458080,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,0.25630000000000003,0.2857,0.0294
 2025-05-10 23:28:51.798623,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Carson Young,0.2488,0.2667,0.0179
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Celine Boutier,0.12310000000000001,0.2,0.0769
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),0.12230000000000002,0.4348,0.3125
 2025-05-10 21:28:13.564620,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,0.08549999999999996,0.3077,0.2222
 2025-05-10 23:28:51.798623,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Harry Higgs,0.08410000000000001,0.1429,0.0588
 2025-05-11 03:52:13.358094,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),0.07269999999999999,0.2632,0.1905
+2025-05-11 04:37:20.458080,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,0.06930000000000003,0.5238,0.4545
 2025-05-11 03:52:13.283034,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.057699999999999974,0.3077,0.25
 2025-05-11 03:52:13.063921,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne City,0.057699999999999974,0.3077,0.25
 2025-05-10 21:28:13.569309,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.05559999999999998,0.5,0.4444
@@ -15,13 +17,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 23:28:51.077347,NFC East - NFC East 2025/26 - NFC East Winner,Dallas Cowboys,0.04169999999999999,0.1667,0.125
 2025-05-10 23:28:51.764890,BKFC 74: Richman vs Dyer - Erick Lozano vs Zac Cavender - To Win the Bout,Erick Lozano,0.04099999999999998,0.2632,0.2222
 2025-05-11 03:52:13.063921,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.04040000000000002,0.2222,0.1818
+2025-05-11 04:37:20.683531,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),0.03570000000000001,0.2857,0.25
 2025-05-10 18:37:16.138313,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Ezra Taylor,0.03469999999999995,0.875,0.8403
 2025-05-10 23:28:51.798623,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Ryan Fox,0.029299999999999993,0.0769,0.0476
 2025-05-11 02:22:20.424093,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Mike Richman,0.028900000000000037,0.5744,0.5455
 2025-05-10 20:31:15.214094,BKFC 74: Richman vs Dyer - Erick Lozano vs Zac Cavender - To Win the Bout,Erick Lozano,0.028700000000000003,0.2105,0.1818
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Yealimi Noh,0.028199999999999996,0.0667,0.0385
-2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.027700000000000002,0.0833,0.0556
 2025-05-10 20:31:14.215593,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.027700000000000002,0.4444,0.4167
+2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.027700000000000002,0.0833,0.0556
 2025-05-11 02:22:20.387502,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.026000000000000023,0.2857,0.2597
 2025-05-10 19:25:13.736218,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.02529999999999999,0.2817,0.2564
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Andrea Lee,0.022000000000000006,0.1053,0.0833
@@ -41,9 +44,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 23:28:51.757088,BKFC 74: Richman vs Dyer - Bobby Brents vs Ben Moa - To Win the Bout,Bobby Brents,0.011700000000000016,0.2222,0.2105
 2025-05-10 22:32:35.232723,BKFC 74: Richman vs Dyer - Erick Lozano vs Zac Cavender - To Win the Bout,Erick Lozano,0.011700000000000016,0.2222,0.2105
 2025-05-10 22:32:35.236694,BKFC 74: Richman vs Dyer - Jeremiah Truhlar vs Dominico Salas - To Win the Bout,Jeremiah Truhlar,0.011699999999999988,0.2857,0.274
-2025-05-10 22:32:35.173946,Boxing Lines - Erickson Lubin vs Ardreal Holmes - To Win the Bout,Ardreal Holmes,0.011099999999999999,0.2778,0.2667
 2025-05-10 20:31:15.122971,Boxing Lines - Anthony Cacace vs Leigh Wood - To Win the Bout,Anthony Cacace,0.011099999999999999,0.7333,0.7222
 2025-05-10 19:25:13.715603,Boxing Lines - Erickson Lubin vs Ardreal Holmes - To Win the Bout,Erickson Lubin,0.011099999999999999,0.7937,0.7826
+2025-05-10 22:32:35.173946,Boxing Lines - Erickson Lubin vs Ardreal Holmes - To Win the Bout,Ardreal Holmes,0.011099999999999999,0.2778,0.2667
+2025-05-11 04:37:20.683531,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.01100000000000001,0.5348,0.5238
 2025-05-10 21:28:14.550607,BKFC 74: Richman vs Dyer - Bobby Brents vs Ben Moa - To Win the Bout,Ben Moa,0.01090000000000002,0.8571,0.8462
 2025-05-10 20:31:15.166239,Boxing Lines - Hayato Tsutsumi vs Jaime Arboleda - To Win the Bout,Jaime Arboleda,0.0102,0.0769,0.0667
 2025-05-10 18:37:16.253499,BKFC 74: Richman vs Dyer - Josenaldo Araujo Silva vs Jordan Smith - To Win the Bout,Jordan Smith,0.010099999999999998,0.4545,0.4444
@@ -96,6 +100,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 23:28:51.761014,BKFC 74: Richman vs Dyer - Cody Beierle vs Zack Partridge - To Win the Bout,Cody Beierle,-0.03589999999999999,0.2273,0.2632
 2025-05-11 02:22:20.424093,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Josh Dyer,-0.03600000000000003,0.4878,0.5238
 2025-05-10 18:37:16.138313,Boxing Lines - Ezra Taylor vs Troy Jones - To Win the Bout,Troy Jones,-0.0368,0.1905,0.2273
+2025-05-11 04:37:20.683531,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.038099999999999995,0.2,0.2381
 2025-05-10 23:28:51.798623,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Kevin Yu,-0.0392,0.0196,0.0588
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,-0.04190000000000001,0.0057,0.0476
 2025-05-10 23:28:51.764890,BKFC 74: Richman vs Dyer - Erick Lozano vs Zac Cavender - To Win the Bout,Zac Cavender,-0.042300000000000004,0.8039,0.8462
@@ -105,6 +110,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-10 22:32:35.256159,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Mike Richman,-0.04620000000000002,0.5455,0.5917
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Nelly Korda,-0.0479,0.2299,0.2778
 2025-05-10 21:28:13.569309,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.05710000000000001,0.1429,0.2
+2025-05-11 04:37:20.458080,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,-0.07579999999999998,0.8333,0.9091
 2025-05-10 23:28:51.798623,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Mackenzie Hughes,-0.07619999999999999,0.1905,0.2667
 2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Somi Lee,-0.0805,0.0028,0.0833
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),-0.08179999999999998,0.1,0.1818

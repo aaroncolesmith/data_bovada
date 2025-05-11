@@ -1,13 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Jeeno Thitikul,0.3,0.5,0.2
 2025-05-11 08:36:05.781967,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.2778,0.5,0.2222
 2025-05-11 04:37:20.458080,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,0.25630000000000003,0.2857,0.0294
 2025-05-11 08:36:05.890470,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.17769999999999997,0.7333,0.5556
-2025-05-11 07:29:07.498113,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,0.1634,0.6078,0.4444
 2025-05-11 07:29:07.439944,Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 67.5,0.1634,0.6078,0.4444
+2025-05-11 07:29:07.498113,Scores - Final Round Score - Sungjae Im - Final Round Score,Over 67.5,0.1634,0.6078,0.4444
 2025-05-11 08:36:05.884565,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.153,0.2299,0.0769
 2025-05-11 09:30:11.699490,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Deportivo Toluca,0.1428,0.2857,0.1429
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Celine Boutier,0.12310000000000001,0.2,0.0769
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jayson Tatum (BOS),0.12230000000000002,0.4348,0.3125
 2025-05-11 07:29:07.502261,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,0.12080000000000002,0.5652,0.4444
 2025-05-11 08:36:05.813691,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.11069999999999991,0.7333,0.6226
@@ -34,8 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 08:36:05.816575,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.047599999999999976,0.3333,0.2857
 2025-05-11 10:34:12.951910,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),0.047599999999999976,0.3333,0.2857
 2025-05-11 07:29:07.489823,Scores - Final Round Score - Tony Finau - Final Round Score,Over 67.5,0.04620000000000002,0.5917,0.5455
-2025-05-11 11:26:14.096217,Scores - Final Round Score - Shane Lowry - Final Round Score,Under 67.5,0.045499999999999985,0.5455,0.5
 2025-05-11 11:26:14.075419,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 67.5,0.045499999999999985,0.5455,0.5
+2025-05-11 11:26:14.096217,Scores - Final Round Score - Shane Lowry - Final Round Score,Under 67.5,0.045499999999999985,0.5455,0.5
 2025-05-11 10:34:12.941273,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.04410000000000003,0.3774,0.3333
 2025-05-11 08:36:05.799500,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,0.04269999999999999,0.1538,0.1111
 2025-05-11 03:52:13.063921,A-League - Australia A-League 2024/25 - Grand Final Winner,Western United,0.04040000000000002,0.2222,0.1818
@@ -45,34 +43,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.031799999999999995,0.1429,0.1111
 2025-05-11 08:36:06.991041,Main Markets - Final Round 2-Balls - L. Aberg / T. Pendrith - Final Round 2-Balls,Taylor Pendrith,0.030299999999999994,0.4651,0.4348
 2025-05-11 09:30:11.757109,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,San Lorenzo,0.0294,0.0588,0.0294
-2025-05-11 02:22:20.424093,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Mike Richman,0.028900000000000037,0.5744,0.5455
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,0.028199999999999996,0.0667,0.0385
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Yealimi Noh,0.028199999999999996,0.0667,0.0385
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),0.027700000000000002,0.0833,0.0556
-2025-05-11 02:22:20.387502,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Kazuto Ioka,0.026000000000000023,0.2857,0.2597
 2025-05-11 11:26:13.827344,Main Markets - Final Round 2-Balls - M. Pavon / M. Greyserman - Final Round 2-Balls,Max Greyserman,0.025599999999999956,0.6,0.5744
 2025-05-11 09:30:11.775646,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,0.024999999999999994,0.125,0.1
 2025-05-11 09:30:12.759777,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.0242,0.9333,0.9091
-2025-05-11 09:30:11.775646,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.023799999999999988,0.5,0.4762
 2025-05-11 08:36:07.028095,Main Markets - Final Round 2-Balls - E. Van Rooyen / W. Zalatoris - Final Round 2-Balls,Erik Van Rooyen,0.023799999999999988,0.5,0.4762
+2025-05-11 09:30:11.775646,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,0.023799999999999988,0.5,0.4762
 2025-05-11 09:30:11.757109,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,Platense,0.0236,0.0385,0.0149
 2025-05-11 10:34:12.873501,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.02310000000000001,0.1,0.0769
 2025-05-11 09:30:11.771028,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Deportes Tolima,0.02310000000000001,0.1,0.0769
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.022199999999999998,0.2222,0.2
 2025-05-11 09:30:12.765015,MVP - NL MVP 2025 - National League MVP,Jackson Merrill (SD),0.022099999999999998,0.0385,0.0164
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Andrea Lee,0.022000000000000006,0.1053,0.0833
 2025-05-11 11:26:14.012822,Scores - Final Round Score - Jordan Spieth - Final Round Score,Under 67.5,0.021699999999999997,0.4762,0.4545
 2025-05-11 11:26:14.033830,Scores - Final Round Score - Corey Conners - Final Round Score,Under 67.5,0.021699999999999997,0.4762,0.4545
-2025-05-11 08:36:07.019836,Main Markets - Final Round 2-Balls - M.W. Lee / M. McNealy - Final Round 2-Balls,Maverick McNealy,0.02169999999999994,0.5455,0.5238
-2025-05-11 07:29:07.485680,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
+2025-05-11 14:32:54.422555,Round Match-Ups - Final Round Match Up - C. Young v SW Kim - Request,Si Woo Kim,0.02169999999999994,0.5455,0.5238
 2025-05-11 11:26:14.054541,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
+2025-05-11 08:36:07.019836,Main Markets - Final Round 2-Balls - M.W. Lee / M. McNealy - Final Round 2-Balls,Maverick McNealy,0.02169999999999994,0.5455,0.5238
 2025-05-11 12:54:01.526774,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 66.5,0.02169999999999994,0.5455,0.5238
+2025-05-11 07:29:07.485680,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 66.5,0.02169999999999994,0.5455,0.5238
 2025-05-11 08:36:05.821284,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,0.02100000000000002,0.3846,0.3636
 2025-05-11 06:40:29.735288,2025 NBA Draft - 2025 NBA Draft Lottery - Top 4 Pick,Washington Wizards,0.02079999999999993,0.5556,0.5348
 2025-05-11 10:34:12.883118,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.02049999999999999,0.1538,0.1333
 2025-05-11 09:30:11.771028,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Santa Fe,0.0203,0.0588,0.0385
-2025-05-11 10:34:13.132769,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Eric Cole,0.01970000000000005,0.5652,0.5455
 2025-05-11 10:34:13.140934,Main Markets - Final Round 2-Balls - H. English / R. Fowler - Final Round 2-Balls,Harris English,0.01970000000000005,0.5652,0.5455
+2025-05-11 10:34:13.132769,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Eric Cole,0.01970000000000005,0.5652,0.5455
 2025-05-11 07:29:07.375480,Main Markets - Final Round 2-Balls - J. Thomas / K. Mitchell - Final Round 2-Balls,Justin Thomas,0.019499999999999962,0.6491,0.6296
 2025-05-11 09:30:11.775646,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,0.01820000000000002,0.2,0.1818
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Jose Earthquakes,0.018200000000000004,0.0476,0.0294
@@ -84,67 +79,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 12:54:01.397924,Main Markets - Final Round 2-Balls - T. Finau / R. McIIroy - Final Round 2-Balls,Rory McIlroy,0.014900000000000024,0.6923,0.6774
 2025-05-11 10:34:12.863839,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.014800000000000035,0.6226,0.6078
 2025-05-11 09:30:11.699490,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Cruz Azul,0.01469999999999999,0.25,0.2353
-2025-05-11 02:22:19.468816,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.013999999999999999,0.0909,0.0769
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,0.013999999999999999,0.0909,0.0769
-2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,0.013899999999999996,0.125,0.1111
 2025-05-11 10:34:12.925342,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",0.013899999999999996,0.125,0.1111
+2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,0.013899999999999996,0.125,0.1111
+2025-05-11 10:34:12.951910,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),0.012899999999999995,0.1667,0.1538
 2025-05-11 10:34:12.941273,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),0.012899999999999995,0.1667,0.1538
 2025-05-11 03:52:13.366434,2025 NBA Draft - 2025 NBA Draft Lottery - #1 Overall Pick,Utah Jazz,0.012899999999999995,0.1667,0.1538
-2025-05-11 10:34:12.951910,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),0.012899999999999995,0.1667,0.1538
 2025-05-11 03:52:13.063921,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.012699999999999989,0.3636,0.3509
 2025-05-11 11:26:14.087859,Scores - Final Round Score - Keith Mitchell - Final Round Score,Over 68.5,0.012199999999999989,0.5,0.4878
-2025-05-11 11:26:14.025486,Scores - Final Round Score - Sam Stevens - Final Round Score,Over 68.5,0.012199999999999989,0.5,0.4878
 2025-05-11 08:36:07.032190,Main Markets - Final Round 2-Balls - A. Rai / B. Griffin - Final Round 2-Balls,Ben Griffin,0.012199999999999989,0.5,0.4878
+2025-05-11 11:26:14.025486,Scores - Final Round Score - Sam Stevens - Final Round Score,Over 68.5,0.012199999999999989,0.5,0.4878
 2025-05-11 08:36:05.781967,La Liga - Spain La Liga 2024/25 - Top Goalscorer,Alexander Sorloth (Atletico Madrid),0.011699999999999999,0.0196,0.0079
-2025-05-11 11:26:14.062877,Scores - Final Round Score - Tony Finau - Final Round Score,Under 67.5,0.0116,0.4878,0.4762
 2025-05-11 11:26:14.067015,Scores - Final Round Score - Sam Burns - Final Round Score,Under 67.5,0.0116,0.4878,0.4762
+2025-05-11 11:26:14.062877,Scores - Final Round Score - Tony Finau - Final Round Score,Under 67.5,0.0116,0.4878,0.4762
 2025-05-11 08:36:05.799500,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2025-05-11 10:34:12.859012,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.011099999999999999,0.1111,0.1
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.011099999999999999,0.1111,0.1
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,0.011099999999999999,0.1111,0.1
 2025-05-11 04:37:20.683531,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.01100000000000001,0.5348,0.5238
-2025-05-11 09:30:11.699490,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.010899999999999993,0.1538,0.1429
 2025-05-11 09:30:13.246563,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Harry Higgs,0.010899999999999993,0.1538,0.1429
+2025-05-11 09:30:11.699490,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Tigres UANL,0.010899999999999993,0.1538,0.1429
 2025-05-11 08:36:07.048557,Main Markets - Final Round 2-Balls - R. Hojgaard / A. Noren - Final Round 2-Balls,Rasmus Hojgaard,0.010699999999999932,0.5455,0.5348
-2025-05-11 08:36:07.023968,Main Markets - Final Round 2-Balls - J. Highsmith / C. Bezuidenhout - Final Round 2-Balls,Christiaan Bezuidenhout,0.010699999999999932,0.5455,0.5348
 2025-05-11 08:36:07.088297,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Eric Cole,0.010699999999999932,0.5455,0.5348
-2025-05-11 08:36:05.806158,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,0.0102,0.0769,0.0667
-2025-05-11 09:30:13.246563,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Danny Walker,0.0102,0.0769,0.0667
-2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,0.0102,0.0769,0.0667
+2025-05-11 08:36:07.023968,Main Markets - Final Round 2-Balls - J. Highsmith / C. Bezuidenhout - Final Round 2-Balls,Christiaan Bezuidenhout,0.010699999999999932,0.5455,0.5348
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,0.0102,0.0769,0.0667
+2025-05-11 09:30:13.246563,Myrtle Beach Classic - Myrtle Beach Classic - Winner,Danny Walker,0.0102,0.0769,0.0667
+2025-05-11 08:36:05.806158,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,0.0102,0.0769,0.0667
+2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,0.0102,0.0769,0.0667
 2025-05-11 11:26:14.046300,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
-2025-05-11 08:36:07.032190,Main Markets - Final Round 2-Balls - A. Rai / B. Griffin - Final Round 2-Balls,Aaron Rai,-0.010099999999999998,0.5455,0.5556
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.010099999999999998,0.4444,0.4545
-2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Ahoueke Denkey,-0.0102,0.0667,0.0769
-2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Alonso Martinez,-0.0102,0.0667,0.0769
+2025-05-11 08:36:07.032190,Main Markets - Final Round 2-Balls - A. Rai / B. Griffin - Final Round 2-Balls,Aaron Rai,-0.010099999999999998,0.5455,0.5556
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.0102,0.0667,0.0769
+2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Alonso Martinez,-0.0102,0.0667,0.0769
+2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Ahoueke Denkey,-0.0102,0.0667,0.0769
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Josef Martinez,-0.0102,0.0667,0.0769
 2025-05-11 03:52:13.283034,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.010499999999999982,0.2,0.2105
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Kristen Gillman,-0.0108,0.0033,0.0141
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.011099999999999999,0.1,0.1111
 2025-05-11 03:52:13.358094,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),-0.011199999999999995,0.0323,0.0435
 2025-05-11 08:36:07.075943,Main Markets - Final Round 2-Balls - M. Homa / A. Bhatia - Final Round 2-Balls,Max Homa,-0.0116,0.4762,0.4878
 2025-05-11 11:26:14.046300,Scores - Final Round Score - Rickie Fowler - Final Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-05-11 08:36:07.023968,Main Markets - Final Round 2-Balls - J. Highsmith / C. Bezuidenhout - Final Round 2-Balls,Joe Highsmith,-0.012199999999999989,0.5,0.5122
-2025-05-11 08:36:07.048557,Main Markets - Final Round 2-Balls - R. Hojgaard / A. Noren - Final Round 2-Balls,Alex Noren,-0.012199999999999989,0.5,0.5122
 2025-05-11 08:36:07.088297,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Cameron Young,-0.012199999999999989,0.5,0.5122
+2025-05-11 08:36:07.048557,Main Markets - Final Round 2-Balls - R. Hojgaard / A. Noren - Final Round 2-Balls,Alex Noren,-0.012199999999999989,0.5,0.5122
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),-0.012800000000000002,0.0217,0.0345
 2025-05-11 03:52:13.273573,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,-0.012899999999999995,0.1538,0.1667
 2025-05-11 08:36:06.944609,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,-0.0131,0.7647,0.7778
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Julia Lopez Ramirez,-0.0132,0.002,0.0152
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Rio Takeda,-0.013699999999999999,0.0141,0.0278
 2025-05-11 10:34:12.868660,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.013899999999999968,0.2564,0.2703
 2025-05-11 08:36:05.793020,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,-0.013899999999999996,0.1111,0.125
 2025-05-11 03:52:13.273573,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.014099999999999998,0.0244,0.0385
 2025-05-11 10:34:12.925342,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.014100000000000001,0.9333,0.9474
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Ruoning Yin,-0.015399999999999999,0.0025,0.0179
 2025-05-11 10:34:12.941273,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.015400000000000025,0.2703,0.2857
 2025-05-11 10:34:12.863839,AL East - AL East 2025 - AL East Winner 2025,Baltimore Orioles,-0.01580000000000001,0.0556,0.0714
 2025-05-11 10:34:12.873501,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.015899999999999997,0.0952,0.1111
-2025-05-11 11:26:14.012822,Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 67.5,-0.016100000000000003,0.5917,0.6078
 2025-05-11 11:26:14.033830,Scores - Final Round Score - Corey Conners - Final Round Score,Over 67.5,-0.016100000000000003,0.5917,0.6078
-2025-05-11 11:26:14.062877,Scores - Final Round Score - Tony Finau - Final Round Score,Over 67.5,-0.017299999999999982,0.5744,0.5917
+2025-05-11 11:26:14.012822,Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 67.5,-0.016100000000000003,0.5917,0.6078
 2025-05-11 11:26:14.067015,Scores - Final Round Score - Sam Burns - Final Round Score,Over 67.5,-0.017299999999999982,0.5744,0.5917
+2025-05-11 11:26:14.062877,Scores - Final Round Score - Tony Finau - Final Round Score,Over 67.5,-0.017299999999999982,0.5744,0.5917
 2025-05-11 09:30:11.771028,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,-0.0179,0.125,0.1429
 2025-05-11 03:52:13.358094,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),-0.0179,0.125,0.1429
 2025-05-11 08:36:05.796527,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,-0.018099999999999998,0.0588,0.0769
@@ -153,7 +143,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 12:54:01.397924,Main Markets - Final Round 2-Balls - T. Finau / R. McIIroy - Final Round 2-Balls,Tony Finau,-0.019500000000000017,0.3509,0.3704
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),-0.019699999999999995,0.1053,0.125
 2025-05-11 08:36:07.028095,Main Markets - Final Round 2-Balls - E. Van Rooyen / W. Zalatoris - Final Round 2-Balls,Will Zalatoris,-0.01970000000000005,0.5455,0.5652
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Carlota Ciganda,-0.0203,0.0323,0.0526
 2025-05-11 08:36:05.802494,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Colorado Rapids,-0.0203,0.0385,0.0588
 2025-05-11 11:26:13.827344,Main Markets - Final Round 2-Balls - M. Pavon / M. Greyserman - Final Round 2-Balls,Matthieu Pavon,-0.020699999999999996,0.4444,0.4651
 2025-05-11 07:29:07.485680,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 66.5,-0.02169999999999994,0.5238,0.5455
@@ -161,28 +150,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 11:26:14.054541,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 67.5,-0.02169999999999994,0.5238,0.5455
 2025-05-11 09:30:11.775646,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,-0.022199999999999998,0.2,0.2222
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.02250000000000002,0.2632,0.2857
-2025-05-11 10:34:13.132769,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Cameron Young,-0.023799999999999988,0.4762,0.5
 2025-05-11 10:34:13.140934,Main Markets - Final Round 2-Balls - H. English / R. Fowler - Final Round 2-Balls,Rickie Fowler,-0.023799999999999988,0.4762,0.5
 2025-05-11 10:34:12.868660,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.023799999999999988,0.4762,0.5
+2025-05-11 10:34:13.132769,Main Markets - Final Round 2-Balls - C. Young / E. Cole - Final Round 2-Balls,Cameron Young,-0.023799999999999988,0.4762,0.5
+2025-05-11 14:32:54.422555,Round Match-Ups - Final Round Match Up - C. Young v SW Kim - Request,Cameron Young,-0.023800000000000043,0.5,0.5238
 2025-05-11 08:36:07.019836,Main Markets - Final Round 2-Balls - M.W. Lee / M. McNealy - Final Round 2-Balls,Min Woo Lee,-0.023800000000000043,0.5,0.5238
-2025-05-11 02:22:20.387502,Boxing Lines - Fernando Daniel Martinez vs Kazuto Ioka - To Win the Bout,Fernando Daniel Martinez,-0.03169999999999995,0.7778,0.8095
 2025-05-11 03:52:13.358094,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),-0.032900000000000006,0.0385,0.0714
 2025-05-11 08:36:06.991041,Main Markets - Final Round 2-Balls - L. Aberg / T. Pendrith - Final Round 2-Balls,Ludvig Aberg,-0.033399999999999985,0.5744,0.6078
 2025-05-11 08:36:05.788048,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.034100000000000005,0.0909,0.125
-2025-05-11 02:22:19.468816,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.03570000000000001,0.25,0.2857
-2025-05-11 02:22:20.424093,BKFC 74: Richman vs Dyer - Josh Dyer vs Mike Richman - To Win the Bout,Josh Dyer,-0.03600000000000003,0.4878,0.5238
 2025-05-11 08:36:05.799500,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,-0.03640000000000004,0.3636,0.4
 2025-05-11 08:36:05.884565,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Nottingham Forest,-0.0368,0.2299,0.2667
 2025-05-11 04:37:20.683531,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.038099999999999995,0.2,0.2381
 2025-05-11 09:30:11.740433,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.039600000000000024,0.4255,0.4651
-2025-05-11 11:26:14.096217,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 67.5,-0.04139999999999999,0.5238,0.5652
 2025-05-11 11:26:14.075419,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,-0.04139999999999999,0.5238,0.5652
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Lydia Ko,-0.04190000000000001,0.0057,0.0476
+2025-05-11 11:26:14.096217,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 67.5,-0.04139999999999999,0.5238,0.5652
 2025-05-11 03:52:13.283034,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.04329999999999999,0.0476,0.0909
 2025-05-11 08:36:05.890470,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,-0.043300000000000005,0.9091,0.9524
 2025-05-11 11:26:14.092019,Scores - Final Round Score - Sepp Straka - Final Round Score,Over 67.5,-0.04620000000000002,0.5455,0.5917
 2025-05-11 07:29:07.489823,Scores - Final Round Score - Tony Finau - Final Round Score,Under 67.5,-0.04760000000000003,0.4762,0.5238
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Nelly Korda,-0.0479,0.2299,0.2778
 2025-05-11 08:36:05.890470,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,-0.0524,0.9,0.9524
 2025-05-11 08:36:05.887510,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.0632,0.1667,0.2299
 2025-05-11 08:36:05.865782,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.06509999999999999,0.2985,0.3636
@@ -190,7 +175,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-11 08:36:05.816575,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.06669999999999998,0.2,0.2667
 2025-05-11 04:37:20.458080,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,-0.07579999999999998,0.8333,0.9091
 2025-05-11 07:29:07.473187,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 68.5,-0.07710000000000006,0.5455,0.6226
-2025-05-11 02:22:20.476715,Mizuho Americas Open - Mizuho Americas Open - Winner,Somi Lee,-0.0805,0.0028,0.0833
 2025-05-11 03:52:13.354721,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),-0.08179999999999998,0.1,0.1818
 2025-05-11 08:36:05.788048,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.0857,0.7143,0.8
 2025-05-11 07:29:07.493965,Scores - Final Round Score - Sam Burns - Final Round Score,Under 67.5,-0.09820000000000001,0.4762,0.5744

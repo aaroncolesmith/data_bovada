@@ -35,7 +35,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Byron Buxton (MIN),0.016600000000000004,0.0833,0.0667
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.015400000000000025,0.2857,0.2703
 2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.015100000000000002,0.1818,0.1667
-2025-05-12 21:30:49.821491,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Illinois,0.014900000000000004,0.0345,0.0196
 2025-05-13 02:18:32.235826,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.014399999999999996,0.0769,0.0625
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Mikal Bridges (NYK),0.0131,0.0164,0.0033
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,OG Anunoby (NYK),0.013,0.0196,0.0066
@@ -64,8 +63,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Myles Turner (IND),-0.013400000000000002,0.011,0.0244
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Evan Carter (TEX),-0.014100000000000001,0.0385,0.0526
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Mike Trout (LAA),-0.01440000000000001,0.0909,0.1053
-2025-05-12 23:30:24.050674,B League - Japan B-League 2024/25 - Outright,Chiba Jets,-0.015100000000000002,0.1667,0.1818
 2025-05-13 08:42:12.771421,PGA Championship - PGA Championship 2025 - Winner,Scottie Scheffler,-0.015100000000000002,0.1667,0.1818
+2025-05-12 23:30:24.050674,B League - Japan B-League 2024/25 - Outright,Chiba Jets,-0.015100000000000002,0.1667,0.1818
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Darius Garland (CLE),-0.0189,0.0196,0.0385
 2025-05-13 05:35:28.433727,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Harry Garside,-0.018900000000000028,0.9615,0.9804
 2025-05-12 23:30:24.050674,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,-0.019000000000000017,0.2667,0.2857

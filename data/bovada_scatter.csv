@@ -1,63 +1,77 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.30000000000000004,0.4,0.1
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Oklahoma City Thunder,0.24580000000000002,0.3125,0.0667
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat New York Knicks,0.2115,0.25,0.0385
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Oklahoma City Thunder,0.1827,0.2105,0.0278
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.1614,0.2667,0.1053
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.16099999999999998,0.5,0.339
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Indiana Pacers,0.1515,0.1667,0.0152
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Minnesota Timberwolves,0.1267,0.1333,0.0066
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.11429999999999996,0.6491,0.5348
 2025-05-13 08:42:11.208623,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,0.11259999999999992,0.6364,0.5238
 2025-05-13 13:01:27.914896,Cut Lines - Byeong Hun An - Make Cut / Miss Cut - Byeong Hun An,Miss,0.10420000000000001,0.4167,0.3125
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),0.0948,0.1333,0.0385
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Minnesota Timberwolves,0.09380000000000001,0.0952,0.0014
 2025-05-13 08:42:11.205674,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,0.09350000000000003,0.6491,0.5556
 2025-05-13 13:01:27.837607,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Miss,0.09039999999999998,0.3571,0.2667
 2025-05-13 13:01:27.906287,Cut Lines - Si Woo Kim - Make Cut / Miss Cut - Si Woo Kim,Miss,0.08750000000000002,0.4,0.3125
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Minnesota Timberwolves,0.0752,0.0769,0.0017
 2025-05-13 13:01:27.871912,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.07440000000000002,0.3774,0.303
-2025-05-13 04:38:34.159703,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.0736,0.3333,0.2597
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat New York Knicks,0.0744,0.0769,0.0025
 2025-05-13 13:01:27.953532,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Miss,0.067,0.4444,0.3774
 2025-05-13 08:42:11.205674,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.06659999999999999,0.7333,0.6667
 2025-05-13 13:01:27.919200,Cut Lines - Mackenzie Hughes - Make Cut / Miss Cut - Mackenzie Hughes,Miss,0.05960000000000004,0.4167,0.3571
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Indiana Pacers,0.0576,0.0588,0.0012
 2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,San Antonio Spurs,0.04999999999999999,0.25,0.2
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Javier Baez (DET),0.04620000000000002,0.2,0.1538
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),0.044599999999999994,0.0769,0.0323
-2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.044399999999999995,0.4444,0.4
 2025-05-13 13:01:27.854739,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Miss,0.04410000000000003,0.3774,0.3333
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Minnesota Timberwolves,0.043800000000000006,0.0476,0.0038
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Minnesota Timberwolves,0.0436,0.0588,0.0152
 2025-05-13 13:01:27.889024,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Miss,0.04290000000000005,0.4,0.3571
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Oklahoma City Thunder,0.042600000000000006,0.0476,0.005
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Denver Nuggets,0.0416,0.0526,0.011
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.0408,0.0625,0.0217
 2025-05-13 13:01:27.923495,Cut Lines - Will Zalatoris - Make Cut / Miss Cut - Will Zalatoris,Miss,0.0393,0.4167,0.3774
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Felix Bautista (BAL),0.0389,0.0667,0.0278
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.0373,0.0667,0.0294
+2025-05-13 16:42:37.225746,Tournament Match-Ups - Tournament Match-Ups - T. Fleetwood vs V. Hovland - Tournament Match-Ups,Tommy Fleetwood,0.03610000000000002,0.5917,0.5556
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Denver Nuggets,0.0341,0.0385,0.0044
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Cleveland Cavaliers to beat Minnesota Timberwolves,0.0334,0.04,0.0066
 2025-05-13 08:42:11.279339,Professional League - Saudi Professional League 2024/25 - Winner,Al Ittihad,0.033399999999999985,0.9709,0.9375
 2025-05-13 08:42:11.208623,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,0.033300000000000024,0.2,0.1667
+2025-05-13 16:42:36.080797,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.033300000000000024,0.2,0.1667
 2025-05-13 06:44:33.850439,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),0.033299999999999996,0.1333,0.1
+2025-05-13 16:42:37.034994,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.028799999999999992,0.1538,0.125
 2025-05-13 13:01:26.505346,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.02779999999999999,0.25,0.2222
 2025-05-13 13:01:27.970732,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Miss,0.025499999999999967,0.4255,0.4
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),0.024999999999999994,0.125,0.1
 2025-05-13 05:35:28.433727,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,0.0242,0.0909,0.0667
-2025-05-13 03:51:22.711281,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,0.024,0.0625,0.0385
+2025-05-13 16:42:37.064602,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,0.023799999999999988,0.5,0.4762
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat New York Knicks,0.0237,0.0294,0.0057
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat Indiana Pacers,0.0227,0.0244,0.0017
+2025-05-13 16:42:37.450802,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Make,0.022600000000000064,0.6226,0.6
 2025-05-13 13:01:26.324229,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.021999999999999964,0.3077,0.2857
+2025-05-13 16:42:36.092272,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.018799999999999983,0.3636,0.3448
 2025-05-13 08:42:11.208623,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.018099999999999998,0.0769,0.0588
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Karl-Anthony Towns (NYK),0.0179,0.0278,0.0099
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Cleveland Cavaliers,0.017800000000000003,0.0244,0.0066
 2025-05-13 14:37:59.376053,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Alex Lual,0.017299999999999982,0.5917,0.5744
-2025-05-13 03:51:22.438526,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.016699999999999937,0.6,0.5833
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Byron Buxton (MIN),0.016600000000000004,0.0833,0.0667
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.015400000000000025,0.2857,0.2703
-2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.015100000000000002,0.1818,0.1667
 2025-05-13 15:34:56.628466,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout",Sam Goodman,0.014200000000000101,0.8403,0.8261
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Denver Nuggets,0.0142,0.0164,0.0022
 2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.013799999999999923,0.6364,0.6226
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Mikal Bridges (NYK),0.0131,0.0164,0.0033
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,OG Anunoby (NYK),0.013,0.0196,0.0066
 2025-05-13 06:44:32.774192,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
 2025-05-13 06:44:33.884215,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Corbin Carroll (ARI),0.012299999999999991,0.1176,0.1053
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),0.0118,0.0217,0.0099
-2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.010899999999999993,0.1538,0.1429
 2025-05-13 07:31:43.973850,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Mounir Fathi,0.010699999999999932,0.5455,0.5348
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Julius Randle (MIN),0.010600000000000002,0.0323,0.0217
 2025-05-13 14:37:59.372002,Boxing Lines - Jasmine Parr vs Jittamat Phomta - To Win the Bout,Jittamat Phomta,0.0102,0.0769,0.0667
 2025-05-13 13:01:27.686421,Boxing Lines - George Liddard vs Aaron Sutton - To Win the Bout,George Liddard,0.010199999999999987,0.9333,0.9231
 2025-05-13 05:35:27.267319,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.010099999999999998,0.4545,0.4444
-2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.0102,0.0667,0.0769
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Denver Nuggets,-0.010100000000000001,0.0244,0.0345
 2025-05-13 13:45:18.537795,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,-0.0102,0.0667,0.0769
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Evan Mobley (CLE),-0.010700000000000001,0.011,0.0217
-2025-05-13 03:51:22.701852,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
+2025-05-13 16:42:37.060576,Boxing Lines - Jasmine Parr vs Jittamat Phomta - To Win the Bout,Jittamat Phomta,-0.0102,0.0667,0.0769
 2025-05-13 07:31:43.973850,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Wade Ryan,-0.01100000000000001,0.5238,0.5348
+2025-05-13 16:42:36.096947,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.011099999999999999,0.1,0.1111
+2025-05-13 16:42:36.092272,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.011099999999999999,0.1,0.1111
 2025-05-13 14:37:59.376053,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,-0.0116,0.4762,0.4878
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Andrew Nembhard (IND),-0.0118,0.0099,0.0217
 2025-05-13 07:31:43.965902,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,-0.012199999999999989,0.4878,0.5
@@ -72,39 +86,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Mike Trout (LAA),-0.01440000000000001,0.0909,0.1053
 2025-05-13 08:42:12.771421,PGA Championship - PGA Championship 2025 - Winner,Scottie Scheffler,-0.015100000000000002,0.1667,0.1818
 2025-05-13 13:01:26.324229,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.017600000000000005,0.3333,0.3509
+2025-05-13 16:42:37.034994,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Tennessee Volunteers,-0.0179,0.125,0.1429
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Darius Garland (CLE),-0.0189,0.0196,0.0385
-2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.018900000000000028,0.4255,0.4444
 2025-05-13 05:35:28.433727,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Harry Garside,-0.018900000000000028,0.9615,0.9804
-2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.019499999999999997,0.0099,0.0294
+2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.018900000000000028,0.4255,0.4444
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Evan Mobley (CLE),-0.0204,0.0196,0.04
 2025-05-13 06:44:33.838872,MVP - NL MVP 2025 - National League MVP,Pete Alonso (NYM),-0.02049999999999999,0.1333,0.1538
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Spencer Torkelson (DET),-0.020799999999999985,0.3125,0.3333
+2025-05-13 16:42:37.450802,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Miss,-0.021699999999999997,0.4545,0.4762
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Cleveland Cavaliers to beat Golden State Warriors,-0.021900000000000003,0.0025,0.0244
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),-0.022099999999999998,0.0057,0.0278
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat Boston Celtics,-0.022400000000000003,0.0099,0.0323
+2025-05-13 16:42:37.034994,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.02310000000000001,0.0769,0.1
+2025-05-13 16:42:36.080797,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.023799999999999988,0.4762,0.5
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Denver Nuggets,-0.0244,0.0079,0.0323
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.0245,0.0588,0.0833
+2025-05-13 16:42:37.064602,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Alex Lual,-0.026499999999999968,0.5652,0.5917
 2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Brooklyn Nets,-0.027999999999999997,0.1538,0.1818
-2025-05-13 03:51:22.701852,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.028199999999999996,0.0385,0.0667
 2025-05-13 13:01:26.505346,LNB Pro A - France LNB Pro A 2024/25 - Winner,ASVEL Basket,-0.028799999999999992,0.125,0.1538
 2025-05-13 13:01:27.970732,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,-0.030299999999999994,0.6364,0.6667
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),-0.0309,0.0217,0.0526
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Cleveland Cavaliers,-0.030300000000000007,0.0909,0.1212
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Golden State Warriors to beat Cleveland Cavaliers,-0.031000000000000003,0.0013,0.0323
 2025-05-13 06:44:33.838872,MVP - NL MVP 2025 - National League MVP,Kyle Tucker (CHC),-0.033300000000000024,0.1667,0.2
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Stephen Curry (GSW),-0.0336,0.0099,0.0435
-2025-05-13 03:51:22.711281,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.034399999999999986,0.2597,0.2941
+2025-05-13 16:42:37.225746,Tournament Match-Ups - Tournament Match-Ups - T. Fleetwood vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.035999999999999976,0.4762,0.5122
 2025-05-13 06:44:33.850439,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),-0.03670000000000001,0.1538,0.1905
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Nikola Jokic (DEN),-0.03860000000000001,0.0667,0.1053
 2025-05-13 13:01:27.854739,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Make,-0.040999999999999925,0.6923,0.7333
-2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.04169999999999999,0.125,0.1667
 2025-05-13 13:01:27.923495,Cut Lines - Will Zalatoris - Make Cut / Miss Cut - Will Zalatoris,Make,-0.043200000000000016,0.6491,0.6923
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Cleveland Cavaliers to beat Oklahoma City Thunder,-0.04329999999999999,0.0476,0.0909
 2025-05-13 13:01:27.889024,Cut Lines - Sam Burns - Make Cut / Miss Cut - Sam Burns,Make,-0.04760000000000009,0.6667,0.7143
-2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),-0.048100000000000004,0.0769,0.125
-2025-05-13 04:38:34.159703,Western Conference - Western Conference 2024-25 - Western Conference Winner,Golden State Warriors,-0.0484,0.0141,0.0625
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Denver Nuggets,-0.0484,0.0141,0.0625
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Golden State Warriors,-0.054599999999999996,0.001,0.0556
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Golden State Warriors,-0.0552,0.0036,0.0588
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Golden State Warriors to beat Boston Celtics,-0.0578,0.001,0.0588
 2025-05-13 08:42:11.279339,Professional League - Saudi Professional League 2024/25 - Winner,Al Hilal,-0.058300000000000005,0.0667,0.125
 2025-05-13 13:01:27.953532,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Make,-0.06489999999999996,0.6226,0.6875
 2025-05-13 13:01:27.919200,Cut Lines - Mackenzie Hughes - Make Cut / Miss Cut - Mackenzie Hughes,Make,-0.06520000000000004,0.6491,0.7143
 2025-05-13 13:01:27.871912,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.07240000000000002,0.6923,0.7647
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.07949999999999999,0.1333,0.2128
 2025-05-13 13:01:27.906287,Cut Lines - Si Woo Kim - Make Cut / Miss Cut - Si Woo Kim,Make,-0.08330000000000004,0.6667,0.75
 2025-05-13 13:01:27.837607,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Make,-0.0857,0.7143,0.8
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.0965,0.1667,0.2632
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.1,0.1,0.2
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Golden State Warriors,-0.1006,0.002,0.1026
 2025-05-13 13:01:27.914896,Cut Lines - Byeong Hun An - Make Cut / Miss Cut - Byeong Hun An,Make,-0.10089999999999999,0.6491,0.75
 2025-05-13 08:42:11.208623,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.14139999999999997,0.2222,0.3636
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Boston Celtics,-0.15860000000000002,0.0588,0.2174
 2025-05-13 08:42:11.205674,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,-0.16660000000000008,0.6667,0.8333
+2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Oklahoma City Thunder,-0.1804,0.0196,0.2
+2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,-0.3005,0.0769,0.3774

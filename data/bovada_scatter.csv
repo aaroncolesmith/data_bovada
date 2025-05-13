@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 13:01:27.953532,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Miss,0.067,0.4444,0.3774
 2025-05-13 08:42:11.205674,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,0.06659999999999999,0.7333,0.6667
 2025-05-13 13:01:27.919200,Cut Lines - Mackenzie Hughes - Make Cut / Miss Cut - Mackenzie Hughes,Miss,0.05960000000000004,0.4167,0.3571
+2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,San Antonio Spurs,0.04999999999999999,0.25,0.2
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Javier Baez (DET),0.04620000000000002,0.2,0.1538
 2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),0.044599999999999994,0.0769,0.0323
 2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.044399999999999995,0.4444,0.4
@@ -39,6 +40,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Byron Buxton (MIN),0.016600000000000004,0.0833,0.0667
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.015400000000000025,0.2857,0.2703
 2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.015100000000000002,0.1818,0.1667
+2025-05-13 15:34:56.628466,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout",Sam Goodman,0.014200000000000101,0.8403,0.8261
 2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.013799999999999923,0.6364,0.6226
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Mikal Bridges (NYK),0.0131,0.0164,0.0033
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,OG Anunoby (NYK),0.013,0.0196,0.0066
@@ -51,8 +53,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 14:37:59.372002,Boxing Lines - Jasmine Parr vs Jittamat Phomta - To Win the Bout,Jittamat Phomta,0.0102,0.0769,0.0667
 2025-05-13 13:01:27.686421,Boxing Lines - George Liddard vs Aaron Sutton - To Win the Bout,George Liddard,0.010199999999999987,0.9333,0.9231
 2025-05-13 05:35:27.267319,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.010099999999999998,0.4545,0.4444
-2025-05-13 13:45:18.537795,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,-0.0102,0.0667,0.0769
 2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.0102,0.0667,0.0769
+2025-05-13 13:45:18.537795,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,-0.0102,0.0667,0.0769
 2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Evan Mobley (CLE),-0.010700000000000001,0.011,0.0217
 2025-05-13 03:51:22.701852,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
 2025-05-13 07:31:43.973850,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Wade Ryan,-0.01100000000000001,0.5238,0.5348
@@ -62,6 +64,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 05:35:27.267319,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.012699999999999989,0.3509,0.3636
 2025-05-13 06:44:32.871112,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Mikal Bridges (NYK),-0.013,0.0066,0.0196
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Myles Turner (IND),-0.013400000000000002,0.011,0.0244
+2025-05-13 15:34:56.628466,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout","Espinoza, Cesar Vaca",-0.01369999999999999,0.2273,0.241
+2025-05-13 15:34:57.001618,Regions Tradition - Regions Tradition - Winner ,Steve Stricker,-0.013899999999999996,0.1111,0.125
 2025-05-13 11:28:59.868150,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,-0.013999999999999999,0.0769,0.0909
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Evan Carter (TEX),-0.014100000000000001,0.0385,0.0526
 2025-05-13 13:01:26.324229,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Newcastle United,-0.014399999999999996,0.0625,0.0769
@@ -77,6 +81,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Spencer Torkelson (DET),-0.020799999999999985,0.3125,0.3333
 2025-05-13 06:44:32.874406,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jimmy Butler III (GSW),-0.022099999999999998,0.0057,0.0278
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.0245,0.0588,0.0833
+2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Brooklyn Nets,-0.027999999999999997,0.1538,0.1818
 2025-05-13 03:51:22.701852,NBA Championship - NBA Championship 2024-25 - NBA Champion,Boston Celtics,-0.028199999999999996,0.0385,0.0667
 2025-05-13 13:01:26.505346,LNB Pro A - France LNB Pro A 2024/25 - Winner,ASVEL Basket,-0.028799999999999992,0.125,0.1538
 2025-05-13 13:01:27.970732,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,-0.030299999999999994,0.6364,0.6667

@@ -46,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 06:44:33.878781,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.015400000000000025,0.2857,0.2703
 2025-05-13 03:51:22.706546,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Cleveland Cavaliers,0.015100000000000002,0.1818,0.1667
 2025-05-13 02:18:32.235826,NBA Championship - NBA Championship 2024-25 - NBA Champion,Cleveland Cavaliers,0.014399999999999996,0.0769,0.0625
+2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.013799999999999923,0.6364,0.6226
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Mikal Bridges (NYK),0.0131,0.0164,0.0033
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,OG Anunoby (NYK),0.013,0.0196,0.0066
 2025-05-13 06:44:32.774192,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.012899999999999995,0.1667,0.1538
@@ -59,6 +60,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 13:01:27.686421,Boxing Lines - George Liddard vs Aaron Sutton - To Win the Bout,George Liddard,0.010199999999999987,0.9333,0.9231
 2025-05-13 05:35:27.267319,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.010099999999999998,0.4545,0.4444
 2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.0102,0.0667,0.0769
+2025-05-13 13:45:18.537795,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Charlie Bell,-0.0102,0.0667,0.0769
 2025-05-13 02:18:33.392407,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Mounir Fathi,-0.010699999999999932,0.5348,0.5455
 2025-05-13 03:51:22.799923,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Evan Mobley (CLE),-0.010700000000000001,0.011,0.0217
 2025-05-13 03:51:22.701852,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
@@ -75,6 +77,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 08:42:12.771421,PGA Championship - PGA Championship 2025 - Winner,Scottie Scheffler,-0.015100000000000002,0.1667,0.1818
 2025-05-13 13:01:26.324229,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.017600000000000005,0.3333,0.3509
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Darius Garland (CLE),-0.0189,0.0196,0.0385
+2025-05-13 13:45:18.616864,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.018900000000000028,0.4255,0.4444
 2025-05-13 05:35:28.433727,Boxing Lines - Harry Garside vs Charlie Bell - To Win the Bout,Harry Garside,-0.018900000000000028,0.9615,0.9804
 2025-05-13 04:38:34.150155,NBA Championship - NBA Championship 2024-25 - NBA Champion,Golden State Warriors,-0.019499999999999997,0.0099,0.0294
 2025-05-13 06:44:32.867664,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Evan Mobley (CLE),-0.0204,0.0196,0.04

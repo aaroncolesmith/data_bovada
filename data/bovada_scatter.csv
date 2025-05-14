@@ -3,6 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat New York Knicks,0.2115,0.25,0.0385
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Oklahoma City Thunder,0.1827,0.2105,0.0278
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Indiana Pacers,0.1515,0.1667,0.0152
+2025-05-14 04:38:01.990182,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.13670000000000004,0.6923,0.5556
+2025-05-14 04:38:01.980918,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.12879999999999997,0.5455,0.4167
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,New York Knicks vs Minnesota Timberwolves,0.1267,0.1333,0.0066
 2025-05-14 02:18:24.453743,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.12420000000000003,0.4878,0.3636
 2025-05-14 03:20:14.336635,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.1,0.2,0.1
@@ -13,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 21:30:46.277681,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.06659999999999999,0.3333,0.2667
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Indiana Pacers,0.0576,0.0588,0.0012
 2025-05-13 20:34:28.195507,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Tanner Scott (LAD),0.052000000000000005,0.1429,0.0909
-2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,San Antonio Spurs,0.04999999999999999,0.25,0.2
 2025-05-13 17:33:59.312586,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Oklahoma City Thunder,0.0491,0.0769,0.0278
 2025-05-13 21:30:46.281177,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),0.04849999999999999,0.1818,0.1333
 2025-05-13 20:34:28.195507,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Jose Alvarado (NOP),0.0474,0.0909,0.0435
@@ -38,8 +39,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 17:33:59.522546,CFL Regular Season Wins - Regular Season Wins 2025 - BC Lions Reg Season Wins,Over 9.5,0.025599999999999956,0.6,0.5744
 2025-05-13 20:34:27.595330,NFC South - NFC South 2025/26 - NFC South Winner,Tampa Bay Buccaneers,0.023800000000000043,0.5238,0.5
 2025-05-13 17:33:59.312586,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Denver Nuggets,0.023799999999999998,0.0278,0.004
-2025-05-13 16:42:37.064602,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,0.023799999999999988,0.5,0.4762
+2025-05-14 04:38:02.913596,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,0.023799999999999988,0.5,0.4762
 2025-05-13 17:33:59.762292,New York Giants - New York Giants Regular Season Wins - Giants Regular Season Wins,Over 5.5,0.023799999999999988,0.5,0.4762
+2025-05-13 16:42:37.064602,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,0.023799999999999988,0.5,0.4762
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat New York Knicks,0.0237,0.0294,0.0057
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat Indiana Pacers,0.0227,0.0244,0.0017
 2025-05-14 02:18:24.453743,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,0.022699999999999998,0.4878,0.4651
@@ -55,7 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-14 02:18:25.412539,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout",Sam Goodman,0.016799999999999926,0.8571,0.8403
 2025-05-13 18:42:21.888372,Los Angeles Rams - Los Angeles Rams Regular Season Wins - Rams Regular Season Wins,Over 9.5,0.01539999999999997,0.6154,0.6
 2025-05-13 23:30:31.673445,Boxing Lines - Stevan Ivic vs Toese Vousiutu - To Win the Bout,Toese Vousiutu,0.014800000000000035,0.6226,0.6078
-2025-05-13 15:34:56.628466,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout",Sam Goodman,0.014200000000000101,0.8403,0.8261
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Denver Nuggets,0.0142,0.0164,0.0022
 2025-05-13 22:35:39.506527,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Wade Ryan,0.012199999999999989,0.5122,0.5
 2025-05-13 17:33:59.772565,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Under 11.5,0.011600000000000055,0.5238,0.5122
@@ -70,27 +71,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 20:34:28.258674,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Mounir Fathi,0.010099999999999998,0.5556,0.5455
 2025-05-13 17:33:59.802694,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Over 9.5,0.010099999999999998,0.5556,0.5455
 2025-05-13 17:33:59.772565,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Over 11.5,-0.010099999999999998,0.5455,0.5556
-2025-05-13 17:33:59.751789,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 7.5,-0.010099999999999998,0.4444,0.4545
 2025-05-13 23:30:31.673445,Boxing Lines - Stevan Ivic vs Toese Vousiutu - To Win the Bout,Stevan Ivic,-0.010099999999999998,0.4444,0.4545
+2025-05-13 17:33:59.751789,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 7.5,-0.010099999999999998,0.4444,0.4545
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Denver Nuggets,-0.010100000000000001,0.0244,0.0345
 2025-05-13 16:42:37.060576,Boxing Lines - Jasmine Parr vs Jittamat Phomta - To Win the Bout,Jittamat Phomta,-0.0102,0.0667,0.0769
 2025-05-13 21:30:46.281177,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Donovan Mitchell (CLE),-0.0102,0.0667,0.0769
 2025-05-13 17:34:00.301022,Boxing Lines - Stevan Ivic vs Toese Vousiutu - To Win the Bout,Stevan Ivic,-0.010599999999999998,0.4545,0.4651
 2025-05-13 18:42:21.888372,Los Angeles Rams - Los Angeles Rams Regular Season Wins - Rams Regular Season Wins,Under 9.5,-0.010599999999999998,0.4545,0.4651
 2025-05-13 17:33:59.644499,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Under 8.5,-0.010699999999999932,0.5348,0.5455
+2025-05-14 04:38:01.980918,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.010899999999999993,0.1429,0.1538
 2025-05-13 18:42:21.932729,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Over 10.5,-0.011099999999999999,0.4651,0.4762
 2025-05-13 16:42:36.096947,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.011099999999999999,0.1,0.1111
 2025-05-13 16:42:36.092272,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,-0.011099999999999999,0.1,0.1111
 2025-05-14 02:18:24.256343,Brasileirão Série A - Brazil Serie A 2025 - Winner,Internacional,-0.011199999999999995,0.0476,0.0588
 2025-05-13 22:35:39.498718,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,-0.0116,0.4762,0.4878
-2025-05-13 17:34:00.473056,Positions - Finishing Position - Justin Thomas - Finishing Position,19th or worse,-0.011600000000000055,0.5122,0.5238
 2025-05-13 20:34:28.258674,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Wade Ryan,-0.011600000000000055,0.5122,0.5238
 2025-05-13 17:33:59.802694,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Under 9.5,-0.011600000000000055,0.5122,0.5238
+2025-05-13 17:34:00.473056,Positions - Finishing Position - Justin Thomas - Finishing Position,19th or worse,-0.011600000000000055,0.5122,0.5238
 2025-05-13 21:30:47.189124,Boxing Lines - Mounir Fathi vs Wade Ryan - To Win the Bout,Wade Ryan,-0.012199999999999989,0.5,0.5122
 2025-05-13 18:42:22.435801,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Jason Fawcett,-0.012199999999999989,0.4878,0.5
 2025-05-14 02:18:24.256343,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,-0.012699999999999989,0.3509,0.3636
-2025-05-13 15:34:56.628466,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout","Espinoza, Cesar Vaca",-0.01369999999999999,0.2273,0.241
-2025-05-13 15:34:57.001618,Regions Tradition - Regions Tradition - Winner ,Steve Stricker,-0.013899999999999996,0.1111,0.125
 2025-05-14 02:18:25.412539,"Boxing Lines - Sam Goodman vs Espinoza, Cesar Vaca - To Win the Bout","Espinoza, Cesar Vaca",-0.01680000000000001,0.2105,0.2273
 2025-05-13 18:42:21.683100,CFL Regular Season Wins - Regular Season Wins 2025 - Calgary Stampeders Reg Season Wins,Over 6.5,-0.017299999999999982,0.5744,0.5917
 2025-05-13 16:42:37.034994,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Tennessee Volunteers,-0.0179,0.125,0.1429
@@ -102,22 +102,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Denver Nuggets to beat Boston Celtics,-0.022400000000000003,0.0099,0.0323
 2025-05-13 17:33:59.522546,CFL Regular Season Wins - Regular Season Wins 2025 - BC Lions Reg Season Wins,Under 9.5,-0.022699999999999998,0.4651,0.4878
 2025-05-13 16:42:37.034994,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.02310000000000001,0.0769,0.1
-2025-05-13 16:42:36.080797,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.023799999999999988,0.4762,0.5
-2025-05-13 21:30:46.277681,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.023799999999999988,0.1429,0.1667
 2025-05-13 18:42:21.805078,Atlanta Falcons - Atlanta Falcons Regular Season Wins - Falcons Regular Season Wins,Under 7.5,-0.023799999999999988,0.4762,0.5
+2025-05-13 21:30:46.277681,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Donovan Mitchell (CLE),-0.023799999999999988,0.1429,0.1667
+2025-05-13 16:42:36.080797,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.023799999999999988,0.4762,0.5
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Denver Nuggets,-0.0244,0.0079,0.0323
+2025-05-14 04:38:01.990182,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.02560000000000001,0.3077,0.3333
 2025-05-13 21:30:46.939768,NCAA Football Futures - 2025-2026 - NCAA National Championship Game Winner - 2025-2026 Requested Specials,Arch Manning to win Heisman and Texas to win the National Championship,-0.026199999999999998,0.0294,0.0556
 2025-05-13 16:42:37.064602,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Alex Lual,-0.026499999999999968,0.5652,0.5917
 2025-05-13 17:33:59.762292,New York Giants - New York Giants Regular Season Wins - Giants Regular Season Wins,Under 5.5,-0.026499999999999968,0.5652,0.5917
-2025-05-13 15:34:55.741428,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Brooklyn Nets,-0.027999999999999997,0.1538,0.1818
+2025-05-14 04:38:02.913596,Boxing Lines - Jason Fawcett vs Alex Lual - To Win the Bout,Alex Lual,-0.026499999999999968,0.5652,0.5917
 2025-05-14 02:18:24.256343,Brasileirão Série A - Brazil Serie A 2025 - Winner,Corinthians,-0.0294,0.0294,0.0588
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Cleveland Cavaliers,-0.030300000000000007,0.0909,0.1212
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Golden State Warriors to beat Cleveland Cavaliers,-0.031000000000000003,0.0013,0.0323
 2025-05-13 18:42:21.703332,CFL Regular Season Wins - Regular Season Wins 2025 - Toronto Argonauts Reg Season Wins,Over 10.5,-0.03259999999999996,0.6226,0.6552
 2025-05-13 18:42:21.883434,Los Angeles Chargers - Los Angeles Chargers Regular Season Wins - Chargers Regular Season Wins,Under 9.5,-0.03480000000000005,0.5,0.5348
 2025-05-13 21:30:46.281177,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),-0.03489999999999999,0.4651,0.5
-2025-05-13 16:42:37.225746,Tournament Match-Ups - Tournament Match-Ups - T. Fleetwood vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.035999999999999976,0.4762,0.5122
 2025-05-13 18:42:21.706759,CFL Regular Season Wins - Regular Season Wins 2025 - Winnipeg Blue Bombers Reg Season Wins,Over 10.5,-0.035999999999999976,0.4762,0.5122
+2025-05-13 16:42:37.225746,Tournament Match-Ups - Tournament Match-Ups - T. Fleetwood vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.035999999999999976,0.4762,0.5122
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Cleveland Cavaliers to beat Oklahoma City Thunder,-0.04329999999999999,0.0476,0.0909
 2025-05-13 20:34:28.195507,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Justin Martinez (ARI),-0.04619999999999999,0.0714,0.1176
 2025-05-13 20:34:28.195507,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Robert Suarez (SD),-0.04630000000000001,0.5833,0.6296
@@ -129,6 +130,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Cleveland Cavaliers vs Oklahoma City Thunder,-0.07949999999999999,0.1333,0.2128
 2025-05-14 03:20:14.336635,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.09960000000000002,0.5556,0.6552
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Golden State Warriors,-0.1006,0.002,0.1026
+2025-05-14 04:38:01.980918,NBA Championship - NBA Championship 2024-25 - NBA Champion,Denver Nuggets,-0.10619999999999999,0.0476,0.1538
+2025-05-14 04:38:01.990182,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,-0.12310000000000001,0.0769,0.2
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Boston Celtics,-0.15860000000000002,0.0588,0.2174
 2025-05-13 16:42:36.087367,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Boston Celtics to beat Oklahoma City Thunder,-0.1804,0.0196,0.2
 2025-05-13 16:42:36.083879,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,-0.3005,0.0769,0.3774

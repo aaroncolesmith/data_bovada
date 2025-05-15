@@ -42,9 +42,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-15 19:28:07.167187,AFC West - AFC West 2025/26 - AFC West Winner,Las Vegas Raiders,0.0208,0.0833,0.0625
 2025-05-15 08:41:38.978090,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.020799999999999985,0.3333,0.3125
 2025-05-15 18:44:53.468494,Cleveland Browns - Cleveland Browns Regular Season Wins - Browns Regular Season Wins ,Over 4.5,0.020299999999999985,0.6429,0.6226
-2025-05-15 17:32:38.732527,ACC Regular Season Wins - ACC Regular Season Wins - North Carolina,Under 7.5,0.01970000000000005,0.5652,0.5455
-2025-05-15 18:44:54.126988,SEC Regular Season Wins - SEC Regular Season Wins - Missouri,Under 7.5,0.01970000000000005,0.5652,0.5455
 2025-05-15 19:28:07.167187,AFC West - AFC West 2025/26 - AFC West Winner,Kansas City Chiefs,0.01970000000000005,0.5652,0.5455
+2025-05-15 18:44:54.126988,SEC Regular Season Wins - SEC Regular Season Wins - Missouri,Under 7.5,0.01970000000000005,0.5652,0.5455
+2025-05-15 17:32:38.732527,ACC Regular Season Wins - ACC Regular Season Wins - North Carolina,Under 7.5,0.01970000000000005,0.5652,0.5455
 2025-05-15 14:36:58.996238,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.01949999999999999,0.0909,0.0714
 2025-05-15 15:33:34.279887,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Nico Collins (HOU),0.019099999999999992,0.0667,0.0476
 2025-05-15 18:44:54.048788,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Michigan State,Over 5.5,0.01880000000000004,0.5744,0.5556
@@ -63,25 +63,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-15 14:36:58.999842,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),0.014099999999999998,0.0385,0.0244
 2025-05-15 08:41:38.997689,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Minnesota Twins,0.014099999999999994,0.0667,0.0526
 2025-05-15 08:41:39.110535,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Georgia,0.013999999999999999,0.0909,0.0769
-2025-05-15 08:41:37.847378,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.013899999999999996,0.125,0.1111
+2025-05-15 20:35:39.711673,Boxing Lines - Kieron Conway vs Gerome Warburton - To Win the Bout,Kieron Conway,0.013900000000000023,0.8889,0.875
 2025-05-15 08:41:38.968500,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.013899999999999996,0.125,0.1111
+2025-05-15 08:41:37.847378,National League - English National League 2024/25 - To Be Promoted,Rochdale,0.013899999999999996,0.125,0.1111
 2025-05-15 08:41:39.110535,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,0.012700000000000003,0.0323,0.0196
-2025-05-15 18:44:53.478548,Denver Broncos - Denver Broncos Regular Season Wins - Broncos Regular Season Wins,Over 9.5,0.012199999999999989,0.5,0.4878
 2025-05-15 18:44:53.549113,New York Giants - New York Giants Regular Season Wins - Giants Regular Season Wins,Over 5.5,0.012199999999999989,0.5,0.4878
-2025-05-15 15:33:33.332946,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-05-15 18:44:53.564399,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Over 8.5,0.012199999999999989,0.5,0.4878
+2025-05-15 18:44:53.478548,Denver Broncos - Denver Broncos Regular Season Wins - Broncos Regular Season Wins,Over 9.5,0.012199999999999989,0.5,0.4878
+2025-05-15 15:33:33.332946,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-05-15 08:41:38.397027,AFC East - AFC East 2025/26 - AFC East Winner,Buffalo Bills,0.0121,0.7222,0.7101
 2025-05-15 19:28:07.181732,NFC South - NFC South 2025/26 - NFC South Winner,Tampa Bay Buccaneers,0.011600000000000055,0.5238,0.5122
 2025-05-15 18:44:53.574494,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Over 8.5,0.0116,0.4878,0.4762
 2025-05-15 16:41:57.871804,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,De'Von Achane (MIA),0.011200000000000002,0.0244,0.0132
-2025-05-15 18:44:53.333790,AFC South - AFC South 2025/26 - AFC South Winner,Houston Texans,0.011099999999999999,0.4762,0.4651
 2025-05-15 08:41:38.973288,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.011099999999999999,0.1111,0.1
+2025-05-15 18:44:53.333790,AFC South - AFC South 2025/26 - AFC South Winner,Houston Texans,0.011099999999999999,0.4762,0.4651
+2025-05-15 18:44:53.579560,Tampa Bay Buccaneers - Tampa Bay Buccaneers Regular Season Wins - Buccaneers Regular Season Wins,Over 9.5,0.01100000000000001,0.5348,0.5238
 2025-05-15 18:44:53.498539,Indianapolis Colts - Indianapolis Colts Regular Season Wins - Colts Regular Season Wins,Over 7.5,0.01100000000000001,0.5348,0.5238
 2025-05-15 12:59:06.952911,Round Match-Ups - 1st Round Match-Ups - R. Henley vs P. Reed - 1st Round Match-Ups,Patrick Reed,0.01100000000000001,0.5348,0.5238
-2025-05-15 18:44:53.579560,Tampa Bay Buccaneers - Tampa Bay Buccaneers Regular Season Wins - Buccaneers Regular Season Wins,Over 9.5,0.01100000000000001,0.5348,0.5238
-2025-05-15 18:44:53.432697,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,0.010699999999999932,0.5455,0.5348
-2025-05-15 18:44:53.559352,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Over 11.5,0.010699999999999932,0.5455,0.5348
 2025-05-15 18:44:54.065480,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Oregon,Under 10.5,0.010699999999999932,0.5455,0.5348
+2025-05-15 18:44:53.559352,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Over 11.5,0.010699999999999932,0.5455,0.5348
+2025-05-15 18:44:53.432697,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,0.010699999999999932,0.5455,0.5348
 2025-05-15 08:41:38.415805,NFC East - NFC East 2025/26 - NFC East Winner,New York Giants,0.010600000000000005,0.0476,0.037
 2025-05-15 15:33:33.341492,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Gavin Newsom,0.0102,0.0769,0.0667
 2025-05-15 18:44:53.589936,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Over 9.5,0.010099999999999998,0.5556,0.5455
@@ -90,18 +91,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-15 18:44:53.579560,Tampa Bay Buccaneers - Tampa Bay Buccaneers Regular Season Wins - Buccaneers Regular Season Wins,Under 9.5,-0.010699999999999932,0.5348,0.5455
 2025-05-15 18:44:53.498539,Indianapolis Colts - Indianapolis Colts Regular Season Wins - Colts Regular Season Wins,Under 7.5,-0.010699999999999932,0.5348,0.5455
 2025-05-15 18:44:53.432697,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Under 8.5,-0.01100000000000001,0.5238,0.5348
-2025-05-15 18:44:54.065480,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Oregon,Over 10.5,-0.01100000000000001,0.5238,0.5348
 2025-05-15 18:44:53.559352,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Under 11.5,-0.01100000000000001,0.5238,0.5348
-2025-05-15 08:41:38.392315,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.011099999999999999,0.1,0.1111
-2025-05-15 18:44:53.333790,AFC South - AFC South 2025/26 - AFC South Winner,Jacksonville Jaguars,-0.011099999999999999,0.2667,0.2778
-2025-05-15 18:44:53.453261,Carolina Panthers - Carolina Panthers Regular Season Wins - Panthers Regular Season Wins,Under 6.5,-0.011099999999999999,0.4651,0.4762
-2025-05-15 08:41:38.997689,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.011099999999999999,0.1,0.1111
+2025-05-15 18:44:54.065480,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Oregon,Over 10.5,-0.01100000000000001,0.5238,0.5348
 2025-05-15 18:44:53.569410,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Over 10.5,-0.011099999999999999,0.4651,0.4762
+2025-05-15 18:44:53.453261,Carolina Panthers - Carolina Panthers Regular Season Wins - Panthers Regular Season Wins,Under 6.5,-0.011099999999999999,0.4651,0.4762
+2025-05-15 08:41:38.392315,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.011099999999999999,0.1,0.1111
 2025-05-15 18:44:53.437816,Atlanta Falcons - Atlanta Falcons Regular Season Wins - Falcons Regular Season Wins,Under 7.5,-0.011099999999999999,0.4651,0.4762
+2025-05-15 08:41:38.997689,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.011099999999999999,0.1,0.1111
+2025-05-15 18:44:53.333790,AFC South - AFC South 2025/26 - AFC South Winner,Jacksonville Jaguars,-0.011099999999999999,0.2667,0.2778
 2025-05-15 08:41:38.401715,AFC North - AFC North 2025/26 - AFC North Winner,Cleveland Browns,-0.011199999999999995,0.0323,0.0435
 2025-05-15 18:44:53.353243,NFC South - NFC South 2025/26 - NFC South Winner,Carolina Panthers,-0.011300000000000004,0.1887,0.2
-2025-05-15 18:44:53.589936,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2025-05-15 12:59:06.952911,Round Match-Ups - 1st Round Match-Ups - R. Henley vs P. Reed - 1st Round Match-Ups,Russell Henley,-0.011600000000000055,0.5122,0.5238
+2025-05-15 18:44:53.589936,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2025-05-15 18:44:53.503591,Jacksonville Jaguars - Jacksonville Jaguars Regular Season Wins - Jaguars Regular Season Wins,Under 7.5,-0.012199999999999989,0.4878,0.5
 2025-05-15 08:41:38.992745,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.012600000000000007,0.0588,0.0714
 2025-05-15 19:28:07.171936,NFC East - NFC East 2025/26 - NFC East Winner,Dallas Cowboys,-0.012899999999999995,0.1538,0.1667
@@ -114,25 +115,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-15 18:44:53.333790,AFC South - AFC South 2025/26 - AFC South Winner,Tennessee Titans,-0.015700000000000006,0.1176,0.1333
 2025-05-15 08:41:38.992745,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.015899999999999997,0.1379,0.1538
 2025-05-15 16:41:57.860350,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Liam Coen,-0.016600000000000004,0.0667,0.0833
+2025-05-15 20:35:39.711673,Boxing Lines - Kieron Conway vs Gerome Warburton - To Win the Bout,Gerome Warburton,-0.016600000000000004,0.1739,0.1905
 2025-05-15 18:44:53.574494,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Under 8.5,-0.017299999999999982,0.5744,0.5917
 2025-05-15 14:36:59.003267,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.017300000000000093,0.697,0.7143
 2025-05-15 08:41:37.847378,National League - English National League 2024/25 - To Be Promoted,Forest Green Rovers,-0.017600000000000005,0.3333,0.3509
 2025-05-15 08:41:38.987875,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.018799999999999983,0.3448,0.3636
 2025-05-15 18:44:53.468494,Cleveland Browns - Cleveland Browns Regular Season Wins - Browns Regular Season Wins ,Under 4.5,-0.018900000000000028,0.4255,0.4444
 2025-05-15 15:33:33.194249,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.01959999999999995,0.6774,0.697
-2025-05-15 08:41:38.411149,AFC West - AFC West 2025/26 - AFC West Winner,Kansas City Chiefs,-0.01970000000000005,0.5455,0.5652
 2025-05-15 18:44:53.508596,Kansas City Chiefs - Kansas City Chiefs Regular Season Wins - Chiefs Regular Season Wins,Under 11.5,-0.01970000000000005,0.5455,0.5652
+2025-05-15 08:41:38.411149,AFC West - AFC West 2025/26 - AFC West Winner,Kansas City Chiefs,-0.01970000000000005,0.5455,0.5652
 2025-05-15 18:44:54.137139,SEC Regular Season Wins - SEC Regular Season Wins - Tennessee,Over 8.5,-0.02079999999999993,0.5348,0.5556
 2025-05-15 15:33:33.332946,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.02079999999999993,0.5348,0.5556
 2025-05-15 08:41:39.648494,Tournament Match-Ups - Tournament Match-Ups - M. Hughes v M. Kim - Requests,Michael Kim,-0.02079999999999993,0.5348,0.5556
 2025-05-15 18:44:53.518682,Los Angeles Chargers - Los Angeles Chargers Regular Season Wins - Chargers Regular Season Wins,Under 9.5,-0.02169999999999994,0.5238,0.5455
-2025-05-15 18:44:53.473539,Dallas Cowboys - Dallas Cowboys Regular Season Wins - Cowboys Regular Season Wins,Under 7.5,-0.021699999999999997,0.4545,0.4762
 2025-05-15 13:43:12.421429,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.021699999999999997,0.4545,0.4762
+2025-05-15 18:44:53.473539,Dallas Cowboys - Dallas Cowboys Regular Season Wins - Cowboys Regular Season Wins,Under 7.5,-0.021699999999999997,0.4545,0.4762
 2025-05-15 19:28:07.167187,AFC West - AFC West 2025/26 - AFC West Winner,Denver Broncos,-0.022199999999999998,0.2,0.2222
 2025-05-15 10:39:53.414133,Round Match-Ups - 1st Round Match-Ups - K. Mitchell v S. Garcia - Requests,Sergio Garcia,-0.023799999999999988,0.4762,0.5
-2025-05-15 15:33:34.709768,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs D. Berger - 1st Round Match-Ups,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2025-05-15 17:32:38.732527,ACC Regular Season Wins - ACC Regular Season Wins - North Carolina,Over 7.5,-0.023800000000000043,0.5,0.5238
 2025-05-15 18:44:54.126988,SEC Regular Season Wins - SEC Regular Season Wins - Missouri,Over 7.5,-0.023800000000000043,0.5,0.5238
+2025-05-15 15:33:34.709768,Round Match-Ups - 1st Round Match-Ups - J. Spieth vs D. Berger - 1st Round Match-Ups,Jordan Spieth,-0.023800000000000043,0.5,0.5238
 2025-05-15 08:41:38.397027,AFC East - AFC East 2025/26 - AFC East Winner,New York Jets,-0.024299999999999995,0.0526,0.0769
 2025-05-15 18:44:54.048788,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Michigan State,Under 5.5,-0.024399999999999977,0.4878,0.5122
 2025-05-15 14:36:58.999842,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),-0.025300000000000003,0.1176,0.1429
@@ -146,16 +148,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-15 18:44:53.493551,Houston Texans - Houston Texans Regular Season Wins - Texans Regular Season Wins,Under 9.5,-0.028900000000000037,0.5455,0.5744
 2025-05-15 18:44:53.458429,Chicago Bears - Chicago Bears Regular Season Wins - Bears Regular Season Wins ,Under 8.5,-0.028900000000000037,0.5455,0.5744
 2025-05-15 08:41:38.987875,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.029899999999999982,0.2,0.2299
-2025-05-15 18:44:53.538731,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 7.5,-0.030299999999999994,0.4348,0.4651
 2025-05-15 18:44:53.533721,Minnesota Vikings - Minnesota Vikings Regular Season Wins - Vikings Regular Season Wins,Under 8.5,-0.030299999999999994,0.4348,0.4651
-2025-05-15 13:43:12.421429,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.031799999999999995,0.4444,0.4762
+2025-05-15 18:44:53.538731,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 7.5,-0.030299999999999994,0.4348,0.4651
 2025-05-15 16:41:57.765241,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Wisconsin,Over 5.5,-0.031799999999999995,0.4444,0.4762
+2025-05-15 13:43:12.421429,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.031799999999999995,0.4444,0.4762
 2025-05-15 08:41:38.983060,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.03270000000000001,0.0625,0.0952
 2025-05-15 08:41:38.983060,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.033399999999999985,0.1333,0.1667
 2025-05-15 14:36:59.865581,ACC Regular Season Wins - ACC Regular Season Wins - Clemson,Under 9.5,-0.03480000000000005,0.5,0.5348
 2025-05-15 18:44:54.079053,Big Ten Regular Season Wins - Big Ten Regular Season Wins - USC,Under 7.5,-0.035999999999999976,0.4762,0.5122
-2025-05-15 17:32:38.760502,Big 12 Regular Season Wins - Big 12 Regular Season Wins - Arizona,Over 5.5,-0.039600000000000024,0.4255,0.4651
 2025-05-15 18:44:53.448130,Buffalo Bills - Buffalo Bills Regular Season Wins - Bills Regular Season Wins,Under 11.5,-0.039600000000000024,0.4255,0.4651
+2025-05-15 17:32:38.760502,Big 12 Regular Season Wins - Big 12 Regular Season Wins - Arizona,Over 5.5,-0.039600000000000024,0.4255,0.4651
 2025-05-15 13:43:12.426411,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.04410000000000003,0.7059,0.75
 2025-05-15 18:44:53.483512,Detroit Lions - Detroit Lions Regular Season Wins - Lions Regular Season Wins,Over 10.5,-0.045499999999999985,0.5,0.5455
 2025-05-15 08:41:38.973288,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,-0.048099999999999976,0.2151,0.2632

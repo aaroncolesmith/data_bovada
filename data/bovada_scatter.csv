@@ -3,9 +3,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Ezi Magbegor (SEA),0.1049,0.1818,0.0769
 2025-05-14 18:40:54.716778,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.0865,0.125,0.0385
 2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Nate Tibbetts,0.08549999999999999,0.2105,0.125
+2025-05-15 03:18:51.155944,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Pope Francis,0.08529999999999999,0.1176,0.0323
 2025-05-15 02:15:19.464197,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Boston Celtics,0.06910000000000001,0.16,0.0909
 2025-05-14 19:26:19.437673,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Brooklyn Nets,0.06840000000000002,0.2222,0.1538
 2025-05-14 19:26:19.369460,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Assists Per Game Leader,Courtney Vandersloot (NYL),0.0573,0.0769,0.0196
+2025-05-15 03:18:51.220655,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.05300000000000005,0.75,0.697
 2025-05-15 02:15:19.307573,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,FBC Melgar,0.044499999999999984,0.2667,0.2222
 2025-05-14 20:29:29.813354,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,New Orleans Pelicans,0.04329999999999999,0.0909,0.0476
 2025-05-14 19:26:19.379486,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Sabrina Ionescu (NYL),0.03889999999999999,0.1818,0.1429
@@ -45,34 +47,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-14 23:30:47.502088,EuroBasket 2025 - EuroBasket 2025 - Outright,Latvia,0.011199999999999995,0.0588,0.0476
 2025-05-14 19:26:19.372829,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Points Per Game Leader,Caitlin Clark (IND),0.010399999999999993,0.2326,0.2222
 2025-05-14 15:34:51.862361,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Emmanuel Clase (CLE),0.010300000000000002,0.0244,0.0141
-2025-05-15 02:15:20.685457,Main Markets - 1st Round 3-Balls - J. Dufner / M. Thorbjornsen / S. Micheel - 1st Round 3-Balls,Jason Dufner,-0.010099999999999998,0.3125,0.3226
 2025-05-14 16:41:12.296822,Round Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Over 70.5,-0.010099999999999998,0.4444,0.4545
+2025-05-15 02:15:20.685457,Main Markets - 1st Round 3-Balls - J. Dufner / M. Thorbjornsen / S. Micheel - 1st Round 3-Balls,Jason Dufner,-0.010099999999999998,0.3125,0.3226
 2025-05-14 20:29:29.698556,WNBA Championship - WNBA Championship 2025 - Championship Winner,Golden State Valkyries,-0.0103,0.002,0.0123
 2025-05-14 16:41:12.309741,Round Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Over 69.5,-0.011099999999999999,0.4651,0.4762
-2025-05-14 16:41:12.313983,Round Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Over 69.5,-0.011099999999999999,0.4651,0.4762
 2025-05-14 20:29:29.698556,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.011099999999999999,0.1,0.1111
+2025-05-14 16:41:12.313983,Round Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Over 69.5,-0.011099999999999999,0.4651,0.4762
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Sabrina Ionescu (NYL),-0.011199999999999995,0.0476,0.0588
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Brittney Griner (PHX),-0.0115,0.0179,0.0294
-2025-05-15 02:15:19.464197,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.0116,0.4762,0.4878
 2025-05-15 02:15:19.464197,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.0116,0.4762,0.4878
+2025-05-15 02:15:19.464197,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,-0.0116,0.4762,0.4878
 2025-05-14 16:41:12.301106,Round Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Over 70.5,-0.012199999999999989,0.4878,0.5
 2025-05-14 19:26:19.379486,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Kayla McBride (MIN),-0.012700000000000003,0.0196,0.0323
+2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Lynne Roberts,-0.013999999999999999,0.0769,0.0909
 2025-05-14 18:40:54.716778,ROY - NL ROY 2025 - National League Rookie of the Year,Jordan Lawlar (ARI),-0.013999999999999999,0.0769,0.0909
 2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Angel Reese (CHI),-0.013999999999999999,0.0769,0.0909
-2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Lynne Roberts,-0.013999999999999999,0.0769,0.0909
-2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Aliyah Boston (IND),-0.014900000000000004,0.0196,0.0345
 2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Jade Melboune,-0.014900000000000004,0.0196,0.0345
-2025-05-14 15:34:51.938477,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,-0.015899999999999997,0.2222,0.2381
+2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Aliyah Boston (IND),-0.014900000000000004,0.0196,0.0345
 2025-05-14 19:26:19.376186,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Rebounds Per Game Leader,A'ja Wilson (LVA),-0.015899999999999997,0.2222,0.2381
+2025-05-14 15:34:51.938477,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,-0.015899999999999997,0.2222,0.2381
 2025-05-14 17:33:54.767159,Round Match-Ups - 1st Round Match-Ups - S. Scheffler vs J. Rahm - 1st Round Match-Ups,Jon Rahm,-0.017299999999999982,0.4082,0.4255
 2025-05-14 16:41:12.326706,Round Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Over 70.5,-0.017299999999999982,0.5744,0.5917
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.018799999999999983,0.3448,0.3636
 2025-05-15 02:15:19.303058,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Vinotinto Ecuador,-0.0189,0.0196,0.0385
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Kelsey Plum (LVA),-0.019100000000000002,0.0132,0.0323
 2025-05-15 02:15:20.825856,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs X. Schauffele - Tournament Match-Ups,Jon Rahm,-0.01970000000000005,0.5455,0.5652
-2025-05-14 16:41:12.288210,Round Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Under 70.5,-0.02079999999999993,0.5348,0.5556
 2025-05-14 16:41:12.275462,Round Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Under 69.5,-0.02079999999999993,0.5348,0.5556
 2025-05-14 16:41:12.305365,Round Scores - 1st Round Scores - Patrick Cantlay - 1st Round Scores,Under 70.5,-0.02079999999999993,0.5348,0.5556
+2025-05-14 16:41:12.288210,Round Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Under 70.5,-0.02079999999999993,0.5348,0.5556
 2025-05-14 22:30:37.502686,Round Match-Ups - 1st Round Match-Ups - K. Mitchell vs B. Harman - 1st Round Match-Ups,Brian Harman,-0.021699999999999997,0.4545,0.4762
 2025-05-14 18:40:55.096966,Round Scores - 1st Round Scores - Sepp Straka - 1st Round Scores,Under 70.5,-0.021699999999999997,0.4545,0.4762
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.021999999999999964,0.2857,0.3077
@@ -91,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kate Martin (LVA),-0.03270000000000001,0.0625,0.0952
 2025-05-14 19:26:19.360076,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Cameron Brink (LAS),-0.033,0.0196,0.0526
 2025-05-14 15:34:51.410014,New Orleans Saints - New Orleans Saints Regular Season Wins - Saints Regular Season Wins,Over 6.5,-0.033299999999999996,0.3922,0.4255
-2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Natalie Nakase,-0.0384,0.0385,0.0769
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Cameron Brink (LAS),-0.0384,0.0385,0.0769
+2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Natalie Nakase,-0.0384,0.0385,0.0769
 2025-05-14 19:26:19.379486,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Kelsey Plum (LVA),-0.03889999999999999,0.1429,0.1818
 2025-05-14 19:26:19.369460,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Assists Per Game Leader,Alyssa Thomas (CON),-0.03950000000000001,0.2105,0.25
 2025-05-14 18:40:54.716778,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),-0.04040000000000002,0.1818,0.2222
@@ -100,13 +102,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-14 19:26:19.379486,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Threes Per Game Leader,Arike Ogunbowale (DAL),-0.04269999999999999,0.1111,0.1538
 2025-05-14 19:26:19.437673,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,New Orleans Pelicans,-0.04329999999999999,0.0476,0.0909
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Breanna Stewart (NYL),-0.0474,0.0435,0.0909
+2025-05-15 03:18:51.155944,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Elon Musk,-0.047599999999999976,0.2857,0.3333
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.0509,0.0667,0.1176
 2025-05-14 19:26:19.372829,WNBA Stat Leaders - WNBA Stat Leaders 2025 - Points Per Game Leader,Arike Ogunbowale (DAL),-0.0524,0.0476,0.1
 2025-05-14 18:40:54.716778,ROY - NL ROY 2025 - National League Rookie of the Year,Roki Sasaki (LAD),-0.05559999999999998,0.1111,0.1667
 2025-05-15 02:15:19.307573,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,-0.06190000000000001,0.3636,0.4255
 2025-05-14 19:26:19.364476,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (CON),-0.06309999999999999,0.0278,0.0909
-2025-05-14 20:29:29.813354,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Toronto Raptors,-0.06840000000000002,0.1538,0.2222
 2025-05-14 20:29:29.813354,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Brooklyn Nets,-0.06840000000000002,0.1538,0.2222
+2025-05-14 20:29:29.813354,NBA Specials - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks - Where Will Giannis Antetokounmpo Play Game 1 of the 2025 / 2026 NBA Season if Not With the Bucks,Toronto Raptors,-0.06840000000000002,0.1538,0.2222
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Napheesa Collier (MIN),-0.0744,0.1923,0.2667
 2025-05-14 19:26:19.355780,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Aliyah Boston (IND),-0.07450000000000001,0.0588,0.1333
 2025-05-14 19:26:19.351527,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Becky Hammon (LVA),-0.0777,0.0556,0.1333

@@ -5,8 +5,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-16 23:30:10.474103,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Willibaldo Garcia Perez,0.1199,0.5744,0.4545
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Richard Green,0.0952,0.2381,0.1429
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Steven Alker,0.09029999999999999,0.3125,0.2222
-2025-05-17 07:28:28.954953,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,0.09,0.25,0.16
 2025-05-17 06:40:17.470459,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,0.09,0.25,0.16
+2025-05-17 08:36:05.700752,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,0.09,0.25,0.16
+2025-05-17 07:28:28.954953,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,0.09,0.25,0.16
 2025-05-17 02:14:33.458806,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,0.08430000000000001,0.2222,0.1379
 2025-05-17 04:36:09.952500,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.0805999999999999,0.6154,0.5348
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Miguel Angel Jimenez,0.06620000000000001,0.125,0.0588
@@ -15,40 +16,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-17 07:28:28.932189,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.05550000000000002,0.2222,0.1667
 2025-05-17 02:14:33.302210,League Two - England League Two 2024/25 - To Be Promoted,Walsall,0.04760000000000003,0.5238,0.4762
 2025-05-16 23:30:10.493734,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yoshiki Takei,0.044399999999999995,0.9333,0.8889
+2025-05-17 08:36:07.050126,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Nathan Eovaldi (TEX),0.04329999999999999,0.0909,0.0476
 2025-05-17 04:36:09.945859,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.0397,0.1111,0.0714
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Alex Cejka,0.03860000000000001,0.1053,0.0667
+2025-05-17 08:36:07.050126,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),0.033300000000000024,0.2,0.1667
 2025-05-17 02:14:33.458806,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.033299999999999996,0.4878,0.4545
+2025-05-17 08:36:07.039728,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.028200000000000003,0.9615,0.9333
 2025-05-16 22:34:33.453902,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.02779999999999999,0.2778,0.25
+2025-05-17 08:36:05.670681,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.0242,0.0909,0.0667
 2025-05-17 02:14:33.463439,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.020799999999999985,0.3333,0.3125
 2025-05-17 07:28:30.615739,Main Markets - 3rd Round 2-Balls - S. Stevens / D. McCarthy - 3rd Round 2-Balls,Denny McCarthy,0.02079999999999993,0.5556,0.5348
+2025-05-17 08:36:07.044905,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.020699999999999996,0.4651,0.4444
 2025-05-17 07:28:28.929305,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,0.020100000000000007,0.25,0.2299
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Angel Cabrera,0.020000000000000004,0.0323,0.0123
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Ricardo Gonzalez,0.019899999999999998,0.0278,0.0079
 2025-05-17 02:14:34.787305,Boxing Lines - Artur Reis vs Mate Rudan - To Win the Bout,Artur Reis,0.01959999999999995,0.697,0.6774
 2025-05-16 22:34:33.453902,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.018799999999999983,0.3636,0.3448
+2025-05-17 08:36:07.111327,Boxing Lines - Artur Reis vs Mate Rudan - To Win the Bout,Artur Reis,0.018399999999999972,0.7059,0.6875
+2025-05-17 08:36:07.050126,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Max Fried (NYY),0.01820000000000002,0.2,0.1818
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,AJ Smith-Shawver (ATL),0.01820000000000002,0.2,0.1818
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,YE Yang,0.018099999999999998,0.0526,0.0345
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Doug Barron,0.017100000000000004,0.0323,0.0152
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Luisangel Acuna (NYM),0.015100000000000002,0.1818,0.1667
 2025-05-16 22:34:34.939545,Boxing Lines - Johnny Fisher vs David Allen - To Win the Bout,Johnny Fisher,0.014700000000000046,0.7647,0.75
-2025-05-17 02:14:33.278481,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.013800000000000034,0.3774,0.3636
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Hyeseong Kim (LAD),0.014399999999999996,0.0769,0.0625
 2025-05-17 05:33:19.505476,Boxing Lines - Artur Reis vs Mate Rudan - To Win the Bout,Mate Rudan,0.013800000000000034,0.3774,0.3636
+2025-05-17 02:14:33.278481,A-League - Australia A-League 2024/25 - Grand Final Winner,Auckland City,0.013800000000000034,0.3774,0.3636
+2025-05-17 08:36:07.391797,Round Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score,Over 70.5,0.012199999999999989,0.5,0.4878
+2025-05-17 08:36:07.449447,Round Scores - 3rd Round Score - Jhonattan Vegas - 3rd Round Score,Over 73.5,0.012199999999999989,0.5,0.4878
+2025-05-17 08:36:07.105952,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Coastal Carolina,0.011399999999999997,0.0278,0.0164
+2025-05-17 08:36:07.432927,Round Scores - 3rd Round Score - Max Homa - 3rd Round Score,Over 72.5,0.011099999999999999,0.4762,0.4651
+2025-05-17 08:36:07.441183,Round Scores - 3rd Round Score - Matt Fitzpatrick - 3rd Round Score,Over 72.5,0.011099999999999999,0.4762,0.4651
+2025-05-17 08:36:07.437062,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 69.5,0.01100000000000001,0.5348,0.5238
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.010899999999999993,0.1538,0.1429
 2025-05-17 05:33:19.509388,Boxing Lines - Shannon Ryan vs Fara El Bousairi - To Win the Bout,Fara El Bousairi,0.010499999999999982,0.2105,0.2
 2025-05-16 22:34:33.413506,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.010499999999999982,0.2105,0.2
+2025-05-17 08:36:07.445336,Round Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score,Over 72.5,0.010099999999999998,0.4545,0.4444
+2025-05-17 08:36:07.044905,MVP - NL MVP 2025 - National League MVP,Freddie Freeman (LAD),-0.0102,0.0667,0.0769
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.0102,0.0667,0.0769
 2025-05-16 23:30:09.041835,A1 - Greece A1 2024/25 - Outright,Olympiacos,-0.010599999999999998,0.4545,0.4651
+2025-05-17 08:36:07.437062,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 69.5,-0.010699999999999932,0.5348,0.5455
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Charlie Wi,-0.010700000000000001,0.0278,0.0385
 2025-05-17 04:36:09.858418,WNBA Championship - WNBA Championship 2025 - Championship Winner,Seattle Storm,-0.011199999999999995,0.0323,0.0435
 2025-05-17 03:16:47.137668,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.011700000000000016,0.2105,0.2222
+2025-05-17 08:36:07.039728,MVP - AL MVP 2025 - American League MVP,Bobby Witt Jr. (KC),-0.011899999999999994,0.0714,0.0833
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Tirso Ornelas (SD),-0.012700000000000003,0.0196,0.0323
 2025-05-17 04:36:09.858418,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.012700000000000003,0.0196,0.0323
+2025-05-17 08:36:05.670681,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Palestino,-0.013899999999999996,0.1111,0.125
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Thomas Bjorn,-0.0145,0.0099,0.0244
 2025-05-17 06:40:17.899554,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.01469999999999999,0.2353,0.25
 2025-05-16 21:30:30.650182,Boxing Lines - Johnny Fisher vs David Allen - To Win the Bout,Johnny Fisher,-0.014700000000000046,0.75,0.7647
+2025-05-17 08:36:07.445336,Round Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score,Under 72.5,-0.014800000000000035,0.6078,0.6226
+2025-05-17 08:36:07.050126,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Cole Ragans (KC),-0.014899999999999997,0.0476,0.0625
+2025-05-17 08:36:07.044905,MVP - NL MVP 2025 - National League MVP,Pete Alonso (NYM),-0.01759999999999999,0.1,0.1176
 2025-05-17 02:14:33.278481,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,-0.01820000000000002,0.1818,0.2
 2025-05-17 02:14:33.302210,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,-0.018900000000000028,0.4255,0.4444
 2025-05-17 03:48:34.751941,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),-0.01949999999999999,0.0714,0.0909
 2025-05-17 04:36:09.949235,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),-0.019800000000000005,0.0278,0.0476
+2025-05-17 08:36:07.111327,Boxing Lines - Artur Reis vs Mate Rudan - To Win the Bout,Mate Rudan,-0.02030000000000004,0.3571,0.3774
 2025-05-17 02:14:34.787305,Boxing Lines - Artur Reis vs Mate Rudan - To Win the Bout,Mate Rudan,-0.02100000000000002,0.3636,0.3846
 2025-05-17 03:48:34.751941,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Mikal Bridges (NYK),-0.023899999999999998,0.0196,0.0435
 2025-05-17 07:28:30.615739,Main Markets - 3rd Round 2-Balls - S. Stevens / D. McCarthy - 3rd Round 2-Balls,Sam Stevens,-0.024399999999999977,0.4878,0.5122
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Dylan Crews (WAS),-0.024999999999999994,0.1,0.125
 2025-05-17 03:48:34.751941,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Myles Turner (IND),-0.0275,0.011,0.0385
+2025-05-17 08:36:07.065561,ROY - NL ROY 2025 - National League Rookie of the Year,Roki Sasaki (LAD),-0.028399999999999995,0.0625,0.0909
 2025-05-17 04:36:09.858418,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.02840000000000001,0.0769,0.1053
 2025-05-17 07:28:28.929305,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,-0.033299999999999996,0.8,0.8333
 2025-05-17 04:36:09.858418,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.04249999999999998,0.2353,0.2778
@@ -61,9 +92,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Steve Stricker,-0.0637,0.0196,0.0833
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Ernie Els,-0.073,0.0179,0.0909
 2025-05-17 04:36:09.952500,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),-0.07509999999999997,0.2326,0.3077
+2025-05-17 08:36:07.050126,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.0885,0.1818,0.2703
+2025-05-17 08:36:05.704026,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,-0.09,0.16,0.25
 2025-05-17 05:33:18.086518,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,-0.09,0.16,0.25
-2025-05-17 06:40:17.473819,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,-0.09,0.16,0.25
 2025-05-17 07:28:28.958101,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,-0.09,0.16,0.25
+2025-05-17 06:40:17.473819,"Daily Soccer Specials - Germany Bundesliga Specials - Saturday, 17th May - Germany Bundesliga Specials - Saturday, 17th May",Over 2.5 Goals on each match.,-0.09,0.16,0.25
 2025-05-16 23:30:10.474103,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,-0.12,0.4878,0.6078
 2025-05-17 07:28:28.932189,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Nottingham Forest,-0.13729999999999998,0.0294,0.1667
 2025-05-16 23:30:10.530492,Regions Tradition - Regions Tradition - Winner ,Stewart Cink,-0.1491,0.1176,0.2667

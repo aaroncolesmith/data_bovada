@@ -5,52 +5,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 11:26:29.559125,CBA - China CBA 2024/25 - Outright,Beijing Ducks,0.11670000000000001,0.2,0.0833
 2025-05-18 07:28:14.042884,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.09830000000000005,0.5238,0.4255
 2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,0.05830000000000002,0.5128,0.4545
+2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.05679999999999999,0.1818,0.125
 2025-05-18 08:35:35.590039,Main Markets - Final Round 2-Balls - C. Conners / T. McKibbin - Final Round 2-Balls,Corey Conners,0.053099999999999925,0.6364,0.5833
+2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.04260000000000003,0.4348,0.3922
 2025-05-18 15:30:37.184070,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Over 72.5,0.03600000000000003,0.5238,0.4878
 2025-05-18 09:30:25.492334,Main Markets - Final Round 2-Balls - M. Homa / W. Clark - Final Round 2-Balls,Max Homa,0.035999999999999976,0.5122,0.4762
 2025-05-18 13:35:20.152259,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.03489999999999999,0.5,0.4651
 2025-05-18 15:30:37.234672,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
 2025-05-18 16:36:22.155500,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,0.03479999999999994,0.6,0.5652
+2025-05-18 19:25:38.504762,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.033300000000000024,0.2,0.1667
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Scottie Scheffler,0.033300000000000024,0.2,0.1667
 2025-05-18 08:35:35.686700,Main Markets - Final Round 2-Balls - S. Scheffler / A. Noren - Final Round 2-Balls,Scottie Scheffler,0.029799999999999938,0.7917,0.7619
-2025-05-18 15:30:37.188276,Round Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 72.5,0.029000000000000026,0.4545,0.4255
 2025-05-18 15:30:37.167187,Round Scores - Final Round Score - Lucas Glover - Final Round Score,Over 72.5,0.029000000000000026,0.4545,0.4255
+2025-05-18 15:30:37.188276,Round Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 72.5,0.029000000000000026,0.4545,0.4255
 2025-05-18 08:35:33.950235,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,0.028799999999999992,0.1538,0.125
 2025-05-18 11:26:30.965470,Main Markets - Final Round 2-Balls - J. Vegas / K. Bradley - Final Round 2-Balls,Keegan Bradley,0.02859999999999996,0.6364,0.6078
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,0.028399999999999995,0.0909,0.0625
 2025-05-18 08:35:34.044269,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Atletico,0.028199999999999996,0.0667,0.0385
 2025-05-18 09:30:25.460860,Main Markets - Final Round 2-Balls - D. Berger / R. Hojgaard - Final Round 2-Balls,Daniel Berger,0.027700000000000058,0.5833,0.5556
 2025-05-18 11:26:30.953361,Main Markets - Final Round 2-Balls - M. Wallace / A. Scott - Final Round 2-Balls,Adam Scott,0.027700000000000058,0.5833,0.5556
 2025-05-18 08:35:35.581890,Main Markets - Final Round 2-Balls - C. Bezuidenhout / R. McIIroy - Final Round 2-Balls,Rory McIlroy,0.026999999999999913,0.7917,0.7647
-2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Over 69.5,0.026499999999999968,0.5917,0.5652
-2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
-2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
 2025-05-18 11:26:30.973471,Main Markets - Final Round 2-Balls - D. Riley / J.T. Poston - Final Round 2-Balls,J.T. Poston,0.026499999999999968,0.5917,0.5652
+2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
 2025-05-18 15:30:37.129300,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
+2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Over 69.5,0.026499999999999968,0.5917,0.5652
+2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
+2025-05-18 19:25:38.509468,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.02560000000000001,0.3704,0.3448
 2025-05-18 08:35:35.881797,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
-2025-05-18 15:30:37.133495,Round Scores - Final Round Score - Alex Smalley - Final Round Score,Over 72.5,0.024399999999999977,0.5122,0.4878
 2025-05-18 15:30:37.200890,Round Scores - Final Round Score - Tony Finau - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
+2025-05-18 15:30:37.133495,Round Scores - Final Round Score - Alex Smalley - Final Round Score,Over 72.5,0.024399999999999977,0.5122,0.4878
 2025-05-18 11:26:30.865159,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Tommy Fleetwood,0.023799999999999988,0.5,0.4762
-2025-05-18 15:30:37.222038,Round Scores - Final Round Score - Davis Riley - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
+2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.120773,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 71.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
-2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
+2025-05-18 15:30:37.222038,Round Scores - Final Round Score - Davis Riley - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 12:54:50.892972,Main Markets - Final Round 2-Balls - M. Penge / B. Hossler - Final Round 2-Balls,Marco Penge,0.022600000000000064,0.5348,0.5122
 2025-05-18 11:26:30.905303,Main Markets - Final Round 2-Balls - R. Campos / C. Young - Final Round 2-Balls,Cameron Young,0.022199999999999998,0.6774,0.6552
+2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.022199999999999998,0.6774,0.6552
 2025-05-18 09:30:25.484532,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Thorbjorn Olesen,0.02200000000000002,0.7143,0.6923
-2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-05-18 15:30:37.179885,Round Scores - Final Round Score - Adam Scott - Final Round Score,Over 71.5,0.02169999999999994,0.5455,0.5238
-2025-05-18 09:30:25.453049,Main Markets - Final Round 2-Balls - N. Hojgaard / S. Jaeger - Final Round 2-Balls,Stephan Jaeger,0.02079999999999993,0.5556,0.5348
+2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-05-18 10:35:18.297154,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Michael Kim,0.02079999999999993,0.5556,0.5348
-2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 09:30:25.453049,Main Markets - Final Round 2-Balls - N. Hojgaard / S. Jaeger - Final Round 2-Balls,Stephan Jaeger,0.02079999999999993,0.5556,0.5348
 2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.226227,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.205080,Round Scores - Final Round Score - Jhonattan Vegas - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Over 71.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 08:35:34.030227,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.0203,0.0588,0.0385
 2025-05-18 08:35:35.594082,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Thorbjorn Olesen,0.020199999999999996,0.6923,0.6721
 2025-05-18 09:30:25.464774,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Collin Morikawa,0.01970000000000005,0.5652,0.5455
@@ -63,97 +69,110 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 08:35:34.034861,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,0.0179,0.1429,0.125
 2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.0179,0.1429,0.125
 2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Alonso Martinez,0.016600000000000004,0.0833,0.0667
-2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 71.5,0.016100000000000003,0.6078,0.5917
 2025-05-18 15:30:37.230462,Round Scores - Final Round Score - Alex Noren - Final Round Score,Over 71.5,0.016100000000000003,0.6078,0.5917
+2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 71.5,0.016100000000000003,0.6078,0.5917
 2025-05-18 11:26:30.885239,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Thorbjorn Olesen,0.015599999999999947,0.7299,0.7143
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,0.015300000000000001,0.0476,0.0323
 2025-05-18 11:26:30.957367,Main Markets - Final Round 2-Balls - M. Pavon / M. Fitzpatrick - Final Round 2-Balls,Matt Fitzpatrick,0.014800000000000035,0.6226,0.6078
 2025-05-18 16:36:20.631149,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Denver Nuggets,0.014399999999999996,0.0769,0.0625
-2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Chicago Fire,0.014099999999999998,0.0385,0.0244
 2025-05-18 08:35:33.950235,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Colorado Rapids,0.014099999999999998,0.0385,0.0244
+2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Chicago Fire,0.014099999999999998,0.0385,0.0244
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Bryson DeChambeau,0.013999999999999999,0.0909,0.0769
-2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,0.013899999999999996,0.125,0.1111
 2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Brescia,0.013899999999999996,0.125,0.1111
+2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,0.013899999999999996,0.125,0.1111
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.012899999999999995,0.1667,0.1538
 2025-05-18 14:32:17.320763,Futures - The Open 2025 - Winner,Scottie Scheffler,0.012899999999999995,0.1667,0.1538
 2025-05-18 14:32:16.865490,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),0.011600000000000055,0.5238,0.5122
-2025-05-18 09:30:25.449117,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Michael Kim,0.01100000000000001,0.5348,0.5238
 2025-05-18 10:35:18.344544,Main Markets - Final Round 2-Balls - H. English / A. Rai - Final Round 2-Balls,Aaron Rai,0.01100000000000001,0.5348,0.5238
+2025-05-18 09:30:25.449117,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Michael Kim,0.01100000000000001,0.5348,0.5238
 2025-05-18 08:35:34.044269,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,0.010899999999999993,0.1538,0.1429
+2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.010699999999999987,0.3333,0.3226
+2025-05-18 19:25:37.373962,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.010499999999999982,0.2105,0.2
 2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.010499999999999982,0.2105,0.2
 2025-05-18 08:35:33.953872,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.0102,0.0769,0.0667
 2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,-0.010099999999999998,0.3125,0.3226
 2025-05-18 08:35:34.039529,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,-0.0102,0.0667,0.0769
-2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.011199999999999995,0.0476,0.0588
 2025-05-18 08:35:34.039529,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,-0.011199999999999995,0.0476,0.0588
+2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Emmanuel Latte Lath,-0.011199999999999995,0.0476,0.0588
 2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,-0.011199999999999995,0.0476,0.0588
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Collin Morikawa,-0.011199999999999995,0.0476,0.0588
 2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,-0.011199999999999995,0.0476,0.0588
 2025-05-18 09:30:25.449117,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Tom Kim,-0.011600000000000055,0.5122,0.5238
 2025-05-18 10:35:18.344544,Main Markets - Final Round 2-Balls - H. English / A. Rai - Final Round 2-Balls,Harris English,-0.011600000000000055,0.5122,0.5238
 2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Aquila Trento,-0.011699999999999999,0.0079,0.0196
+2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.012899999999999995,0.1538,0.1667
 2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Dallas,-0.0131,0.0345,0.0476
 2025-05-18 08:35:33.944249,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.013899999999999996,0.1111,0.125
 2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Brian White,-0.013899999999999996,0.1111,0.125
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,-0.013999999999999999,0.0769,0.0909
 2025-05-18 08:35:33.947253,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York Red Bulls,-0.014099999999999998,0.0244,0.0385
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Brooks Koepka,-0.014100000000000001,0.0385,0.0526
+2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Athletics,-0.015300000000000001,0.0435,0.0588
 2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Christian Benteke,-0.016700000000000007,0.0833,0.1
 2025-05-18 09:30:25.484532,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Luke Donald,-0.017600000000000005,0.3333,0.3509
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Xander Schauffele,-0.018099999999999998,0.0588,0.0769
 2025-05-18 08:35:33.940789,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.018099999999999998,0.0588,0.0769
 2025-05-18 14:32:16.855375,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),-0.01820000000000002,0.1818,0.2
-2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 15:30:37.200890,Round Scores - Final Round Score - Tony Finau - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 15:30:37.133495,Round Scores - Final Round Score - Alex Smalley - Final Round Score,Under 72.5,-0.01880000000000004,0.5556,0.5744
+2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Ludvig Aberg,-0.019099999999999992,0.0476,0.0667
+2025-05-18 19:25:38.509468,NL East - NL East 2025 - NL East Winner,New York Mets,-0.01970000000000005,0.5455,0.5652
 2025-05-18 11:26:30.865159,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Clemson Tigers,-0.019800000000000005,0.0278,0.0476
 2025-05-18 11:26:30.885239,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Luke Donald,-0.020799999999999985,0.3125,0.3333
-2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
 2025-05-18 15:30:37.179885,Round Scores - Final Round Score - Adam Scott - Final Round Score,Under 71.5,-0.02169999999999994,0.5238,0.5455
+2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
 2025-05-18 11:26:30.973471,Main Markets - Final Round 2-Balls - D. Riley / J.T. Poston - Final Round 2-Balls,Davis Riley,-0.021699999999999997,0.4545,0.4762
-2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Under 71.5,-0.021699999999999997,0.4545,0.4762
 2025-05-18 15:30:37.230462,Round Scores - Final Round Score - Alex Noren - Final Round Score,Under 71.5,-0.021699999999999997,0.4545,0.4762
+2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Under 71.5,-0.021699999999999997,0.4545,0.4762
 2025-05-18 15:30:37.205080,Round Scores - Final Round Score - Jhonattan Vegas - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
 2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
 2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 12:54:50.892972,Main Markets - Final Round 2-Balls - M. Penge / B. Hossler - Final Round 2-Balls,Beau Hossler,-0.022600000000000064,0.5122,0.5348
-2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
 2025-05-18 15:30:37.226227,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 08:35:35.881797,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
+2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 12:54:50.892972,Main Markets - Final Round 2-Balls - M. Penge / B. Hossler - Final Round 2-Balls,Beau Hossler,-0.022600000000000064,0.5122,0.5348
 2025-05-18 09:30:25.460860,Main Markets - Final Round 2-Balls - D. Berger / R. Hojgaard - Final Round 2-Balls,Rasmus Hojgaard,-0.022699999999999998,0.4651,0.4878
 2025-05-18 11:26:30.953361,Main Markets - Final Round 2-Balls - M. Wallace / A. Scott - Final Round 2-Balls,Matt Wallace,-0.022699999999999998,0.4651,0.4878
+2025-05-18 08:35:35.881797,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
+2025-05-18 08:35:34.044269,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,-0.023799999999999988,0.1429,0.1667
 2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Under 71.5,-0.023799999999999988,0.4762,0.5
 2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Under 72.5,-0.023799999999999988,0.4762,0.5
-2025-05-18 08:35:34.044269,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,-0.023799999999999988,0.1429,0.1667
-2025-05-18 09:30:25.464774,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Tommy Fleetwood,-0.023799999999999988,0.4762,0.5
-2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Under 69.5,-0.023799999999999988,0.4762,0.5
 2025-05-18 09:30:25.445223,Main Markets - Final Round 2-Balls - A. Eckroat / B. Harman - Final Round 2-Balls,Austin Eckroat,-0.023799999999999988,0.4762,0.5
 2025-05-18 15:30:37.129300,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Under 71.5,-0.023799999999999988,0.4762,0.5
+2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Under 69.5,-0.023799999999999988,0.4762,0.5
+2025-05-18 09:30:25.464774,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Tommy Fleetwood,-0.023799999999999988,0.4762,0.5
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Rory McIlroy,-0.023799999999999988,0.1429,0.1667
 2025-05-18 15:30:37.141949,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 71.5,-0.023800000000000043,0.5,0.5238
 2025-05-18 10:35:18.297154,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2025-05-18 09:30:25.453049,Main Markets - Final Round 2-Balls - N. Hojgaard / S. Jaeger - Final Round 2-Balls,Nicolai Hojgaard,-0.024399999999999977,0.4878,0.5122
-2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 15:30:37.222038,Round Scores - Final Round Score - Davis Riley - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
-2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
-2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 15:30:37.120773,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,-0.025599999999999956,0.5744,0.6
+2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
+2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
+2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 08:35:35.594082,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Luke Donald,-0.026500000000000024,0.3509,0.3774
 2025-05-18 11:26:30.965470,Main Markets - Final Round 2-Balls - J. Vegas / K. Bradley - Final Round 2-Balls,Jhonattan Vegas,-0.026600000000000013,0.4082,0.4348
-2025-05-18 08:35:35.686700,Main Markets - Final Round 2-Balls - S. Scheffler / A. Noren - Final Round 2-Balls,Alex Noren,-0.02779999999999999,0.25,0.2778
 2025-05-18 08:35:35.581890,Main Markets - Final Round 2-Balls - C. Bezuidenhout / R. McIIroy - Final Round 2-Balls,Christiaan Bezuidenhout,-0.02779999999999999,0.25,0.2778
+2025-05-18 08:35:35.686700,Main Markets - Final Round 2-Balls - S. Scheffler / A. Noren - Final Round 2-Balls,Alex Noren,-0.02779999999999999,0.25,0.2778
 2025-05-18 15:30:37.188276,Round Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Under 72.5,-0.02859999999999996,0.6078,0.6364
 2025-05-18 15:30:37.167187,Round Scores - Final Round Score - Lucas Glover - Final Round Score,Under 72.5,-0.02859999999999996,0.6078,0.6364
 2025-05-18 11:26:30.905303,Main Markets - Final Round 2-Balls - R. Campos / C. Young - Final Round 2-Balls,Rafael Campos,-0.028600000000000014,0.3636,0.3922
 2025-05-18 15:30:37.184070,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Under 72.5,-0.028900000000000037,0.5455,0.5744
 2025-05-18 09:30:25.492334,Main Markets - Final Round 2-Balls - M. Homa / W. Clark - Final Round 2-Balls,Wyndham Clark,-0.030399999999999983,0.5348,0.5652
+2025-05-18 19:25:38.504762,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.033299999999999996,0.1,0.1333
 2025-05-18 15:30:37.234672,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,-0.03479999999999994,0.5652,0.6
 2025-05-18 16:36:22.155500,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.03489999999999999,0.4651,0.5
+2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.03920000000000001,0.2941,0.3333
 2025-05-18 08:35:34.030227,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,-0.04040000000000002,0.1818,0.2222
 2025-05-18 08:35:35.590039,Main Markets - Final Round 2-Balls - C. Conners / T. McKibbin - Final Round 2-Balls,Tom McKibbin,-0.04630000000000001,0.4082,0.4545
 2025-05-18 14:32:16.855375,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),-0.04999999999999999,0.2,0.25
 2025-05-18 11:26:29.582735,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,-0.0524,0.0476,0.1
+2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.05249999999999999,0.0244,0.0769
+2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.06669999999999998,0.1,0.1667
 2025-05-18 08:35:33.978349,A-League - Australia A-League 2024/25 - Grand Final Winner,Melbourne Victory,-0.08179999999999998,0.1,0.1818
 2025-05-18 11:26:29.559125,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,-0.09719999999999995,0.875,0.9722
 2025-05-18 08:35:34.006805,First Division A - Belgium First Division A 2024/25 - Outright,Club Brugge,-0.3015,0.1429,0.4444

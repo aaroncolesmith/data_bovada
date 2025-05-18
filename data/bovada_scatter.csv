@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-17 23:29:32.788672,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.1296,0.5,0.3704
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,YE Yang,0.12129999999999999,0.1739,0.0526
 2025-05-17 23:29:32.788672,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,0.11430000000000001,0.4,0.2857
+2025-05-18 07:28:14.042884,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.09830000000000005,0.5238,0.4255
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Charlie Wi,0.08979999999999999,0.1176,0.0278
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Chris DiMarco,0.042499999999999996,0.0435,0.001
 2025-05-18 04:43:33.072942,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),0.04240000000000001,0.1333,0.0909
@@ -10,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Angel Cabrera,0.03439999999999999,0.0667,0.0323
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Boo Weekley,0.0335,0.0385,0.005
 2025-05-18 05:34:07.975917,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Minnesota Lynx,0.03140000000000001,0.1852,0.1538
-2025-05-17 19:27:27.456467,Boxing Lines - Johnny Fisher vs David Allen - To Win the Bout,David Allen,0.02679999999999999,0.3125,0.2857
 2025-05-18 04:43:33.055974,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Indiana Fever,0.025300000000000017,0.2381,0.2128
 2025-05-18 05:34:07.975917,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Las Vegas Aces,0.02310000000000001,0.1481,0.125
 2025-05-18 05:34:07.967693,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,0.022599999999999953,0.7101,0.6875
@@ -22,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 05:34:07.964716,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,0.01479999999999998,0.3922,0.3774
 2025-05-18 04:43:33.055974,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Minnesota Lynx,0.014500000000000013,0.2273,0.2128
 2025-05-18 05:34:07.964716,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,0.012199999999999989,0.5122,0.5
-2025-05-17 19:27:27.472472,Boxing Lines - Serhii Bohachuk vs Mykal Fox - To Win the Bout,Mykal Fox,-0.0102,0.0667,0.0769
 2025-05-18 04:43:33.055974,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,New York Liberty,-0.010599999999999998,0.2597,0.2703
 2025-05-18 05:34:07.975917,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Chicago Sky vs Las Vegas Aces,-0.010700000000000001,0.0278,0.0385
 2025-05-18 04:43:33.077234,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (PHO),-0.010700000000000001,0.011,0.0217
@@ -45,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 04:43:33.055974,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Phoenix Mercury,-0.024299999999999995,0.0526,0.0769
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Doug Barron,-0.0257,0.0066,0.0323
 2025-05-18 05:34:07.967693,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Chicago Sky,-0.02679999999999999,0.1111,0.1379
-2025-05-17 19:27:27.456467,Boxing Lines - Johnny Fisher vs David Allen - To Win the Bout,Johnny Fisher,-0.027800000000000047,0.75,0.7778
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Freddie Jacobson,-0.028300000000000002,0.004,0.0323
 2025-05-17 23:29:34.074390,Regions Tradition - Regions Tradition - Winner ,Stewart Cink,-0.0407,0.0769,0.1176
 2025-05-18 04:43:33.064693,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,A'ja Wilson (LVA),-0.04910000000000003,0.3509,0.4

@@ -4,56 +4,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.19869999999999993,0.6154,0.4167
 2025-05-18 20:32:06.476176,B League - Japan B-League 2024/25 - Outright,Chiba Jets,0.1474,0.2,0.0526
 2025-05-18 21:28:59.268358,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.14549999999999996,0.6,0.4545
-2025-05-18 11:26:29.559125,CBA - China CBA 2024/25 - Outright,Beijing Ducks,0.11670000000000001,0.2,0.0833
 2025-05-18 20:32:06.476176,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,0.1094,0.2632,0.1538
 2025-05-18 20:32:06.529094,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),0.10069999999999998,0.3333,0.2326
-2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,0.05830000000000002,0.5128,0.4545
 2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.05679999999999999,0.1818,0.125
 2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.04260000000000003,0.4348,0.3922
 2025-05-18 22:33:20.412167,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.03639999999999999,0.6364,0.6
 2025-05-18 15:30:37.184070,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Over 72.5,0.03600000000000003,0.5238,0.4878
-2025-05-18 15:30:37.234672,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
 2025-05-18 13:35:20.152259,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.03489999999999999,0.5,0.4651
+2025-05-18 15:30:37.234672,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
 2025-05-18 16:36:22.155500,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 69.5,0.03479999999999994,0.6,0.5652
-2025-05-18 19:25:38.504762,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.033300000000000024,0.2,0.1667
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Scottie Scheffler,0.033300000000000024,0.2,0.1667
+2025-05-18 19:25:38.504762,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.033300000000000024,0.2,0.1667
 2025-05-18 15:30:37.188276,Round Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 72.5,0.029000000000000026,0.4545,0.4255
 2025-05-18 15:30:37.167187,Round Scores - Final Round Score - Lucas Glover - Final Round Score,Over 72.5,0.029000000000000026,0.4545,0.4255
-2025-05-18 11:26:30.965470,Main Markets - Final Round 2-Balls - J. Vegas / K. Bradley - Final Round 2-Balls,Keegan Bradley,0.02859999999999996,0.6364,0.6078
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,0.028399999999999995,0.0909,0.0625
-2025-05-18 11:26:30.953361,Main Markets - Final Round 2-Balls - M. Wallace / A. Scott - Final Round 2-Balls,Adam Scott,0.027700000000000058,0.5833,0.5556
-2025-05-18 11:26:30.973471,Main Markets - Final Round 2-Balls - D. Riley / J.T. Poston - Final Round 2-Balls,J.T. Poston,0.026499999999999968,0.5917,0.5652
-2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
-2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
+2025-05-18 23:30:50.054016,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,0.027800000000000047,0.7778,0.75
 2025-05-18 15:30:37.129300,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
 2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Over 69.5,0.026499999999999968,0.5917,0.5652
-2025-05-18 20:32:06.448422,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.02560000000000001,0.3704,0.3448
+2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
+2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Over 71.5,0.026499999999999968,0.5917,0.5652
 2025-05-18 19:25:38.509468,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.02560000000000001,0.3704,0.3448
+2025-05-18 20:32:06.448422,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,0.02560000000000001,0.3704,0.3448
 2025-05-18 15:30:37.133495,Round Scores - Final Round Score - Alex Smalley - Final Round Score,Over 72.5,0.024399999999999977,0.5122,0.4878
-2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
 2025-05-18 15:30:37.200890,Round Scores - Final Round Score - Tony Finau - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
-2025-05-18 11:26:30.865159,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Tommy Fleetwood,0.023799999999999988,0.5,0.4762
+2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
+2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
+2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.222038,Round Scores - Final Round Score - Davis Riley - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 15:30:37.120773,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 71.5,0.022699999999999998,0.4878,0.4651
-2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
-2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2025-05-18 12:54:50.892972,Main Markets - Final Round 2-Balls - M. Penge / B. Hossler - Final Round 2-Balls,Marco Penge,0.022600000000000064,0.5348,0.5122
-2025-05-18 11:26:30.905303,Main Markets - Final Round 2-Balls - R. Campos / C. Young - Final Round 2-Balls,Cameron Young,0.022199999999999998,0.6774,0.6552
 2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.022199999999999998,0.6774,0.6552
 2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-05-18 15:30:37.179885,Round Scores - Final Round Score - Adam Scott - Final Round Score,Over 71.5,0.02169999999999994,0.5455,0.5238
+2025-05-18 23:30:50.058644,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.021100000000000008,0.2564,0.2353
 2025-05-18 20:32:06.461912,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.02100000000000002,0.3846,0.3636
 2025-05-18 20:32:07.524841,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.02080000000000004,0.6875,0.6667
-2025-05-18 10:35:18.297154,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Michael Kim,0.02079999999999993,0.5556,0.5348
-2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Over 71.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
-2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.205080,Round Scores - Final Round Score - Jhonattan Vegas - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Over 71.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 15:30:37.226227,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.020699999999999996,0.4651,0.4444
+2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Over 73.5,0.020699999999999996,0.4651,0.4444
 2025-05-18 20:32:06.448422,Western Conference - Western Conference 2024-25 - Western Conference Winner,Denver Nuggets,0.020100000000000007,0.1739,0.1538
 2025-05-18 15:30:37.141949,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Over 71.5,0.01970000000000005,0.5652,0.5455
 2025-05-18 20:32:06.439141,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.019699999999999995,0.4545,0.4348
@@ -62,80 +56,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 71.5,0.016100000000000003,0.6078,0.5917
 2025-05-18 15:30:37.230462,Round Scores - Final Round Score - Alex Noren - Final Round Score,Over 71.5,0.016100000000000003,0.6078,0.5917
 2025-05-18 22:33:20.497224,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Jalen Williams (OKC),0.0159,0.0323,0.0164
-2025-05-18 11:26:30.885239,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Thorbjorn Olesen,0.015599999999999947,0.7299,0.7143
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,0.015300000000000001,0.0476,0.0323
-2025-05-18 11:26:30.957367,Main Markets - Final Round 2-Balls - M. Pavon / M. Fitzpatrick - Final Round 2-Balls,Matt Fitzpatrick,0.014800000000000035,0.6226,0.6078
 2025-05-18 16:36:20.631149,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Indiana Pacers vs Denver Nuggets,0.014399999999999996,0.0769,0.0625
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Bryson DeChambeau,0.013999999999999999,0.0909,0.0769
-2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Brescia,0.013899999999999996,0.125,0.1111
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.012899999999999995,0.1667,0.1538
 2025-05-18 14:32:17.320763,Futures - The Open 2025 - Winner,Scottie Scheffler,0.012899999999999995,0.1667,0.1538
 2025-05-18 14:32:16.865490,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),0.011600000000000055,0.5238,0.5122
-2025-05-18 10:35:18.344544,Main Markets - Final Round 2-Balls - H. English / A. Rai - Final Round 2-Balls,Aaron Rai,0.01100000000000001,0.5348,0.5238
 2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.010699999999999987,0.3333,0.3226
 2025-05-18 19:25:37.373962,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.010499999999999982,0.2105,0.2
-2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Trapani,0.010499999999999982,0.2105,0.2
-2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,-0.010099999999999998,0.3125,0.3226
 2025-05-18 20:32:06.439141,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.010499999999999982,0.2,0.2105
 2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Julius Randle (MIN),-0.010700000000000001,0.0278,0.0385
 2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Karl-Anthony Towns (NYK),-0.010700000000000001,0.0278,0.0385
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Collin Morikawa,-0.011199999999999995,0.0476,0.0588
-2025-05-18 10:35:18.344544,Main Markets - Final Round 2-Balls - H. English / A. Rai - Final Round 2-Balls,Harris English,-0.011600000000000055,0.5122,0.5238
-2025-05-18 11:26:29.573456,Serie A - Italy Serie A 2024/25 - Outright,Aquila Trento,-0.011699999999999999,0.0079,0.0196
 2025-05-18 20:32:06.461912,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.011899999999999966,0.339,0.3509
 2025-05-18 20:32:06.529094,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Julius Randle (MIN),-0.012600000000000007,0.0588,0.0714
 2025-05-18 22:33:20.412167,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.012899999999999995,0.1538,0.1667
-2025-05-18 22:33:20.412167,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.012899999999999995,0.1538,0.1667
 2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.012899999999999995,0.1538,0.1667
+2025-05-18 22:33:20.412167,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.012899999999999995,0.1538,0.1667
+2025-05-18 23:30:50.058644,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.013600000000000001,0.2941,0.3077
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,-0.013999999999999999,0.0769,0.0909
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Brooks Koepka,-0.014100000000000001,0.0385,0.0526
-2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Athletics,-0.015300000000000001,0.0435,0.0588
 2025-05-18 20:32:07.524841,AL East - AL East 2025 - AL East Winner 2025,Baltimore Orioles,-0.015300000000000001,0.0323,0.0476
+2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Athletics,-0.015300000000000001,0.0435,0.0588
 2025-05-18 22:33:20.490573,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),-0.016600000000000004,0.0667,0.0833
 2025-05-18 20:32:06.485391,ABA League - ABA League 2024/25 - Outright,Crvena Zvezda,-0.016699999999999993,0.4,0.4167
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Xander Schauffele,-0.018099999999999998,0.0588,0.0769
 2025-05-18 14:32:16.855375,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),-0.01820000000000002,0.1818,0.2
-2025-05-18 15:30:37.200890,Round Scores - Final Round Score - Tony Finau - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 15:30:37.133495,Round Scores - Final Round Score - Alex Smalley - Final Round Score,Under 72.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 15:30:37.209319,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
+2025-05-18 15:30:37.200890,Round Scores - Final Round Score - Tony Finau - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
 2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Ludvig Aberg,-0.019099999999999992,0.0476,0.0667
-2025-05-18 11:26:30.865159,Main Markets - Final Round 2-Balls - T. Fleetwood / C. Morikawa - Final Round 2-Balls,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2025-05-18 19:25:38.509468,NL East - NL East 2025 - NL East Winner,New York Mets,-0.01970000000000005,0.5455,0.5652
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Clemson Tigers,-0.019800000000000005,0.0278,0.0476
-2025-05-18 11:26:30.885239,Main Markets - Final Round 2-Balls - L. Donald / T. Olesen - Final Round 2-Balls,Luke Donald,-0.020799999999999985,0.3125,0.3333
-2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
 2025-05-18 15:30:37.179885,Round Scores - Final Round Score - Adam Scott - Final Round Score,Under 71.5,-0.02169999999999994,0.5238,0.5455
+2025-05-18 15:30:37.196671,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
 2025-05-18 15:30:37.217821,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Under 71.5,-0.021699999999999997,0.4545,0.4762
 2025-05-18 15:30:37.230462,Round Scores - Final Round Score - Alex Noren - Final Round Score,Under 71.5,-0.021699999999999997,0.4545,0.4762
-2025-05-18 11:26:30.973471,Main Markets - Final Round 2-Balls - D. Riley / J.T. Poston - Final Round 2-Balls,Davis Riley,-0.021699999999999997,0.4545,0.4762
 2025-05-18 20:32:06.461912,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.021799999999999986,0.16,0.1818
-2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 15:30:37.205080,Round Scores - Final Round Score - Jhonattan Vegas - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 23:30:50.058644,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.022300000000000014,0.1818,0.2041
 2025-05-18 12:54:50.892972,Main Markets - Final Round 2-Balls - M. Penge / B. Hossler - Final Round 2-Balls,Beau Hossler,-0.022600000000000064,0.5122,0.5348
+2025-05-18 15:30:37.116530,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Under 71.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.175580,Round Scores - Final Round Score - Joe Highsmith - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.192465,Round Scores - Final Round Score - Matthieu Pavon - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.205080,Round Scores - Final Round Score - Jhonattan Vegas - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
 2025-05-18 15:30:37.226227,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.137710,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
+2025-05-18 15:30:37.150344,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Under 72.5,-0.022600000000000064,0.6,0.6226
 2025-05-18 15:30:37.171374,Round Scores - Final Round Score - Garrick Higgo - Final Round Score,Under 73.5,-0.022600000000000064,0.6,0.6226
-2025-05-18 11:26:30.953361,Main Markets - Final Round 2-Balls - M. Wallace / A. Scott - Final Round 2-Balls,Matt Wallace,-0.022699999999999998,0.4651,0.4878
+2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Rory McIlroy,-0.023799999999999988,0.1429,0.1667
+2025-05-18 15:30:37.129300,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Under 71.5,-0.023799999999999988,0.4762,0.5
+2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),-0.023799999999999988,0.1429,0.1667
 2025-05-18 15:30:37.125060,Round Scores - Final Round Score - David Puig - Final Round Score,Under 71.5,-0.023799999999999988,0.4762,0.5
 2025-05-18 15:30:37.213582,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Under 69.5,-0.023799999999999988,0.4762,0.5
-2025-05-18 14:32:17.316134,Futures - US Open 2025 - Winner,Rory McIlroy,-0.023799999999999988,0.1429,0.1667
 2025-05-18 15:30:37.162981,Round Scores - Final Round Score - Cam Davis - Final Round Score,Under 72.5,-0.023799999999999988,0.4762,0.5
-2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Anthony Edwards (MIN),-0.023799999999999988,0.1429,0.1667
-2025-05-18 15:30:37.129300,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Under 71.5,-0.023799999999999988,0.4762,0.5
 2025-05-18 15:30:37.141949,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 71.5,-0.023800000000000043,0.5,0.5238
-2025-05-18 10:35:18.297154,Main Markets - Final Round 2-Balls - T. Kim / M. Kim - Final Round 2-Balls,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2025-05-18 15:30:37.146148,Round Scores - Final Round Score - Taylor Pendrith - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
+2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 15:30:37.154544,Round Scores - Final Round Score - Ryan Fox - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 15:30:37.120773,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,-0.025599999999999956,0.5744,0.6
 2025-05-18 15:30:37.222038,Round Scores - Final Round Score - Davis Riley - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
-2025-05-18 15:30:37.158759,Round Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
-2025-05-18 11:26:30.965470,Main Markets - Final Round 2-Balls - J. Vegas / K. Bradley - Final Round 2-Balls,Jhonattan Vegas,-0.026600000000000013,0.4082,0.4348
 2025-05-18 15:30:37.188276,Round Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Under 72.5,-0.02859999999999996,0.6078,0.6364
 2025-05-18 15:30:37.167187,Round Scores - Final Round Score - Lucas Glover - Final Round Score,Under 72.5,-0.02859999999999996,0.6078,0.6364
-2025-05-18 11:26:30.905303,Main Markets - Final Round 2-Balls - R. Campos / C. Young - Final Round 2-Balls,Rafael Campos,-0.028600000000000014,0.3636,0.3922
 2025-05-18 15:30:37.184070,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Under 72.5,-0.028900000000000037,0.5455,0.5744
 2025-05-18 19:25:38.504762,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.033299999999999996,0.1,0.1333
 2025-05-18 21:28:59.268358,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.033300000000000024,0.1667,0.2
@@ -143,16 +124,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-18 16:36:22.155500,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,-0.03489999999999999,0.4651,0.5
 2025-05-18 22:33:20.493930,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jalen Brunson (NYK),-0.03889999999999999,0.1429,0.1818
 2025-05-18 19:25:38.500048,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.03920000000000001,0.2941,0.3333
+2025-05-18 23:30:50.054016,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.04099999999999998,0.2667,0.3077
 2025-05-18 21:28:59.268358,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.043800000000000006,0.1667,0.2105
 2025-05-18 22:33:20.490573,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),-0.04440000000000001,0.0667,0.1111
 2025-05-18 20:32:06.448422,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.04620000000000002,0.5455,0.5917
 2025-05-18 14:32:16.855375,ROY - AL ROY 2025 - American League Rookie of the Year,Kristian Campbell (BOS),-0.04999999999999999,0.2,0.25
-2025-05-18 11:26:29.582735,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,-0.0524,0.0476,0.1
 2025-05-18 19:25:38.627483,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.05249999999999999,0.0244,0.0769
 2025-05-18 21:28:59.277909,Western Conference - Western Conference 2024-25 - Western Conference Winner,Minnesota Timberwolves,-0.06270000000000003,0.3077,0.3704
 2025-05-18 19:25:38.490612,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.06669999999999998,0.1,0.1667
 2025-05-18 22:33:20.497224,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Anthony Edwards (MIN),-0.08329999999999999,0.25,0.3333
 2025-05-18 20:32:06.529094,NBA Awards & League Leaders - NBA Awards 2024-25 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),-0.0915999999999999,0.5238,0.6154
-2025-05-18 11:26:29.559125,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,-0.09719999999999995,0.875,0.9722
 2025-05-18 20:32:06.476176,B League - Japan B-League 2024/25 - Outright,San En Neo Phoenix,-0.13330000000000003,0.2667,0.4
 2025-05-18 20:32:06.476176,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,-0.13640000000000002,0.3636,0.5

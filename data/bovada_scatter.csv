@@ -1,12 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-20 02:18:42.753357,B League - Japan B-League 2024/25 - Outright,Ryukyu Golden Kings,0.26060000000000005,0.5238,0.2632
 2025-05-20 02:18:42.753357,B League - Japan B-League 2024/25 - Outright,Utsunomiya Brex,0.1819,0.5455,0.3636
-2025-05-19 23:30:33.593084,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
 2025-05-19 22:35:18.215871,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
 2025-05-19 21:30:57.801326,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
 2025-05-19 20:34:03.327803,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
 2025-05-19 19:27:21.146093,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
-2025-05-19 18:44:01.471730,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
+2025-05-19 23:30:33.593084,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,0.11070000000000002,0.3774,0.2667
 2025-05-19 21:30:57.904002,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),0.0993,0.2326,0.1333
 2025-05-20 04:38:18.477875,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 24.5,0.06519999999999992,0.6,0.5348
 2025-05-19 20:34:02.124314,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.05689999999999995,0.5917,0.5348
@@ -20,37 +19,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-20 03:52:30.545446,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Sydney Johnson,0.028000000000000004,0.0476,0.0196
 2025-05-19 19:27:20.963028,Big Ten Regular Season Wins - Big Ten Regular Season Wins - USC,Under 7.5,0.023799999999999988,0.5,0.4762
 2025-05-19 21:30:57.914689,ROY - NL ROY 2025 - National League Rookie of the Year,AJ Smith-Shawver (ATL),0.022199999999999998,0.2222,0.2
-2025-05-19 18:44:00.225900,Liga ACB - Spain Liga ACB 2024/25 - Outright,Real Madrid BC,0.02200000000000002,0.7143,0.6923
-2025-05-20 03:52:30.545446,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Nate Tibbetts,0.02049999999999999,0.1538,0.1333
 2025-05-20 03:52:30.558665,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),0.02049999999999999,0.1538,0.1333
+2025-05-20 03:52:30.545446,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Nate Tibbetts,0.02049999999999999,0.1538,0.1333
 2025-05-19 19:27:21.011952,SEC Regular Season Wins - SEC Regular Season Wins - Oklahoma,Over 6.5,0.020299999999999985,0.6429,0.6226
-2025-05-19 18:44:01.701327,Charles Schwab Challenge - Charles Schwab Challenge - Winner,Scottie Scheffler,0.019000000000000017,0.2857,0.2667
 2025-05-20 03:52:30.520967,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.01820000000000002,0.2,0.1818
-2025-05-19 18:44:00.250981,LKL - Lithuania LKL 2024/25 - Outright,Zalgiris,0.01429999999999998,0.9091,0.8948
 2025-05-19 21:30:57.914689,ROY - NL ROY 2025 - National League Rookie of the Year,Matt Shaw (CHC),0.0131,0.0476,0.0345
 2025-05-19 19:27:21.318686,Boxing Lines - Nathaniel Collins vs Lee McGregor - To Win the Bout,Lee McGregor,0.012699999999999989,0.3636,0.3509
 2025-05-19 21:30:57.970349,Boxing Lines - Willibaldo Garcia Perez vs Rene Calixto Bibiano - To Win the Bout,Rene Calixto Bibiano,0.012199999999999989,0.5,0.4878
 2025-05-20 04:38:18.444299,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 18½,0.010699999999999932,0.5455,0.5348
-2025-05-19 18:44:00.245890,A1 - Greece A1 2024/25 - Outright,Olympiacos,0.010599999999999998,0.4651,0.4545
 2025-05-20 03:52:30.525010,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat New York Liberty,0.0102,0.0769,0.0667
 2025-05-19 19:27:20.982633,SEC Regular Season Wins - SEC Regular Season Wins - Arkansas,Under 5.5,0.010099999999999998,0.5556,0.5455
 2025-05-19 20:34:02.508215,Green Bay Packers - Green Bay Packers Regular Season Wins - Packers Regular Season Wins,Over 9.5,0.010099999999999998,0.5556,0.5455
 2025-05-19 22:35:16.963318,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.010400000000000076,0.7674,0.7778
-2025-05-19 18:44:00.250981,LKL - Lithuania LKL 2024/25 - Outright,Rytas,-0.010899999999999993,0.1429,0.1538
 2025-05-20 04:38:18.444299,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 18½,-0.01100000000000001,0.5238,0.5348
 2025-05-19 20:34:02.508215,Green Bay Packers - Green Bay Packers Regular Season Wins - Packers Regular Season Wins,Under 9.5,-0.011600000000000055,0.5122,0.5238
 2025-05-19 19:27:20.982633,SEC Regular Season Wins - SEC Regular Season Wins - Arkansas,Over 5.5,-0.011600000000000055,0.5122,0.5238
 2025-05-19 19:27:20.836125,ACC Regular Season Wins - ACC Regular Season Wins - North Carolina,Over 7.5,-0.012199999999999989,0.4878,0.5
 2025-05-19 19:27:20.332063,NFL Specials - How Many Games will Shedeur Sanders Start During the 2025/2026 NFL Regualr Season - Proposition,Over 11.5,-0.012799999999999978,0.2,0.2128
-2025-05-19 18:44:00.220612,CBA - China CBA 2024/25 - Outright,Zhejiang Lions,-0.012900000000000023,0.8621,0.875
 2025-05-20 03:52:30.528488,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.01479999999999998,0.3774,0.3922
 2025-05-20 03:52:30.545446,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Lynne Roberts,-0.014899999999999997,0.0476,0.0625
 2025-05-19 19:27:21.318686,Boxing Lines - Nathaniel Collins vs Lee McGregor - To Win the Bout,Nathaniel Collins,-0.017300000000000093,0.697,0.7143
-2025-05-19 18:44:00.245890,A1 - Greece A1 2024/25 - Outright,Panathinaikos,-0.018399999999999972,0.5816,0.6
 2025-05-19 19:27:21.011952,SEC Regular Season Wins - SEC Regular Season Wins - Oklahoma,Under 6.5,-0.018900000000000028,0.4255,0.4444
 2025-05-19 21:30:57.904002,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Michael King (SD),-0.024,0.0385,0.0625
 2025-05-19 19:27:20.963028,Big Ten Regular Season Wins - Big Ten Regular Season Wins - USC,Over 7.5,-0.026499999999999968,0.5652,0.5917
-2025-05-19 18:44:00.225900,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,-0.02779999999999999,0.2222,0.25
 2025-05-20 04:38:18.516796,To Make the Playoffs - Seattle Storm - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.028800000000000048,0.8462,0.875
 2025-05-20 04:38:18.398071,NBA Specials - Lakers Starting Center game 1 of 2025-26 NBA Season - Lakers next starting Center,Dereck Lively II (DAL),-0.03420000000000001,0.0769,0.1111
 2025-05-20 03:52:30.554346,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kate Martin (GSV),-0.0344,0.0244,0.0588
@@ -61,9 +52,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-19 21:30:57.904002,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),-0.0629,0.0909,0.1538
 2025-05-19 21:30:57.904002,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Yoshinobu Yamamoto (LAD),-0.07189999999999996,0.2222,0.2941
 2025-05-20 03:52:30.558665,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Dominique Malonga (SEA),-0.0905,0.0345,0.125
-2025-05-19 21:30:57.804740,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
-2025-05-19 18:44:01.475104,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
-2025-05-19 23:30:33.596421,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
 2025-05-19 19:27:21.149389,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
-2025-05-19 20:34:03.331675,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
+2025-05-19 21:30:57.804740,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
 2025-05-19 22:35:18.219206,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
+2025-05-19 23:30:33.596421,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774
+2025-05-19 20:34:03.331675,MLB Series Prices - MLB Series Prices May May 19 to May 22 - 4 Game Series,Tie,-0.11070000000000002,0.2667,0.3774

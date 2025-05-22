@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-22 03:51:24.994864,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.19480000000000003,0.6296,0.4348
 2025-05-21 19:27:36.738206,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.14179999999999998,0.5122,0.3704
 2025-05-21 19:27:36.724201,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.10199999999999998,0.7895,0.6875
-2025-05-21 17:32:56.689535,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.0889,0.2,0.1111
 2025-05-21 19:27:36.719514,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.08730000000000004,0.7647,0.6774
 2025-05-21 21:30:18.499482,Running Backs - NFL 2025-26 Rushing TD's - Jalen Hurts Regular Season Total Rushing TD's 2025-26,Over 12.5,0.05860000000000004,0.5348,0.4762
 2025-05-22 02:18:16.915016,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.037800000000000056,0.5833,0.5455
@@ -18,15 +17,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-21 23:30:15.263673,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.022199999999999998,0.3448,0.3226
 2025-05-22 04:39:22.846537,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.02200000000000002,0.7143,0.6923
 2025-05-21 23:30:17.248615,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs M. McNealy - Tournament Match-Ups,Maverick McNealy,0.02169999999999994,0.5455,0.5238
-2025-05-21 16:42:22.566327,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.01999999999999999,0.2105,0.1905
 2025-05-21 22:35:12.373518,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood v H. Matsuyama - 1st Round Match-Ups,Tommy Fleetwood,0.01970000000000005,0.5652,0.5455
 2025-05-21 22:35:12.583201,Tournament Match-Ups - Tournament Match-Ups - M. Hubbard v P. Coody - Requests,Mark Hubbard,0.01970000000000005,0.5652,0.5455
 2025-05-22 02:18:16.915016,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),0.01949999999999999,0.0909,0.0714
 2025-05-21 23:30:15.273071,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,0.019099999999999992,0.0667,0.0476
 2025-05-21 22:35:12.079957,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.01680000000000001,0.2273,0.2105
+2025-05-22 05:35:17.770692,Boxing Lines - Maxi Hughes vs Archie Sharp - To Win the Bout,Archie Sharp,0.01680000000000001,0.2273,0.2105
 2025-05-21 21:30:17.363387,Liga MX - Clausura - Liga MX Clausura 2025 - Futures - Winner,Club América,0.016699999999999937,0.6,0.5833
 2025-05-21 23:30:15.234579,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.015400000000000025,0.4,0.3846
-2025-05-21 16:42:22.598429,Boxing Lines - Josh Taylor vs Ekow Essuman - To Win the Bout,Josh Taylor,0.014700000000000046,0.7647,0.75
 2025-05-21 20:34:25.911646,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.014399999999999968,0.8039,0.7895
 2025-05-22 03:51:24.990198,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.013899999999999996,0.125,0.1111
 2025-05-21 20:34:26.118635,Boxing Lines - Josh Taylor vs Ekow Essuman - To Win the Bout,Josh Taylor,0.0131,0.7778,0.7647
@@ -43,18 +41,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-21 20:34:24.669894,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Napheesa Collier (MIN),-0.015899999999999997,0.2222,0.2381
 2025-05-21 20:34:24.669894,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Cameron Brink (LAS),-0.0159,0.0164,0.0323
 2025-05-21 22:35:12.079957,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Angelo Leo,-0.016799999999999926,0.8403,0.8571
+2025-05-22 05:35:17.770692,Boxing Lines - Maxi Hughes vs Archie Sharp - To Win the Bout,Maxi Hughes,-0.016799999999999926,0.8403,0.8571
 2025-05-21 20:34:26.118635,Boxing Lines - Josh Taylor vs Ekow Essuman - To Win the Bout,Ekow Essuman,-0.017299999999999982,0.2857,0.303
-2025-05-21 16:42:22.566327,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Angelo Leo,-0.017900000000000027,0.8571,0.875
 2025-05-21 23:30:17.185362,Tournament Match-Ups - Tournament Match-Ups - D. Ghim v T. Hoge - Requests,Tom Hoge,-0.01880000000000004,0.5556,0.5744
-2025-05-21 20:34:24.669894,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Ezi Magbegor (SEA),-0.02020000000000001,0.0909,0.1111
 2025-05-21 23:30:15.263673,Serie A - Italy Serie A 2024/25 - Outright,Brescia,-0.02020000000000001,0.0909,0.1111
+2025-05-21 20:34:24.669894,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Ezi Magbegor (SEA),-0.02020000000000001,0.0909,0.1111
 2025-05-22 03:51:26.879995,Tournament Match-Ups - Tournament Match-Ups - A. Potgieter v D. Lipsky - Requests,Aldrich Potgieter,-0.02079999999999993,0.5348,0.5556
 2025-05-21 23:30:17.248615,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs M. McNealy - Tournament Match-Ups,Hideki Matsuyama,-0.02169999999999994,0.5238,0.5455
 2025-05-21 19:27:35.596265,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,-0.022199999999999998,0.1111,0.1333
 2025-05-21 19:27:36.719514,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.02310000000000001,0.0769,0.1
 2025-05-21 22:35:12.373518,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood v H. Matsuyama - 1st Round Match-Ups,Hideki Matsuyama,-0.023799999999999988,0.4762,0.5
-2025-05-22 03:51:24.990198,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.023799999999999988,0.1429,0.1667
 2025-05-21 23:30:17.198344,Tournament Match-Ups - Tournament Match-Ups - M. Hubbard v P. Coody - Requests,Pierceson Coody,-0.023799999999999988,0.4762,0.5
+2025-05-22 03:51:24.990198,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.023799999999999988,0.1429,0.1667
 2025-05-21 22:35:12.583201,Tournament Match-Ups - Tournament Match-Ups - M. Hubbard v P. Coody - Requests,Pierceson Coody,-0.023800000000000043,0.5,0.5238
 2025-05-21 22:35:12.570592,Tournament Match-Ups - Tournament Match-Ups - D. Ghim v T. Hoge - Requests,Tom Hoge,-0.025599999999999956,0.5744,0.6
 2025-05-21 19:27:36.719514,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.027999999999999997,0.1538,0.1818
@@ -64,6 +62,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-21 23:30:15.273071,ABA League - ABA League 2024/25 - Outright,Crvena Zvezda,-0.03640000000000004,0.3636,0.4
 2025-05-22 04:39:22.846537,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.037599999999999995,0.1053,0.1429
 2025-05-21 21:30:18.499482,Running Backs - NFL 2025-26 Rushing TD's - Jalen Hurts Regular Season Total Rushing TD's 2025-26,Under 12.5,-0.05689999999999995,0.5348,0.5917
-2025-05-21 17:32:56.689535,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.06659999999999999,0.8667,0.9333
 2025-05-21 19:27:36.738206,NL East - NL East 2025 - NL East Winner,New York Mets,-0.09099999999999997,0.4545,0.5455
 2025-05-22 03:51:24.994864,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.19179999999999997,0.4082,0.6

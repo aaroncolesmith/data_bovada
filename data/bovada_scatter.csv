@@ -84,6 +84,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-22 23:30:57.667553,Soudal Open - Soudal Open - Winner,Matthew Jordan,0.011199999999999995,0.0435,0.0323
 2025-05-23 02:17:37.201223,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Under 8.5,0.01100000000000001,0.5348,0.5238
 2025-05-23 02:17:38.203525,Boxing Lines - Victor Pasillas vs Carlos Jackson - To Win the Bout,Victor Pasillas,0.01090000000000002,0.8571,0.8462
+2025-05-23 04:37:54.087654,Main Markets - 2nd Round 3-Balls - S. Scheffler / D. Riley / D. Berger - 2nd Round 3-Balls,Daniel Berger,0.010800000000000032,0.274,0.2632
 2025-05-23 02:17:38.145737,ROY - AL ROY 2025 - American League Rookie of the Year,Jac Caglianone,0.010700000000000001,0.0385,0.0278
 2025-05-23 02:17:37.291547,Los Angeles Rams - Los Angeles Rams Regular Season Wins - Rams Regular Season Wins,Under 9.5,0.010599999999999998,0.4651,0.4545
 2025-05-22 23:30:57.667553,Soudal Open - Soudal Open - Winner,Andrea Pavan,0.010300000000000002,0.0244,0.0141
@@ -91,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-22 19:27:24.929228,NL East - NL East 2025 - NL East Winner,Atlanta Braves,0.010099999999999998,0.2062,0.1961
 2025-05-22 23:30:57.667553,Soudal Open - Soudal Open - Winner,Calum Hill,-0.0101,0.0022,0.0123
 2025-05-23 02:17:38.145737,ROY - AL ROY 2025 - American League Rookie of the Year,Will Warren (NYY),-0.0102,0.0667,0.0769
-2025-05-23 02:17:38.198019,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina State Wolfpack,-0.010300000000000002,0.0141,0.0244
 2025-05-23 02:17:38.161300,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,A.J. Puk (ARI),-0.010300000000000002,0.0141,0.0244
+2025-05-23 02:17:38.198019,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina State Wolfpack,-0.010300000000000002,0.0141,0.0244
 2025-05-22 19:27:25.133769,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,-0.010499999999999982,0.2,0.2105
 2025-05-22 23:30:57.367504,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.010500000000000065,0.7895,0.8
 2025-05-23 02:17:38.140424,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Spencer Schwellenbach (ATL),-0.010600000000000002,0.0217,0.0323
@@ -100,16 +101,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-23 02:17:37.201223,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,-0.010699999999999932,0.5348,0.5455
 2025-05-22 17:33:20.922986,Main Markets - 1st Round 3-Balls - M. McGreevy / M. Thorbjornsen / D. Ford - 1st Round 3-Balls,David Ford,-0.010699999999999987,0.3226,0.3333
 2025-05-23 02:17:38.151028,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.010700000000000001,0.0278,0.0385
-2025-05-23 03:50:51.696795,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.010899999999999993,0.1429,0.1538
 2025-05-23 02:17:38.129902,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),-0.010899999999999993,0.1429,0.1538
+2025-05-23 03:50:51.696795,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.010899999999999993,0.1429,0.1538
 2025-05-22 16:41:47.272076,Main Markets - 1st Round 3-Balls - S. Scheffler / D. Riley / D. Berger - 1st Round 3-Balls,Daniel Berger,-0.011099999999999999,0.2667,0.2778
 2025-05-23 02:17:38.239800,Boxing Lines - Terri Harper vs Natalie Zimmermann - To Win the Bout,Natalie Zimmermann,-0.011099999999999999,0.1,0.1111
 2025-05-23 02:17:38.182270,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Mike Shildt (SD),-0.011099999999999999,0.1,0.1111
 2025-05-23 02:17:38.171848,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.011199999999999995,0.0323,0.0435
-2025-05-23 02:17:38.135186,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Logan Gilbert (SEA),-0.011200000000000002,0.0132,0.0244
 2025-05-23 02:17:38.161300,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Trevor Megill (MIL),-0.011200000000000002,0.0132,0.0244
-2025-05-23 02:17:38.124592,MVP - AL MVP 2025 - American League MVP,Vladimir Guerrero Jr. (TOR),-0.0113,0.0083,0.0196
+2025-05-23 02:17:38.135186,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Logan Gilbert (SEA),-0.011200000000000002,0.0132,0.0244
 2025-05-23 02:17:38.140424,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Spencer Strider (ATL),-0.0113,0.0083,0.0196
+2025-05-23 02:17:38.124592,MVP - AL MVP 2025 - American League MVP,Vladimir Guerrero Jr. (TOR),-0.0113,0.0083,0.0196
 2025-05-23 02:17:38.048701,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,-0.011500000000000003,0.0385,0.05
 2025-05-23 02:17:37.336185,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Over 10.5,-0.0116,0.4762,0.4878
 2025-05-23 02:17:38.203525,Boxing Lines - Victor Pasillas vs Carlos Jackson - To Win the Bout,Carlos Jackson,-0.011700000000000016,0.2105,0.2222

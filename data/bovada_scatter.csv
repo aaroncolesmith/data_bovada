@@ -45,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Under 8.5,0.02079999999999993,0.5556,0.5348
 2025-05-24 02:09:57.374205,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.020699999999999996,0.4651,0.4444
 2025-05-24 06:40:42.569828,SEC - SEC Regular Season Wins - Oklahoma,Under 6.5,0.018900000000000028,0.4444,0.4255
+2025-05-24 10:35:20.029540,Main Markets - 3rd Round 3-Balls - L. Hodges / S. Scheffler / G. Woodland - 3rd Round 3-Balls,Scottie Scheffler,0.01880000000000004,0.6552,0.6364
 2025-05-24 04:37:06.196308,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),0.018200000000000004,0.0476,0.0294
 2025-05-24 06:40:42.580162,SEC - SEC Regular Season Wins - Texas,Under 9.5,0.018100000000000005,0.4348,0.4167
 2025-05-24 08:35:29.889590,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.016699999999999993,0.2667,0.25
@@ -61,24 +62,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Elizabeth Szokol,0.0112,0.0152,0.004
 2025-05-24 02:09:57.294709,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Kris Bubic (KC),0.011199999999999995,0.0588,0.0476
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Soren Kjeldsen,0.011199999999999995,0.0588,0.0476
-2025-05-24 08:35:29.578009,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.011099999999999999,0.1111,0.1
 2025-05-24 08:35:31.448505,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
+2025-05-24 08:35:29.578009,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.011099999999999999,0.1111,0.1
 2025-05-24 04:37:07.462223,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.4762,0.4651
 2025-05-24 09:30:21.164108,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Under 69.5,0.01100000000000001,0.5348,0.5238
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Arpichaya Yubol,0.0108,0.0152,0.0044
 2025-05-24 02:09:57.378933,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.010499999999999982,0.2105,0.2
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Robert Karlsson,0.010300000000000002,0.0244,0.0141
-2025-05-24 08:35:29.568651,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.0102,0.0769,0.0667
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Jenny Shin,0.0102,0.0769,0.0667
+2025-05-24 08:35:29.568651,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.0102,0.0769,0.0667
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Darren Clarke,0.010100000000000001,0.0345,0.0244
 2025-05-24 02:09:57.419626,Boxing Lines - Aloys Youmbi vs David Jamieson - To Win the Bout,David Jamieson,-0.0102,0.0667,0.0769
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,WeiWei Zhang,-0.010300000000000002,0.0141,0.0244
 2025-05-24 09:30:21.164108,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Over 69.5,-0.010699999999999932,0.5348,0.5455
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Mario Tiziani,-0.0113,0.0028,0.0141
+2025-05-24 10:35:20.029540,Main Markets - 3rd Round 3-Balls - L. Hodges / S. Scheffler / G. Woodland - 3rd Round 3-Balls,Lee Hodges,-0.011700000000000016,0.2105,0.2222
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Albane Valenzuela,-0.0118,0.0014,0.0132
 2025-05-24 06:40:42.538111,SEC - SEC Regular Season Wins - Arkansas,Over 5.5,-0.012199999999999989,0.5,0.5122
-2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.012700000000000003,0.0196,0.0323
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Justin Verlander (SF),-0.012700000000000003,0.0196,0.0323
+2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.012700000000000003,0.0196,0.0323
 2025-05-24 06:40:42.559520,SEC - SEC Regular Season Wins - Mississippi,Over 8.5,-0.013299999999999979,0.6296,0.6429
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Steve Stricker,-0.014099999999999998,0.0244,0.0385
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Spencer Strider (ATL),-0.014399999999999996,0.0625,0.0769
@@ -98,8 +100,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 06:40:42.562955,SEC - SEC Regular Season Wins - Mississippi State,Under 3.5,-0.021699999999999997,0.4545,0.4762
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Keith Horne,-0.022099999999999998,0.0164,0.0385
 2025-05-24 08:35:29.787400,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.022199999999999998,0.2,0.2222
-2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.022600000000000064,0.5122,0.5348
 2025-05-24 02:09:57.374205,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Pedro Taduran,-0.022600000000000064,0.6,0.6226
+2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.022600000000000064,0.5122,0.5348
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Nataliya Guseva,-0.023200000000000002,0.0244,0.0476
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Kazuma Kobori,-0.023500000000000004,0.011,0.0345
 2025-05-24 06:40:42.845746,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Angelo Leo,-0.023799999999999932,0.8333,0.8571

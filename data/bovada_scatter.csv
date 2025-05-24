@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Ronald Acuna Jr. (ATL),0.281,0.4348,0.1538
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Ewen Ferguson,0.21290000000000003,0.5833,0.3704
-2025-05-24 04:37:06.192877,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.18330000000000002,0.25,0.0667
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,John Parry,0.1758,0.2667,0.0909
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,YE Yang,0.11409999999999998,0.1667,0.0526
 2025-05-24 08:35:31.462098,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,0.11040000000000005,0.6226,0.5122
@@ -13,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Jenny Bae,0.0756,0.1,0.0244
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Jordan Smith,0.0725,0.0769,0.0044
 2025-05-24 11:26:37.350971,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Karl Smesko,0.06669999999999998,0.1667,0.1
-2025-05-24 04:37:06.192877,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.059599999999999986,0.6429,0.5833
 2025-05-24 06:40:42.534373,SEC - SEC Regular Season Wins - Alabama,Over 9.5,0.057699999999999974,0.5455,0.4878
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Padraig Harrington,0.056400000000000006,0.1333,0.0769
 2025-05-24 06:40:42.555949,SEC - SEC Regular Season Wins - LSU,Under 8.5,0.05559999999999998,0.5,0.4444
@@ -35,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Jeongeun Lee5,0.0306,0.0385,0.0079
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Hye Jin Choi,0.028700000000000003,0.2105,0.1818
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Carlota Ciganda,0.028199999999999996,0.0667,0.0385
-2025-05-24 04:37:06.196308,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.027800000000000047,0.7778,0.75
 2025-05-24 11:26:38.860444,Main Markets - 3rd Round 2-Balls - J. Spieth v L. Glover - 3rd Round 2-Balls,Jordan Spieth,0.026499999999999968,0.5917,0.5652
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Oliver Lindell,0.026099999999999998,0.0278,0.0017
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Brianna Do,0.0257,0.0323,0.0066
@@ -47,15 +44,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 06:40:42.562955,SEC - SEC Regular Season Wins - Mississippi State,Over 3.5,0.023699999999999943,0.6154,0.5917
 2025-05-24 11:26:39.000658,Round Match-Ups - 3rd Round Match-Ups - J.T. Poston vs S.W. Kim - 3rd Round Match-Ups,J.T. Poston,0.022600000000000064,0.5348,0.5122
 2025-05-24 06:40:43.066087,Main Markets - 3rd Round 3-Balls - M. Hubbard / A. Putnam / K. Vilips - 3rd Round 3-Balls,Andrew Putnam,0.02260000000000001,0.4,0.3774
-2025-05-24 15:30:46.640396,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-05-24 11:26:39.037254,Round Match-Ups - 3rd Round Match-Ups - C. Gotterup vs R. Hisatsune - 3rd Round Match-Ups,Ryo Hisatsune,0.02169999999999994,0.5455,0.5238
+2025-05-24 15:30:46.640396,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Over 69.5,0.02169999999999994,0.5455,0.5238
 2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Under 8.5,0.02079999999999993,0.5556,0.5348
 2025-05-24 15:30:46.683255,Scores - 3rd Round Score - Ryo Hisatsune - 3rd Round Score,Over 70.5,0.020699999999999996,0.4651,0.4444
 2025-05-24 15:30:46.670309,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Over 70.5,0.020699999999999996,0.4651,0.4444
 2025-05-24 15:30:46.687542,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 69.5,0.01970000000000005,0.5652,0.5455
 2025-05-24 06:40:42.569828,SEC - SEC Regular Season Wins - Oklahoma,Under 6.5,0.018900000000000028,0.4444,0.4255
 2025-05-24 10:35:20.029540,Main Markets - 3rd Round 3-Balls - L. Hodges / S. Scheffler / G. Woodland - 3rd Round 3-Balls,Scottie Scheffler,0.01880000000000004,0.6552,0.6364
-2025-05-24 04:37:06.196308,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),0.018200000000000004,0.0476,0.0294
 2025-05-24 06:40:42.580162,SEC - SEC Regular Season Wins - Texas,Under 9.5,0.018100000000000005,0.4348,0.4167
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Darius Van Driel,0.018099999999999998,0.0526,0.0345
 2025-05-24 16:36:44.960255,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,0.0179,0.1429,0.125
@@ -73,14 +69,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 12:54:36.643410,Boxing Lines - Aston Brown vs Reece Porter - To Win the Bout,Aston Brown,0.011499999999999955,0.6667,0.6552
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Elizabeth Szokol,0.0112,0.0152,0.004
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Soren Kjeldsen,0.011199999999999995,0.0588,0.0476
-2025-05-24 04:37:07.462223,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.4762,0.4651
-2025-05-24 08:35:31.448505,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
 2025-05-24 08:35:29.578009,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.011099999999999999,0.1111,0.1
+2025-05-24 08:35:31.448505,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
 2025-05-24 09:30:21.164108,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Under 69.5,0.01100000000000001,0.5348,0.5238
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Arpichaya Yubol,0.0108,0.0152,0.0044
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Robert Karlsson,0.010300000000000002,0.0244,0.0141
-2025-05-24 08:35:29.568651,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.0102,0.0769,0.0667
 2025-05-24 11:26:37.350971,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Sandy Brondello,0.0102,0.0769,0.0667
+2025-05-24 08:35:29.568651,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.0102,0.0769,0.0667
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Jenny Shin,0.0102,0.0769,0.0667
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Darren Clarke,0.010100000000000001,0.0345,0.0244
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Aaron Cockerill,-0.0103,0.0007,0.011
@@ -91,8 +86,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 10:35:20.029540,Main Markets - 3rd Round 3-Balls - L. Hodges / S. Scheffler / G. Woodland - 3rd Round 3-Balls,Lee Hodges,-0.011700000000000016,0.2105,0.2222
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Albane Valenzuela,-0.0118,0.0014,0.0132
 2025-05-24 06:40:42.538111,SEC - SEC Regular Season Wins - Arkansas,Over 5.5,-0.012199999999999989,0.5,0.5122
-2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.012700000000000003,0.0196,0.0323
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Justin Verlander (SF),-0.012700000000000003,0.0196,0.0323
+2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.012700000000000003,0.0196,0.0323
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Eugenio Chacarra,-0.0128,0.0004,0.0132
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Kristoffer Reitan,-0.0131,0.001,0.0141
 2025-05-24 06:40:42.559520,SEC - SEC Regular Season Wins - Mississippi,Over 8.5,-0.013299999999999979,0.6296,0.6429
@@ -111,14 +106,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 09:30:21.097738,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-05-24 06:40:42.569828,SEC - SEC Regular Season Wins - Oklahoma,Over 6.5,-0.020299999999999985,0.6226,0.6429
 2025-05-24 15:30:46.640396,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Under 69.5,-0.02169999999999994,0.5238,0.5455
-2025-05-24 11:26:38.860444,Main Markets - 3rd Round 2-Balls - J. Spieth v L. Glover - 3rd Round 2-Balls,Lucas Glover,-0.021699999999999997,0.4545,0.4762
 2025-05-24 06:40:42.562955,SEC - SEC Regular Season Wins - Mississippi State,Under 3.5,-0.021699999999999997,0.4545,0.4762
+2025-05-24 11:26:38.860444,Main Markets - 3rd Round 2-Balls - J. Spieth v L. Glover - 3rd Round 2-Balls,Lucas Glover,-0.021699999999999997,0.4545,0.4762
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Keith Horne,-0.022099999999999998,0.0164,0.0385
 2025-05-24 08:35:29.787400,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.022199999999999998,0.2,0.2222
-2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.022600000000000064,0.5122,0.5348
-2025-05-24 15:30:46.670309,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,-0.022600000000000064,0.6,0.6226
 2025-05-24 15:30:46.683255,Scores - 3rd Round Score - Ryo Hisatsune - 3rd Round Score,Under 70.5,-0.022600000000000064,0.6,0.6226
+2025-05-24 15:30:46.670309,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Under 70.5,-0.022600000000000064,0.6,0.6226
 2025-05-24 11:26:39.000658,Round Match-Ups - 3rd Round Match-Ups - J.T. Poston vs S.W. Kim - 3rd Round Match-Ups,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
+2025-05-24 06:40:42.576702,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.022600000000000064,0.5122,0.5348
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Nataliya Guseva,-0.023200000000000002,0.0244,0.0476
 2025-05-24 06:40:42.845746,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Angelo Leo,-0.023799999999999932,0.8333,0.8571
 2025-05-24 15:30:46.687542,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Under 69.5,-0.023800000000000043,0.5,0.5238
@@ -137,7 +132,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Darren Fichardt,-0.03439999999999999,0.0323,0.0667
 2025-05-24 15:30:46.679006,Scores - 3rd Round Score - Christopher Gotterup - 3rd Round Score,Under 70.5,-0.03479999999999994,0.5652,0.6
 2025-05-24 16:36:44.888189,Boxing Lines - Aston Brown vs Reece Porter - To Win the Bout,Reece Porter,-0.03510000000000002,0.3571,0.3922
-2025-05-24 04:37:06.192877,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Karl-Anthony Towns (NYK),-0.038099999999999995,0.0244,0.0625
 2025-05-24 08:35:29.787400,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.038299999999999994,0.0526,0.0909
 2025-05-24 15:30:46.644675,Scores - 3rd Round Score - J.T. Poston - 3rd Round Score,Under 69.5,-0.03959999999999997,0.5348,0.5744
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Andrew Wilson,-0.040999999999999995,0.0025,0.0435
@@ -163,6 +157,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Ernie Els,-0.10550000000000001,0.0278,0.1333
 2025-05-24 08:35:31.462098,Scores - 3rd Round Score - Rickie Fowler - 3rd Round Score,Over 70.5,-0.11119999999999997,0.4444,0.5556
 2025-05-24 14:32:19.954721,Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score,Under 69.5,-0.11219999999999997,0.4878,0.6
-2025-05-24 04:37:06.192877,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Jalen Brunson (NYK),-0.11430000000000001,0.2857,0.4
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Chisato Iwai,-0.1151,0.0667,0.1818
 2025-05-24 16:36:45.044074,Soudal Open - Soudal Open - Winner,Marco Penge,-0.12,0.005,0.125

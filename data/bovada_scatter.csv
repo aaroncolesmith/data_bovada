@@ -30,14 +30,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Andrew Wilson,0.029399999999999996,0.0435,0.0141
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Darius Van Driel,0.029000000000000005,0.0345,0.0055
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Hye Jin Choi,0.028700000000000003,0.2105,0.1818
-2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Brandon Robinson-Thompson,0.028199999999999996,0.0667,0.0385
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Carlota Ciganda,0.028199999999999996,0.0667,0.0385
+2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Brandon Robinson-Thompson,0.028199999999999996,0.0667,0.0385
 2025-05-24 04:37:06.196308,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.027800000000000047,0.7778,0.75
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Brianna Do,0.0257,0.0323,0.0066
 2025-05-24 06:40:42.845746,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.024800000000000016,0.2353,0.2105
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Thomas Bjorn,0.024800000000000003,0.0526,0.0278
 2025-05-24 03:48:27.454517,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.024399999999999977,0.2597,0.2353
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Angel Cabrera,0.024299999999999995,0.0588,0.0345
+2025-05-24 09:30:21.097738,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
 2025-05-24 06:40:42.562955,SEC - SEC Regular Season Wins - Mississippi State,Over 3.5,0.023699999999999943,0.6154,0.5917
 2025-05-24 06:40:43.066087,Main Markets - 3rd Round 3-Balls - M. Hubbard / A. Putnam / K. Vilips - 3rd Round 3-Balls,Andrew Putnam,0.02260000000000001,0.4,0.3774
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Troy Merritt,0.022099999999999998,0.0385,0.0164
@@ -60,9 +61,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Elizabeth Szokol,0.0112,0.0152,0.004
 2025-05-24 02:09:57.294709,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Kris Bubic (KC),0.011199999999999995,0.0588,0.0476
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Soren Kjeldsen,0.011199999999999995,0.0588,0.0476
-2025-05-24 04:37:07.462223,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.4762,0.4651
-2025-05-24 08:35:31.448505,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
 2025-05-24 08:35:29.578009,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.011099999999999999,0.1111,0.1
+2025-05-24 08:35:31.448505,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
+2025-05-24 04:37:07.462223,Boxing Lines - Pedro Taduran vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.4762,0.4651
+2025-05-24 09:30:21.164108,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Under 69.5,0.01100000000000001,0.5348,0.5238
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Arpichaya Yubol,0.0108,0.0152,0.0044
 2025-05-24 02:09:57.378933,Boxing Lines - Angelo Leo vs Tomoki Kameda - To Win the Bout,Tomoki Kameda,0.010499999999999982,0.2105,0.2
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Robert Karlsson,0.010300000000000002,0.0244,0.0141
@@ -71,11 +73,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Darren Clarke,0.010100000000000001,0.0345,0.0244
 2025-05-24 02:09:57.419626,Boxing Lines - Aloys Youmbi vs David Jamieson - To Win the Bout,David Jamieson,-0.0102,0.0667,0.0769
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,WeiWei Zhang,-0.010300000000000002,0.0141,0.0244
+2025-05-24 09:30:21.164108,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Over 69.5,-0.010699999999999932,0.5348,0.5455
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Mario Tiziani,-0.0113,0.0028,0.0141
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Albane Valenzuela,-0.0118,0.0014,0.0132
 2025-05-24 06:40:42.538111,SEC - SEC Regular Season Wins - Arkansas,Over 5.5,-0.012199999999999989,0.5,0.5122
-2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Justin Verlander (SF),-0.012700000000000003,0.0196,0.0323
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Sandy Alcantara (MIA),-0.012700000000000003,0.0196,0.0323
+2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Justin Verlander (SF),-0.012700000000000003,0.0196,0.0323
 2025-05-24 06:40:42.559520,SEC - SEC Regular Season Wins - Mississippi,Over 8.5,-0.013299999999999979,0.6296,0.6429
 2025-05-24 05:33:32.775893,Senior PGA Championship - Senior PGA Championship - Winner,Steve Stricker,-0.014099999999999998,0.0244,0.0385
 2025-05-24 06:40:42.806664,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Spencer Strider (ATL),-0.014399999999999996,0.0625,0.0769
@@ -87,6 +90,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Andrea Pavan,-0.0187,0.0057,0.0244
 2025-05-24 05:33:32.831167,Riviera Maya Open - Riviera Maya Open - Winner,Linn Grant,-0.019300000000000005,0.0152,0.0345
 2025-05-24 06:40:42.580162,SEC - SEC Regular Season Wins - Texas,Over 9.5,-0.019499999999999962,0.6296,0.6491
+2025-05-24 09:30:21.097738,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Francesco Laporta,-0.019899999999999998,0.0079,0.0278
 2025-05-23 22:35:36.342858,Soudal Open - Soudal Open - Winner,Jordan Smith,-0.02,0.0044,0.0244
 2025-05-24 03:15:41.221050,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.02020000000000001,0.0909,0.1111

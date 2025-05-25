@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-25 04:41:05.530765,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 67.5,0.052200000000000024,0.6078,0.5556
 2025-05-25 08:36:20.717409,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,0.04999999999999999,0.25,0.2
 2025-05-25 12:55:17.020081,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.04849999999999999,0.1818,0.1333
-2025-05-25 09:30:15.340639,Round Match-Ups - Final Round Match-Ups - K. Ventura v J. Pak - Final Round Match-Ups,John Pak,0.045499999999999985,0.5,0.4545
 2025-05-25 08:36:20.712821,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.045499999999999985,0.5,0.4545
+2025-05-25 09:30:15.340639,Round Match-Ups - Final Round Match-Ups - K. Ventura v J. Pak - Final Round Match-Ups,John Pak,0.045499999999999985,0.5,0.4545
 2025-05-25 11:26:47.283935,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Ronald Acuna Jr. (ATL),0.04139999999999999,0.4762,0.4348
 2025-05-25 08:36:20.712821,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,0.0384,0.0769,0.0385
 2025-05-25 11:26:45.709038,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,0.033299999999999996,0.8333,0.8
@@ -20,19 +20,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-25 12:55:17.029718,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.023400000000000032,0.3175,0.2941
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,0.023200000000000002,0.0476,0.0244
 2025-05-25 12:55:17.410884,Round Match-Ups - Final Round Match-Ups - M. Schmid v K. Vilips - Final Round Match-Ups,Karl Vilips,0.022699999999999998,0.4878,0.4651
-2025-05-25 14:33:04.882618,Round Match-Ups - Final Round Match Up - JT Poston v M. Schmid - Request,JT Poston,0.022600000000000064,0.6226,0.6
 2025-05-25 09:30:15.361040,Round Match-Ups - Final Round Match-Ups - A. Novak v A. Bhatia - Final Round Match-Ups,Akshay Bhatia,0.022600000000000064,0.5348,0.5122
+2025-05-25 14:33:04.882618,Round Match-Ups - Final Round Match Up - JT Poston v M. Schmid - Request,JT Poston,0.022600000000000064,0.6226,0.6
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Brian White,0.022199999999999998,0.1333,0.1111
 2025-05-25 08:36:20.703542,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Colo-Colo,0.021999999999999964,0.3077,0.2857
 2025-05-25 06:41:29.920713,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Over 9.5,0.02079999999999993,0.5556,0.5348
 2025-05-25 06:41:29.797780,Cincinnati Bengals - Cincinnati Bengals Regular Season Wins - Bengals Regular Season Wins,Under 9.5,0.020699999999999996,0.4651,0.4444
-2025-05-25 03:56:39.596418,Boxing Lines - Krzysztof Włodarczyk vs Adam Balski - To Win the Bout,Krzysztof Włodarczyk,0.020699999999999996,0.4651,0.4444
 2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,0.02049999999999999,0.1538,0.1333
 2025-05-25 11:26:45.693420,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,0.02020000000000001,0.1111,0.0909
-2025-05-25 06:41:29.802664,Cleveland Browns - Cleveland Browns Regular Season Wins - Browns Regular Season Wins ,Under 4.5,0.018900000000000028,0.4444,0.4255
 2025-05-25 09:30:13.158632,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.018900000000000028,0.4444,0.4255
-2025-05-25 06:41:29.783025,Buffalo Bills - Buffalo Bills Regular Season Wins - Bills Regular Season Wins,Under 11.5,0.018900000000000028,0.4444,0.4255
 2025-05-25 06:41:29.871500,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 7.5,0.018900000000000028,0.4444,0.4255
+2025-05-25 06:41:29.783025,Buffalo Bills - Buffalo Bills Regular Season Wins - Bills Regular Season Wins,Under 11.5,0.018900000000000028,0.4444,0.4255
+2025-05-25 06:41:29.802664,Cleveland Browns - Cleveland Browns Regular Season Wins - Browns Regular Season Wins ,Under 4.5,0.018900000000000028,0.4444,0.4255
 2025-05-25 06:41:29.905773,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Under 8.5,0.01880000000000004,0.5744,0.5556
 2025-05-25 11:26:45.709038,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Washington Mystics,0.018800000000000004,0.0714,0.0526
 2025-05-25 09:30:15.370094,Senior PGA Championship - Senior PGA Championship - Winner,Angel Cabrera,0.01820000000000002,0.2,0.1818
@@ -43,59 +42,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Patrick Agyemang,0.0145,0.0244,0.0099
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Dejan Joveljic,0.014099999999999998,0.0435,0.0294
 2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,0.013999999999999999,0.0909,0.0769
-2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,0.013899999999999996,0.125,0.1111
 2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,0.013899999999999996,0.125,0.1111
+2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,0.013899999999999996,0.125,0.1111
 2025-05-25 08:36:22.648975,Scores - Final Round Score - Akshay Bhatia - Final Round Score,Over 69.5,0.012199999999999989,0.5122,0.5
 2025-05-25 06:41:29.837121,Jacksonville Jaguars - Jacksonville Jaguars Regular Season Wins - Jaguars Regular Season Wins,Under 7.5,0.012199999999999989,0.5,0.4878
 2025-05-25 12:55:17.029718,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.011600000000000055,0.5238,0.5122
 2025-05-25 06:41:29.822340,Green Bay Packers - Green Bay Packers Regular Season Wins - Packers Regular Season Wins,Under 9.5,0.011600000000000055,0.5238,0.5122
 2025-05-25 06:41:29.900885,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Over 10.5,0.0116,0.4878,0.4762
+2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,0.011199999999999995,0.0588,0.0476
 2025-05-25 09:30:13.162200,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Seattle Sounders,0.011199999999999995,0.0588,0.0476
-2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,0.011099999999999999,0.1111,0.1
 2025-05-25 06:41:29.787941,Carolina Panthers - Carolina Panthers Regular Season Wins - Panthers Regular Season Wins,Under 6.5,0.011099999999999999,0.4762,0.4651
 2025-05-25 06:41:29.832180,Indianapolis Colts - Indianapolis Colts Regular Season Wins - Colts Regular Season Wins,Under 7.5,0.01100000000000001,0.5348,0.5238
-2025-05-25 06:41:29.792846,Chicago Bears - Chicago Bears Regular Season Wins - Bears Regular Season Wins ,Over 8.5,0.01100000000000001,0.5348,0.5238
 2025-05-25 06:41:29.851900,Los Angeles Chargers - Los Angeles Chargers Regular Season Wins - Chargers Regular Season Wins,Under 9.5,0.01100000000000001,0.5348,0.5238
+2025-05-25 06:41:29.792846,Chicago Bears - Chicago Bears Regular Season Wins - Bears Regular Season Wins ,Over 8.5,0.01100000000000001,0.5348,0.5238
 2025-05-25 12:55:17.044164,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.01090000000000002,0.8571,0.8462
 2025-05-25 09:30:13.162200,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.010899999999999993,0.1538,0.1429
 2025-05-25 06:41:29.778129,Baltimore Ravens - Baltimore Ravens Regular Season Wins - Ravens Regular Season Wins,Over 11.5,0.010699999999999932,0.5455,0.5348
 2025-05-25 06:41:29.768341,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Under 8.5,0.010699999999999932,0.5455,0.5348
 2025-05-25 06:41:29.846967,Las Vegas Raiders - Las Vegas Raiders Regular Season Wins - Raiders Regular Season Wins ,Under 6.5,0.010599999999999998,0.4651,0.4545
-2025-05-25 09:30:13.162200,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.0102,0.0769,0.0667
 2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,0.0102,0.0769,0.0667
+2025-05-25 09:30:13.162200,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.0102,0.0769,0.0667
 2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York Red Bulls,0.010100000000000001,0.0345,0.0244
-2025-05-25 06:41:29.827255,Houston Texans - Houston Texans Regular Season Wins - Texans Regular Season Wins,Under 9.5,0.010099999999999998,0.5556,0.5455
 2025-05-25 06:41:29.842046,Kansas City Chiefs - Kansas City Chiefs Regular Season Wins - Chiefs Regular Season Wins,Under 11.5,0.010099999999999998,0.5556,0.5455
 2025-05-25 15:31:03.644425,Round Match-Ups - Final Round Match-Ups - B. Griffin v R. Fowler - Final Round Match-Ups,Ben Griffin,0.010099999999999998,0.5556,0.5455
-2025-05-25 12:55:17.044164,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.010099999999999998,0.0952,0.1053
+2025-05-25 06:41:29.827255,Houston Texans - Houston Texans Regular Season Wins - Texans Regular Season Wins,Under 9.5,0.010099999999999998,0.5556,0.5455
 2025-05-25 15:31:03.313682,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.010099999999999998,0.6774,0.6875
 2025-05-25 06:41:29.822340,Green Bay Packers - Green Bay Packers Regular Season Wins - Packers Regular Season Wins,Over 9.5,-0.010099999999999998,0.5455,0.5556
+2025-05-25 12:55:17.044164,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.010099999999999998,0.0952,0.1053
 2025-05-25 09:30:15.370094,Senior PGA Championship - Senior PGA Championship - Winner,Phillip Archer,-0.0102,0.0667,0.0769
 2025-05-25 06:41:29.915809,Tennessee Titans - Tennessee Titans Regular Season Wins - Titans Regular Season Wins,Under 5.5,-0.010599999999999998,0.4545,0.4651
 2025-05-25 11:26:47.283935,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Brandon Woodruff (MIL),-0.010600000000000002,0.0217,0.0323
 2025-05-25 06:41:29.851900,Los Angeles Chargers - Los Angeles Chargers Regular Season Wins - Chargers Regular Season Wins,Over 9.5,-0.010699999999999932,0.5348,0.5455
-2025-05-25 06:41:29.792846,Chicago Bears - Chicago Bears Regular Season Wins - Bears Regular Season Wins ,Under 8.5,-0.010699999999999932,0.5348,0.5455
 2025-05-25 06:41:29.832180,Indianapolis Colts - Indianapolis Colts Regular Season Wins - Colts Regular Season Wins,Over 7.5,-0.010699999999999932,0.5348,0.5455
+2025-05-25 06:41:29.792846,Chicago Bears - Chicago Bears Regular Season Wins - Bears Regular Season Wins ,Under 8.5,-0.010699999999999932,0.5348,0.5455
 2025-05-25 11:26:47.283935,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jung Hoo Lee (SF),-0.010899999999999993,0.1429,0.1538
 2025-05-25 08:36:20.703542,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Palestino,-0.010899999999999993,0.1429,0.1538
-2025-05-25 06:41:29.768341,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,-0.01100000000000001,0.5238,0.5348
 2025-05-25 06:41:29.778129,Baltimore Ravens - Baltimore Ravens Regular Season Wins - Ravens Regular Season Wins,Under 11.5,-0.01100000000000001,0.5238,0.5348
+2025-05-25 06:41:29.768341,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,-0.01100000000000001,0.5238,0.5348
 2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,-0.011099999999999999,0.1,0.1111
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.011099999999999999,0.1,0.1111
-2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.011199999999999995,0.0476,0.0588
 2025-05-25 11:26:45.705863,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Los Angeles Sparks,-0.011199999999999995,0.0476,0.0588
+2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.011199999999999995,0.0476,0.0588
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.011199999999999995,0.0476,0.0588
 2025-05-25 11:26:45.727419,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Kelsey Plum (LAS),-0.011399999999999997,0.0164,0.0278
 2025-05-25 04:41:05.522211,Scores - Final Round Score - Rickie Fowler - Final Round Score,Under 69.5,-0.0116,0.4762,0.4878
-2025-05-25 06:41:29.827255,Houston Texans - Houston Texans Regular Season Wins - Texans Regular Season Wins,Over 9.5,-0.011600000000000055,0.5122,0.5238
 2025-05-25 06:41:29.842046,Kansas City Chiefs - Kansas City Chiefs Regular Season Wins - Chiefs Regular Season Wins,Over 11.5,-0.011600000000000055,0.5122,0.5238
-2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,-0.011700000000000016,0.2105,0.2222
+2025-05-25 06:41:29.827255,Houston Texans - Houston Texans Regular Season Wins - Texans Regular Season Wins,Over 9.5,-0.011600000000000055,0.5122,0.5238
 2025-05-25 11:26:47.283935,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Kodai Senga (NYM),-0.011700000000000016,0.2105,0.2222
+2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,-0.011700000000000016,0.2105,0.2222
 2025-05-25 15:31:03.644425,Round Match-Ups - Final Round Match-Ups - B. Griffin v R. Fowler - Final Round Match-Ups,Rickie Fowler,-0.012199999999999989,0.4878,0.5
-2025-05-25 06:41:29.881305,New York Giants - New York Giants Regular Season Wins - Giants Regular Season Wins,Over 5.5,-0.012199999999999989,0.4878,0.5
 2025-05-25 06:41:29.895967,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Over 8.5,-0.012199999999999989,0.4878,0.5
+2025-05-25 06:41:29.881305,New York Giants - New York Giants Regular Season Wins - Giants Regular Season Wins,Over 5.5,-0.012199999999999989,0.4878,0.5
 2025-05-25 06:41:29.861689,Miami Dolphins - Miami Dolphins Regular Season Wins - Dolphins Regular Season Wins,Under 8.5,-0.013299999999999979,0.6296,0.6429
 2025-05-25 12:55:17.167820,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas A&M Aggies,-0.013699999999999999,0.0141,0.0278
 2025-05-25 09:30:13.162200,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Columbus Crew,-0.013999999999999999,0.0769,0.0909
@@ -104,8 +103,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-25 06:41:29.846967,Las Vegas Raiders - Las Vegas Raiders Regular Season Wins - Raiders Regular Season Wins ,Over 6.5,-0.01539999999999997,0.6,0.6154
 2025-05-25 09:30:15.370094,Senior PGA Championship - Senior PGA Championship - Winner,Richard Bland,-0.016700000000000007,0.0833,0.1
 2025-05-25 11:26:47.283935,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Carson Kelly (CHC),-0.017099999999999997,0.0385,0.0556
-2025-05-25 06:41:29.900885,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Under 10.5,-0.017299999999999982,0.5744,0.5917
 2025-05-25 08:36:20.694352,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Apertura 2025 Futures - Winner,San Lorenzo,-0.017299999999999982,0.2857,0.303
+2025-05-25 06:41:29.900885,San Francisco 49ers - San Francisco 49ers Regular Season Wins - 49ers Regular Season Wins,Under 10.5,-0.017299999999999982,0.5744,0.5917
 2025-05-25 11:26:45.709038,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Dallas Wings,-0.01759999999999999,0.1,0.1176
 2025-05-25 08:36:20.717409,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,-0.017600000000000005,0.3333,0.3509
 2025-05-25 08:36:20.717409,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Sporting Cristal,-0.01820000000000002,0.1818,0.2
@@ -113,18 +112,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-25 09:30:13.155664,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.01820000000000002,0.1818,0.2
 2025-05-25 12:55:17.410884,Round Match-Ups - Final Round Match-Ups - M. Schmid v K. Vilips - Final Round Match-Ups,Matti Schmid,-0.01880000000000004,0.5556,0.5744
 2025-05-25 14:33:04.882618,Round Match-Ups - Final Round Match Up - JT Poston v M. Schmid - Request,Matti Schmid,-0.018900000000000028,0.4255,0.4444
-2025-05-25 06:41:29.783025,Buffalo Bills - Buffalo Bills Regular Season Wins - Bills Regular Season Wins,Over 11.5,-0.020299999999999985,0.6226,0.6429
 2025-05-25 06:41:29.871500,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Over 7.5,-0.020299999999999985,0.6226,0.6429
+2025-05-25 06:41:29.783025,Buffalo Bills - Buffalo Bills Regular Season Wins - Bills Regular Season Wins,Over 11.5,-0.020299999999999985,0.6226,0.6429
 2025-05-25 06:41:29.802664,Cleveland Browns - Cleveland Browns Regular Season Wins - Browns Regular Season Wins ,Over 4.5,-0.020299999999999985,0.6226,0.6429
 2025-05-25 11:26:45.705863,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Chicago Sky,-0.0203,0.0323,0.0526
 2025-05-25 09:30:13.149224,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,-0.02049999999999999,0.1333,0.1538
 2025-05-25 06:41:29.876396,New Orleans Saints - New Orleans Saints Regular Season Wins - Saints Regular Season Wins,Under 6.5,-0.022199999999999998,0.6552,0.6774
 2025-05-25 06:41:29.920713,Washington Commanders - Washington Commanders Regular Season Wins - Commanders Regular Season Wins,Under 9.5,-0.022600000000000064,0.5122,0.5348
-2025-05-25 03:56:39.596418,Boxing Lines - Krzysztof Włodarczyk vs Adam Balski - To Win the Bout,Adam Balski,-0.022600000000000064,0.6,0.6226
 2025-05-25 06:41:29.797780,Cincinnati Bengals - Cincinnati Bengals Regular Season Wins - Bengals Regular Season Wins,Over 9.5,-0.022600000000000064,0.6,0.6226
 2025-05-25 09:30:15.361040,Round Match-Ups - Final Round Match-Ups - A. Novak v A. Bhatia - Final Round Match-Ups,Andrew Novak,-0.022600000000000064,0.5122,0.5348
-2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.023799999999999988,0.1429,0.1667
 2025-05-25 11:26:45.727419,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.023799999999999988,0.1429,0.1667
+2025-05-25 09:30:13.152753,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.023799999999999988,0.1429,0.1667
 2025-05-25 09:30:13.158632,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,-0.0242,0.0667,0.0909
 2025-05-25 06:41:29.905773,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Over 8.5,-0.024399999999999977,0.4878,0.5122
 2025-05-25 08:36:22.653237,Scores - Final Round Score - Andrew Novak - Final Round Score,Under 69.5,-0.026499999999999968,0.5652,0.5917

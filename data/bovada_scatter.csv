@@ -16,39 +16,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-27 17:32:42.978701,ACC - ACC Regular Season Wins - Stanford,Under 3.5,0.05120000000000002,0.6429,0.5917
 2025-05-27 17:32:43.279297,SEC - SEC Regular Season Wins - Georgia,Under 9.5,0.05070000000000002,0.4762,0.4255
 2025-05-27 20:34:32.870335,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs J. Thomas - Tournament Match-Ups,Scottie Scheffler,0.050000000000000044,0.8,0.75
-2025-05-27 08:41:06.987406,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.048100000000000004,0.125,0.0769
 2025-05-27 17:32:42.915549,AAC - AAC Regular Season Wins - South Florida,Over 6.5,0.04760000000000003,0.5238,0.4762
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Mitchell Meissner,0.0476,0.0526,0.005
 2025-05-27 17:32:42.901902,AAC - AAC Regular Season Wins - Memphis,Over 8.5,0.047099999999999975,0.5122,0.4651
 2025-05-27 18:44:12.307230,Big 12 - Big 12 Regular Season Wins - Kansas,Under 7.5,0.04620000000000002,0.5917,0.5455
 2025-05-27 17:32:43.282693,SEC - SEC Regular Season Wins - Kentucky,Under 4.5,0.045499999999999985,0.5455,0.5
 2025-05-27 17:32:42.985498,ACC - ACC Regular Season Wins - Virginia,Under 5.5,0.04139999999999999,0.4762,0.4348
 2025-05-27 17:32:42.912132,AAC - AAC Regular Season Wins - Rice,Over 3.5,0.037900000000000045,0.6296,0.5917
 2025-05-27 17:32:42.961687,ACC - ACC Regular Season Wins - Miami FL,Under 8.5,0.03620000000000001,0.4444,0.4082
-2025-05-27 17:32:42.905320,AAC - AAC Regular Season Wins - Navy,Over 8.5,0.03610000000000002,0.5917,0.5556
 2025-05-27 17:32:43.053737,Big Ten - Big Ten Regular Season Wins - Indiana,Under 8.5,0.03610000000000002,0.5917,0.5556
+2025-05-27 17:32:42.905320,AAC - AAC Regular Season Wins - Navy,Over 8.5,0.03610000000000002,0.5917,0.5556
 2025-05-27 16:42:24.879101,Positions - Finishing Position - Scottie Scheffler - Finishing Position,4th or worse,0.03480000000000005,0.5348,0.5
 2025-05-27 17:32:42.944655,ACC - ACC Regular Season Wins - Clemson,Over 9.5,0.03479999999999994,0.6,0.5652
 2025-05-27 17:32:42.954890,ACC - ACC Regular Season Wins - Georgia Tech,Over 7.5,0.03479999999999994,0.6,0.5652
 2025-05-27 17:32:43.077822,Big Ten - Big Ten Regular Season Wins - Northwestern,Under 3.5,0.033299999999999996,0.4878,0.4545
-2025-05-27 16:42:24.208191,Big Ten - Big Ten Regular Season Wins - Penn State,Over 10.5,0.031799999999999995,0.4762,0.4444
 2025-05-27 19:27:38.608434,Big 12 - Big 12 Regular Season Wins - Cincinnati,Over 6.5,0.031799999999999995,0.4762,0.4444
-2025-05-27 18:44:12.310599,Big 12 - Big 12 Regular Season Wins - Kansas State,Under 8.5,0.030399999999999983,0.5652,0.5348
+2025-05-27 16:42:24.208191,Big Ten - Big Ten Regular Season Wins - Penn State,Over 10.5,0.031799999999999995,0.4762,0.4444
 2025-05-27 17:32:42.932559,AAC - AAC Regular Season Wins - UTSA,Under 7.5,0.030399999999999983,0.5652,0.5348
+2025-05-27 18:44:12.310599,Big 12 - Big 12 Regular Season Wins - Kansas State,Under 8.5,0.030399999999999983,0.5652,0.5348
 2025-05-27 16:42:24.218419,Big Ten - Big Ten Regular Season Wins - UCLA,Over 5.5,0.030299999999999994,0.4651,0.4348
-2025-05-27 17:32:42.895104,AAC - AAC Regular Season Wins - East Carolina,Under 6.5,0.02960000000000007,0.6296,0.6
 2025-05-27 17:32:43.070986,Big Ten - Big Ten Regular Season Wins - Minnesota,Over 6.5,0.02960000000000007,0.6296,0.6
+2025-05-27 17:32:42.895104,AAC - AAC Regular Season Wins - East Carolina,Under 6.5,0.02960000000000007,0.6296,0.6
 2025-05-27 18:44:12.314004,Big 12 - Big 12 Regular Season Wins - Oklahoma State,Over 5.5,0.029000000000000026,0.4545,0.4255
 2025-05-27 18:44:12.317420,Big 12 - Big 12 Regular Season Wins - TCU,Over 6.5,0.028900000000000037,0.5744,0.5455
 2025-05-27 17:32:42.992270,ACC - ACC Regular Season Wins - Wake Forest,Over 4.5,0.028900000000000037,0.5744,0.5455
 2025-05-27 13:45:31.201857,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Breanna Stewart (NYL),0.027800000000000005,0.1111,0.0833
-2025-05-27 17:32:43.050337,Big Ten - Big Ten Regular Season Wins - Illinois,Over 7.5,0.02750000000000008,0.6429,0.6154
 2025-05-27 17:32:43.064111,Big Ten - Big Ten Regular Season Wins - Michigan,Over 8.5,0.02750000000000008,0.6429,0.6154
-2025-05-27 17:32:43.269060,SEC - SEC Regular Season Wins - Arkansas,Under 5.5,0.026499999999999968,0.5917,0.5652
+2025-05-27 17:32:43.050337,Big Ten - Big Ten Regular Season Wins - Illinois,Over 7.5,0.02750000000000008,0.6429,0.6154
 2025-05-27 16:42:24.221816,Big Ten - Big Ten Regular Season Wins - USC,Over 7.5,0.026499999999999968,0.5917,0.5652
+2025-05-27 17:32:43.269060,SEC - SEC Regular Season Wins - Arkansas,Under 5.5,0.026499999999999968,0.5917,0.5652
 2025-05-27 18:44:12.303829,Big 12 - Big 12 Regular Season Wins - Iowa State,Under 7.5,0.026499999999999968,0.5917,0.5652
 2025-05-27 17:32:43.289545,SEC - SEC Regular Season Wins - Mississippi,Over 8.5,0.025599999999999956,0.6552,0.6296
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Trace Crowe,0.0252,0.0323,0.0071
 2025-05-27 13:45:31.197509,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Sydney Johnson,0.024999999999999994,0.125,0.1
 2025-05-27 17:32:42.988860,ACC - ACC Regular Season Wins - Virginia Tech,Over 6.5,0.024399999999999977,0.5122,0.4878
 2025-05-27 15:35:36.880002,Boxing Lines - Andy Cruz vs Hironori Mishiro - To Win the Bout,Andy Cruz,0.0242,0.9333,0.9091
@@ -57,96 +54,84 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-27 17:32:43.205955,MWC - MWC Regular Season Wins - Air Force,Over 5.5,0.023699999999999943,0.6154,0.5917
 2025-05-27 17:32:43.226415,MWC - MWC Regular Season Wins - New Mexico,Under 3.5,0.023699999999999943,0.6154,0.5917
 2025-05-27 13:01:28.119782,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Shane Lowry,0.022600000000000064,0.5348,0.5122
+2025-05-27 16:42:24.237259,Conference USA - Conference USA Regular Season Wins - FIU,Over 5.5,0.021699999999999997,0.4762,0.4545
 2025-05-27 17:32:43.292908,SEC - SEC Regular Season Wins - Mississippi State,Under 3.5,0.021699999999999997,0.4762,0.4545
 2025-05-27 20:34:32.725819,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.021699999999999997,0.4762,0.4545
-2025-05-27 16:42:24.237259,Conference USA - Conference USA Regular Season Wins - FIU,Over 5.5,0.021699999999999997,0.4762,0.4545
 2025-05-27 17:32:43.060580,Big Ten - Big Ten Regular Season Wins - Maryland,Under 4.5,0.02169999999999994,0.5455,0.5238
-2025-05-27 13:01:28.090626,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Corey Conners,0.02079999999999993,0.5556,0.5348
-2025-05-27 15:35:36.956077,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Shane Lowry,0.02079999999999993,0.5556,0.5348
 2025-05-27 17:32:43.233298,MWC - MWC Regular Season Wins - San Jose State,Over 7.5,0.02079999999999993,0.5556,0.5348
+2025-05-27 15:35:36.956077,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Shane Lowry,0.02079999999999993,0.5556,0.5348
+2025-05-27 13:01:28.090626,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Corey Conners,0.02079999999999993,0.5556,0.5348
 2025-05-27 17:32:42.948068,ACC - ACC Regular Season Wins - Duke,Under 6.5,0.019699999999999995,0.4545,0.4348
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Pontus Nyholm,0.019100000000000002,0.0323,0.0132
 2025-05-27 13:45:31.197509,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Natalie Nakase,0.019099999999999992,0.0667,0.0476
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Pierceson Coody,0.0189,0.0385,0.0196
-2025-05-27 15:35:36.925559,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Corey Conners,0.01880000000000004,0.5744,0.5556
 2025-05-27 17:32:43.074425,Big Ten - Big Ten Regular Season Wins - Nebraska,Over 7.5,0.01880000000000004,0.5744,0.5556
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Alistair Docherty,0.0184,0.0217,0.0033
+2025-05-27 15:35:36.925559,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Corey Conners,0.01880000000000004,0.5744,0.5556
 2025-05-27 16:42:24.691748,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.01820000000000002,0.2,0.1818
 2025-05-27 17:32:43.316716,SEC - SEC Regular Season Wins - Vanderbilt,Under 4.5,0.018100000000000005,0.4348,0.4167
-2025-05-27 16:42:24.484271,Sun Belt - Sun Belt Regular Season Wins - Troy,Over 5.5,0.017299999999999982,0.5917,0.5744
 2025-05-27 17:32:43.183500,MAC - MAC Regular Season Wins - Massachusetts,Over 4.5,0.017299999999999982,0.4255,0.4082
+2025-05-27 16:42:24.484271,Sun Belt - Sun Belt Regular Season Wins - Troy,Over 5.5,0.017299999999999982,0.5917,0.5744
 2025-05-27 19:27:39.372989,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Corey Conners,0.017299999999999982,0.5917,0.5744
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Trent Phillips,0.0165,0.0244,0.0079
 2025-05-27 18:44:12.300425,Big 12 - Big 12 Regular Season Wins - Houston,Over 5.5,0.015800000000000036,0.6825,0.6667
 2025-05-27 16:42:24.211622,Big Ten - Big Ten Regular Season Wins - Purdue,Under 3.5,0.015800000000000036,0.6825,0.6667
-2025-05-27 17:32:42.891664,AAC - AAC Regular Season Wins - Charlotte,Over 2.5,0.01539999999999997,0.6154,0.6
 2025-05-27 17:32:43.521967,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),0.01539999999999997,0.6154,0.6
+2025-05-27 17:32:42.891664,AAC - AAC Regular Season Wins - Charlotte,Over 2.5,0.01539999999999997,0.6154,0.6
 2025-05-27 16:42:24.691748,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Ole Miss Rebels,0.014400000000000003,0.0323,0.0179
 2025-05-27 17:32:43.057135,Big Ten - Big Ten Regular Season Wins - Iowa,Under 7.5,0.014200000000000101,0.6296,0.6154
 2025-05-27 15:35:34.902543,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),0.013899999999999996,0.125,0.1111
 2025-05-27 17:32:43.166431,MAC - MAC Regular Season Wins - Bowling Green,Under 6.5,0.013299999999999979,0.6429,0.6296
-2025-05-27 16:42:24.228702,Big Ten - Big Ten Regular Season Wins - Wisconsin,Under 5.5,0.013299999999999979,0.6429,0.6296
 2025-05-27 17:32:43.309855,SEC - SEC Regular Season Wins - Texas,Over 9.5,0.013299999999999979,0.6429,0.6296
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Emilio Gonzalez,0.0131,0.0164,0.0033
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Davis Chatfield,0.012899999999999998,0.0179,0.005
+2025-05-27 16:42:24.228702,Big Ten - Big Ten Regular Season Wins - Wisconsin,Under 5.5,0.013299999999999979,0.6429,0.6296
 2025-05-27 16:42:24.469692,Sun Belt - Sun Belt Regular Season Wins - Old Dominion,Over 5.5,0.012299999999999978,0.6552,0.6429
 2025-05-27 17:32:43.296313,SEC - SEC Regular Season Wins - Missouri,Over 7.5,0.012199999999999989,0.5122,0.5
 2025-05-27 17:32:42.968538,ACC - ACC Regular Season Wins - North Carolina,Over 7.5,0.012199999999999989,0.5,0.4878
 2025-05-27 16:42:24.883420,Positions - Finishing Position - Collin Morikawa - Finishing Position,16th or worse,0.012199999999999989,0.5122,0.5
+2025-05-27 18:44:12.286737,Big 12 - Big 12 Regular Season Wins - Baylor,Over 7.5,0.012199999999999989,0.5,0.4878
 2025-05-27 17:32:42.898499,AAC - AAC Regular Season Wins - Florida Atlantic,Over 4.5,0.012199999999999989,0.5,0.4878
 2025-05-27 17:32:42.982108,ACC - ACC Regular Season Wins - Syracuse,Over 5.5,0.012199999999999989,0.5122,0.5
-2025-05-27 18:44:12.286737,Big 12 - Big 12 Regular Season Wins - Baylor,Over 7.5,0.012199999999999989,0.5,0.4878
 2025-05-27 17:32:43.176679,MAC - MAC Regular Season Wins - Eastern Michigan,Over 4.5,0.011600000000000055,0.5238,0.5122
 2025-05-27 16:42:24.274633,Conference USA - Conference USA Regular Season Wins - Western Kentucky,Under 7.5,0.011600000000000055,0.5238,0.5122
 2025-05-27 16:42:24.445846,Sun Belt - Sun Belt Regular Season Wins - Arkansas State,Over 5.5,0.011600000000000055,0.5238,0.5122
 2025-05-27 17:32:43.067582,Big Ten - Big Ten Regular Season Wins - Michigan State,Under 5.5,0.0116,0.4878,0.4762
-2025-05-27 08:41:06.987406,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,O'Higgins,0.011199999999999995,0.0588,0.0476
 2025-05-27 13:45:31.197509,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Noelle Quinn,0.011199999999999995,0.0588,0.0476
 2025-05-27 17:32:42.929165,AAC - AAC Regular Season Wins - UAB,Over 4.5,0.011099999999999999,0.4762,0.4651
 2025-05-27 13:45:33.308834,US Women's Open - US Women's Open - Winner,Jeeno Thitikul,0.011099999999999999,0.1111,0.1
 2025-05-27 15:35:35.917798,Running Backs - NFL 2025-26 Rushing TD's - Saquon Barkley Regular Season Total Rushing TD's 2025-26,Under 11.5,0.01100000000000001,0.5348,0.5238
-2025-05-27 17:32:43.236680,MWC - MWC Regular Season Wins - UNLV,Under 8.5,0.01100000000000001,0.5348,0.5238
 2025-05-27 15:35:35.960610,Running Backs - NFL 2025-26 Rushing Yards - Jonathan Taylor Regular Season Total Rushing Yards 2025-26,Over 1200.5,0.01100000000000001,0.5348,0.5238
-2025-05-27 17:32:43.265650,SEC - SEC Regular Season Wins - Alabama,Under 9.5,0.01100000000000001,0.5348,0.5238
 2025-05-27 16:42:24.892096,Positions - Finishing Position - Justin Thomas - Finishing Position,17th or worse,0.01100000000000001,0.5348,0.5238
+2025-05-27 17:32:43.265650,SEC - SEC Regular Season Wins - Alabama,Under 9.5,0.01100000000000001,0.5348,0.5238
+2025-05-27 17:32:43.236680,MWC - MWC Regular Season Wins - UNLV,Under 8.5,0.01100000000000001,0.5348,0.5238
 2025-05-27 09:34:16.523678,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.010699999999999987,0.3333,0.3226
 2025-05-27 18:44:12.320819,Big 12 - Big 12 Regular Season Wins - Texas Tech,Over 8.5,0.010699999999999932,0.5455,0.5348
 2025-05-27 17:32:43.219607,MWC - MWC Regular Season Wins - Hawaii,Under 5.5,0.010599999999999998,0.4651,0.4545
-2025-05-27 17:32:42.888279,AAC - AAC Regular Season Wins - Army,Under 7.5,0.010599999999999998,0.4651,0.4545
-2025-05-27 17:32:43.216242,MWC - MWC Regular Season Wins - Fresno State,Under 6.5,0.010599999999999998,0.4651,0.4545
-2025-05-27 16:42:24.449252,Sun Belt - Sun Belt Regular Season Wins - Coastal Carolina,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-05-27 11:29:30.321412,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.010599999999999998,0.4651,0.4545
+2025-05-27 17:32:42.888279,AAC - AAC Regular Season Wins - Army,Under 7.5,0.010599999999999998,0.4651,0.4545
+2025-05-27 16:42:24.449252,Sun Belt - Sun Belt Regular Season Wins - Coastal Carolina,Over 5.5,0.010599999999999998,0.4651,0.4545
+2025-05-27 17:32:43.216242,MWC - MWC Regular Season Wins - Fresno State,Under 6.5,0.010599999999999998,0.4651,0.4545
 2025-05-27 15:35:35.977974,Running Backs - NFL 2025-26 Rushing Yards - Saquon Barkley Regular Season Total Rushing Yards 2025-26,Under 1500.5,0.010099999999999998,0.5556,0.5455
 2025-05-27 17:32:43.299683,SEC - SEC Regular Season Wins - Oklahoma,Under 6.5,0.010099999999999998,0.4545,0.4444
-2025-05-27 17:32:43.176679,MAC - MAC Regular Season Wins - Eastern Michigan,Under 4.5,-0.010099999999999998,0.5455,0.5556
 2025-05-27 16:42:24.445846,Sun Belt - Sun Belt Regular Season Wins - Arkansas State,Under 5.5,-0.010099999999999998,0.5455,0.5556
 2025-05-27 16:42:24.254222,Conference USA - Conference USA Regular Season Wins - Louisiana Tech,Under 5.5,-0.010099999999999998,0.4444,0.4545
 2025-05-27 16:42:24.274633,Conference USA - Conference USA Regular Season Wins - Western Kentucky,Over 7.5,-0.010099999999999998,0.5455,0.5556
 2025-05-27 18:44:12.293650,Big 12 - Big 12 Regular Season Wins - Cincinnati,Over 6.5,-0.010099999999999998,0.4444,0.4545
-2025-05-27 08:41:09.259281,Austrian Open - Austrian Open - Winner,Rasmus Neergaard-Petersen,-0.0102,0.0667,0.0769
-2025-05-27 08:41:09.247491,The Memorial Tournament - The Memorial Tournament - Winner,Scottie Scheffler,-0.010299999999999976,0.2564,0.2667
+2025-05-27 17:32:43.176679,MAC - MAC Regular Season Wins - Eastern Michigan,Under 4.5,-0.010099999999999998,0.5455,0.5556
 2025-05-27 13:01:26.018603,Liga ACB - Spain Liga ACB 2024/25 - Outright,Barcelona,-0.010399999999999993,0.2222,0.2326
-2025-05-27 13:01:27.993621,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.010599999999999998,0.4545,0.4651
 2025-05-27 17:32:42.891664,AAC - AAC Regular Season Wins - Charlotte,Under 2.5,-0.010599999999999998,0.4545,0.4651
-2025-05-27 17:32:43.265650,SEC - SEC Regular Season Wins - Alabama,Over 9.5,-0.010699999999999932,0.5348,0.5455
+2025-05-27 13:01:27.993621,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.010599999999999998,0.4545,0.4651
+2025-05-27 15:35:35.917798,Running Backs - NFL 2025-26 Rushing TD's - Saquon Barkley Regular Season Total Rushing TD's 2025-26,Over 11.5,-0.010699999999999932,0.5348,0.5455
 2025-05-27 16:42:24.892096,Positions - Finishing Position - Justin Thomas - Finishing Position,16th or better,-0.010699999999999932,0.5348,0.5455
 2025-05-27 17:32:43.236680,MWC - MWC Regular Season Wins - UNLV,Over 8.5,-0.010699999999999932,0.5348,0.5455
-2025-05-27 15:35:35.917798,Running Backs - NFL 2025-26 Rushing TD's - Saquon Barkley Regular Season Total Rushing TD's 2025-26,Over 11.5,-0.010699999999999932,0.5348,0.5455
+2025-05-27 17:32:43.265650,SEC - SEC Regular Season Wins - Alabama,Over 9.5,-0.010699999999999932,0.5348,0.5455
 2025-05-27 15:35:35.960610,Running Backs - NFL 2025-26 Rushing Yards - Jonathan Taylor Regular Season Total Rushing Yards 2025-26,Under 1200.5,-0.010699999999999932,0.5348,0.5455
 2025-05-27 17:32:42.951482,ACC - ACC Regular Season Wins - Florida State,Under 7.5,-0.010700000000000043,0.6667,0.6774
 2025-05-27 18:44:12.320819,Big 12 - Big 12 Regular Season Wins - Texas Tech,Under 8.5,-0.01100000000000001,0.5238,0.5348
 2025-05-27 16:42:24.257610,Conference USA - Conference USA Regular Season Wins - Middle Tennessee,Under 4.5,-0.011099999999999999,0.4651,0.4762
 2025-05-27 17:32:43.041749,Big 12 - Big 12 Regular Season Wins - Utah,Under 7.5,-0.011099999999999999,0.4651,0.4762
-2025-05-27 08:41:09.259281,Austrian Open - Austrian Open - Winner,Haotong Li,-0.011199999999999995,0.0476,0.0588
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Kevin Dougherty,-0.0113,0.0066,0.0179
-2025-05-27 16:42:24.484271,Sun Belt - Sun Belt Regular Season Wins - Troy,Under 5.5,-0.0116,0.4762,0.4878
 2025-05-27 19:27:39.372989,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.0116,0.4762,0.4878
+2025-05-27 16:42:24.484271,Sun Belt - Sun Belt Regular Season Wins - Troy,Under 5.5,-0.0116,0.4762,0.4878
 2025-05-27 15:35:35.977974,Running Backs - NFL 2025-26 Rushing Yards - Saquon Barkley Regular Season Total Rushing Yards 2025-26,Over 1500.5,-0.011600000000000055,0.5122,0.5238
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Logan McAllister,-0.012100000000000001,0.0123,0.0244
 2025-05-27 19:27:39.402439,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Ludvig Aberg,-0.012199999999999989,0.5,0.5122
 2025-05-27 17:32:43.183500,MAC - MAC Regular Season Wins - Massachusetts,Under 4.5,-0.012299999999999978,0.6429,0.6552
 2025-05-27 18:44:12.917455,Boxing Lines - Ryu Isogane vs Tomoya Yamamoto - To Win the Bout,Tomoya Yamamoto,-0.012700000000000045,0.6364,0.6491
-2025-05-27 08:41:09.247491,The Memorial Tournament - The Memorial Tournament - Winner,Justin Thomas,-0.014099999999999994,0.0526,0.0667
+2025-05-27 21:31:44.335532,Boxing Lines - Cayden Griffiths vs Edgar Gutierrez - To Win the Bout,Edgar Gutierrez,-0.013999999999999999,0.0769,0.0909
 2025-05-27 17:32:42.948068,ACC - ACC Regular Season Wins - Duke,Over 6.5,-0.014200000000000101,0.6154,0.6296
 2025-05-27 16:42:24.691748,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Florida,-0.015300000000000001,0.0323,0.0476
 2025-05-27 16:42:24.449252,Sun Belt - Sun Belt Regular Season Wins - Coastal Carolina,Under 5.5,-0.01539999999999997,0.6,0.6154
@@ -156,29 +141,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-27 18:44:12.300425,Big 12 - Big 12 Regular Season Wins - Houston,Under 5.5,-0.015400000000000025,0.3846,0.4
 2025-05-27 16:42:24.211622,Big Ten - Big Ten Regular Season Wins - Purdue,Over 3.5,-0.015400000000000025,0.3846,0.4
 2025-05-27 20:34:32.725819,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.016100000000000003,0.5917,0.6078
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Jimmy Stanger,-0.0167,0.005,0.0217
-2025-05-27 16:42:24.469692,Sun Belt - Sun Belt Regular Season Wins - Old Dominion,Under 5.5,-0.017299999999999982,0.4082,0.4255
 2025-05-27 17:32:43.067582,Big Ten - Big Ten Regular Season Wins - Michigan State,Over 5.5,-0.017299999999999982,0.5744,0.5917
-2025-05-27 08:41:09.271176,UNC Health Championship - UNC Health Championship - Winner,Scott Gutschewski,-0.017800000000000003,0.0066,0.0244
+2025-05-27 16:42:24.469692,Sun Belt - Sun Belt Regular Season Wins - Old Dominion,Under 5.5,-0.017299999999999982,0.4082,0.4255
 2025-05-27 18:44:12.283213,Big 12 - Big 12 Regular Season Wins - Arizona State,Under 8.5,-0.01880000000000004,0.5556,0.5744
 2025-05-27 17:32:42.988860,ACC - ACC Regular Season Wins - Virginia Tech,Under 6.5,-0.01880000000000004,0.5556,0.5744
 2025-05-27 17:32:43.316716,SEC - SEC Regular Season Wins - Vanderbilt,Over 4.5,-0.019499999999999962,0.6296,0.6491
 2025-05-27 17:32:43.057135,Big Ten - Big Ten Regular Season Wins - Iowa,Over 7.5,-0.019699999999999995,0.4348,0.4545
 2025-05-27 13:01:28.119782,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Ludvig Aberg,-0.02079999999999993,0.5348,0.5556
 2025-05-27 17:32:43.060580,Big Ten - Big Ten Regular Season Wins - Maryland,Over 4.5,-0.02169999999999994,0.5238,0.5455
-2025-05-27 17:32:43.205955,MWC - MWC Regular Season Wins - Air Force,Under 5.5,-0.021699999999999997,0.4545,0.4762
 2025-05-27 17:32:43.226415,MWC - MWC Regular Season Wins - New Mexico,Over 3.5,-0.021699999999999997,0.4545,0.4762
+2025-05-27 17:32:43.205955,MWC - MWC Regular Season Wins - Air Force,Under 5.5,-0.021699999999999997,0.4545,0.4762
 2025-05-27 13:45:31.197509,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Tyler Marsh,-0.0221,0.0196,0.0417
-2025-05-27 15:35:36.956077,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Ludvig Aberg,-0.022600000000000064,0.5122,0.5348
-2025-05-27 17:32:43.233298,MWC - MWC Regular Season Wins - San Jose State,Under 7.5,-0.022600000000000064,0.5122,0.5348
 2025-05-27 13:01:28.090626,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.022600000000000064,0.5122,0.5348
+2025-05-27 17:32:43.233298,MWC - MWC Regular Season Wins - San Jose State,Under 7.5,-0.022600000000000064,0.5122,0.5348
+2025-05-27 15:35:36.956077,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs S. Lowry - Tournament Match-Ups,Ludvig Aberg,-0.022600000000000064,0.5122,0.5348
 2025-05-27 16:42:24.237259,Conference USA - Conference USA Regular Season Wins - FIU,Under 5.5,-0.023699999999999943,0.5917,0.6154
 2025-05-27 17:32:43.292908,SEC - SEC Regular Season Wins - Mississippi State,Over 3.5,-0.023699999999999943,0.5917,0.6154
-2025-05-27 16:42:24.221816,Big Ten - Big Ten Regular Season Wins - USC,Under 7.5,-0.023799999999999988,0.4762,0.5
-2025-05-27 18:44:12.303829,Big 12 - Big 12 Regular Season Wins - Iowa State,Over 7.5,-0.023799999999999988,0.4762,0.5
 2025-05-27 17:32:43.269060,SEC - SEC Regular Season Wins - Arkansas,Over 5.5,-0.023799999999999988,0.4762,0.5
-2025-05-27 15:35:36.925559,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.024399999999999977,0.4878,0.5122
+2025-05-27 18:44:12.303829,Big 12 - Big 12 Regular Season Wins - Iowa State,Over 7.5,-0.023799999999999988,0.4762,0.5
+2025-05-27 16:42:24.221816,Big Ten - Big Ten Regular Season Wins - USC,Under 7.5,-0.023799999999999988,0.4762,0.5
 2025-05-27 17:32:43.074425,Big Ten - Big Ten Regular Season Wins - Nebraska,Under 7.5,-0.024399999999999977,0.4878,0.5122
+2025-05-27 15:35:36.925559,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs V. Hovland - Tournament Match-Ups,Viktor Hovland,-0.024399999999999977,0.4878,0.5122
 2025-05-27 17:32:43.495295,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),-0.024999999999999994,0.1,0.125
 2025-05-27 17:32:43.045178,Big 12 - Big 12 Regular Season Wins - West Virginia,Over 5.5,-0.025499999999999967,0.4,0.4255
 2025-05-27 17:32:43.289545,SEC - SEC Regular Season Wins - Mississippi,Under 8.5,-0.026600000000000013,0.4082,0.4348
@@ -186,17 +169,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-27 13:01:27.989506,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Eduardo Nunez,-0.02739999999999998,0.7059,0.7333
 2025-05-27 18:44:12.314004,Big 12 - Big 12 Regular Season Wins - Oklahoma State,Under 5.5,-0.02750000000000008,0.6154,0.6429
 2025-05-27 15:35:36.880002,Boxing Lines - Andy Cruz vs Hironori Mishiro - To Win the Bout,Hironori Mishiro,-0.028799999999999992,0.125,0.1538
-2025-05-27 17:32:43.050337,Big Ten - Big Ten Regular Season Wins - Illinois,Under 7.5,-0.029000000000000026,0.4255,0.4545
 2025-05-27 17:32:43.064111,Big Ten - Big Ten Regular Season Wins - Michigan,Under 8.5,-0.029000000000000026,0.4255,0.4545
+2025-05-27 17:32:43.050337,Big Ten - Big Ten Regular Season Wins - Illinois,Under 7.5,-0.029000000000000026,0.4255,0.4545
 2025-05-27 16:42:24.218419,Big Ten - Big Ten Regular Season Wins - UCLA,Under 5.5,-0.02960000000000007,0.6,0.6296
-2025-05-27 17:32:43.070986,Big Ten - Big Ten Regular Season Wins - Minnesota,Under 6.5,-0.030299999999999994,0.4348,0.4651
 2025-05-27 17:32:42.895104,AAC - AAC Regular Season Wins - East Carolina,Over 6.5,-0.030299999999999994,0.4348,0.4651
+2025-05-27 17:32:43.070986,Big Ten - Big Ten Regular Season Wins - Minnesota,Under 6.5,-0.030299999999999994,0.4348,0.4651
 2025-05-27 16:42:24.879101,Positions - Finishing Position - Scottie Scheffler - Finishing Position,3rd or better,-0.030399999999999983,0.5348,0.5652
 2025-05-27 16:42:24.208191,Big Ten - Big Ten Regular Season Wins - Penn State,Under 10.5,-0.03090000000000004,0.5917,0.6226
 2025-05-27 19:27:38.608434,Big 12 - Big 12 Regular Season Wins - Cincinnati,Under 6.5,-0.03090000000000004,0.5917,0.6226
 2025-05-27 17:32:42.961687,ACC - ACC Regular Season Wins - Miami FL,Over 8.5,-0.03259999999999996,0.6226,0.6552
-2025-05-27 17:32:42.932559,AAC - AAC Regular Season Wins - UTSA,Over 7.5,-0.03480000000000005,0.5,0.5348
 2025-05-27 18:44:12.310599,Big 12 - Big 12 Regular Season Wins - Kansas State,Over 8.5,-0.03480000000000005,0.5,0.5348
+2025-05-27 17:32:42.932559,AAC - AAC Regular Season Wins - UTSA,Over 7.5,-0.03480000000000005,0.5,0.5348
 2025-05-27 17:32:42.954890,ACC - ACC Regular Season Wins - Georgia Tech,Under 7.5,-0.03489999999999999,0.4651,0.5
 2025-05-27 17:32:42.944655,ACC - ACC Regular Season Wins - Clemson,Under 9.5,-0.03489999999999999,0.4651,0.5
 2025-05-27 17:32:43.053737,Big Ten - Big Ten Regular Season Wins - Indiana,Over 8.5,-0.035999999999999976,0.4762,0.5122
@@ -214,7 +197,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-27 17:32:42.918952,AAC - AAC Regular Season Wins - Temple,Under 3.5,-0.05059999999999998,0.5238,0.5744
 2025-05-27 17:32:42.978701,ACC - ACC Regular Season Wins - Stanford,Over 3.5,-0.05070000000000002,0.4255,0.4762
 2025-05-27 17:32:43.279297,SEC - SEC Regular Season Wins - Georgia,Over 9.5,-0.05120000000000002,0.5917,0.6429
-2025-05-27 08:41:06.987406,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Colo-Colo,-0.057699999999999974,0.25,0.3077
 2025-05-27 17:32:43.252041,Non Conference - Non Conference Regular Season Wins - Notre Dame,Under 10.5,-0.0635,0.5917,0.6552
 2025-05-27 17:32:43.306490,SEC - SEC Regular Season Wins - Tennessee,Under 8.5,-0.06779999999999997,0.4878,0.5556
 2025-05-27 17:32:42.937762,ACC - ACC Regular Season Wins - Boston College,Over 5.5,-0.06929999999999997,0.4762,0.5455

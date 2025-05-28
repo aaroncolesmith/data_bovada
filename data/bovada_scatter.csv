@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 14:39:14.669719,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Palmeiras,0.052399999999999995,0.0909,0.0385
 2025-05-28 09:35:07.110850,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Minnesota Lynx,0.05230000000000001,0.3226,0.2703
 2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Sporting Lisbon,0.04169999999999999,0.1667,0.125
-2025-05-28 09:35:07.115043,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 34½,0.03610000000000002,0.5917,0.5556
 2025-05-28 09:35:07.081244,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 10½,0.03610000000000002,0.5917,0.5556
+2025-05-28 09:35:07.115043,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 34½,0.03610000000000002,0.5917,0.5556
 2025-05-28 09:35:07.162081,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.035999999999999976,0.5122,0.4762
 2025-05-28 13:01:42.805654,Futures - US Open 2025 - Winner,Scottie Scheffler,0.02779999999999999,0.25,0.2222
 2025-05-28 13:01:42.362147,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M.W. Lee / S. Stevens - 1st Round 2-Balls,Sam Stevens,0.024399999999999977,0.5122,0.4878
@@ -29,7 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 09:35:09.367474,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
 2025-05-28 09:35:09.329666,Tournament Match-Ups - Tournament Match-Ups - B. Griffin vs H. English - Tournament Match-Ups,Ben Griffin,0.02079999999999993,0.5556,0.5348
 2025-05-28 10:39:34.740740,UNC Health Championship - UNC Health Championship - Winner,Pierceson Coody,0.0203,0.0588,0.0385
-2025-05-28 08:42:35.247659,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.019500000000000017,0.3704,0.3509
+2025-05-28 20:34:49.106254,College Super Regional Winners - To Win Super Regional 1 - To Win Super Regional 1 - 2025,Vanderbilt,0.01970000000000005,0.5652,0.5455
 2025-05-28 13:01:40.422906,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Alexandria Ocasio-Cortez,0.019099999999999992,0.0667,0.0476
 2025-05-28 11:29:29.445077,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yuttapong Tongdee,0.01759999999999999,0.1176,0.1
 2025-05-28 13:01:42.374445,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - T. Pendrith / C. Conners - 1st Round 2-Balls,Corey Conners,0.016699999999999937,0.6,0.5833
@@ -37,10 +37,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 14:39:17.058054,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - N. Dunlap / S. Burns - 1st Round 2-Balls,Sam Burns,0.015599999999999947,0.7299,0.7143
 2025-05-28 09:35:09.025585,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,0.01419999999999999,0.3846,0.3704
 2025-05-28 09:35:07.141048,To Make the Playoffs - Connecticut Sun - To Make the 2025 Playoffs - To Make the Playoffs,No,0.01330000000000009,0.9804,0.9671
-2025-05-28 08:42:35.366397,The Memorial Tournament - The Memorial Tournament - Winner,Scottie Scheffler,0.01319999999999999,0.2632,0.25
 2025-05-28 16:41:06.570454,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.012199999999999989,0.5122,0.5
-2025-05-28 13:01:42.415002,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M. Hughes / M. Kuchar - 1st Round 2-Balls,Matt Kuchar,0.012199999999999989,0.5,0.4878
 2025-05-28 20:34:49.162616,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5,0.4878
+2025-05-28 13:01:42.415002,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M. Hughes / M. Kuchar - 1st Round 2-Balls,Matt Kuchar,0.012199999999999989,0.5,0.4878
 2025-05-28 10:39:34.274465,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - V. Hovland / L. Aberg - 1st Round 2-Balls,Viktor Hovland,0.011600000000000055,0.5238,0.5122
 2025-05-28 13:01:42.184843,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.0116,0.4878,0.4762
 2025-05-28 09:35:09.431932,Round Match-Ups - 1st Round Match-Ups - S. Im vs M. Fitzpatrick - 1st Round Match-Ups,Sungjae Im,0.010699999999999932,0.5455,0.5348
@@ -49,9 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 10:39:34.113603,Boxing Lines - Cayden Griffiths vs Edgar Gutierrez - To Win the Bout,Edgar Gutierrez,-0.0102,0.0667,0.0769
 2025-05-28 10:39:34.274465,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - V. Hovland / L. Aberg - 1st Round 2-Balls,Ludvig Aberg,-0.01100000000000001,0.5238,0.5348
 2025-05-28 11:29:29.445077,Boxing Lines - Yoshiki Takei vs Yuttapong Tongdee - To Win the Bout,Yoshiki Takei,-0.011199999999999988,0.9412,0.9524
-2025-05-28 20:34:49.158281,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
-2025-05-28 08:42:35.282794,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
 2025-05-28 09:35:09.431932,Round Match-Ups - 1st Round Match-Ups - S. Im vs M. Fitzpatrick - 1st Round Match-Ups,Matt Fitzpatrick,-0.012199999999999989,0.5,0.5122
+2025-05-28 20:34:49.158281,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
 2025-05-28 09:35:09.025585,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Eduardo Nunez,-0.014900000000000024,0.6774,0.6923
 2025-05-28 10:39:32.160211,LKL - Lithuania LKL 2024/25 - Outright,Lietkabelis,-0.015300000000000001,0.0435,0.0588
 2025-05-28 14:39:17.058054,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - N. Dunlap / S. Burns - 1st Round 2-Balls,Nick Dunlap,-0.015400000000000025,0.3125,0.3279
@@ -62,7 +60,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 13:01:42.362147,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M.W. Lee / S. Stevens - 1st Round 2-Balls,Min Woo Lee,-0.02079999999999993,0.5348,0.5556
 2025-05-28 09:35:09.367474,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs T. Fleetwood - Tournament Match-Ups,Patrick Cantlay,-0.02169999999999994,0.5238,0.5455
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Minnesota Timberwolves,-0.022,0.005,0.027
-2025-05-28 08:42:35.247659,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Eduardo Nunez,-0.02200000000000002,0.6923,0.7143
 2025-05-28 09:35:07.170537,To Make the Playoffs - Seattle Storm - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.02210000000000001,0.1379,0.16
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Trapani,-0.022199999999999998,0.2,0.2222
 2025-05-28 09:35:09.329666,Tournament Match-Ups - Tournament Match-Ups - B. Griffin vs H. English - Tournament Match-Ups,Harris English,-0.022600000000000064,0.5122,0.5348

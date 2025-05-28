@@ -95,8 +95,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 08:42:35.282794,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
 2025-05-28 06:45:22.802062,College Regional Winners - To Win Eugene Regional - To Win Eugene Regional 2025,Cal Poly,-0.012899999999999995,0.1538,0.1667
 2025-05-28 06:45:22.755425,College Regional Winners - To Win Clemson Regional - To Win Clemson Regional 2025,Kentucky,-0.0131,0.2222,0.2353
-2025-05-28 04:40:01.625829,Boxing Lines - Thammanoon Niyomtrong vs Roland Toyogon - To Win the Bout,Roland Toyogon,-0.013899999999999996,0.1111,0.125
 2025-05-28 07:31:40.666074,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.013899999999999996,0.1111,0.125
+2025-05-28 04:40:01.625829,Boxing Lines - Thammanoon Niyomtrong vs Roland Toyogon - To Win the Bout,Roland Toyogon,-0.013899999999999996,0.1111,0.125
 2025-05-28 07:31:40.666074,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.01440000000000001,0.0909,0.1053
 2025-05-28 09:35:09.025585,Boxing Lines - Eduardo Nunez vs Masanori Rikiishi - To Win the Bout,Eduardo Nunez,-0.014900000000000024,0.6774,0.6923
 2025-05-28 10:39:32.160211,LKL - Lithuania LKL 2024/25 - Outright,Lietkabelis,-0.015300000000000001,0.0435,0.0588
@@ -117,8 +117,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 06:45:22.810517,College Regional Winners - To Win Oxford Regional - To Win Oxford Regional 2025,Georgia Tech,-0.02260000000000001,0.3774,0.4
 2025-05-28 09:35:09.329666,Tournament Match-Ups - Tournament Match-Ups - B. Griffin vs H. English - Tournament Match-Ups,Harris English,-0.022600000000000064,0.5122,0.5348
 2025-05-28 07:31:40.670491,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.022699999999999998,0.2273,0.25
-2025-05-28 14:39:14.934857,Exact Order Parlays - Exact Order Parlays - Requested Specials ,"Pick #1: Cooper Flagg, Pick #2: Dylan Harper, Pick #3: Ace Bailey",-0.023799999999999988,0.4762,0.5
 2025-05-28 06:45:22.785014,College Regional Winners - To Win Corvallis Regional - To Win Corvallis Regional 2025,USC,-0.023799999999999988,0.1429,0.1667
+2025-05-28 14:39:14.934857,Exact Order Parlays - Exact Order Parlays - Requested Specials ,"Pick #1: Cooper Flagg, Pick #2: Dylan Harper, Pick #3: Ace Bailey",-0.023799999999999988,0.4762,0.5
 2025-05-28 04:39:59.771552,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Ace Bailey,-0.023800000000000043,0.5,0.5238
 2025-05-28 07:31:40.648107,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Chicago Sky,-0.024299999999999995,0.0526,0.0769
 2025-05-28 06:45:20.929060,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Los Angeles Sparks,-0.024399999999999998,0.0141,0.0385
@@ -127,8 +127,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 03:52:49.454319,NBA Championship - NBA Championship 2024-25 - NBA Champion,New York Knicks,-0.028199999999999996,0.0385,0.0667
 2025-05-28 06:45:20.929060,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Phoenix Mercury,-0.031,0.0278,0.0588
 2025-05-28 09:35:07.110850,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Las Vegas Aces,-0.035,0.125,0.16
-2025-05-28 09:35:07.081244,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 10½,-0.035999999999999976,0.4762,0.5122
 2025-05-28 09:35:07.115043,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 34½,-0.035999999999999976,0.4762,0.5122
+2025-05-28 09:35:07.081244,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 10½,-0.035999999999999976,0.4762,0.5122
 2025-05-28 09:35:07.162081,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.03610000000000002,0.5556,0.5917
 2025-05-28 04:39:59.771552,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,-0.047400000000000005,0.0526,0.1
 2025-05-28 06:45:22.806303,College Regional Winners - To Win Los Angeles Regional - To Win Los Angeles Regional 2025,Arizona State,-0.04999999999999999,0.2,0.25
@@ -146,6 +146,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 09:35:07.119227,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 24½,-0.09820000000000001,0.4762,0.5744
 2025-05-28 13:01:40.465592,UK General Election - Most Seats After Next General Election - Most Seats,Conservatives,-0.11249999999999999,0.2,0.3125
 2025-05-28 06:45:20.929060,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Minnesota Lynx,-0.1138,0.0714,0.1852
+2025-05-28 14:39:14.669719,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Al-Nassr,-0.11900000000000002,0.1667,0.2857
 2025-05-28 03:52:49.533109,NBA Awards & League Leaders - NBA Awards 2024-25 - Eastern Conference Finals MVP,Pascal Siakam (IND),-0.12319999999999999,0.0435,0.1667
 2025-05-28 09:35:07.136869,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.13489999999999996,0.2222,0.3571
 2025-05-28 14:39:14.669719,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Sporting Lisbon,-0.1417,0.125,0.2667

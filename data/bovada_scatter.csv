@@ -1,23 +1,22 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 05:35:38.414792,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.08450000000000002,0.7619,0.6774
 2025-05-29 05:35:38.410198,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.07289999999999996,0.8824,0.8095
-2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.05709999999999993,0.8571,0.8
 2025-05-29 08:41:58.574863,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.045499999999999985,0.5455,0.5
 2025-05-29 05:35:40.678489,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,0.030299999999999994,0.6667,0.6364
 2025-05-29 09:34:15.013249,LNB Pro A - France LNB Pro A 2024/25 - Winner,JL Bourg,0.023200000000000002,0.0476,0.0244
 2025-05-29 10:40:15.295595,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Under 70.5,0.022600000000000064,0.6226,0.6
-2025-05-29 12:59:40.201384,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - C. Kirk / S. Theegala - 1st Round 2-Balls,Chris Kirk,0.022600000000000064,0.5348,0.5122
 2025-05-29 12:59:40.218404,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - J. Vegas / M. Schmid - 1st Round 2-Balls,Matti Schmid,0.022600000000000064,0.5348,0.5122
+2025-05-29 12:59:40.201384,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - C. Kirk / S. Theegala - 1st Round 2-Balls,Chris Kirk,0.022600000000000064,0.5348,0.5122
 2025-05-29 12:59:38.299353,AFC West - AFC West 2025-26 - AFC West Winner,Denver Broncos,0.022199999999999998,0.2222,0.2
 2025-05-29 11:28:53.858051,Round Match-Ups - 1st Round Match-Ups - S. Scheffler / J. Thomas - 1st Round Match-Ups,Scottie Scheffler,0.02200000000000002,0.7143,0.6923
+2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
 2025-05-29 09:34:17.177738,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,0.02169999999999994,0.5455,0.5238
 2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.02169999999999994,0.5455,0.5238
-2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
-2025-05-29 12:59:40.192552,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - W. Clark / M. Greyserman - 1st Round 2-Balls,Wyndham Clark,0.02079999999999993,0.5556,0.5348
 2025-05-29 07:31:42.499163,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - B. Griffin / S. Lowry - 1st Round 2-Balls,Shane Lowry,0.02079999999999993,0.5556,0.5348
-2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Jiyai Shin,0.02079999999999993,0.5556,0.5348
+2025-05-29 12:59:40.192552,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - W. Clark / M. Greyserman - 1st Round 2-Balls,Wyndham Clark,0.02079999999999993,0.5556,0.5348
 2025-05-29 11:28:53.833110,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Collin Morikawa,0.02079999999999993,0.5556,0.5348
 2025-05-29 11:28:53.828786,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs J. Spieth - 1st Round Match-Ups,Ludvig Aberg,0.02079999999999993,0.5556,0.5348
+2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Jiyai Shin,0.02079999999999993,0.5556,0.5348
 2025-05-29 12:59:38.375044,Conferences - Conference USA Championship  - Conference USA Championship Game Winner 2025 ,Middle Tennessee State,0.0203,0.0526,0.0323
 2025-05-29 10:40:15.188679,Round Match-Ups - 1st Round Match-Ups - D. Berger vs D. McCarthy - 1st Round Match-Ups,Daniel Berger,0.01970000000000005,0.5652,0.5455
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Linn Grant,0.01970000000000005,0.5652,0.5455
@@ -38,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 11:28:53.546514,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - J. Rose / D. Berger - 1st Round 2-Balls,Daniel Berger,0.014200000000000101,0.6296,0.6154
 2025-05-29 12:59:40.088708,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.011600000000000055,0.5238,0.5122
 2025-05-29 12:59:38.323907,National Championship - NCAA Football CFP Winner 2025-2026  - National Championship Game Winner ,Texas,0.010899999999999993,0.1538,0.1429
+2025-05-29 14:36:43.306629,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - N. Dunlap / S. Burns - 1st Round 2-Balls,Sam Burns,0.010399999999999965,0.7403,0.7299
 2025-05-29 10:40:14.822555,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,0.010099999999999998,0.5556,0.5455
 2025-05-29 12:59:40.088708,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.010099999999999998,0.5455,0.5556
 2025-05-29 03:54:00.284401,Boxing Lines - Grant Flores vs Jeovanis Barraza - To Win the Bout,Jeovanis Barraza,-0.0102,0.0667,0.0769
@@ -57,25 +57,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 03:54:00.909616,Match-Ups - Tournament Match-Ups - Y. Noh v C. Ciganda - Requests,Carlota Ciganda,-0.018100000000000005,0.4167,0.4348
 2025-05-29 12:59:38.383173,Conferences - Mountain West Conference Championship  - Mountain West Conference Championship Game Winner 2025 ,UNLV,-0.01820000000000002,0.1818,0.2
 2025-05-29 12:59:38.318505,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,-0.018799999999999983,0.3448,0.3636
-2025-05-29 10:40:15.295595,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Over 70.5,-0.020699999999999996,0.4444,0.4651
 2025-05-29 07:31:42.518519,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - H. Matsuyama / C. Morikawa - 1st Round 2-Balls,Hideki Matsuyama,-0.020699999999999996,0.4444,0.4651
-2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.02169999999999994,0.5238,0.5455
+2025-05-29 10:40:15.295595,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Over 70.5,-0.020699999999999996,0.4444,0.4651
 2025-05-29 09:34:17.177738,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.02169999999999994,0.5238,0.5455
+2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.02169999999999994,0.5238,0.5455
 2025-05-29 03:54:00.905117,Match-Ups - Tournament Match-Ups - R. Takeda v L. Ko - Requests,Rio Takeda,-0.021699999999999997,0.4545,0.4762
 2025-05-29 12:59:40.218404,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - J. Vegas / M. Schmid - 1st Round 2-Balls,Jhonattan Vegas,-0.022600000000000064,0.5122,0.5348
-2025-05-29 12:59:40.201384,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - C. Kirk / S. Theegala - 1st Round 2-Balls,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
 2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Allisen Corpuz,-0.022600000000000064,0.5122,0.5348
-2025-05-29 12:59:38.375044,Conferences - Conference USA Championship  - Conference USA Championship Game Winner 2025 ,Jacksonville State,-0.023799999999999988,0.1429,0.1667
+2025-05-29 12:59:40.201384,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - C. Kirk / S. Theegala - 1st Round 2-Balls,Sahith Theegala,-0.022600000000000064,0.5122,0.5348
 2025-05-29 10:40:15.188679,Round Match-Ups - 1st Round Match-Ups - D. Berger vs D. McCarthy - 1st Round Match-Ups,Denny McCarthy,-0.023799999999999988,0.4762,0.5
+2025-05-29 12:59:38.375044,Conferences - Conference USA Championship  - Conference USA Championship Game Winner 2025 ,Jacksonville State,-0.023799999999999988,0.1429,0.1667
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Angel Yin,-0.023800000000000043,0.5,0.5238
 2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
 2025-05-29 12:59:40.192552,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - W. Clark / M. Greyserman - 1st Round 2-Balls,Max Greyserman,-0.024399999999999977,0.4878,0.5122
-2025-05-29 11:28:53.833110,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
 2025-05-29 07:31:42.499163,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - B. Griffin / S. Lowry - 1st Round 2-Balls,Ben Griffin,-0.024399999999999977,0.4878,0.5122
+2025-05-29 11:28:53.833110,Round Match-Ups - 1st Round Match-Ups - X. Schauffele vs C. Morikawa - 1st Round Match-Ups,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
 2025-05-29 11:28:53.828786,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs J. Spieth - 1st Round Match-Ups,Jordan Spieth,-0.024399999999999977,0.4878,0.5122
 2025-05-29 05:35:40.678489,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Peter McGrail,-0.025499999999999967,0.4,0.4255
 2025-05-29 12:59:38.299353,AFC West - AFC West 2025-26 - AFC West Winner,Las Vegas Raiders,-0.029299999999999993,0.0476,0.0769
-2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.0313,0.001,0.0323
 2025-05-29 08:41:58.574863,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.04139999999999999,0.5238,0.5652
-2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.04620000000000002,0.1538,0.2
 2025-05-29 05:35:38.414792,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.060600000000000015,0.1667,0.2273

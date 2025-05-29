@@ -6,46 +6,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Budućnost,0.11900000000000002,0.2857,0.1667
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Partizan,0.09999999999999998,0.6,0.5
 2025-05-28 18:43:05.607367,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,0.09999999999999998,0.5,0.4
-2025-05-28 13:01:40.465592,UK General Election - Most Seats After Next General Election - Most Seats,Reform,0.08080000000000004,0.4444,0.3636
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Oklahoma City Thunder,0.07500000000000001,0.2,0.125
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.057699999999999974,0.3077,0.25
+2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.05709999999999993,0.8571,0.8
 2025-05-28 14:39:14.669719,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Palmeiras,0.052399999999999995,0.0909,0.0385
 2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Sporting Lisbon,0.04169999999999999,0.1667,0.125
-2025-05-28 13:01:42.805654,Futures - US Open 2025 - Winner,Scottie Scheffler,0.02779999999999999,0.25,0.2222
-2025-05-28 13:01:42.362147,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M.W. Lee / S. Stevens - 1st Round 2-Balls,Sam Stevens,0.024399999999999977,0.5122,0.4878
 2025-05-28 22:35:04.068074,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.023800000000000043,0.5238,0.5
-2025-05-28 13:01:42.366209,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - D. Thompson / S. Im - 1st Round 2-Balls,Davis Thompson,0.023799999999999988,0.5,0.4762
 2025-05-28 20:34:49.106254,College Super Regional Winners - To Win Super Regional 1 - To Win Super Regional 1 - 2025,Vanderbilt,0.01970000000000005,0.5652,0.5455
-2025-05-28 13:01:40.422906,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Alexandria Ocasio-Cortez,0.019099999999999992,0.0667,0.0476
 2025-05-28 22:35:01.926656,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.017900000000000027,0.875,0.8571
-2025-05-28 13:01:42.374445,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - T. Pendrith / C. Conners - 1st Round 2-Balls,Corey Conners,0.016699999999999937,0.6,0.5833
 2025-05-28 14:39:17.058054,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - N. Dunlap / S. Burns - 1st Round 2-Balls,Sam Burns,0.015599999999999947,0.7299,0.7143
-2025-05-28 20:34:49.162616,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5,0.4878
 2025-05-28 16:41:06.570454,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.012199999999999989,0.5122,0.5
-2025-05-28 13:01:42.415002,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M. Hughes / M. Kuchar - 1st Round 2-Balls,Matt Kuchar,0.012199999999999989,0.5,0.4878
 2025-05-28 22:35:04.072120,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5122,0.5
-2025-05-28 13:01:42.184843,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.0116,0.4878,0.4762
-2025-05-28 13:01:42.415002,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M. Hughes / M. Kuchar - 1st Round 2-Balls,Mackenzie Hughes,-0.010099999999999998,0.5455,0.5556
-2025-05-28 13:01:42.374445,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - T. Pendrith / C. Conners - 1st Round 2-Balls,Taylor Pendrith,-0.010099999999999998,0.4444,0.4545
+2025-05-28 20:34:49.162616,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5,0.4878
 2025-05-28 20:34:49.158281,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
 2025-05-28 14:39:17.058054,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - N. Dunlap / S. Burns - 1st Round 2-Balls,Nick Dunlap,-0.015400000000000025,0.3125,0.3279
 2025-05-28 22:35:01.926656,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,New York Knicks,-0.016600000000000004,0.1739,0.1905
-2025-05-28 13:01:42.184843,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.017299999999999982,0.5744,0.5917
-2025-05-28 13:01:42.366209,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - D. Thompson / S. Im - 1st Round 2-Balls,Sungjae Im,-0.01970000000000005,0.5455,0.5652
 2025-05-28 22:35:04.068074,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.01970000000000005,0.5455,0.5652
-2025-05-28 13:01:42.362147,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - M.W. Lee / S. Stevens - 1st Round 2-Balls,Min Woo Lee,-0.02079999999999993,0.5348,0.5556
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Minnesota Timberwolves,-0.022,0.005,0.027
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Trapani,-0.022199999999999998,0.2,0.2222
 2025-05-28 14:39:14.934857,Exact Order Parlays - Exact Order Parlays - Requested Specials ,"Pick #1: Cooper Flagg, Pick #2: Dylan Harper, Pick #3: Ace Bailey",-0.023799999999999988,0.4762,0.5
 2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Any Turkey Super Lig Team,-0.024,0.0385,0.0625
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat New York Knicks,-0.0279,0.0066,0.0345
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Indiana Pacers to beat Minnesota Timberwolves,-0.0283,0.0152,0.0435
+2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.0313,0.001,0.0323
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,New York Knicks to beat Oklahoma City Thunder,-0.032900000000000006,0.0385,0.0714
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Indiana Pacers,-0.0392,0.0196,0.0588
 2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Al-Nassr,-0.04169999999999999,0.125,0.1667
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,-0.04229999999999999,0.0244,0.0667
+2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.04620000000000002,0.1538,0.2
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.0464,0.5,0.5464
-2025-05-28 13:01:40.465592,UK General Election - Most Seats After Next General Election - Most Seats,Conservatives,-0.11249999999999999,0.2,0.3125
 2025-05-28 16:41:04.461930,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat New York Knicks,-0.11649999999999999,0.1538,0.2703
 2025-05-28 14:39:14.669719,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Al-Nassr,-0.11900000000000002,0.1667,0.2857
 2025-05-28 20:34:46.927799,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Indiana Pacers,-0.12740000000000007,0.7059,0.8333

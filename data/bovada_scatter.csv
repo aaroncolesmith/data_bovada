@@ -7,10 +7,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 08:41:58.574863,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.045499999999999985,0.5455,0.5
 2025-05-29 05:35:40.678489,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,0.030299999999999994,0.6667,0.6364
 2025-05-28 22:35:04.068074,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.023800000000000043,0.5238,0.5
-2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.02169999999999994,0.5455,0.5238
+2025-05-29 09:34:15.013249,LNB Pro A - France LNB Pro A 2024/25 - Winner,JL Bourg,0.023200000000000002,0.0476,0.0244
+2025-05-29 09:34:17.177738,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,0.02169999999999994,0.5455,0.5238
 2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
-2025-05-29 07:31:42.499163,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - B. Griffin / S. Lowry - 1st Round 2-Balls,Shane Lowry,0.02079999999999993,0.5556,0.5348
+2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.02169999999999994,0.5455,0.5238
 2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Jiyai Shin,0.02079999999999993,0.5556,0.5348
+2025-05-29 07:31:42.499163,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - B. Griffin / S. Lowry - 1st Round 2-Balls,Shane Lowry,0.02079999999999993,0.5556,0.5348
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Linn Grant,0.01970000000000005,0.5652,0.5455
 2025-05-29 03:54:00.909616,Match-Ups - Tournament Match-Ups - Y. Noh v C. Ciganda - Requests,Yealimi Noh,0.019499999999999962,0.6491,0.6296
 2025-05-28 22:35:01.926656,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.017900000000000027,0.875,0.8571
@@ -20,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 05:35:40.674269,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.015800000000000036,0.7561,0.7403
 2025-05-28 22:35:04.072120,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5122,0.5
 2025-05-29 03:54:00.284401,Boxing Lines - Grant Flores vs Jeovanis Barraza - To Win the Bout,Jeovanis Barraza,-0.0102,0.0667,0.0769
+2025-05-29 09:34:15.013249,LNB Pro A - France LNB Pro A 2024/25 - Winner,Le Mans Sarthe,-0.012100000000000001,0.0123,0.0244
 2025-05-29 04:41:22.376618,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.012199999999999989,0.5,0.5122
 2025-05-29 05:35:38.410198,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.013999999999999999,0.0769,0.0909
 2025-05-29 05:35:40.674269,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Francisco Rodriguez Jr,-0.014900000000000024,0.3077,0.3226
@@ -28,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-28 22:35:04.068074,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.01970000000000005,0.5455,0.5652
 2025-05-29 07:31:42.518519,The Memorial Tournament - 2/3 Balls - 1st Round 2-Balls - H. Matsuyama / C. Morikawa - 1st Round 2-Balls,Hideki Matsuyama,-0.020699999999999996,0.4444,0.4651
 2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.02169999999999994,0.5238,0.5455
+2025-05-29 09:34:17.177738,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.02169999999999994,0.5238,0.5455
 2025-05-29 03:54:00.905117,Match-Ups - Tournament Match-Ups - R. Takeda v L. Ko - Requests,Rio Takeda,-0.021699999999999997,0.4545,0.4762
 2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Allisen Corpuz,-0.022600000000000064,0.5122,0.5348
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Angel Yin,-0.023800000000000043,0.5,0.5238

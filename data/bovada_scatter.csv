@@ -1,28 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Al-Hilal,0.27770000000000006,0.4444,0.1667
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Monterrey,0.12919999999999998,0.1818,0.0526
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Budućnost,0.11900000000000002,0.2857,0.1667
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Partizan,0.09999999999999998,0.6,0.5
-2025-05-28 18:43:05.607367,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,0.09999999999999998,0.5,0.4
 2025-05-29 05:35:38.414792,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.08450000000000002,0.7619,0.6774
 2025-05-29 05:35:38.410198,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.07289999999999996,0.8824,0.8095
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.057699999999999974,0.3077,0.25
 2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.05709999999999993,0.8571,0.8
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Sporting Lisbon,0.04169999999999999,0.1667,0.125
 2025-05-29 05:35:40.678489,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,0.030299999999999994,0.6667,0.6364
 2025-05-28 22:35:04.068074,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.023800000000000043,0.5238,0.5
-2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.02169999999999994,0.5455,0.5238
 2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
+2025-05-29 03:54:00.308511,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.02169999999999994,0.5455,0.5238
 2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Jiyai Shin,0.02079999999999993,0.5556,0.5348
-2025-05-28 20:34:49.106254,College Super Regional Winners - To Win Super Regional 1 - To Win Super Regional 1 - 2025,Vanderbilt,0.01970000000000005,0.5652,0.5455
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Linn Grant,0.01970000000000005,0.5652,0.5455
+2025-05-28 20:34:49.106254,College Super Regional Winners - To Win Super Regional 1 - To Win Super Regional 1 - 2025,Vanderbilt,0.01970000000000005,0.5652,0.5455
 2025-05-29 03:54:00.909616,Match-Ups - Tournament Match-Ups - Y. Noh v C. Ciganda - Requests,Yealimi Noh,0.019499999999999962,0.6491,0.6296
 2025-05-28 22:35:01.926656,Eastern Conference - Eastern Conference 2024-25 - Eastern Conference Winner,Indiana Pacers,0.017900000000000027,0.875,0.8571
 2025-05-29 05:35:38.385090,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.0174,0.25,0.2326
 2025-05-29 03:54:00.905117,Match-Ups - Tournament Match-Ups - R. Takeda v L. Ko - Requests,Lydia Ko,0.016100000000000003,0.6078,0.5917
 2025-05-29 05:35:40.674269,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.015800000000000036,0.7561,0.7403
-2025-05-28 20:34:49.162616,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5,0.4878
 2025-05-28 22:35:04.072120,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5122,0.5
+2025-05-28 20:34:49.162616,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,0.012199999999999989,0.5,0.4878
 2025-05-29 03:54:00.284401,Boxing Lines - Grant Flores vs Jeovanis Barraza - To Win the Bout,Jeovanis Barraza,-0.0102,0.0667,0.0769
 2025-05-29 04:41:22.376618,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Manuel Gallegos,-0.012199999999999989,0.5,0.5122
 2025-05-28 20:34:49.158281,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.5,0.5122
@@ -37,14 +33,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-29 03:54:00.896381,Match-Ups - Tournament Match-Ups - J. Shin v A. Corpuz - Requests,Allisen Corpuz,-0.022600000000000064,0.5122,0.5348
 2025-05-29 03:54:00.900735,Match-Ups - Tournament Match-Ups - L. Grant v A. Yin - Requests,Angel Yin,-0.023800000000000043,0.5,0.5238
 2025-05-29 03:54:00.672552,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama vs S. Lowry - 1st Round Match-Ups,Shane Lowry,-0.023800000000000043,0.5,0.5238
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Any Turkey Super Lig Team,-0.024,0.0385,0.0625
 2025-05-29 05:35:40.678489,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Peter McGrail,-0.025499999999999967,0.4,0.4255
 2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Minnesota Timberwolves,-0.0313,0.001,0.0323
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Al-Nassr,-0.04169999999999999,0.125,0.1667
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,-0.04229999999999999,0.0244,0.0667
 2025-05-29 02:19:02.403480,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.04620000000000002,0.1538,0.2
 2025-05-28 19:27:39.355927,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,-0.0464,0.5,0.5464
 2025-05-29 05:35:38.414792,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.060600000000000015,0.1667,0.2273
 2025-05-28 20:34:46.927799,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Indiana Pacers,-0.12740000000000007,0.7059,0.8333
-2025-05-28 18:43:05.732468,Transfer Specials - Cristiano Ronaldo's Team At The End of Summer Transfer Window - Cristiano Ronaldo's Team At The End of Summer Transfer Window,Botafogo,-0.1428,0.1429,0.2857
 2025-05-28 22:35:02.007937,ABA League - ABA League 2024/25 - Outright,Crvena Zvezda,-0.16359999999999997,0.2,0.3636

@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Mao Saigo,0.21030000000000001,0.2381,0.0278
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,0.2073,0.2222,0.0149
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Nelly Korda,0.1453,0.2222,0.0769
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.14290000000000003,0.5,0.3571
 2025-05-31 06:41:17.361444,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.14080000000000004,0.8182,0.6774
@@ -9,22 +10,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 06:41:17.366316,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.0695,0.9,0.8305
 2025-05-31 06:41:17.376219,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.06590000000000001,0.2326,0.1667
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Nicolai Von Dellingshausen,0.061500000000000006,0.1,0.0385
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Jose Flaco Lopez,0.0585,0.1111,0.0526
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Kevin Viveros,0.05679999999999999,0.1818,0.125
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Callum Tarren,0.0548,0.0588,0.004
 2025-05-31 03:19:28.239467,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,No,0.05300000000000005,0.75,0.697
 2025-05-31 05:33:34.339884,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,0.051,0.0833,0.0323
 2025-05-31 02:15:51.008445,Bundesliga - Germany Bundesliga 2024/25 - Outright,Baskets Wuerzburg,0.0475,0.0769,0.0294
 2025-05-31 03:19:28.230206,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 10½,0.045499999999999985,0.5455,0.5
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,0.04239999999999999,0.0769,0.0345
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Sarah Schmelzel,0.04239999999999999,0.0588,0.0164
 2025-05-31 03:19:28.235205,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.04099999999999998,0.2632,0.2222
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,0.0398,0.0833,0.0435
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Jayden Schaper,0.0384,0.0769,0.0385
 2025-05-31 03:19:29.984332,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,0.03600000000000003,0.5238,0.4878
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Eugenio Chacarra,0.035699999999999996,0.0833,0.0476
 2025-05-31 05:33:34.311480,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 16½,0.033299999999999996,0.5455,0.5122
+2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Internacional,0.033299999999999996,0.1333,0.1
 2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,0.031799999999999995,0.1429,0.1111
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,0.02960000000000007,0.6296,0.6
 2025-05-31 05:33:34.316786,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.028800000000000048,0.875,0.8462
 2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Derik Queen,0.028399999999999995,0.0909,0.0625
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Andy Sullivan,0.0283,0.0435,0.0152
+2025-05-31 08:36:53.477988,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Burns / S. Lowry - 3rd Round 2-Balls,Shane Lowry,0.027700000000000058,0.5833,0.5556
 2025-05-31 04:37:06.000963,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,New York Liberty,0.027700000000000002,0.4444,0.4167
 2025-05-31 04:37:06.010104,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.026700000000000057,0.9091,0.8824
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,New York Liberty,0.026499999999999968,0.5917,0.5652
@@ -34,8 +41,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.023800000000000016,0.2564,0.2326
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Maja Stark,0.022200000000000004,0.0345,0.0123
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Linn Grant,0.022099999999999998,0.0385,0.0164
+2025-05-31 08:36:53.532681,Round Match-Ups - 3rd Round Match-Up - SJ Im v S. Burns - 3rd Round Match-Up,Sam Burns,0.02169999999999994,0.5455,0.5238
 2025-05-31 03:19:30.120893,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M.W. Lee / S. Stevens - 3rd Round 2-Balls,Min Woo Lee,0.02079999999999993,0.5556,0.5348
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.02020000000000001,0.1111,0.0909
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Hinako Shibuno,0.019899999999999998,0.0278,0.0079
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Lourenco Alan Patrick,0.01820000000000002,0.2,0.1818
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Las Vegas Aces,0.0179,0.1429,0.125
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Brandon Wu,0.017800000000000003,0.0244,0.0066
 2025-05-30 23:31:06.213019,Boxing Lines - Junto Nakatani vs Ryosuke Nishida - To Win the Bout,Junto Nakatani,0.01760000000000006,0.9,0.8824
@@ -43,39 +53,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Ariya Jutanugarn,0.0159,0.0323,0.0164
 2025-05-31 04:37:06.014659,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.015100000000000002,0.1818,0.1667
 2025-05-31 04:37:05.996017,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.015100000000000002,0.1818,0.1667
+2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Atlético Nacional,0.014899999999999997,0.0625,0.0476
 2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Collin Murray-Boyles,0.014099999999999994,0.0667,0.0526
 2025-05-30 22:34:49.464662,Boxing Lines - Adrian Curiel vs Johan Rubio - To Win the Bout,Johan Rubio,0.013999999999999999,0.0909,0.0769
-2025-05-30 20:33:51.861143,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,0.012199999999999989,0.5122,0.5
+2025-05-31 08:36:53.546114,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v X. Schauffele - 3rd Round Match-Up,Xander Schauffele,0.013800000000000034,0.3774,0.3636
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.011899999999999966,0.3509,0.339
+2025-05-31 08:36:53.372733,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Cameron Young,0.011600000000000055,0.5238,0.5122
 2025-05-31 03:19:30.154239,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - E. Cole / R. Gerard - 3rd Round 2-Balls,Eric Cole,0.011600000000000055,0.5238,0.5122
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Minjee Lee,0.011399999999999997,0.0278,0.0164
-2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Noa Essengue,0.010700000000000001,0.0385,0.0278
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Fluminense RJ,0.010899999999999993,0.1538,0.1429
 2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Egor Demin,0.010700000000000001,0.0385,0.0278
+2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Noa Essengue,0.010700000000000001,0.0385,0.0278
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Minnesota Lynx,0.010699999999999987,0.3333,0.3226
 2025-05-31 03:19:30.150076,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Im / T. Pendrith - 3rd Round 2-Balls,Sungjae Im,0.010699999999999932,0.5455,0.5348
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,John Catlin,0.0102,0.0152,0.005
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Lanús,0.0102,0.0769,0.0667
+2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Botafogo,0.0102,0.0769,0.0667
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.010099999999999998,0.6875,0.6774
 2025-05-31 06:41:17.611060,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,A Lim Kim,-0.0102,0.0667,0.0769
-2025-05-30 21:30:04.060247,Boxing Lines - Daniel Garcia vs George Camilo Rodriguez Pardo - To Win the Bout,George Camilo Rodriguez Pardo,-0.0102,0.0667,0.0769
 2025-05-31 04:37:06.010104,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.0102,0.0667,0.0769
+2025-05-30 21:30:04.060247,Boxing Lines - Daniel Garcia vs George Camilo Rodriguez Pardo - To Win the Bout,George Camilo Rodriguez Pardo,-0.0102,0.0667,0.0769
 2025-05-31 02:15:52.811756,Boxing Lines - Eric Priest vs Luis Arias - To Win the Bout,Luis Arias,-0.010899999999999993,0.1429,0.1538
 2025-05-31 03:19:30.154239,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - E. Cole / R. Gerard - 3rd Round 2-Balls,Ryan Gerard,-0.01100000000000001,0.5238,0.5348
+2025-05-31 08:36:53.372733,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Wyndham Clark,-0.01100000000000001,0.5238,0.5348
+2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Racing Club,-0.011099999999999999,0.1,0.1111
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Aaron Cockerill,-0.011200000000000002,0.0132,0.0244
 2025-05-31 05:33:34.289065,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 32½,-0.011600000000000055,0.5122,0.5238
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Jin Young Ko,-0.011699999999999999,0.0062,0.0179
 2025-05-31 04:37:06.014659,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.011900000000000022,0.75,0.7619
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Keita Nakajima,-0.012100000000000001,0.0123,0.0244
-2025-05-31 02:15:52.819887,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.012199999999999989,0.4878,0.5
-2025-05-31 03:19:30.150076,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Im / T. Pendrith - 3rd Round 2-Balls,Taylor Pendrith,-0.012199999999999989,0.5,0.5122
-2025-05-30 22:34:49.481031,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.4878,0.5
 2025-05-30 23:31:06.160817,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.012199999999999989,0.5,0.5122
+2025-05-30 22:34:49.481031,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Darius Fulghum,-0.012199999999999989,0.4878,0.5
+2025-05-31 03:19:30.150076,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Im / T. Pendrith - 3rd Round 2-Balls,Taylor Pendrith,-0.012199999999999989,0.5,0.5122
+2025-05-31 02:15:52.819887,Boxing Lines - Manuel Gallegos vs Khalil Coe - To Win the Bout,Khalil Coe,-0.012199999999999989,0.4878,0.5
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Davis Bryant,-0.0124,0.0028,0.0152
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Los Angeles Angels,-0.012700000000000003,0.0196,0.0323
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Charley Hull,-0.0131,0.0033,0.0164
 2025-05-31 06:41:17.507762,Elite Boxing - Caleb Plant vs Jose Armando Resendiz - To Win the Bout,Caleb Plant,-0.0131,0.9524,0.9655
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,-0.013300000000000034,0.3571,0.3704
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.013899999999999996,0.129,0.1429
+2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,-0.013899999999999996,0.1111,0.125
 2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.013999999999999999,0.0769,0.0909
 2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,-0.013999999999999999,0.0769,0.0909
 2025-05-31 06:41:17.376219,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.014099999999999994,0.0526,0.0667
@@ -87,6 +105,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Brandon Stone,-0.0157,0.0278,0.0435
 2025-05-31 06:41:17.366316,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.01580000000000001,0.0556,0.0714
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Jorge Campillo,-0.0165,0.0079,0.0244
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Maximiliano Silvera,-0.0165,0.0079,0.0244
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Frederic Lacroix,-0.0165,0.0079,0.0244
 2025-05-31 05:33:34.325978,To Make the Playoffs - Connecticut Sun - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.016600000000000004,0.0667,0.0833
 2025-05-31 04:37:05.996017,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.0174,0.2326,0.25
@@ -96,14 +115,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Kristoffer Reitan,-0.0206,0.0179,0.0385
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Miyuu Yamashita,-0.0216,0.0028,0.0244
 2025-05-30 22:34:49.578219,Austrian Open - Austrian Open - Winner,Scott Jamieson,-0.021900000000000003,0.0025,0.0244
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Bruno Henrique,-0.022400000000000003,0.0099,0.0323
+2025-05-31 08:36:53.477988,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Burns / S. Lowry - 3rd Round 2-Balls,Sam Burns,-0.022699999999999998,0.4651,0.4878
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Braian Romero,-0.0228,0.0066,0.0294
+2025-05-31 08:36:53.532681,Round Match-Ups - 3rd Round Match-Up - SJ Im v S. Burns - 3rd Round Match-Up,Sungjae Im,-0.023800000000000043,0.5,0.5238
 2025-05-31 03:19:30.120893,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M.W. Lee / S. Stevens - 3rd Round 2-Balls,Sam Stevens,-0.024399999999999977,0.4878,0.5122
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Celine Boutier,-0.024499999999999997,0.0033,0.0278
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Hernan Barcos,-0.028000000000000004,0.0196,0.0476
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Acosta Deyverson,-0.028000000000000004,0.0196,0.0476
 2025-05-31 06:41:17.361444,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.028399999999999995,0.0625,0.0909
 2025-05-31 03:19:29.984332,Boxing Lines - Bektemir Melikuziev vs Darius Fulghum - To Win the Bout,Bektemir Melikuziev,-0.028900000000000037,0.5455,0.5744
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Martin Barrios,-0.029700000000000004,0.0179,0.0476
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Vitor Roque,-0.029700000000000004,0.0179,0.0476
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Ruoning Yin,-0.0309,0.0217,0.0526
 2025-05-31 05:33:34.316786,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.031700000000000006,0.1905,0.2222
 2025-05-31 05:33:34.311480,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 16½,-0.03179999999999994,0.5238,0.5556
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.03370000000000006,0.6154,0.6491
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Ferreirinha,-0.03439999999999999,0.0323,0.0667
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Chisato Iwai,-0.037099999999999994,0.0217,0.0588
 2025-05-31 02:15:51.089245,Draft Position - Top 5 - To be Drafted in the Top 5,Kasparas Jakucionis,-0.037500000000000006,0.0625,0.1
 2025-05-31 06:41:17.376219,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.03750000000000009,0.7403,0.7778
@@ -118,6 +146,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 06:41:17.366316,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,-0.054599999999999996,0.0833,0.1379
 2025-05-31 03:19:28.239467,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.05790000000000001,0.3125,0.3704
 2025-05-31 06:41:17.361444,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.0615,0.129,0.1905
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.066,0.0769,0.1429
+2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Alex Arce,-0.07069999999999999,0.1111,0.1818
 2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Angel Yin,-0.0723,0.011,0.0833
 2025-05-31 03:19:28.221724,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 15½,-0.07440000000000002,0.5,0.5744
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.0796,0.4082,0.4878

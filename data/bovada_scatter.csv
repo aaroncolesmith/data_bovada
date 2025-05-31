@@ -1,8 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,0.33330000000000004,0.4,0.0667
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Mao Saigo,0.21030000000000001,0.2381,0.0278
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,0.2073,0.2222,0.0149
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Nelly Korda,0.1453,0.2222,0.0769
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.14290000000000003,0.5,0.3571
 2025-05-31 06:41:17.361444,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.14080000000000004,0.8182,0.6774
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Cameron Percy,0.1215,0.1538,0.0323
@@ -17,42 +15,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 09:31:19.314042,Scores - 3rd Round Score - Justin Rose - 3rd Round Score,Under 74.5,0.04620000000000002,0.5917,0.5455
 2025-05-31 15:31:23.782705,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 71.5,0.044399999999999995,0.4444,0.4
 2025-05-31 09:31:19.337847,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score,Under 73.5,0.04259999999999997,0.6078,0.5652
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Sarah Schmelzel,0.04239999999999999,0.0588,0.0164
 2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,0.04239999999999999,0.0769,0.0345
 2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,0.0398,0.0833,0.0435
 2025-05-31 15:31:23.492184,NCAA Softball - Women's College World Series Winner - Women's College World Series Winner,Tennessee,0.0391,0.0714,0.0323
 2025-05-31 12:55:45.635035,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.036900000000000044,0.7143,0.6774
 2025-05-31 12:55:45.960339,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.03639999999999999,0.6364,0.6
 2025-05-31 09:31:19.309307,Scores - 3rd Round Score - Harris English - 3rd Round Score,Under 73.5,0.03600000000000003,0.5238,0.4878
-2025-05-31 09:31:19.318707,Scores - 3rd Round Score - Mackenzie Hughes - 3rd Round Score,Under 73.5,0.035999999999999976,0.5122,0.4762
 2025-05-31 09:31:19.356955,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Under 73.5,0.035999999999999976,0.5122,0.4762
+2025-05-31 09:31:19.318707,Scores - 3rd Round Score - Mackenzie Hughes - 3rd Round Score,Under 73.5,0.035999999999999976,0.5122,0.4762
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Michael Wright,0.035300000000000005,0.0476,0.0123
 2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Internacional,0.033299999999999996,0.1333,0.1
 2025-05-31 05:33:34.311480,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 16½,0.033299999999999996,0.5455,0.5122
-2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,0.031799999999999995,0.1429,0.1111
 2025-05-31 09:31:19.280779,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Under 73.5,0.030399999999999983,0.5652,0.5348
 2025-05-31 15:31:23.492184,NCAA Softball - Women's College World Series Winner - Women's College World Series Winner,Oregon,0.030199999999999998,0.0625,0.0323
 2025-05-31 09:31:19.228547,Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score,Under 74.5,0.02960000000000007,0.6296,0.6
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,0.02960000000000007,0.6296,0.6
 2025-05-31 09:31:19.328366,Scores - 3rd Round Score - Russell Henley - 3rd Round Score,Under 73.5,0.028900000000000037,0.5744,0.5455
 2025-05-31 05:33:34.316786,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.028800000000000048,0.875,0.8462
+2025-05-31 16:38:33.662194,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.028700000000000003,0.2105,0.1818
 2025-05-31 08:36:53.477988,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Burns / S. Lowry - 3rd Round 2-Balls,Shane Lowry,0.027700000000000058,0.5833,0.5556
-2025-05-31 04:37:06.000963,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,New York Liberty,0.027700000000000002,0.4444,0.4167
-2025-05-31 04:37:06.010104,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.026700000000000057,0.9091,0.8824
-2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,New York Liberty,0.026499999999999968,0.5917,0.5652
 2025-05-31 09:31:19.342593,Scores - 3rd Round Score - Tom Hoge - 3rd Round Score,Under 74.5,0.026499999999999968,0.5917,0.5652
+2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,New York Liberty,0.026499999999999968,0.5917,0.5652
 2025-05-31 09:31:19.257018,Scores - 3rd Round Score - Min Woo Lee - 3rd Round Score,Under 73.5,0.024399999999999977,0.5122,0.4878
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.023800000000000016,0.2564,0.2326
 2025-05-31 09:31:19.295036,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Under 73.5,0.023799999999999988,0.5,0.4762
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Maja Stark,0.022200000000000004,0.0345,0.0123
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Linn Grant,0.022099999999999998,0.0385,0.0164
-2025-05-31 13:38:18.604136,Round Match-Ups - 3rd Round Match-Up - J. Thomas v T. Fleetwood - 3rd Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
 2025-05-31 13:38:18.487995,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Wyndham Clark,0.02169999999999994,0.5455,0.5238
 2025-05-31 08:36:53.532681,Round Match-Ups - 3rd Round Match-Up - SJ Im v S. Burns - 3rd Round Match-Up,Sam Burns,0.02169999999999994,0.5455,0.5238
+2025-05-31 13:38:18.604136,Round Match-Ups - 3rd Round Match-Up - J. Thomas v T. Fleetwood - 3rd Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
 2025-05-31 13:38:18.617651,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v M. McNealy - 3rd Round Match-Up,Maverick McNealy,0.02079999999999993,0.5556,0.5348
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,0.02020000000000001,0.1111,0.0909
 2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.02020000000000001,0.1111,0.0909
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Hinako Shibuno,0.019899999999999998,0.0278,0.0079
+2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,0.02020000000000001,0.1111,0.0909
 2025-05-31 14:32:51.010431,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - H. English / J. Rose - 3rd Round 2-Balls,Harris English,0.01880000000000004,0.5744,0.5556
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Lourenco Alan Patrick,0.01820000000000002,0.2,0.1818
 2025-05-31 14:32:49.204210,National Championship - NCAA Football CFP Winner 2025-2026  - National Championship Game Winner ,Clemson,0.018099999999999998,0.0769,0.0588
@@ -62,10 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 06:41:17.611060,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.016699999999999937,0.6,0.5833
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Paul Stankowski,0.0165,0.0244,0.0079
 2025-05-31 09:31:19.238109,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Under 74.5,0.016100000000000003,0.6078,0.5917
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Ariya Jutanugarn,0.0159,0.0323,0.0164
 2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.015100000000000002,0.1818,0.1667
-2025-05-31 04:37:06.014659,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.015100000000000002,0.1818,0.1667
-2025-05-31 04:37:05.996017,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.015100000000000002,0.1818,0.1667
 2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Atlético Nacional,0.014899999999999997,0.0625,0.0476
 2025-05-31 13:38:18.541606,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - A. Eckroat / L. Aberg - 3rd Round 2-Balls,Ludvig Aberg,0.014800000000000035,0.6226,0.6078
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Ken Tanigawa,0.0145,0.0244,0.0099
@@ -74,43 +63,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Mark Walker,0.012899999999999998,0.0179,0.005
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Mark Wilson,0.012899999999999998,0.0179,0.005
 2025-05-31 14:32:49.204210,National Championship - NCAA Football CFP Winner 2025-2026  - National Championship Game Winner ,Penn State,0.012299999999999991,0.1176,0.1053
-2025-05-31 09:31:19.333077,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 72.5,0.012199999999999989,0.5122,0.5
 2025-05-31 09:31:19.304560,Scores - 3rd Round Score - Taylor Pendrith - 3rd Round Score,Under 73.5,0.012199999999999989,0.5,0.4878
+2025-05-31 09:31:19.333077,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 72.5,0.012199999999999989,0.5122,0.5
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.011899999999999966,0.3509,0.339
 2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Miami Hurricanes,0.011699999999999999,0.0196,0.0079
 2025-05-31 08:36:53.372733,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Cameron Young,0.011600000000000055,0.5238,0.5122
 2025-05-31 09:31:19.233380,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 72.5,0.011600000000000055,0.5238,0.5122
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Minjee Lee,0.011399999999999997,0.0278,0.0164
 2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Fluminense RJ,0.010899999999999993,0.1538,0.1429
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Minnesota Lynx,0.010699999999999987,0.3333,0.3226
 2025-05-31 09:31:19.285518,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 73.5,0.010699999999999932,0.5455,0.5348
 2025-05-31 09:31:19.371268,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Under 73.5,0.010599999999999998,0.4651,0.4545
-2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Lanús,0.0102,0.0769,0.0667
 2025-05-31 10:35:48.919025,US Women's Open - US Women's Open - Winner,A Lim Kim,0.0102,0.0769,0.0667
 2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Botafogo,0.0102,0.0769,0.0667
+2025-05-31 08:36:50.775687,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Lanús,0.0102,0.0769,0.0667
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.010099999999999998,0.6875,0.6774
+2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 73.5,0.010099999999999998,0.5556,0.5455
 2025-05-31 09:31:19.233380,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 72.5,-0.010099999999999998,0.5455,0.5556
 2025-05-31 06:41:17.611060,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,A Lim Kim,-0.0102,0.0667,0.0769
-2025-05-31 04:37:06.010104,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.0102,0.0667,0.0769
 2025-05-31 09:31:19.285518,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 73.5,-0.01100000000000001,0.5238,0.5348
 2025-05-31 08:36:53.372733,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Wyndham Clark,-0.01100000000000001,0.5238,0.5348
 2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Racing Club,-0.011099999999999999,0.1,0.1111
 2025-05-31 05:33:34.289065,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 32½,-0.011600000000000055,0.5122,0.5238
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Jin Young Ko,-0.011699999999999999,0.0062,0.0179
-2025-05-31 04:37:06.014659,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.011900000000000022,0.75,0.7619
+2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 73.5,-0.011600000000000055,0.5122,0.5238
 2025-05-31 09:31:19.271224,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 73.5,-0.012199999999999989,0.4878,0.5
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Ole Miss Rebels,-0.012700000000000003,0.0196,0.0323
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Florida,-0.012700000000000003,0.0196,0.0323
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.012700000000000003,0.0196,0.0323
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Los Angeles Angels,-0.012700000000000003,0.0196,0.0323
+2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Ole Miss Rebels,-0.012700000000000003,0.0196,0.0323
+2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.012700000000000003,0.0196,0.0323
+2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Florida,-0.012700000000000003,0.0196,0.0323
 2025-05-31 06:41:17.507762,Elite Boxing - Caleb Plant vs Jose Armando Resendiz - To Win the Bout,Caleb Plant,-0.0131,0.9524,0.9655
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Charley Hull,-0.0131,0.0033,0.0164
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,-0.013300000000000034,0.3571,0.3704
 2025-05-31 08:36:50.784223,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,-0.013899999999999996,0.1111,0.125
 2025-05-31 05:33:34.130523,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.013899999999999996,0.129,0.1429
-2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.013999999999999999,0.0769,0.0909
-2025-05-31 04:37:05.926631,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Jack Lowden,-0.013999999999999999,0.0769,0.0909
 2025-05-31 06:41:17.376219,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,-0.014099999999999994,0.0526,0.0667
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Seattle Storm,-0.014100000000000001,0.0385,0.0526
 2025-05-31 05:33:34.293583,Regular Season Wins - Most Regular Season Wins 2025 - Most Regular Season Wins 2025,Phoenix Mercury,-0.015300000000000001,0.0435,0.0588
@@ -122,19 +105,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 09:31:19.361738,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 71.5,-0.016699999999999993,0.4,0.4167
 2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,-0.016700000000000007,0.0833,0.1
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Alex Cejka,-0.0168,0.0217,0.0385
-2025-05-31 04:37:05.996017,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.0174,0.2326,0.25
 2025-05-31 05:33:34.339884,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.01759999999999995,0.9804,0.998
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Doug Barron,-0.017800000000000003,0.0066,0.0244
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Soren Kjeldsen,-0.018099999999999998,0.0588,0.0769
 2025-05-31 09:31:19.257018,Scores - 3rd Round Score - Min Woo Lee - 3rd Round Score,Over 73.5,-0.01880000000000004,0.5556,0.5744
-2025-05-31 04:37:06.014659,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.019699999999999995,0.1053,0.125
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Miyuu Yamashita,-0.0216,0.0028,0.0244
 2025-05-31 09:31:19.238109,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Over 74.5,-0.021699999999999997,0.4545,0.4762
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Darren Clarke,-0.022400000000000003,0.0099,0.0323
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Richard Green,-0.022400000000000003,0.0099,0.0323
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Bruno Henrique,-0.022400000000000003,0.0099,0.0323
-2025-05-31 08:36:53.477988,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Burns / S. Lowry - 3rd Round 2-Balls,Sam Burns,-0.022699999999999998,0.4651,0.4878
+2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Richard Green,-0.022400000000000003,0.0099,0.0323
 2025-05-31 14:32:51.010431,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - H. English / J. Rose - 3rd Round 2-Balls,Justin Rose,-0.022699999999999998,0.4651,0.4878
+2025-05-31 08:36:53.477988,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - S. Burns / S. Lowry - 3rd Round 2-Balls,Sam Burns,-0.022699999999999998,0.4651,0.4878
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Braian Romero,-0.0228,0.0066,0.0294
 2025-05-31 09:31:19.342593,Scores - 3rd Round Score - Tom Hoge - 3rd Round Score,Over 74.5,-0.023799999999999988,0.4762,0.5
 2025-05-31 12:55:45.635035,MVP - NL MVP 2025 - National League MVP,Fernando Tatis Jr. (SD),-0.023799999999999988,0.1429,0.1667
@@ -143,7 +123,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 08:36:53.532681,Round Match-Ups - 3rd Round Match-Up - SJ Im v S. Burns - 3rd Round Match-Up,Sungjae Im,-0.023800000000000043,0.5,0.5238
 2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,-0.023899999999999998,0.0196,0.0435
 2025-05-31 13:38:18.617651,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v M. McNealy - 3rd Round Match-Up,Austin Eckroat,-0.024399999999999977,0.4878,0.5122
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Celine Boutier,-0.024499999999999997,0.0033,0.0278
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,YE Yang,-0.024800000000000003,0.0278,0.0526
 2025-05-31 09:31:19.295036,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Over 73.5,-0.026499999999999968,0.5652,0.5917
 2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Vanderbilt Commodores,-0.027999999999999997,0.1053,0.1333
@@ -154,19 +133,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Vitor Roque,-0.029700000000000004,0.0179,0.0476
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Martin Barrios,-0.029700000000000004,0.0179,0.0476
 2025-05-31 09:31:19.228547,Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score,Over 74.5,-0.030299999999999994,0.4348,0.4651
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Ruoning Yin,-0.0309,0.0217,0.0526
 2025-05-31 05:33:34.316786,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.031700000000000006,0.1905,0.2222
 2025-05-31 05:33:34.311480,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 16½,-0.03179999999999994,0.5238,0.5556
 2025-05-31 06:41:15.528815,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.03370000000000006,0.6154,0.6491
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Ferreirinha,-0.03439999999999999,0.0323,0.0667
 2025-05-31 09:31:19.280779,Scores - 3rd Round Score - Tony Finau - 3rd Round Score,Over 73.5,-0.03480000000000005,0.5,0.5348
 2025-05-31 09:31:19.328366,Scores - 3rd Round Score - Russell Henley - 3rd Round Score,Over 73.5,-0.03600000000000003,0.4878,0.5238
-2025-05-31 09:31:19.318707,Scores - 3rd Round Score - Mackenzie Hughes - 3rd Round Score,Over 73.5,-0.03610000000000002,0.5556,0.5917
 2025-05-31 09:31:19.356955,Scores - 3rd Round Score - Akshay Bhatia - 3rd Round Score,Over 73.5,-0.03610000000000002,0.5556,0.5917
+2025-05-31 09:31:19.318707,Scores - 3rd Round Score - Mackenzie Hughes - 3rd Round Score,Over 73.5,-0.03610000000000002,0.5556,0.5917
 2025-05-31 12:55:45.960339,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Matt Fitzpatrick,-0.03620000000000001,0.4082,0.4444
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Chisato Iwai,-0.037099999999999994,0.0217,0.0588
 2025-05-31 06:41:17.376219,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.03750000000000009,0.7403,0.7778
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Jin Hee Im,-0.038299999999999994,0.0526,0.0909
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Retief Goosen,-0.0392,0.0196,0.0588
 2025-05-31 09:31:19.261773,Scores - 3rd Round Score - Andrew Novak - 3rd Round Score,Over 73.5,-0.03959999999999997,0.5348,0.5744
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.04040000000000002,0.1818,0.2222
@@ -182,9 +158,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.066,0.0769,0.1429
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.06699999999999999,0.0099,0.0769
 2025-05-31 08:36:50.780366,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Alex Arce,-0.07069999999999999,0.1111,0.1818
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Angel Yin,-0.0723,0.011,0.0833
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Ernie Els,-0.07880000000000001,0.0323,0.1111
 2025-05-31 06:41:17.371185,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.0796,0.4082,0.4878
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Angel Cabrera,-0.08689999999999999,0.004,0.0909
-2025-05-31 04:37:08.245183,US Women's Open - US Women's Open - Winner,Rio Takeda,-0.0898,0.0435,0.1333
 2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Padraig Harrington,-0.1306,0.0123,0.1429

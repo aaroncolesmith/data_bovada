@@ -1,22 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,0.33330000000000004,0.4,0.0667
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Marcel Schneider,0.17770000000000002,0.4444,0.2667
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Miguel Angel Jimenez,0.1744,0.5744,0.4
 2025-05-31 22:33:58.920238,A1 - Greece A1 2024/25 - Outright,Panathinaikos,0.17000000000000004,0.7778,0.6078
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Nicolai Von Dellingshausen,0.1667,0.2667,0.1
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Jeff Winther,0.14279999999999998,0.1538,0.011
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Cameron Percy,0.1215,0.1538,0.0323
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Thomas Bjorn,0.07239999999999999,0.125,0.0526
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Kevin Sutherland,0.06649999999999999,0.0909,0.0244
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Cameron Percy,0.04620000000000002,0.2,0.1538
 2025-05-31 15:31:23.782705,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 71.5,0.044399999999999995,0.4444,0.4
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Sebastian Soderberg,0.0399,0.0435,0.0036
 2025-05-31 15:31:23.492184,NCAA Softball - Women's College World Series Winner - Women's College World Series Winner,Tennessee,0.0391,0.0714,0.0323
-2025-05-31 12:55:45.635035,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.036900000000000044,0.7143,0.6774
-2025-05-31 12:55:45.960339,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.03639999999999999,0.6364,0.6
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Michael Wright,0.035300000000000005,0.0476,0.0123
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Ernie Els,0.03439999999999999,0.0667,0.0323
 2025-05-31 21:29:37.153256,Draft Position - Top 5 - To be Drafted in the Top 5,Derik Queen,0.034100000000000005,0.125,0.0909
+2025-06-01 02:39:09.788811,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.033399999999999985,0.1667,0.1333
 2025-05-31 18:40:03.601437,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.03180000000000005,0.8889,0.8571
 2025-05-31 15:31:23.492184,NCAA Softball - Women's College World Series Winner - Women's College World Series Winner,Oregon,0.030199999999999998,0.0625,0.0323
 2025-05-31 16:38:33.662194,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.028700000000000003,0.2105,0.1818
@@ -25,70 +20,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Indiana Fever,0.02310000000000001,0.1,0.0769
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Fred Couples,0.022200000000000004,0.0345,0.0123
 2025-05-31 20:31:55.741601,Conferences - MAC Championship  - MAC Championship Game Winner 2025 ,Buffalo,0.022199999999999998,0.1333,0.1111
-2025-05-31 13:38:18.604136,Round Match-Ups - 3rd Round Match-Up - J. Thomas v T. Fleetwood - 3rd Round Match-Up,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
-2025-05-31 13:38:18.487995,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Wyndham Clark,0.02169999999999994,0.5455,0.5238
-2025-05-31 13:38:18.617651,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v M. McNealy - 3rd Round Match-Up,Maverick McNealy,0.02079999999999993,0.5556,0.5348
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,North Carolina Tar Heels,0.02020000000000001,0.1111,0.0909
-2025-05-31 14:32:51.010431,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - H. English / J. Rose - 3rd Round 2-Balls,Harris English,0.01880000000000004,0.5744,0.5556
-2025-05-31 14:32:49.204210,National Championship - NCAA Football CFP Winner 2025-2026  - National Championship Game Winner ,Clemson,0.018099999999999998,0.0769,0.0588
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Arkansas Razorbacks,0.0174,0.2174,0.2
 2025-05-31 22:33:58.924913,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,0.016600000000000004,0.0833,0.0667
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Paul Stankowski,0.0165,0.0244,0.0079
 2025-05-31 18:40:02.940638,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Chicago Bears,Yes,0.015400000000000025,0.4,0.3846
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,LSU Tigers,0.015100000000000002,0.1818,0.1667
-2025-05-31 13:38:18.541606,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - A. Eckroat / L. Aberg - 3rd Round 2-Balls,Ludvig Aberg,0.014800000000000035,0.6226,0.6078
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Kevin Sutherland,0.0145,0.0244,0.0099
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Ken Tanigawa,0.0145,0.0244,0.0099
 2025-05-31 18:40:03.853000,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 71.5,0.013799999999999923,0.6364,0.6226
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Mark Wilson,0.012899999999999998,0.0179,0.005
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Mark Walker,0.012899999999999998,0.0179,0.005
-2025-05-31 14:32:49.204210,National Championship - NCAA Football CFP Winner 2025-2026  - National Championship Game Winner ,Penn State,0.012299999999999991,0.1176,0.1053
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Miami Hurricanes,0.011699999999999999,0.0196,0.0079
 2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 73.5,0.010099999999999998,0.5556,0.5455
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Minnesota Lynx,-0.011300000000000004,0.2326,0.2439
 2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 73.5,-0.011600000000000055,0.5122,0.5238
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Freddie Jacobson,-0.012700000000000003,0.0196,0.0323
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Ole Miss Rebels,-0.012700000000000003,0.0196,0.0323
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Florida,-0.012700000000000003,0.0196,0.0323
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.012700000000000003,0.0196,0.0323
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,-0.012899999999999995,0.1538,0.1667
 2025-05-31 18:40:01.616532,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Lamine Yamal,-0.013800000000000034,0.3636,0.3774
-2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Kristoffer Reitan,-0.014599999999999998,0.0033,0.0179
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.014599999999999998,0.005,0.0196
+2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Kristoffer Reitan,-0.014599999999999998,0.0033,0.0179
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Mark Walker,-0.015099999999999999,0.0028,0.0179
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Fred Couples,-0.015499999999999998,0.0123,0.0278
 2025-05-31 18:40:02.940638,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Chicago Bears,No,-0.015800000000000036,0.6667,0.6825
 2025-05-31 15:31:23.492184,NCAA Softball - Women's College World Series Winner - Women's College World Series Winner,Texas,-0.016699999999999993,0.25,0.2667
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Texas Longhorns,-0.016700000000000007,0.0833,0.1
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Alex Cejka,-0.0168,0.0217,0.0385
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Doug Barron,-0.017800000000000003,0.0066,0.0244
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Soren Kjeldsen,-0.018099999999999998,0.0588,0.0769
 2025-05-31 18:40:03.853000,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 71.5,-0.018900000000000028,0.4255,0.4444
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Michael Wright,-0.019800000000000005,0.0278,0.0476
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Brandon Stone,-0.019899999999999998,0.0079,0.0278
 2025-05-31 20:31:55.741601,Conferences - MAC Championship  - MAC Championship Game Winner 2025 ,Toledo,-0.021999999999999964,0.2857,0.3077
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Brandon Wu,-0.022400000000000003,0.002,0.0244
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Darren Clarke,-0.022400000000000003,0.0099,0.0323
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Richard Green,-0.022400000000000003,0.0099,0.0323
-2025-05-31 14:32:51.010431,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - H. English / J. Rose - 3rd Round 2-Balls,Justin Rose,-0.022699999999999998,0.4651,0.4878
-2025-05-31 12:55:45.635035,MVP - NL MVP 2025 - National League MVP,Fernando Tatis Jr. (SD),-0.023799999999999988,0.1429,0.1667
-2025-05-31 13:38:18.487995,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - C. Young / W. Clark - 3rd Round 2-Balls,Cameron Young,-0.023800000000000043,0.5,0.5238
-2025-05-31 13:38:18.604136,Round Match-Ups - 3rd Round Match-Up - J. Thomas v T. Fleetwood - 3rd Round Match-Up,Justin Thomas,-0.023800000000000043,0.5,0.5238
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Oregon Ducks,-0.023899999999999998,0.0196,0.0435
-2025-05-31 13:38:18.617651,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v M. McNealy - 3rd Round Match-Up,Austin Eckroat,-0.024399999999999977,0.4878,0.5122
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,YE Yang,-0.024800000000000003,0.0278,0.0526
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,YE Yang,-0.0253,0.0025,0.0278
-2025-05-31 13:38:18.234995,College World Series Winner - College World Series Winner - College World Series 2025 Winner,Vanderbilt Commodores,-0.027999999999999997,0.1053,0.1333
 2025-05-31 18:40:03.601437,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.032900000000000006,0.0385,0.0714
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Thomas Bjorn,-0.034100000000000005,0.0909,0.125
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Soren Kjeldsen,-0.0344,0.0244,0.0588
-2025-05-31 12:55:45.960339,The Memorial Tournament - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / J. Thomas - 3rd Round 2-Balls,Matt Fitzpatrick,-0.03620000000000001,0.4082,0.4444
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Jayden Schaper,-0.0384,0.0385,0.0769
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Retief Goosen,-0.0392,0.0196,0.0588
 2025-05-31 15:31:23.782705,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 71.5,-0.04409999999999992,0.6226,0.6667
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Bernhard Langer,-0.06699999999999999,0.0099,0.0769
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Ernie Els,-0.07880000000000001,0.0323,0.1111
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Daniel Hillier,-0.08,0.0033,0.0833
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Angel Cabrera,-0.08689999999999999,0.004,0.0909
-2025-05-31 12:55:46.135588,Principal Charity Classic - Principal Charity Classic - Winner,Padraig Harrington,-0.1306,0.0123,0.1429
 2025-05-31 22:33:58.920238,A1 - Greece A1 2024/25 - Outright,Olympiacos,-0.18780000000000002,0.2667,0.4545

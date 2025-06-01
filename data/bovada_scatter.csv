@@ -12,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-01 02:39:09.788811,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.033399999999999985,0.1667,0.1333
 2025-06-01 04:07:50.714353,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.033300000000000024,0.2,0.1667
 2025-05-31 18:40:03.601437,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.03180000000000005,0.8889,0.8571
-2025-05-31 16:38:33.662194,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.028700000000000003,0.2105,0.1818
 2025-05-31 18:40:01.616532,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Ousmane Dembele,0.027700000000000002,0.4444,0.4167
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Callum Tarren,0.0245,0.0833,0.0588
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Indiana Fever,0.02310000000000001,0.1,0.0769
@@ -21,14 +20,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-05-31 22:33:58.924913,ABA League - ABA League 2024/25 - Outright,Dubai Basketball Club,0.016600000000000004,0.0833,0.0667
 2025-05-31 18:40:02.940638,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Chicago Bears,Yes,0.015400000000000025,0.4,0.3846
 2025-05-31 18:40:03.853000,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 71.5,0.013799999999999923,0.6364,0.6226
-2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 73.5,0.010099999999999998,0.5556,0.5455
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Minnesota Lynx,-0.011300000000000004,0.2326,0.2439
-2025-05-31 16:38:35.767316,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 73.5,-0.011600000000000055,0.5122,0.5238
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Freddie Jacobson,-0.012700000000000003,0.0196,0.0323
 2025-05-31 21:29:37.047856,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,-0.012899999999999995,0.1538,0.1667
 2025-05-31 18:40:01.616532,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Lamine Yamal,-0.013800000000000034,0.3636,0.3774
-2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.014599999999999998,0.005,0.0196
 2025-05-31 22:34:00.879651,Austrian Open - Austrian Open - Winner,Kristoffer Reitan,-0.014599999999999998,0.0033,0.0179
+2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Vijay Singh,-0.014599999999999998,0.005,0.0196
 2025-05-31 23:30:45.321856,Principal Charity Classic - Principal Charity Classic - Winner,Mark Walker,-0.015099999999999999,0.0028,0.0179
 2025-05-31 18:40:02.940638,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Chicago Bears,No,-0.015800000000000036,0.6667,0.6825
 2025-05-31 18:40:03.853000,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 71.5,-0.018900000000000028,0.4255,0.4444

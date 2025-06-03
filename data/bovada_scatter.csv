@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-02 18:44:56.237424,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.04460000000000003,0.4082,0.3636
 2025-06-02 21:33:41.305830,Boxing Lines - Junto Nakatani vs Ryosuke Nishida - To Win the Bout,Junto Nakatani,0.044399999999999995,0.9333,0.8889
 2025-06-02 21:33:39.399891,Serie A - Italy Serie A 2024/25 - Outright,Brescia,0.04040000000000002,0.2222,0.1818
+2025-06-03 04:43:11.891394,Boxing Lines - Fabio Wardley vs Justis Huni - To Win the Bout,Justis Huni,0.03839999999999999,0.3509,0.3125
 2025-06-02 21:33:39.778850,CFL Regular Season Wins - Regular Season Wins 2025 - Winnipeg Blue Bombers Reg Season Wins,Over 10.5,0.035999999999999976,0.5122,0.4762
 2025-06-02 21:33:39.497833,Draft Position - Top 5 - To be Drafted in the Top 5,Khaman Maluach,0.03570000000000001,0.2857,0.25
 2025-06-02 21:33:39.399891,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,0.0348,0.4348,0.4
@@ -22,18 +23,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-02 21:33:39.769044,CFL Regular Season Wins - Regular Season Wins 2025 - Ottawa Redblacks Reg Season Wins,Under 10.5,0.026499999999999968,0.5917,0.5652
 2025-06-02 21:33:39.497833,Draft Position - Top 5 - To be Drafted in the Top 5,Kon Knueppel,0.025499999999999967,0.4255,0.4
 2025-06-02 21:33:39.772293,CFL Regular Season Wins - Regular Season Wins 2025 - Saskatchewn Roughriders Reg Season Wins,Over 10.5,0.023800000000000043,0.5238,0.5
-2025-06-02 23:33:12.004085,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 16:44:32.633271,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 17:34:17.326485,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 19:27:19.841442,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 20:34:42.221582,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 22:35:30.464059,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
+2025-06-02 23:33:12.004085,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
 2025-06-02 21:33:41.132341,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02360000000000001,0.4082,0.3846
-2025-06-02 20:34:42.218292,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
-2025-06-02 21:33:41.129035,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
-2025-06-02 16:44:32.629740,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
-2025-06-02 17:34:17.323181,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
 2025-06-02 18:44:56.247425,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
+2025-06-02 20:34:42.218292,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
+2025-06-02 17:34:17.323181,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
+2025-06-02 16:44:32.629740,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
+2025-06-02 21:33:41.129035,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
 2025-06-02 22:35:30.460700,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
 2025-06-02 23:33:12.000686,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,0.02100000000000002,0.3846,0.3636
 2025-06-02 19:27:19.287644,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.020299999999999985,0.6429,0.6226
@@ -50,28 +51,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-02 21:33:39.481404,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Khaman Maluach,0.014099999999999994,0.0667,0.0526
 2025-06-02 19:27:19.998622,Boxing Lines - Pierce O'Leary vs Liam Dillon - To Win the Bout,Liam Dillon,0.013899999999999996,0.125,0.1111
 2025-06-03 02:20:50.946335,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Jose Flaco Lopez,0.013899999999999996,0.125,0.1111
+2025-06-03 04:43:11.927368,Boxing Lines - Tenshin Nasukawa vs Victor Santillan - To Win the Bout,Victor Santillan,0.012899999999999995,0.1667,0.1538
 2025-06-02 16:44:31.130272,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,0.011700000000000016,0.2222,0.2105
+2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Florida,0.011199999999999995,0.0588,0.0476
 2025-06-03 02:20:50.950198,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Peñarol,0.011199999999999995,0.0435,0.0323
 2025-06-02 23:33:12.223756,RBC Canadian Open - RBC Canadian Open - Winner,Corey Conners,0.011199999999999995,0.0588,0.0476
-2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Florida,0.011199999999999995,0.0588,0.0476
-2025-06-03 02:20:53.079983,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,0.010899999999999993,0.1538,0.1429
 2025-06-02 20:34:42.387458,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Edwin De Los Santos,0.010899999999999993,0.1538,0.1429
+2025-06-03 02:20:53.079983,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,0.010899999999999993,0.1538,0.1429
 2025-06-02 21:33:39.775591,CFL Regular Season Wins - Regular Season Wins 2025 - Toronto Argonauts Reg Season Wins,Under 10.5,0.010099999999999998,0.4545,0.4444
 2025-06-03 02:20:50.946335,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.0102,0.0667,0.0769
 2025-06-03 02:20:51.139524,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.010399999999999993,0.2222,0.2326
 2025-06-02 19:27:18.624797,Minnesota Vikings - Minnesota Vikings Regular Season Wins - Vikings Regular Season Wins,Under 8.5,-0.010599999999999998,0.4545,0.4651
 2025-06-02 21:33:39.497833,Draft Position - Top 5 - To be Drafted in the Top 5,Jeremiah Fears,-0.010699999999999987,0.3226,0.3333
 2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Alabama,-0.010700000000000001,0.0278,0.0385
+2025-06-03 04:43:11.919418,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Edwin De Los Santos,-0.010899999999999993,0.1429,0.1538
 2025-06-02 21:33:39.481404,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,-0.010899999999999993,0.1429,0.1538
 2025-06-02 21:33:39.481404,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Kon Knueppel,-0.011099999999999999,0.1,0.1111
 2025-06-02 21:33:39.752686,CFL Regular Season Wins - Regular Season Wins 2025 - BC Lions Reg Season Wins,Under 9.5,-0.011099999999999999,0.4651,0.4762
 2025-06-02 16:44:32.626301,MLB Series Prices - MLB Series Prices June 2 to June 5 - 3 Game Series,Miami Marlins,-0.011299999999999977,0.7561,0.7674
 2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Tennessee,-0.012700000000000003,0.0196,0.0323
 2025-06-02 21:33:39.497833,Draft Position - Top 5 - To be Drafted in the Top 5,Derik Queen,-0.013899999999999996,0.1111,0.125
-2025-06-02 22:35:30.556935,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),-0.013999999999999999,0.0769,0.0909
 2025-06-03 02:20:50.946335,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Maher Carrizo,-0.013999999999999999,0.0769,0.0909
-2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Auburn,-0.014100000000000001,0.0385,0.0526
+2025-06-02 22:35:30.556935,MVP - NL MVP 2025 - National League MVP,Corbin Carroll (ARI),-0.013999999999999999,0.0769,0.0909
 2025-06-02 19:27:19.998622,Boxing Lines - Pierce O'Leary vs Liam Dillon - To Win the Bout,Pierce O'Leary,-0.014100000000000001,0.9333,0.9474
+2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Auburn,-0.014100000000000001,0.0385,0.0526
 2025-06-02 16:44:31.130272,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.014800000000000008,0.1852,0.2
 2025-06-03 02:20:50.946335,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Kevin Viveros,-0.015100000000000002,0.1667,0.1818
 2025-06-02 16:44:31.130272,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,-0.015400000000000025,0.2703,0.2857
@@ -85,26 +88,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-02 20:34:42.395390,Boxing Lines - Junto Nakatani vs Ryosuke Nishida - To Win the Bout,Junto Nakatani,-0.020199999999999996,0.8889,0.9091
 2025-06-03 02:20:50.950198,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,-0.02020000000000001,0.0909,0.1111
 2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Arkansas,-0.0203,0.0323,0.0526
+2025-06-02 23:33:12.010915,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
+2025-06-02 22:35:30.470815,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
 2025-06-02 20:34:42.228208,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
-2025-06-02 17:34:17.333184,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
-2025-06-02 18:44:56.244096,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
 2025-06-02 21:33:41.138975,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
 2025-06-02 19:27:19.848400,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
-2025-06-02 22:35:30.470815,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
-2025-06-02 23:33:12.010915,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
 2025-06-02 16:44:32.640203,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
+2025-06-02 18:44:56.244096,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
+2025-06-02 17:34:17.333184,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02100000000000002,0.3636,0.3846
 2025-06-03 02:20:50.946335,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,-0.022199999999999998,0.2,0.2222
-2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Purdue,-0.02310000000000001,0.0769,0.1
 2025-06-03 02:20:50.950198,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Racing Club,-0.02310000000000001,0.0769,0.1
+2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Purdue,-0.02310000000000001,0.0769,0.1
 2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,BYU,-0.0232,0.0435,0.0667
-2025-06-02 16:44:32.636751,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
+2025-06-02 19:27:19.844950,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
+2025-06-02 22:35:30.467367,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-06-02 23:33:12.007433,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-06-02 17:34:17.329824,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
-2025-06-02 22:35:30.467367,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
-2025-06-02 21:33:41.135665,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-06-02 18:44:56.240764,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
+2025-06-02 21:33:41.135665,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
+2025-06-02 16:44:32.636751,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-06-02 20:34:42.224884,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
-2025-06-02 19:27:19.844950,MLB Series Prices - MLB Series Prices June 2 to June 5 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-06-02 21:33:39.769044,CFL Regular Season Wins - Regular Season Wins 2025 - Ottawa Redblacks Reg Season Wins,Over 10.5,-0.023799999999999988,0.4762,0.5
 2025-06-02 21:33:41.070422,CFL Player Futures - CFL Most Outstanding Player 2025 - Most Outstanding Player,Zach Collaros,-0.0242,0.0667,0.0909
 2025-06-03 02:20:50.950198,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,São Paulo,-0.0267,0.0909,0.1176
@@ -116,6 +119,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-03 02:20:50.950198,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Internacional,-0.033299999999999996,0.1,0.1333
 2025-06-02 21:33:39.409886,Men's Basketball Tournament - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Duke,-0.03420000000000001,0.0769,0.1111
 2025-06-02 21:33:39.481404,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,VJ Edgecombe,-0.0348,0.4,0.4348
+2025-06-03 04:43:11.891394,Boxing Lines - Fabio Wardley vs Justis Huni - To Win the Bout,Fabio Wardley,-0.035699999999999954,0.7143,0.75
 2025-06-02 21:33:39.778850,CFL Regular Season Wins - Regular Season Wins 2025 - Winnipeg Blue Bombers Reg Season Wins,Under 10.5,-0.03610000000000002,0.5556,0.5917
 2025-06-02 21:33:39.241719,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Lautaro Martinez,-0.0384,0.0385,0.0769
 2025-06-02 21:33:41.070422,CFL Player Futures - CFL Most Outstanding Player 2025 - Most Outstanding Player,Chad Kelly,-0.03889999999999999,0.1429,0.1818

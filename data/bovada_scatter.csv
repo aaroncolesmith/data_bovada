@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-05 11:29:45.469177,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - T. Detry / K. Mitchell / BH An - 1st Round 3 Ball ,Keith Mitchell,0.0348,0.4348,0.4
 2025-06-05 11:29:45.478044,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - H. Hall / T. Moore / K. Kitayama - 1st Round 3 Ball ,Harry Hall,0.03210000000000002,0.4167,0.3846
 2025-06-05 13:46:58.252941,Round Match-Ups - 1st Round Match-Ups - J. Rose v R. Fox - Requests,Ryan Fox,0.030399999999999983,0.5652,0.5348
+2025-06-05 20:30:40.049997,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Pittsburg Steelers,Yes,0.029000000000000026,0.4545,0.4255
 2025-06-05 11:29:45.529875,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - K. Kisner / E. Cole / D. Lipsky - 1st Round 3 Ball ,Eric Cole,0.028900000000000037,0.5744,0.5455
 2025-06-05 16:41:55.118588,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Edwin De Los Santos,0.028799999999999992,0.1538,0.125
 2025-06-05 13:01:05.253797,Bundesliga - Germany Bundesliga 2024/25 - Outright,Bayern Munich,0.027800000000000047,0.7778,0.75
@@ -24,14 +25,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-05 13:46:58.230510,Round Match-Ups - 1st Round Match-Ups - M. Wallace vs W. Clark - 1st Round Match-Ups,Wyndham Clark,0.02169999999999994,0.5455,0.5238
 2025-06-05 10:41:35.961686,Scores - 1st Round Score - Luke Clanton - 1st Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
 2025-06-05 09:34:46.348193,Round Match-Ups - 1st Round Match-Ups - R. McIlroy vs T. Pendrith - 1st Round Match-Ups,Rory McIlroy,0.02100000000000002,0.6364,0.6154
-2025-06-05 13:01:05.263154,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,0.01880000000000004,0.5744,0.5556
 2025-06-05 17:29:01.031163,Conferences - Mountain West Conference Championship  - Mountain West Conference Championship Game Winner 2025 ,Boise State,0.01880000000000004,0.5744,0.5556
+2025-06-05 13:01:05.263154,Serie A - Italy Serie A 2024/25 - Outright,Olimpia Milano,0.01880000000000004,0.5744,0.5556
 2025-06-05 13:01:05.253797,Bundesliga - Germany Bundesliga 2024/25 - Outright,Baskets Wuerzburg,0.018200000000000004,0.0476,0.0294
 2025-06-05 16:41:55.215844,Boxing Lines - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,0.01760000000000006,0.9,0.8824
 2025-06-05 16:41:54.973394,Boxing Lines - Albert Ramirez vs Michael Alan Flannery - To Win the Bout,Michael Alan Flannery,0.016700000000000007,0.1,0.0833
 2025-06-05 09:34:43.685727,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",América de Cali,0.016699999999999993,0.2667,0.25
-2025-06-05 15:35:19.478715,Boxing Lines - Sam Gilley vs Gideon Onyenani - To Win the Bout,Gideon Onyenani,0.016600000000000004,0.0833,0.0667
 2025-06-05 09:34:45.903212,Boxing Lines - Albert Ramirez vs Michael Alan Flannery - To Win the Bout,Michael Alan Flannery,0.016600000000000004,0.0833,0.0667
+2025-06-05 15:35:19.478715,Boxing Lines - Sam Gilley vs Gideon Onyenani - To Win the Bout,Gideon Onyenani,0.016600000000000004,0.0833,0.0667
 2025-06-05 17:29:01.039304,Conferences - Sun Belt Conference Championship  - Sun Belt Conference Championship Game Winner 2025 ,James Madison,0.015899999999999997,0.2381,0.2222
 2025-06-05 17:29:01.035289,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Florida,0.015300000000000001,0.0476,0.0323
 2025-06-05 19:25:00.241717,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Keyshawn Davis,0.014000000000000012,0.9231,0.9091
@@ -44,31 +45,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-05 20:30:41.058469,Bare Knuckle Fighting Championship - William Albrecht vs Kyle McElroy - To Win the Bout,William Albrecht,0.010099999999999998,0.6875,0.6774
 2025-06-05 20:30:40.023150,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,Yes,0.010099999999999998,0.6875,0.6774
 2025-06-05 09:34:46.455632,Tournament Match-Ups - Tournament Match-Ups - K. Mitchell v L. Clanton - Requests,Keith Mitchell,-0.010099999999999998,0.5455,0.5556
-2025-06-05 08:42:09.608703,Boxing Lines - Euri Cedeno vs Abel Mina - To Win the Bout,Abel Mina,-0.0102,0.0667,0.0769
 2025-06-05 14:37:12.149665,Bare Knuckle Fighting Championship - Jenny Clausius vs Crystal Van Wyk - To Win the Bout,Crystal Van Wyk,-0.010599999999999998,0.4545,0.4651
 2025-06-05 17:29:01.039304,Conferences - Sun Belt Conference Championship  - Sun Belt Conference Championship Game Winner 2025 ,Arkansas State,-0.010600000000000005,0.037,0.0476
 2025-06-05 09:34:46.309107,Round Match-Ups - 1st Round Match-Ups - J. Rose v R. Fox - Requests,Ryan Fox,-0.010699999999999932,0.5348,0.5455
-2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Jared Greenberg,-0.011099999999999999,0.1,0.1111
-2025-06-05 08:42:09.664053,Boxing Lines - Conor Wallace vs Dylan Colin - To Win the Bout,Dylan Colin,-0.011099999999999999,0.1,0.1111
+2025-06-05 21:31:06.115206,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
 2025-06-05 16:41:54.968952,Boxing Lines - Mehmet Nadir Unal vs Jan Czerklewicz - To Win the Bout,Jan Czerklewicz,-0.011099999999999999,0.1,0.1111
+2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Jared Greenberg,-0.011099999999999999,0.1,0.1111
 2025-06-05 13:01:05.253797,Bundesliga - Germany Bundesliga 2024/25 - Outright,Heidelberg,-0.011199999999999995,0.0323,0.0435
 2025-06-05 11:29:45.469177,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - T. Detry / K. Mitchell / BH An - 1st Round 3 Ball ,Byeong Hun An,-0.01150000000000001,0.3333,0.3448
 2025-06-05 09:34:46.365282,Round Match-Ups - 1st Round Match-Ups - P. Rodgers v J. Dahmen - 1st Round Match-Ups,Joel Dahmen,-0.0116,0.4762,0.4878
 2025-06-05 09:34:46.309107,Round Match-Ups - 1st Round Match-Ups - J. Rose v R. Fox - Requests,Justin Rose,-0.011600000000000055,0.5122,0.5238
 2025-06-05 17:29:01.039304,Conferences - Sun Belt Conference Championship  - Sun Belt Conference Championship Game Winner 2025 ,Troy,-0.012600000000000007,0.0588,0.0714
-2025-06-05 11:29:45.606352,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - K. Roy / J. Svensson / R. Lee - 1st Round 3 Ball ,Kevin Roy,-0.012699999999999989,0.3509,0.3636
 2025-06-05 11:29:45.478044,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - H. Hall / T. Moore / K. Kitayama - 1st Round 3 Ball ,Kurt Kitayama,-0.012699999999999989,0.3509,0.3636
-2025-06-05 08:42:09.604206,Boxing Lines - Delante Johnson vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,-0.012899999999999995,0.1538,0.1667
+2025-06-05 11:29:45.606352,RBC Canadian Open - 2/3 Balls - 1st Round 3 Ball - K. Roy / J. Svensson / R. Lee - 1st Round 3 Ball ,Kevin Roy,-0.012699999999999989,0.3509,0.3636
 2025-06-05 16:41:54.973394,Boxing Lines - Albert Ramirez vs Michael Alan Flannery - To Win the Bout,Albert Ramirez,-0.0131,0.9524,0.9655
 2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Carmelo Anthony,-0.013999999999999999,0.0769,0.0909
 2025-06-05 20:30:40.023150,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,No,-0.01479999999999998,0.3774,0.3922
-2025-06-05 09:34:45.903212,Boxing Lines - Albert Ramirez vs Michael Alan Flannery - To Win the Bout,Albert Ramirez,-0.014900000000000024,0.9655,0.9804
 2025-06-05 15:35:19.478715,Boxing Lines - Sam Gilley vs Gideon Onyenani - To Win the Bout,Sam Gilley,-0.014900000000000024,0.9655,0.9804
+2025-06-05 09:34:45.903212,Boxing Lines - Albert Ramirez vs Michael Alan Flannery - To Win the Bout,Albert Ramirez,-0.014900000000000024,0.9655,0.9804
 2025-06-05 16:41:55.215844,Boxing Lines - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Julio Cesar Chavez Jr,-0.015100000000000002,0.1667,0.1818
 2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Mark Jones,-0.015700000000000006,0.1176,0.1333
 2025-06-05 17:29:01.039304,Conferences - Sun Belt Conference Championship  - Sun Belt Conference Championship Game Winner 2025 ,South Alabama,-0.015700000000000006,0.1176,0.1333
-2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Rachel Nichols,-0.016600000000000004,0.0667,0.0833
 2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Maria Taylor,-0.016600000000000004,0.0667,0.0833
+2025-06-05 14:37:09.838613,NBA Specials - Who will Replace Doris Burke as ESPN basketball analyst - Proposition,Rachel Nichols,-0.016600000000000004,0.0667,0.0833
 2025-06-05 09:34:43.623834,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,-0.016699999999999993,0.4,0.4167
 2025-06-05 09:34:43.685727,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Once Caldas,-0.016700000000000007,0.0833,0.1
 2025-06-05 09:34:46.348193,Round Match-Ups - 1st Round Match-Ups - R. McIlroy vs T. Pendrith - 1st Round Match-Ups,Taylor Pendrith,-0.017299999999999982,0.4082,0.4255

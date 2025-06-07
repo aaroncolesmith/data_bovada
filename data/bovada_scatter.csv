@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 03:52:39.343016,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Kelvin Davis,0.029899999999999927,0.7222,0.6923
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Rio Takeda,0.02840000000000001,0.1053,0.0769
 2025-06-07 10:36:33.442421,Boxing Lines - Mariah Turner vs Jaala Tomat - To Win the Bout,Mariah Turner,0.026800000000000046,0.7143,0.6875
-2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Els/Herron,0.026499999999999996,0.0588,0.0323
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Bransdon/Percy,0.026499999999999996,0.0588,0.0323
+2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Els/Herron,0.026499999999999996,0.0588,0.0323
 2025-06-07 07:29:16.557617,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,No,0.024800000000000016,0.1786,0.1538
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Wei Ling Hsu,0.024600000000000004,0.0345,0.0099
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Aline Krauter,0.022400000000000003,0.0323,0.0099
@@ -31,12 +31,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 05:34:04.995828,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 25½,0.01880000000000004,0.5744,0.5556
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Mao Saigo,0.018099999999999998,0.0769,0.0588
 2025-06-07 07:29:16.384260,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Indiana Fever,0.0179,0.1429,0.125
+2025-06-07 11:26:51.653647,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Over 68.5,0.017299999999999982,0.5917,0.5744
 2025-06-07 06:42:16.024273,NL East - NL East 2025 - NL East Winner,New York Mets,0.017299999999999982,0.5917,0.5744
+2025-06-07 11:26:51.462265,RBC Canadian Open - 2/3 Balls - 3rd Round 3 Ball - C. Phillips v R. Hisatsune - 3rd Round 3 Ball ,Ryo Hisatsune,0.016699999999999937,0.6,0.5833
 2025-06-06 23:31:36.555124,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Keyshawn Davis,0.016699999999999937,0.9167,0.9
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Saki Baba,0.0151,0.0217,0.0066
 2025-06-07 05:34:04.861270,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Dallas Wings,0.014099999999999998,0.0385,0.0244
-2025-06-07 10:36:33.434266,Boxing Lines - Austin Aokuso vs Ikenna Enyi - To Win the Bout,Ikenna Enyi,0.013899999999999996,0.125,0.1111
 2025-06-06 23:31:36.696291,BKFC 75: Mundell vs Sanchez - Bobby Henry vs Kasey Yates - To Win the Bout,Kasey Yates,0.013899999999999996,0.125,0.1111
+2025-06-07 10:36:33.434266,Boxing Lines - Austin Aokuso vs Ikenna Enyi - To Win the Bout,Ikenna Enyi,0.013899999999999996,0.125,0.1111
 2025-06-07 07:29:16.388218,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Minnesota Lynx vs New York Liberty,0.013800000000000034,0.3774,0.3636
 2025-06-07 02:18:12.174499,Boxing Lines - Franchon Crews vs Citlalli Ortiz - To Win the Bout,Franchon Crews,0.0131,0.9655,0.9524
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Jenny Bae,0.011699999999999999,0.0196,0.0079
@@ -51,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 06:42:16.024273,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.010099999999999998,0.4444,0.4545
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Nanna Koerstz Madsen,-0.0102,0.005,0.0152
 2025-06-06 23:31:36.664378,BKFC 75: Mundell vs Sanchez - David Mundell vs Donald Sanchez - To Win the Bout,Donald Sanchez,-0.010499999999999982,0.2,0.2105
+2025-06-07 11:26:51.653647,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Under 68.5,-0.0116,0.4762,0.4878
 2025-06-07 05:34:04.975264,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 10½,-0.011600000000000055,0.5122,0.5238
 2025-06-07 06:42:16.019419,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.011699999999999933,0.7778,0.7895
 2025-06-07 05:34:04.864350,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,-0.011899999999999966,0.339,0.3509
@@ -58,8 +61,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Frazar/Petrovic,-0.012100000000000001,0.0123,0.0244
 2025-06-07 05:34:04.995828,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 25½,-0.012199999999999989,0.5,0.5122
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Andrade/Durant,-0.012499999999999999,0.0071,0.0196
-2025-06-07 05:34:04.861270,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.012699999999999989,0.3509,0.3636
 2025-06-07 05:34:04.864350,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,-0.012699999999999989,0.3509,0.3636
+2025-06-07 05:34:04.861270,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.012699999999999989,0.3509,0.3636
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Maja Stark,-0.013,0.0066,0.0196
 2025-06-07 05:34:04.861270,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,-0.0131,0.1081,0.1212
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Hinako Shibuno,-0.0132,0.002,0.0152
@@ -80,6 +83,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 03:52:37.368348,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.018999999999999906,0.7143,0.7333
 2025-06-07 07:29:16.557617,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.020199999999999996,0.8889,0.9091
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Allan/Chalmers,-0.0203,0.0385,0.0588
+2025-06-07 11:26:51.462265,RBC Canadian Open - 2/3 Balls - 3rd Round 3 Ball - C. Phillips v R. Hisatsune - 3rd Round 3 Ball ,Chandler Phillips,-0.020699999999999996,0.4444,0.4651
 2025-06-07 03:52:37.368348,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.020799999999999985,0.3125,0.3333
 2025-06-07 07:29:16.530571,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.02169999999999994,0.5238,0.5455
 2025-06-07 07:29:16.513023,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 14½,-0.02169999999999994,0.5238,0.5455
@@ -102,6 +106,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 23:31:36.672359,BKFC 75: Mundell vs Sanchez - Felipe Chavez vs Brandon Honsvick - To Win the Bout,Brandon Honsvick,-0.035900000000000015,0.2381,0.274
 2025-06-07 07:29:16.388218,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Atlanta Dream vs Minnesota Lynx,-0.0384,0.0385,0.0769
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Karlsson/ONeal,-0.04190000000000001,0.0057,0.0476
+2025-06-07 11:26:51.758298,Futures - US Open 2025 - Winner,Rory McIlroy,-0.04240000000000001,0.0909,0.1333
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Kelly/Leonard,-0.04329999999999999,0.0476,0.0909
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Cink/Toms,-0.045,0.0217,0.0667
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Jin Young Ko,-0.058899999999999994,0.0244,0.0833

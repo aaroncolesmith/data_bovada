@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 14:32:58.681169,College Super Regional Winners - To Win Auburn Super Regional - To Win Auburn Super Regional - 2025,Auburn,0.1583,0.75,0.5917
 2025-06-07 14:32:58.667887,College Super Regional Winners - To Win Chapel Hill Super Regional - To Win Chapel Hill Super Regional - 2025,North Carolina,0.14529999999999998,0.9231,0.7778
 2025-06-07 10:36:33.706344,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 67.5,0.09820000000000001,0.5744,0.4762
-2025-06-07 06:42:16.110264,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),0.0857,0.2857,0.2
 2025-06-07 07:29:16.508628,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 9½,0.08079999999999998,0.6364,0.5556
 2025-06-07 07:29:16.499991,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Under 24½,0.08079999999999998,0.6364,0.5556
 2025-06-07 14:32:58.685562,College Super Regional Winners - To Win Fayetteville Super Regional - To Win Fayetteville Super Regional - 2025,Arkansas,0.05740000000000001,0.6226,0.5652
@@ -21,54 +20,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 14:32:58.971601,RBC Canadian Open - 2/3 Balls - 3rd Round 2 Ball - K. Yu v P. Malnati - 3rd Round 2 Ball ,Kevin Yu,0.022199999999999998,0.6774,0.6552
 2025-06-07 16:38:59.987134,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,0.022199999999999998,0.2222,0.2
 2025-06-07 07:29:16.530571,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 17½,0.02169999999999994,0.5455,0.5238
-2025-06-07 06:42:16.019419,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.021600000000000008,0.1754,0.1538
 2025-06-07 15:31:39.418086,Round Match-Ups - 3rd Round Match Up - R. Fox v T. Olesen - Request,Ryan Fox,0.01970000000000005,0.5652,0.5455
 2025-06-07 15:31:39.200519,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Nahir Albright,0.019500000000000017,0.3704,0.3509
-2025-06-07 14:32:58.608878,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.01880000000000004,0.5744,0.5556
 2025-06-07 14:32:58.967088,RBC Canadian Open - 2/3 Balls - 3rd Round 2 Ball - D. Skinns v T. Mullinax - 3rd Round 2 Ball ,Trey Mullinax,0.01880000000000004,0.5744,0.5556
+2025-06-07 14:32:58.608878,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.01880000000000004,0.5744,0.5556
 2025-06-07 07:29:16.384260,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Indiana Fever,0.0179,0.1429,0.125
-2025-06-07 06:42:16.024273,NL East - NL East 2025 - NL East Winner,New York Mets,0.017299999999999982,0.5917,0.5744
 2025-06-07 11:26:51.653647,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Over 68.5,0.017299999999999982,0.5917,0.5744
-2025-06-07 16:39:01.691496,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Patrick Korte,0.016700000000000007,0.1,0.0833
 2025-06-07 14:32:58.905804,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,0.016700000000000007,0.1,0.0833
+2025-06-07 16:39:01.691496,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Patrick Korte,0.016700000000000007,0.1,0.0833
+2025-06-07 19:26:08.377188,Boxing Lines - Pierce O'Leary vs Liam Dillon - To Win the Bout,Liam Dillon,0.016700000000000007,0.1,0.0833
 2025-06-07 11:26:51.462265,RBC Canadian Open - 2/3 Balls - 3rd Round 3 Ball - C. Phillips v R. Hisatsune - 3rd Round 3 Ball ,Ryo Hisatsune,0.016699999999999937,0.6,0.5833
 2025-06-07 12:55:58.533653,ACC - ACC Regular Season Wins - Clemson,Over 9.5,0.01539999999999997,0.6154,0.6
 2025-06-07 10:36:33.434266,Boxing Lines - Austin Aokuso vs Ikenna Enyi - To Win the Bout,Ikenna Enyi,0.013899999999999996,0.125,0.1111
 2025-06-07 07:29:16.388218,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Minnesota Lynx vs New York Liberty,0.013800000000000034,0.3774,0.3636
 2025-06-07 16:39:01.760764,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Kelvin Davis,0.013599999999999945,0.7059,0.6923
 2025-06-07 17:31:16.498555,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Nahir Albright,0.013300000000000034,0.3704,0.3571
-2025-06-07 13:37:02.069169,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Christian Mbilli,0.0131,0.9655,0.9524
-2025-06-07 13:37:01.890417,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Nelson Hysa,0.0131,0.9655,0.9524
 2025-06-07 18:40:27.139892,Boxing Lines - Pierce O'Leary vs Liam Dillon - To Win the Bout,Pierce O'Leary,0.0131,0.9655,0.9524
 2025-06-07 14:32:58.767012,Boxing Lines - Lewis Richardson vs Dmitri Protkunas - To Win the Bout,Dmitri Protkunas,0.0131,0.0476,0.0345
+2025-06-07 13:37:01.890417,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Nelson Hysa,0.0131,0.9655,0.9524
+2025-06-07 13:37:02.069169,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Christian Mbilli,0.0131,0.9655,0.9524
 2025-06-07 13:37:02.200206,Round Match-Ups - 3rd Round Match Up - C. Conners v L. Aberg - 3rd Round Match Up,Corey Conners,0.011600000000000055,0.5238,0.5122
 2025-06-07 13:37:02.060860,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,0.011499999999999955,0.6667,0.6552
-2025-06-07 13:37:02.031671,Boxing Lines - Tyler Blizzard vs Rocky Ogden - To Win the Bout,Rocky Ogden,0.011099999999999999,0.4762,0.4651
 2025-06-07 13:37:01.977275,Boxing Lines - Beatriz Ferreira vs Maria Ines Ferreyra - To Win the Bout,Maria Ines Ferreyra,0.011099999999999999,0.1111,0.1
+2025-06-07 13:37:02.031671,Boxing Lines - Tyler Blizzard vs Rocky Ogden - To Win the Bout,Rocky Ogden,0.011099999999999999,0.4762,0.4651
 2025-06-07 07:29:16.566307,To Make the Playoffs - Connecticut Sun - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.0102,0.0769,0.0667
 2025-06-07 16:39:01.703735,Boxing Lines - Mark Jeffers vs Sean Hemphill - To Win the Bout,Mark Jeffers,0.010199999999999987,0.9333,0.9231
-2025-06-07 14:32:58.876589,Boxing Lines - Ben Mahoney  vs Eddy Colmenares - To Win the Bout,Ben Mahoney,0.010099999999999998,0.6875,0.6774
 2025-06-07 17:31:16.634055,Scores - 3rd Round Score - A. Putnam - 3rd Round Score,Under 68.5,0.010099999999999998,0.4545,0.4444
-2025-06-07 06:42:16.024273,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.010099999999999998,0.4444,0.4545
+2025-06-07 14:32:58.876589,Boxing Lines - Ben Mahoney  vs Eddy Colmenares - To Win the Bout,Ben Mahoney,0.010099999999999998,0.6875,0.6774
 2025-06-07 13:37:02.040033,Boxing Lines - Ben Mahoney  vs Eddy Colmenares - To Win the Bout,Ben Mahoney,-0.010099999999999998,0.6774,0.6875
 2025-06-07 18:40:27.119687,Boxing Lines - Mark Jeffers vs Sean Hemphill - To Win the Bout,Mark Jeffers,-0.010199999999999987,0.9231,0.9333
 2025-06-07 12:55:58.533653,ACC - ACC Regular Season Wins - Clemson,Under 9.5,-0.010599999999999998,0.4545,0.4651
 2025-06-07 13:37:02.200206,Round Match-Ups - 3rd Round Match Up - C. Conners v L. Aberg - 3rd Round Match Up,Ludvig Aberg,-0.01100000000000001,0.5238,0.5348
-2025-06-07 14:32:58.820448,Boxing Lines - Beatriz Ferreira vs Maria Ines Ferreyra - To Win the Bout,Maria Ines Ferreyra,-0.011099999999999999,0.1,0.1111
 2025-06-07 17:31:16.638300,Scores - 3rd Round Score - Cameron Champ - 3rd Round Score,Over 69.5,-0.011099999999999999,0.4651,0.4762
+2025-06-07 14:32:58.820448,Boxing Lines - Beatriz Ferreira vs Maria Ines Ferreyra - To Win the Bout,Maria Ines Ferreyra,-0.011099999999999999,0.1,0.1111
 2025-06-07 14:32:58.897310,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,-0.011499999999999955,0.6552,0.6667
 2025-06-07 11:26:51.653647,Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Under 68.5,-0.0116,0.4762,0.4878
-2025-06-07 06:42:16.019419,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.011699999999999933,0.7778,0.7895
-2025-06-07 16:39:01.691496,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Nelson Hysa,-0.0131,0.9524,0.9655
 2025-06-07 14:32:58.905804,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Christian Mbilli,-0.0131,0.9524,0.9655
+2025-06-07 16:39:01.691496,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Nelson Hysa,-0.0131,0.9524,0.9655
 2025-06-07 16:39:01.760764,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Nahir Albright,-0.013300000000000034,0.3571,0.3704
 2025-06-07 17:31:16.498555,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Kelvin Davis,-0.013599999999999945,0.6923,0.7059
 2025-06-07 10:36:33.434266,Boxing Lines - Austin Aokuso vs Ikenna Enyi - To Win the Bout,Austin Aokuso,-0.014100000000000001,0.9333,0.9474
 2025-06-07 17:31:16.634055,Scores - 3rd Round Score - A. Putnam - 3rd Round Score,Over 68.5,-0.014800000000000035,0.6078,0.6226
 2025-06-07 12:55:59.604792,American Family Insurance Championship - American Family Insurance Championship - Winner,Bjorn/Clarke,-0.016699999999999993,0.25,0.2667
-2025-06-07 13:37:02.069169,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.016700000000000007,0.0833,0.1
-2025-06-07 13:37:01.890417,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Patrick Korte,-0.016700000000000007,0.0833,0.1
 2025-06-07 18:40:27.139892,Boxing Lines - Pierce O'Leary vs Liam Dillon - To Win the Bout,Liam Dillon,-0.016700000000000007,0.0833,0.1
+2025-06-07 13:37:01.890417,Boxing Lines - Nelson Hysa vs Patrick Korte - To Win the Bout,Patrick Korte,-0.016700000000000007,0.0833,0.1
+2025-06-07 13:37:02.069169,Boxing Lines - Christian Mbilli vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.016700000000000007,0.0833,0.1
 2025-06-07 15:31:37.237644,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Adrian Griffin,-0.0179,0.0099,0.0278
 2025-06-07 15:31:37.237644,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Mike D'Antoni,-0.0189,0.0196,0.0385
 2025-06-07 13:37:02.158262,RBC Canadian Open - 2/3 Balls - 3rd Round 2 Ball - T. Pendrith v C. Young - 3rd Round 2 Ball ,Taylor Pendrith,-0.01970000000000005,0.5455,0.5652
@@ -78,11 +74,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 07:29:16.513023,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 14½,-0.02169999999999994,0.5238,0.5455
 2025-06-07 07:29:16.530571,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.02169999999999994,0.5238,0.5455
 2025-06-07 15:31:39.200519,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Kelvin Davis,-0.02200000000000002,0.6923,0.7143
-2025-06-07 15:31:37.237644,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Becky Hammon (LVA),-0.022400000000000003,0.0099,0.0323
 2025-06-07 15:31:37.237644,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Jerry Stackhouse,-0.022400000000000003,0.0099,0.0323
+2025-06-07 15:31:37.237644,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Becky Hammon (LVA),-0.022400000000000003,0.0099,0.0323
 2025-06-07 14:32:58.967088,RBC Canadian Open - 2/3 Balls - 3rd Round 2 Ball - D. Skinns v T. Mullinax - 3rd Round 2 Ball ,David Skinns,-0.022699999999999998,0.4651,0.4878
-2025-06-07 12:55:59.537545,Scores - 3rd Round Score - Cameron Champ - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2025-06-07 12:55:59.554690,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
+2025-06-07 12:55:59.537545,Scores - 3rd Round Score - Cameron Champ - 3rd Round Score,Over 69.5,-0.023799999999999988,0.4762,0.5
 2025-06-07 15:31:39.418086,Round Match-Ups - 3rd Round Match Up - R. Fox v T. Olesen - Request,Thorbjorn Olesen,-0.023799999999999988,0.4762,0.5
 2025-06-07 07:29:16.384260,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,-0.026100000000000012,0.1739,0.2
 2025-06-07 10:36:33.442421,Boxing Lines - Mariah Turner vs Jaala Tomat - To Win the Bout,Jaala Tomat,-0.026500000000000024,0.3509,0.3774

@@ -25,8 +25,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 20:34:59.430523,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Minnesota Lynx vs New York Liberty,0.035699999999999954,0.3636,0.3279
 2025-06-06 20:34:59.418204,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.035699999999999954,0.3636,0.3279
 2025-06-06 23:31:36.672359,BKFC 75: Mundell vs Sanchez - Felipe Chavez vs Brandon Honsvick - To Win the Bout,Felipe Chavez,0.03539999999999999,0.8291,0.7937
-2025-06-06 20:34:59.482114,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Spurs,0.034100000000000005,0.125,0.0909
 2025-06-06 21:30:58.295333,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),0.034100000000000005,0.125,0.0909
+2025-06-06 20:34:59.482114,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Spurs,0.034100000000000005,0.125,0.0909
 2025-06-06 20:34:59.421497,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.03180000000000005,0.7143,0.6825
 2025-06-07 03:52:39.343016,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Kelvin Davis,0.029899999999999927,0.7222,0.6923
 2025-06-06 17:34:40.666466,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,0.029600000000000015,0.4,0.3704
@@ -35,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 16:42:50.969751,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Edwin Diaz (NYM),0.027600000000000013,0.2381,0.2105
 2025-06-06 20:34:59.421497,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,0.02750000000000008,0.6429,0.6154
 2025-06-06 20:35:01.817083,BKFC 75: Mundell vs Sanchez - Felipe Chavez vs Brandon Honsvick - To Win the Bout,Felipe Chavez,0.026900000000000035,0.8095,0.7826
-2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Bransdon/Percy,0.026499999999999996,0.0588,0.0323
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Els/Herron,0.026499999999999996,0.0588,0.0323
+2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Bransdon/Percy,0.026499999999999996,0.0588,0.0323
 2025-06-06 16:42:50.862736,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.025300000000000003,0.1429,0.1176
 2025-06-06 16:42:50.891394,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,0.024999999999999994,0.125,0.1
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Wei Ling Hsu,0.024600000000000004,0.0345,0.0099
@@ -45,12 +45,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 16:42:50.886579,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,0.023200000000000002,0.0476,0.0244
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Aline Krauter,0.022400000000000003,0.0323,0.0099
 2025-06-06 16:42:50.876921,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.022199999999999998,0.1333,0.1111
-2025-06-06 16:42:49.159795,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Jason Kidd,0.022199999999999998,0.1333,0.1111
 2025-06-07 02:18:12.258753,Boxing Lines - Fabio Wardley vs Justis Huni - To Win the Bout,Justis Huni,0.022199999999999998,0.3448,0.3226
+2025-06-06 16:42:49.159795,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Jason Kidd,0.022199999999999998,0.1333,0.1111
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Appleby/Wright,0.021799999999999996,0.0435,0.0217
 2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Pat Murphy (MIL),0.021099999999999994,0.0556,0.0345
 2025-06-06 20:34:59.418204,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,0.020799999999999985,0.3333,0.3125
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Ilhee Lee,0.0207,0.0217,0.001
+2025-06-07 04:38:29.957136,Boxing Lines - Mourad Aliev vs Labinot Xhoxhaj - To Win the Bout,Mourad Aliev,0.020500000000000074,0.8667,0.8462
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Oliver Lindell,0.0203,0.0588,0.0385
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Ashleigh Buhai,0.019099999999999995,0.0435,0.0244
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Richie Ramsay,0.019099999999999992,0.0667,0.0476
@@ -106,22 +107,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 19:27:49.612072,Boxing Lines - Mourad Aliev vs Labinot Xhoxhaj - To Win the Bout,Labinot Xhoxhaj,-0.0116,0.2353,0.2469
 2025-06-06 16:42:51.268621,BKFC 75: Mundell vs Sanchez - David Mundell vs Donald Sanchez - To Win the Bout,Donald Sanchez,-0.011700000000000016,0.2105,0.2222
 2025-06-06 16:42:50.886579,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.011899999999999994,0.0714,0.0833
-2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Rob Thomson (PHI),-0.0121,0.0435,0.0556
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Gregorio De Leo,-0.0121,0.002,0.0141
+2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Rob Thomson (PHI),-0.0121,0.0435,0.0556
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Frazar/Petrovic,-0.012100000000000001,0.0123,0.0244
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Andrade/Durant,-0.012499999999999999,0.0071,0.0196
 2025-06-06 16:42:50.980026,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Tony Gonsolin (LAD),-0.012700000000000003,0.0196,0.0323
-2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Wenyi Ding,-0.013,0.0066,0.0196
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Maja Stark,-0.013,0.0066,0.0196
+2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Wenyi Ding,-0.013,0.0066,0.0196
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Hinako Shibuno,-0.0132,0.002,0.0152
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Angel Hidalgo,-0.013699999999999999,0.0141,0.0278
 2025-06-07 03:52:37.363942,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.013899999999999996,0.1111,0.125
 2025-06-06 16:42:50.881720,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.013999999999999999,0.0769,0.0909
-2025-06-06 20:34:59.421497,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Washington Mystics,-0.013999999999999999,0.0769,0.0909
 2025-06-06 16:42:50.896215,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,San Diego Padres,-0.013999999999999999,0.0769,0.0909
-2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Stricker/Tiziani,-0.014099999999999994,0.0526,0.0667
-2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Joe Espada (HOU),-0.014099999999999994,0.0526,0.0667
+2025-06-06 20:34:59.421497,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Washington Mystics,-0.013999999999999999,0.0769,0.0909
 2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Bruce Bochy (TEX),-0.014099999999999994,0.0526,0.0667
+2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Joe Espada (HOU),-0.014099999999999994,0.0526,0.0667
+2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Stricker/Tiziani,-0.014099999999999994,0.0526,0.0667
 2025-06-06 23:31:36.696291,BKFC 75: Mundell vs Sanchez - Bobby Henry vs Kasey Yates - To Win the Bout,Bobby Henry,-0.014100000000000001,0.9333,0.9474
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Jimenez/Olazabal,-0.0145,0.0099,0.0244
 2025-06-06 19:27:49.668145,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Nahir Albright,-0.01479999999999998,0.3774,0.3922
@@ -133,8 +134,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Minami Katsu,-0.015899999999999997,0.002,0.0179
 2025-06-07 03:52:37.363942,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.016600000000000004,0.0667,0.0833
 2025-06-06 18:44:25.302172,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Keyshawn Davis,-0.016699999999999937,0.9,0.9167
-2025-06-06 16:42:50.964682,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Jhoan Duran (MIN),-0.016700000000000007,0.0833,0.1
 2025-06-07 02:18:12.174499,Boxing Lines - Franchon Crews vs Citlalli Ortiz - To Win the Bout,Citlalli Ortiz,-0.016700000000000007,0.0833,0.1
+2025-06-06 16:42:50.964682,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Jhoan Duran (MIN),-0.016700000000000007,0.0833,0.1
 2025-06-06 20:34:59.436056,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.016700000000000048,0.7333,0.75
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Lucy Li,-0.0168,0.0028,0.0196
 2025-06-06 16:42:50.857936,World Series Winner - World Series 2025 - Winner - World Series Winner,Texas Rangers,-0.0168,0.0217,0.0385
@@ -146,33 +147,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Terry Francona (CIN),-0.018800000000000004,0.0526,0.0714
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Jin Hee Im,-0.0189,0.0196,0.0385
 2025-06-07 03:52:37.368348,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.018999999999999906,0.7143,0.7333
-2025-06-06 16:42:50.891394,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,-0.019099999999999992,0.0476,0.0667
 2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Matt Quatraro (KC),-0.019099999999999992,0.0476,0.0667
+2025-06-06 16:42:50.891394,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,-0.019099999999999992,0.0476,0.0667
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Jason Scrivener,-0.019899999999999998,0.0079,0.0278
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Sebastian Soderberg,-0.02,0.0017,0.0217
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Kristoffer Reitan,-0.02,0.0044,0.0244
-2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Alex Cora (BOS),-0.0203,0.0385,0.0588
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Allan/Chalmers,-0.0203,0.0385,0.0588
+2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Alex Cora (BOS),-0.0203,0.0385,0.0588
 2025-06-06 21:31:00.487736,KLM Open - KLM Open - Winner,Richard Mansell,-0.0204,0.004,0.0244
 2025-06-07 03:52:37.368348,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.020799999999999985,0.3125,0.3333
 2025-06-06 17:34:40.666466,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,-0.021600000000000008,0.1538,0.1754
 2025-06-06 20:35:01.817083,BKFC 75: Mundell vs Sanchez - Felipe Chavez vs Brandon Honsvick - To Win the Bout,Brandon Honsvick,-0.02200000000000002,0.2597,0.2817
+2025-06-07 04:38:29.957136,Boxing Lines - Mourad Aliev vs Labinot Xhoxhaj - To Win the Bout,Labinot Xhoxhaj,-0.022199999999999998,0.2,0.2222
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Miyu Yamashita,-0.0232,0.0435,0.0667
 2025-06-06 23:31:36.555124,Boxing Lines - Keyshawn Davis vs Edwin De Los Santos - To Win the Bout,Edwin De Los Santos,-0.023799999999999988,0.1429,0.1667
 2025-06-06 16:42:50.891394,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,-0.024,0.0385,0.0625
 2025-06-06 16:42:50.959583,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.024299999999999995,0.0526,0.0769
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Ina Yoon,-0.0244,0.0079,0.0323
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Cabrera/Gonzalez,-0.0245,0.0588,0.0833
-2025-06-06 19:27:47.643145,LKL - Lithuania LKL 2024/25 - Outright,Rytas,-0.024999999999999994,0.1,0.125
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Jeeno Thitikul,-0.024999999999999994,0.1,0.125
+2025-06-06 19:27:47.643145,LKL - Lithuania LKL 2024/25 - Outright,Rytas,-0.024999999999999994,0.1,0.125
 2025-06-07 03:52:39.343016,Boxing Lines - Kelvin Davis vs Nahir Albright - To Win the Bout,Nahir Albright,-0.02560000000000001,0.3448,0.3704
-2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Torey Lovullo (ARI),-0.026499999999999996,0.0323,0.0588
 2025-06-06 16:42:50.980026,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Corbin Carroll (ARI),-0.026499999999999996,0.0323,0.0588
+2025-06-06 16:42:50.990234,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Torey Lovullo (ARI),-0.026499999999999996,0.0323,0.0588
 2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Cejka/Kjeldsen,-0.0267,0.0909,0.1176
 2025-06-06 16:42:50.886579,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.0267,0.0909,0.1176
 2025-06-06 16:42:50.891394,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,-0.027999999999999997,0.1053,0.1333
-2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Goosen/Wilson,-0.028000000000000004,0.0196,0.0476
 2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Mark Kotsay (ATH),-0.028000000000000004,0.0196,0.0476
+2025-06-06 23:31:36.701678,American Family Insurance Championship - American Family Insurance Championship - Winner,Goosen/Wilson,-0.028000000000000004,0.0196,0.0476
 2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,John Schneider (TOR),-0.028199999999999996,0.0385,0.0667
 2025-06-06 16:42:50.985160,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Stephen Vogt (CLE),-0.028199999999999996,0.0385,0.0667
 2025-06-07 02:18:12.419094,ShopRite LPGA Classic - ShopRite LPGA Classic - Winner,Lauren Coughlin,-0.028800000000000003,0.0057,0.0345

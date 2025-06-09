@@ -5,26 +5,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 11:29:50.914310,Cut Lines - Shane Lowry - Make Cut / Miss Cut - Shane Lowry,Miss,0.10089999999999999,0.3509,0.25
 2025-06-09 11:29:48.982558,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.08730000000000004,0.5128,0.4255
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,0.08330000000000001,0.25,0.1667
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hae Ran Ryu,0.0828,0.0833,0.0005
 2025-06-09 11:29:50.901270,Cut Lines - Ludvig Aberg - Make Cut / Miss Cut - Ludvig Aberg,Miss,0.07719999999999999,0.3125,0.2353
 2025-06-09 06:47:34.291826,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.07469999999999999,0.6491,0.5744
 2025-06-09 11:29:49.006290,LKL - Lithuania LKL 2024/25 - Outright,Rytas,0.0739,0.1739,0.1
-2025-06-09 02:26:49.814735,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.07140000000000002,0.8333,0.7619
-2025-06-09 02:26:49.928433,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 10½,0.06929999999999997,0.5455,0.4762
 2025-06-09 11:29:50.884026,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,0.06670000000000001,0.2,0.1333
 2025-06-09 11:29:50.927289,Cut Lines - Tommy Fleetwood - Make Cut / Miss Cut - Tommy Fleetwood,Miss,0.06659999999999999,0.3333,0.2667
-2025-06-09 02:26:49.843990,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.0635,0.7778,0.7143
-2025-06-09 02:26:50.005069,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.05740000000000001,0.4348,0.3774
-2025-06-09 02:26:49.983993,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,No,0.0524,0.8857,0.8333
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,0.0647,0.0667,0.002
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Ayaka Furue,0.052199999999999996,0.0588,0.0066
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,0.04849999999999999,0.1818,0.1333
 2025-06-09 08:44:31.767054,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.04760000000000003,0.5238,0.4762
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Yealimi Noh,0.0459,0.0476,0.0017
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Minjee Lee,0.0416,0.0526,0.011
 2025-06-09 11:29:49.010926,ABA League - ABA League 2024/25 - Outright,Partizan,0.03980000000000006,0.7368,0.697
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,0.03889999999999999,0.1818,0.1429
 2025-06-09 13:45:37.885392,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),0.038899999999999935,0.8571,0.8182
 2025-06-09 13:45:38.004819,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,0.0353,0.2353,0.2
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hannah Green,0.031900000000000005,0.0323,0.0004
 2025-06-09 11:29:48.977909,Liga ACB - Spain Liga ACB 2024/25 - Outright,Unicaja Málaga,0.031799999999999995,0.1429,0.1111
 2025-06-09 13:01:27.511173,NL East - NL East 2025 - NL East Winner,New York Mets,0.031299999999999994,0.6923,0.661
 2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Chad Patrick,0.029799999999999993,0.125,0.0952
-2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Minnesota Lynx,0.029600000000000015,0.4,0.3704
 2025-06-09 11:29:48.987264,Super Ligi - Turkey BSL 2024/25 - Outright,Fenerbahce,0.029299999999999993,0.7436,0.7143
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.028700000000000003,0.2105,0.1818
 2025-06-09 13:45:37.867933,MVP - NL MVP 2025 - National League MVP,Pete Crow-Armstrong (CHC),0.0286,0.1,0.0714
@@ -32,39 +32,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.027999999999999997,0.1818,0.1538
 2025-06-09 11:29:48.977909,Liga ACB - Spain Liga ACB 2024/25 - Outright,Valencia,0.024800000000000016,0.2353,0.2105
 2025-06-09 13:01:27.506343,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.02460000000000001,0.2,0.1754
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Carlota Ciganda,0.024499999999999997,0.0278,0.0033
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Nasa Hataoka,0.0239,0.0244,0.0005
 2025-06-09 13:01:27.491838,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.023800000000000043,0.8333,0.8095
-2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),0.022199999999999998,0.1333,0.1111
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Sarah Schmelzel,0.022799999999999997,0.0278,0.005
+2025-06-09 14:37:48.822121,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Under 8.5,0.02169999999999994,0.5455,0.5238
 2025-06-09 11:29:48.982558,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,0.020699999999999996,0.4651,0.4444
 2025-06-09 10:42:35.913247,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Oklahoma City Thunder,0.02020000000000005,0.3279,0.3077
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Stephanie Kyriacou,0.0192,0.0196,0.0004
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,Hamilton Tiger-Cats,0.01830000000000001,0.0952,0.0769
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Brooke Henderson,0.0183,0.0196,0.0013
 2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Hyeseong Kim (LAD),0.018099999999999998,0.0769,0.0588
 2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Matt Shaw (CHC),0.0179,0.1429,0.125
 2025-06-09 13:45:37.896762,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),0.017299999999999982,0.303,0.2857
-2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Hailey Van Lith (CHI),0.0156,0.0196,0.004
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Celine Boutier,0.015499999999999998,0.0278,0.0123
 2025-06-09 13:01:27.526067,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.015100000000000002,0.1818,0.1667
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Auston Kim,0.015100000000000002,0.0164,0.0013
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Edmonton Elks,0.014899999999999997,0.0625,0.0476
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Megan Khang,0.0147,0.0152,0.0005
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Ottawa Redblacks,0.012300000000000005,0.1053,0.093
 2025-06-09 13:01:27.501539,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.0121,0.1333,0.1212
-2025-06-09 02:26:49.953697,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.011600000000000055,0.5238,0.5122
 2025-06-09 10:42:37.800700,Boxing Lines - Shabaz Masoud vs Peter McGrail - To Win the Bout,Shabaz Masoud,0.011499999999999955,0.6667,0.6552
 2025-06-09 08:44:31.761227,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,0.011099999999999999,0.1111,0.1
 2025-06-09 11:29:50.875378,Cut Lines - Scottie Scheffler - Make Cut / Miss Cut - Scottie Scheffler,Miss,0.011099999999999999,0.1111,0.1
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Atletico Madrid,0.011099999999999999,0.4762,0.4651
 2025-06-09 10:42:35.913247,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,New York Knicks,0.011099999999999999,0.1111,0.1
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lucy Li,0.011,0.0123,0.0013
 2025-06-09 13:01:27.521033,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Detroit Tigers,0.010800000000000004,0.2381,0.2273
+2025-06-09 14:37:48.816914,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Under 11.5,0.010699999999999932,0.5455,0.5348
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lindy Duncan,0.0102,0.0152,0.005
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Chelsea,0.010099999999999998,0.5556,0.5455
-2025-06-09 02:26:49.953697,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.010099999999999998,0.5455,0.5556
-2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Seattle Storm,-0.0102,0.0667,0.0769
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Porto,-0.010699999999999987,0.3226,0.3333
 2025-06-09 13:45:37.896762,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Will Vest (DET),-0.010700000000000001,0.0278,0.0385
-2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Los Angeles FC,-0.010899999999999993,0.1429,0.1538
-2025-06-09 13:45:37.939876,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Al Ahly Cairo,-0.010899999999999993,0.1429,0.1538
+2025-06-09 13:45:37.939876,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
+2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Los Angeles FC,-0.010899999999999993,0.1429,0.1538
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Salzburg,-0.010899999999999993,0.1429,0.1538
+2025-06-09 14:37:48.816914,Philadelphia Eagles - Philadelphia Eagles Regular Season Wins - Eagles Regular Season Wins,Over 11.5,-0.01100000000000001,0.5238,0.5348
 2025-06-09 13:01:27.491838,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.011099999999999999,0.0556,0.0667
-2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.011199999999999995,0.0323,0.0435
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Deportes Tolima,-0.011199999999999995,0.0476,0.0588
+2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.011199999999999995,0.0323,0.0435
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Botafogo RJ,-0.011700000000000016,0.2105,0.2222
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hinako Shibuno,-0.0118,0.0099,0.0217
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Madelene Sagstrom,-0.0118,0.0099,0.0217
 2025-06-09 13:45:37.873745,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),-0.012299999999999991,0.1053,0.1176
 2025-06-09 08:44:31.767054,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.012899999999999995,0.1538,0.1667
 2025-06-09 13:01:27.516023,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.0131,0.0345,0.0476
@@ -72,20 +82,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 13:45:37.908007,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Javier Baez (DET),-0.013300000000000034,0.3571,0.3704
 2025-06-09 13:45:37.873745,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.013899999999999996,0.1111,0.125
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Hamilton Tiger-Cats,-0.013999999999999999,0.0769,0.0909
-2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,-0.014099999999999994,0.0526,0.0667
 2025-06-09 04:01:27.296869,Draft Position - Top 5 - To be Drafted in the Top 5,Kasparas Jakucionis,-0.014100000000000001,0.0385,0.0526
 2025-06-09 04:01:27.296869,Draft Position - Top 5 - To be Drafted in the Top 5,Collin Murray-Boyles,-0.014100000000000001,0.0385,0.0526
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lauren Hartlage,-0.014400000000000001,0.002,0.0164
 2025-06-09 08:44:31.761227,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Sporting Kansas City,-0.0145,0.0099,0.0244
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Boca Juniors,-0.01469999999999999,0.2353,0.25
-2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Logan Henderson,-0.014899999999999997,0.0476,0.0625
 2025-06-09 13:45:37.867933,MVP - NL MVP 2025 - National League MVP,Kyle Tucker (CHC),-0.014899999999999997,0.0476,0.0625
-2025-06-09 02:26:49.843990,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.015300000000000001,0.0435,0.0588
+2025-06-09 13:45:37.891073,ROY - NL ROY 2025 - National League Rookie of the Year,Logan Henderson,-0.014899999999999997,0.0476,0.0625
 2025-06-09 13:45:37.879762,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Hunter Greene (CIN),-0.0159,0.0164,0.0323
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",América de Cali,-0.019000000000000017,0.2667,0.2857
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,-0.01999999999999999,0.1905,0.2105
-2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),-0.020199999999999996,0.8889,0.9091
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Junior FC,-0.0203,0.0385,0.0588
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jin Hee Im,-0.0203,0.0385,0.0588
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Alexa Pano,-0.0204,0.004,0.0244
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Palmeiras SP,-0.020799999999999985,0.3125,0.3333
+2025-06-09 14:37:48.822121,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Over 8.5,-0.02169999999999994,0.5238,0.5455
 2025-06-09 13:01:27.506343,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.021700000000000053,0.7561,0.7778
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,-0.021999999999999964,0.2857,0.3077
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.022199999999999998,0.2,0.2222
@@ -93,28 +104,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 13:45:37.908007,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),-0.023800000000000043,0.5,0.5238
 2025-06-09 08:44:31.767054,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,-0.024299999999999995,0.0526,0.0769
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Flamengo RJ,-0.02560000000000001,0.3077,0.3333
-2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Janelle Salaun (GSV),-0.0259,0.0196,0.0455
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.02779999999999999,0.2222,0.25
-2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.028199999999999996,0.0385,0.0667
 2025-06-09 13:45:38.004819,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,-0.033399999999999985,0.8333,0.8667
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,Edmonton Elks,-0.0347,0.0278,0.0625
-2025-06-09 02:26:49.843990,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.03570000000000001,0.25,0.2857
 2025-06-09 13:45:37.896762,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Mason Miller (ATH),-0.036199999999999996,0.1176,0.1538
 2025-06-09 13:01:25.250791,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Paris Saint-Germain,-0.036900000000000044,0.6774,0.7143
 2025-06-09 06:47:32.779284,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,-0.03889999999999999,0.1429,0.1818
 2025-06-09 13:01:27.511173,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.0398,0.3448,0.3846
 2025-06-09 11:29:49.006290,LKL - Lithuania LKL 2024/25 - Outright,Zalgiris,-0.04070000000000007,0.8824,0.9231
 2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.04620000000000002,0.1538,0.2
-2025-06-09 02:26:49.983993,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.05080000000000001,0.1818,0.2326
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lexi Thompson,-0.047099999999999996,0.0196,0.0667
 2025-06-09 11:29:49.010926,ABA League - ABA League 2024/25 - Outright,Budućnost,-0.05109999999999998,0.3125,0.3636
 2025-06-09 11:29:50.884026,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,-0.056400000000000006,0.8667,0.9231
-2025-06-09 02:26:50.005069,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.05789999999999995,0.6296,0.6875
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Anna Nordqvist,-0.05879999999999999,0.0079,0.0667
 2025-06-09 11:29:50.927289,Cut Lines - Tommy Fleetwood - Make Cut / Miss Cut - Tommy Fleetwood,Make,-0.06670000000000009,0.7333,0.8
-2025-06-09 02:26:49.928433,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 10½,-0.06789999999999996,0.5238,0.5917
-2025-06-09 02:26:49.814735,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.07120000000000001,0.2105,0.2817
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Na Rin An,-0.06899999999999999,0.0079,0.0769
 2025-06-09 11:29:50.901270,Cut Lines - Ludvig Aberg - Make Cut / Miss Cut - Ludvig Aberg,Make,-0.08330000000000004,0.75,0.8333
 2025-06-09 08:44:32.074926,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Atlético Nacional,-0.09720000000000001,0.125,0.2222
 2025-06-09 11:29:50.914310,Cut Lines - Shane Lowry - Make Cut / Miss Cut - Shane Lowry,Make,-0.10389999999999999,0.7143,0.8182
 2025-06-09 11:29:48.982558,LNB Pro A - France LNB Pro A 2024/25 - Winner,ASVEL Basket,-0.10910000000000002,0.0909,0.2
 2025-06-09 13:01:27.752114,Cut Lines - Jordan Spieth - Make Cut / Miss Cut - Jordan Spieth,Make,-0.11110000000000009,0.6667,0.7778
 2025-06-09 13:01:27.774230,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,-0.15150000000000008,0.6667,0.8182
+2025-06-09 14:37:50.318751,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Grace Kim,-0.5877,0.0123,0.6

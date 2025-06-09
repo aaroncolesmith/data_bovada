@@ -1,12 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-08 16:38:37.252155,College Super Regional Winners - To Win Los Angeles Super Regional - To Win Los Angeles Super Regional - 2025,UCLA,0.1543,0.8095,0.6552
 2025-06-08 16:38:37.247865,College Super Regional Winners - To Win Fayetteville Super Regional - To Win Fayetteville Super Regional - 2025,Arkansas,0.13349999999999995,0.7561,0.6226
-2025-06-08 15:34:19.647957,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.12119999999999997,0.6667,0.5455
 2025-06-08 16:38:37.256478,College Super Regional Winners - To Win Baton Rouge Super Regional - To Win Baton Rouge Super Regional - 2025,LSU,0.11180000000000001,0.9231,0.8113
 2025-06-08 19:26:26.816773,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Johnnie Bryant,0.08330000000000001,0.25,0.1667
 2025-06-09 02:26:49.814735,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.07140000000000002,0.8333,0.7619
 2025-06-08 16:38:37.012383,Sun Belt - Sun Belt Regular Season Wins - Arkansas State,Under 5.5,0.06989999999999996,0.6154,0.5455
-2025-06-08 15:34:19.657717,NL East - NL East 2025 - NL East Winner,New York Mets,0.06930000000000003,0.661,0.5917
 2025-06-09 02:26:49.928433,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 10½,0.06929999999999997,0.5455,0.4762
 2025-06-08 16:38:37.039042,Sun Belt - Sun Belt Regular Season Wins - South Alabama,Over 6.5,0.06789999999999996,0.5917,0.5238
 2025-06-08 20:33:02.478077,AAC - AAC Regular Season Wins - Tulane ,Under 8.5,0.06520000000000004,0.5652,0.5
@@ -15,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-08 17:31:01.018324,MAC - MAC Regular Season Wins - Ball State,Over 3.5,0.057699999999999974,0.5455,0.4878
 2025-06-09 02:26:50.005069,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.05740000000000001,0.4348,0.3774
 2025-06-09 02:26:49.983993,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,No,0.0524,0.8857,0.8333
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,0.04849999999999999,0.1818,0.1333
 2025-06-08 16:38:37.022412,Sun Belt - Sun Belt Regular Season Wins - Georgia State,Over 3.5,0.04760000000000003,0.5238,0.4762
 2025-06-08 17:30:59.159193,Club World Cup - Group A - To Finish Bottom,Inter Miami,0.047599999999999976,0.3333,0.2857
 2025-06-08 16:38:37.009054,Sun Belt - Sun Belt Regular Season Wins - Appalachian State,Over 5.5,0.04620000000000002,0.5917,0.5455
@@ -23,31 +22,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-08 16:38:36.808735,Conference USA - Conference USA Regular Season Wins - Jacksonville State,Under 6.5,0.040999999999999925,0.6154,0.5744
 2025-06-08 18:40:51.673696,MWC - MWC Regular Season Wins - Boise State,Over 9.5,0.03959999999999997,0.6825,0.6429
 2025-06-08 17:31:00.810552,ACC - ACC Regular Season Wins - Florida State,Under 7.5,0.03920000000000001,0.7059,0.6667
-2025-06-08 20:33:02.560989,Big 12 - Big 12 Regular Season Wins - BYU,Over 7.5,0.037900000000000045,0.6296,0.5917
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,0.03889999999999999,0.1818,0.1429
 2025-06-08 16:38:37.042341,Sun Belt - Sun Belt Regular Season Wins - Southern Mississippi,Over 4.5,0.037900000000000045,0.6296,0.5917
-2025-06-08 14:33:05.765818,RBC Canadian Open - 2/3 Balls - Final Round 2 Balls - V. Perez vs C. Del Solar - Final Round 2 Balls,Victor Perez,0.03709999999999991,0.6667,0.6296
+2025-06-08 20:33:02.560989,Big 12 - Big 12 Regular Season Wins - BYU,Over 7.5,0.037900000000000045,0.6296,0.5917
 2025-06-08 17:31:01.024857,MAC - MAC Regular Season Wins - Buffalo,Over 7.5,0.035999999999999976,0.5122,0.4762
 2025-06-08 17:31:00.817107,ACC - ACC Regular Season Wins - Louisville,Under 8.5,0.03489999999999999,0.5,0.4651
-2025-06-08 17:30:59.176435,Club World Cup - Group B - Winner,Paris Saint-Germain,0.03479999999999994,0.6,0.5652
 2025-06-08 17:31:00.826993,ACC - ACC Regular Season Wins - North Carolina,Under 7.5,0.03479999999999994,0.6,0.5652
+2025-06-08 17:30:59.176435,Club World Cup - Group B - Winner,Paris Saint-Germain,0.03479999999999994,0.6,0.5652
 2025-06-08 16:38:37.032385,Sun Belt - Sun Belt Regular Season Wins - Marshall,Under 5.5,0.03179999999999994,0.5556,0.5238
 2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Minnesota Lynx,0.029600000000000015,0.4,0.3704
-2025-06-08 15:34:19.474720,Pac 12 - Pac 12 Regular Season Wins - Oregon State,Over 6.5,0.028900000000000037,0.5744,0.5455
-2025-06-08 17:31:00.803989,ACC - ACC Regular Season Wins - Clemson,Over 9.5,0.02750000000000008,0.6429,0.6154
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.028700000000000003,0.2105,0.1818
+2025-06-09 04:01:27.296869,Draft Position - Top 5 - To be Drafted in the Top 5,Noa Essengue,0.028199999999999996,0.0667,0.0385
 2025-06-08 19:26:28.347585,SEC - SEC Regular Season Wins - Oklahoma,Over 6.5,0.02750000000000008,0.6429,0.6154
+2025-06-08 17:31:00.803989,ACC - ACC Regular Season Wins - Clemson,Over 9.5,0.02750000000000008,0.6429,0.6154
 2025-06-08 17:30:59.159193,Club World Cup - Group A - To Finish Bottom,FC Porto,0.0267,0.1176,0.0909
-2025-06-08 16:38:36.822189,Conference USA - Conference USA Regular Season Wins - Louisiana Tech,Over 5.5,0.026499999999999968,0.6491,0.6226
 2025-06-08 17:31:01.015022,MAC - MAC Regular Season Wins - Akron,Under 4.5,0.026499999999999968,0.5917,0.5652
 2025-06-08 17:31:00.830368,ACC - ACC Regular Season Wins - Pittsburgh,Over 5.5,0.026499999999999968,0.6491,0.6226
+2025-06-08 16:38:36.822189,Conference USA - Conference USA Regular Season Wins - Louisiana Tech,Over 5.5,0.026499999999999968,0.6491,0.6226
 2025-06-08 19:26:28.334083,SEC - SEC Regular Season Wins - LSU,Over 8.5,0.026499999999999968,0.5917,0.5652
 2025-06-08 17:31:00.850108,ACC - ACC Regular Season Wins - Wake Forest,Over 4.5,0.025599999999999956,0.6,0.5744
 2025-06-08 19:26:28.354341,SEC - SEC Regular Season Wins - Tennessee,Under 8.5,0.024399999999999977,0.5122,0.4878
 2025-06-08 20:33:02.580924,Big 12 - Big 12 Regular Season Wins - Kansas State,Over 8.5,0.023800000000000043,0.5238,0.5
-2025-06-08 15:34:19.478096,Pac 12 - Pac 12 Regular Season Wins - Washington State,Over 5.5,0.023799999999999988,0.5,0.4762
-2025-06-08 15:34:19.579624,Sun Belt - Sun Belt Regular Season Wins - Troy,Under 5.5,0.023799999999999988,0.5,0.4762
 2025-06-08 17:30:59.322800,Tournament Futures - FIFA World Cup 2026 - Winner,Spain,0.023799999999999988,0.1667,0.1429
-2025-06-08 16:38:36.743690,Big Ten - Big Ten Regular Season Wins - Indiana,Under 8.5,0.023699999999999943,0.6154,0.5917
 2025-06-08 19:26:28.327356,SEC - SEC Regular Season Wins - Georgia,Over 9.5,0.023699999999999943,0.6154,0.5917
+2025-06-08 16:38:36.743690,Big Ten - Big Ten Regular Season Wins - Indiana,Under 8.5,0.023699999999999943,0.6154,0.5917
 2025-06-08 16:38:37.015751,Sun Belt - Sun Belt Regular Season Wins - Coastal Carolina,Over 5.5,0.022699999999999998,0.4878,0.4651
 2025-06-08 23:30:23.633812,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.022699999999999998,0.4878,0.4651
 2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),0.022199999999999998,0.1333,0.1111
@@ -55,89 +53,87 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-08 17:30:59.162632,Club World Cup - Group A - Top 2 - Any Order,Porto & Palmeiras,0.020799999999999985,0.3333,0.3125
 2025-06-08 18:40:51.693893,MWC - MWC Regular Season Wins - San Diego State,Under 4.5,0.02079999999999993,0.5556,0.5348
 2025-06-08 17:31:00.820396,ACC - ACC Regular Season Wins - Miami FL,Over 8.5,0.020299999999999985,0.6429,0.6226
-2025-06-08 16:38:36.747017,Big Ten - Big Ten Regular Season Wins - Iowa,Over 7.5,0.019699999999999995,0.4545,0.4348
 2025-06-08 18:40:51.677051,MWC - MWC Regular Season Wins - Colorado State,Over 6.5,0.019699999999999995,0.4545,0.4348
+2025-06-08 16:38:36.747017,Big Ten - Big Ten Regular Season Wins - Iowa,Over 7.5,0.019699999999999995,0.4545,0.4348
 2025-06-08 17:31:00.836921,ACC - ACC Regular Season Wins - Stanford,Over 3.5,0.018900000000000028,0.4444,0.4255
 2025-06-08 17:31:01.041266,MAC - MAC Regular Season Wins - Northern Illinois,Over 6.5,0.018100000000000005,0.4348,0.4167
 2025-06-08 16:38:36.763670,Big Ten - Big Ten Regular Season Wins - Nebraska,Over 7.5,0.017299999999999982,0.5917,0.5744
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,0.01660000000000006,0.9333,0.9167
 2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Hailey Van Lith (CHI),0.0156,0.0196,0.004
-2025-06-08 20:33:02.597440,Big 12 - Big 12 Regular Season Wins - Utah,Over 7.5,0.01539999999999997,0.6154,0.6
 2025-06-08 16:38:36.786994,Big Ten - Big Ten Regular Season Wins - UCLA,Under 5.5,0.01539999999999997,0.6154,0.6
+2025-06-08 20:33:02.597440,Big 12 - Big 12 Regular Season Wins - Utah,Over 7.5,0.01539999999999997,0.6154,0.6
 2025-06-08 18:40:51.683822,MWC - MWC Regular Season Wins - Hawaii,Over 5.5,0.01539999999999997,0.6154,0.6
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Edmonton Elks,0.014899999999999997,0.0625,0.0476
 2025-06-08 20:33:02.570998,Big 12 - Big 12 Regular Season Wins - Houston,Over 5.5,0.014499999999999957,0.697,0.6825
 2025-06-08 19:26:28.324006,SEC - SEC Regular Season Wins - Florida,Under 7.5,0.014200000000000101,0.6296,0.6154
 2025-06-08 18:40:51.670327,MWC - MWC Regular Season Wins - Air Force,Over 5.5,0.014200000000000101,0.6296,0.6154
 2025-06-08 23:30:23.633812,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.013999999999999999,0.0909,0.0769
 2025-06-08 19:26:28.361003,SEC - SEC Regular Season Wins - Texas A&M,Over 7.5,0.013299999999999979,0.6429,0.6296
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Ottawa Redblacks,0.012300000000000005,0.1053,0.093
 2025-06-08 17:31:01.021595,MAC - MAC Regular Season Wins - Bowling Green,Under 6.5,0.012299999999999978,0.6552,0.6429
 2025-06-08 16:38:36.793635,Big Ten - Big Ten Regular Season Wins - Washington,Over 7.5,0.012199999999999989,0.5,0.4878
 2025-06-08 17:31:00.800737,ACC - ACC Regular Season Wins - California,Under 5.5,0.012199999999999989,0.5,0.4878
-2025-06-08 15:34:19.662595,NL West - NL West 2025 - NL West Winner,San Francisco Giants,0.011899999999999994,0.0833,0.0714
 2025-06-09 02:26:49.953697,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.011600000000000055,0.5238,0.5122
-2025-06-08 20:33:02.574325,Big 12 - Big 12 Regular Season Wins - Iowa State,Over 7.5,0.0116,0.4878,0.4762
-2025-06-08 20:33:02.484696,AAC - AAC Regular Season Wins - UAB,Over 4.5,0.0116,0.4878,0.4762
 2025-06-08 16:38:36.805316,Conference USA - Conference USA Regular Season Wins - FIU,Over 5.5,0.0116,0.4878,0.4762
 2025-06-08 16:38:36.835729,Conference USA - Conference USA Regular Season Wins - Sam Houston State,Under 4.5,0.0116,0.4878,0.4762
+2025-06-08 20:33:02.574325,Big 12 - Big 12 Regular Season Wins - Iowa State,Over 7.5,0.0116,0.4878,0.4762
+2025-06-08 20:33:02.484696,AAC - AAC Regular Season Wins - UAB,Over 4.5,0.0116,0.4878,0.4762
 2025-06-08 20:33:02.577644,Big 12 - Big 12 Regular Season Wins - Kansas,Under 7.5,0.011499999999999955,0.6667,0.6552
-2025-06-08 18:40:51.680422,MWC - MWC Regular Season Wins - Fresno State,Under 6.5,0.011099999999999999,0.4762,0.4651
 2025-06-08 20:33:02.445064,AAC - AAC Regular Season Wins - Army,Under 7.5,0.011099999999999999,0.4762,0.4651
+2025-06-08 18:40:51.680422,MWC - MWC Regular Season Wins - Fresno State,Under 6.5,0.011099999999999999,0.4762,0.4651
 2025-06-08 19:26:28.330726,SEC - SEC Regular Season Wins - Kentucky,Over 4.5,0.01100000000000001,0.5348,0.5238
 2025-06-08 18:40:52.046817,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,0.010899999999999993,0.1538,0.1429
-2025-06-08 15:34:19.583015,Sun Belt - Sun Belt Regular Season Wins - UL Monroe,Under 4.5,0.010699999999999932,0.5455,0.5348
 2025-06-08 18:40:51.700823,MWC - MWC Regular Season Wins - UNLV,Under 8.5,0.010699999999999932,0.5455,0.5348
-2025-06-08 17:31:00.823660,ACC - ACC Regular Season Wins - NC State,Over 6.5,0.010599999999999998,0.4651,0.4545
 2025-06-08 18:40:51.690526,MWC - MWC Regular Season Wins - New Mexico,Over 3.5,0.010599999999999998,0.4651,0.4545
+2025-06-08 17:31:00.823660,ACC - ACC Regular Season Wins - NC State,Over 6.5,0.010599999999999998,0.4651,0.4545
+2025-06-08 17:31:01.044530,MAC - MAC Regular Season Wins - Ohio,Under 7.5,0.010099999999999998,0.5556,0.5455
 2025-06-08 20:33:02.590820,Big 12 - Big 12 Regular Season Wins - Texas Tech,Over 8.5,0.010099999999999998,0.5556,0.5455
 2025-06-08 16:38:36.750341,Big Ten - Big Ten Regular Season Wins - Maryland,Under 4.5,0.010099999999999998,0.5556,0.5455
-2025-06-08 17:31:01.044530,MAC - MAC Regular Season Wins - Ohio,Under 7.5,0.010099999999999998,0.5556,0.5455
 2025-06-08 20:33:02.551077,Big 12 - Big 12 Regular Season Wins - Arizona,Under 4.5,-0.010099999999999998,0.4444,0.4545
 2025-06-08 17:31:01.028118,MAC - MAC Regular Season Wins - Central Michigan,Over 5.5,-0.010099999999999998,0.4444,0.4545
 2025-06-09 02:26:49.953697,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.010099999999999998,0.5455,0.5556
 2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Seattle Storm,-0.0102,0.0667,0.0769
 2025-06-08 16:38:37.372474,Futures - US Open 2025 - Winner,Jon Rahm,-0.0102,0.0667,0.0769
-2025-06-08 20:33:02.597440,Big 12 - Big 12 Regular Season Wins - Utah,Under 7.5,-0.010599999999999998,0.4545,0.4651
-2025-06-08 16:38:36.786994,Big Ten - Big Ten Regular Season Wins - UCLA,Over 5.5,-0.010599999999999998,0.4545,0.4651
 2025-06-08 18:40:51.683822,MWC - MWC Regular Season Wins - Hawaii,Under 5.5,-0.010599999999999998,0.4545,0.4651
+2025-06-08 16:38:36.786994,Big Ten - Big Ten Regular Season Wins - UCLA,Over 5.5,-0.010599999999999998,0.4545,0.4651
+2025-06-08 20:33:02.597440,Big 12 - Big 12 Regular Season Wins - Utah,Under 7.5,-0.010599999999999998,0.4545,0.4651
 2025-06-08 19:26:28.330726,SEC - SEC Regular Season Wins - Kentucky,Under 4.5,-0.010699999999999932,0.5348,0.5455
-2025-06-08 15:34:19.788291,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,-0.010899999999999993,0.1429,0.1538
 2025-06-08 18:40:51.700823,MWC - MWC Regular Season Wins - UNLV,Over 8.5,-0.01100000000000001,0.5238,0.5348
-2025-06-08 15:34:19.583015,Sun Belt - Sun Belt Regular Season Wins - UL Monroe,Over 4.5,-0.01100000000000001,0.5238,0.5348
 2025-06-08 17:31:00.843519,ACC - ACC Regular Season Wins - Virginia,Under 5.5,-0.011099999999999999,0.4651,0.4762
-2025-06-08 15:34:19.576288,Sun Belt - Sun Belt Regular Season Wins - Texas State,Over 7.5,-0.011099999999999999,0.4651,0.4762
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Connecticut Sun,-0.011399999999999997,0.0164,0.0278
 2025-06-08 16:38:36.763670,Big Ten - Big Ten Regular Season Wins - Nebraska,Under 7.5,-0.0116,0.4762,0.4878
-2025-06-08 20:33:02.590820,Big 12 - Big 12 Regular Season Wins - Texas Tech,Under 8.5,-0.011600000000000055,0.5122,0.5238
 2025-06-08 16:38:36.750341,Big Ten - Big Ten Regular Season Wins - Maryland,Over 4.5,-0.011600000000000055,0.5122,0.5238
+2025-06-08 20:33:02.590820,Big 12 - Big 12 Regular Season Wins - Texas Tech,Under 8.5,-0.011600000000000055,0.5122,0.5238
 2025-06-08 17:31:01.044530,MAC - MAC Regular Season Wins - Ohio,Over 7.5,-0.011600000000000055,0.5122,0.5238
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.011700000000000002,0.0909,0.1026
-2025-06-08 15:34:19.647957,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.0121,0.1212,0.1333
-2025-06-08 17:31:00.840237,ACC - ACC Regular Season Wins - Syracuse,Over 5.5,-0.012199999999999989,0.5,0.5122
 2025-06-08 16:38:36.770351,Big Ten - Big Ten Regular Season Wins - Ohio State,Over 10.5,-0.012199999999999989,0.5,0.5122
 2025-06-08 20:33:02.455008,AAC - AAC Regular Season Wins - Florida Atlantic,Over 4.5,-0.012199999999999989,0.4878,0.5
+2025-06-08 17:31:00.840237,ACC - ACC Regular Season Wins - Syracuse,Over 5.5,-0.012199999999999989,0.5,0.5122
 2025-06-08 23:30:23.651450,Serie A - Italy Serie A 2024/25 - Outright,Virtus Bologna,-0.012600000000000056,0.7874,0.8
-2025-06-08 16:38:36.796943,Big Ten - Big Ten Regular Season Wins - Wisconsin,Under 5.5,-0.013299999999999979,0.6296,0.6429
 2025-06-08 16:38:36.753677,Big Ten - Big Ten Regular Season Wins - Michigan,Over 8.5,-0.013299999999999979,0.6296,0.6429
+2025-06-08 16:38:36.796943,Big Ten - Big Ten Regular Season Wins - Wisconsin,Under 5.5,-0.013299999999999979,0.6296,0.6429
 2025-06-08 23:30:23.633812,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.013899999999999996,0.1111,0.125
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Hamilton Tiger-Cats,-0.013999999999999999,0.0769,0.0909
 2025-06-09 02:26:49.835025,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,-0.014099999999999994,0.0526,0.0667
+2025-06-09 04:01:27.296869,Draft Position - Top 5 - To be Drafted in the Top 5,Collin Murray-Boyles,-0.014100000000000001,0.0385,0.0526
+2025-06-09 04:01:27.296869,Draft Position - Top 5 - To be Drafted in the Top 5,Kasparas Jakucionis,-0.014100000000000001,0.0385,0.0526
 2025-06-08 20:33:02.570998,Big 12 - Big 12 Regular Season Wins - Houston,Under 5.5,-0.01419999999999999,0.3704,0.3846
-2025-06-08 16:38:36.747017,Big Ten - Big Ten Regular Season Wins - Iowa,Under 7.5,-0.014200000000000101,0.6154,0.6296
 2025-06-08 18:40:51.677051,MWC - MWC Regular Season Wins - Colorado State,Under 6.5,-0.014200000000000101,0.6154,0.6296
+2025-06-08 16:38:36.747017,Big Ten - Big Ten Regular Season Wins - Iowa,Under 7.5,-0.014200000000000101,0.6154,0.6296
 2025-06-09 02:26:49.843990,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.015300000000000001,0.0435,0.0588
-2025-06-08 18:40:51.690526,MWC - MWC Regular Season Wins - New Mexico,Under 3.5,-0.01539999999999997,0.6,0.6154
 2025-06-08 17:31:00.823660,ACC - ACC Regular Season Wins - NC State,Under 6.5,-0.01539999999999997,0.6,0.6154
+2025-06-08 18:40:51.690526,MWC - MWC Regular Season Wins - New Mexico,Under 3.5,-0.01539999999999997,0.6,0.6154
 2025-06-08 17:30:59.162632,Club World Cup - Group A - Top 2 - Any Order,Porto & Inter Miami,-0.016699999999999993,0.25,0.2667
-2025-06-08 16:38:36.835729,Conference USA - Conference USA Regular Season Wins - Sam Houston State,Over 4.5,-0.017299999999999982,0.5744,0.5917
-2025-06-08 16:38:36.805316,Conference USA - Conference USA Regular Season Wins - FIU,Under 5.5,-0.017299999999999982,0.5744,0.5917
 2025-06-08 17:31:01.021595,MAC - MAC Regular Season Wins - Bowling Green,Over 6.5,-0.017299999999999982,0.4082,0.4255
-2025-06-08 20:33:02.484696,AAC - AAC Regular Season Wins - UAB,Under 4.5,-0.017299999999999982,0.5744,0.5917
 2025-06-08 20:33:02.574325,Big 12 - Big 12 Regular Season Wins - Iowa State,Under 7.5,-0.017299999999999982,0.5744,0.5917
+2025-06-08 16:38:36.805316,Conference USA - Conference USA Regular Season Wins - FIU,Under 5.5,-0.017299999999999982,0.5744,0.5917
+2025-06-08 20:33:02.484696,AAC - AAC Regular Season Wins - UAB,Under 4.5,-0.017299999999999982,0.5744,0.5917
+2025-06-08 16:38:36.835729,Conference USA - Conference USA Regular Season Wins - Sam Houston State,Over 4.5,-0.017299999999999982,0.5744,0.5917
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,-0.017600000000000005,0.3333,0.3509
 2025-06-08 17:30:59.322800,Tournament Futures - FIFA World Cup 2026 - Winner,Brazil,-0.0179,0.125,0.1429
-2025-06-08 15:34:19.657717,NL East - NL East 2025 - NL East Winner,Atlanta Braves,-0.018099999999999998,0.0588,0.0769
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,-0.018799999999999983,0.3448,0.3636
-2025-06-08 19:26:28.354341,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.01880000000000004,0.5556,0.5744
 2025-06-08 23:30:23.637109,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.01880000000000004,0.6364,0.6552
+2025-06-08 19:26:28.354341,SEC - SEC Regular Season Wins - Tennessee,Over 8.5,-0.01880000000000004,0.5556,0.5744
 2025-06-08 17:31:00.820396,ACC - ACC Regular Season Wins - Miami FL,Under 8.5,-0.018900000000000028,0.4255,0.4444
 2025-06-08 17:31:01.041266,MAC - MAC Regular Season Wins - Northern Illinois,Under 6.5,-0.019499999999999962,0.6296,0.6491
 2025-06-08 19:26:28.324006,SEC - SEC Regular Season Wins - Florida,Over 7.5,-0.019699999999999995,0.4348,0.4545
@@ -146,38 +142,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),-0.020199999999999996,0.8889,0.9091
 2025-06-08 17:31:00.836921,ACC - ACC Regular Season Wins - Stanford,Under 3.5,-0.020299999999999985,0.6226,0.6429
 2025-06-08 17:30:59.159193,Club World Cup - Group A - To Finish Bottom,Palmeiras SP,-0.02049999999999999,0.1333,0.1538
-2025-06-08 19:26:28.327356,SEC - SEC Regular Season Wins - Georgia,Under 9.5,-0.021699999999999997,0.4545,0.4762
 2025-06-08 16:38:36.743690,Big Ten - Big Ten Regular Season Wins - Indiana,Over 8.5,-0.021699999999999997,0.4545,0.4762
+2025-06-08 19:26:28.327356,SEC - SEC Regular Season Wins - Georgia,Under 9.5,-0.021699999999999997,0.4545,0.4762
 2025-06-08 23:30:23.633812,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.021999999999999964,0.2857,0.3077
 2025-06-08 18:40:51.693893,MWC - MWC Regular Season Wins - San Diego State,Over 4.5,-0.022600000000000064,0.5122,0.5348
 2025-06-08 17:31:00.850108,ACC - ACC Regular Season Wins - Wake Forest,Under 4.5,-0.022699999999999998,0.4651,0.4878
 2025-06-08 17:31:00.807277,ACC - ACC Regular Season Wins - Duke,Over 6.5,-0.023699999999999943,0.5917,0.6154
-2025-06-08 19:26:28.334083,SEC - SEC Regular Season Wins - LSU,Under 8.5,-0.023799999999999988,0.4762,0.5
 2025-06-08 17:31:01.015022,MAC - MAC Regular Season Wins - Akron,Over 4.5,-0.023799999999999988,0.4762,0.5
+2025-06-08 19:26:28.334083,SEC - SEC Regular Season Wins - LSU,Under 8.5,-0.023799999999999988,0.4762,0.5
 2025-06-08 16:38:37.015751,Sun Belt - Sun Belt Regular Season Wins - Coastal Carolina,Under 5.5,-0.025599999999999956,0.5744,0.6
 2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Janelle Salaun (GSV),-0.0259,0.0196,0.0455
-2025-06-08 15:34:19.478096,Pac 12 - Pac 12 Regular Season Wins - Washington State,Under 5.5,-0.026499999999999968,0.5652,0.5917
-2025-06-08 15:34:19.579624,Sun Belt - Sun Belt Regular Season Wins - Troy,Over 5.5,-0.026499999999999968,0.5652,0.5917
-2025-06-08 16:38:36.822189,Conference USA - Conference USA Regular Season Wins - Louisiana Tech,Under 5.5,-0.027700000000000002,0.4167,0.4444
 2025-06-08 17:31:00.830368,ACC - ACC Regular Season Wins - Pittsburgh,Under 5.5,-0.027700000000000002,0.4167,0.4444
+2025-06-08 16:38:36.822189,Conference USA - Conference USA Regular Season Wins - Louisiana Tech,Under 5.5,-0.027700000000000002,0.4167,0.4444
 2025-06-08 17:30:59.159193,Club World Cup - Group A - To Finish Bottom,Al Ahly Cairo,-0.027700000000000058,0.5556,0.5833
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.02779999999999999,0.2222,0.25
 2025-06-09 02:26:49.839694,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.028199999999999996,0.0385,0.0667
 2025-06-08 19:26:28.347585,SEC - SEC Regular Season Wins - Oklahoma,Under 6.5,-0.029000000000000026,0.4255,0.4545
 2025-06-08 17:31:00.803989,ACC - ACC Regular Season Wins - Clemson,Under 9.5,-0.029000000000000026,0.4255,0.4545
-2025-06-08 16:38:37.032385,Sun Belt - Sun Belt Regular Season Wins - Marshall,Over 5.5,-0.033299999999999996,0.5122,0.5455
 2025-06-08 16:38:36.808735,Conference USA - Conference USA Regular Season Wins - Jacksonville State,Over 6.5,-0.033299999999999996,0.4545,0.4878
 2025-06-08 20:33:02.587542,Big 12 - Big 12 Regular Season Wins - TCU,Under 6.5,-0.033299999999999996,0.4545,0.4878
+2025-06-08 16:38:37.032385,Sun Belt - Sun Belt Regular Season Wins - Marshall,Over 5.5,-0.033299999999999996,0.5122,0.5455
 2025-06-08 17:31:00.817107,ACC - ACC Regular Season Wins - Louisville,Over 8.5,-0.03479999999999994,0.5652,0.6
 2025-06-08 17:31:00.826993,ACC - ACC Regular Season Wins - North Carolina,Over 7.5,-0.03489999999999999,0.4651,0.5
 2025-06-09 02:26:49.843990,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.03570000000000001,0.25,0.2857
-2025-06-08 15:34:19.474720,Pac 12 - Pac 12 Regular Season Wins - Oregon State,Under 6.5,-0.03600000000000003,0.4878,0.5238
 2025-06-08 17:31:01.024857,MAC - MAC Regular Season Wins - Buffalo,Under 7.5,-0.03610000000000002,0.5556,0.5917
-2025-06-08 17:30:59.176435,Club World Cup - Group B - Winner,Atletico Madrid,-0.03640000000000004,0.3636,0.4
 2025-06-08 17:31:00.810552,ACC - ACC Regular Season Wins - Florida State,Over 7.5,-0.03640000000000004,0.3636,0.4
-2025-06-08 14:33:05.765818,RBC Canadian Open - 2/3 Balls - Final Round 2 Balls - V. Perez vs C. Del Solar - Final Round 2 Balls,Cristobal Del Solar,-0.0393,0.3774,0.4167
+2025-06-08 17:30:59.176435,Club World Cup - Group B - Winner,Atletico Madrid,-0.03640000000000004,0.3636,0.4
 2025-06-08 18:40:51.673696,MWC - MWC Regular Season Wins - Boise State,Under 9.5,-0.04089999999999999,0.3846,0.4255
-2025-06-08 16:38:37.042341,Sun Belt - Sun Belt Regular Season Wins - Southern Mississippi,Under 4.5,-0.04139999999999999,0.4348,0.4762
 2025-06-08 20:33:02.560989,Big 12 - Big 12 Regular Season Wins - BYU,Under 7.5,-0.04139999999999999,0.4348,0.4762
+2025-06-08 16:38:37.042341,Sun Belt - Sun Belt Regular Season Wins - Southern Mississippi,Under 4.5,-0.04139999999999999,0.4348,0.4762
+2025-06-09 04:01:27.489739,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.04620000000000002,0.1538,0.2
 2025-06-08 16:38:37.022412,Sun Belt - Sun Belt Regular Season Wins - Georgia State,Under 3.5,-0.04620000000000002,0.5455,0.5917
 2025-06-08 16:38:37.009054,Sun Belt - Sun Belt Regular Season Wins - Appalachian State,Under 5.5,-0.04760000000000003,0.4762,0.5238
 2025-06-08 19:26:26.816773,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Mike Malone,-0.04909999999999999,0.1176,0.1667
@@ -185,13 +179,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-09 02:26:49.983993,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.05080000000000001,0.1818,0.2326
 2025-06-08 19:26:26.816773,NBA Specials - Who Will be the next Full Time Head Coach of the NY Knicks - Proposition,Jason Kidd,-0.05559999999999998,0.5,0.5556
 2025-06-09 02:26:50.005069,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.05789999999999995,0.6296,0.6875
-2025-06-08 15:34:19.657717,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.05980000000000002,0.3846,0.4444
 2025-06-08 20:33:02.478077,AAC - AAC Regular Season Wins - Tulane ,Over 8.5,-0.06520000000000004,0.5,0.5652
 2025-06-09 02:26:49.928433,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 10½,-0.06789999999999996,0.5238,0.5917
 2025-06-08 16:38:37.039042,Sun Belt - Sun Belt Regular Season Wins - South Alabama,Under 6.5,-0.06929999999999997,0.4762,0.5455
 2025-06-08 16:38:37.012383,Sun Belt - Sun Belt Regular Season Wins - Arkansas State,Over 5.5,-0.06930000000000003,0.4545,0.5238
 2025-06-09 02:26:49.814735,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.07120000000000001,0.2105,0.2817
-2025-06-08 15:34:19.647957,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.10150000000000003,0.2985,0.4
 2025-06-08 16:38:37.256478,College Super Regional Winners - To Win Baton Rouge Super Regional - To Win Baton Rouge Super Regional - 2025,West Virginia,-0.1167,0.1333,0.25
 2025-06-08 16:38:37.247865,College Super Regional Winners - To Win Fayetteville Super Regional - To Win Fayetteville Super Regional - 2025,Tennessee,-0.15030000000000004,0.2941,0.4444
 2025-06-08 16:38:37.252155,College Super Regional Winners - To Win Los Angeles Super Regional - To Win Los Angeles Super Regional - 2025,UTSA,-0.1786,0.2381,0.4167

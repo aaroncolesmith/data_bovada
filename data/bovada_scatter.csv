@@ -4,9 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-10 06:45:55.630127,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.062000000000000055,0.6774,0.6154
 2025-06-10 04:43:28.102843,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Noa Essengue,0.058300000000000005,0.125,0.0667
 2025-06-10 06:45:55.444551,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,New York Liberty,0.04089999999999999,0.4255,0.3846
-2025-06-09 21:31:38.637621,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,0.033399999999999985,0.1667,0.1333
+2025-06-10 09:36:46.797289,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,0.03570000000000001,0.2857,0.25
 2025-06-10 04:43:28.017852,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,0.033299999999999996,0.4878,0.4545
-2025-06-09 21:31:40.444647,ROY - AL ROY 2025 - American League Rookie of the Year,Roman Anthony,0.033,0.0526,0.0196
 2025-06-10 05:36:00.730886,AFC South - AFC South 2025-26 - AFC South Winner,Jacksonville Jaguars,0.028599999999999987,0.2667,0.2381
 2025-06-10 04:43:28.102843,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Tre Johnson,0.02779999999999999,0.25,0.2222
 2025-06-10 06:45:55.432860,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,0.026100000000000012,0.2,0.1739
@@ -18,22 +17,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-10 06:45:55.444551,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Championship Winner,Las Vegas Aces,0.018800000000000004,0.0714,0.0526
 2025-06-10 08:43:44.546645,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Ayaka Furue,0.018099999999999998,0.0769,0.0588
 2025-06-10 04:43:28.017852,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.0174,0.25,0.2326
-2025-06-09 21:31:40.162039,SEC - SEC Regular Season Wins - Georgia,Over 9.5,0.014200000000000101,0.6296,0.6154
-2025-06-09 21:31:40.182658,SEC - SEC Regular Season Wins - Oklahoma,Over 6.5,0.012299999999999978,0.6552,0.6429
 2025-06-10 02:23:38.716701,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.01100000000000001,0.5238,0.5128
 2025-06-10 02:23:40.649006,US Open - US Open 2025 - Winner,Jon Rahm,0.0102,0.0769,0.0667
-2025-06-09 21:31:38.637621,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Noa Essengue,-0.0102,0.0667,0.0769
-2025-06-10 02:23:40.614051,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Francisco Rodriguez Jr,-0.010699999999999987,0.3226,0.3333
 2025-06-10 06:45:55.439684,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,-0.010699999999999987,0.3226,0.3333
+2025-06-10 02:23:40.614051,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Francisco Rodriguez Jr,-0.010699999999999987,0.3226,0.3333
+2025-06-10 09:36:46.731701,Boxing Lines - Andy Cruz vs Hironori Mishiro - To Win the Bout,Hironori Mishiro,-0.011099999999999999,0.1,0.1111
 2025-06-10 06:45:57.415591,US Open - US Open 2025 - Winner,Rory McIlroy,-0.011899999999999994,0.0714,0.0833
-2025-06-09 21:31:40.182658,SEC - SEC Regular Season Wins - Oklahoma,Under 6.5,-0.017299999999999982,0.4082,0.4255
 2025-06-10 04:43:28.026935,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.0174,0.2326,0.25
-2025-06-09 21:31:38.637621,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.019000000000000017,0.2667,0.2857
-2025-06-09 21:31:40.162039,SEC - SEC Regular Season Wins - Georgia,Under 9.5,-0.019699999999999995,0.4348,0.4545
 2025-06-10 04:43:28.164733,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 17½,-0.02169999999999994,0.5238,0.5455
 2025-06-10 04:43:28.017852,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.028799999999999992,0.125,0.1538
 2025-06-10 04:43:28.102843,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Ace Bailey,-0.0321,0.0588,0.0909
 2025-06-10 05:36:00.730886,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,-0.038099999999999995,0.2,0.2381
+2025-06-10 09:36:46.797289,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,-0.04039999999999999,0.7778,0.8182
 2025-06-10 04:43:28.102843,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,-0.04169999999999999,0.125,0.1667
 2025-06-10 04:43:28.102843,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Derik Queen,-0.0474,0.0435,0.0909
 2025-06-09 23:31:34.967078,Draft Position - Top 5 - To be Drafted in the Top 5,Tre Johnson,-0.0494,0.6429,0.6923

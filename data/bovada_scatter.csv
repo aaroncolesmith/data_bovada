@@ -8,22 +8,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 06:45:59.782332,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.0726,0.9615,0.8889
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,New York Liberty vs Seattle Storm,0.0665,0.129,0.0625
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Atlanta Dream vs Minnesota Lynx,0.052399999999999995,0.0909,0.0385
+2025-06-11 18:45:24.855167,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Kon Knueppel,0.05129999999999996,0.3077,0.2564
 2025-06-11 09:35:51.172445,Boxing Lines - Enzo Marcelo Delgado vs Felix Batista San Juan - To Win the Bout,Enzo Marcelo Delgado,0.04479999999999995,0.8095,0.7647
 2025-06-11 13:46:23.815392,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Mexico,0.043200000000000016,0.3509,0.3077
 2025-06-11 15:36:05.905014,Cut Lines - Dustin Johnson - Make Cut / Miss Cut - Dustin Johnson,Miss,0.03610000000000002,0.5917,0.5556
 2025-06-11 09:35:49.257175,Super Ligi - Turkey BSL 2024/25 - Outright,Anadolu Efes,0.03570000000000001,0.2857,0.25
-2025-06-11 16:43:30.706790,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
+2025-06-11 09:35:49.252384,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,0.03489999999999999,0.5,0.4651
+2025-06-11 18:45:27.407706,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
+2025-06-11 17:34:15.181239,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
 2025-06-11 15:36:05.869791,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
+2025-06-11 14:36:27.785075,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
 2025-06-11 13:46:27.097090,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
 2025-06-11 13:02:28.972990,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
-2025-06-11 17:34:15.181239,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
-2025-06-11 09:35:49.252384,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,0.03489999999999999,0.5,0.4651
-2025-06-11 14:36:27.785075,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
+2025-06-11 16:43:30.706790,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,0.03489999999999999,0.5,0.4651
 2025-06-11 11:29:37.547155,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / W. Clark / G. Woodland - 1st Round 3 Balls,Matt Fitzpatrick,0.0348,0.4348,0.4
-2025-06-11 15:36:05.852227,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
 2025-06-11 13:46:27.079760,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
-2025-06-11 16:43:30.689317,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
+2025-06-11 18:45:27.389997,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
 2025-06-11 17:34:15.163669,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
+2025-06-11 16:43:30.689317,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
+2025-06-11 15:36:05.852227,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
 2025-06-11 14:36:27.767448,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,0.03479999999999994,0.6,0.5652
 2025-06-11 06:45:59.786629,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,No,0.03469999999999995,0.875,0.8403
 2025-06-11 13:46:23.830147,CONCACAF Gold Cup - Group D - Winner,Saudi Arabia,0.03130000000000005,0.339,0.3077
@@ -32,12 +35,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 09:35:48.631456,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Harry Kane (Bayern Munich),0.028799999999999992,0.1538,0.125
 2025-06-11 09:35:49.266924,Bundesliga - Germany Bundesliga 2024/25 - Outright,Baskets Wuerzburg,0.028000000000000004,0.0476,0.0196
 2025-06-11 11:29:37.617160,Main Markets - 1st Round 3 Balls - F. Lacroix / E. Grillo / S. Bairstow - 1st Round 3 Balls,Emiliano Grillo,0.027700000000000002,0.4444,0.4167
+2025-06-11 18:45:24.845027,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,VJ Edgecombe,0.027500000000000024,0.3846,0.3571
 2025-06-11 08:43:18.562741,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Vitinha,0.0262,0.0385,0.0123
 2025-06-11 11:29:37.594393,Main Markets - 1st Round 3 Balls - T. Lawrence / N. Kent / T. Olesen - 1st Round 3 Balls,Thorbjorn Olesen,0.024499999999999966,0.6078,0.5833
 2025-06-11 11:29:37.625920,Main Markets - 1st Round 3 Balls - B. Lee / G. Migliozzi / P. Summerhays - 1st Round 3 Balls,Guido Migliozzi,0.024399999999999977,0.5122,0.4878
 2025-06-11 13:02:28.968573,Cut Lines - Wyndham Clark - Make Cut / Miss Cut - Wyndham Clark,Miss,0.024399999999999977,0.5122,0.4878
-2025-06-11 06:45:59.730154,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 13½,0.023800000000000043,0.5238,0.5
 2025-06-11 11:29:37.792952,Round Scores - 1st Round Scores - Rory McIIroy - Rory McIIroy,Over 72.5,0.023800000000000043,0.5238,0.5
+2025-06-11 06:45:59.730154,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 13½,0.023800000000000043,0.5238,0.5
 2025-06-11 09:35:51.215558,Boxing Lines - Nonito Donaire vs Andres Campos - To Win the Bout,Nonito Donaire,0.022800000000000042,0.7561,0.7333
 2025-06-11 06:45:59.764464,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 36½,0.022600000000000064,0.5348,0.5122
 2025-06-11 09:35:49.252384,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.022599999999999953,0.5464,0.5238
@@ -47,16 +51,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 10:40:13.411788,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,PSG & Real Madrid,0.018200000000000004,0.0476,0.0294
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Atlanta Dream vs Seattle Storm,0.0159,0.0323,0.0164
 2025-06-11 11:29:34.609333,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Wydad Casablanca,0.015700000000000006,0.1333,0.1176
-2025-06-11 05:36:22.477170,Boxing Lines - Andy Cruz vs Hironori Mishiro - To Win the Bout,Andy Cruz,0.014900000000000024,0.9804,0.9655
-2025-06-11 05:36:20.302179,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.014900000000000024,0.3226,0.3077
+2025-06-11 18:45:24.858583,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Khaman Maluach,0.0131,0.2353,0.2222
 2025-06-11 09:35:51.240776,Boxing Lines - Kazuki Nakajima vs Kenshin Oshima - To Win the Bout,Kazuki Nakajima,0.012899999999999912,0.8462,0.8333
 2025-06-11 09:35:48.631456,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Vangelis Pavlidis (Benfica),0.012700000000000003,0.0323,0.0196
-2025-06-11 05:36:20.298727,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.0121,0.2899,0.2778
 2025-06-11 11:29:37.551345,Main Markets - 1st Round 3 Balls - S. Lowry / J. Rose / R. McIlroy - 1st Round 3 Balls,Justin Rose,0.011899999999999994,0.25,0.2381
-2025-06-11 15:36:05.281279,Boxing Lines - Gilberto Ramirez vs Yunier Dorticos - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.9,0.8889
 2025-06-11 06:46:01.635066,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.011099999999999999,0.7333,0.7222
+2025-06-11 15:36:05.281279,Boxing Lines - Gilberto Ramirez vs Yunier Dorticos - To Win the Bout,Gilberto Ramirez,0.011099999999999999,0.9,0.8889
 2025-06-11 14:36:27.146769,Boxing Lines - Kazuki Nakajima vs Kenshin Oshima - To Win the Bout,Kazuki Nakajima,0.01090000000000002,0.8571,0.8462
 2025-06-11 17:34:12.054269,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Seattle Sounders FC,0.010899999999999993,0.1538,0.1429
+2025-06-11 18:45:24.855167,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Noa Essengue,0.010899999999999993,0.1538,0.1429
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Seattle Storm,0.010700000000000001,0.0385,0.0278
 2025-06-11 13:02:28.744715,Positions - Finishing Position - Scottie Scheffler - Finishing Position,3rd or better,0.010699999999999932,0.5455,0.5348
 2025-06-11 13:46:27.162124,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs S. Lowry - 1st Round Match-Ups,Tommy Fleetwood,0.010699999999999932,0.5455,0.5348
@@ -67,6 +70,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 08:43:20.596639,Boxing Lines - Daniel Selasie Gorsh vs Theophilous Kpakpo Allotey - To Win the Bout,Theophilous Kpakpo Allotey,0.010099999999999998,0.4545,0.4444
 2025-06-11 11:29:37.598673,Main Markets - 1st Round 3 Balls - J. Kozuma / C. Tankersley / C. Johnson - 1st Round 3 Balls,Chase Johnson,-0.010299999999999976,0.2564,0.2667
 2025-06-11 13:02:28.278188,Boxing Lines - Daniel Selasie Gorsh vs Theophilous Kpakpo Allotey - To Win the Bout,Theophilous Kpakpo Allotey,-0.010599999999999998,0.4545,0.4651
+2025-06-11 18:45:24.855167,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.010699999999999987,0.3226,0.3333
 2025-06-11 09:35:48.631456,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Erling Haaland (Man City),-0.010899999999999993,0.1429,0.1538
 2025-06-11 13:02:28.744715,Positions - Finishing Position - Scottie Scheffler - Finishing Position,4th or worse,-0.01100000000000001,0.5238,0.5348
 2025-06-11 13:02:28.270093,Boxing Lines - Ohara Davies vs Mohamed Omary Aliseni - To Win the Bout,Mohamed Omary Aliseni,-0.011099999999999999,0.1,0.1111
@@ -77,21 +81,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 13:46:27.162124,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs S. Lowry - 1st Round Match-Ups,Shane Lowry,-0.012199999999999989,0.5,0.5122
 2025-06-11 11:29:37.617160,Main Markets - 1st Round 3 Balls - F. Lacroix / E. Grillo / S. Bairstow - 1st Round 3 Balls,Sam Bairstow,-0.012299999999999978,0.3448,0.3571
 2025-06-11 13:46:23.815392,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,USA,-0.012699999999999989,0.3509,0.3636
-2025-06-11 05:36:20.298727,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.012800000000000034,0.7015,0.7143
 2025-06-11 13:46:23.815392,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Canada,-0.012899999999999995,0.1538,0.1667
 2025-06-11 09:35:51.240776,Boxing Lines - Kazuki Nakajima vs Kenshin Oshima - To Win the Bout,Kenshin Oshima,-0.0131,0.2222,0.2353
 2025-06-11 11:29:37.625920,Main Markets - 1st Round 3 Balls - B. Lee / G. Migliozzi / P. Summerhays - 1st Round 3 Balls,Preston Summerhays,-0.013300000000000034,0.3571,0.3704
-2025-06-11 08:43:18.562741,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Kylian Mbappe,-0.014099999999999998,0.0244,0.0385
+2025-06-11 18:45:24.858583,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Tre Johnson,-0.013999999999999999,0.0769,0.0909
 2025-06-11 08:43:18.562741,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Pedri,-0.014099999999999998,0.0244,0.0385
+2025-06-11 08:43:18.562741,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Kylian Mbappe,-0.014099999999999998,0.0244,0.0385
 2025-06-11 11:29:37.594393,Main Markets - 1st Round 3 Balls - T. Lawrence / N. Kent / T. Olesen - 1st Round 3 Balls,Thriston Lawrence,-0.01419999999999999,0.3704,0.3846
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Los Angeles Sparks vs New York Liberty,-0.014400000000000003,0.0179,0.0323
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Phoenix Mercury,-0.0145,0.0099,0.0244
+2025-06-11 18:45:24.855167,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Tre Johnson,-0.01469999999999999,0.2353,0.25
 2025-06-11 08:43:20.596639,Boxing Lines - Daniel Selasie Gorsh vs Theophilous Kpakpo Allotey - To Win the Bout,Daniel Selasie Gorsh,-0.014800000000000035,0.6078,0.6226
 2025-06-11 11:29:37.617160,Main Markets - 1st Round 3 Balls - F. Lacroix / E. Grillo / S. Bairstow - 1st Round 3 Balls,Frederic Lacroix,-0.014900000000000024,0.3077,0.3226
 2025-06-11 09:35:48.631456,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.015100000000000002,0.1667,0.1818
-2025-06-11 05:36:22.477170,Boxing Lines - Andy Cruz vs Hironori Mishiro - To Win the Bout,Hironori Mishiro,-0.016600000000000004,0.0667,0.0833
 2025-06-11 10:40:16.852269,Tournament Match-Ups - Tournament Match-Ups - B. DeChambeau v R. McIlroy - Requests,Rory McIlroy,-0.017299999999999982,0.4082,0.4255
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Chicago Sky vs Las Vegas Aces,-0.0179,0.0099,0.0278
+2025-06-11 18:45:24.845027,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,-0.01820000000000002,0.1818,0.2
 2025-06-11 09:35:49.266924,Bundesliga - Germany Bundesliga 2024/25 - Outright,Ratiopharm Ulm,-0.01820000000000002,0.1818,0.2
 2025-06-11 13:02:28.968573,Cut Lines - Wyndham Clark - Make Cut / Miss Cut - Wyndham Clark,Make,-0.01880000000000004,0.5556,0.5744
 2025-06-11 11:29:37.792952,Round Scores - 1st Round Scores - Rory McIIroy - Rory McIIroy,Under 72.5,-0.01970000000000005,0.5455,0.5652
@@ -104,18 +109,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-11 06:45:59.640363,WNBA Commissioner's Cup - WNBA Commisioner's Cup 2025 - Finals Matchup,Indiana Fever vs Minnesota Lynx,-0.026400000000000007,0.1026,0.129
 2025-06-11 17:34:11.993394,Club World Cup - FIFA Club World Cup 2025 - Furthest Progressing Brazilian Team ,Palmeiras,-0.030299999999999994,0.3333,0.3636
 2025-06-11 11:29:37.547155,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / W. Clark / G. Woodland - 1st Round 3 Balls,Wyndham Clark,-0.03370000000000001,0.3509,0.3846
+2025-06-11 13:46:27.097090,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
+2025-06-11 18:45:27.407706,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
+2025-06-11 13:02:28.972990,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
 2025-06-11 14:36:27.785075,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
 2025-06-11 16:43:30.706790,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
-2025-06-11 15:36:05.869791,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
 2025-06-11 17:34:15.181239,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
-2025-06-11 13:02:28.972990,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
-2025-06-11 13:46:27.097090,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
+2025-06-11 15:36:05.869791,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Make,-0.03479999999999994,0.5652,0.6
 2025-06-11 10:40:16.862137,Tournament Match-Ups - Tournament Match-Ups - R. McIlroy v X. Schauffele - Requests,Rory McIlroy,-0.03480000000000005,0.5,0.5348
-2025-06-11 16:43:30.689317,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
+2025-06-11 13:46:27.079760,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
 2025-06-11 14:36:27.767448,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
 2025-06-11 15:36:05.852227,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
+2025-06-11 16:43:30.689317,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
 2025-06-11 17:34:15.163669,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
-2025-06-11 13:46:27.079760,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
+2025-06-11 18:45:27.389997,Cut Lines - Sungjae Im - Make Cut / Miss Cut - Sungjae Im,Miss,-0.03489999999999999,0.4651,0.5
 2025-06-11 08:43:18.562741,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Ousmane Dembele,-0.035699999999999954,0.7143,0.75
 2025-06-11 15:36:05.905014,Cut Lines - Dustin Johnson - Make Cut / Miss Cut - Dustin Johnson,Make,-0.035999999999999976,0.4762,0.5122
 2025-06-11 06:45:59.786629,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.0368,0.1905,0.2273

@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-14 02:17:09.890899,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Stephanie Kyriacou,0.024399999999999998,0.0385,0.0141
 2025-06-13 19:27:59.484921,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Israel Mercado,0.024399999999999977,0.5122,0.4878
 2025-06-13 22:35:46.447963,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,David Lammy,0.023899999999999998,0.0435,0.0196
+2025-06-14 04:40:01.053979,Round Match-Ups - 3rd Round Match-Ups - R. Henley vs B. Koepka - 3rd Round Match-Ups,Brooks Koepka,0.023800000000000043,0.5238,0.5
 2025-06-13 16:42:14.110401,Round Scores - 2nd Round Scores - Hideki Matsuyama - Hideki Matsuyama,Over 73.5,0.023800000000000043,0.5238,0.5
 2025-06-13 20:35:03.167505,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Israel Mercado,0.022600000000000064,0.5348,0.5122
 2025-06-13 16:42:14.119292,Round Scores - 2nd Round Scores - Ludvig Aberg - Ludvig Aberg,Under 72.5,0.02079999999999993,0.5556,0.5348
@@ -43,9 +44,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-13 17:34:08.984141,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Israel Mercado,0.012199999999999989,0.5,0.4878
 2025-06-13 16:42:14.149443,Round Scores - 2nd Round Scores - Shane Lowry - Shane Lowry,Over 73.5,0.011600000000000055,0.5238,0.5122
 2025-06-13 16:42:14.153838,Round Scores - 2nd Round Scores - Wyndham Clark - Wyndham Clark,Over 74.5,0.0116,0.4878,0.4762
-2025-06-13 18:44:28.284139,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Spain,0.011099999999999999,0.2778,0.2667
 2025-06-13 16:42:13.737811,Boxing Lines - Ohara Davies vs Mohamed Omary Aliseni - To Win the Bout,Mohamed Omary Aliseni,0.011099999999999999,0.1111,0.1
 2025-06-14 02:17:09.789023,BKFC Fight Night: Mohegan Sun - Josh Watson vs Yorgan De Castro - To Win the Bout,Yorgan De Castro,0.011099999999999999,0.7333,0.7222
+2025-06-13 18:44:28.284139,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Spain,0.011099999999999999,0.2778,0.2667
 2025-06-14 02:17:09.890899,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Amanda Doherty,0.0102,0.0152,0.005
 2025-06-13 16:42:14.149443,Round Scores - 2nd Round Scores - Shane Lowry - Shane Lowry,Under 73.5,-0.010099999999999998,0.5455,0.5556
 2025-06-13 22:35:46.447963,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Bridget Phillipson,-0.0102,0.0667,0.0769
@@ -55,8 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-14 02:17:09.890899,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Julia Lopez Ramirez,-0.010700000000000001,0.0057,0.0164
 2025-06-13 16:42:13.745911,Boxing Lines - Daniel Selasie Gorsh vs Theophilous Kpakpo Allotey - To Win the Bout,Theophilous Kpakpo Allotey,-0.011099999999999999,0.4651,0.4762
 2025-06-14 02:17:09.789023,BKFC Fight Night: Mohegan Sun - Josh Watson vs Yorgan De Castro - To Win the Bout,Josh Watson,-0.01150000000000001,0.3333,0.3448
-2025-06-13 18:44:30.991712,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Israel Mercado,-0.012199999999999989,0.4878,0.5
 2025-06-13 16:42:14.106032,Round Scores - 2nd Round Scores - J.J. Spaun - J.J. Spaun,Under 73.5,-0.012199999999999989,0.5,0.5122
+2025-06-13 18:44:30.991712,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Israel Mercado,-0.012199999999999989,0.4878,0.5
 2025-06-13 16:42:13.733792,Boxing Lines - Haruna Mohammed vs Ahmed Abdula - To Win the Bout,Haruna Mohammed,-0.013800000000000034,0.3636,0.3774
 2025-06-13 22:35:46.447963,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Andy Burnham,-0.013899999999999996,0.1111,0.125
 2025-06-13 16:42:11.917621,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Raptors,-0.015300000000000001,0.0323,0.0476
@@ -66,16 +67,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-13 16:42:14.153838,Round Scores - 2nd Round Scores - Wyndham Clark - Wyndham Clark,Under 74.5,-0.017299999999999982,0.5744,0.5917
 2025-06-13 19:27:59.484921,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Branden Pizarro,-0.01880000000000004,0.5556,0.5744
 2025-06-14 02:17:09.890899,Meijer LPGA Classic - Meijer LPGA Classic - Winner,A Lim Kim,-0.019200000000000002,0.0025,0.0217
-2025-06-13 21:31:40.077530,BKFC Fight Night: Mohegan Sun - Nash Diederichs vs Peter Barrett - To Win the Bout,Nash Diederichs,-0.019600000000000006,0.303,0.3226
 2025-06-13 21:31:40.065167,BKFC Fight Night: Mohegan Sun - Ishiah Carson vs Jared Lennon - To Win the Bout,Ishiah Carson,-0.019600000000000006,0.303,0.3226
+2025-06-13 21:31:40.077530,BKFC Fight Night: Mohegan Sun - Nash Diederichs vs Peter Barrett - To Win the Bout,Nash Diederichs,-0.019600000000000006,0.303,0.3226
 2025-06-13 16:42:14.110401,Round Scores - 2nd Round Scores - Hideki Matsuyama - Hideki Matsuyama,Under 73.5,-0.01970000000000005,0.5455,0.5652
 2025-06-13 22:35:46.447963,UK Party Leaders - Next Labour Party Leader After Keir Starmer - Next Labour Leader,Rachel Reeves,-0.02020000000000001,0.0909,0.1111
 2025-06-13 20:35:03.167505,Boxing Lines - Branden Pizarro vs Israel Mercado - To Win the Bout,Branden Pizarro,-0.02079999999999993,0.5348,0.5556
 2025-06-13 18:44:28.284139,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,England,-0.02159999999999998,0.2381,0.2597
+2025-06-14 04:40:01.053979,Round Match-Ups - 3rd Round Match-Ups - R. Henley vs B. Koepka - 3rd Round Match-Ups,Russell Henley,-0.02169999999999994,0.5238,0.5455
 2025-06-14 02:17:09.808562,BKFC Fight Night: Mohegan Sun - Pat Casey vs Jordan Howard - To Win the Bout,Pat Casey,-0.021799999999999986,0.3704,0.3922
 2025-06-13 16:42:14.119292,Round Scores - 2nd Round Scores - Ludvig Aberg - Ludvig Aberg,Over 72.5,-0.022600000000000064,0.5122,0.5348
-2025-06-13 17:34:09.261406,Round Scores - 2nd Round Scores - Brian Harman - Brian Harman,Under 73.5,-0.022699999999999998,0.4651,0.4878
 2025-06-13 16:42:14.145144,Round Scores - 2nd Round Scores - Rory McIIroy - Rory McIIroy,Under 71.5,-0.022699999999999998,0.4651,0.4878
+2025-06-13 17:34:09.261406,Round Scores - 2nd Round Scores - Brian Harman - Brian Harman,Under 73.5,-0.022699999999999998,0.4651,0.4878
 2025-06-13 16:42:14.132207,Round Scores - 2nd Round Scores - Bryson DeChambeau - Bryson DeChambeau,Over 71.5,-0.023799999999999988,0.4762,0.5
 2025-06-13 21:31:40.073418,BKFC Fight Night: Mohegan Sun - Jr Rumsley vs Brennan Ward - To Win the Bout,Jr Rumsley,-0.024999999999999994,0.1,0.125
 2025-06-14 02:17:09.838038,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs J. Spieth - 3rd Round Match-Ups,Collin Morikawa,-0.025599999999999956,0.5744,0.6

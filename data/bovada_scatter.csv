@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lexi Thompson,0.11510000000000001,0.1739,0.0588
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Madelene Sagstrom,0.1033,0.125,0.0217
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Nanna Koertz Madsen,0.10119999999999998,0.1538,0.0526
+2025-06-15 06:43:06.506179,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 71.5,0.08039999999999997,0.5455,0.4651
 2025-06-14 20:32:22.921967,Club World Cup - FIFA Club World Cup 2025 - Tournament Milestones - Total Goals Scored,180+ Total Goals Scored,0.07769999999999999,0.661,0.5833
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Carlota Ciganda,0.0729,0.1905,0.1176
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,0.06669999999999998,0.2667,0.2
@@ -16,45 +17,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 04:00:38.520384,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.04039999999999999,0.8182,0.7778
 2025-06-14 22:34:29.567445,Club World Cup - FIFA Club World Cup 2025 - Requested Specials,Borussia Dortmund to win Group F & Juventus to Qualify from Group G,0.0393,0.6226,0.5833
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Salzburg,0.036199999999999996,0.1538,0.1176
-2025-06-14 19:26:19.968427,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.035699999999999954,0.75,0.7143
 2025-06-14 20:32:22.921967,Club World Cup - FIFA Club World Cup 2025 - Tournament Milestones - Total Goals Scored,175+ Total Goals Scored,0.035699999999999954,0.75,0.7143
+2025-06-14 19:26:19.968427,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.035699999999999954,0.75,0.7143
 2025-06-15 05:34:28.636920,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,0.033300000000000024,0.2,0.1667
 2025-06-14 19:26:17.635434,Club World Cup - Group A - Top 2 - Exact Order,"Porto 1st , Palmeiras 2nd",0.033300000000000024,0.2,0.1667
-2025-06-14 21:29:42.604103,Wide Receivers - NFL 2025-26 Receiving Yards - Courtland Sutton Regular Season Total Receiving Yards 2025-26,Over 875.5,0.030399999999999983,0.5652,0.5348
-2025-06-14 21:29:42.610927,Wide Receivers - NFL 2025-26 Receiving Yards - D.K Metcalf Regular Season Total Receiving Yards 2025-26,Over 950.5,0.030399999999999983,0.5652,0.5348
 2025-06-14 19:26:19.067029,Wide Receivers - NFL 2025-26 Receiving Yards - Malik Nabers Regular Season Total Receiving Yards 2025-26,Over 1125.5,0.030399999999999983,0.5652,0.5348
+2025-06-14 21:29:42.610927,Wide Receivers - NFL 2025-26 Receiving Yards - D.K Metcalf Regular Season Total Receiving Yards 2025-26,Over 950.5,0.030399999999999983,0.5652,0.5348
+2025-06-14 21:29:42.604103,Wide Receivers - NFL 2025-26 Receiving Yards - Courtland Sutton Regular Season Total Receiving Yards 2025-26,Over 875.5,0.030399999999999983,0.5652,0.5348
 2025-06-14 19:26:17.632042,Club World Cup - Group A - Top 2 - Any Order,Porto & Palmeiras,0.030299999999999994,0.3636,0.3333
-2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Boca Juniors,0.02779999999999999,0.25,0.2222
 2025-06-15 04:00:38.520384,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),0.02779999999999999,0.25,0.2222
+2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Boca Juniors,0.02779999999999999,0.25,0.2222
+2025-06-15 06:43:06.404312,Main Markets - Final Round 2-Balls - J. Hastings / M. Fitzpatrick - Final Round 2-Balls,Matt Fitzpatrick,0.026499999999999968,0.6875,0.661
 2025-06-14 21:29:42.607548,Wide Receivers - NFL 2025-26 Receiving Yards - D.J. Moore Regular Season Total Receiving Yards 2025-26,Under 1025.5,0.026499999999999968,0.5917,0.5652
-2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Benfica,0.02560000000000001,0.3333,0.3077
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Flamengo RJ,0.02560000000000001,0.3333,0.3077
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Palmeiras SP,0.02560000000000001,0.3333,0.3077
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Porto,0.02560000000000001,0.3333,0.3077
+2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Benfica,0.02560000000000001,0.3333,0.3077
+2025-06-15 06:43:06.380234,Main Markets - Final Round 2-Balls - J. Nicholas / B. Harman - Final Round 2-Balls,Brian Harman,0.025599999999999956,0.6552,0.6296
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Al Ahly Cairo,0.025300000000000003,0.1429,0.1176
 2025-06-14 20:32:22.899516,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Real Madrid,0.024600000000000066,0.661,0.6364
 2025-06-14 22:34:30.268255,EuroBasket Women - EuroBasket Women 2025 - Outright,Spain (W),0.023799999999999988,0.1667,0.1429
-2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Botafogo RJ,0.022199999999999998,0.2222,0.2
 2025-06-14 23:32:38.590441,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,George Kambosos Jr,0.022199999999999998,0.1333,0.1111
+2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Botafogo RJ,0.022199999999999998,0.2222,0.2
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Chelsea,0.021999999999999964,0.3077,0.2857
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Palmeiras SP,0.02049999999999999,0.1538,0.1333
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Seattle Sounders FC,0.019699999999999995,0.125,0.1053
 2025-06-14 19:26:17.635434,Club World Cup - Group A - Top 2 - Exact Order,"Palmeiras 1st , Porto 2nd",0.01820000000000002,0.2,0.1818
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Ulsan Hyundai,0.0181,0.0345,0.0164
-2025-06-14 18:40:41.127319,BKFC Fight Night: Mohegan Sun - Anthony Foye vs Lardy Navarro - To Win the Bout,Anthony Foye,0.017299999999999982,0.303,0.2857
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Botafogo RJ,0.016700000000000007,0.1,0.0833
+2025-06-15 06:43:06.372273,Main Markets - Final Round 2-Balls - R. McCormick / T. Pendrith - Final Round 2-Balls,Taylor Pendrith,0.01639999999999997,0.6774,0.661
 2025-06-14 22:34:30.268255,EuroBasket Women - EuroBasket Women 2025 - Outright,Belgium (W),0.015899999999999997,0.2381,0.2222
 2025-06-15 05:34:28.643381,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.015100000000000002,0.1818,0.1667
+2025-06-15 06:43:06.384237,Main Markets - Final Round 2-Balls - P. Barbaree / S. Im - Final Round 2-Balls,Sungjae Im,0.014900000000000024,0.6923,0.6774
 2025-06-15 04:00:38.516086,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.01429999999999998,0.9091,0.8948
 2025-06-14 20:32:22.921967,Club World Cup - FIFA Club World Cup 2025 - Tournament Milestones - Total Goals Scored,205+ Total Goals Scored,0.013999999999999999,0.0909,0.0769
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Bayern Munich,0.013800000000000034,0.3774,0.3636
 2025-06-15 02:31:33.192192,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.0131,0.7778,0.7647
-2025-06-14 18:40:41.027935,Boxing Lines - Nonito Donaire vs Andres Campos - To Win the Bout,Andres Campos,0.012299999999999978,0.3571,0.3448
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Real Madrid,0.012199999999999989,0.5,0.4878
 2025-06-15 05:34:31.012662,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.011699999999999933,0.7895,0.7778
 2025-06-14 22:34:30.268255,EuroBasket Women - EuroBasket Women 2025 - Outright,Serbia (W),0.011099999999999999,0.1111,0.1
-2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,0.010899999999999993,0.1538,0.1429
 2025-06-15 05:34:28.643381,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Erling Haaland (Man City),0.010899999999999993,0.1538,0.1429
+2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,0.010899999999999993,0.1538,0.1429
 2025-06-15 04:00:38.511448,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.010499999999999982,0.2105,0.2
 2025-06-15 02:31:33.172225,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,Richardson Hitchins,0.010199999999999987,0.9333,0.9231
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,AL AIN FC,0.010100000000000001,0.0345,0.0244
@@ -65,28 +68,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 05:34:28.643381,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Vangelis Pavlidis (Benfica),-0.012700000000000003,0.0196,0.0323
 2025-06-15 05:34:28.653065,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Inter Milan,-0.012899999999999995,0.1538,0.1667
 2025-06-14 19:26:17.632042,Club World Cup - Group A - Top 2 - Any Order,Palmeiras & Inter Miami,-0.0131,0.2222,0.2353
-2025-06-14 18:40:41.127319,BKFC Fight Night: Mohegan Sun - Anthony Foye vs Lardy Navarro - To Win the Bout,Lardy Navarro,-0.0131,0.7647,0.7778
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Fluminense RJ,-0.013899999999999996,0.1111,0.125
 2025-06-15 04:00:38.520384,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.014100000000000001,0.0385,0.0526
-2025-06-14 20:32:22.899516,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Benfica,-0.014900000000000024,0.3077,0.3226
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,River Plate,-0.014900000000000024,0.3077,0.3226
+2025-06-14 20:32:22.899516,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Benfica,-0.014900000000000024,0.3077,0.3226
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Mi Hyang Lee,-0.015099999999999999,0.0028,0.0179
 2025-06-15 05:34:28.653065,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Chelsea,-0.015100000000000002,0.1667,0.1818
-2025-06-14 18:40:41.027935,Boxing Lines - Nonito Donaire vs Andres Campos - To Win the Bout,Nonito Donaire,-0.01629999999999998,0.7059,0.7222
+2025-06-15 06:43:06.380234,Main Markets - Final Round 2-Balls - J. Nicholas / B. Harman - Final Round 2-Balls,James Nicholas,-0.016000000000000014,0.3922,0.4082
 2025-06-15 05:34:28.653065,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Bayern Munich,-0.016699999999999993,0.25,0.2667
 2025-06-15 02:31:33.192192,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Francisco Rodriguez Jr,-0.017299999999999982,0.2857,0.303
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,CF Monterrey,-0.01759999999999999,0.1,0.1176
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Mamelodi Sundowns,-0.019099999999999992,0.0476,0.0667
+2025-06-15 06:43:06.384237,Main Markets - Final Round 2-Balls - P. Barbaree / S. Im - Final Round 2-Balls,Philip Barbaree,-0.019500000000000017,0.3509,0.3704
+2025-06-15 06:43:06.404312,Main Markets - Final Round 2-Balls - J. Hastings / M. Fitzpatrick - Final Round 2-Balls,Justin Hastings,-0.02030000000000004,0.3571,0.3774
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Fluminense RJ,-0.021999999999999964,0.2857,0.3077
-2025-06-14 21:29:42.607548,Wide Receivers - NFL 2025-26 Receiving Yards - D.J. Moore Regular Season Total Receiving Yards 2025-26,Over 1025.5,-0.023799999999999988,0.4762,0.5
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Atletico Madrid,-0.023799999999999988,0.4762,0.5
+2025-06-14 21:29:42.607548,Wide Receivers - NFL 2025-26 Receiving Yards - D.J. Moore Regular Season Total Receiving Yards 2025-26,Over 1025.5,-0.023799999999999988,0.4762,0.5
 2025-06-14 23:32:38.590441,Boxing Lines - Richardson Hitchins vs George Kambosos Jr - To Win the Bout,Richardson Hitchins,-0.02429999999999999,0.9231,0.9474
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Grace Kim,-0.0244,0.0079,0.0323
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Juventus,-0.030299999999999994,0.3333,0.3636
 2025-06-14 19:26:17.632042,Club World Cup - Group A - Top 2 - Any Order,Porto & Al Ahly Cairo,-0.031799999999999995,0.1111,0.1429
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Borussia Dortmund,-0.033300000000000024,0.1667,0.2
-2025-06-14 21:29:42.610927,Wide Receivers - NFL 2025-26 Receiving Yards - D.K Metcalf Regular Season Total Receiving Yards 2025-26,Under 950.5,-0.03480000000000005,0.5,0.5348
 2025-06-14 21:29:42.604103,Wide Receivers - NFL 2025-26 Receiving Yards - Courtland Sutton Regular Season Total Receiving Yards 2025-26,Under 875.5,-0.03480000000000005,0.5,0.5348
+2025-06-14 21:29:42.610927,Wide Receivers - NFL 2025-26 Receiving Yards - D.K Metcalf Regular Season Total Receiving Yards 2025-26,Under 950.5,-0.03480000000000005,0.5,0.5348
 2025-06-14 19:26:19.067029,Wide Receivers - NFL 2025-26 Receiving Yards - Malik Nabers Regular Season Total Receiving Yards 2025-26,Under 1125.5,-0.03480000000000005,0.5,0.5348
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,-0.03660000000000002,0.4762,0.5128
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Juventus,-0.03889999999999999,0.1429,0.1818
@@ -95,6 +99,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 05:34:28.649963,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Al Hilal,-0.048799999999999996,0.0345,0.0833
 2025-06-15 05:34:28.653065,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Paris Saint-Germain,-0.06659999999999999,0.2667,0.3333
 2025-06-14 22:34:30.268255,EuroBasket Women - EuroBasket Women 2025 - Outright,Germany (W),-0.06669999999999998,0.1,0.1667
+2025-06-15 06:43:06.506179,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 71.5,-0.07619999999999993,0.5238,0.6
 2025-06-14 19:26:19.968427,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Yoshinobu Yamamoto (LAD),-0.07930000000000001,0.1429,0.2222
 2025-06-15 05:34:28.646837,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Inter Milan,-0.0917,0.5,0.5917
 2025-06-15 02:31:33.254541,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Minjee Lee,-0.1071,0.0179,0.125

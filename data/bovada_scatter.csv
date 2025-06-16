@@ -1,452 +1,270 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-06-16 11:29:53.987434,Club World Cup - Group B - Winner,Paris Saint-Germain,0.3446,0.9524,0.6078
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to be Knocked out in the Group Stage,0.2575,0.6923,0.4348
 2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Heat,0.2424,0.3333,0.0909
-2025-06-16 11:29:53.990412,Club World Cup - Group B - To Finish Bottom,Seattle Sounders FC,0.1926,0.9259,0.7333
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jamal Musiala (Bayern Munich),0.1756,0.2,0.0244
 2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Rockets,0.1746,0.2857,0.1111
-2025-06-16 11:29:53.993967,Club World Cup - Group B - Not To Qualify From Group,Atletico Madrid,0.16899999999999998,0.5464,0.3774
-2025-06-16 11:29:54.445528,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,0.16790000000000005,0.7143,0.5464
-2025-06-16 10:41:20.346621,College World Series Winner - College World Series - College World Series 2025 Winner,Coastal Carolina,0.153,0.3704,0.2174
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Paris Saint-Germain,0.1473,0.5917,0.4444
-2025-06-16 11:29:53.993967,Club World Cup - Group B - Not To Qualify From Group,Seattle Sounders FC,0.13759999999999994,0.9709,0.8333
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Paris Saint-Germain,0.13330000000000003,0.4,0.2667
 2025-06-16 13:02:49.648121,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Kade Anderson,0.13329999999999997,0.3333,0.2
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Alanna Smith (MIN),0.133,0.1429,0.0099
-2025-06-16 11:29:53.996896,Club World Cup - Group B - To Qualify From Group,Botafogo RJ,0.12879999999999997,0.5455,0.4167
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kayla Thornton (GSV),0.12819999999999998,0.1667,0.0385
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Veronica Burton (GSV),0.12329999999999999,0.1429,0.0196
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Kennedy Burke (NYL),0.1151,0.125,0.0099
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Botafogo RJ,0.11109999999999998,0.3333,0.2222
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.10450000000000001,0.1111,0.0066
 2025-06-16 13:02:47.636472,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,0.10109999999999997,0.5455,0.4444
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Natalie Nakase,0.09999999999999999,0.1667,0.0667
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Nick Woltemade (Germany U21),0.09639999999999993,0.7333,0.6369
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Noelle Quinn,0.095,0.1538,0.0588
 2025-06-16 17:34:08.351642,WNBA Awards - 6th Player of the Year 2025 - 6th Player of the Year 2025,Maddy Siegrist (DAL),0.0889,0.2,0.1111
 2025-06-16 13:02:49.590968,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.0857,0.8,0.7143
-2025-06-16 11:29:54.135429,U21 European Championship - Group B - Winner,Germany U21,0.08339999999999992,0.6667,0.5833
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Paris Saint-Germain,0.08330000000000004,0.75,0.6667
 2025-06-16 13:02:47.475391,CONCACAF Gold Cup - Group D - Winner,USA,0.0796,0.8095,0.7299
 2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Bob Melvin (SF),0.07930000000000001,0.2222,0.1429
-2025-06-16 11:29:54.459789,Bundesliga - Germany Bundesliga 2024/25 - Outright,Bayern Munich,0.07579999999999998,0.9091,0.8333
 2025-06-16 20:35:14.394379,Draft Position - Player Draft Position - Derik Queen Draft Position,Over 10.5,0.07400000000000007,0.6296,0.5556
 2025-06-16 13:02:49.596236,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.07309999999999994,0.7222,0.6491
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to reach semi finals; Al Hilal to be knocked out in the group stage,0.07239999999999996,0.3077,0.2353
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Karl Smesko,0.06959999999999997,0.3077,0.2381
 2025-06-16 15:35:51.601486,ACC - ACC Regular Season Wins - North Carolina,Under 7.5,0.06669999999999998,0.6667,0.6
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ruoning Yin,0.0647,0.0667,0.002
 2025-06-16 22:35:40.899367,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,0.059099999999999986,0.3448,0.2857
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Nate Tibbetts,0.05710000000000001,0.2,0.1429
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Liga MX Team to reach Quarter Finals,0.05679999999999999,0.1818,0.125
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hye Jin Choi,0.056299999999999996,0.0588,0.0025
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Scottie Scheffler,0.0562,0.2667,0.2105
 2025-06-16 16:43:15.973896,Pac 12 - Pac 12 Regular Season Wins - Oregon State,Over 6.5,0.05520000000000003,0.6296,0.5744
 2025-06-16 13:47:34.512328,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),0.05409999999999998,0.3571,0.303
-2025-06-16 10:41:18.191730,U21 European Championship - European U21 Championship 2025 - To Reach the Final,Denmark U21,0.05379999999999999,0.1538,0.1
-2025-06-16 11:29:53.977239,Club World Cup - Group A - To Finish Bottom,Inter Miami,0.052200000000000024,0.4444,0.3922
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Real Madrid, Man City and Paris SG each to reach Quarter Finals",0.04999999999999999,0.25,0.2
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,4+ European Teams to be Knocked out in the Group Stage,0.04910000000000003,0.4,0.3509
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Sandy Brondello,0.04909999999999999,0.1667,0.1176
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Jamal Musiala,0.0489,0.0588,0.0099
 2025-06-16 13:02:47.636472,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Santa Fe,0.04849999999999999,0.1818,0.1333
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,A'ja Wilson (LVA),0.047599999999999976,0.3333,0.2857
-2025-06-16 11:29:53.990412,Club World Cup - Group B - To Finish Bottom,Atletico Madrid,0.0474,0.0909,0.0435
 2025-06-16 16:43:14.272084,"Daily Soccer Specials - FIFA Club World Cup Specials - Monday, 16th June - FIFA Club World Cup Specials - Monday, 16th June",4+ Goals Scored in the 1st Half,0.04630000000000001,0.6296,0.5833
 2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Raptors,0.044599999999999994,0.0769,0.0323
 2025-06-16 16:43:16.426794,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jeeno Thitikul,0.04440000000000001,0.1111,0.0667
-2025-06-16 11:29:53.980707,Club World Cup - Group A - Not To Qualify From Group,Inter Miami,0.04410000000000003,0.75,0.7059
-2025-06-16 11:29:53.983628,Club World Cup - Group A - To Qualify From Group,FC Porto,0.04410000000000003,0.75,0.7059
-2025-06-16 11:29:56.230661,Winning State - World Series 2025 - Winning State - Winning State,"New York (NYM, NYY)",0.043800000000000006,0.25,0.2062
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ European Teams to be Knocked out in the Group Stage,0.043200000000000016,0.6923,0.6491
-2025-06-16 22:35:42.519058,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.04290000000000005,0.4,0.3571
+2025-06-16 23:31:12.610419,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.04290000000000005,0.4,0.3571
 2025-06-16 21:31:38.911225,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.04290000000000005,0.4,0.3571
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Botafogo RJ,0.042899999999999994,0.1429,0.1
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Al Hilal,0.04239999999999999,0.0769,0.0345
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Michael Olise (Bayern Munich),0.04229999999999999,0.0667,0.0244
+2025-06-16 22:35:42.519058,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.04290000000000005,0.4,0.3571
 2025-06-16 13:47:34.528700,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,A.J. Hinch (DET),0.042100000000000026,0.8095,0.7674
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ayaka Furue,0.041499999999999995,0.0435,0.002
 2025-06-16 15:35:51.907567,SEC - SEC Regular Season Wins - Florida,Over 7.5,0.04139999999999999,0.4762,0.4348
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Man City to reach semi finals; Inter Miami to be knocked out in the group stage,0.04099999999999998,0.3077,0.2667
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Manchester City,0.04099999999999998,0.3077,0.2667
 2025-06-16 20:35:16.079450,MLB Series Prices - MLB Series Prices June 16 - 18 - 3 Game Series,Boston Red Sox,0.039600000000000024,0.4651,0.4255
 2025-06-16 20:35:14.400959,Draft Position - Player Draft Position - Jase Richardson Draft Position,Over 19.5,0.03959999999999997,0.5744,0.5348
 2025-06-16 21:31:37.308854,To Be Drafted First - Player to be Drafted First - H2H - Noa Essengue vs Derik Queen,Noa Essengue,0.03959999999999997,0.5744,0.5348
-2025-06-16 11:29:53.974283,Club World Cup - Group A - Winner,FC Porto,0.0378,0.4082,0.3704
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Azura Stevens (LAS),0.037700000000000004,0.0476,0.0099
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Mao Saigo,0.0365,0.0385,0.002
 2025-06-16 16:43:15.049646,Quarterbacks - NFL 2025-26 Passing TD's - Josh Allen Regular Season Total Passing TD's,Under 27.5,0.03610000000000002,0.5917,0.5556
 2025-06-16 16:43:15.073708,Quarterbacks - NFL 2025-26 Passing TD's - Sam Darnold Regular Season Total Passing TD's,Over 20.5,0.03600000000000003,0.5238,0.4878
 2025-06-16 19:27:27.374513,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Ace Bailey,0.03570000000000001,0.2857,0.25
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Mamelodi Sundowns,0.035699999999999996,0.0833,0.0476
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any German Team to reach the Semi Finals,0.03480000000000005,0.5348,0.5
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Pierceson Coody,0.0344,0.0588,0.0244
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group E,0.034100000000000005,0.125,0.0909
 2025-06-16 15:35:51.754457,Conference USA - Conference USA Regular Season Wins - Jacksonville State,Under 6.5,0.03370000000000006,0.6491,0.6154
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to be Knocked out in the Group Stage,0.033399999999999985,0.1667,0.1333
 2025-06-16 16:43:14.486005,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Tre Johnson,0.033300000000000024,0.2,0.1667
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Vangelis Pavlidis (Benfica),0.033,0.0526,0.0196
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Celine Boutier,0.0325,0.0345,0.002
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hyo Joo Kim,0.0325,0.0345,0.002
-2025-06-16 21:31:38.923749,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.032299999999999995,0.3448,0.3125
 2025-06-16 22:35:42.531471,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.032299999999999995,0.3448,0.3125
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Minjee Lee,0.032,0.0345,0.0025
-2025-06-16 17:34:08.967401,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Over 23.5,0.031799999999999995,0.4762,0.4444
+2025-06-16 21:31:38.923749,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.032299999999999995,0.3448,0.3125
 2025-06-16 16:43:14.383352,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Indiana Pacers,0.031799999999999995,0.1429,0.1111
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Ross Steelman,0.0312,0.0435,0.0123
+2025-06-16 17:34:08.967401,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Over 23.5,0.031799999999999995,0.4762,0.4444
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Napheesa Collier (MIN),0.030299999999999994,0.3333,0.303
-2025-06-16 10:41:18.185266,U21 European Championship - European U21 Championship 2025 - Winner,Denmark U21,0.029299999999999993,0.0769,0.0476
-2025-06-16 11:29:53.974283,Club World Cup - Group A - Winner,Al Ahly Cairo,0.028999999999999998,0.129,0.1
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Angel Yin,0.0286,0.0385,0.0099
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Gabby Williams (SEA),0.028399999999999995,0.0909,0.0625
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Akie Iwai,0.028300000000000002,0.0323,0.004
-2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ South American Teams to reach the Quarter Finals,0.02779999999999999,0.25,0.2222
 2025-06-16 19:27:27.387919,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Khaman Maluach,0.02779999999999999,0.2778,0.25
+2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ South American Teams to reach the Quarter Finals,0.02779999999999999,0.25,0.2222
 2025-06-16 22:35:42.760151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 13:47:34.642974,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 15:35:52.305269,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 21:31:39.153795,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 13:02:49.738342,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 20:35:16.315523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 19:27:29.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 14:37:58.312238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 18:45:11.023863,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 11:29:56.389526,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-16 10:41:20.426115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-16 17:34:10.338854,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 13:02:49.738342,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 13:47:34.642974,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 14:37:58.312238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 15:35:52.305269,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 23:31:12.856530,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-16 16:43:16.388775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 18:45:11.023863,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 19:27:29.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 20:35:16.315523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 21:31:39.153795,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-16 19:27:27.377872,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Derik Queen,0.026499999999999996,0.0588,0.0323
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each German Team to reach the Quarter Finals,0.02560000000000001,0.3333,0.3077
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lydia Ko,0.025599999999999998,0.0435,0.0179
-2025-06-16 10:41:20.422107,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 11:29:56.385531,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 16:43:14.272084,"Daily Soccer Specials - FIFA Club World Cup Specials - Monday, 16th June - FIFA Club World Cup Specials - Monday, 16th June","Chelsea, Benfica and Flamengo to score 3+ Goals in the First Half Combined",0.025599999999999956,0.6,0.5744
-2025-06-16 13:02:49.734210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 19:27:29.314482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 21:31:37.247936,Draft Position - Player Draft Position - Derik Queen Draft Position,Over 10.5,0.025599999999999956,0.6552,0.6296
-2025-06-16 18:45:11.019544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 13:47:34.638778,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-16 14:37:58.308263,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 22:35:42.756176,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 13:47:34.638778,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 13:02:49.734210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 16:43:14.272084,"Daily Soccer Specials - FIFA Club World Cup Specials - Monday, 16th June - FIFA Club World Cup Specials - Monday, 16th June","Chelsea, Benfica and Flamengo to score 3+ Goals in the First Half Combined",0.025599999999999956,0.6,0.5744
+2025-06-16 21:31:37.247936,Draft Position - Player Draft Position - Derik Queen Draft Position,Over 10.5,0.025599999999999956,0.6552,0.6296
 2025-06-16 15:35:52.301182,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 19:27:29.314482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-16 16:43:16.384686,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 21:31:39.149773,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 18:45:11.019544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 23:31:12.852502,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-16 22:35:42.756176,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-16 20:35:16.311552,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-16 17:34:10.334775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,CF Monterrey,0.024999999999999994,0.125,0.1
+2025-06-16 21:31:39.149773,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Quarter Finals,0.024499999999999966,0.6078,0.5833
 2025-06-16 16:43:15.031815,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Under 19.5,0.024399999999999977,0.5122,0.4878
 2025-06-16 22:35:40.911917,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Kasparas Jakucionis,0.02429999999999999,0.7917,0.7674
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Austin Smotherman,0.023899999999999998,0.0435,0.0196
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Justin Thomas,0.023899999999999998,0.0435,0.0196
-2025-06-16 17:34:08.980963,Quarterbacks - NFL 2025-26 Passing TD's - Geno Smith Regular Season Total Passing TD's,Over 20.5,0.023800000000000043,0.5238,0.5
-2025-06-16 16:43:15.053173,Quarterbacks - NFL 2025-26 Passing TD's - Justin Fields Regular Season Total Passing TD's,Over 14.5,0.023800000000000043,0.5238,0.5
-2025-06-16 17:34:08.950582,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Over 28.5,0.023800000000000043,0.5238,0.5
 2025-06-16 13:02:47.234977,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,0.023800000000000043,0.5238,0.5
+2025-06-16 17:34:08.950582,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Over 28.5,0.023800000000000043,0.5238,0.5
+2025-06-16 16:43:15.053173,Quarterbacks - NFL 2025-26 Passing TD's - Justin Fields Regular Season Total Passing TD's,Over 14.5,0.023800000000000043,0.5238,0.5
+2025-06-16 17:34:08.980963,Quarterbacks - NFL 2025-26 Passing TD's - Geno Smith Regular Season Total Passing TD's,Over 20.5,0.023800000000000043,0.5238,0.5
 2025-06-16 15:35:51.574831,ACC - ACC Regular Season Wins - California,Under 5.5,0.023800000000000043,0.5238,0.5
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Yealimi Noh,0.023799999999999998,0.0278,0.004
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Rio Takeda,0.023799999999999998,0.0278,0.004
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ariya Jutanugarn,0.023799999999999998,0.0278,0.004
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,0.023799999999999988,0.5,0.4762
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Cheryl Reeve,0.023799999999999988,0.1667,0.1429
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Botafogo RJ,0.0232,0.0667,0.0435
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Trace Crowe,0.022799999999999997,0.0278,0.005
 2025-06-16 13:02:49.601513,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.022700000000000053,0.7727,0.75
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to be Knocked out in the Group Stage,0.02260000000000001,0.4,0.3774
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Natisha Heideman,0.022400000000000003,0.0323,0.0099
+2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Timberwolves,0.022199999999999998,0.2222,0.2
 2025-06-16 13:02:47.636472,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,0.022199999999999998,0.2222,0.2
 2025-06-16 13:02:47.641123,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,0.022199999999999998,0.2222,0.2
-2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Timberwolves,0.022199999999999998,0.2222,0.2
-2025-06-16 10:41:18.368242,Copa America Futures - Copa America 2028 - Winner,Brazil,0.021999999999999964,0.3077,0.2857
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any South American Team to reach the Final,0.021999999999999964,0.3077,0.2857
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group B,0.021999999999999964,0.3077,0.2857
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Robert MacIntyre,0.021199999999999997,0.0278,0.0066
 2025-06-16 16:43:15.046152,Quarterbacks - NFL 2025-26 Passing TD's - Jordan Love Regular Season Total Passing TD's,Over 25.5,0.02079999999999993,0.5556,0.5348
 2025-06-16 17:34:08.974213,Quarterbacks - NFL 2025-26 Passing TD's - Dak Prescott Regular Season Total Passing TD's,Under 26.5,0.02079999999999993,0.5556,0.5348
 2025-06-16 16:43:16.426794,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Celine Boutier,0.0203,0.0526,0.0323
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Ezi Magbegor (SEA),0.02020000000000001,0.1111,0.0909
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Pontus Nyholm,0.019100000000000002,0.0323,0.0132
 2025-06-16 15:35:52.337578,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Angel Cabrera,0.019099999999999992,0.0667,0.0476
-2025-06-16 11:29:54.112518,CONCACAF Gold Cup - Group B - Winner,Canada,0.018999999999999906,0.7333,0.7143
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Lexie Hull (IND),0.0189,0.0385,0.0196
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Sepp Straka,0.0189,0.0385,0.0196
 2025-06-16 16:43:14.489397,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Tre Johnson,0.018799999999999983,0.3636,0.3448
 2025-06-16 19:27:27.384571,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Noa Essengue,0.01820000000000002,0.2,0.1818
-2025-06-16 10:41:20.346621,College World Series Winner - College World Series - College World Series 2025 Winner,Louisville,0.0182,0.0323,0.0141
 2025-06-16 16:43:16.426794,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Minjee Lee,0.018099999999999998,0.0526,0.0345
 2025-06-16 16:43:14.383352,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Los Angeles Lakers,0.018099999999999998,0.0769,0.0588
-2025-06-16 11:29:56.230661,Winning State - World Series 2025 - Winning State - Winning State,"Illinois (CHC, CWS)",0.018099999999999998,0.0769,0.0588
-2025-06-16 10:41:18.191730,U21 European Championship - European U21 Championship 2025 - To Reach the Final,Germany U21,0.017600000000000005,0.3509,0.3333
-2025-06-16 11:29:53.983628,Club World Cup - Group A - To Qualify From Group,Palmeiras SP,0.01739999999999997,0.7674,0.75
 2025-06-16 15:35:51.532756,AAC - AAC Regular Season Wins - Florida Atlantic,Under 4.5,0.017299999999999982,0.5917,0.5744
 2025-06-16 19:27:27.384571,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Jeremiah Fears,0.016699999999999993,0.2667,0.25
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any English Team to reach the Semi Finals,0.016699999999999937,0.6,0.5833
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hannah Green,0.015899999999999997,0.0179,0.002
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Asian Team to reach the Quarter Finals,0.015400000000000025,0.4,0.3846
 2025-06-16 13:47:34.512328,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Carlos Estevez (PHI),0.015300000000000001,0.0476,0.0323
-2025-06-16 11:29:54.108722,CONCACAF Gold Cup - Group A - Winner,Costa Rica,0.015100000000000002,0.1818,0.1667
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group C,0.015100000000000002,0.1818,0.1667
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,A Lim Kim,0.0151,0.0217,0.0066
-2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Real Madrid to Win; Paris SG to reach the Semi Finals; Bayern to reach Quarter Finals,0.014899999999999997,0.0625,0.0476
 2025-06-16 16:43:14.383352,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Golden State Warriors,0.014899999999999997,0.0625,0.0476
+2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Real Madrid to Win; Paris SG to reach the Semi Finals; Bayern to reach Quarter Finals,0.014899999999999997,0.0625,0.0476
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Liga MX Team to reach Semi Finals,0.014899999999999997,0.0625,0.0476
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Esther Henseleit,0.014599999999999998,0.0196,0.005
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Michael Olise,0.0145,0.0244,0.0099
 2025-06-16 16:43:14.383352,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Cleveland Cavaliers,0.01440000000000001,0.1053,0.0909
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any African Team to reach the Semi Finals,0.014399999999999996,0.0769,0.0625
 2025-06-16 16:43:14.383352,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Orlando Magic,0.014099999999999998,0.0385,0.0244
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Shane Lowry,0.013699999999999999,0.0278,0.0141
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Ben Griffin,0.013,0.0196,0.0066
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Palmeiras SP,0.012899999999999995,0.1667,0.1538
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Brooke Henderson,0.0127,0.0152,0.0025
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Bayern to reach the final; Monterrey to be knocked out in the Quarter Finals,0.012599999999999998,0.0278,0.0152
+2025-06-16 23:31:12.607196,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-06-16 22:35:42.515942,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-06-16 16:43:14.272084,"Daily Soccer Specials - FIFA Club World Cup Specials - Monday, 16th June - FIFA Club World Cup Specials - Monday, 16th June","Chelsea, Benfica and Flamengo to score 6+ Goals Combined",0.012299999999999978,0.6552,0.6429
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Linn Grant,0.0114,0.0164,0.005
+2025-06-16 23:31:12.792482,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Galal Yafai,0.011699999999999933,0.7895,0.7778
 2025-06-16 17:34:10.379231,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ina Yoon,0.011200000000000002,0.0244,0.0132
-2025-06-16 11:29:54.104893,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Costa Rica,0.011199999999999995,0.0588,0.0476
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Thierno Barry (France U21),0.011199999999999995,0.0588,0.0476
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Mitchell Meissner,0.011199999999999995,0.0435,0.0323
-2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Semi Finals,0.010899999999999993,0.1538,0.1429
 2025-06-16 13:02:47.631815,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.010899999999999993,0.1538,0.1429
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Davis Shore,0.0108,0.0141,0.0033
+2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Semi Finals,0.010899999999999993,0.1538,0.1429
 2025-06-16 13:47:34.512328,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Will Vest (DET),0.010700000000000001,0.0385,0.0278
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any German Team to reach the Final,0.010699999999999987,0.3333,0.3226
 2025-06-16 16:43:15.067007,Quarterbacks - NFL 2025-26 Passing TD's - Matthew Stafford Regular Season Total Passing TD's,Under 24.5,0.010699999999999932,0.5455,0.5348
 2025-06-16 16:43:14.272084,"Daily Soccer Specials - FIFA Club World Cup Specials - Monday, 16th June - FIFA Club World Cup Specials - Monday, 16th June","Chelsea, Flamengo and Boca Jrs Each to Score 1+ Goals",0.010699999999999932,0.5455,0.5348
 2025-06-16 16:43:15.070382,Quarterbacks - NFL 2025-26 Passing TD's - Patrick Mahomes Regular Season Total Passing TD's,Over 27.5,0.010699999999999932,0.5455,0.5348
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group F,0.0102,0.0769,0.0667
 2025-06-16 19:27:27.377872,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,VJ Edgecombe,0.0102,0.0769,0.0667
-2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Mike Shildt (SD),0.0102,0.0769,0.0667
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Harry Hall,0.0102,0.0152,0.005
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Palmeiras SP,0.0102,0.0769,0.0667
 2025-06-16 19:27:27.381255,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Tre Johnson,0.0102,0.0769,0.0667
-2025-06-16 11:29:54.440591,Euroleague - Euroleague 2025/26 - Outright,BC Dubai,0.010100000000000001,0.0345,0.0244
+2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Mike Shildt (SD),0.0102,0.0769,0.0667
 2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Cleveland Cavaliers,-0.010099999999999998,0.0952,0.1053
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.010100000000000001,0.0244,0.0345
-2025-06-16 19:27:27.387919,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Jeremiah Fears,-0.0102,0.0667,0.0769
-2025-06-16 19:27:27.384571,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Carter Bryant,-0.0102,0.0667,0.0769
-2025-06-16 19:27:27.387919,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Cedric Coward,-0.0102,0.0667,0.0769
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Juventus,-0.0102,0.0667,0.0769
-2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Denver Nuggets,-0.0102,0.0667,0.0769
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Inter Miami,-0.0102,0.0667,0.0769
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.0102,0.0667,0.0769
 2025-06-16 13:02:49.764933,Travelers Championship - Travelers Championship - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
+2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Denver Nuggets,-0.0102,0.0667,0.0769
+2025-06-16 19:27:27.387919,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Jeremiah Fears,-0.0102,0.0667,0.0769
+2025-06-16 19:27:27.387919,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Cedric Coward,-0.0102,0.0667,0.0769
+2025-06-16 19:27:27.384571,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Carter Bryant,-0.0102,0.0667,0.0769
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Brittney Griner (ATL),-0.010300000000000002,0.0141,0.0244
-2025-06-16 11:29:54.440591,Euroleague - Euroleague 2025/26 - Outright,Panathinaikos,-0.010399999999999993,0.2222,0.2326
-2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Thunder,-0.010600000000000002,0.0217,0.0323
-2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Hawks,-0.010600000000000002,0.0217,0.0323
 2025-06-16 13:02:49.601513,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Kodai Senga (NYM),-0.010600000000000002,0.0217,0.0323
+2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Hawks,-0.010600000000000002,0.0217,0.0323
+2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Thunder,-0.010600000000000002,0.0217,0.0323
 2025-06-16 17:34:10.268972,Boxing Lines - Conah Walker vs Liam Taylor - To Win the Bout,Liam Taylor,-0.010699999999999987,0.3226,0.3333
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Porto,-0.010699999999999987,0.3226,0.3333
-2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Quarter Finals,-0.010700000000000001,0.0278,0.0385
 2025-06-16 13:02:49.606741,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),-0.010700000000000001,0.0278,0.0385
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,James McAtee (England U21),-0.010700000000000001,0.0278,0.0385
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Matthis Abline (France U21),-0.010700000000000001,0.0278,0.0385
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Omari Giraud-Hutchinson (England U21),-0.010700000000000001,0.0278,0.0385
-2025-06-16 11:29:54.112518,CONCACAF Gold Cup - Group B - Winner,El Salvador,-0.010899999999999993,0.1429,0.1538
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Erling Haaland (Man City),-0.010899999999999993,0.1429,0.1538
+2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Quarter Finals,-0.010700000000000001,0.0278,0.0385
 2025-06-16 16:43:15.070382,Quarterbacks - NFL 2025-26 Passing TD's - Patrick Mahomes Regular Season Total Passing TD's,Under 27.5,-0.01100000000000001,0.5238,0.5348
 2025-06-16 16:43:15.067007,Quarterbacks - NFL 2025-26 Passing TD's - Matthew Stafford Regular Season Total Passing TD's,Over 24.5,-0.01100000000000001,0.5238,0.5348
+2025-06-16 19:27:27.377872,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.011099999999999999,0.2667,0.2778
 2025-06-16 13:02:49.596236,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.011099999999999999,0.1,0.1111
 2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,New York Knicks,-0.011099999999999999,0.1,0.1111
-2025-06-16 19:27:27.377872,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.011099999999999999,0.2667,0.2778
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.011199999999999995,0.0476,0.0588
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,River Plate,-0.011199999999999995,0.0476,0.0588
 2025-06-16 15:35:52.343595,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hye Jin Choi,-0.011199999999999995,0.0476,0.0588
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jenny Shin,-0.0113,0.0066,0.0179
 2025-06-16 15:35:51.532756,AAC - AAC Regular Season Wins - Florida Atlantic,Over 4.5,-0.0116,0.4762,0.4878
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,6+ European Teams to Reach Quarter Finals,-0.0116,0.4762,0.4878
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Julian Suri,-0.011699999999999999,0.0079,0.0196
 2025-06-16 19:27:27.374513,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Kon Knueppel,-0.011700000000000016,0.2105,0.2222
 2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Pat Murphy (MIL),-0.0121,0.0435,0.0556
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Harry Kane,-0.012100000000000001,0.0123,0.0244
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Megan Khang,-0.012100000000000001,0.0123,0.0244
-2025-06-16 16:43:15.977236,Pac 12 - Pac 12 Regular Season Wins - Washington State,Over 5.5,-0.012199999999999989,0.4878,0.5
 2025-06-16 15:35:51.556479,AAC - AAC Regular Season Wins - Tulane ,Over 8.5,-0.012199999999999989,0.4878,0.5
-2025-06-16 16:43:14.486005,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,VJ Edgecombe,-0.012299999999999978,0.3448,0.3571
+2025-06-16 16:43:15.977236,Pac 12 - Pac 12 Regular Season Wins - Washington State,Over 5.5,-0.012199999999999989,0.4878,0.5
 2025-06-16 16:43:14.486005,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Ace Bailey,-0.012299999999999978,0.3448,0.3571
-2025-06-16 11:29:54.108722,CONCACAF Gold Cup - Group A - Winner,Mexico,-0.012400000000000078,0.8824,0.8948
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Christo Lamprecht,-0.012599999999999998,0.0152,0.0278
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Brian Harman,-0.012599999999999998,0.0152,0.0278
-2025-06-16 11:29:54.440591,Euroleague - Euroleague 2025/26 - Outright,Barcelona,-0.012600000000000007,0.0588,0.0714
+2025-06-16 16:43:14.486005,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,VJ Edgecombe,-0.012299999999999978,0.3448,0.3571
 2025-06-16 13:02:49.606741,ROY - AL ROY 2025 - American League Rookie of the Year,Noah Cameron,-0.012700000000000003,0.0196,0.0323
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Russell Henley,-0.012700000000000003,0.0196,0.0323
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Chelsea,-0.012899999999999995,0.1538,0.1667
 2025-06-16 16:43:14.489397,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Kon Knueppel,-0.0131,0.2222,0.2353
 2025-06-16 16:43:14.486005,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Kon Knueppel,-0.0131,0.2222,0.2353
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,River Plate,-0.013600000000000001,0.2941,0.3077
-2025-06-16 10:41:18.368242,Copa America Futures - Copa America 2028 - Winner,Argentina,-0.013800000000000034,0.3636,0.3774
 2025-06-16 19:27:27.377872,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,-0.013899999999999996,0.1111,0.125
 2025-06-16 13:02:49.648121,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Seth Hernandez,-0.013899999999999996,0.1111,0.125
-2025-06-16 10:41:18.185266,U21 European Championship - European U21 Championship 2025 - Winner,Netherlands U21,-0.013999999999999999,0.0769,0.0909
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Ludvig Aberg,-0.014099999999999994,0.0526,0.0667
 2025-06-16 13:02:49.612060,ROY - NL ROY 2025 - National League Rookie of the Year,Dylan Crews (WAS),-0.014099999999999998,0.0244,0.0385
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Boca Juniors,-0.014100000000000001,0.0385,0.0526
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Goncalo Ramos (PSG),-0.014199999999999999,0.0152,0.0294
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Chris Koclanes,-0.014599999999999998,0.005,0.0196
-2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Italian Team to reach the Quarter Finals,-0.01469999999999999,0.2353,0.25
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Final,-0.01469999999999999,0.2353,0.25
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Ulsan Hyundai,-0.014900000000000004,0.0196,0.0345
+2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Italian Team to reach the Quarter Finals,-0.01469999999999999,0.2353,0.25
 2025-06-16 19:27:27.374513,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Jeremiah Fears,-0.015100000000000002,0.1667,0.1818
-2025-06-16 11:29:54.112518,CONCACAF Gold Cup - Group B - Winner,Honduras,-0.015100000000000002,0.1667,0.1818
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Harvey Elliott (England U21),-0.015300000000000001,0.0435,0.0588
 2025-06-16 13:02:49.590968,MVP - NL MVP 2025 - National League MVP,Kyle Tucker (CHC),-0.015300000000000001,0.0323,0.0476
 2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Oklahoma City Thunder,-0.015400000000000025,0.3125,0.3279
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Gaby Lopez,-0.0165,0.0079,0.0244
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Quarter Finals,-0.016699999999999993,0.4,0.4167
 2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Minnesota Timberwolves,-0.016700000000000007,0.0833,0.1
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Tony Finau,-0.017100000000000004,0.0152,0.0323
-2025-06-16 11:29:56.230661,Winning State - World Series 2025 - Winning State - Winning State,"Any Other State, Washington DC, or Canada",-0.017299999999999982,0.2857,0.303
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Atletico Madrid & Alexander Sorloth,-0.017800000000000003,0.0066,0.0244
 2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Oliver Marmol (STL),-0.0179,0.125,0.1429
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Collin Morikawa,-0.018099999999999998,0.0588,0.0769
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Sei Young Kim,-0.0182,0.0141,0.0323
 2025-06-16 19:27:27.384571,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Khaman Maluach,-0.01820000000000002,0.1818,0.2
 2025-06-16 16:43:15.031815,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Over 19.5,-0.01880000000000004,0.5556,0.5744
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Caitlin Clark (IND),-0.0189,0.0196,0.0385
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Hideki Matsuyama,-0.0189,0.0196,0.0385
-2025-06-16 10:41:18.188426,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Jon Rowe (England U21),-0.019000000000000003,0.0435,0.0625
 2025-06-16 13:02:49.601513,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),-0.019099999999999992,0.0476,0.0667
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Seattle Sounders FC,-0.0194,0.005,0.0244
-2025-06-16 17:34:08.950582,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Under 28.5,-0.01970000000000005,0.5455,0.5652
-2025-06-16 17:34:08.980963,Quarterbacks - NFL 2025-26 Passing TD's - Geno Smith Regular Season Total Passing TD's,Under 20.5,-0.01970000000000005,0.5455,0.5652
 2025-06-16 16:43:15.053173,Quarterbacks - NFL 2025-26 Passing TD's - Justin Fields Regular Season Total Passing TD's,Under 14.5,-0.01970000000000005,0.5455,0.5652
+2025-06-16 17:34:08.980963,Quarterbacks - NFL 2025-26 Passing TD's - Geno Smith Regular Season Total Passing TD's,Under 20.5,-0.01970000000000005,0.5455,0.5652
 2025-06-16 15:35:51.574831,ACC - ACC Regular Season Wins - California,Over 5.5,-0.01970000000000005,0.5455,0.5652
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,PSG & Ousmane Dembele,-0.019800000000000005,0.0278,0.0476
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Mason Andersen,-0.019899999999999998,0.0079,0.0278
+2025-06-16 17:34:08.950582,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Under 28.5,-0.01970000000000005,0.5455,0.5652
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Becky Hammon (LVA),-0.020000000000000004,0.0123,0.0323
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group D,-0.02020000000000001,0.0909,0.1111
 2025-06-16 16:43:14.479088,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 2nd Overall Pick,VJ Edgecombe,-0.0203,0.0385,0.0588
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Inter Milan,-0.02049999999999999,0.1333,0.1538
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,FC Salzburg,-0.02049999999999999,0.1333,0.1538
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each English Team to reach the Quarter Finals,-0.020799999999999985,0.3125,0.3333
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Logan McAllister,-0.021300000000000003,0.011,0.0323
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Chelsea,-0.021999999999999964,0.2857,0.3077
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group G,-0.022199999999999998,0.2,0.2222
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ European Teams to Reach Semi Finals,-0.022199999999999998,0.7778,0.8
-2025-06-16 11:29:53.990412,Club World Cup - Group B - To Finish Bottom,Paris Saint-Germain,-0.022400000000000003,0.0099,0.0323
-2025-06-16 17:34:08.974213,Quarterbacks - NFL 2025-26 Passing TD's - Dak Prescott Regular Season Total Passing TD's,Over 26.5,-0.022600000000000064,0.5122,0.5348
 2025-06-16 16:43:15.046152,Quarterbacks - NFL 2025-26 Passing TD's - Jordan Love Regular Season Total Passing TD's,Under 25.5,-0.022600000000000064,0.5122,0.5348
+2025-06-16 17:34:08.974213,Quarterbacks - NFL 2025-26 Passing TD's - Dak Prescott Regular Season Total Passing TD's,Over 26.5,-0.022600000000000064,0.5122,0.5348
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Semi Finals,-0.022699999999999998,0.4651,0.4878
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Angel Reese (CHI),-0.023200000000000002,0.0244,0.0476
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Julian Alvarez (Atletico Madrid),-0.023200000000000002,0.0244,0.0476
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Real Madrid to Win; Atl. Madrid to reach the Semi Finals; Inter Milan to reach Quarter Finals,-0.0233,0.0152,0.0385
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Caroline Inglis,-0.0234,0.001,0.0244
 2025-06-16 13:47:34.534232,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Craig Counsell (CHC),-0.023699999999999943,0.5917,0.6154
 2025-06-16 13:02:49.612060,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.023799999999999988,0.3333,0.3571
 2025-06-16 22:35:40.911917,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Egor Demin,-0.024499999999999966,0.274,0.2985
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Kylian Mbappe,-0.0245,0.0588,0.0833
-2025-06-16 18:45:11.023863,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 14:37:58.312238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 17:34:10.338854,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 23:31:12.856530,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-16 22:35:42.760151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 21:31:39.153795,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 15:35:52.305269,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 16:43:16.388775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-16 20:35:16.315523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 13:02:49.738342,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 10:41:20.426115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 19:27:29.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-16 13:47:34.642974,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 11:29:56.389526,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-16 11:29:53.983628,Club World Cup - Group A - To Qualify From Group,Al Ahly Cairo,-0.02560000000000001,0.3077,0.3333
-2025-06-16 17:34:10.334775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 15:35:52.305269,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 21:31:39.153795,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 13:02:49.738342,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 19:27:29.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 18:45:11.023863,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 17:34:10.338854,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 16:43:16.388775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 14:37:58.312238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-16 21:31:39.149773,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-16 20:35:16.311552,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-16 19:27:29.314482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 23:31:12.852502,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-16 18:45:11.019544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 15:35:52.301182,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 16:43:16.384686,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 14:37:58.308263,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-16 13:47:34.638778,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 13:02:49.734210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 11:29:56.385531,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 10:41:20.422107,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-16 21:31:37.247936,Draft Position - Player Draft Position - Derik Queen Draft Position,Under 10.5,-0.026600000000000013,0.4082,0.4348
 2025-06-16 22:35:42.756176,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 17:34:10.334775,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 16:43:16.384686,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 21:31:37.247936,Draft Position - Player Draft Position - Derik Queen Draft Position,Under 10.5,-0.026600000000000013,0.4082,0.4348
+2025-06-16 15:35:52.301182,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 13:02:49.734210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 14:37:58.308263,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-16 13:47:34.512328,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Mason Miller (ATH),-0.0267,0.0909,0.1176
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any German Team to be Knocked out in the Group Stage,-0.02679999999999999,0.2857,0.3125
 2025-06-16 13:02:47.631815,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,-0.02679999999999999,0.2857,0.3125
 2025-06-16 13:02:49.596236,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),-0.02840000000000001,0.0769,0.1053
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Rory McIlroy,-0.02840000000000001,0.0769,0.1053
 2025-06-16 16:43:14.479088,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 2nd Overall Pick,Tre Johnson,-0.0286,0.0099,0.0385
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any MLS Team to reach Semi Finals,-0.028799999999999992,0.1379,0.1667
 2025-06-16 16:43:15.073708,Quarterbacks - NFL 2025-26 Passing TD's - Sam Darnold Regular Season Total Passing TD's,Under 20.5,-0.028900000000000037,0.5455,0.5744
-2025-06-16 10:41:18.007898,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group H,-0.029899999999999982,0.2,0.2299
 2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Knicks,-0.030199999999999998,0.0323,0.0625
-2025-06-16 11:29:53.980707,Club World Cup - Group A - Not To Qualify From Group,Palmeiras SP,-0.030299999999999994,0.303,0.3333
 2025-06-16 17:34:08.967401,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Under 23.5,-0.03090000000000004,0.5917,0.6226
 2025-06-16 21:31:37.078860,NBA Championship - NBA Championship 2025-26 - NBA Champion 2025-26,Indiana Pacers,-0.031799999999999995,0.1111,0.1429
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Al Ahly Cairo,-0.031799999999999995,0.1111,0.1429
-2025-06-16 11:29:54.108722,CONCACAF Gold Cup - Group A - Winner,Suriname,-0.032400000000000005,0.0152,0.0476
-2025-06-16 11:29:56.434440,Wichita Open - Wichita Open - Winner,Brandon Crick,-0.032799999999999996,0.0057,0.0385
 2025-06-16 13:02:49.612060,ROY - NL ROY 2025 - National League Rookie of the Year,Chad Patrick,-0.034100000000000005,0.0909,0.125
 2025-06-16 17:34:08.360103,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Jonquel Jones (NYL),-0.03439999999999999,0.0323,0.0667
-2025-06-16 10:41:18.004684,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Harry Kane,-0.0344,0.0244,0.0588
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Final,-0.035699999999999954,0.7143,0.75
 2025-06-16 16:43:15.049646,Quarterbacks - NFL 2025-26 Passing TD's - Josh Allen Regular Season Total Passing TD's,Over 27.5,-0.035999999999999976,0.4762,0.5122
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Seattle Sounders FC,-0.0374,0.0152,0.0526
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Lynne Roberts,-0.037700000000000004,0.0099,0.0476
 2025-06-16 15:35:51.754457,Conference USA - Conference USA Regular Season Wins - Jacksonville State,Over 6.5,-0.0378,0.4167,0.4545
 2025-06-16 15:35:51.907567,SEC - SEC Regular Season Wins - Florida,Under 7.5,-0.037900000000000045,0.5917,0.6296
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Ousmane Dembele (PSG),-0.038299999999999994,0.0526,0.0909
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.03889999999999999,0.1429,0.1818
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Alexander Sorloth (Atletico Madrid),-0.0392,0.0196,0.0588
-2025-06-16 11:29:53.987434,Club World Cup - Group B - Winner,Seattle Sounders FC,-0.039400000000000004,0.0132,0.0526
-2025-06-16 10:41:18.191730,U21 European Championship - European U21 Championship 2025 - To Reach the Final,Netherlands U21,-0.04040000000000002,0.1818,0.2222
-2025-06-16 11:29:53.980707,Club World Cup - Group A - Not To Qualify From Group,FC Porto,-0.04099999999999998,0.3226,0.3636
-2025-06-16 11:29:53.884269,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Atletico Madrid,-0.042899999999999994,0.1,0.1429
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Olivia Nelson-Ododa (CON),-0.0429,0.0196,0.0625
 2025-06-16 20:35:16.079450,MLB Series Prices - MLB Series Prices June 16 - 18 - 3 Game Series,Seattle Mariners,-0.04290000000000005,0.6,0.6429
-2025-06-16 11:29:56.416838,Travelers Championship - Travelers Championship - Winner,Xander Schauffele,-0.04440000000000001,0.0667,0.1111
 2025-06-16 21:31:37.308854,To Be Drafted First - Player to be Drafted First - H2H - Noa Essengue vs Derik Queen,Derik Queen,-0.04700000000000004,0.4878,0.5348
 2025-06-16 20:35:14.400959,Draft Position - Player Draft Position - Jase Richardson Draft Position,Under 19.5,-0.04700000000000004,0.4878,0.5348
-2025-06-16 11:29:53.881194,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Atletico Madrid,-0.04999999999999999,0.2,0.25
 2025-06-16 13:02:49.648121,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Ethan Holliday,-0.05019999999999991,0.5652,0.6154
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lexi Thompson,-0.0503,0.0164,0.0667
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hinako Shibuno,-0.0509,0.0079,0.0588
 2025-06-16 13:02:49.601513,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Yoshinobu Yamamoto (LAD),-0.052000000000000005,0.0909,0.1429
 2025-06-16 16:43:15.973896,Pac 12 - Pac 12 Regular Season Wins - Oregon State,Under 6.5,-0.05299999999999999,0.4348,0.4878
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to Reach Quarter Finals,-0.055499999999999994,0.7778,0.8333
-2025-06-16 11:29:53.983628,Club World Cup - Group A - To Qualify From Group,Inter Miami,-0.055900000000000005,0.3077,0.3636
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any MLS Team to reach Quarter Finals,-0.055900000000000005,0.3077,0.3636
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Ulsan Hyundai,-0.0585,0.0526,0.1111
-2025-06-16 11:29:53.974283,Club World Cup - Group A - Winner,Palmeiras SP,-0.05860000000000004,0.4762,0.5348
 2025-06-16 17:34:08.364340,WNBA Awards - Most Improved Player 2025 - Most Improved Player 2025,Brittney Sykes (WAS),-0.060600000000000015,0.1667,0.2273
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Paris SG, Atl.Madrid and Chelsea each to reach Quarter Finals",-0.06139999999999998,0.1053,0.1667
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jin Young Ko,-0.06309999999999999,0.0278,0.0909
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Sarah Schmelzel,-0.06459999999999999,0.0123,0.0769
 2025-06-16 15:35:51.601486,ACC - ACC Regular Season Wins - North Carolina,Over 7.5,-0.06509999999999999,0.4,0.4651
-2025-06-16 11:29:54.135429,U21 European Championship - Group B - Winner,England U21,-0.06519999999999998,0.4348,0.5
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Spanish Team to reach the Semi Finals,-0.066,0.0769,0.1429
 2025-06-16 13:02:49.627495,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Javier Baez (DET),-0.06669999999999998,0.1,0.1667
-2025-06-16 11:29:53.977239,Club World Cup - Group A - To Finish Bottom,Al Ahly Cairo,-0.06930000000000003,0.4545,0.5238
-2025-06-16 10:41:17.993713,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Harry Kane (Bayern Munich),-0.0705,0.0833,0.1538
 2025-06-16 13:02:47.475391,CONCACAF Gold Cup - Group D - Winner,Saudi Arabia,-0.07230000000000003,0.2667,0.339
-2025-06-16 11:29:54.459789,Bundesliga - Germany Bundesliga 2024/25 - Outright,Ratiopharm Ulm,-0.07719999999999999,0.1333,0.2105
 2025-06-16 20:35:14.394379,Draft Position - Player Draft Position - Derik Queen Draft Position,Under 10.5,-0.07739999999999997,0.4348,0.5122
 2025-06-16 21:31:38.917508,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,-0.0797,0.3125,0.3922
 2025-06-16 22:35:42.525241,MLB Series Prices - MLB Series Prices June 16 - 19 - 4 Game Series,Tie,-0.0797,0.3125,0.3922
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lilia Vu,-0.08299999999999999,0.0079,0.0909
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Inter Miami,-0.08330000000000001,0.1667,0.25
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to reach the Semi Finals,-0.08399999999999996,0.5238,0.6078
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Sydney Johnson,-0.0865,0.0385,0.125
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Seattle Sounders FC,-0.0905,0.0345,0.125
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Atl.Madrid to reach semi finals; Seattle Sounders to be knocked out in the group stage,-0.09620000000000001,0.1538,0.25
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to reach the Final,-0.10289999999999999,0.3226,0.4255
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lauren Hartlage,-0.10400000000000001,0.0013,0.1053
-2025-06-16 11:29:53.878109,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Atletico Madrid,-0.11260000000000003,0.3636,0.4762
-2025-06-16 10:41:20.346621,College World Series Winner - College World Series - College World Series 2025 Winner,Oregon State Beavers,-0.1155,0.0714,0.1869
 2025-06-16 14:37:55.843631,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Spanish Team to reach the Quarter Finals,-0.12589999999999998,0.1818,0.3077
-2025-06-16 11:29:53.993967,Club World Cup - Group B - Not To Qualify From Group,Botafogo RJ,-0.131,0.5464,0.6774
 2025-06-16 17:34:08.355882,WNBA Awards - Coach of the Year 2025 - Coach of the Year 2025,Stephanie White,-0.1597,0.0625,0.2222
-2025-06-16 11:29:53.996896,Club World Cup - Group B - To Qualify From Group,Atletico Madrid,-0.16790000000000005,0.5464,0.7143
-2025-06-16 11:29:53.996896,Club World Cup - Group B - To Qualify From Group,Seattle Sounders FC,-0.16860000000000003,0.0667,0.2353
-2025-06-16 11:29:54.445528,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,-0.17209999999999998,0.3279,0.5
-2025-06-16 11:29:53.990412,Club World Cup - Group B - To Finish Bottom,Botafogo RJ,-0.2168,0.0909,0.3077
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Nelly Korda,-0.2244,0.0833,0.3077
-2025-06-16 11:29:53.993967,Club World Cup - Group B - Not To Qualify From Group,Paris Saint-Germain,-0.2304,0.0196,0.25
-2025-06-16 11:29:56.428420,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Amy Yang,-0.3046,0.0079,0.3125
 2025-06-16 20:35:14.327093,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Spurs,-0.3056,0.25,0.5556
-2025-06-16 11:29:53.987434,Club World Cup - Group B - Winner,Atletico Madrid,-0.3074,0.0435,0.3509

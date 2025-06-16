@@ -1,12 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-06-15 13:39:05.882832,U21 European Championship - Group C - Winner,Portugal U21,0.30160000000000003,0.7778,0.4762
-2025-06-15 13:39:05.889650,U21 European Championship - Group C - Not To Qualify from Group Stage,Georgia U21,0.15239999999999998,0.8667,0.7143
-2025-06-15 13:39:05.886463,U21 European Championship - Group C - To Qualify from Group Stage,France U21,0.1471,0.9804,0.8333
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Noa Essengue,0.14140000000000008,0.7778,0.6364
-2025-06-15 13:39:05.868110,U21 European Championship - Group A - Winner,Spain U21,0.14140000000000008,0.7778,0.6364
 2025-06-15 14:32:49.248370,Round Scores - Final Round Score - Victor Perez - Final Round Score,Over 73.5,0.13489999999999996,0.6,0.4651
-2025-06-15 13:39:05.670313,Club World Cup - Group A - Winner,Palmeiras SP,0.12660000000000005,0.5348,0.4082
-2025-06-15 13:39:05.886463,U21 European Championship - Group C - To Qualify from Group Stage,Portugal U21,0.12309999999999999,0.9231,0.8
 2025-06-15 14:32:49.252726,Round Scores - Final Round Score - Emiliano Grillo - Final Round Score,Over 73.5,0.09049999999999997,0.5556,0.4651
 2025-06-15 17:32:08.490633,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Jeremiah Fears,0.08549999999999996,0.3077,0.2222
 2025-06-15 14:32:49.174629,Round Scores - Final Round Score - Patrick Reed - Final Round Score,Over 72.5,0.08039999999999997,0.5455,0.4651
@@ -17,127 +11,91 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 14:32:49.257085,Round Scores - Final Round Score - Russell Henley - Final Round Score,Over 72.5,0.06779999999999997,0.5556,0.4878
 2025-06-15 14:32:49.326551,Round Scores - Final Round Score - Sam Burns - Final Round Score,Over 72.5,0.06230000000000002,0.6078,0.5455
 2025-06-15 14:32:49.304861,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Over 72.5,0.06230000000000002,0.6078,0.5455
-2025-06-15 13:39:05.673499,Club World Cup - Group A - To Finish Bottom,Inter Miami,0.05890000000000001,0.3922,0.3333
 2025-06-15 14:32:49.270055,Round Scores - Final Round Score - Nick Taylor - Final Round Score,Over 72.5,0.05889999999999995,0.6667,0.6078
-2025-06-15 12:56:32.233135,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 72.5,0.05870000000000003,0.5238,0.4651
-2025-06-15 12:56:32.354679,Round Scores - Final Round Score - Sam Burns - Final Round Score,Over 72.5,0.057699999999999974,0.5455,0.4878
-2025-06-15 14:32:49.170287,Round Scores - Final Round Score - Laurie Canter - Final Round Score,Over 74.5,0.05559999999999998,0.5,0.4444
 2025-06-15 14:32:49.218070,Round Scores - Final Round Score - Chris Kirk - Final Round Score,Over 74.5,0.05559999999999998,0.5,0.4444
+2025-06-15 14:32:49.170287,Round Scores - Final Round Score - Laurie Canter - Final Round Score,Over 74.5,0.05559999999999998,0.5,0.4444
 2025-06-15 14:32:49.226727,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 72.5,0.05449999999999999,0.6,0.5455
-2025-06-15 14:32:49.313543,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.05449999999999999,0.6,0.5455
 2025-06-15 14:32:49.231037,Round Scores - Final Round Score - Sam Stevens - Final Round Score,Over 73.5,0.05449999999999999,0.6,0.5455
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Porto & Palmeiras,0.053100000000000036,0.4167,0.3636
+2025-06-15 14:32:49.313543,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.05449999999999999,0.6,0.5455
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Kasparas Jakucionis,0.051100000000000034,0.6875,0.6364
 2025-06-15 14:32:49.213644,Round Scores - Final Round Score - Thomas Detry - Final Round Score,Over 72.5,0.0474,0.6552,0.6078
 2025-06-15 14:32:49.309205,Round Scores - Final Round Score - Tyrrell Hatton - Final Round Score,Over 72.5,0.047099999999999975,0.5122,0.4651
-2025-06-15 14:32:49.209309,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 72.5,0.04700000000000004,0.5348,0.4878
 2025-06-15 14:32:49.200706,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Over 73.5,0.04700000000000004,0.5348,0.4878
+2025-06-15 14:32:49.209309,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 72.5,0.04700000000000004,0.5348,0.4878
 2025-06-15 14:32:49.322237,Round Scores - Final Round Score - Adam Scott - Final Round Score,Over 72.5,0.045499999999999985,0.5455,0.5
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Robert Suarez (SD),0.045499999999999985,0.5,0.4545
-2025-06-15 14:32:49.296088,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Over 72.5,0.04469999999999996,0.6364,0.5917
 2025-06-15 14:32:49.261407,Round Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Over 73.5,0.04469999999999996,0.6364,0.5917
-2025-06-15 13:39:05.684971,Club World Cup - Group A - Not To Qualify From Group,Al Ahly Cairo,0.04410000000000003,0.75,0.7059
-2025-06-15 14:32:49.183344,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Over 72.5,0.04259999999999997,0.6078,0.5652
+2025-06-15 14:32:49.296088,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Over 72.5,0.04469999999999996,0.6364,0.5917
 2025-06-15 15:31:37.221605,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Over 72.5,0.04259999999999997,0.6078,0.5652
 2025-06-15 14:32:49.222386,Round Scores - Final Round Score - Jason Day - Final Round Score,Over 72.5,0.04259999999999997,0.6078,0.5652
+2025-06-15 14:32:49.183344,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Over 72.5,0.04259999999999997,0.6078,0.5652
 2025-06-15 20:32:51.746746,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Noa Essengue,0.04169999999999999,0.1667,0.125
-2025-06-15 14:32:49.235344,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Over 73.5,0.04139999999999999,0.5652,0.5238
-2025-06-15 12:56:32.250608,Round Scores - Final Round Score - Jason Day - Final Round Score,Over 72.5,0.04139999999999999,0.5652,0.5238
 2025-06-15 14:32:49.274399,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 70.5,0.04139999999999999,0.4762,0.4348
+2025-06-15 14:32:49.235344,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Over 73.5,0.04139999999999999,0.5652,0.5238
 2025-06-15 14:32:49.300415,Round Scores - Final Round Score - Thriston Lawrence - Final Round Score,Over 73.5,0.0413,0.6491,0.6078
-2025-06-15 13:39:05.684971,Club World Cup - Group A - Not To Qualify From Group,Inter Miami,0.03920000000000001,0.7059,0.6667
-2025-06-15 15:31:37.243600,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.03639999999999999,0.6364,0.6
 2025-06-15 15:31:37.212826,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Over 73.5,0.03639999999999999,0.6364,0.6
 2025-06-15 15:31:37.195205,Round Scores - Final Round Score - Max Greyserman - Final Round Score,Over 73.5,0.03639999999999999,0.6364,0.6
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Palmeiras 1st , Inter Miami 2nd",0.036199999999999996,0.1538,0.1176
-2025-06-15 13:39:05.688117,Club World Cup - Group A - To Qualify From Group,Palmeiras SP,0.035699999999999954,0.75,0.7143
+2025-06-15 15:31:37.243600,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Over 72.5,0.03639999999999999,0.6364,0.6
 2025-06-15 14:32:49.265738,Round Scores - Final Round Score - Max Greyserman - Final Round Score,Over 73.5,0.03479999999999994,0.6,0.5652
-2025-06-15 14:32:49.283064,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Over 73.5,0.03479999999999994,0.6,0.5652
 2025-06-15 14:32:49.239691,Round Scores - Final Round Score - Ryan Gerard - Final Round Score,Over 73.5,0.03479999999999994,0.6,0.5652
-2025-06-15 13:39:05.851971,CONCACAF Gold Cup - Group A - Winner,Mexico,0.03270000000000006,0.8948,0.8621
-2025-06-15 12:56:32.085935,Main Markets - Final Round 2-Balls - V. Hovland / J.J. Spaun - Final Round 2-Balls,J J Spaun,0.031799999999999995,0.4762,0.4444
+2025-06-15 14:32:49.283064,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Over 73.5,0.03479999999999994,0.6,0.5652
 2025-06-15 15:31:37.208463,Round Scores - Final Round Score - Christopher Gotterup - Final Round Score,Over 74.5,0.031799999999999995,0.4762,0.4444
 2025-06-15 14:32:49.205005,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Over 72.5,0.03179999999999994,0.5556,0.5238
-2025-06-15 13:39:08.397445,Main Markets - Final Round 2-Balls - R. Henley / E. Grillo - Final Round 2-Balls,Emiliano Grillo,0.029000000000000026,0.4545,0.4255
 2025-06-15 17:32:08.487281,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Ace Bailey,0.028799999999999992,0.1538,0.125
-2025-06-15 15:31:37.234877,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Over 72.5,0.02859999999999996,0.6364,0.6078
 2025-06-15 15:31:37.150855,Round Scores - Final Round Score - Jason Day - Final Round Score,Over 72.5,0.02859999999999996,0.6364,0.6078
 2025-06-15 15:31:37.257117,Round Scores - Final Round Score - Sam Burns - Final Round Score,Over 72.5,0.02859999999999996,0.6364,0.6078
-2025-06-15 13:39:05.688117,Club World Cup - Group A - To Qualify From Group,FC Porto,0.02849999999999997,0.7059,0.6774
+2025-06-15 15:31:37.234877,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Over 72.5,0.02859999999999996,0.6364,0.6078
 2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Khaman Maluach,0.02779999999999999,0.25,0.2222
-2025-06-15 12:56:31.949455,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 13:39:08.299645,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 20:32:53.459491,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 19:26:46.221658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 22:34:22.056222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 14:32:49.060548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 18:40:30.036923,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-16 02:25:39.455191,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-15 23:30:42.442359,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 16:39:40.512610,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 22:34:22.056222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-15 21:29:58.473722,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-15 17:32:10.257395,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 14:32:49.060548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 20:32:53.459491,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-15 19:26:46.221658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-15 15:31:37.004349,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 16:39:40.512610,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 18:40:30.036923,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-15 14:32:49.196320,Round Scores - Final Round Score - Aaron Rai - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
-2025-06-15 12:56:32.081541,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Tyrrell Hatton,0.026499999999999968,0.5917,0.5652
 2025-06-15 15:31:37.217208,Round Scores - Final Round Score - Cameron Young - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
-2025-06-15 12:56:31.945349,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 13:39:08.295127,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 17:32:10.253155,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 18:40:30.032924,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 14:32:49.196320,Round Scores - Final Round Score - Aaron Rai - Final Round Score,Over 72.5,0.026499999999999968,0.5917,0.5652
+2025-06-16 02:25:39.451280,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 22:34:22.052139,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-15 19:26:46.217439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 21:29:58.469720,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 15:31:37.000184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 17:32:10.253155,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 20:32:53.455488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 18:40:30.032924,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-15 23:30:42.438314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-15 16:39:40.508548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 22:34:22.052139,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-15 14:32:49.056488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-15 20:32:53.455488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 21:29:58.469720,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-15 15:31:37.000184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Shelby Miller (ARI),0.024800000000000003,0.0526,0.0278
 2025-06-15 14:32:49.179015,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Over 71.5,0.024399999999999977,0.5122,0.4878
 2025-06-15 15:31:37.204070,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 70.5,0.023799999999999988,0.5,0.4762
 2025-06-15 15:31:37.081699,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Carlos Ortiz,0.023799999999999988,0.5,0.4762
 2025-06-15 14:32:46.482993,Club World Cup - FIFA Club World Cup 2025 - Furthest Progressing Brazilian Team ,Palmeiras,0.023799999999999988,0.3571,0.3333
-2025-06-15 12:56:32.022253,Main Markets - Final Round 2-Balls - S.W. Kim / J. Vegas - Final Round 2-Balls,Si Woo Kim,0.022600000000000064,0.6226,0.6
 2025-06-15 14:32:49.187653,Round Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 71.5,0.022600000000000064,0.5348,0.5122
 2025-06-15 14:32:49.317923,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 71.5,0.022600000000000064,0.6226,0.6
-2025-06-15 12:56:31.976598,Main Markets - Final Round 2-Balls - P. Barbaree / S. Im - Final Round 2-Balls,Sungjae Im,0.022499999999999964,0.7368,0.7143
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Palmeiras 1st , Porto 2nd",0.022199999999999998,0.2222,0.2
 2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Derik Queen,0.022199999999999998,0.1333,0.1111
-2025-06-15 13:39:08.424743,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Carlos Ortiz,0.021699999999999997,0.4762,0.4545
-2025-06-15 13:39:08.410927,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Chris Gotterup,0.02169999999999994,0.5455,0.5238
-2025-06-15 12:56:32.254957,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Over 72.5,0.02169999999999994,0.5455,0.5238
-2025-06-15 12:56:32.132964,Round Match-Ups - Final Round Match-Ups - B. Koepka vs J. Day - Final Round Match-Ups,Brooks Koepka,0.02169999999999994,0.5455,0.5238
 2025-06-15 15:31:37.199651,Round Scores - Final Round Score - Nick Taylor - Final Round Score,Over 72.5,0.02080000000000004,0.6875,0.6667
 2025-06-15 17:32:09.022598,Quarterbacks - NFL 2025-26 Passing Yards - Caleb Williams Regular Season Total Passing Yards 2025-26,Over 3550.5,0.02079999999999993,0.5556,0.5348
 2025-06-15 14:32:49.103308,Main Markets - Final Round 2-Balls - A. Rai / T. Cone - Final Round 2-Balls,Aaron Rai,0.020199999999999996,0.6923,0.6721
 2025-06-15 19:26:46.146799,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Brian Norman Jr.,0.020199999999999996,0.8333,0.8131
-2025-06-15 12:56:32.350333,Round Scores - Final Round Score - Adam Scott - Final Round Score,Under 72.5,0.01970000000000005,0.5652,0.5455
-2025-06-15 15:31:37.069142,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Chris Gotterup,0.01970000000000005,0.5652,0.5455
 2025-06-15 15:31:37.252536,Round Scores - Final Round Score - Adam Scott - Final Round Score,Over 72.5,0.01970000000000005,0.5652,0.5455
-2025-06-15 12:56:32.184319,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 71.5,0.01970000000000005,0.5652,0.5455
-2025-06-15 12:56:32.175565,Round Scores - Final Round Score - Daniel Berger - Final Round Score,Over 72.5,0.01970000000000005,0.5652,0.5455
-2025-06-15 12:56:32.246204,Round Scores - Final Round Score - Chris Kirk - Final Round Score,Over 74.5,0.018900000000000028,0.4444,0.4255
-2025-06-15 15:31:37.190652,Round Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Over 73.5,0.01880000000000004,0.6552,0.6364
+2025-06-15 15:31:37.069142,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Chris Gotterup,0.01970000000000005,0.5652,0.5455
 2025-06-15 15:31:37.226081,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Over 72.5,0.01880000000000004,0.6552,0.6364
+2025-06-15 15:31:37.190652,Round Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Over 73.5,0.01880000000000004,0.6552,0.6364
 2025-06-15 15:31:37.230525,Round Scores - Final Round Score - Thriston Lawrence - Final Round Score,Over 73.5,0.01759999999999995,0.6667,0.6491
-2025-06-15 12:56:32.179971,Round Scores - Final Round Score - Rory McIIroy - Final Round Score,Over 71.5,0.017299999999999982,0.5917,0.5744
-2025-06-15 13:39:08.356525,Main Markets - Final Round 2-Balls - M. McNealy / X. Schauffele - Final Round 2-Balls,Maverick McNealy,0.017299999999999982,0.4255,0.4082
 2025-06-15 14:32:46.671407,Club World Cup - Group B - Top 2 - Exact Order,"Atletico Madrid 1st , PSG 2nd",0.016699999999999993,0.2667,0.25
-2025-06-15 12:56:32.241786,Round Scores - Final Round Score - Thomas Detry - Final Round Score,Over 72.5,0.016100000000000003,0.6078,0.5917
 2025-06-15 14:32:49.191999,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 72.5,0.016100000000000003,0.6078,0.5917
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Palmeiras & Inter Miami,0.015899999999999997,0.2381,0.2222
-2025-06-15 13:39:05.673499,Club World Cup - Group A - To Finish Bottom,FC Porto,0.015700000000000006,0.1333,0.1176
-2025-06-15 20:32:51.739206,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Derik Queen,0.015100000000000002,0.1818,0.1667
 2025-06-15 20:32:51.739206,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Noa Essengue,0.015100000000000002,0.1818,0.1667
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Palmeiras 1st , Al Ahly Cairo 2nd",0.013999999999999999,0.0909,0.0769
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Palmeiras & Al Ahly Cairo,0.013899999999999996,0.125,0.1111
+2025-06-15 20:32:51.739206,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Derik Queen,0.015100000000000002,0.1818,0.1667
 2025-06-15 14:32:46.691800,Club World Cup - Group C - Top 2 - Exact Order,"Bayern Munich 1st , Benfica 2nd",0.013800000000000034,0.3774,0.3636
-2025-06-15 12:56:32.018124,Main Markets - Final Round 2-Balls - M. McNealy / X. Schauffele - Final Round 2-Balls,Xander Schauffele,0.013799999999999923,0.6364,0.6226
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Edwin Diaz (NYM),0.011899999999999994,0.25,0.2381
 2025-06-15 15:31:37.239267,Round Scores - Final Round Score - Tyrrell Hatton - Final Round Score,Over 72.5,0.011600000000000055,0.5238,0.5122
 2025-06-15 15:31:37.142040,Round Scores - Final Round Score - Thomas Detry - Final Round Score,Over 72.5,0.011499999999999955,0.6667,0.6552
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Trevor Megill (MIL),0.011200000000000002,0.0244,0.0132
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Inter Miami 1st , Palmeiras 2nd",0.011099999999999999,0.1111,0.1
 2025-06-15 19:26:44.628015,Conferences - American Athletic Conference Championship  - American Athletic Conference Championship Game Winner 2025 ,UTSA,0.010899999999999993,0.1538,0.1429
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Kyle Finnegan (WAS),0.010700000000000001,0.0385,0.0278
 2025-06-15 14:32:46.671407,Club World Cup - Group B - Top 2 - Exact Order,"PSG 1st , Atletico Madrid 2nd",0.010699999999999987,0.3333,0.3226
@@ -151,146 +109,103 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-15 17:32:09.025871,Quarterbacks - NFL 2025-26 Passing Yards - Cameron Ward Regular Season Total Passing Yards 2025-26,Over 3200.5,-0.01100000000000001,0.5238,0.5348
 2025-06-15 15:31:37.137583,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 72.5,-0.01100000000000001,0.5238,0.5348
 2025-06-15 20:32:51.746746,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Khaman Maluach,-0.011099999999999999,0.1,0.1111
-2025-06-15 13:39:05.688117,Club World Cup - Group A - To Qualify From Group,Al Ahly Cairo,-0.01150000000000001,0.3333,0.3448
-2025-06-15 12:56:32.179971,Round Scores - Final Round Score - Rory McIIroy - Final Round Score,Under 71.5,-0.0116,0.4762,0.4878
 2025-06-15 14:32:46.691800,Club World Cup - Group C - Top 2 - Exact Order,"Bayern Munich 1st , Boca Juniors 2nd",-0.011700000000000016,0.2105,0.2222
 2025-06-15 19:26:44.628015,Conferences - American Athletic Conference Championship  - American Athletic Conference Championship Game Winner 2025 ,Memphis,-0.012899999999999995,0.1538,0.1667
-2025-06-15 12:56:32.246204,Round Scores - Final Round Score - Chris Kirk - Final Round Score,Under 74.5,-0.013799999999999923,0.6226,0.6364
-2025-06-15 13:39:08.356525,Main Markets - Final Round 2-Balls - M. McNealy / X. Schauffele - Final Round 2-Balls,Xander Schauffele,-0.013799999999999923,0.6226,0.6364
-2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Cedric Coward,-0.013999999999999999,0.0769,0.0909
 2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Jeremiah Fears,-0.013999999999999999,0.0769,0.0909
+2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Cedric Coward,-0.013999999999999999,0.0769,0.0909
 2025-06-15 20:32:53.265196,AL West - AL West 2025 - AL West Winner 2025,Los Angeles Angels,-0.014099999999999998,0.0244,0.0385
-2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Rasheer Fleming,-0.014399999999999996,0.0625,0.0769
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Nique Clifford,-0.014399999999999996,0.0625,0.0769
+2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Rasheer Fleming,-0.014399999999999996,0.0625,0.0769
 2025-06-15 20:32:53.279523,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.01440000000000001,0.0909,0.1053
-2025-06-15 13:39:05.851971,CONCACAF Gold Cup - Group A - Winner,Dominican Republic,-0.0145,0.0099,0.0244
-2025-06-15 13:39:05.851971,CONCACAF Gold Cup - Group A - Winner,Costa Rica,-0.015100000000000002,0.1667,0.1818
 2025-06-15 20:32:51.742522,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Kasparas Jakucionis,-0.015100000000000002,0.1667,0.1818
 2025-06-15 20:32:51.746746,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Kasparas Jakucionis,-0.015100000000000002,0.1667,0.1818
 2025-06-15 20:32:53.265196,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.015800000000000036,0.6667,0.6825
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Porto & Al Ahly Cairo,-0.015899999999999997,0.0952,0.1111
 2025-06-15 15:31:37.230525,Round Scores - Final Round Score - Thriston Lawrence - Final Round Score,Under 73.5,-0.016699999999999993,0.4,0.4167
 2025-06-15 15:31:37.226081,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Under 72.5,-0.017299999999999982,0.4082,0.4255
 2025-06-15 15:31:37.190652,Round Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Under 73.5,-0.017299999999999982,0.4082,0.4255
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Inter Miami & Al Ahly Cairo,-0.018099999999999998,0.0588,0.0769
 2025-06-15 20:32:51.739206,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Egor Demin,-0.018099999999999998,0.0588,0.0769
 2025-06-15 20:32:51.722601,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,VJ Edgecombe,-0.018100000000000005,0.5652,0.5833
 2025-06-15 14:32:49.179015,Round Scores - Final Round Score - Jon Rahm - Final Round Score,Under 71.5,-0.01880000000000004,0.5556,0.5744
-2025-06-15 12:56:32.022253,Main Markets - Final Round 2-Balls - S.W. Kim / J. Vegas - Final Round 2-Balls,Jhonattan Vegas,-0.018900000000000028,0.4255,0.4444
 2025-06-15 14:32:49.103308,Main Markets - Final Round 2-Balls - A. Rai / T. Cone - Final Round 2-Balls,Trevor Cone,-0.019500000000000017,0.3509,0.3704
 2025-06-15 15:31:37.081699,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Tyrrell Hatton,-0.01970000000000005,0.5455,0.5652
 2025-06-15 14:32:49.317923,Round Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 71.5,-0.020699999999999996,0.4444,0.4651
 2025-06-15 14:32:49.187653,Round Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 71.5,-0.02079999999999993,0.5348,0.5556
 2025-06-15 19:26:46.146799,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,-0.021100000000000008,0.2353,0.2564
-2025-06-15 12:56:32.254957,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 72.5,-0.02169999999999994,0.5238,0.5455
-2025-06-15 12:56:32.081541,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Carlos Ortiz,-0.021699999999999997,0.4545,0.4762
-2025-06-15 12:56:32.241786,Round Scores - Final Round Score - Thomas Detry - Final Round Score,Under 72.5,-0.021699999999999997,0.4545,0.4762
 2025-06-15 14:32:49.191999,Round Scores - Final Round Score - Si Woo Kim - Final Round Score,Under 72.5,-0.021699999999999997,0.4545,0.4762
 2025-06-15 15:31:37.199651,Round Scores - Final Round Score - Nick Taylor - Final Round Score,Under 72.5,-0.02260000000000001,0.3774,0.4
 2025-06-15 17:32:09.022598,Quarterbacks - NFL 2025-26 Passing Yards - Caleb Williams Regular Season Total Passing Yards 2025-26,Under 3550.5,-0.022600000000000064,0.5122,0.5348
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Inter Miami 1st , Al Ahly Cairo 2nd",-0.0232,0.0435,0.0667
-2025-06-15 14:32:49.196320,Round Scores - Final Round Score - Aaron Rai - Final Round Score,Under 72.5,-0.023799999999999988,0.4762,0.5
-2025-06-15 15:31:37.069142,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Marc Leishman,-0.023799999999999988,0.4762,0.5
 2025-06-15 14:32:46.482993,Club World Cup - FIFA Club World Cup 2025 - Furthest Progressing Brazilian Team ,Flamengo,-0.023799999999999988,0.3333,0.3571
+2025-06-15 14:32:49.196320,Round Scores - Final Round Score - Aaron Rai - Final Round Score,Under 72.5,-0.023799999999999988,0.4762,0.5
 2025-06-15 15:31:37.217208,Round Scores - Final Round Score - Cameron Young - Final Round Score,Under 72.5,-0.023799999999999988,0.4762,0.5
-2025-06-15 13:39:08.410927,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Marc Leishman,-0.023800000000000043,0.5,0.5238
-2025-06-15 12:56:32.350333,Round Scores - Final Round Score - Adam Scott - Final Round Score,Over 72.5,-0.023800000000000043,0.5,0.5238
-2025-06-15 12:56:32.132964,Round Match-Ups - Final Round Match-Ups - B. Koepka vs J. Day - Final Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
-2025-06-15 12:56:32.175565,Round Scores - Final Round Score - Daniel Berger - Final Round Score,Under 72.5,-0.023800000000000043,0.5,0.5238
+2025-06-15 15:31:37.069142,Main Markets - Final Round 2-Balls - C. Gotterup / M. Leishman - Final Round 2-Balls,Marc Leishman,-0.023799999999999988,0.4762,0.5
 2025-06-15 15:31:37.252536,Round Scores - Final Round Score - Adam Scott - Final Round Score,Under 72.5,-0.023800000000000043,0.5,0.5238
-2025-06-15 12:56:32.184319,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 71.5,-0.023800000000000043,0.5,0.5238
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Porto 1st , Al Ahly Cairo 2nd",-0.0242,0.0667,0.0909
 2025-06-15 23:30:42.442359,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 12:56:31.949455,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 13:39:08.299645,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 17:32:10.257395,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 14:32:49.060548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 19:26:46.221658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 18:40:30.036923,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 21:29:58.473722,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 16:39:40.512610,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 15:31:37.004349,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 20:32:53.459491,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-15 22:34:22.056222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-15 12:56:31.976598,Main Markets - Final Round 2-Balls - P. Barbaree / S. Im - Final Round 2-Balls,Philip Barbaree,-0.02560000000000001,0.3077,0.3333
-2025-06-15 13:39:08.424743,Main Markets - Final Round 2-Balls - T. Hatton / C. Ortiz - Final Round 2-Balls,Tyrrell Hatton,-0.026499999999999968,0.5652,0.5917
+2025-06-15 16:39:40.512610,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 18:40:30.036923,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 20:32:53.459491,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-16 02:25:39.455191,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 19:26:46.221658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 21:29:58.473722,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 15:31:37.004349,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 14:32:49.060548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-15 17:32:10.257395,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-15 15:31:37.204070,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 70.5,-0.026499999999999968,0.5652,0.5917
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Al Ahly Cairo 1st , Porto 2nd",-0.026499999999999996,0.0323,0.0588
-2025-06-15 20:32:53.455488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 18:40:30.032924,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 12:56:31.945349,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 22:34:22.052139,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 17:32:10.253155,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 16:39:40.508548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 15:31:37.000184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 14:32:49.056488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 13:39:08.295127,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 21:29:58.469720,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-15 19:26:46.217439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-15 23:30:42.438314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-16 02:25:39.451280,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 16:39:40.508548,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 17:32:10.253155,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 18:40:30.032924,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 14:32:49.056488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 19:26:46.217439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 20:32:53.455488,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 21:29:58.469720,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 22:34:22.052139,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-15 15:31:37.000184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Nolan Traore,-0.0267,0.0909,0.1176
-2025-06-15 13:39:05.680876,Club World Cup - Group A - Top 2 - Exact Order,"Inter Miami 1st , Porto 2nd",-0.027800000000000005,0.0833,0.1111
-2025-06-15 13:39:05.673499,Club World Cup - Group A - To Finish Bottom,Palmeiras SP,-0.027999999999999997,0.1053,0.1333
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Asa Newell,-0.028399999999999995,0.0625,0.0909
 2025-06-15 15:31:37.234877,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Under 72.5,-0.029000000000000026,0.4255,0.4545
 2025-06-15 15:31:37.150855,Round Scores - Final Round Score - Jason Day - Final Round Score,Under 72.5,-0.029000000000000026,0.4255,0.4545
 2025-06-15 15:31:37.257117,Round Scores - Final Round Score - Sam Burns - Final Round Score,Under 72.5,-0.029000000000000026,0.4255,0.4545
 2025-06-15 15:31:37.208463,Round Scores - Final Round Score - Christopher Gotterup - Final Round Score,Under 74.5,-0.03090000000000004,0.5917,0.6226
-2025-06-15 13:39:08.397445,Main Markets - Final Round 2-Balls - R. Henley / E. Grillo - Final Round 2-Balls,Russell Henley,-0.03090000000000004,0.5917,0.6226
-2025-06-15 13:39:05.673499,Club World Cup - Group A - To Finish Bottom,Al Ahly Cairo,-0.03179999999999994,0.5238,0.5556
 2025-06-15 14:32:49.205005,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Under 72.5,-0.033299999999999996,0.5122,0.5455
-2025-06-15 12:56:32.085935,Main Markets - Final Round 2-Balls - V. Hovland / J.J. Spaun - Final Round 2-Balls,Viktor Hovland,-0.03479999999999994,0.5652,0.6
-2025-06-15 14:32:49.283064,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Under 73.5,-0.03489999999999999,0.4651,0.5
 2025-06-15 14:32:49.239691,Round Scores - Final Round Score - Ryan Gerard - Final Round Score,Under 73.5,-0.03489999999999999,0.4651,0.5
 2025-06-15 14:32:49.265738,Round Scores - Final Round Score - Max Greyserman - Final Round Score,Under 73.5,-0.03489999999999999,0.4651,0.5
-2025-06-15 13:39:05.684971,Club World Cup - Group A - Not To Qualify From Group,FC Porto,-0.03640000000000004,0.3636,0.4
+2025-06-15 14:32:49.283064,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Under 73.5,-0.03489999999999999,0.4651,0.5
 2025-06-15 14:32:49.300415,Round Scores - Final Round Score - Thriston Lawrence - Final Round Score,Under 73.5,-0.0378,0.4167,0.4545
 2025-06-15 14:32:49.274399,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 70.5,-0.037900000000000045,0.5917,0.6296
-2025-06-15 14:32:49.209309,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 72.5,-0.03959999999999997,0.5348,0.5744
 2025-06-15 14:32:49.200706,Round Scores - Final Round Score - J.T. Poston - Final Round Score,Under 73.5,-0.03959999999999997,0.5348,0.5744
+2025-06-15 14:32:49.209309,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 72.5,-0.03959999999999997,0.5348,0.5744
+2025-06-15 15:31:37.195205,Round Scores - Final Round Score - Max Greyserman - Final Round Score,Under 73.5,-0.039600000000000024,0.4255,0.4651
 2025-06-15 15:31:37.243600,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.039600000000000024,0.4255,0.4651
 2025-06-15 15:31:37.212826,Round Scores - Final Round Score - Marc Leishman - Final Round Score,Under 73.5,-0.039600000000000024,0.4255,0.4651
-2025-06-15 15:31:37.195205,Round Scores - Final Round Score - Max Greyserman - Final Round Score,Under 73.5,-0.039600000000000024,0.4255,0.4651
 2025-06-15 20:32:53.265196,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.0398,0.2632,0.303
 2025-06-15 14:32:49.322237,Round Scores - Final Round Score - Adam Scott - Final Round Score,Under 72.5,-0.04139999999999999,0.5238,0.5652
 2025-06-15 14:32:49.309205,Round Scores - Final Round Score - Tyrrell Hatton - Final Round Score,Under 72.5,-0.044399999999999995,0.5556,0.6
-2025-06-15 14:32:49.183344,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 72.5,-0.045499999999999985,0.4545,0.5
 2025-06-15 14:32:49.235344,Round Scores - Final Round Score - Matt Wallace - Final Round Score,Under 73.5,-0.045499999999999985,0.5,0.5455
-2025-06-15 14:32:49.222386,Round Scores - Final Round Score - Jason Day - Final Round Score,Under 72.5,-0.045499999999999985,0.4545,0.5
 2025-06-15 15:31:37.221605,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Under 72.5,-0.045499999999999985,0.4545,0.5
-2025-06-15 12:56:32.250608,Round Scores - Final Round Score - Jason Day - Final Round Score,Under 72.5,-0.045499999999999985,0.5,0.5455
-2025-06-15 13:39:05.677299,Club World Cup - Group A - Top 2 - Any Order,Porto & Inter Miami,-0.045900000000000024,0.2105,0.2564
+2025-06-15 14:32:49.222386,Round Scores - Final Round Score - Jason Day - Final Round Score,Under 72.5,-0.045499999999999985,0.4545,0.5
+2025-06-15 14:32:49.183344,Round Scores - Final Round Score - Maverick McNealy - Final Round Score,Under 72.5,-0.045499999999999985,0.4545,0.5
 2025-06-15 14:32:49.213644,Round Scores - Final Round Score - Thomas Detry - Final Round Score,Under 72.5,-0.04630000000000001,0.4082,0.4545
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Jase Richardson,-0.04999999999999999,0.2,0.25
-2025-06-15 12:56:32.354679,Round Scores - Final Round Score - Sam Burns - Final Round Score,Under 72.5,-0.05059999999999998,0.5238,0.5744
-2025-06-15 14:32:49.296088,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Under 72.5,-0.05070000000000002,0.4255,0.4762
 2025-06-15 14:32:49.261407,Round Scores - Final Round Score - Christiaan Bezuidenhout - Final Round Score,Under 73.5,-0.05070000000000002,0.4255,0.4762
-2025-06-15 13:39:05.684971,Club World Cup - Group A - Not To Qualify From Group,Palmeiras SP,-0.05130000000000001,0.3333,0.3846
-2025-06-15 13:39:05.688117,Club World Cup - Group A - To Qualify From Group,Inter Miami,-0.053100000000000036,0.3636,0.4167
-2025-06-15 12:56:32.233135,Round Scores - Final Round Score - Jordan Spieth - Final Round Score,Under 72.5,-0.05449999999999999,0.5455,0.6
+2025-06-15 14:32:49.296088,Round Scores - Final Round Score - Rasmus Neergaard-Petersen - Final Round Score,Under 72.5,-0.05070000000000002,0.4255,0.4762
 2025-06-15 14:32:49.270055,Round Scores - Final Round Score - Nick Taylor - Final Round Score,Under 72.5,-0.05449999999999999,0.4,0.4545
 2025-06-15 14:32:49.170287,Round Scores - Final Round Score - Laurie Canter - Final Round Score,Under 74.5,-0.05740000000000001,0.5652,0.6226
 2025-06-15 14:32:49.218070,Round Scores - Final Round Score - Chris Kirk - Final Round Score,Under 74.5,-0.05740000000000001,0.5652,0.6226
-2025-06-15 14:32:49.313543,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.05870000000000003,0.4651,0.5238
 2025-06-15 14:32:49.231037,Round Scores - Final Round Score - Sam Stevens - Final Round Score,Under 73.5,-0.05870000000000003,0.4651,0.5238
+2025-06-15 14:32:49.313543,Round Scores - Final Round Score - J.J. Spaun - Final Round Score,Under 72.5,-0.05870000000000003,0.4651,0.5238
 2025-06-15 14:32:49.226727,Round Scores - Final Round Score - Keegan Bradley - Final Round Score,Under 72.5,-0.05870000000000003,0.4651,0.5238
 2025-06-15 14:32:49.257085,Round Scores - Final Round Score - Russell Henley - Final Round Score,Under 72.5,-0.06220000000000003,0.5122,0.5744
 2025-06-15 20:32:53.274618,NL East - NL East 2025 - NL East Winner,New York Mets,-0.0625,0.6875,0.75
 2025-06-15 17:32:08.490633,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Kon Knueppel,-0.06270000000000003,0.3077,0.3704
-2025-06-15 14:32:49.304861,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Under 72.5,-0.06930000000000003,0.4545,0.5238
 2025-06-15 14:32:49.326551,Round Scores - Final Round Score - Sam Burns - Final Round Score,Under 72.5,-0.06930000000000003,0.4545,0.5238
+2025-06-15 14:32:49.304861,Round Scores - Final Round Score - Carlos Ortiz - Final Round Score,Under 72.5,-0.06930000000000003,0.4545,0.5238
 2025-06-15 20:32:53.363052,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Ryan Helsley (STL),-0.07069999999999999,0.1111,0.1818
 2025-06-15 14:32:49.291731,Round Scores - Final Round Score - Robert MacIntyre - Final Round Score,Under 72.5,-0.07440000000000002,0.5,0.5744
 2025-06-15 14:32:49.174629,Round Scores - Final Round Score - Patrick Reed - Final Round Score,Under 72.5,-0.07619999999999993,0.5238,0.6
 2025-06-15 14:32:49.244021,Round Scores - Final Round Score - Ben Griffin - Final Round Score,Under 72.5,-0.08039999999999997,0.4651,0.5455
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Cedric Coward,-0.08330000000000001,0.1667,0.25
 2025-06-15 14:32:49.252726,Round Scores - Final Round Score - Emiliano Grillo - Final Round Score,Under 73.5,-0.08779999999999999,0.5122,0.6
-2025-06-15 13:39:05.882832,U21 European Championship - Group C - Winner,Georgia U21,-0.10439999999999999,0.0385,0.1429
-2025-06-15 13:39:05.670313,Club World Cup - Group A - Winner,Inter Miami,-0.1131,0.125,0.2381
-2025-06-15 13:39:05.889650,U21 European Championship - Group C - Not To Qualify from Group Stage,Portugal U21,-0.1238,0.1429,0.2667
 2025-06-15 14:32:49.248370,Round Scores - Final Round Score - Victor Perez - Final Round Score,Under 73.5,-0.13489999999999996,0.4651,0.6
-2025-06-15 13:39:05.868110,U21 European Championship - Group A - Winner,Italy U21,-0.15030000000000004,0.2941,0.4444
-2025-06-15 13:39:05.889650,U21 European Championship - Group C - Not To Qualify from Group Stage,France U21,-0.1738,0.0588,0.2326
-2025-06-15 13:39:05.886463,U21 European Championship - Group C - To Qualify from Group Stage,Georgia U21,-0.1818,0.1818,0.3636
 2025-06-15 14:32:47.250910,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,-0.1905,0.2857,0.4762
-2025-06-15 13:39:05.882832,U21 European Championship - Group C - Winner,France U21,-0.2021,0.2857,0.4878

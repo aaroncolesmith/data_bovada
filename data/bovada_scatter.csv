@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-06-17 17:34:56.292284,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Aaron Judge (NYY),0.28480000000000005,0.5348,0.25
 2025-06-17 10:39:36.091743,Club World Cup - Group D - Not To Qualify from Group Stage,Los Angeles FC,0.2592,0.9259,0.6667
 2025-06-17 08:43:54.562916,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Millonarios,0.20329999999999998,0.4255,0.2222
 2025-06-17 10:39:36.088805,Club World Cup - Group D - To Qualify from Group Stage,Flamengo RJ,0.19479999999999997,0.9091,0.7143
@@ -20,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 10:39:36.085243,Club World Cup - Group D - To Finish Bottom,Los Angeles FC,0.055800000000000016,0.2857,0.2299
 2025-06-17 14:38:33.135334,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),0.052000000000000046,0.9091,0.8571
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Inter Milan to reach semi finals; Los Angeles FC to be knocked out in the group stage,0.04999999999999999,0.25,0.2
+2025-06-17 17:34:56.155680,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.048099999999999976,0.4255,0.3774
 2025-06-17 10:39:36.091743,Club World Cup - Group D - Not To Qualify from Group Stage,Esperance Tunis,0.04710000000000003,0.9804,0.9333
 2025-06-17 13:02:22.174886,Club World Cup - Group B - Not To Qualify From Group,Botafogo RJ,0.04530000000000001,0.5917,0.5464
 2025-06-17 16:43:52.905626,Positions - Finishing Position - Scottie Scheffler - Finishing Position,4th or better,0.043399999999999994,0.5556,0.5122
@@ -30,52 +32,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Real Madrid, Man City and Paris SG each to reach Quarter Finals",0.03570000000000001,0.2857,0.25
 2025-06-17 13:02:24.788657,Tournament Match-Ups - Tournament Match-Ups - C. Young vs S. Im - Tournament Match-Ups,Sungjae Im,0.03480000000000005,0.5348,0.5
 2025-06-17 15:36:24.977117,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Scottie Scheffler,0.03410000000000002,0.7674,0.7333
+2025-06-17 17:34:56.140784,AL East - AL East 2025 - AL East Winner 2025,Tampa Bay Rays,0.034100000000000005,0.125,0.0909
 2025-06-17 11:29:47.274738,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Esperance Tunis,0.033300000000000024,0.2,0.1667
 2025-06-17 06:46:24.131757,College World Series Winner - College World Series - College World Series 2025 Winner,LSU Tigers,0.033299999999999996,0.4878,0.4545
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any German Team to be Knocked out in the Group Stage,0.031799999999999995,0.3175,0.2857
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to reach the Semi Finals,0.03179999999999994,0.5556,0.5238
 2025-06-17 10:39:35.957514,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Flamengo RJ,0.030299999999999994,0.3636,0.3333
+2025-06-17 17:34:54.634222,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,0.029799999999999993,0.125,0.0952
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Quarter Finals,0.02859999999999996,0.6364,0.6078
 2025-06-17 11:29:47.274738,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Los Angeles FC,0.028000000000000004,0.0476,0.0196
 2025-06-17 10:39:36.085243,Club World Cup - Group D - To Finish Bottom,Esperance Tunis,0.027800000000000047,0.7778,0.75
 2025-06-17 15:36:23.115987,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,0.02779999999999999,0.25,0.2222
-2025-06-17 16:43:52.820240,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 15:36:24.907830,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 14:38:33.271747,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 05:36:05.666878,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 13:46:18.102892,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 14:38:33.271747,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 13:02:24.743079,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 11:29:49.875013,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 10:39:38.611246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 09:35:55.461802,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 15:36:24.907830,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 16:43:52.820240,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 11:29:49.875013,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 17:34:56.374788,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 06:46:24.208715,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 08:43:56.839022,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 07:33:29.167237,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 06:46:24.208715,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 09:35:55.461802,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 05:36:05.666878,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 05:36:05.662658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 15:36:24.903615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 13:02:24.738883,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 07:33:29.163304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 13:46:18.098765,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 09:35:55.457738,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 14:38:33.267537,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 08:43:56.834855,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 17:34:56.370515,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 16:43:52.816234,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 06:46:24.204760,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 10:39:38.607115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 09:35:55.457738,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 11:29:49.871012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 07:33:29.163304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 13:02:24.738883,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 08:43:56.834855,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 14:38:33.267537,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 15:36:24.903615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 05:36:05.662658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 16:43:52.816234,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 17:34:56.150616,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.025300000000000003,0.1429,0.1176
 2025-06-17 15:36:22.944967,Draft Position - Player Draft Position - Egor Demin Draft Position,Under 14.5,0.023800000000000043,0.5238,0.5
+2025-06-17 17:34:56.165850,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Tampa Bay Rays,0.0238,0.0714,0.0476
 2025-06-17 05:36:03.313005,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Cienciano,0.023799999999999998,0.0278,0.004
 2025-06-17 07:33:26.747151,Club World Cup - Group F - Not To Qualify From Group,Ulsan Hyundai,0.023799999999999932,0.8571,0.8333
 2025-06-17 10:39:35.949958,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Thomas Muller (Bayern Munich),0.0237,0.0294,0.0057
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to Reach Quarter Finals,0.022199999999999998,0.8,0.7778
 2025-06-17 10:39:35.960580,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Chelsea,0.021999999999999964,0.3077,0.2857
+2025-06-17 17:34:54.634222,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.021699999999999997,0.2439,0.2222
 2025-06-17 10:39:38.651563,Tournament Match-Ups - Tournament Match-Ups - C. Morikawa vs X. Schauffele - Tournament Match-Ups,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2025-06-17 10:39:35.982626,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group D,0.02020000000000001,0.1111,0.0909
 2025-06-17 13:02:22.161239,Club World Cup - Group A - Not To Qualify From Group,Al Ahly Cairo,0.020100000000000007,0.7701,0.75
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Paris SG, Atl.Madrid and Chelsea each to reach Quarter Finals",0.019699999999999995,0.125,0.1053
 2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Mexico,0.019500000000000017,0.3704,0.3509
-2025-06-17 13:02:24.801158,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Keegan Bradley,0.01880000000000004,0.5744,0.5556
 2025-06-17 13:02:24.792764,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs R. Henley - Tournament Match-Ups,Russell Henley,0.01880000000000004,0.5744,0.5556
+2025-06-17 13:02:24.801158,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Keegan Bradley,0.01880000000000004,0.5744,0.5556
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any South American Team to reach the Semi Finals,0.018100000000000005,0.5833,0.5652
 2025-06-17 08:43:54.204235,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Enzo Fernandez (Chelsea),0.0179,0.0278,0.0099
 2025-06-17 08:43:56.885061,Wichita Open - Wichita Open - Winner,Davis Chatfield,0.0179,0.0278,0.0099
@@ -86,55 +95,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each English Team to reach the Semi Finals,0.014800000000000008,0.1481,0.1333
 2025-06-17 13:02:22.164257,Club World Cup - Group A - To Qualify From Group,FC Porto,0.014700000000000046,0.7647,0.75
 2025-06-17 06:46:24.098569,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.014200000000000101,0.6296,0.6154
+2025-06-17 17:34:56.165850,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.014100000000000001,0.0526,0.0385
 2025-06-17 05:36:03.313005,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Once Caldas,0.014099999999999998,0.0385,0.0244
 2025-06-17 11:29:47.274738,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Inter Miami,0.014099999999999998,0.0385,0.0244
 2025-06-17 14:38:31.230727,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Raptors,0.013999999999999999,0.0909,0.0769
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to reach the final; Real Madrid to be knocked out in the Quarter Finals,0.013999999999999999,0.0909,0.0769
-2025-06-17 05:36:03.313005,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.013899999999999996,0.125,0.1111
+2025-06-17 17:34:56.145677,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.013899999999999996,0.1739,0.16
 2025-06-17 10:39:35.949958,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.013899999999999996,0.125,0.1111
 2025-06-17 13:02:24.827262,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Stewart Cink,0.013899999999999996,0.125,0.1111
+2025-06-17 05:36:03.313005,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.013899999999999996,0.125,0.1111
 2025-06-17 08:43:54.200611,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Spain,0.0131,0.2353,0.2222
-2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Semi Finals,0.012899999999999995,0.1667,0.1538
 2025-06-17 10:39:35.960580,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,0.012899999999999995,0.1667,0.1538
+2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ South American Teams to reach the Semi Finals,0.012899999999999995,0.1667,0.1538
+2025-06-17 17:34:56.150616,NL Central - NL Central 2025 - NL Central Winner,Cincinnati Reds,0.012499999999999997,0.0625,0.05
 2025-06-17 16:43:52.901353,Positions - Finishing Position - Rory McIlroy - Finishing Position,15th or worse,0.012199999999999989,0.5122,0.5
 2025-06-17 10:39:35.949958,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Giorgian De Arrascaeta (Flamengo),0.012100000000000001,0.0244,0.0123
 2025-06-17 13:02:22.161239,Club World Cup - Group A - Not To Qualify From Group,Inter Miami,0.011900000000000022,0.7619,0.75
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,6+ European Teams to Reach Quarter Finals,0.0116,0.4878,0.4762
-2025-06-17 07:33:26.736830,Club World Cup - Group F - To Finish Bottom,Ulsan Hyundai,0.01100000000000001,0.5238,0.5128
 2025-06-17 16:43:50.920073,Draft Position - Player Draft Position - Jeremiah Fears Draft Position,Under 7.5,0.01100000000000001,0.5348,0.5238
+2025-06-17 07:33:26.736830,Club World Cup - Group F - To Finish Bottom,Ulsan Hyundai,0.01100000000000001,0.5238,0.5128
 2025-06-17 13:02:24.667867,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Brian Norman Jr.,0.01090000000000002,0.8571,0.8462
+2025-06-17 17:34:56.145677,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.010700000000000043,0.6774,0.6667
 2025-06-17 13:02:22.164257,Club World Cup - Group A - To Qualify From Group,Palmeiras SP,0.010400000000000076,0.7778,0.7674
 2025-06-17 08:43:54.200611,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Brazil,0.0102,0.0769,0.0667
 2025-06-17 13:02:24.827262,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Soren Kjeldsen,0.0102,0.0769,0.0667
 2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Panama,0.0102,0.0769,0.0667
+2025-06-17 17:34:56.165850,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Kansas City Royals,-0.010100000000000001,0.0244,0.0345
 2025-06-17 10:39:35.982626,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group F,-0.0102,0.0667,0.0769
+2025-06-17 17:34:54.634222,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.010300000000000004,0.1802,0.1905
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ European Teams to Reach Semi Finals,-0.010400000000000076,0.7674,0.7778
-2025-06-17 09:35:55.396635,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.010499999999999982,0.2,0.2105
 2025-06-17 16:43:52.747857,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,-0.010499999999999982,0.2,0.2105
+2025-06-17 09:35:55.396635,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.010499999999999982,0.2,0.2105
 2025-06-17 16:43:50.920073,Draft Position - Player Draft Position - Jeremiah Fears Draft Position,Over 7.5,-0.010699999999999932,0.5348,0.5455
-2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Saudi Arabia,-0.011099999999999999,0.1,0.1111
+2025-06-17 17:34:56.170970,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,-0.010899999999999993,0.1429,0.1538
 2025-06-17 08:43:56.878841,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jeeno Thitikul,-0.011099999999999999,0.1,0.1111
+2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Saudi Arabia,-0.011099999999999999,0.1,0.1111
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Semi Finals,-0.01150000000000001,0.3333,0.3448
 2025-06-17 13:02:24.667867,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,-0.011700000000000016,0.2105,0.2222
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Real Madrid, Bayern and Inter Milan each to reach Quarter Finals",-0.011899999999999994,0.2381,0.25
 2025-06-17 15:36:22.727276,Love Island - Love Island USA 2025 - Winning Female - Proposition,Huda Mustafa,-0.012299999999999991,0.1053,0.1176
+2025-06-17 17:34:56.165850,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.0131,0.0345,0.0476
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Final,-0.0131,0.2222,0.2353
 2025-06-17 08:43:56.867040,Travelers Championship - Travelers Championship - Winner,Tom Kim,-0.013400000000000002,0.011,0.0244
 2025-06-17 10:39:35.985813,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Rest of the World,-0.014099999999999994,0.0526,0.0667
 2025-06-17 10:39:35.949958,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.014099999999999994,0.0526,0.0667
+2025-06-17 17:34:56.165850,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Minnesota Twins,-0.014399999999999996,0.0625,0.0769
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any African Team to reach the Semi Finals,-0.014399999999999996,0.0625,0.0769
 2025-06-17 05:36:03.313005,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Lanús,-0.014399999999999996,0.0625,0.0769
 2025-06-17 10:39:36.085243,Club World Cup - Group D - To Finish Bottom,Chelsea,-0.0145,0.0099,0.0244
+2025-06-17 17:34:54.634222,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.014800000000000008,0.1852,0.2
 2025-06-17 13:02:24.680370,Boxing Lines - Galal Yafai vs Francisco Rodriguez Jr - To Win the Bout,Francisco Rodriguez Jr,-0.015000000000000013,0.2667,0.2817
 2025-06-17 07:33:26.747151,Club World Cup - Group F - Not To Qualify From Group,Mamelodi Sundowns,-0.015100000000000002,0.8182,0.8333
-2025-06-17 10:39:35.982626,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group C,-0.015100000000000002,0.1667,0.1818
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Semi Finals,-0.015100000000000002,0.1667,0.1818
+2025-06-17 10:39:35.982626,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group C,-0.015100000000000002,0.1667,0.1818
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,6+ European Teams to be Knocked out in the Group Stage,-0.015300000000000001,0.0323,0.0476
 2025-06-17 08:43:56.867040,Travelers Championship - Travelers Championship - Winner,Scottie Scheffler,-0.016699999999999993,0.25,0.2667
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ MLS Teams to reach Quarter Finals,-0.0168,0.0217,0.0385
 2025-06-17 07:33:26.750039,Club World Cup - Group F - To Qualify From Group,Ulsan Hyundai,-0.01680000000000001,0.2105,0.2273
 2025-06-17 10:39:35.963677,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Los Angeles FC,-0.017099999999999997,0.0123,0.0294
 2025-06-17 13:02:22.161239,Club World Cup - Group A - Not To Qualify From Group,Palmeiras SP,-0.017299999999999982,0.2857,0.303
+2025-06-17 17:34:56.150616,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.017400000000000082,0.7826,0.8
 2025-06-17 10:39:36.082307,Club World Cup - Group D - Winner,Esperance Tunis,-0.017800000000000003,0.0066,0.0244
 2025-06-17 10:39:36.078454,Club World Cup - Group C - To Qualify From Group,Auckland City,-0.0179,0.0099,0.0278
 2025-06-17 10:39:35.957514,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Esperance Tunis,-0.018200000000000004,0.0294,0.0476
@@ -142,49 +162,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 07:33:26.797755,CONCACAF Gold Cup - Group B - Winner,Canada,-0.018999999999999906,0.7143,0.7333
 2025-06-17 13:02:22.177895,Club World Cup - Group B - To Qualify From Group,Seattle Sounders FC,-0.019099999999999992,0.0476,0.0667
 2025-06-17 15:36:22.944967,Draft Position - Player Draft Position - Egor Demin Draft Position,Over 14.5,-0.01970000000000005,0.5455,0.5652
-2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Jamaica,-0.0203,0.0385,0.0588
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any MLS Team to reach Semi Finals,-0.0203,0.1176,0.1379
+2025-06-17 08:43:54.381039,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Jamaica,-0.0203,0.0385,0.0588
 2025-06-17 11:29:47.274738,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Botafogo RJ,-0.0204,0.004,0.0244
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Semi Finals,-0.020699999999999996,0.4444,0.4651
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any German Team to reach the Final,-0.020799999999999985,0.3125,0.3333
 2025-06-17 10:39:38.651563,Tournament Match-Ups - Tournament Match-Ups - C. Morikawa vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.02169999999999994,0.5238,0.5455
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Liga MX Team to reach Quarter Finals,-0.021799999999999986,0.16,0.1818
-2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Man City to reach semi finals; Inter Miami to be knocked out in the group stage,-0.021999999999999964,0.2857,0.3077
 2025-06-17 10:39:36.082307,Club World Cup - Group D - Winner,Flamengo RJ,-0.021999999999999964,0.2857,0.3077
+2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Man City to reach semi finals; Inter Miami to be knocked out in the group stage,-0.021999999999999964,0.2857,0.3077
 2025-06-17 13:02:22.164257,Club World Cup - Group A - To Qualify From Group,Al Ahly Cairo,-0.021999999999999964,0.2857,0.3077
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Final,-0.02200000000000002,0.6923,0.7143
+2025-06-17 17:34:56.150616,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.02310000000000001,0.125,0.1481
 2025-06-17 10:39:36.075504,Club World Cup - Group C - Not To Qualify From Group,Benfica,-0.02360000000000001,0.3846,0.4082
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to be Knocked out in the Group Stage,-0.023799999999999988,0.1429,0.1667
 2025-06-17 13:02:22.161239,Club World Cup - Group A - Not To Qualify From Group,FC Porto,-0.02410000000000001,0.2985,0.3226
-2025-06-17 13:02:24.792764,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs R. Henley - Tournament Match-Ups,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
 2025-06-17 13:02:24.801158,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Jordan Spieth,-0.024399999999999977,0.4878,0.5122
+2025-06-17 13:02:24.792764,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs R. Henley - Tournament Match-Ups,Hideki Matsuyama,-0.024399999999999977,0.4878,0.5122
 2025-06-17 10:39:36.069085,Club World Cup - Group C - Winner,Benfica,-0.024800000000000016,0.2105,0.2353
 2025-06-17 10:39:35.982626,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group E,-0.024999999999999994,0.1,0.125
-2025-06-17 05:36:05.666878,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 07:33:29.167237,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 16:43:52.820240,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 13:02:24.743079,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 08:43:56.839022,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 06:46:24.208715,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 10:39:38.611246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 17:34:56.145677,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.025099999999999983,0.2381,0.2632
 2025-06-17 11:29:49.875013,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 07:33:29.167237,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 13:02:24.743079,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 10:39:38.611246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 08:43:56.839022,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 09:35:55.461802,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 15:36:24.907830,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 06:46:24.208715,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 13:46:18.102892,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 05:36:05.666878,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 15:36:24.907830,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 16:43:52.820240,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 17:34:56.374788,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 14:38:33.271747,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 10:39:35.957514,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Benfica,-0.02560000000000001,0.3077,0.3333
-2025-06-17 14:38:33.267537,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 10:39:38.607115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 08:43:56.834855,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 11:29:49.871012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 07:33:29.163304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 13:02:24.738883,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 09:35:55.457738,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 13:46:18.098765,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 17:34:56.370515,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 16:43:52.816234,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 15:36:24.903615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 14:38:33.267537,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 13:46:18.098765,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 13:02:24.738883,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 10:39:38.607115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 07:33:29.163304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 06:46:24.204760,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 05:36:05.662658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 08:43:56.834855,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 09:35:55.457738,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 11:29:49.871012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 15:36:22.875580,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Spurs,-0.02779999999999999,0.2222,0.25
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Spanish Team to reach the Quarter Finals,-0.027999999999999997,0.1538,0.1818
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ North American Teams to reach the Quarter Finals,-0.028399999999999995,0.0625,0.0909
@@ -200,11 +224,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 06:46:24.131757,College World Series Winner - College World Series - College World Series 2025 Winner,Coastal Carolina,-0.03710000000000002,0.3333,0.3704
 2025-06-17 10:39:36.072029,Club World Cup - Group C - To Finish Bottom,Benfica,-0.0389,0.0278,0.0667
 2025-06-17 15:36:24.977117,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Rory McIlroy,-0.03920000000000001,0.2941,0.3333
+2025-06-17 17:34:56.155680,NL East - NL East 2025 - NL East Winner,New York Mets,-0.041000000000000036,0.6364,0.6774
 2025-06-17 10:39:36.069085,Club World Cup - Group C - Winner,Boca Juniors,-0.04169999999999999,0.125,0.1667
 2025-06-17 10:39:36.078454,Club World Cup - Group C - To Qualify From Group,Benfica,-0.04179999999999995,0.6552,0.697
 2025-06-17 10:39:35.960580,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Los Angeles FC,-0.04229999999999999,0.0244,0.0667
 2025-06-17 16:43:52.905626,Positions - Finishing Position - Scottie Scheffler - Finishing Position,5th or worse,-0.043399999999999994,0.5122,0.5556
 2025-06-17 08:43:54.562916,"Primera A, Apertura - Colombia Primera A - Liga Dimayor Apertura 2025 - Colombia Primera A - Apertura 2025",Independiente Medellín,-0.045499999999999985,0.5,0.5455
+2025-06-17 17:34:56.140784,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.04579999999999995,0.8113,0.8571
 2025-06-17 15:36:22.875580,NBA Specials - Where Will Kevin Durant Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Heat,-0.047599999999999976,0.2857,0.3333
 2025-06-17 07:33:26.736830,Club World Cup - Group F - To Finish Bottom,Mamelodi Sundowns,-0.04770000000000002,0.4651,0.5128
 2025-06-17 14:38:30.556359,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Quarter Finals,-0.04910000000000003,0.3509,0.4

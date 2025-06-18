@@ -1,80 +1,70 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Hugo Gonzalez,0.30160000000000003,0.7778,0.4762
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Cal Raleigh (SEA),0.2401,0.25,0.0099
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Kon Knueppel,0.22229999999999994,0.6667,0.4444
 2025-06-18 05:36:11.962494,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.1684,0.8113,0.6429
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Shohei Ohtani (LAD),0.1666,0.3333,0.1667
 2025-06-18 02:22:27.993974,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,0.10970000000000002,0.4545,0.3448
 2025-06-18 05:36:11.923809,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 25½,0.10010000000000002,0.5652,0.4651
-2025-06-17 18:45:16.022244,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Egor Demin,0.08959999999999996,0.3636,0.274
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Noa Essengue,0.0889,0.2,0.1111
-2025-06-17 18:45:16.038861,To Be Drafted First - Player to be Drafted First - H2H - VJ Edgecombe vs Ace Bailey,VJ Edgecombe,0.07769999999999999,0.6429,0.5652
-2025-06-17 18:45:16.028886,To Be Drafted First - Player to be Drafted First - H2H - Liam McNeeley vs Rasheer Fleming,Liam McNeeley,0.07769999999999999,0.6429,0.5652
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Belgium (W),0.06959999999999997,0.3077,0.2381
 2025-06-17 19:27:55.347080,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Ace Bailey,0.06840000000000002,0.2222,0.1538
 2025-06-17 20:34:59.557944,Quarterbacks - NFL 2025-26 Passing Yards - JJ McCarthy Regular Season Total Passing Yards 2025-26,Over 3550.5,0.05689999999999995,0.5917,0.5348
 2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,0.05679999999999999,0.1818,0.125
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Ace Bailey,0.056400000000000006,0.1333,0.0769
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Maxime Raynaud,0.05590000000000006,0.6923,0.6364
-2025-06-17 18:45:16.348361,NFL Specials - 2026 NFL Draft - Number 1 Overall Pick - Proposition,LaNorris Sellers (SCAR),0.05559999999999998,0.1667,0.1111
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Tre Johnson,0.055499999999999994,0.8333,0.7778
-2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.054800000000000015,0.3774,0.3226
 2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.054800000000000015,0.3774,0.3226
+2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.054800000000000015,0.3774,0.3226
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Ace Bailey,0.0524,0.9524,0.9
-2025-06-18 05:36:11.902548,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Over 28½,0.05059999999999998,0.5744,0.5238
 2025-06-18 05:36:11.915234,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.05059999999999998,0.5744,0.5238
+2025-06-18 05:36:11.902548,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Over 28½,0.05059999999999998,0.5744,0.5238
 2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Ace Bailey,0.044499999999999984,0.2667,0.2222
 2025-06-17 21:32:07.797427,Draft Position - Player Draft Position - Jase Richardson Draft Position,Over 17.5,0.044399999999999995,0.6,0.5556
 2025-06-18 05:36:11.966682,To Make the Playoffs - Phoenix Mercury - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.04290000000000005,0.9804,0.9375
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Danny Wolf,0.04070000000000007,0.9231,0.8824
 2025-06-17 19:27:56.635205,Big 12 - Big 12 Regular Season Wins - Colorado,Under 6.5,0.03980000000000006,0.6552,0.6154
-2025-06-17 18:45:16.000600,Draft Position - Player Draft Position - Thomas Sorber Draft Position,Under 18.5,0.03959999999999997,0.5744,0.5348
 2025-06-18 05:36:11.958268,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,No,0.0384,0.0769,0.0385
+2025-06-18 06:46:45.093804,Positions - Finishing Position - Patrick Cantlay - Finishing Position,21st or worse,0.03480000000000005,0.5348,0.5
+2025-06-18 06:46:45.089491,Positions - Finishing Position - Ludvig Aberg - Finishing Position,22nd or worse,0.03480000000000005,0.5348,0.5
 2025-06-17 19:27:55.748578,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Over 8.5,0.03179999999999994,0.5556,0.5238
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Slovenia (W),0.030699999999999998,0.0833,0.0526
 2025-06-18 05:36:11.937216,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.02859999999999996,0.9901,0.9615
 2025-06-17 19:27:56.404405,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,Yes,0.027700000000000002,0.4444,0.4167
 2025-06-17 19:27:55.670880,NFC West - NFC West 2025-26 - NFC West Winner,Arizona Cardinals,0.027600000000000013,0.2,0.1724
-2025-06-17 20:35:00.833551,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-18 03:57:46.039348,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 19:27:57.284891,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 05:36:13.796757,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 04:44:27.265936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 03:57:46.039348,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 02:22:29.891527,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 23:31:24.028962,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 22:35:49.178523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 21:32:09.757512,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-17 18:45:17.997818,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 06:46:44.783654,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-17 20:35:00.833551,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-17 19:27:55.394105,Draft Position - Player Draft Position - Khaman Maluach Draft Position,Under 8.5,0.026499999999999968,0.5917,0.5652
-2025-06-17 19:27:57.280900,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 18:45:16.032181,To Be Drafted First - Player to be Drafted First - H2H - Noa Essengue vs Derik Queen,Noa Essengue,0.025599999999999956,0.6,0.5744
 2025-06-17 20:35:00.829388,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 18:45:17.993527,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 21:32:09.753423,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-17 23:31:24.024870,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 02:22:29.887501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 03:57:46.035210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 04:44:27.261735,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 05:36:13.792740,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-17 22:35:49.174473,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 19:27:57.280900,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-17 23:31:24.024870,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 03:57:46.035210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 05:36:13.792740,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 04:44:27.261735,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 06:46:44.779638,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 02:22:29.887501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 05:36:11.675602,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.024399999999999977,0.5122,0.4878
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Italy (W),0.024299999999999995,0.0769,0.0526
 2025-06-18 05:36:11.885810,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 12½,0.023800000000000043,0.5238,0.5
 2025-06-17 19:27:55.633262,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Arizona Cardinals,0.023700000000000002,0.05,0.0263
 2025-06-18 02:22:27.919994,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Tre Johnson,0.0232,0.0667,0.0435
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Tre Johnson,0.02310000000000001,0.1,0.0769
-2025-06-17 18:45:15.973910,Draft Position - Player Draft Position - Egor Demin Draft Position,Under 14.5,0.02169999999999994,0.5455,0.5238
 2025-06-18 05:36:11.919540,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 35½,0.02079999999999993,0.5556,0.5348
 2025-06-18 05:36:11.932167,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 17½,0.01970000000000005,0.5652,0.5455
 2025-06-18 05:36:11.668366,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.019299999999999984,0.2632,0.2439
 2025-06-17 21:32:07.821155,Draft Position - Player Draft Position - Thomas Sorber Draft Position,Under 18.5,0.017299999999999982,0.5917,0.5744
-2025-06-17 18:45:15.983876,Draft Position - Player Draft Position - Kasparas Jakucionis Draft Position,Under 11.5,0.017299999999999982,0.5917,0.5744
 2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.016599999999999948,0.8261,0.8095
 2025-06-18 05:36:11.941429,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.015899999999999997,0.1212,0.1053
-2025-06-17 18:45:16.348361,NFL Specials - 2026 NFL Draft - Number 1 Overall Pick - Proposition,Caleb Downs (OSU),0.015199999999999998,0.0385,0.0233
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Khaman Maluach,0.014900000000000024,0.3226,0.3077
 2025-06-18 05:36:11.672162,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,0.014800000000000008,0.2,0.1852
-2025-06-17 18:45:16.025537,To Be Drafted First - Player to be Drafted First - H2H - Kon Knueppel vs Khaman Maluach,Kon Knueppel,0.013899999999999912,0.7917,0.7778
 2025-06-17 21:32:07.839539,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Egor Demin,0.013800000000000034,0.3774,0.3636
 2025-06-18 05:36:11.675602,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.0131,0.1212,0.1081
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Jase Richardson,0.012700000000000003,0.0323,0.0196
@@ -84,113 +74,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-18 05:36:11.954054,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.01150000000000001,0.3448,0.3333
 2025-06-17 23:31:24.004618,Boxing Lines - Dina Thorslund vs Shurretta Metcalf - To Win the Bout,Dina Thorslund,0.011099999999999999,0.9,0.8889
 2025-06-18 05:36:11.675602,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.011099999999999999,0.1111,0.1
-2025-06-18 05:36:11.927995,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 25½,0.01100000000000001,0.5348,0.5238
 2025-06-17 22:35:49.368633,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs S. Straka - 1st Round Match-Ups,Sepp Straka,0.01100000000000001,0.5348,0.5238
+2025-06-18 05:36:11.927995,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 25½,0.01100000000000001,0.5348,0.5238
 2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,0.010700000000000043,0.6774,0.6667
-2025-06-17 18:45:15.980563,Draft Position - Player Draft Position - Jeremiah Fears Draft Position,Over 7.5,0.010699999999999932,0.5455,0.5348
-2025-06-17 21:32:07.793993,Draft Position - Player Draft Position - Egor Demin Draft Position,Under 14.5,0.010099999999999998,0.5556,0.5455
 2025-06-18 05:36:11.949866,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.010099999999999998,0.1212,0.1111
-2025-06-17 18:45:16.035514,To Be Drafted First - Player to be Drafted First - H2H - Thomas Sorber vs Asa Newell,Thomas Sorber,0.010099999999999998,0.5556,0.5455
+2025-06-17 21:32:07.793993,Draft Position - Player Draft Position - Egor Demin Draft Position,Under 14.5,0.010099999999999998,0.5556,0.5455
 2025-06-18 05:36:11.970882,To Make the Playoffs - Seattle Storm - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.010099999999999998,0.0952,0.1053
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Kasparas Jakucionis,-0.0102,0.0667,0.0769
 2025-06-18 04:44:27.119540,Boxing Lines - Christian Araneta vs Thanongsak Simsri - To Win the Bout,Thanongsak Simsri,-0.010599999999999998,0.4545,0.4651
 2025-06-18 05:36:11.927995,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 25½,-0.010699999999999932,0.5348,0.5455
 2025-06-17 22:35:49.318316,Round Match-Ups - 1st Round Match-Ups - T. Finau vs J. Day - 1st Round Match-Ups,Tony Finau,-0.01100000000000001,0.5238,0.5348
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Aaron Judge (NYY),-0.01100000000000001,0.5238,0.5348
-2025-06-17 18:45:15.980563,Draft Position - Player Draft Position - Jeremiah Fears Draft Position,Under 7.5,-0.01100000000000001,0.5238,0.5348
 2025-06-18 05:36:11.954054,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.011099999999999999,0.7222,0.7333
-2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Egor Demin,-0.011399999999999997,0.0164,0.0278
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Collin Murray-Boyles,-0.011399999999999997,0.0164,0.0278
+2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Egor Demin,-0.011399999999999997,0.0164,0.0278
 2025-06-17 21:32:07.821155,Draft Position - Player Draft Position - Thomas Sorber Draft Position,Over 18.5,-0.0116,0.4762,0.4878
-2025-06-17 18:45:15.983876,Draft Position - Player Draft Position - Kasparas Jakucionis Draft Position,Over 11.5,-0.0116,0.4762,0.4878
 2025-06-17 21:32:07.793993,Draft Position - Player Draft Position - Egor Demin Draft Position,Over 14.5,-0.011600000000000055,0.5122,0.5238
 2025-06-17 22:35:49.368633,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs S. Straka - 1st Round Match-Ups,Justin Thomas,-0.011600000000000055,0.5122,0.5238
-2025-06-17 18:45:16.035514,To Be Drafted First - Player to be Drafted First - H2H - Thomas Sorber vs Asa Newell,Asa Newell,-0.011600000000000055,0.5122,0.5238
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Khaman Maluach,-0.011700000000000016,0.2105,0.2222
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,France (W),-0.011899999999999994,0.2381,0.25
 2025-06-18 05:36:11.958268,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.012800000000000034,0.9852,0.998
-2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Tre Johnson,-0.012899999999999995,0.1538,0.1667
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Kasparas Jakucionis,-0.012899999999999995,0.1538,0.1667
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Teoscar Hernandez (LAD),-0.013,0.0066,0.0196
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Marcell Ozuna (ATL),-0.013,0.0066,0.0196
+2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Tre Johnson,-0.012899999999999995,0.1538,0.1667
 2025-06-18 05:36:13.917909,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -R. Henley v N. Dunlap - 1st Round 2 Balls,Nick Dunlap,-0.0131,0.2899,0.303
 2025-06-18 05:36:11.672162,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Las Vegas Aces,-0.013999999999999999,0.0769,0.0909
 2025-06-18 05:36:11.941429,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.014100000000000001,0.9474,0.9615
 2025-06-17 19:27:55.670880,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,-0.01419999999999999,0.3704,0.3846
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Carter Bryant,-0.015100000000000002,0.1667,0.1818
 2025-06-18 05:36:11.672162,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat New York Liberty,-0.0155,0.0345,0.05
-2025-06-17 18:45:16.025537,To Be Drafted First - Player to be Drafted First - H2H - Kon Knueppel vs Khaman Maluach,Khaman Maluach,-0.01589999999999997,0.274,0.2899
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Jose Ramirez (CLE),-0.017800000000000003,0.0066,0.0244
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Kyle Tucker (CHC),-0.0179,0.0099,0.0278
 2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.018099999999999998,0.0588,0.0769
 2025-06-17 21:32:07.839539,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Kasparas Jakucionis,-0.018399999999999972,0.6875,0.7059
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Khaman Maluach,-0.019000000000000017,0.2667,0.2857
 2025-06-17 19:27:55.347080,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.021100000000000008,0.2353,0.2564
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Mike Trout (LAA),-0.021199999999999997,0.0066,0.0278
-2025-06-17 18:45:15.973910,Draft Position - Player Draft Position - Egor Demin Draft Position,Over 14.5,-0.02169999999999994,0.5238,0.5455
 2025-06-18 02:22:27.916604,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Kon Knueppel,-0.021999999999999964,0.2857,0.3077
 2025-06-18 05:36:11.687718,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.022199999999999998,0.7778,0.8
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Collin Murray-Boyles,-0.022199999999999998,0.1111,0.1333
 2025-06-18 05:36:11.919540,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 35½,-0.022600000000000064,0.5122,0.5348
-2025-06-17 18:45:16.032181,To Be Drafted First - Player to be Drafted First - H2H - Noa Essengue vs Derik Queen,Derik Queen,-0.022699999999999998,0.4651,0.4878
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Spain (W),-0.023799999999999988,0.1429,0.1667
 2025-06-17 19:27:55.394105,Draft Position - Player Draft Position - Khaman Maluach Draft Position,Over 8.5,-0.023799999999999988,0.4762,0.5
 2025-06-17 19:27:55.347080,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Tre Johnson,-0.023800000000000016,0.1667,0.1905
 2025-06-18 05:36:11.932167,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 17½,-0.023800000000000043,0.5,0.5238
 2025-06-18 02:22:27.923398,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 9th Overall Pick,Egor Demin,-0.0242,0.0667,0.0909
 2025-06-18 02:22:27.919994,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Egor Demin,-0.024299999999999995,0.0345,0.0588
+2025-06-18 03:57:46.039348,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 02:22:29.891527,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 22:35:49.178523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 04:44:27.265936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 05:36:13.796757,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 06:46:44.783654,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 21:32:09.757512,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-17 19:27:57.284891,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 23:31:24.028962,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-17 20:35:00.833551,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 21:32:09.757512,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 18:45:17.997818,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 02:22:29.891527,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 05:36:13.796757,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 03:57:46.039348,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 22:35:49.178523,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 19:27:57.284891,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 04:44:27.265936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Juan Soto (NYM),-0.0257,0.0066,0.0323
 2025-06-17 19:27:56.404405,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,No,-0.026499999999999968,0.6226,0.6491
-2025-06-17 20:35:00.829388,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 21:32:09.753423,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 18:45:17.993527,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 22:35:49.174473,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 23:31:24.024870,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 05:36:13.792740,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 04:44:27.261735,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-17 19:27:57.280900,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 03:57:46.035210,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 02:22:29.887501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 22:35:49.174473,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 21:32:09.753423,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 19:27:57.280900,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-18 06:46:44.779638,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-17 20:35:00.829388,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Serbia (W),-0.027800000000000005,0.0833,0.1111
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Matt Olson (ATL),-0.0286,0.0099,0.0385
 2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Noa Essengue,-0.028799999999999992,0.125,0.1538
 2025-06-18 05:36:11.885810,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 12½,-0.028900000000000037,0.5455,0.5744
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Brent Rooker (ATH),-0.0319,0.0066,0.0385
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Pete Alonso (NYM),-0.033,0.0196,0.0526
+2025-06-18 06:46:45.093804,Positions - Finishing Position - Patrick Cantlay - Finishing Position,20th or better,-0.030399999999999983,0.5348,0.5652
+2025-06-18 06:46:45.089491,Positions - Finishing Position - Ludvig Aberg - Finishing Position,21st or better,-0.030399999999999983,0.5348,0.5652
 2025-06-17 19:27:55.748578,Arizona Cardinals - Arizona Cardinals Regular Season Wins - Cardinals Regular Season Wins,Under 8.5,-0.033299999999999996,0.5122,0.5455
 2025-06-17 22:35:47.002999,EuroBasket Women - EuroBasket Women 2025 - Outright,Germany (W),-0.03330000000000001,0.0667,0.1
 2025-06-18 05:36:11.668366,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.0343,0.0833,0.1176
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Kam Jones,-0.03480000000000005,0.5,0.5348
 2025-06-18 05:36:11.937216,To Make the Playoffs - Atlanta Dream - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.03860000000000001,0.0667,0.1053
 2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Kon Knueppel,-0.03870000000000001,0.2353,0.274
-2025-06-17 18:45:17.915433,To Hit the Most Home Runs - Player To Hit the Most Home Runs - 2025 Regular Season - Player To Hit the Most Home Runs,Fernando Tatis Jr. (SD),-0.0427,0.0099,0.0526
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Derik Queen,-0.04329999999999999,0.0476,0.0909
-2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Ryan Kalkbrenner,-0.043399999999999994,0.5122,0.5556
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Ben Saraf,-0.043399999999999994,0.5122,0.5556
 2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Bogoljub Markovic,-0.043399999999999994,0.5122,0.5556
+2025-06-17 23:31:22.183701,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Ryan Kalkbrenner,-0.043399999999999994,0.5122,0.5556
 2025-06-18 02:22:27.913264,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.044800000000000006,0.1905,0.2353
 2025-06-18 05:36:11.902548,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 28½,-0.045499999999999985,0.5,0.5455
 2025-06-18 05:36:11.915234,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.045499999999999985,0.5,0.5455
 2025-06-18 05:36:11.966682,To Make the Playoffs - Phoenix Mercury - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.045700000000000005,0.0833,0.129
 2025-06-17 19:27:56.635205,Big 12 - Big 12 Regular Season Wins - Colorado,Over 6.5,-0.04630000000000001,0.4082,0.4545
-2025-06-17 18:45:16.000600,Draft Position - Player Draft Position - Thomas Sorber Draft Position,Over 18.5,-0.04700000000000004,0.4878,0.5348
 2025-06-17 21:32:07.797427,Draft Position - Player Draft Position - Jase Richardson Draft Position,Under 17.5,-0.047099999999999975,0.4651,0.5122
 2025-06-18 05:36:11.675602,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.05230000000000001,0.2041,0.2564
 2025-06-17 20:34:59.557944,Quarterbacks - NFL 2025-26 Passing Yards - JJ McCarthy Regular Season Total Passing Yards 2025-26,Under 3550.5,-0.05860000000000004,0.4762,0.5348
-2025-06-17 18:45:16.038861,To Be Drafted First - Player to be Drafted First - H2H - VJ Edgecombe vs Ace Bailey,Ace Bailey,-0.07450000000000001,0.4255,0.5
-2025-06-17 18:45:16.028886,To Be Drafted First - Player to be Drafted First - H2H - Liam McNeeley vs Rasheer Fleming,Rasheer Fleming,-0.07450000000000001,0.4255,0.5
 2025-06-18 02:22:27.989594,Draft Position - Top 5 - To be Drafted in the Top 5,Jeremiah Fears,-0.08549999999999996,0.2222,0.3077
-2025-06-17 18:45:16.022244,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Kasparas Jakucionis,-0.08579999999999999,0.7059,0.7917
 2025-06-18 05:36:11.678701,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.08779999999999999,0.5122,0.6
 2025-06-18 05:36:11.923809,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 25½,-0.09999999999999998,0.5,0.6
 2025-06-18 05:36:11.962494,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.16909999999999997,0.2564,0.4255

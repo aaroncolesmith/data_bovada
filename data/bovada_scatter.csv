@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-18 17:35:51.030721,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Kon Knueppel,0.08549999999999996,0.3077,0.2222
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4",0.0816,0.2857,0.2041
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Liam McNeeley,0.07740000000000002,0.4,0.3226
+2025-06-19 05:35:46.797026,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.07240000000000002,0.7647,0.6923
 2025-06-18 23:31:09.897385,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,VJ Edgecombe,0.07119999999999993,0.6364,0.5652
 2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,0.06930000000000003,0.5238,0.4545
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3",0.06700000000000006,0.6226,0.5556
@@ -10,56 +11,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-18 20:35:54.444936,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Drake Powell,0.05590000000000006,0.6923,0.6364
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Jase Richardson,0.05300000000000005,0.5652,0.5122
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Tre Johnson #5",0.04909999999999999,0.1667,0.1176
+2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.0474,0.9524,0.905
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Carter Bryant,0.043800000000000006,0.2105,0.1667
 2025-06-18 18:45:05.987560,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Ace Bailey,0.04099999999999998,0.3077,0.2667
 2025-06-18 20:35:54.444936,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Maxime Raynaud,0.040999999999999925,0.7333,0.6923
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4",0.03689999999999999,0.3226,0.2857
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Jeremiah Fears #5",0.0353,0.0909,0.0556
 2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Asa Newell,0.03330000000000001,0.1,0.0667
+2025-06-19 05:35:46.801999,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.033299999999999996,0.8333,0.8
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Ace Bailey #5",0.029799999999999993,0.125,0.0952
 2025-06-19 04:43:44.230151,Boxing Lines - Liam Wilson vs Ayrton Osmar Gimenez - To Win the Bout,Liam Wilson,0.028800000000000048,0.875,0.8462
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Ace Bailey #5",0.028799999999999992,0.1538,0.125
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4",0.02789999999999998,0.2632,0.2353
-2025-06-18 16:43:53.388325,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-18 17:35:53.001703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-18 19:28:12.101670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-18 18:45:07.964321,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 20:35:56.293889,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 21:31:27.236633,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 19:28:12.101670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 22:35:27.360001,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-18 23:31:11.778816,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 18:45:07.964321,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 17:35:53.001703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 05:35:47.099160,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-18 23:31:11.778816,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-18 23:31:09.900445,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Kon Knueppel,0.02560000000000001,0.3333,0.3077
-2025-06-19 03:57:57.553589,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Keegan Bradley,0.025599999999999956,0.6,0.5744
-2025-06-18 19:28:12.097383,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 20:35:56.289665,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 23:31:11.659428,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,0.025599999999999956,0.6552,0.6296
-2025-06-18 16:43:53.384029,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 17:35:52.997482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 18:45:07.959980,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-18 23:31:11.774726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 19:28:12.097383,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 21:31:27.232378,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 20:35:56.289665,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-18 22:35:27.355881,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-18 23:31:11.774726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 02:22:03.828992,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 03:57:57.553589,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Keegan Bradley,0.025599999999999956,0.6,0.5744
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3, Kon Knueppel #4",0.02310000000000001,0.1,0.0769
-2025-06-18 18:45:07.837254,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,0.022600000000000064,0.6226,0.6
 2025-06-18 19:28:10.190308,Draft Position - Player Draft Position - Liam McNeeley - Draft Position,Under 21.5,0.022600000000000064,0.5348,0.5122
+2025-06-18 18:45:07.837254,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,0.022600000000000064,0.6226,0.6
 2025-06-18 18:45:07.815261,Boxing Lines - Christian Araneta vs Thanongsak Simsri - To Win the Bout,Thanongsak Simsri,0.021699999999999997,0.4762,0.4545
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Kon Knueppel #4",0.021199999999999997,0.1212,0.1
+2025-06-19 05:35:46.786920,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.02080000000000004,0.9375,0.9167
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Asa Newell,0.020299999999999985,0.6429,0.6226
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Ace Bailey,0.019000000000000017,0.2857,0.2667
 2025-06-18 17:35:51.030721,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,VJ Edgecombe,0.018799999999999983,0.3636,0.3448
-2025-06-18 18:45:05.987560,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,0.01820000000000002,0.2,0.1818
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Jeremiah Fears,0.01820000000000002,0.2,0.1818
+2025-06-18 18:45:05.987560,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Khaman Maluach,0.01820000000000002,0.2,0.1818
 2025-06-18 19:28:10.158899,Draft Position - Player Draft Position - Carter Bryant - Draft Position,Under 11.5,0.017299999999999982,0.5917,0.5744
 2025-06-18 23:31:09.900445,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Ace Bailey,0.016699999999999993,0.2667,0.25
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Noa Essengue,0.015699999999999936,0.9681,0.9524
-2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Cedric Coward,0.015100000000000002,0.1818,0.1667
 2025-06-18 18:45:05.984395,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Jeremiah Fears,0.015100000000000002,0.1818,0.1667
+2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Cedric Coward,0.015100000000000002,0.1818,0.1667
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Tre Johnson #5",0.015100000000000002,0.1818,0.1667
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Jeremiah Fears #5",0.01440000000000001,0.1053,0.0909
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Khaman Maluach #5",0.0143,0.0476,0.0333
@@ -75,26 +79,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 02:22:03.711875,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,0.011499999999999955,0.6667,0.6552
 2025-06-18 18:45:07.845812,Boxing Lines - Giorgio Visioli vs Elias Federico Duguet - To Win the Bout,Elias Federico Duguet,0.011199999999999995,0.0588,0.0476
 2025-06-19 02:22:03.770747,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,0.011099999999999999,0.1111,0.1
-2025-06-18 18:45:07.897977,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,0.011099999999999999,0.1111,0.1
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Khaman Maluach,0.011099999999999999,0.1111,0.1
+2025-06-18 18:45:07.897977,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,0.011099999999999999,0.1111,0.1
 2025-06-18 21:31:27.253841,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.010800000000000032,0.274,0.2632
 2025-06-18 17:35:52.873611,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,Petr Khamukov,0.010599999999999998,0.4651,0.4545
-2025-06-18 18:45:07.810884,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,0.010499999999999982,0.2105,0.2
 2025-06-18 21:31:27.138012,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Ionut Baluta,0.010499999999999982,0.2105,0.2
+2025-06-18 18:45:07.810884,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,0.010499999999999982,0.2105,0.2
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Tre Johnson #4, Jeremiah Fears #5",0.0102,0.0769,0.0667
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Kon Knueppel #4",-0.010099999999999998,0.1111,0.1212
 2025-06-18 21:31:27.253841,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.010199999999999987,0.7937,0.8039
 2025-06-18 18:45:07.884859,Boxing Lines - Damian Knyba vs Marcin Siwy - To Win the Bout,Damian Knyba,-0.010199999999999987,0.9231,0.9333
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Tre Johnson #4",-0.0102,0.0667,0.0769
-2025-06-18 23:31:11.634654,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,-0.010499999999999982,0.2,0.2105
 2025-06-19 02:22:01.933030,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Khaman Maluach,-0.010499999999999982,0.2,0.2105
+2025-06-18 23:31:11.634654,Boxing Lines - Brian Norman Jr. vs Jin Sasaki - To Win the Bout,Jin Sasaki,-0.010499999999999982,0.2,0.2105
 2025-06-18 19:28:10.183972,Draft Position - Player Draft Position - Khaman Maluach - Draft Position,Over 8.5,-0.011099999999999999,0.4651,0.4762
 2025-06-19 02:22:03.690811,Boxing Lines - Christian Araneta vs Thanongsak Simsri - To Win the Bout,Thanongsak Simsri,-0.011099999999999999,0.4651,0.4762
 2025-06-18 23:31:11.717002,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,-0.011099999999999999,0.1,0.1111
+2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.011200000000000002,0.0132,0.0244
 2025-06-18 19:28:10.158899,Draft Position - Player Draft Position - Carter Bryant - Draft Position,Over 11.5,-0.0116,0.4762,0.4878
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Tre Johnson #5",-0.011700000000000002,0.0909,0.1026
 2025-06-18 19:28:10.171481,Draft Position - Player Draft Position - Egor Demin - Draft Position,Over 14.5,-0.012199999999999989,0.5,0.5122
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Tre Johnson,-0.012299999999999978,0.3448,0.3571
+2025-06-19 05:35:46.786920,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.012600000000000007,0.0588,0.0714
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Jeremiah Fears #5",-0.0131,0.0345,0.0476
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Tre Johnson #4",-0.013999999999999999,0.0769,0.0909
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Khaman Maluach #5",-0.015300000000000001,0.0435,0.0588
@@ -107,53 +113,59 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-18 18:45:07.837254,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,Petr Khamukov,-0.020699999999999996,0.4444,0.4651
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Jeremiah Fears #5",-0.02070000000000001,0.0769,0.0976
 2025-06-18 19:28:10.190308,Draft Position - Player Draft Position - Liam McNeeley - Draft Position,Over 21.5,-0.02079999999999993,0.5348,0.5556
+2025-06-19 05:35:46.806988,NL East - NL East 2025 - NL East Winner,New York Mets,-0.02100000000000002,0.6154,0.6364
 2025-06-19 03:57:57.553589,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Jordan Spieth,-0.022699999999999998,0.4651,0.4878
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Collin Murray-Boyles,-0.023799999999999988,0.1429,0.1667
 2025-06-18 18:45:05.987560,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Jeremiah Fears,-0.023800000000000016,0.1667,0.1905
 2025-06-18 18:45:05.987560,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 6th Overall Pick,Kon Knueppel,-0.024800000000000016,0.2105,0.2353
-2025-06-18 16:43:53.388325,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 17:35:53.001703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 19:28:12.101670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Nique Clifford,-0.025599999999999956,0.5744,0.6
-2025-06-18 18:45:07.964321,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 23:31:11.778816,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 05:35:46.801999,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.024999999999999994,0.1,0.125
 2025-06-18 20:35:56.293889,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 22:35:27.360001,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-18 21:31:27.236633,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 05:35:47.099160,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 17:35:53.001703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Nique Clifford,-0.025599999999999956,0.5744,0.6
+2025-06-18 23:31:11.778816,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 18:45:07.964321,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 22:35:27.360001,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 19:28:12.101670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-18 21:31:27.236633,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3",-0.026499999999999996,0.2174,0.2439
-2025-06-18 17:35:52.997482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-18 18:45:07.959980,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-18 19:28:12.097383,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-18 16:43:53.384029,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-18 23:31:11.659428,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,Petr Khamukov,-0.026600000000000013,0.4082,0.4348
-2025-06-18 21:31:27.232378,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 22:35:27.355881,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-18 21:31:27.232378,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 23:31:11.774726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 02:22:03.828992,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 20:35:56.289665,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-18 23:31:11.659428,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,Petr Khamukov,-0.026600000000000013,0.4082,0.4348
+2025-06-18 19:28:12.097383,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-18 17:35:52.997482,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-18 18:45:07.959980,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-18 23:31:09.897385,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,-0.02779999999999999,0.2222,0.25
+2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.028199999999999996,0.0385,0.0667
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Tre Johnson #5",-0.028399999999999995,0.0625,0.0909
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3, VJ Edgecombe #4",-0.030300000000000007,0.0909,0.1212
+2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.030699999999999998,0.0526,0.0833
 2025-06-19 04:43:44.230151,Boxing Lines - Liam Wilson vs Ayrton Osmar Gimenez - To Win the Bout,Ayrton Osmar Gimenez,-0.031700000000000006,0.1905,0.2222
+2025-06-19 05:35:46.797026,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.033399999999999985,0.1333,0.1667
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,VJ Edgecombe,-0.033399999999999985,0.1333,0.1667
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Kon Knueppel #5",-0.034100000000000005,0.0909,0.125
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3, Ace Bailey #4",-0.0343,0.0833,0.1176
 2025-06-19 02:22:01.933030,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Kon Knueppel,-0.03570000000000001,0.25,0.2857
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Noa Essengue,-0.04169999999999999,0.125,0.1667
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4",-0.042899999999999994,0.1,0.1429
-2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Nolan Traoré,-0.043399999999999994,0.5122,0.5556
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Danny Wolf,-0.043399999999999994,0.4444,0.4878
+2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Nolan Traoré,-0.043399999999999994,0.5122,0.5556
 2025-06-18 21:31:25.380226,Draft Position - Top 20 - To be Drafted in the Top 20,Will Riley,-0.044399999999999995,0.5556,0.6
 2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Jase Richardson,-0.04620000000000002,0.1538,0.2
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3",-0.052899999999999975,0.2174,0.2703
 2025-06-18 23:31:09.897385,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Ace Bailey,-0.05559999999999998,0.2222,0.2778
 2025-06-18 23:31:09.900445,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,VJ Edgecombe,-0.055900000000000005,0.3077,0.3636
 2025-06-18 18:45:06.012917,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Tre Johnson #5",-0.06239999999999998,0.1481,0.2105
+2025-06-19 05:35:46.797026,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.06590000000000001,0.1667,0.2326
 2025-06-18 21:31:25.376152,Draft Position - Top 10 - To be Drafted in the Top 10,Collin Murray-Boyles,-0.07619999999999999,0.4,0.4762
 2025-06-18 18:45:06.009645,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4",-0.08729999999999999,0.2353,0.3226
 2025-06-18 17:35:51.030721,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 4th Overall Pick,Ace Bailey,-0.0948,0.25,0.3448

@@ -10,13 +10,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 10:39:28.489509,Club World Cup - Group H - Winner,Al Hilal,0.10460000000000001,0.2222,0.1176
 2025-06-19 10:39:28.389147,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Wydad Casablanca,0.09999999999999999,0.1667,0.0667
 2025-06-19 09:35:07.068262,U21 European Championship - European U21 Championship 2025 - To Reach the Final,Portugal U21,0.0857,0.2857,0.2
-2025-06-19 10:39:28.485698,Club World Cup - Group G - To Qualify From Group,Juventus,0.08040000000000003,0.9804,0.9
 2025-06-19 10:39:28.482756,Club World Cup - Group G - Not To Qualify From Group,AL AIN FC,0.08040000000000003,0.9804,0.9
+2025-06-19 10:39:28.485698,Club World Cup - Group G - To Qualify From Group,Juventus,0.08040000000000003,0.9804,0.9
 2025-06-19 05:35:46.797026,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.07240000000000002,0.7647,0.6923
 2025-06-19 10:39:28.370651,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Jamal Musiala (Bayern Munich),0.07069999999999999,0.1818,0.1111
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3",0.06700000000000006,0.6226,0.5556
 2025-06-19 10:39:28.498877,Club World Cup - Group H - To Qualify From Group,FC Salzburg,0.067,0.4444,0.3774
 2025-06-19 10:39:28.495912,Club World Cup - Group H - Not To Qualify From Group,Real Madrid,0.066,0.1429,0.0769
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Semi Finals,0.0595,0.4762,0.4167
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,6+ European Teams to Reach Quarter Finals,0.05870000000000003,0.5238,0.4651
 2025-06-19 02:22:01.933030,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Derik Queen,0.05639999999999999,0.0909,0.0345
 2025-06-19 10:39:28.370651,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Vitinha (PSG),0.05559999999999998,0.1667,0.1111
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Manchester City,0.055400000000000005,0.6923,0.6369
@@ -25,10 +27,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Geovany Quenda (Portugal U21),0.04909999999999999,0.1667,0.1176
 2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.0474,0.9524,0.905
 2025-06-19 09:35:07.068262,U21 European Championship - European U21 Championship 2025 - To Reach the Final,Spain U21,0.04460000000000003,0.4082,0.3636
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Italian Team to reach the Quarter Finals,0.044499999999999984,0.2667,0.2222
 2025-06-19 10:39:28.476316,Club World Cup - Group G - Winner,Juventus,0.04410000000000003,0.3774,0.3333
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Carter Bryant,0.043800000000000006,0.2105,0.1667
-2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.04169999999999999,0.1667,0.125
 2025-06-19 09:35:06.954102,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Paris Saint-Germain,0.04169999999999999,0.1667,0.125
+2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.04169999999999999,0.1667,0.125
 2025-06-19 09:35:07.062066,U21 European Championship - European U21 Championship 2025 - Winner,France U21,0.04040000000000002,0.2222,0.1818
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Juventus,0.03710000000000002,0.3704,0.3333
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4",0.03689999999999999,0.3226,0.2857
@@ -43,57 +46,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 10:39:28.353926,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,PSG & Real Madrid,0.029299999999999993,0.0769,0.0476
 2025-06-19 04:43:44.230151,Boxing Lines - Liam Wilson vs Ayrton Osmar Gimenez - To Win the Bout,Liam Wilson,0.028800000000000048,0.875,0.8462
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Ace Bailey #5",0.028799999999999992,0.1538,0.125
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ European Teams to Reach Semi Finals,0.02870000000000006,0.8182,0.7895
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to Reach Quarter Finals,0.027999999999999914,0.8462,0.8182
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4",0.02789999999999998,0.2632,0.2353
-2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 10:39:30.899994,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 13:01:23.336365,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 11:29:48.923978,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 09:35:09.411315,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 08:43:24.912090,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 05:35:47.099160,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-19 06:46:19.523844,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Inter Milan to reach semi finals; Los Angeles FC to be knocked out in the group stage,0.02779999999999999,0.25,0.2222
 2025-06-19 07:31:57.569319,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 08:43:24.912090,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 06:46:19.523844,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 09:35:09.411315,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 05:35:47.099160,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 10:39:30.899994,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 11:29:48.923978,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 13:01:23.336365,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 13:44:48.916460,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-19 10:39:28.363542,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Manchester City,0.02560000000000001,0.3333,0.3077
-2025-06-19 11:29:48.919957,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 09:35:09.561823,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -C. Davis v A. Noren - 1st Round 2 Balls,Alex Noren,0.025599999999999956,0.6,0.5744
 2025-06-19 02:22:03.828992,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 06:46:19.519686,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 10:39:30.895813,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 07:31:57.565021,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 08:43:24.907737,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 09:35:09.407362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-19 13:01:23.332145,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 03:57:57.553589,Tournament Match-Ups - Tournament Match-Ups - K. Bradley vs J. Spieth - Tournament Match-Ups,Keegan Bradley,0.025599999999999956,0.6,0.5744
+2025-06-19 09:35:09.407362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 10:39:30.895813,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 11:29:48.919957,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 13:01:23.332145,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 13:44:48.911780,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-19 09:35:07.062066,U21 European Championship - European U21 Championship 2025 - Winner,Portugal U21,0.024999999999999994,0.125,0.1
 2025-06-19 09:35:09.513951,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -A. Scott v C. Young - 1st Round 2 Balls,Adam Scott,0.023800000000000043,0.5238,0.5
 2025-06-19 09:35:09.593756,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -X. Schauffele v C. Morikawa - 1st Round 2 Balls,Xander Schauffele,0.023800000000000043,0.5238,0.5
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,7+ European Teams to Reach Quarter Finals,0.023800000000000016,0.1905,0.1667
 2025-06-19 10:39:28.360458,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Juventus,0.023799999999999988,0.1667,0.1429
 2025-06-19 08:43:24.984517,Travelers Championship - 2/3 Balls - 1st Round 2 Balls - M.W. Lee v H. Hall - 1st Round 2 Balls,Harry Hall,0.022600000000000064,0.5348,0.5122
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each English Team to reach the Quarter Finals,0.02260000000000001,0.4,0.3774
 2025-06-19 10:39:28.482756,Club World Cup - Group G - Not To Qualify From Group,Wydad Casablanca,0.02200000000000002,0.9901,0.9681
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to be Knocked out in the Group Stage,0.02200000000000002,0.7143,0.6923
 2025-06-19 05:35:46.786920,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.02080000000000004,0.9375,0.9167
 2025-06-19 07:31:58.109827,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs S. Lowry - Tournament Match-Ups,Robert MacIntyre,0.02079999999999993,0.5556,0.5348
 2025-06-19 09:35:09.628397,Scores - 1st Round Scores - Hideki Matsuyama - Hideki Matsuyama,Over 67.5,0.01970000000000005,0.5652,0.5455
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.019099999999999992,0.0667,0.0476
-2025-06-19 10:39:28.346461,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,0.019000000000000017,0.2857,0.2667
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Ace Bailey,0.019000000000000017,0.2857,0.2667
+2025-06-19 10:39:28.346461,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,0.019000000000000017,0.2857,0.2667
 2025-06-19 08:43:25.438210,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs S. Lowry - Tournament Match-Ups,Robert MacIntyre,0.01880000000000004,0.5744,0.5556
-2025-06-19 09:35:07.046591,CONCACAF Gold Cup - Group A - Winner,Costa Rica,0.01820000000000002,0.2,0.1818
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Atl.Madrid to reach semi finals; Seattle Sounders to be knocked out in the group stage,0.018599999999999978,0.1667,0.1481
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Jeremiah Fears,0.01820000000000002,0.2,0.1818
+2025-06-19 09:35:07.046591,CONCACAF Gold Cup - Group A - Winner,Costa Rica,0.01820000000000002,0.2,0.1818
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jamal Musiala (Bayern Munich),0.01820000000000002,0.2,0.1818
 2025-06-19 11:29:48.949365,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Tony Soto,0.016700000000000048,0.75,0.7333
+2025-06-19 13:44:48.772880,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,Petr Khamukov,0.016699999999999993,0.4167,0.4
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any South American Team to reach the Semi Finals,0.016699999999999937,0.6,0.5833
 2025-06-19 10:39:28.360458,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,FC Salzburg,0.016600000000000004,0.0833,0.0667
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kenan Yildiz (Juventus),0.0165,0.0244,0.0079
 2025-06-19 09:35:09.509987,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -T. Hoge v T. Fleetwood - 1st Round 2 Balls,Tommy Fleetwood,0.016100000000000003,0.6078,0.5917
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Each Italian Team to reach the Semi Finals,0.015300000000000001,0.0476,0.0323
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Tre Johnson #5",0.015100000000000002,0.1818,0.1667
 2025-06-19 10:39:28.346461,Club World Cup - FIFA Club World Cup 2025 - Winner,Manchester City,0.015100000000000002,0.1818,0.1667
 2025-06-19 06:46:17.806742,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,0.01469999999999999,0.25,0.2353
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Kon Knueppel #4, Jeremiah Fears #5",0.01440000000000001,0.1053,0.0909
 2025-06-19 04:43:44.234333,Boxing Lines - Liam Paro vs Jonathan Navarro - To Win the Bout,Liam Paro,0.014100000000000001,0.9615,0.9474
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to Win; Inter Milan to reach the Semi Finals; Dortmund to reach Quarter Finals,0.014099999999999998,0.0385,0.0244
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Jeremiah Fears #5",0.013999999999999999,0.0909,0.0769
 2025-06-19 06:46:17.806742,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Alexandria Ocasio-Cortez,0.013999999999999999,0.0909,0.0769
 2025-06-19 06:46:17.806742,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Gavin Newsom,0.013999999999999999,0.0909,0.0769
@@ -101,50 +117,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 09:35:06.954102,UEFA Champions League - UEFA Champions League 2025/26 - Winner,FC Barcelona,0.013899999999999996,0.125,0.1111
 2025-06-19 08:43:25.455278,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Rory McIlroy,0.013600000000000001,0.3077,0.2941
 2025-06-19 02:22:01.936172,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Egor Demin,0.0131,0.0476,0.0345
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Quarter Finals,0.012700000000000003,0.0323,0.0196
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,All European Semi Finals,0.012699999999999989,0.3636,0.3509
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, VJ Edgecombe #3, Ace Bailey #4, Tre Johnson #5",0.011899999999999994,0.16,0.1481
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Kon Knueppel,0.011700000000000016,0.2222,0.2105
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to reach the Final,0.011700000000000016,0.2222,0.2105
 2025-06-19 02:22:03.711875,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,0.011499999999999955,0.6667,0.6552
-2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Nelson Weiper (Germany U21),0.011399999999999997,0.0278,0.0164
 2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Thom van Bergen (Netherlands U21),0.011399999999999997,0.0278,0.0164
+2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Nelson Weiper (Germany U21),0.011399999999999997,0.0278,0.0164
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Man City to reach the final; Chelsea to be knocked out in the Quarter Finals,0.011099999999999999,0.1111,0.1
 2025-06-19 02:22:03.770747,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,0.011099999999999999,0.1111,0.1
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Khaman Maluach,0.011099999999999999,0.1111,0.1
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Man City to reach semi finals; Inter Miami to be knocked out in the group stage,0.010699999999999987,0.3333,0.3226
+2025-06-19 13:44:48.964657,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,0.010699999999999932,0.5455,0.5348
 2025-06-19 10:39:28.353926,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Man City & PSG,0.0102,0.0769,0.0667
 2025-06-19 10:39:28.363542,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Juventus,0.0102,0.0769,0.0667
 2025-06-19 10:39:28.353926,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Inter Milan & PSG,0.010100000000000001,0.0345,0.0244
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Kon Knueppel #4",-0.010099999999999998,0.1111,0.1212
 2025-06-19 10:39:28.374152,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Man City & Kylian Mbappe,-0.010100000000000001,0.0244,0.0345
-2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Tre Johnson #4",-0.0102,0.0667,0.0769
 2025-06-19 09:35:07.062066,U21 European Championship - European U21 Championship 2025 - Winner,Denmark U21,-0.0102,0.0667,0.0769
+2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Tre Johnson #4",-0.0102,0.0667,0.0769
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Harry Kane (Bayern Munich),-0.0102,0.0667,0.0769
 2025-06-19 10:39:28.363542,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,CF Pachuca,-0.0102,0.005,0.0152
 2025-06-19 02:22:01.933030,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Khaman Maluach,-0.010499999999999982,0.2,0.2105
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Real Madrid, Bayern and Inter Milan each to reach Quarter Finals",-0.010499999999999982,0.2,0.2105
+2025-06-19 13:44:48.964657,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Mariya Agapova,-0.01100000000000001,0.5238,0.5348
 2025-06-19 02:22:03.690811,Boxing Lines - Christian Araneta vs Thanongsak Simsri - To Win the Bout,Thanongsak Simsri,-0.011099999999999999,0.4651,0.4762
 2025-06-19 10:39:28.374152,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Man City & Erling Haaland,-0.011199999999999995,0.0476,0.0588
 2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,Arizona Diamondbacks,-0.011200000000000002,0.0132,0.0244
 2025-06-19 08:43:25.455278,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Scottie Scheffler,-0.011299999999999977,0.7561,0.7674
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any MLS Team to reach Quarter Finals,-0.011700000000000016,0.2105,0.2222
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any MLS Team to reach the Final,-0.0121,0.0435,0.0556
 2025-06-19 10:39:28.479245,Club World Cup - Group G - To Finish Bottom,Manchester City,-0.0121,0.002,0.0141
 2025-06-19 02:22:01.926718,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 5th Overall Pick,Tre Johnson,-0.012299999999999978,0.3448,0.3571
 2025-06-19 05:35:46.786920,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.012600000000000007,0.0588,0.0714
 2025-06-19 10:39:28.389147,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,FC Salzburg,-0.0129,0.002,0.0149
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Jeremiah Fears #5",-0.0131,0.0345,0.0476
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to reach the final; Real Madrid to be knocked out in the Quarter Finals,-0.013999999999999999,0.0769,0.0909
+2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Omar Marmoush (Man City),-0.014099999999999998,0.0244,0.0385
 2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Jon Rowe (England U21),-0.014099999999999998,0.0244,0.0385
 2025-06-19 09:35:07.065063,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Harvey Elliott (England U21),-0.014099999999999998,0.0244,0.0385
 2025-06-19 10:39:28.370651,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Cole Palmer (Chelsea),-0.014099999999999998,0.0244,0.0385
-2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Omar Marmoush (Man City),-0.014099999999999998,0.0244,0.0385
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to Win; Real Madrid to reach the Semi Finals; Man City to reach Quarter Finals,-0.014399999999999996,0.0625,0.0769
 2025-06-19 08:43:24.695304,ROY - AL ROY 2025 - American League Rookie of the Year,Jac Caglianone (KC),-0.014399999999999996,0.0625,0.0769
 2025-06-19 10:39:28.389147,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,CF Pachuca,-0.014499999999999999,0.0149,0.0294
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any African Team to reach the Semi Finals,-0.014899999999999997,0.0476,0.0625
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Final,-0.014899999999999997,0.0476,0.0625
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Wydad Casablanca,-0.014900000000000004,0.0196,0.0345
 2025-06-19 10:39:28.476316,Club World Cup - Group G - Winner,Wydad Casablanca,-0.0156,0.004,0.0196
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Kon Knueppel #5",-0.015600000000000003,0.0385,0.0541
 2025-06-19 09:35:07.046591,CONCACAF Gold Cup - Group A - Winner,Mexico,-0.015699999999999936,0.8667,0.8824
+2025-06-19 13:44:48.772880,Boxing Lines - David Stevens vs Petr Khamukov - To Win the Bout,David Stevens,-0.01759999999999995,0.6491,0.6667
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to reach the Final,-0.017600000000000005,0.3333,0.3509
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Asian Team to reach the Semi Finals,-0.0179,0.125,0.1429
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kylian Mbappe (Real Madrid),-0.0179,0.125,0.1429
 2025-06-19 09:35:09.509987,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -T. Hoge v T. Fleetwood - 1st Round 2 Balls,Tom Hoge,-0.019699999999999995,0.4348,0.4545
 2025-06-19 04:43:44.234333,Boxing Lines - Liam Paro vs Jonathan Navarro - To Win the Bout,Jonathan Navarro,-0.02020000000000001,0.0909,0.1111
 2025-06-19 09:35:09.561823,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -C. Davis v A. Noren - 1st Round 2 Balls,Cam Davis,-0.020699999999999996,0.4444,0.4651
 2025-06-19 11:29:48.949365,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Ben Bonner,-0.020799999999999985,0.3125,0.3333
 2025-06-19 05:35:46.806988,NL East - NL East 2025 - NL East Winner,New York Mets,-0.02100000000000002,0.6154,0.6364
-2025-06-19 09:35:09.513951,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -A. Scott v C. Young - 1st Round 2 Balls,Cameron Young,-0.02169999999999994,0.5238,0.5455
 2025-06-19 09:35:09.593756,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -X. Schauffele v C. Morikawa - 1st Round 2 Balls,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
+2025-06-19 09:35:09.513951,Travelers Championship - 2/3 Balls - 1st Round 2 Balls -A. Scott v C. Young - 1st Round 2 Balls,Cameron Young,-0.02169999999999994,0.5238,0.5455
 2025-06-19 10:39:28.476316,Club World Cup - Group G - Winner,Manchester City,-0.02200000000000002,0.6923,0.7143
 2025-06-19 10:39:28.360458,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,CF Pachuca,-0.022099999999999998,0.0164,0.0385
 2025-06-19 08:43:24.984517,Travelers Championship - 2/3 Balls - 1st Round 2 Balls - M.W. Lee v H. Hall - 1st Round 2 Balls,Min Woo Lee,-0.022600000000000064,0.5122,0.5348
@@ -152,32 +185,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Collin Murray-Boyles,-0.023799999999999988,0.1429,0.1667
 2025-06-19 10:39:28.346461,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.023799999999999988,0.1429,0.1667
 2025-06-19 09:35:09.628397,Scores - 1st Round Scores - Hideki Matsuyama - Hideki Matsuyama,Under 67.5,-0.023800000000000043,0.5,0.5238
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,6+ European Teams to be Knocked out in the Group Stage,-0.023899999999999998,0.0196,0.0435
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Liga MX Team to reach Semi Finals,-0.024,0.0385,0.0625
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ North American Teams to reach the Quarter Finals,-0.024,0.0385,0.0625
 2025-06-19 10:39:28.374152,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Kylian Mbappe,-0.024299999999999995,0.0345,0.0588
 2025-06-19 05:35:46.801999,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.024999999999999994,0.1,0.125
-2025-06-19 08:43:24.912090,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 11:29:48.923978,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 13:01:23.336365,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 04:43:44.288826,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 13:01:23.336365,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 11:29:48.923978,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 03:57:57.029629,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 02:22:03.833112,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 10:39:30.899994,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 07:31:57.569319,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 13:44:48.916460,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 08:43:24.912090,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 05:35:47.099160,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-19 06:46:19.523844,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 07:31:57.569319,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-19 09:35:09.411315,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 06:46:19.523844,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Paris SG to reach semi finals; Al Hilal to be knocked out in the group stage,-0.02560000000000001,0.3077,0.3333
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3",-0.026499999999999996,0.2174,0.2439
 2025-06-19 10:39:28.360458,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,AL AIN FC,-0.026600000000000002,0.0079,0.0345
+2025-06-19 10:39:30.895813,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 09:35:09.407362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 08:43:24.907737,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 02:22:03.828992,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 06:46:19.519686,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 11:29:48.919957,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 09:35:09.407362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 13:44:48.911780,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 03:57:57.025192,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 13:01:23.332145,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 08:43:24.907737,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 07:31:57.565021,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 10:39:30.895813,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-19 05:35:47.094931,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-19 04:43:44.284544,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 07:31:57.565021,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Semi Finals,-0.02679999999999999,0.1111,0.1379
 2025-06-19 10:39:28.389147,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Esperance Tunis,-0.027999999999999997,0.1538,0.1818
 2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.028199999999999996,0.0385,0.0667
 2025-06-19 02:22:01.954723,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4, Tre Johnson #5",-0.028399999999999995,0.0625,0.0909
@@ -189,6 +229,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 10:39:28.479245,Club World Cup - Group G - To Finish Bottom,Juventus,-0.030500000000000003,0.004,0.0345
 2025-06-19 05:35:46.811982,NL West - NL West 2025 - NL West Winner,San Francisco Giants,-0.030699999999999998,0.0526,0.0833
 2025-06-19 04:43:44.230151,Boxing Lines - Liam Wilson vs Ayrton Osmar Gimenez - To Win the Bout,Ayrton Osmar Gimenez,-0.031700000000000006,0.1905,0.2222
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Spanish Team to reach the Semi Finals,-0.03179999999999994,0.5238,0.5556
 2025-06-19 10:39:28.349835,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Erling Haaland (Man City),-0.031799999999999995,0.1111,0.1429
 2025-06-19 10:39:28.476316,Club World Cup - Group G - Winner,AL AIN FC,-0.0319,0.0066,0.0385
 2025-06-19 09:35:07.062066,U21 European Championship - European U21 Championship 2025 - Winner,England U21,-0.033300000000000024,0.1667,0.2
@@ -198,26 +239,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-19 02:22:01.933030,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 7th Overall Pick,Kon Knueppel,-0.03570000000000001,0.25,0.2857
 2025-06-19 08:43:25.126761,Round Match-Ups - 1st Round Match-Ups - D. Berger v S. Burns - Requests,Daniel Berger,-0.03600000000000003,0.4878,0.5238
 2025-06-19 02:22:01.943336,Draft Picks - NBA Draft - Picks #10 - #19 - 10th Overall Pick,Noa Essengue,-0.04169999999999999,0.125,0.1667
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any English Team to be Knocked out in the Group Stage,-0.042899999999999994,0.1,0.1429
 2025-06-19 02:22:01.951484,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4",-0.042899999999999994,0.1,0.1429
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any North American Team to reach the Quarter Finals,-0.043200000000000016,0.3077,0.3509
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Liga MX Team to reach Quarter Finals,-0.043899999999999995,0.1379,0.1818
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,CF Pachuca,-0.0448,0.0385,0.0833
 2025-06-19 10:39:28.360458,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Real Madrid,-0.045499999999999985,0.4545,0.5
 2025-06-19 07:31:58.109827,Tournament Match-Ups - Tournament Match-Ups - R. MacIntyre vs S. Lowry - Tournament Match-Ups,Shane Lowry,-0.04700000000000004,0.4878,0.5348
 2025-06-19 10:39:28.489509,Club World Cup - Group H - Winner,CF Pachuca,-0.047099999999999996,0.0196,0.0667
 2025-06-19 09:35:07.068262,U21 European Championship - European U21 Championship 2025 - To Reach the Final,England U21,-0.047599999999999976,0.2857,0.3333
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Real Madrid,-0.04760000000000009,0.6667,0.7143
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,"Real Madrid, Man City and Paris SG each to reach Quarter Finals",-0.0504,0.2353,0.2857
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,2+ European Teams to be Knocked out in the Group Stage,-0.052000000000000046,0.8571,0.9091
 2025-06-19 10:39:28.357380,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,AL AIN FC,-0.05249999999999999,0.0244,0.0769
 2025-06-19 02:22:01.948208,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3",-0.052899999999999975,0.2174,0.2703
 2025-06-19 10:39:28.389147,Club World Cup - FIFA Club World Cup 2025 - Lowest Scoring Team,Ulsan Hyundai,-0.05350000000000002,0.1818,0.2353
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Asian Team to reach the Quarter Finals,-0.057699999999999974,0.25,0.3077
 2025-06-19 10:39:28.482756,Club World Cup - Group G - Not To Qualify From Group,Manchester City,-0.058899999999999994,0.0244,0.0833
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,5+ European Teams to be Knocked out in the Group Stage,-0.0629,0.0909,0.1538
 2025-06-19 10:39:28.363542,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Real Madrid,-0.06519999999999998,0.2857,0.3509
 2025-06-19 05:35:46.797026,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.06590000000000001,0.1667,0.2326
 2025-06-19 10:39:28.492440,Club World Cup - Group H - To Finish Bottom,Al Hilal,-0.06860000000000002,0.1667,0.2353
 2025-06-19 10:39:28.498877,Club World Cup - Group H - To Qualify From Group,Real Madrid,-0.07130000000000003,0.9091,0.9804
 2025-06-19 10:39:28.495912,Club World Cup - Group H - Not To Qualify From Group,FC Salzburg,-0.0925999999999999,0.6296,0.7222
 2025-06-19 09:35:06.956789,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,England,-0.09999999999999998,0.4,0.5
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,4+ European Teams to be Knocked out in the Group Stage,-0.11070000000000002,0.2667,0.3774
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,3+ European Teams to be Knocked out in the Group Stage,-0.11109999999999998,0.5556,0.6667
 2025-06-19 10:39:28.482756,Club World Cup - Group G - Not To Qualify From Group,Juventus,-0.1317,0.0588,0.1905
 2025-06-19 10:39:28.479245,Club World Cup - Group G - To Finish Bottom,Wydad Casablanca,-0.13190000000000002,0.5556,0.6875
 2025-06-19 10:39:28.485698,Club World Cup - Group G - To Qualify From Group,AL AIN FC,-0.1379,0.0526,0.1905
+2025-06-19 13:44:46.124482,Club World Cup - FIFA Club World Cup 2025 - Competition Specials,Any Italian Team to be Knocked out in the Group Stage,-0.16850000000000004,0.3077,0.4762
 2025-06-19 10:39:28.495912,Club World Cup - Group H - Not To Qualify From Group,Al Hilal,-0.1744,0.4,0.5744
 2025-06-19 10:39:28.489509,Club World Cup - Group H - Winner,Real Madrid,-0.20830000000000004,0.6667,0.875
 2025-06-19 08:43:22.956727,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),-0.2368,0.0132,0.25

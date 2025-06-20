@@ -32,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 11:29:26.556570,Club World Cup - Group B - Winner,Atletico Madrid,0.047400000000000005,0.1,0.0526
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Haeran Ryu,0.0474,0.0909,0.0435
 2025-06-20 07:31:53.751961,Round Match-Ups - 2nd Round Match-Ups - X. Schauffele vs J. Thomas - 2nd Round Match-Ups,Xander Schauffele,0.04620000000000002,0.5917,0.5455
+2025-06-20 13:43:57.170493,Scores - 2nd Round Scores - Sam Burns - Sam Burns,Over 68.5,0.045499999999999985,0.5455,0.5
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Ricardo Gonzalez,0.0409,0.0588,0.0179
 2025-06-20 04:43:57.873957,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Jamal Musiala,0.038299999999999994,0.0909,0.0526
 2025-06-20 08:42:48.581037,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - D. Berger / S. Stevens - 2nd Round 2-Balls,Sam Stevens,0.03620000000000001,0.4444,0.4082
@@ -39,8 +40,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 10:39:47.883571,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - A. Scott / C. Young - 2nd Round 2-Balls,Adam Scott,0.03489999999999999,0.5,0.4651
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Somi Lee,0.0344,0.0588,0.0244
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Rio Takeda,0.03439999999999999,0.0667,0.0323
-2025-06-20 11:29:27.298710,European Union Specials - Will the UK rejoin the EU as a member state before 2030? - Will UK rejoin EU before 2030?,Yes,0.033300000000000024,0.2,0.1667
 2025-06-20 13:01:01.579322,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Palmeiras SP,0.033300000000000024,0.2,0.1667
+2025-06-20 11:29:27.298710,European Union Specials - Will the UK rejoin the EU as a member state before 2030? - Will UK rejoin EU before 2030?,Yes,0.033300000000000024,0.2,0.1667
 2025-06-20 07:31:53.573442,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,0.033299999999999996,0.5455,0.5122
 2025-06-20 04:43:57.870429,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Phil Foden (Man City),0.033,0.0526,0.0196
 2025-06-20 13:01:01.579322,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Fluminense RJ,0.031799999999999995,0.1429,0.1111
@@ -50,35 +51,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Yealimi Noh,0.0282,0.0526,0.0244
 2025-06-20 11:29:26.556570,Club World Cup - Group B - Winner,Paris Saint-Germain,0.028000000000000025,0.5744,0.5464
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Paris Saint-Germain,0.027800000000000047,0.7778,0.75
+2025-06-20 13:43:56.904188,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 13:01:04.184615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 11:29:29.062670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-20 06:45:56.913632,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 10:39:47.695427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-20 02:21:18.615785,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 08:42:48.506304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 07:31:53.512743,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-20 06:45:56.913632,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 05:36:24.438753,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-20 03:56:12.256709,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-20 02:21:18.615785,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 04:44:00.424092,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-20 03:56:12.256709,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-20 10:39:47.969997,Round Match-Ups - 2nd Round Match-Ups - V. Hovland vs C. Young - 2nd Round Match-Ups,Viktor Hovland,0.026499999999999968,0.5917,0.5652
-2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Botafogo RJ,0.0262,0.0385,0.0123
 2025-06-20 04:43:57.866217,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Phil Foden (Man City),0.0262,0.0385,0.0123
+2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Botafogo RJ,0.0262,0.0385,0.0123
 2025-06-20 10:39:47.748243,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Josh Copeland,0.02560000000000001,0.3333,0.3077
-2025-06-20 13:01:04.180563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 03:56:12.252678,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 06:45:56.909513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 07:31:53.508790,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 08:42:48.502302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-20 10:39:47.691438,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 06:45:56.909513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 13:43:56.900151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 13:01:04.180563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-20 11:29:29.058513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 04:44:00.420012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-20 02:21:18.611736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-20 05:36:24.434501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 03:56:12.252678,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 08:42:48.502302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-20 02:21:18.698664,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - T. Detry / S.W. Kim - 2nd Round 2-Balls,Si Woo Kim,0.025599999999999956,0.6,0.5744
+2025-06-20 07:31:53.508790,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 04:44:00.420012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-20 05:36:24.434501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-20 11:29:26.645538,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,USA,0.024599999999999955,0.3636,0.339
-2025-06-20 04:43:57.866217,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.0242,0.0909,0.0667
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Miguel Angel Jimenez,0.0242,0.0909,0.0667
+2025-06-20 04:43:57.866217,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.0242,0.0909,0.0667
 2025-06-20 11:29:29.397355,Scores - 2nd Round Scores - Taylor Pendrith - Taylor Pendrith,Over 68.5,0.023800000000000043,0.5238,0.5
+2025-06-20 13:43:57.165883,Scores - 2nd Round Scores - Ludvig Aberg - Ludvig Aberg,Over 68.5,0.023800000000000043,0.5238,0.5
 2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,0.023799999999999988,0.1667,0.1429
 2025-06-20 13:01:01.579322,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Botafogo RJ,0.023799999999999988,0.1667,0.1429
 2025-06-20 05:36:22.271759,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.02250000000000002,0.2857,0.2632
@@ -89,8 +93,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Cameron Percy,0.019800000000000005,0.0476,0.0278
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Darren Clarke,0.019099999999999995,0.0435,0.0244
 2025-06-20 04:43:57.866217,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lionel Messi (Inter Miami),0.018200000000000004,0.0476,0.0294
-2025-06-20 03:56:10.176590,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.018100000000000005,0.2778,0.2597
 2025-06-20 13:01:04.301699,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - B. Cauley / D. Riley - 2nd Round 2-Balls,Bud Cauley,0.018100000000000005,0.5833,0.5652
+2025-06-20 03:56:10.176590,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.018100000000000005,0.2778,0.2597
 2025-06-20 11:29:27.304007,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Conor McGregor,0.018099999999999998,0.0769,0.0588
 2025-06-20 02:21:18.510995,Boxing Lines - Stephanie Silva vs Mary Romero - To Win the Bout,Stephanie Silva,0.017100000000000004,0.8462,0.8291
 2025-06-20 13:01:04.250802,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Rodney Hinton,0.016599999999999948,0.8261,0.8095
@@ -101,8 +105,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Atletico Madrid,0.015300000000000001,0.0588,0.0435
 2025-06-20 04:43:57.866217,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.015100000000000002,0.1818,0.1667
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Mark Hensby,0.014900000000000004,0.0345,0.0196
-2025-06-20 08:42:48.686147,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - T. Hoge / T. Fleetwood - 2nd Round 2-Balls,Tommy Fleetwood,0.014800000000000035,0.6226,0.6078
 2025-06-20 08:42:48.665927,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - W. Clark / M. Pavon - 2nd Round 2-Balls,Wyndham Clark,0.014800000000000035,0.6226,0.6078
+2025-06-20 08:42:48.686147,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - T. Hoge / T. Fleetwood - 2nd Round 2-Balls,Tommy Fleetwood,0.014800000000000035,0.6226,0.6078
 2025-06-20 05:36:22.658294,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.014800000000000008,0.2,0.1852
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Tim Petrovic,0.014599999999999998,0.0196,0.005
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Steve Flesch,0.0145,0.0244,0.0099
@@ -110,6 +114,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Fluminense RJ,0.013600000000000001,0.3077,0.2941
 2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Inter Miami,0.013,0.0196,0.0066
 2025-06-20 13:01:01.579322,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Borussia Dortmund,0.012899999999999995,0.1667,0.1538
+2025-06-20 13:43:57.157228,Scores - 2nd Round Scores - Cameron Young - Cameron Young,Over 67.5,0.012700000000000045,0.6491,0.6364
 2025-06-20 08:42:48.633458,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - X. Schauffele / C. Morikawa - 2nd Round 2-Balls,Xander Schauffele,0.012199999999999989,0.5,0.4878
 2025-06-20 05:36:22.658294,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,0.011700000000000016,0.2222,0.2105
 2025-06-20 13:01:04.238483,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Josh Copeland,0.01150000000000001,0.3448,0.3333
@@ -123,15 +128,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 08:42:48.633458,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - X. Schauffele / C. Morikawa - 2nd Round 2-Balls,Collin Morikawa,-0.010099999999999998,0.5455,0.5556
 2025-06-20 13:01:04.222097,BKFC 76: Bonner vs Soto - Brandon Meneses vs Willie Gates - To Win the Bout,Willie Gates,-0.010099999999999998,0.3125,0.3226
 2025-06-20 03:56:09.801575,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,-0.0102,0.0667,0.0769
+2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Austria,-0.0102,0.0667,0.0769
 2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Czechia,-0.0102,0.0667,0.0769
 2025-06-20 02:21:16.446357,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Volodymyr Zelensky,-0.0102,0.0667,0.0769
-2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Austria,-0.0102,0.0667,0.0769
 2025-06-20 08:42:48.422095,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.010499999999999982,0.2,0.2105
 2025-06-20 02:21:18.478600,Boxing Lines - Juan Sanchez vs Yeis Gabriel Solano - To Win the Bout,Yeis Gabriel Solano,-0.010899999999999993,0.1429,0.1538
-2025-06-20 13:01:04.301699,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - B. Cauley / D. Riley - 2nd Round 2-Balls,Davis Riley,-0.011099999999999999,0.4651,0.4762
 2025-06-20 13:01:04.238483,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Andrei Arlovski,-0.011099999999999999,0.7222,0.7333
-2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Kevin Sutherland,-0.011699999999999999,0.0079,0.0196
+2025-06-20 13:01:04.301699,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - B. Cauley / D. Riley - 2nd Round 2-Balls,Davis Riley,-0.011099999999999999,0.4651,0.4762
 2025-06-20 04:43:57.873957,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Ousmane Dembele,-0.011699999999999999,0.0079,0.0196
+2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Kevin Sutherland,-0.011699999999999999,0.0079,0.0196
 2025-06-20 05:36:22.271759,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.011700000000000016,0.2105,0.2222
 2025-06-20 04:43:57.873957,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Kylian Mbappe,-0.0118,0.0099,0.0217
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Michael Wright,-0.0118,0.0099,0.0217
@@ -147,8 +152,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jin Hee Im,-0.014599999999999998,0.005,0.0196
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Greg Chalmers,-0.0156,0.004,0.0196
 2025-06-20 02:21:18.510995,Boxing Lines - Stephanie Silva vs Mary Romero - To Win the Bout,Mary Romero,-0.015899999999999997,0.2222,0.2381
-2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Doug Barron,-0.0165,0.0079,0.0244
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Carlota Ciganda,-0.0165,0.0079,0.0244
+2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Doug Barron,-0.0165,0.0079,0.0244
 2025-06-20 13:01:04.093306,Boxing Lines - Youssef Khoumari vs Louie Odoherty - To Win the Bout,Youssef Khoumari,-0.016900000000000026,0.6552,0.6721
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,K J Choi,-0.017100000000000004,0.0152,0.0323
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Boca Juniors,-0.0174,0.2326,0.25
@@ -156,6 +161,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,River Plate,-0.018100000000000005,0.4167,0.4348
 2025-06-20 13:01:04.250802,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Darren Whitney,-0.018699999999999994,0.241,0.2597
 2025-06-20 04:43:57.873957,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Borussia Dortmund & Serhou Guirassy,-0.019499999999999997,0.0099,0.0294
+2025-06-20 13:43:57.165883,Scores - 2nd Round Scores - Ludvig Aberg - Ludvig Aberg,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2025-06-20 11:29:29.397355,Scores - 2nd Round Scores - Taylor Pendrith - Taylor Pendrith,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2025-06-20 02:21:18.698664,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - T. Detry / S.W. Kim - 2nd Round 2-Balls,Thomas Detry,-0.020699999999999996,0.4444,0.4651
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Akie Iwai,-0.021199999999999997,0.0066,0.0278
@@ -165,36 +171,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 11:29:26.645538,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Saudi Arabia,-0.02310000000000001,0.0769,0.1
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Angel Cabrera,-0.0232,0.0435,0.0667
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hyo Joo Kim,-0.023399999999999997,0.0044,0.0278
-2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Greece,-0.023799999999999988,0.1429,0.1667
 2025-06-20 04:43:57.870429,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Vitinha (PSG),-0.023799999999999988,0.1429,0.1667
+2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Greece,-0.023799999999999988,0.1429,0.1667
 2025-06-20 08:42:48.653817,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - M.W. Lee / H. Hall - 2nd Round 2-Balls,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2025-06-20 04:43:57.870429,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Ousmane Dembele (PSG),-0.0242,0.0667,0.0909
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lydia Ko,-0.024600000000000004,0.0099,0.0345
 2025-06-20 03:56:10.176590,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.025499999999999967,0.7619,0.7874
 2025-06-20 06:45:56.913632,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 07:31:53.512743,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 11:29:29.062670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 13:01:04.184615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 10:39:47.695427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 05:36:24.438753,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-20 03:56:12.256709,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-20 08:42:48.506304,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-20 02:21:18.615785,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 03:56:12.256709,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 11:29:29.062670,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 07:31:53.512743,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-20 04:44:00.424092,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 13:43:56.904188,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 05:36:24.438753,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 13:01:04.184615,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-20 10:39:47.695427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-20 04:43:57.873957,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,PSG & Kylian Mbappe,-0.0262,0.0123,0.0385
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Ulsan Hyundai,-0.026600000000000002,0.0079,0.0345
-2025-06-20 08:42:48.502302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 03:56:12.252678,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 05:36:24.434501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 06:45:56.909513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 07:31:53.508790,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 10:39:47.691438,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 11:29:29.058513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 02:21:18.611736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-20 13:01:04.180563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-20 10:39:47.863318,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - J. Day / M. Homa - 2nd Round 2-Balls,Max Homa,-0.026600000000000013,0.4082,0.4348
+2025-06-20 13:43:56.900151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 05:36:24.434501,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 03:56:12.252678,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 10:39:47.691438,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-20 04:44:00.420012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 11:29:29.058513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 06:45:56.909513,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 08:42:48.502302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 02:21:18.611736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 07:31:53.508790,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-20 13:01:04.180563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-20 03:56:12.534562,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Celine Boutier,-0.0279,0.0066,0.0345
+2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Los Angeles FC,-0.028000000000000004,0.0196,0.0476
 2025-06-20 10:39:47.883571,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - A. Scott / C. Young - 2nd Round 2-Balls,Cameron Young,-0.028900000000000037,0.5455,0.5744
 2025-06-20 08:42:48.581037,Travelers Championship - 2/3 Balls - 2nd Round 2-Balls - D. Berger / S. Stevens - 2nd Round 2-Balls,Daniel Berger,-0.02960000000000007,0.6,0.6296
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Flamengo RJ,-0.030299999999999994,0.3333,0.3636
@@ -211,6 +220,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-20 11:29:27.294549,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Italy,-0.03570000000000001,0.25,0.2857
 2025-06-20 11:29:26.543702,Club World Cup - Group A - Winner,Palmeiras SP,-0.03810000000000002,0.871,0.9091
 2025-06-20 13:01:01.576155,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,-0.0393,0.3774,0.4167
+2025-06-20 13:43:57.170493,Scores - 2nd Round Scores - Sam Burns - Sam Burns,Under 68.5,-0.04139999999999999,0.5238,0.5652
 2025-06-20 08:42:48.877716,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Jerry Kelly,-0.04229999999999999,0.0244,0.0667
 2025-06-20 05:36:22.271759,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.043399999999999994,0.4444,0.4878
 2025-06-20 07:31:53.751961,Round Match-Ups - 2nd Round Match-Ups - X. Schauffele vs J. Thomas - 2nd Round Match-Ups,Justin Thomas,-0.045499999999999985,0.4545,0.5

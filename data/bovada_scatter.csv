@@ -8,11 +8,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 07:30:13.417597,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 66.5,0.10109999999999997,0.5556,0.4545
 2025-06-21 05:34:10.347288,Club World Cup - Group D - To Qualify from Group Stage,Chelsea,0.09209999999999996,0.9709,0.8788
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Liam McNeeley,0.08779999999999999,0.4878,0.4
-2025-06-21 12:56:22.661539,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,0.07930000000000001,0.2222,0.1429
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Walter Clayton Jr,0.07930000000000001,0.2222,0.1429
+2025-06-21 12:56:22.661539,LNB Pro A - France LNB Pro A 2024/25 - Winner,AS Monaco,0.07930000000000001,0.2222,0.1429
 2025-06-21 10:37:12.229904,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Stevens / N. Dunlap - 3rd Round 2-Balls,Sam Stevens,0.07439999999999991,0.697,0.6226
-2025-06-21 14:33:42.308455,Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Under 67.5,0.06929999999999997,0.5455,0.4762
 2025-06-21 11:29:51.759125,Scores - 3rd Round Score - Eric Cole - 3rd Round Score,Under 68.5,0.06929999999999997,0.5455,0.4762
+2025-06-21 14:33:42.308455,Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Under 67.5,0.06929999999999997,0.5455,0.4762
 2025-06-21 11:29:51.781131,Scores - 3rd Round Score - Jason Day - 3rd Round Score,Under 68.5,0.06789999999999996,0.5917,0.5238
 2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Adou Thiero,0.06779999999999997,0.5122,0.4444
 2025-06-21 11:29:51.706814,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Under 67.5,0.06520000000000004,0.5652,0.5
@@ -27,10 +27,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 11:29:51.741852,Scores - 3rd Round Score - Alex Noren - 3rd Round Score,Under 68.5,0.045499999999999985,0.5455,0.5
 2025-06-21 06:43:04.263593,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 28½,0.045499999999999985,0.5455,0.5
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Rio Takeda,0.04440000000000001,0.1111,0.0667
-2025-06-21 11:29:51.776652,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Under 68.5,0.044399999999999995,0.6,0.5556
 2025-06-21 11:29:51.715773,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 67.5,0.044399999999999995,0.6,0.5556
-2025-06-21 14:33:42.339055,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 66.5,0.044399999999999995,0.6,0.5556
 2025-06-21 11:29:51.772252,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Under 68.5,0.044399999999999995,0.6,0.5556
+2025-06-21 14:33:42.339055,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 66.5,0.044399999999999995,0.6,0.5556
+2025-06-21 11:29:51.776652,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Under 68.5,0.044399999999999995,0.6,0.5556
 2025-06-21 06:43:03.997665,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.043399999999999994,0.5556,0.5122
 2025-06-21 06:43:05.947389,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.04329999999999999,0.0909,0.0476
 2025-06-21 06:43:05.888892,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.042899999999999994,0.1429,0.1
@@ -58,8 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 06:43:03.994190,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat New York Liberty,0.033399999999999985,0.1667,0.1333
 2025-06-21 10:37:12.327331,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Hadwin / B. Griffin - 3rd Round 2-Balls,Ben Griffin,0.03259999999999996,0.6552,0.6226
 2025-06-21 06:43:04.242381,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 26½,0.03179999999999994,0.5556,0.5238
-2025-06-21 06:43:04.184623,Draft Position - Player Draft Position - Kasparas Jakucionis - Draft Position,Under 11.5,0.03090000000000004,0.6226,0.5917
 2025-06-21 11:29:51.537167,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - K. Yu / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,0.03090000000000004,0.6226,0.5917
+2025-06-21 06:43:04.184623,Draft Position - Player Draft Position - Kasparas Jakucionis - Draft Position,Under 11.5,0.03090000000000004,0.6226,0.5917
 2025-06-21 06:43:04.000829,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.030799999999999994,0.4082,0.3774
 2025-06-21 15:31:59.097251,Draft Position - Player Draft Position - Jeremiah Fears - Draft Position,Over 6.5,0.030399999999999983,0.5652,0.5348
 2025-06-21 14:33:42.317147,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Under 68.5,0.02960000000000007,0.6296,0.6
@@ -67,94 +67,96 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 15:31:59.122254,Draft Position - Top 10 - To be Drafted in the Top 10,Cedric Coward,0.028700000000000003,0.2105,0.1818
 2025-06-21 12:56:22.685168,EuroBasket Women - EuroBasket Women 2025 - Outright,France (W),0.028599999999999987,0.2667,0.2381
 2025-06-21 06:43:03.997665,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Golden State Valkyries,0.028000000000000004,0.0476,0.0196
-2025-06-21 11:29:51.566339,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Tom Kim,0.027700000000000058,0.5833,0.5556
 2025-06-21 07:30:13.123930,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Fowler / T. Finau - 3rd Round 2-Balls,Tony Finau,0.027700000000000058,0.5833,0.5556
+2025-06-21 11:29:51.566339,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Tom Kim,0.027700000000000058,0.5833,0.5556
 2025-06-21 05:34:10.722260,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.02679999999999999,0.3125,0.2857
-2025-06-21 08:37:00.291608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 06:43:06.167012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 09:32:45.947689,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 07:30:13.044268,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 15:32:01.075247,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 13:37:54.618184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 10:37:12.151111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 17:31:53.133341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 06:43:06.167012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 15:32:01.075247,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 11:29:51.412116,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 07:30:13.044268,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 14:33:42.008477,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 08:37:00.291608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 13:37:54.618184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 09:32:45.947689,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 12:56:24.813143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 05:34:12.816327,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 14:33:42.008477,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 13:37:54.816806,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Aaron Rai,0.026499999999999968,0.5917,0.5652
-2025-06-21 11:29:51.541330,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / A. Novak - 3rd Round 2-Balls,Xander Schauffele,0.026499999999999968,0.6491,0.6226
-2025-06-21 14:33:42.252041,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Under 67.5,0.026499999999999968,0.5917,0.5652
-2025-06-21 11:29:51.532999,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Daniel Berger,0.026499999999999968,0.6491,0.6226
 2025-06-21 14:33:42.312835,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 68.5,0.026499999999999968,0.6491,0.6226
+2025-06-21 11:29:51.541330,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / A. Novak - 3rd Round 2-Balls,Xander Schauffele,0.026499999999999968,0.6491,0.6226
 2025-06-21 10:37:12.204246,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,Roderick Stewart,0.026499999999999968,0.7826,0.7561
+2025-06-21 11:29:51.532999,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Daniel Berger,0.026499999999999968,0.6491,0.6226
+2025-06-21 14:33:42.252041,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Under 67.5,0.026499999999999968,0.5917,0.5652
 2025-06-21 11:29:51.408018,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 10:37:12.147156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 12:56:24.881096,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Mariya Agapova,0.025599999999999956,0.6,0.5744
+2025-06-21 06:43:04.340819,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,0.025599999999999956,0.6552,0.6296
+2025-06-21 05:34:12.811885,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 06:43:06.162910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 07:30:13.040143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 08:37:00.287416,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 09:32:45.943632,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 11:29:51.724567,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2025-06-21 07:30:13.040143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 12:56:24.881096,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Mariya Agapova,0.025599999999999956,0.6,0.5744
-2025-06-21 11:29:51.737465,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2025-06-21 05:34:12.811885,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 11:29:51.733213,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2025-06-21 06:43:06.162910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 08:37:00.287416,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 10:37:12.147156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 12:56:24.808952,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 06:43:04.340819,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,0.025599999999999956,0.6552,0.6296
-2025-06-21 13:37:54.614204,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 14:33:42.004460,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 15:32:01.071200,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 11:29:51.737465,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
+2025-06-21 11:29:51.733213,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
+2025-06-21 17:31:53.129427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 14:33:42.004460,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 13:37:54.614204,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 06:43:05.888892,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.025300000000000003,0.1429,0.1176
 2025-06-21 14:33:39.915082,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Pascal Siakam (IND),0.02400000000000002,0.274,0.25
-2025-06-21 10:37:12.413574,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs H. Hall - 3rd Round Match-Ups,Lucas Glover,0.023800000000000043,0.5238,0.5
-2025-06-21 10:37:12.298912,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. McNealy / S. Im - 3rd Round 2-Balls,Sungjae Im,0.023800000000000043,0.5238,0.5
 2025-06-21 11:29:51.785490,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Under 67.5,0.023800000000000043,0.5238,0.5
-2025-06-21 07:30:12.788594,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.023799999999999988,0.1667,0.1429
-2025-06-21 11:29:51.746118,Scores - 3rd Round Score - Russell Henley - 3rd Round Score,Under 67.5,0.023799999999999988,0.5,0.4762
+2025-06-21 10:37:12.298912,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. McNealy / S. Im - 3rd Round 2-Balls,Sungjae Im,0.023800000000000043,0.5238,0.5
+2025-06-21 10:37:12.413574,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs H. Hall - 3rd Round Match-Ups,Lucas Glover,0.023800000000000043,0.5238,0.5
 2025-06-21 12:56:22.685168,EuroBasket Women - EuroBasket Women 2025 - Outright,Spain (W),0.023799999999999988,0.1667,0.1429
+2025-06-21 11:29:51.746118,Scores - 3rd Round Score - Russell Henley - 3rd Round Score,Under 67.5,0.023799999999999988,0.5,0.4762
+2025-06-21 07:30:12.788594,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.023799999999999988,0.1667,0.1429
 2025-06-21 05:34:10.347288,Club World Cup - Group D - To Qualify from Group Stage,Esperance Tunis,0.0232,0.0667,0.0435
 2025-06-21 12:56:24.505563,World Series Winner - World Series 2025 - Winner - World Series Winner,Philadelphia Phillies,0.02310000000000001,0.1,0.0769
+2025-06-21 10:37:12.270671,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Daniel Berger,0.022600000000000064,0.6226,0.6
+2025-06-21 06:43:04.255109,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,0.022600000000000064,0.5348,0.5122
 2025-06-21 14:33:42.260746,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 67.5,0.022600000000000064,0.6226,0.6
 2025-06-21 11:29:51.553987,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - B. Cauley / L. Aberg - 3rd Round 2-Balls,Ludvig Aberg,0.022600000000000064,0.6226,0.6
-2025-06-21 06:43:04.255109,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,0.022600000000000064,0.5348,0.5122
 2025-06-21 11:29:51.767892,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Under 68.5,0.022600000000000064,0.6226,0.6
-2025-06-21 10:37:12.270671,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Daniel Berger,0.022600000000000064,0.6226,0.6
 2025-06-21 06:43:04.220539,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Kasparas Jakucionis,0.022599999999999953,0.7101,0.6875
 2025-06-21 14:33:39.927158,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,VJ Edgecombe,0.02200000000000002,0.7143,0.6923
-2025-06-21 14:33:42.247648,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
-2025-06-21 07:30:13.148431,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Matt Fitzpatrick,0.02169999999999994,0.5455,0.5238
-2025-06-21 11:29:51.659001,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Wyndham Clark,0.02169999999999994,0.5455,0.5238
-2025-06-21 10:37:12.405297,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs R. McIIroy - 3rd Round Match-Ups,Collin Morikawa,0.02169999999999994,0.5455,0.5238
-2025-06-21 11:29:51.663399,Round Match-Ups - 3rd Round Match-Ups - B. Hun An vs D. Thompson - 3rd Round Match-Ups,Davis Thompson,0.02169999999999994,0.5455,0.5238
-2025-06-21 15:31:59.122254,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,0.02169999999999994,0.5455,0.5238
-2025-06-21 13:37:55.009547,Kaulig Companies Championship - 2/3 Balls - 3rd Round 3-Balls - S. Alker / R. Gonzalez / T. Petrovic - 3rd Round 3-Balls,Steven Alker,0.02169999999999994,0.5455,0.5238
 2025-06-21 11:29:51.570478,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. Kim / L. Clanton - 3rd Round 2-Balls,Luke Clanton,0.02169999999999994,0.5455,0.5238
-2025-06-21 10:37:12.376642,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Aaron Rai,0.02169999999999994,0.5455,0.5238
+2025-06-21 10:37:12.405297,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs R. McIIroy - 3rd Round Match-Ups,Collin Morikawa,0.02169999999999994,0.5455,0.5238
 2025-06-21 06:43:04.288966,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 26½,0.02169999999999994,0.5455,0.5238
-2025-06-21 10:37:12.310951,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Sam Burns,0.02169999999999994,0.5455,0.5238
+2025-06-21 10:37:12.376642,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Aaron Rai,0.02169999999999994,0.5455,0.5238
+2025-06-21 15:31:59.122254,Draft Position - Top 10 - To be Drafted in the Top 10,Carter Bryant,0.02169999999999994,0.5455,0.5238
+2025-06-21 14:33:42.247648,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
 2025-06-21 11:29:51.603744,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Lucas Glover,0.02169999999999994,0.5455,0.5238
-2025-06-21 05:34:10.722260,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,0.020699999999999996,0.4651,0.4444
-2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Hansen Yang,0.020699999999999996,0.4651,0.4444
+2025-06-21 11:29:51.659001,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Wyndham Clark,0.02169999999999994,0.5455,0.5238
+2025-06-21 13:37:55.009547,Kaulig Companies Championship - 2/3 Balls - 3rd Round 3-Balls - S. Alker / R. Gonzalez / T. Petrovic - 3rd Round 3-Balls,Steven Alker,0.02169999999999994,0.5455,0.5238
+2025-06-21 07:30:13.148431,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Matt Fitzpatrick,0.02169999999999994,0.5455,0.5238
+2025-06-21 10:37:12.310951,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Sam Burns,0.02169999999999994,0.5455,0.5238
+2025-06-21 11:29:51.663399,Round Match-Ups - 3rd Round Match-Ups - B. Hun An vs D. Thompson - 3rd Round Match-Ups,Davis Thompson,0.02169999999999994,0.5455,0.5238
 2025-06-21 15:31:59.100538,Draft Position - Player Draft Position - Kasparas Jakucionis - Draft Position,Over 11.5,0.020699999999999996,0.4651,0.4444
+2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Hansen Yang,0.020699999999999996,0.4651,0.4444
+2025-06-21 05:34:10.722260,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,0.020699999999999996,0.4651,0.4444
 2025-06-21 06:43:04.000829,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.020100000000000007,0.8462,0.8261
-2025-06-21 13:37:54.759142,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Thompson / S. Jaeger - 3rd Round 2-Balls,Davis Thompson,0.01970000000000005,0.5652,0.5455
-2025-06-21 13:37:54.829070,Round Match-Ups - 3rd Round Match-Ups - L. Clanton vs M. McNealy - 3rd Round Match-Ups,Maverick McNealy,0.01970000000000005,0.5652,0.5455
-2025-06-21 06:43:04.246652,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 12½,0.01970000000000005,0.5652,0.5455
 2025-06-21 11:29:51.508351,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - J.J. Spaun / A. Scott - 3rd Round 2-Balls,J J Spaun,0.01970000000000005,0.5652,0.5455
-2025-06-21 11:29:51.642432,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Aaron Rai,0.01970000000000005,0.5652,0.5455
+2025-06-21 06:43:04.246652,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 12½,0.01970000000000005,0.5652,0.5455
 2025-06-21 14:33:42.286823,Scores - 3rd Round Score - Alex Noren - 3rd Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
-2025-06-21 10:37:12.282777,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Gerard / A. Rai - 3rd Round 2-Balls,Aaron Rai,0.01970000000000005,0.5652,0.5455
-2025-06-21 13:37:54.697876,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
-2025-06-21 10:37:12.242055,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Straka / S. Lowry - 3rd Round 2-Balls,Sepp Straka,0.01970000000000005,0.5652,0.5455
 2025-06-21 14:33:42.243271,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 67.5,0.01970000000000005,0.5652,0.5455
+2025-06-21 10:37:12.242055,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Straka / S. Lowry - 3rd Round 2-Balls,Sepp Straka,0.01970000000000005,0.5652,0.5455
+2025-06-21 13:37:54.759142,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Thompson / S. Jaeger - 3rd Round 2-Balls,Davis Thompson,0.01970000000000005,0.5652,0.5455
+2025-06-21 11:29:51.642432,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Aaron Rai,0.01970000000000005,0.5652,0.5455
+2025-06-21 13:37:54.697876,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2025-06-21 12:56:24.996870,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Lucas Glover,0.01970000000000005,0.5652,0.5455
+2025-06-21 13:37:54.829070,Round Match-Ups - 3rd Round Match-Ups - L. Clanton vs M. McNealy - 3rd Round Match-Ups,Maverick McNealy,0.01970000000000005,0.5652,0.5455
+2025-06-21 10:37:12.282777,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Gerard / A. Rai - 3rd Round 2-Balls,Aaron Rai,0.01970000000000005,0.5652,0.5455
 2025-06-21 06:43:04.000829,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,0.01949999999999999,0.0909,0.0714
 2025-06-21 16:40:01.104800,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Lorenzo Simpson,0.018500000000000016,0.2817,0.2632
 2025-06-21 06:43:05.879223,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.0179,0.1429,0.125
 2025-06-21 10:37:12.196185,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Israel Rodriguez,0.017299999999999982,0.303,0.2857
-2025-06-21 10:37:12.323223,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - H. Matsuyama / C. Morikawa - 3rd Round 2-Balls,Collin Morikawa,0.017299999999999982,0.5917,0.5744
 2025-06-21 11:29:51.754731,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Under 67.5,0.017299999999999982,0.5917,0.5744
+2025-06-21 10:37:12.323223,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - H. Matsuyama / C. Morikawa - 3rd Round 2-Balls,Collin Morikawa,0.017299999999999982,0.5917,0.5744
 2025-06-21 14:33:41.931194,Boxing Lines - Umar Dzambekov vs Roamer Alexis Angulo - To Win the Bout,Umar Dzambekov,0.016799999999999926,0.8571,0.8403
 2025-06-21 14:33:42.256386,Scores - 3rd Round Score - Davis Thompson - 3rd Round Score,Under 68.5,0.016100000000000003,0.6078,0.5917
 2025-06-21 14:33:39.801566,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,0.01579999999999998,0.3333,0.3175
@@ -166,29 +168,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 06:43:04.336570,To Make the Playoffs - Seattle Storm - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.01429999999999998,0.9852,0.9709
 2025-06-21 08:37:00.198372,Boxing Lines - Youssef Khoumari vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.01419999999999999,0.3846,0.3704
 2025-06-21 06:43:04.311071,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,No,0.014100000000000001,0.9615,0.9474
-2025-06-21 06:43:05.898554,NL West - NL West 2025 - NL West Winner,San Francisco Giants,0.014099999999999994,0.0667,0.0526
 2025-06-21 12:56:22.685168,EuroBasket Women - EuroBasket Women 2025 - Outright,Czech Republic (W),0.014099999999999994,0.0667,0.0526
+2025-06-21 06:43:05.898554,NL West - NL West 2025 - NL West Winner,San Francisco Giants,0.014099999999999994,0.0667,0.0526
 2025-06-21 13:37:54.647495,BKFC 76: Bonner vs Soto - Alex Davis vs James McKenzie Morrison - To Win the Bout,James McKenzie Morrison,0.013900000000000023,0.8889,0.875
 2025-06-21 06:43:03.997665,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.013899999999999996,0.125,0.1111
 2025-06-21 06:43:03.997665,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,0.013899999999999996,0.125,0.1111
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hye Jin Choi,0.013400000000000002,0.0244,0.011
+2025-06-21 13:37:54.663841,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,0.0131,0.7778,0.7647
+2025-06-21 06:43:06.213152,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,0.0131,0.7778,0.7647
 2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Jeremiah Fears,0.0131,0.2353,0.2222
 2025-06-21 15:31:59.122254,Draft Position - Top 10 - To be Drafted in the Top 10,Joan Beringer,0.0131,0.0476,0.0345
-2025-06-21 06:43:06.213152,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,0.0131,0.7778,0.7647
-2025-06-21 13:37:54.663841,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,0.0131,0.7778,0.7647
 2025-06-21 12:56:24.505563,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,0.012600000000000007,0.0714,0.0588
 2025-06-21 06:43:05.874390,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.012600000000000007,0.0714,0.0588
+2025-06-21 06:43:04.293172,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 17½,0.012199999999999989,0.5122,0.5
 2025-06-21 07:30:13.322448,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 67.5,0.012199999999999989,0.5,0.4878
 2025-06-21 14:33:42.334587,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 67.5,0.012199999999999989,0.5,0.4878
-2025-06-21 06:43:04.293172,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 17½,0.012199999999999989,0.5122,0.5
 2025-06-21 14:33:39.927158,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 3rd Overall Pick,Tre Johnson,0.011700000000000016,0.2222,0.2105
 2025-06-21 06:43:04.328059,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.011699999999999933,0.823,0.8113
-2025-06-21 14:33:42.192917,Round Match-Ups - 3rd Round Match-Ups - B. Cauley vs R. Fox - 3rd Round Match-Ups,Ryan Fox,0.011600000000000055,0.5238,0.5122
-2025-06-21 10:37:12.294861,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Bhatia / J.T. Poston - 3rd Round 2-Balls,J.T. Poston,0.011600000000000055,0.5238,0.5122
-2025-06-21 10:37:12.392925,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Wyndham Clark,0.011600000000000055,0.5238,0.5122
-2025-06-21 07:30:13.202061,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Sam Burns,0.011600000000000055,0.5238,0.5122
 2025-06-21 10:37:12.397101,Round Match-Ups - 3rd Round Match-Ups - B. Hun An vs D. Thompson - 3rd Round Match-Ups,Davis Thompson,0.011600000000000055,0.5238,0.5122
+2025-06-21 10:37:12.392925,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Wyndham Clark,0.011600000000000055,0.5238,0.5122
+2025-06-21 10:37:12.294861,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Bhatia / J.T. Poston - 3rd Round 2-Balls,J.T. Poston,0.011600000000000055,0.5238,0.5122
+2025-06-21 07:30:13.202061,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Sam Burns,0.011600000000000055,0.5238,0.5122
 2025-06-21 09:32:46.213205,Round Match-Ups - 3rd Round Match-Ups - H. Matsuyama vs B. Griffin - 3rd Round Match-Ups,Ben Griffin,0.011600000000000055,0.5238,0.5122
+2025-06-21 14:33:42.192917,Round Match-Ups - 3rd Round Match-Ups - B. Cauley vs R. Fox - 3rd Round Match-Ups,Ryan Fox,0.011600000000000055,0.5238,0.5122
 2025-06-21 09:32:46.328481,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Under 67.5,0.0116,0.4878,0.4762
 2025-06-21 10:37:12.367712,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - J. Thomas / S. Scheffler - 3rd Round 2-Balls,Scottie Scheffler,0.011499999999999955,0.6667,0.6552
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Miyu Yamashita,0.011399999999999997,0.0278,0.0164
@@ -199,9 +201,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 15:31:59.062099,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Tre Johnson #3",0.010499999999999982,0.2105,0.2
 2025-06-21 14:33:39.915082,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),0.0102,0.0769,0.0667
 2025-06-21 13:37:54.984474,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Tim Petrovic,0.0102,0.0769,0.0667
-2025-06-21 14:33:42.304126,Scores - 3rd Round Score - Eric Cole - 3rd Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
-2025-06-21 10:37:12.302937,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Tom Kim,0.010099999999999998,0.5556,0.5455
 2025-06-21 06:43:06.209077,BKFC 76: Bonner vs Soto - Brandon Meneses vs Willie Gates - To Win the Bout,Willie Gates,0.010099999999999998,0.3226,0.3125
+2025-06-21 10:37:12.302937,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Tom Kim,0.010099999999999998,0.5556,0.5455
+2025-06-21 14:33:42.304126,Scores - 3rd Round Score - Eric Cole - 3rd Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-06-21 06:43:03.994190,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat New York Liberty,-0.010100000000000001,0.0244,0.0345
 2025-06-21 07:30:12.788594,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,San Diego Padres,-0.0102,0.0667,0.0769
 2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Thomas Sorber,-0.0103,0.002,0.0123
@@ -210,31 +212,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 10:37:12.323223,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - H. Matsuyama / C. Morikawa - 3rd Round 2-Balls,Hideki Matsuyama,-0.010599999999999998,0.4545,0.4651
 2025-06-21 14:33:42.330253,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 67.5,-0.010699999999999932,0.5348,0.5455
 2025-06-21 06:43:04.000829,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.010700000000000043,0.6667,0.6774
-2025-06-21 10:37:12.392925,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Max Homa,-0.01100000000000001,0.5238,0.5348
 2025-06-21 14:33:42.192917,Round Match-Ups - 3rd Round Match-Ups - B. Cauley vs R. Fox - 3rd Round Match-Ups,Bud Cauley,-0.01100000000000001,0.5238,0.5348
-2025-06-21 10:37:12.294861,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Bhatia / J.T. Poston - 3rd Round 2-Balls,Akshay Bhatia,-0.01100000000000001,0.5238,0.5348
-2025-06-21 09:32:46.213205,Round Match-Ups - 3rd Round Match-Ups - H. Matsuyama vs B. Griffin - 3rd Round Match-Ups,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
+2025-06-21 10:37:12.392925,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Max Homa,-0.01100000000000001,0.5238,0.5348
 2025-06-21 10:37:12.397101,Round Match-Ups - 3rd Round Match-Ups - B. Hun An vs D. Thompson - 3rd Round Match-Ups,Byeong Hun An,-0.01100000000000001,0.5238,0.5348
+2025-06-21 10:37:12.294861,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Bhatia / J.T. Poston - 3rd Round 2-Balls,Akshay Bhatia,-0.01100000000000001,0.5238,0.5348
 2025-06-21 07:30:13.202061,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Robert MacIntyre,-0.01100000000000001,0.5238,0.5348
-2025-06-21 06:43:06.010724,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Seth Hernandez,-0.011099999999999999,0.1,0.1111
-2025-06-21 14:33:42.201100,Round Match-Ups - 3rd Round Match-Ups - L. Clanton vs M. McNealy - 3rd Round Match-Ups,Luke Clanton,-0.011099999999999999,0.4651,0.4762
+2025-06-21 09:32:46.213205,Round Match-Ups - 3rd Round Match-Ups - H. Matsuyama vs B. Griffin - 3rd Round Match-Ups,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
 2025-06-21 15:31:59.077530,Draft Position - Player Draft Position - Carter Bryant - Draft Position,Over 11.5,-0.011099999999999999,0.4651,0.4762
 2025-06-21 05:34:10.299376,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group D,-0.011099999999999999,0.1,0.1111
+2025-06-21 06:43:06.010724,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Seth Hernandez,-0.011099999999999999,0.1,0.1111
+2025-06-21 14:33:42.201100,Round Match-Ups - 3rd Round Match-Ups - L. Clanton vs M. McNealy - 3rd Round Match-Ups,Luke Clanton,-0.011099999999999999,0.4651,0.4762
 2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Kon Knueppel,-0.011499999999999955,0.6552,0.6667
-2025-06-21 11:29:51.754731,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 67.5,-0.0116,0.4762,0.4878
 2025-06-21 10:37:12.355500,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - N. Taylor / K. Bradley - 3rd Round 2-Balls,Nick Taylor,-0.0116,0.4762,0.4878
+2025-06-21 11:29:51.754731,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 67.5,-0.0116,0.4762,0.4878
 2025-06-21 14:33:42.304126,Scores - 3rd Round Score - Eric Cole - 3rd Round Score,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-06-21 05:34:10.722260,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.011899999999999994,0.0714,0.0833
 2025-06-21 07:30:12.783702,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,-0.011900000000000008,0.0833,0.0952
-2025-06-21 09:32:46.015882,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.012199999999999989,0.4878,0.5
 2025-06-21 10:37:12.302937,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Max Homa,-0.012199999999999989,0.4878,0.5
+2025-06-21 09:32:46.015882,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.012199999999999989,0.4878,0.5
 2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Jase Richardson,-0.012700000000000003,0.0196,0.0323
 2025-06-21 10:37:12.220437,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Rodney Hinton,-0.0129999999999999,0.8131,0.8261
 2025-06-21 12:56:22.685168,EuroBasket Women - EuroBasket Women 2025 - Outright,Great Britain (W),-0.013,0.0066,0.0196
 2025-06-21 10:37:12.196185,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,-0.0131,0.7647,0.7778
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,You Min Hwang,-0.0138,0.0079,0.0217
-2025-06-21 15:32:01.013889,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,-0.013999999999999999,0.0769,0.0909
 2025-06-21 06:43:06.010724,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Liam Doyle,-0.013999999999999999,0.0769,0.0909
+2025-06-21 15:32:01.013889,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,-0.013999999999999999,0.0769,0.0909
 2025-06-21 06:43:04.000829,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.014000000000000012,0.9091,0.9231
 2025-06-21 06:43:04.319578,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.014099999999999994,0.0526,0.0667
 2025-06-21 15:31:59.069077,Exact Order Parlays - Exact Order Parlays - Top 5,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, Kon Knueppel #4, Tre Johnson #5",-0.014399999999999996,0.0625,0.0769
@@ -249,24 +251,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 06:43:04.311071,To Make the Playoffs - Dallas Wings - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.015899999999999997,0.1053,0.1212
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Maxime Raynaud,-0.015899999999999997,0.0952,0.1111
 2025-06-21 14:33:39.801566,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.01629999999999998,0.7059,0.7222
-2025-06-21 13:37:54.647495,BKFC 76: Bonner vs Soto - Alex Davis vs James McKenzie Morrison - To Win the Bout,Alex Davis,-0.016600000000000004,0.1739,0.1905
 2025-06-21 06:43:04.332297,To Make the Playoffs - Phoenix Mercury - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.016600000000000004,0.0667,0.0833
+2025-06-21 13:37:54.647495,BKFC 76: Bonner vs Soto - Alex Davis vs James McKenzie Morrison - To Win the Bout,Alex Davis,-0.016600000000000004,0.1739,0.1905
 2025-06-21 11:29:51.541330,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / A. Novak - 3rd Round 2-Balls,Andrew Novak,-0.016699999999999993,0.4,0.4167
 2025-06-21 15:31:59.065638,Exact Order Parlays - Exact Order Parlays - Top 4,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3, VJ Edgecombe #4",-0.016700000000000007,0.0833,0.1
 2025-06-21 14:33:41.931194,Boxing Lines - Umar Dzambekov vs Roamer Alexis Angulo - To Win the Bout,Roamer Alexis Angulo,-0.01680000000000001,0.2105,0.2273
 2025-06-21 06:43:05.968876,ROY - AL ROY 2025 - American League Rookie of the Year,Roman Anthony (BOS),-0.017099999999999997,0.0385,0.0556
-2025-06-21 06:43:06.213152,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Israel Rodriguez,-0.017299999999999982,0.2857,0.303
 2025-06-21 09:32:46.328481,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 67.5,-0.017299999999999982,0.5744,0.5917
 2025-06-21 13:37:54.663841,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Israel Rodriguez,-0.017299999999999982,0.2857,0.303
+2025-06-21 06:43:06.213152,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Israel Rodriguez,-0.017299999999999982,0.2857,0.303
 2025-06-21 06:43:03.994190,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Indiana Fever,-0.01759999999999999,0.1,0.1176
-2025-06-21 05:34:10.299376,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group H,-0.01820000000000002,0.1818,0.2
 2025-06-21 15:31:59.062099,Exact Order Parlays - Exact Order Parlays - Top 3,"Cooper Flagg #1, Dylan Harper #2, Ace Bailey #3",-0.01820000000000002,0.1818,0.2
+2025-06-21 05:34:10.299376,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group H,-0.01820000000000002,0.1818,0.2
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Drake Powell,-0.01830000000000001,0.0769,0.0952
 2025-06-21 06:43:04.336570,To Make the Playoffs - Seattle Storm - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.01830000000000001,0.0769,0.0952
 2025-06-21 14:33:42.334587,Scores - 3rd Round Score - Justin Thomas - 3rd Round Score,Over 67.5,-0.01880000000000004,0.5556,0.5744
+2025-06-21 10:37:12.270671,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Gary Woodland,-0.018900000000000028,0.4255,0.4444
 2025-06-21 11:29:51.553987,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - B. Cauley / L. Aberg - 3rd Round 2-Balls,Bud Cauley,-0.018900000000000028,0.4255,0.4444
 2025-06-21 12:56:25.005308,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. McIIroy / H. English - 3rd Round 2-Balls,Harris English,-0.018900000000000028,0.4255,0.4444
-2025-06-21 10:37:12.270671,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Gary Woodland,-0.018900000000000028,0.4255,0.4444
 2025-06-21 05:34:10.299376,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group F,-0.019099999999999992,0.0476,0.0667
 2025-06-21 06:43:03.997665,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.01959999999999995,0.6774,0.697
 2025-06-21 11:29:51.785490,Scores - 3rd Round Score - Tommy Fleetwood - 3rd Round Score,Over 67.5,-0.01970000000000005,0.5455,0.5652
@@ -274,75 +276,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Ryan Kalkbrenner,-0.02020000000000001,0.0909,0.1111
 2025-06-21 06:43:04.220539,To Be Drafted First - Player to be Drafted First - H2H - Kasparas Jakucionis vs Egor Demin,Egor Demin,-0.02030000000000004,0.3571,0.3774
 2025-06-21 12:56:24.505563,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,-0.02049999999999999,0.1333,0.1538
-2025-06-21 11:29:51.767892,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 68.5,-0.020699999999999996,0.4444,0.4651
 2025-06-21 14:33:42.260746,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Over 67.5,-0.020699999999999996,0.4444,0.4651
-2025-06-21 06:43:04.255109,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,-0.02079999999999993,0.5348,0.5556
+2025-06-21 11:29:51.767892,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 68.5,-0.020699999999999996,0.4444,0.4651
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Will Riley,-0.02079999999999993,0.5348,0.5556
+2025-06-21 06:43:04.255109,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,-0.02079999999999993,0.5348,0.5556
 2025-06-21 16:40:01.104800,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Jahi Tucker,-0.021299999999999986,0.7826,0.8039
-2025-06-21 10:37:12.413574,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs H. Hall - 3rd Round Match-Ups,Harry Hall,-0.02169999999999994,0.5238,0.5455
 2025-06-21 10:37:12.298912,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. McNealy / S. Im - 3rd Round 2-Balls,Maverick McNealy,-0.02169999999999994,0.5238,0.5455
 2025-06-21 14:33:42.247648,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Over 67.5,-0.02169999999999994,0.5238,0.5455
+2025-06-21 10:37:12.413574,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs H. Hall - 3rd Round Match-Ups,Harry Hall,-0.02169999999999994,0.5238,0.5455
 2025-06-21 06:43:04.288966,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,-0.02169999999999994,0.5238,0.5455
 2025-06-21 13:37:54.816806,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Cameron Young,-0.021699999999999997,0.4545,0.4762
 2025-06-21 14:33:42.256386,Scores - 3rd Round Score - Davis Thompson - 3rd Round Score,Over 68.5,-0.021699999999999997,0.4545,0.4762
 2025-06-21 15:31:59.100538,Draft Position - Player Draft Position - Kasparas Jakucionis - Draft Position,Under 11.5,-0.022600000000000064,0.6,0.6226
-2025-06-21 11:29:51.566339,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
-2025-06-21 12:56:24.881096,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.022699999999999998,0.4651,0.4878
-2025-06-21 11:29:51.724567,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
 2025-06-21 11:29:51.737465,Scores - 3rd Round Score - Brian Harman - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
+2025-06-21 11:29:51.566339,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Kim / M. Homa - 3rd Round 2-Balls,Max Homa,-0.022699999999999998,0.4651,0.4878
+2025-06-21 11:29:51.724567,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
 2025-06-21 11:29:51.733213,Scores - 3rd Round Score - Harry Hall - 3rd Round Score,Over 68.5,-0.022699999999999998,0.4651,0.4878
+2025-06-21 12:56:24.881096,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.022699999999999998,0.4651,0.4878
 2025-06-21 07:30:13.123930,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Fowler / T. Finau - 3rd Round 2-Balls,Rickie Fowler,-0.022699999999999998,0.4651,0.4878
 2025-06-21 05:34:10.299376,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group E,-0.02310000000000001,0.0769,0.1
-2025-06-21 13:37:54.759142,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Thompson / S. Jaeger - 3rd Round 2-Balls,Stephan Jaeger,-0.023799999999999988,0.4762,0.5
 2025-06-21 13:37:54.697876,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Tom Hoge,-0.023799999999999988,0.4762,0.5
-2025-06-21 12:56:24.996870,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Alex Noren,-0.023799999999999988,0.4762,0.5
-2025-06-21 10:37:12.242055,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Straka / S. Lowry - 3rd Round 2-Balls,Shane Lowry,-0.023799999999999988,0.4762,0.5
+2025-06-21 14:33:42.252041,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
 2025-06-21 10:37:12.282777,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Gerard / A. Rai - 3rd Round 2-Balls,Ryan Gerard,-0.023799999999999988,0.4762,0.5
 2025-06-21 11:29:51.508351,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - J.J. Spaun / A. Scott - 3rd Round 2-Balls,Adam Scott,-0.023799999999999988,0.4762,0.5
 2025-06-21 11:29:51.642432,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Cameron Young,-0.023799999999999988,0.4762,0.5
 2025-06-21 13:37:54.829070,Round Match-Ups - 3rd Round Match-Ups - L. Clanton vs M. McNealy - 3rd Round Match-Ups,Luke Clanton,-0.023799999999999988,0.4762,0.5
-2025-06-21 14:33:42.252041,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Over 67.5,-0.023799999999999988,0.4762,0.5
+2025-06-21 10:37:12.242055,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Straka / S. Lowry - 3rd Round 2-Balls,Shane Lowry,-0.023799999999999988,0.4762,0.5
+2025-06-21 12:56:24.996870,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Alex Noren,-0.023799999999999988,0.4762,0.5
+2025-06-21 13:37:54.759142,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Thompson / S. Jaeger - 3rd Round 2-Balls,Stephan Jaeger,-0.023799999999999988,0.4762,0.5
 2025-06-21 12:56:24.611905,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski,-0.023799999999999988,0.3333,0.3571
+2025-06-21 14:33:42.243271,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 67.5,-0.023800000000000043,0.5,0.5238
+2025-06-21 11:29:51.570478,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. Kim / L. Clanton - 3rd Round 2-Balls,Michael Kim,-0.023800000000000043,0.5,0.5238
+2025-06-21 10:37:12.310951,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Robert MacIntyre,-0.023800000000000043,0.5,0.5238
+2025-06-21 10:37:12.405297,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs R. McIIroy - 3rd Round Match-Ups,Rory McIlroy,-0.023800000000000043,0.5,0.5238
+2025-06-21 06:43:04.246652,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 12½,-0.023800000000000043,0.5,0.5238
+2025-06-21 10:37:12.376642,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Cameron Young,-0.023800000000000043,0.5,0.5238
+2025-06-21 07:30:13.148431,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Tom Hoge,-0.023800000000000043,0.5,0.5238
+2025-06-21 14:33:42.286823,Scores - 3rd Round Score - Alex Noren - 3rd Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
+2025-06-21 11:29:51.603744,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Alex Noren,-0.023800000000000043,0.5,0.5238
 2025-06-21 11:29:51.659001,Round Match-Ups - 3rd Round Match-Ups - M. Homa vs W. Clark - 3rd Round Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
 2025-06-21 11:29:51.663399,Round Match-Ups - 3rd Round Match-Ups - B. Hun An vs D. Thompson - 3rd Round Match-Ups,Byeong Hun An,-0.023800000000000043,0.5,0.5238
-2025-06-21 10:37:12.376642,Round Match-Ups - 3rd Round Match-Ups - A. Rai vs C. Young - 3rd Round Match-Ups,Cameron Young,-0.023800000000000043,0.5,0.5238
-2025-06-21 06:43:04.246652,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 12½,-0.023800000000000043,0.5,0.5238
-2025-06-21 10:37:12.310951,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. MacIntyre / S. Burns - 3rd Round 2-Balls,Robert MacIntyre,-0.023800000000000043,0.5,0.5238
-2025-06-21 14:33:42.286823,Scores - 3rd Round Score - Alex Noren - 3rd Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
-2025-06-21 11:29:51.570478,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - M. Kim / L. Clanton - 3rd Round 2-Balls,Michael Kim,-0.023800000000000043,0.5,0.5238
-2025-06-21 07:30:13.148431,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - T. Hoge / M. Fitzpatrick - 3rd Round 2-Balls,Tom Hoge,-0.023800000000000043,0.5,0.5238
-2025-06-21 11:29:51.603744,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - L. Glover / A. Noren - 3rd Round 2-Balls,Alex Noren,-0.023800000000000043,0.5,0.5238
-2025-06-21 10:37:12.405297,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs R. McIIroy - 3rd Round Match-Ups,Rory McIlroy,-0.023800000000000043,0.5,0.5238
-2025-06-21 14:33:42.243271,Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 67.5,-0.023800000000000043,0.5,0.5238
 2025-06-21 10:37:12.327331,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - A. Hadwin / B. Griffin - 3rd Round 2-Balls,Adam Hadwin,-0.024500000000000022,0.3922,0.4167
 2025-06-21 11:29:51.532999,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - D. Berger / G. Woodland - 3rd Round 2-Balls,Gary Woodland,-0.025499999999999967,0.4,0.4255
-2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 15:32:01.075247,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 13:37:54.618184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 14:33:42.008477,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 05:34:12.816327,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 12:56:24.813143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 11:29:51.412116,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 10:37:12.151111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 09:32:45.947689,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 08:37:00.291608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 07:30:13.044268,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 14:33:42.008477,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 15:32:01.075247,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 05:34:12.816327,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 13:37:54.618184,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 06:43:06.167012,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 10:37:12.151111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 12:56:24.813143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 07:30:13.044268,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 17:31:53.133341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 11:29:51.412116,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 08:37:00.291608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 10:37:12.204246,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,James Gray,-0.025999999999999968,0.2817,0.3077
 2025-06-21 11:29:51.746118,Scores - 3rd Round Score - Russell Henley - 3rd Round Score,Over 67.5,-0.026499999999999968,0.5652,0.5917
-2025-06-21 13:37:54.614204,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 08:37:00.287416,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 06:43:04.340819,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.026600000000000013,0.4082,0.4348
-2025-06-21 12:56:24.808952,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 11:29:51.408018,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 17:31:53.129427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 15:32:01.071200,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 05:34:12.811885,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 06:43:06.162910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 07:30:13.040143,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 10:37:12.147156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 11:29:51.408018,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 15:32:01.071200,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 14:33:42.004460,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 08:37:00.287416,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 09:32:45.943632,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 10:37:12.147156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 13:37:54.614204,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 06:43:04.340819,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.026600000000000013,0.4082,0.4348
+2025-06-21 12:56:24.808952,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 06:43:04.009867,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.02679999999999999,0.2857,0.3125
 2025-06-21 14:33:42.312835,Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score,Over 68.5,-0.027700000000000002,0.4167,0.4444
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Yealimi Noh,-0.0282,0.0244,0.0526
@@ -353,12 +357,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 14:33:42.317147,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Over 68.5,-0.030299999999999994,0.4348,0.4651
 2025-06-21 13:37:54.730717,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - B. Cauley / L. Aberg - 3rd Round 2-Balls,Ludvig Aberg,-0.03090000000000004,0.5917,0.6226
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Jase Richardson,-0.03179999999999994,0.5238,0.5556
-2025-06-21 11:29:51.545653,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Gerard / A. Rai - 3rd Round 2-Balls,Ryan Gerard,-0.031799999999999995,0.4444,0.4762
 2025-06-21 06:43:04.184623,Draft Position - Player Draft Position - Kasparas Jakucionis - Draft Position,Over 11.5,-0.031799999999999995,0.4444,0.4762
+2025-06-21 11:29:51.545653,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - R. Gerard / A. Rai - 3rd Round 2-Balls,Ryan Gerard,-0.031799999999999995,0.4444,0.4762
 2025-06-21 06:43:04.323817,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.03279999999999994,0.9524,0.9852
-2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Tre Johnson,-0.033299999999999996,0.8,0.8333
 2025-06-21 14:33:39.750612,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.033299999999999996,0.1,0.1333
 2025-06-21 06:43:04.242381,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Under 26½,-0.033299999999999996,0.5122,0.5455
+2025-06-21 15:31:59.117925,Draft Position - Top 5 - To be Drafted in the Top 5,Tre Johnson,-0.033299999999999996,0.8,0.8333
 2025-06-21 05:34:13.070083,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Angel Yin,-0.0336,0.0099,0.0435
 2025-06-21 06:43:04.306814,To Make the Playoffs - Connecticut Sun - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.03439999999999999,0.0323,0.0667
 2025-06-21 07:30:13.331153,Scores - 3rd Round Score - Sam Burns - 3rd Round Score,Over 67.5,-0.03479999999999994,0.5652,0.6
@@ -380,8 +384,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Nolan Traoré,-0.044399999999999995,0.5556,0.6
 2025-06-21 06:43:06.233705,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.045499999999999985,0.5,0.5455
 2025-06-21 11:29:51.702452,Scores - 3rd Round Score - Robert MacIntyre - 3rd Round Score,Over 67.5,-0.04620000000000002,0.5455,0.5917
-2025-06-21 11:29:51.772252,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Over 68.5,-0.047099999999999975,0.4651,0.5122
 2025-06-21 11:29:51.715773,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Over 67.5,-0.047099999999999975,0.4651,0.5122
+2025-06-21 11:29:51.772252,Scores - 3rd Round Score - Nick Taylor - 3rd Round Score,Over 68.5,-0.047099999999999975,0.4651,0.5122
 2025-06-21 11:29:51.776652,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score,Over 68.5,-0.047099999999999975,0.4651,0.5122
 2025-06-21 14:33:42.339055,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 66.5,-0.047099999999999975,0.4651,0.5122
 2025-06-21 14:33:39.750612,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Theo James,-0.04999999999999999,0.2,0.25
@@ -392,8 +396,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 10:37:12.229904,Travelers Championship - 2/3 Balls - 3rd Round 2-Balls - S. Stevens / N. Dunlap - 3rd Round 2-Balls,Nick Dunlap,-0.06580000000000003,0.3509,0.4167
 2025-06-21 06:43:05.888892,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.06590000000000007,0.7674,0.8333
 2025-06-21 07:30:13.378589,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 67.5,-0.06779999999999997,0.4878,0.5556
-2025-06-21 14:33:42.308455,Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Over 67.5,-0.06789999999999996,0.5238,0.5917
 2025-06-21 11:29:51.759125,Scores - 3rd Round Score - Eric Cole - 3rd Round Score,Over 68.5,-0.06789999999999996,0.5238,0.5917
+2025-06-21 14:33:42.308455,Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Over 67.5,-0.06789999999999996,0.5238,0.5917
 2025-06-21 11:29:51.781131,Scores - 3rd Round Score - Jason Day - 3rd Round Score,Over 68.5,-0.06929999999999997,0.4762,0.5455
 2025-06-21 11:29:51.728930,Scores - 3rd Round Score - Byeong Hun An - 3rd Round Score,Over 68.5,-0.06930000000000003,0.4545,0.5238
 2025-06-21 12:56:22.661539,LNB Pro A - France LNB Pro A 2024/25 - Winner,Paris,-0.08940000000000003,0.8197,0.9091

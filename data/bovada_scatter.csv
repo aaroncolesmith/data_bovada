@@ -1,9 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Miguel Angel Jimenez,0.208,0.3509,0.1429
+2025-06-22 04:44:43.527125,Club World Cup - Group E - Not To Qualify From Group,River Plate,0.10769999999999996,0.3077,0.2
+2025-06-22 04:44:43.523660,Club World Cup - Group E - Winner,Inter Milan,0.10710000000000003,0.5833,0.4762
+2025-06-22 04:44:43.529994,Club World Cup - Group E - To Qualify From Group,CF Monterrey,0.09999999999999998,0.5,0.4
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Steven Alker,0.09689999999999999,0.3636,0.2667
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Liam McNeeley,0.08779999999999999,0.4878,0.4
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Walter Clayton Jr,0.07930000000000001,0.2222,0.1429
-2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Adou Thiero,0.06779999999999997,0.5122,0.4444
 2025-06-21 22:34:27.250860,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Mariya Agapova,0.061999999999999944,0.6364,0.5744
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Richard Green,0.05650000000000001,0.1,0.0435
 2025-06-21 22:34:27.242813,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Andrei Arlovski,0.05279999999999996,0.7403,0.6875
@@ -11,61 +11,64 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Michael Wright,0.0474,0.0909,0.0435
 2025-06-21 23:30:27.342994,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,Roderick Stewart,0.04390000000000005,0.8,0.7561
 2025-06-21 20:32:22.964721,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.043899999999999995,0.2439,0.2
-2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Chaz Lanier,0.04099999999999998,0.3077,0.2667
 2025-06-21 22:34:26.980144,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.037800000000000056,0.5833,0.5455
 2025-06-21 23:30:27.371701,BKFC 76: Bonner vs Soto - Anthony Garrett vs Haze Wilson - To Win the Bout,Anthony Garrett,0.03489999999999999,0.5,0.4651
 2025-06-21 20:32:24.814752,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Ruben Warr,0.033299999999999996,0.4878,0.4545
 2025-06-21 23:30:27.239552,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Jahi Tucker,0.03169999999999995,0.8095,0.7778
 2025-06-21 22:34:27.238778,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,James Gray,0.029899999999999982,0.3077,0.2778
+2025-06-22 04:44:43.472913,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Europe,0.028200000000000003,0.9615,0.9333
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Jase Richardson,0.02779999999999999,0.25,0.2222
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Will Riley,0.02779999999999999,0.25,0.2222
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Nolan Traore,0.02779999999999999,0.25,0.2222
-2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 22:34:27.185507,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 21:29:22.623415,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 20:32:24.749937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 19:27:21.761898,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 21:29:22.623415,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 17:31:53.133341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-21 23:30:27.317563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-21 18:39:37.620975,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 20:32:24.749937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-21 23:30:27.317563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 21:29:22.619246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 17:31:53.129427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 18:39:37.616823,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 19:27:21.757950,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 20:32:24.745446,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 21:29:22.619246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 22:34:27.181506,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 23:30:27.313439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 20:32:24.745446,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 22:34:27.181506,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-21 19:27:21.757950,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 04:44:45.995231,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-21 20:32:24.642932,College World Series Winner - College World Series - College World Series 2025 Winner,Coastal Carolina,0.025499999999999967,0.4255,0.4
 2025-06-21 21:29:22.682655,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Ruben Warr,0.024399999999999977,0.5122,0.4878
 2025-06-21 18:39:37.526633,Boxing Lines - Youssef Khoumari vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.02360000000000001,0.4082,0.3846
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Freddie Jacobson,0.02310000000000001,0.1,0.0769
+2025-06-22 04:44:43.461993,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.02310000000000001,0.1,0.0769
 2025-06-21 20:32:24.819292,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,0.022699999999999998,0.4878,0.4651
-2025-06-21 22:34:27.246800,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Ruben Warr,0.022600000000000064,0.5348,0.5122
 2025-06-21 22:34:27.226558,BKFC 76: Bonner vs Soto - Cameron DeLaVega vs Jesse Desrosier - To Win the Bout,Cameron DeLaVega,0.022600000000000064,0.5348,0.5122
+2025-06-21 22:34:27.246800,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Ruben Warr,0.022600000000000064,0.5348,0.5122
 2025-06-21 23:30:27.388694,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Josh Copeland,0.022199999999999998,0.3448,0.3226
 2025-06-21 18:39:37.534832,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Peter McGrail,0.022199999999999998,0.8889,0.8667
 2025-06-21 22:34:27.255066,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Darren Whitney,0.021999999999999964,0.3077,0.2857
 2025-06-21 21:29:22.657587,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Ben Bonner,0.021999999999999964,0.3077,0.2857
-2025-06-21 16:39:59.270072,Draft Position - To be Drafted in the 1st Round - 1st Round Pick,Hansen Yang,0.020699999999999996,0.4651,0.4444
 2025-06-21 21:29:22.678455,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Josh Copeland,0.02030000000000004,0.3774,0.3571
 2025-06-21 22:34:27.210453,BKFC 76: Bonner vs Soto - Alex Davis vs James McKenzie Morrison - To Win the Bout,James McKenzie Morrison,0.020199999999999996,0.9091,0.8889
-2025-06-21 16:40:01.104800,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Lorenzo Simpson,0.018500000000000016,0.2817,0.2632
+2025-06-22 04:44:43.529994,Club World Cup - Group E - To Qualify From Group,Inter Milan,0.017900000000000027,0.875,0.8571
 2025-06-21 18:39:35.556260,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.017300000000000093,0.7143,0.697
 2025-06-21 23:30:27.351201,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Israel Rodriguez,0.017299999999999982,0.303,0.2857
 2025-06-21 18:39:35.476741,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,0.01629999999999998,0.7222,0.7059
 2025-06-21 20:32:24.823872,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Darren Whitney,0.015000000000000013,0.2817,0.2667
 2025-06-21 22:34:27.218458,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Ben Bonner,0.014900000000000024,0.3226,0.3077
+2025-06-22 04:44:43.466082,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Lautaro Martinez (Inter Milan),0.014499999999999999,0.0294,0.0149
 2025-06-22 04:01:57.407413,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.014000000000000012,0.9231,0.9091
 2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,Seattle Storm,0.0126,0.0526,0.04
+2025-06-22 04:44:46.008116,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.012199999999999989,0.5122,0.5
 2025-06-21 23:30:27.347116,BKFC 76: Bonner vs Soto - Terryl Johnson vs Kevin Sims - To Win the Bout,Terryl Johnson,0.011099999999999999,0.4762,0.4651
-2025-06-21 20:32:22.666152,Draft Picks - NBA Draft - Picks #20 - #29 - 28th Overall Pick,Rasheer Fleming,0.010899999999999993,0.1538,0.1429
-2025-06-21 22:34:26.975336,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.010899999999999993,0.1538,0.1429
 2025-06-21 22:34:26.975336,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.010899999999999993,0.1538,0.1429
+2025-06-21 22:34:26.975336,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.010899999999999993,0.1538,0.1429
+2025-06-21 20:32:22.666152,Draft Picks - NBA Draft - Picks #20 - #29 - 28th Overall Pick,Rasheer Fleming,0.010899999999999993,0.1538,0.1429
+2025-06-22 04:44:43.472913,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,South America,0.010899999999999993,0.1538,0.1429
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Steve Flesch,0.0108,0.0152,0.0044
 2025-06-21 23:30:27.376168,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Ruben Warr,0.010699999999999932,0.5455,0.5348
 2025-06-21 22:34:27.214428,BKFC 76: Bonner vs Soto - Anthony Garrett vs Haze Wilson - To Win the Bout,Anthony Garrett,0.010599999999999998,0.4651,0.4545
@@ -73,76 +76,73 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-21 21:29:22.653438,BKFC 76: Bonner vs Soto - Anthony Garrett vs Haze Wilson - To Win the Bout,Anthony Garrett,0.010099999999999998,0.4545,0.4444
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Bogoljub Markovic,-0.010099999999999998,0.0952,0.1053
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Cedric Howard,-0.010099999999999998,0.0952,0.1053
-2025-06-21 23:30:27.251828,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,-0.0102,0.0667,0.0769
 2025-06-21 18:39:35.556260,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Tyrese Haliburton (IND),-0.0102,0.0667,0.0769
+2025-06-21 23:30:27.251828,Boxing Lines - Vito Mielnicki Jr vs Kamil Gardzielik - To Win the Bout,Kamil Gardzielik,-0.0102,0.0667,0.0769
 2025-06-21 23:30:27.376168,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Juan Carlos Deleon,-0.01100000000000001,0.5238,0.5348
 2025-06-22 04:01:59.444510,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,-0.012199999999999989,0.5,0.5122
 2025-06-21 23:30:27.351201,BKFC 76: Bonner vs Soto - Israel Rodriguez vs Jeremy Sauceda - To Win the Bout,Jeremy Sauceda,-0.0131,0.7647,0.7778
 2025-06-21 21:29:22.653438,BKFC 76: Bonner vs Soto - Anthony Garrett vs Haze Wilson - To Win the Bout,Haze Wilson,-0.014800000000000035,0.6078,0.6226
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Hugo González,-0.015100000000000002,0.1667,0.1818
 2025-06-21 18:39:35.476741,NBA Championship - NBA Championship 2024-25 - NBA Champion,Indiana Pacers,-0.01579999999999998,0.3175,0.3333
 2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.01580000000000001,0.0556,0.0714
 2025-06-21 22:34:27.218458,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Tony Soto,-0.015800000000000036,0.7403,0.7561
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Maxime Raynaud,-0.015899999999999997,0.0952,0.1111
 2025-06-21 22:34:26.975336,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.01739999999999997,0.75,0.7674
 2025-06-21 20:32:24.823872,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Rodney Hinton,-0.017400000000000082,0.7826,0.8
 2025-06-21 23:30:27.388694,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Andrei Arlovski,-0.018100000000000005,0.7222,0.7403
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Drake Powell,-0.01820000000000002,0.1818,0.2
 2025-06-21 19:27:19.863016,Draft Picks - NBA Draft - Picks #20 - #29 - 26th Overall Pick,Ben Saraf,-0.01820000000000002,0.1818,0.2
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Drake Powell,-0.01830000000000001,0.0769,0.0952
 2025-06-21 21:29:22.678455,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Andrei Arlovski,-0.018399999999999972,0.6875,0.7059
 2025-06-21 21:29:22.682655,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Juan Carlos Deleon,-0.01880000000000004,0.5556,0.5744
+2025-06-22 04:44:43.469610,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Jamal Musiala,-0.019099999999999992,0.0476,0.0667
+2025-06-22 04:44:43.472913,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Rest of the World,-0.019099999999999995,0.0244,0.0435
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Mark Hensby,-0.020000000000000004,0.0123,0.0323
 2025-06-21 22:34:27.210453,BKFC 76: Bonner vs Soto - Alex Davis vs James McKenzie Morrison - To Win the Bout,Alex Davis,-0.020100000000000007,0.1538,0.1739
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Ryan Kalkbrenner,-0.02020000000000001,0.0909,0.1111
+2025-06-22 04:44:43.523660,Club World Cup - Group E - Winner,CF Monterrey,-0.02020000000000001,0.0909,0.1111
+2025-06-22 04:44:43.461993,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Miguel Merentiel (Boca Juniors),-0.0203,0.0385,0.0588
 2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.020699999999999996,0.4444,0.4651
 2025-06-21 22:34:27.246800,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Juan Carlos Deleon,-0.02079999999999993,0.5348,0.5556
 2025-06-21 22:34:27.226558,BKFC 76: Bonner vs Soto - Cameron DeLaVega vs Jesse Desrosier - To Win the Bout,Jesse Desrosier,-0.02079999999999993,0.5348,0.5556
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Will Riley,-0.02079999999999993,0.5348,0.5556
-2025-06-21 16:40:01.104800,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Jahi Tucker,-0.021299999999999986,0.7826,0.8039
-2025-06-21 22:34:27.255066,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Rodney Hinton,-0.021700000000000053,0.7561,0.7778
 2025-06-21 21:29:22.657587,BKFC 76: Bonner vs Soto - Ben Bonner vs Tony Soto - To Win the Bout,Tony Soto,-0.021700000000000053,0.7561,0.7778
+2025-06-21 22:34:27.255066,BKFC 76: Bonner vs Soto - Rodney Hinton vs Darren Whitney - To Win the Bout,Rodney Hinton,-0.021700000000000053,0.7561,0.7778
 2025-06-21 18:39:37.526633,Boxing Lines - Youssef Khoumari vs Louie Odoherty - To Win the Bout,Youssef Khoumari,-0.022199999999999998,0.6552,0.6774
 2025-06-21 23:30:25.306075,Draft Picks - NBA Draft - Picks #10 - #19 - 12th Overall Pick,Derik Queen,-0.023799999999999988,0.3333,0.3571
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Stewart Cink,-0.0242,0.0667,0.0909
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Tim Petrovic,-0.024299999999999995,0.0526,0.0769
 2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 16:40:01.173703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 23:30:27.317563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 22:34:27.185507,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 20:32:24.749937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 19:27:21.761898,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 17:31:53.133341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-21 18:39:37.620975,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 20:32:24.819292,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Mariya Agapova,-0.025599999999999956,0.5744,0.6
+2025-06-21 22:34:27.185507,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 18:39:37.620975,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 19:27:21.761898,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 20:32:24.749937,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 21:29:22.623415,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 17:31:53.133341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-21 23:30:27.317563,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Cameron Percy,-0.025799999999999997,0.002,0.0278
 2025-06-21 23:30:27.239552,Boxing Lines - Jahi Tucker vs Lorenzo Simpson - To Win the Bout,Lorenzo Simpson,-0.026000000000000023,0.2597,0.2857
 2025-06-21 18:39:37.534832,Boxing Lines - Peter McGrail vs Ionut Baluta - To Win the Bout,Ionut Baluta,-0.026100000000000012,0.1739,0.2
 2025-06-21 18:39:37.616823,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 21:29:22.619246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 17:31:53.129427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 23:30:27.313439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 16:40:01.169677,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 22:34:27.181506,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 19:27:21.757950,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 21:29:22.619246,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 17:31:53.129427,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 22:34:27.181506,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-21 23:30:27.313439,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 20:32:24.745446,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Jase Richardson,-0.03179999999999994,0.5238,0.5556
+2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 04:44:45.995231,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-21 20:32:24.642932,College World Series Winner - College World Series - College World Series 2025 Winner,LSU Tigers,-0.03259999999999996,0.6226,0.6552
 2025-06-21 22:34:27.238778,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,Roderick Stewart,-0.033399999999999985,0.7561,0.7895
 2025-06-21 20:32:24.814752,BKFC 76: Bonner vs Soto - Juan Carlos Deleon vs Ruben Warr - To Win the Bout,Juan Carlos Deleon,-0.033399999999999985,0.5744,0.6078
 2025-06-21 23:30:27.371701,BKFC 76: Bonner vs Soto - Anthony Garrett vs Haze Wilson - To Win the Bout,Haze Wilson,-0.03479999999999994,0.5652,0.6
 2025-06-21 22:34:26.980144,NL East - NL East 2025 - NL East Winner,New York Mets,-0.035999999999999976,0.4762,0.5122
 2025-06-21 23:30:27.342994,BKFC 76: Bonner vs Soto - James Gray vs Roderick Stewart - To Win the Bout,James Gray,-0.04099999999999998,0.2667,0.3077
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Nolan Traoré,-0.044399999999999995,0.5556,0.6
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Danny Wolf,-0.044399999999999995,0.4,0.4444
 2025-06-22 04:01:57.505505,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Jeremiah Fears,-0.044499999999999984,0.2222,0.2667
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,K J Choi,-0.0451,0.0025,0.0476
 2025-06-21 22:34:27.242813,BKFC 76: Bonner vs Soto - Josh Copeland vs Andrei Arlovski - To Win the Bout,Josh Copeland,-0.054800000000000015,0.3226,0.3774
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Retief Goosen,-0.0555,0.0033,0.0588
 2025-06-21 22:34:27.250860,BKFC 76: Bonner vs Soto - Mariya Agapova vs Jessica Eye - To Win the Bout,Jessica Eye,-0.06230000000000002,0.4255,0.4878
+2025-06-22 04:44:43.523660,Club World Cup - Group E - Winner,River Plate,-0.06779999999999997,0.4444,0.5122
 2025-06-21 22:34:27.264502,Kaulig Companies Championship - Kaulig Companies Championship - Winner,Ricardo Gonzalez,-0.0901,0.0099,0.1
-2025-06-21 16:39:59.265684,Draft Position - Top 20 - To be Drafted in the Top 20,Nique Clifford,-0.11219999999999997,0.4878,0.6
+2025-06-22 04:44:43.527125,Club World Cup - Group E - Not To Qualify From Group,CF Monterrey,-0.11109999999999998,0.5556,0.6667
+2025-06-22 04:44:43.529994,Club World Cup - Group E - To Qualify From Group,River Plate,-0.14170000000000005,0.7333,0.875

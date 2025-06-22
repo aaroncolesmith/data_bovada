@@ -20,92 +20,135 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-22 04:01:57.505505,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Egor Demin,0.0524,0.1,0.0476
 2025-06-22 05:35:04.646030,Club World Cup - Group F - Winner,Fluminense RJ,0.05020000000000002,0.4348,0.3846
 2025-06-22 09:31:53.282923,EuroBasket Women - EuroBasket Women 2025 - Outright,Belgium (W),0.0494,0.3571,0.3077
+2025-06-22 13:37:49.549451,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Under 68.5,0.04820000000000002,0.6226,0.5744
+2025-06-22 13:37:49.377644,Scores - Final Round Scores - Akshay Bhatia - Final Round Scores,Under 68.5,0.043399999999999994,0.5556,0.5122
 2025-06-22 06:43:45.638101,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 15½,0.043399999999999994,0.5556,0.5122
 2025-06-22 06:43:47.331436,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.04240000000000001,0.1333,0.0909
 2025-06-22 09:31:52.923565,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,Harvey Elliott (England U21),0.038099999999999995,0.0625,0.0244
 2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Chase Burns,0.037700000000000004,0.0476,0.0099
 2025-06-22 06:43:47.359650,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski,0.03710000000000002,0.3704,0.3333
 2025-06-22 06:43:45.616811,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 8½,0.03600000000000003,0.5238,0.4878
+2025-06-22 13:37:49.513216,Scores - Final Round Scores - Min Woo Lee - Final Round Scores,Under 68.5,0.03600000000000003,0.5238,0.4878
 2025-06-22 06:43:45.646517,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 34½,0.035999999999999976,0.5122,0.4762
+2025-06-22 13:37:49.499723,Scores - Final Round Scores - Patrick Cantlay - Final Round Scores,Under 67.5,0.03489999999999999,0.5,0.4651
+2025-06-22 13:37:49.407934,Scores - Final Round Scores - Ludvig Aberg - Final Round Scores,Under 67.5,0.03489999999999999,0.5,0.4651
+2025-06-22 13:37:49.464267,Scores - Final Round Scores - Max Greyserman - Final Round Scores,Under 68.5,0.03480000000000005,0.5348,0.5
+2025-06-22 13:37:49.508730,Scores - Final Round Scores - Lucas Glover - Final Round Scores,Under 68.5,0.03480000000000005,0.5348,0.5
+2025-06-22 13:37:49.399276,Scores - Final Round Scores - Ben Griffin - Final Round Scores,Under 68.5,0.03479999999999994,0.6,0.5652
+2025-06-22 13:37:49.446836,Scores - Final Round Scores - Shane Lowry - Final Round Scores,Under 68.5,0.03479999999999994,0.6,0.5652
+2025-06-22 13:37:49.473074,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Under 66.5,0.03479999999999994,0.6,0.5652
 2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Borussia Dortmund,0.033300000000000024,0.2,0.1667
+2025-06-22 13:37:49.490728,Scores - Final Round Scores - Denny McCarthy - Final Round Scores,Under 68.5,0.033299999999999996,0.5455,0.5122
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Inter Milan,0.033299999999999996,0.4878,0.4545
+2025-06-22 13:37:49.544954,Scores - Final Round Scores - Thomas Detry - Final Round Scores,Under 68.5,0.031799999999999995,0.4762,0.4444
+2025-06-22 13:37:49.495224,Scores - Final Round Scores - Nick Taylor - Final Round Scores,Under 68.5,0.03179999999999994,0.5556,0.5238
+2025-06-22 13:37:49.481856,Scores - Final Round Scores - Taylor Pendrith - Final Round Scores,Under 68.5,0.03179999999999994,0.5556,0.5238
 2025-06-22 07:31:24.703555,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Under 66.5,0.030399999999999983,0.5652,0.5348
 2025-06-22 06:43:45.689804,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.029299999999999993,0.2703,0.241
-2025-06-22 07:31:24.759897,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Under 68.5,0.028900000000000037,0.5744,0.5455
 2025-06-22 07:31:24.751366,Scores - Final Round Scores - Keegan Bradley - Final Round Scores,Under 68.5,0.028900000000000037,0.5744,0.5455
+2025-06-22 07:31:24.759897,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Under 68.5,0.028900000000000037,0.5744,0.5455
+2025-06-22 13:37:49.007947,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),0.028399999999999995,0.0909,0.0625
 2025-06-22 04:44:43.472913,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Europe,0.028200000000000003,0.9615,0.9333
 2025-06-22 06:43:47.348695,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),0.027999999999999997,0.1333,0.1053
 2025-06-22 08:37:34.944489,Travelers Championship - 2/3 Balls - Final Round 2-Balls - S. Scheffler / T. Pendrith - Final Round 2-Balls,Scottie Scheffler,0.027800000000000047,0.75,0.7222
-2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,0.02779999999999999,0.25,0.2222
 2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Inter Milan,0.02779999999999999,0.25,0.2222
+2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,0.02779999999999999,0.25,0.2222
 2025-06-22 06:43:47.348695,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.02729999999999999,0.8,0.7727
-2025-06-22 06:43:47.483245,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 10:36:18.214514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 09:31:55.344910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 13:37:49.137648,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 08:37:34.801092,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 05:35:07.126635,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 09:31:55.344910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 10:36:18.214514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 11:27:59.136679,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 12:56:18.878371,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 07:31:24.569187,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 12:56:18.878371,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-22 06:43:47.483245,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 06:43:47.479111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 12:56:18.874151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 05:35:07.122429,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 07:31:24.564938,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-22 08:37:34.797007,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 13:37:49.459886,Scores - Final Round Scores - Hideki Matsuyama - Final Round Scores,Under 68.5,0.025599999999999956,0.6,0.5744
 2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-22 04:44:45.995231,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 05:35:07.122429,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 13:37:49.133483,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 06:43:47.479111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 07:31:24.564938,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 08:37:34.797007,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-22 09:31:55.340876,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-22 10:36:18.210475,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-22 13:37:49.394931,Scores - Final Round Scores - Robert MacIntyre - Final Round Scores,Under 68.5,0.025599999999999956,0.6,0.5744
+2025-06-22 12:56:18.874151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-22 11:27:59.132665,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-22 09:31:53.059541,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,0.024999999999999994,0.125,0.1
+2025-06-22 13:37:49.386299,Scores - Final Round Scores - Ryan Fox - Final Round Scores,Under 68.5,0.024399999999999977,0.5122,0.4878
 2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Borussia Dortmund,0.0242,0.0909,0.0667
+2025-06-22 13:37:49.531452,Scores - Final Round Scores - Wyndham Clark - Final Round Scores,Under 68.5,0.023800000000000043,0.5238,0.5
+2025-06-22 13:37:49.420880,Scores - Final Round Scores - Andrew Novak - Final Round Scores,Under 68.5,0.023800000000000043,0.5238,0.5
+2025-06-22 13:37:49.455600,Scores - Final Round Scores - Alex Noren - Final Round Scores,Under 68.5,0.023800000000000043,0.5238,0.5
 2025-06-22 05:35:07.373509,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Over 68.5,0.023800000000000043,0.5238,0.5
+2025-06-22 13:37:49.412231,Scores - Final Round Scores - Xander Schauffele - Final Round Scores,Under 67.5,0.023799999999999988,0.5,0.4762
 2025-06-22 07:31:24.364174,NL East - NL East 2025 - NL East Winner,New York Mets,0.023799999999999988,0.5,0.4762
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Flamengo RJ,0.023799999999999988,0.5,0.4762
 2025-06-22 04:44:43.461993,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.02310000000000001,0.1,0.0769
+2025-06-22 13:37:49.438199,Scores - Final Round Scores - Sam Burns - Final Round Scores,Under 68.5,0.022600000000000064,0.6226,0.6
+2025-06-22 13:37:49.477470,Scores - Final Round Scores - Sepp Straka - Final Round Scores,Under 68.5,0.022600000000000064,0.6226,0.6
 2025-06-22 11:27:59.305385,Scores - Final Round Scores - Thomas Detry - Final Round Scores,Over 68.5,0.022600000000000064,0.6226,0.6
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Borussia Dortmund,0.02260000000000001,0.4,0.3774
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Manchester City,0.02200000000000002,0.7143,0.6923
-2025-06-22 11:27:59.300337,Travelers Championship - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / R. Henley - Final Round 2-Balls,Russell Henley,0.02169999999999994,0.5455,0.5238
 2025-06-22 12:56:19.014453,Round Match-Ups - Final Round Match-Ups - S. Burns vs A. Rai - Final Round Match-Ups,Sam Burns,0.02169999999999994,0.5455,0.5238
+2025-06-22 13:37:49.425298,Scores - Final Round Scores - J.J. Spaun - Final Round Scores,Under 68.5,0.02169999999999994,0.5455,0.5238
+2025-06-22 11:27:59.300337,Travelers Championship - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / R. Henley - Final Round 2-Balls,Russell Henley,0.02169999999999994,0.5455,0.5238
+2025-06-22 13:37:49.381978,Scores - Final Round Scores - Collin Morikawa - Final Round Scores,Under 67.5,0.02079999999999993,0.5556,0.5348
+2025-06-22 13:37:49.403601,Scores - Final Round Scores - Cameron Young - Final Round Scores,Under 68.5,0.02079999999999993,0.5556,0.5348
+2025-06-22 13:37:49.390643,Scores - Final Round Scores - Daniel Berger - Final Round Scores,Under 68.5,0.02079999999999993,0.5556,0.5348
 2025-06-22 08:37:34.860075,Travelers Championship - 2/3 Balls - Final Round 2-Balls - J. Bridgeman / J.T. Poston - Final Round 2-Balls,Jacob Bridgeman,0.020699999999999996,0.4651,0.4444
 2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Edwin Diaz (NYM),0.020299999999999985,0.2703,0.25
+2025-06-22 13:37:49.522200,Scores - Final Round Scores - Brian Harman - Final Round Scores,Under 68.5,0.01970000000000005,0.5652,0.5455
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,River Plate,0.018900000000000028,0.4444,0.4255
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Chelsea,0.018900000000000028,0.4444,0.4255
+2025-06-22 13:37:49.416523,Scores - Final Round Scores - Adam Scott - Final Round Scores,Under 68.5,0.01880000000000004,0.5744,0.5556
+2025-06-22 13:37:49.504228,Scores - Final Round Scores - Harris English - Final Round Scores,Under 68.5,0.01880000000000004,0.5744,0.5556
+2025-06-22 13:37:49.526846,Scores - Final Round Scores - Jason Day - Final Round Scores,Under 68.5,0.01880000000000004,0.5744,0.5556
+2025-06-22 13:37:49.517681,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Under 67.5,0.01880000000000004,0.5744,0.5556
+2025-06-22 13:37:49.468645,Scores - Final Round Scores - Sungjae Im - Final Round Scores,Under 68.5,0.01880000000000004,0.5744,0.5556
 2025-06-22 11:27:59.309745,Scores - Final Round Scores - Min Woo Lee - Final Round Scores,Over 68.5,0.01880000000000004,0.5744,0.5556
 2025-06-22 05:35:04.652549,Club World Cup - Group F - To Qualify From Group,Fluminense RJ,0.018199999999999994,0.8182,0.8
 2025-06-22 12:56:19.031440,Round Match-Ups - Final Round Match-Ups - S. Straka vs H. Matsuyama - Final Round Match-Ups,Sepp Straka,0.018100000000000005,0.5833,0.5652
 2025-06-22 04:44:43.529994,Club World Cup - Group E - To Qualify From Group,Inter Milan,0.017900000000000027,0.875,0.8571
 2025-06-22 06:43:45.642342,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.017299999999999982,0.5917,0.5744
+2025-06-22 13:37:49.535989,Scores - Final Round Scores - Keegan Bradley - Final Round Scores,Under 68.5,0.017299999999999982,0.5917,0.5744
 2025-06-22 06:43:45.677146,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,0.017299999999999982,0.5917,0.5744
 2025-06-22 06:43:45.333090,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.017299999999999982,0.4255,0.4082
 2025-06-22 06:43:45.333090,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.016000000000000014,0.4082,0.3922
 2025-06-22 09:31:52.926815,U21 European Championship - European U21 Championship 2025 - To Reach the Final,France U21,0.015400000000000025,0.4,0.3846
 2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Juventus,0.015100000000000002,0.1818,0.1667
 2025-06-22 06:43:47.348695,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),0.014899999999999997,0.0625,0.0476
-2025-06-22 07:31:24.755624,Scores - Final Round Scores - Russell Henley - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
 2025-06-22 07:31:24.699231,Scores - Final Round Scores - Viktor Hovland - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
-2025-06-22 11:27:59.166314,Travelers Championship - 2/3 Balls - Final Round 2-Balls - D. Riley / N. Dunlap - Final Round 2-Balls,Davis Riley,0.014800000000000035,0.6226,0.6078
-2025-06-22 07:31:24.694812,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
 2025-06-22 07:31:24.681918,Scores - Final Round Scores - Justin Thomas - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
+2025-06-22 07:31:24.694812,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
+2025-06-22 11:27:59.166314,Travelers Championship - 2/3 Balls - Final Round 2-Balls - D. Riley / N. Dunlap - Final Round 2-Balls,Davis Riley,0.014800000000000035,0.6226,0.6078
+2025-06-22 07:31:24.755624,Scores - Final Round Scores - Russell Henley - Final Round Scores,Under 68.5,0.014800000000000035,0.6226,0.6078
 2025-06-22 04:44:43.466082,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Lautaro Martinez (Inter Milan),0.014499999999999999,0.0294,0.0149
+2025-06-22 13:37:49.002632,ROY - AL ROY 2025 - American League Rookie of the Year,Jac Caglianone (KC),0.014399999999999996,0.0769,0.0625
 2025-06-22 09:31:52.908358,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Mexico,0.01419999999999999,0.3846,0.3704
 2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Kyle Finnegan (WAS),0.014100000000000001,0.0526,0.0385
+2025-06-22 13:37:49.007947,ROY - NL ROY 2025 - National League Rookie of the Year,Logan Henderson,0.014099999999999998,0.0385,0.0244
 2025-06-22 04:01:57.407413,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.014000000000000012,0.9231,0.9091
-2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Juventus,0.013999999999999999,0.0909,0.0769
 2025-06-22 09:31:52.908358,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,Saudi Arabia,0.013999999999999999,0.0909,0.0769
+2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Juventus,0.013999999999999999,0.0909,0.0769
 2025-06-22 06:43:45.685555,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,No,0.013899999999999996,0.125,0.1111
 2025-06-22 06:43:47.337390,MVP - NL MVP 2025 - National League MVP,Pete Crow-Armstrong (CHC),0.013899999999999996,0.125,0.1111
+2025-06-22 13:37:49.451222,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Under 68.5,0.013799999999999923,0.6364,0.6226
+2025-06-22 13:37:49.540505,Scores - Final Round Scores - Russell Henley - Final Round Scores,Under 68.5,0.013799999999999923,0.6364,0.6226
+2025-06-22 13:37:49.486244,Scores - Final Round Scores - Viktor Hovland - Final Round Scores,Under 68.5,0.013799999999999923,0.6364,0.6226
+2025-06-22 13:37:49.442496,Scores - Final Round Scores - Justin Thomas - Final Round Scores,Under 68.5,0.013799999999999923,0.6364,0.6226
 2025-06-22 05:35:05.430199,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,0.0131,0.2353,0.2222
-2025-06-22 09:31:53.054760,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.012899999999999995,0.1667,0.1538
 2025-06-22 06:43:45.329861,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,0.012899999999999995,0.1379,0.125
+2025-06-22 09:31:53.054760,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.012899999999999995,0.1667,0.1538
 2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,Seattle Storm,0.0126,0.0526,0.04
-2025-06-22 04:44:46.008116,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.012199999999999989,0.5122,0.5
 2025-06-22 08:37:34.940303,Travelers Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / A. Rai - Final Round 2-Balls,Aaron Rai,0.012199999999999989,0.5,0.4878
+2025-06-22 04:44:46.008116,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.012199999999999989,0.5122,0.5
 2025-06-22 06:43:45.659301,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 17½,0.011600000000000055,0.5238,0.5122
 2025-06-22 08:37:34.855976,Travelers Championship - 2/3 Balls - Final Round 2-Balls - S. Im / H. Matsuyama - Final Round 2-Balls,Sungjae Im,0.011600000000000055,0.5238,0.5122
 2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,River Plate,0.011199999999999995,0.0588,0.0476
@@ -119,34 +162,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-22 05:35:05.430199,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.010499999999999982,0.2105,0.2
 2025-06-22 08:37:32.407941,U21 European Championship - European U21 Championship 2025 - Winner,Denmark U21,0.0102,0.0769,0.0667
 2025-06-22 07:31:24.747017,Scores - Final Round Scores - Jason Day - Final Round Scores,Under 68.5,0.010099999999999998,0.5556,0.5455
+2025-06-22 07:31:24.725321,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Under 67.5,0.010099999999999998,0.5556,0.5455
 2025-06-22 07:31:24.673309,Scores - Final Round Scores - Adam Scott - Final Round Scores,Under 68.5,0.010099999999999998,0.5556,0.5455
 2025-06-22 06:43:45.625397,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 17½,0.010099999999999998,0.5556,0.5455
-2025-06-22 07:31:24.712173,Scores - Final Round Scores - Denny McCarthy - Final Round Scores,Over 68.5,0.010099999999999998,0.5556,0.5455
-2025-06-22 07:31:24.725321,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Under 67.5,0.010099999999999998,0.5556,0.5455
 2025-06-22 07:31:24.729602,Scores - Final Round Scores - Harris English - Final Round Scores,Under 68.5,0.010099999999999998,0.5556,0.5455
-2025-06-22 06:43:45.659301,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.010099999999999998,0.5455,0.5556
-2025-06-22 07:31:24.694812,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
-2025-06-22 08:37:34.940303,Travelers Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / A. Rai - Final Round 2-Balls,Viktor Hovland,-0.010099999999999998,0.5455,0.5556
-2025-06-22 07:31:24.699231,Scores - Final Round Scores - Viktor Hovland - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
-2025-06-22 07:31:24.755624,Scores - Final Round Scores - Russell Henley - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
+2025-06-22 07:31:24.712173,Scores - Final Round Scores - Denny McCarthy - Final Round Scores,Over 68.5,0.010099999999999998,0.5556,0.5455
 2025-06-22 07:31:24.681918,Scores - Final Round Scores - Justin Thomas - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
+2025-06-22 07:31:24.699231,Scores - Final Round Scores - Viktor Hovland - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
+2025-06-22 07:31:24.694812,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
+2025-06-22 06:43:45.659301,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.010099999999999998,0.5455,0.5556
+2025-06-22 08:37:34.940303,Travelers Championship - 2/3 Balls - Final Round 2-Balls - V. Hovland / A. Rai - Final Round 2-Balls,Viktor Hovland,-0.010099999999999998,0.5455,0.5556
+2025-06-22 07:31:24.755624,Scores - Final Round Scores - Russell Henley - Final Round Scores,Over 68.5,-0.010099999999999998,0.4444,0.4545
 2025-06-22 06:43:45.329861,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.010700000000000043,0.6667,0.6774
 2025-06-22 07:31:24.738377,Scores - Final Round Scores - Brian Harman - Final Round Scores,Over 68.5,-0.01100000000000001,0.5238,0.5348
 2025-06-22 08:37:34.855976,Travelers Championship - 2/3 Balls - Final Round 2-Balls - S. Im / H. Matsuyama - Final Round 2-Balls,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
+2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Chelsea,-0.011099999999999999,0.1,0.1111
+2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Ryan Helsley (STL),-0.011099999999999999,0.1,0.1111
 2025-06-22 07:31:24.677621,Scores - Final Round Scores - Sam Burns - Final Round Scores,Over 68.5,-0.011099999999999999,0.4651,0.4762
 2025-06-22 12:56:19.031440,Round Match-Ups - Final Round Match-Ups - S. Straka vs H. Matsuyama - Final Round Match-Ups,Hideki Matsuyama,-0.011099999999999999,0.4651,0.4762
-2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Ryan Helsley (STL),-0.011099999999999999,0.1,0.1111
-2025-06-22 10:36:15.635438,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Chelsea,-0.011099999999999999,0.1,0.1111
 2025-06-22 06:43:45.685555,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.011199999999999988,0.9412,0.9524
 2025-06-22 06:43:45.677146,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.0116,0.4762,0.4878
-2025-06-22 08:37:34.876919,Travelers Championship - 2/3 Balls - Final Round 2-Balls - C. Young / J.J. Spaun - Final Round 2-Balls,Cameron Young,-0.0116,0.4762,0.4878
 2025-06-22 08:37:34.952901,Travelers Championship - 2/3 Balls - Final Round 2-Balls - R. McIIroy / P. Cantlay - Final Round 2-Balls,Patrick Cantlay,-0.0116,0.4762,0.4878
-2025-06-22 07:31:24.747017,Scores - Final Round Scores - Jason Day - Final Round Scores,Over 68.5,-0.011600000000000055,0.5122,0.5238
-2025-06-22 07:31:24.725321,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Over 67.5,-0.011600000000000055,0.5122,0.5238
+2025-06-22 13:37:49.535989,Scores - Final Round Scores - Keegan Bradley - Final Round Scores,Over 68.5,-0.0116,0.4762,0.4878
+2025-06-22 08:37:34.876919,Travelers Championship - 2/3 Balls - Final Round 2-Balls - C. Young / J.J. Spaun - Final Round 2-Balls,Cameron Young,-0.0116,0.4762,0.4878
 2025-06-22 07:31:24.729602,Scores - Final Round Scores - Harris English - Final Round Scores,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-06-22 07:31:24.712173,Scores - Final Round Scores - Denny McCarthy - Final Round Scores,Under 68.5,-0.011600000000000055,0.5122,0.5238
-2025-06-22 06:43:45.625397,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.011600000000000055,0.5122,0.5238
+2025-06-22 07:31:24.725321,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Over 67.5,-0.011600000000000055,0.5122,0.5238
+2025-06-22 07:31:24.747017,Scores - Final Round Scores - Jason Day - Final Round Scores,Over 68.5,-0.011600000000000055,0.5122,0.5238
 2025-06-22 07:31:24.673309,Scores - Final Round Scores - Adam Scott - Final Round Scores,Over 68.5,-0.011600000000000055,0.5122,0.5238
+2025-06-22 06:43:45.625397,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 17½,-0.011600000000000055,0.5122,0.5238
 2025-06-22 07:31:24.344488,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.011900000000000022,0.9167,0.9286
 2025-06-22 04:01:59.444510,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,-0.012199999999999989,0.5,0.5122
 2025-06-22 06:43:45.642342,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.012199999999999989,0.4878,0.5
@@ -155,12 +199,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-22 05:35:05.430199,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,-0.0131,0.2222,0.2353
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Juventus,-0.013800000000000034,0.3636,0.3774
 2025-06-22 09:31:52.915929,CONCACAF Gold Cup - Group B - Winner,Curacao,-0.013999999999999999,0.0769,0.0909
-2025-06-22 09:31:52.923565,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,William Osula (Denmark U21),-0.013999999999999999,0.0769,0.0909
 2025-06-22 06:43:47.359650,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.013999999999999999,0.0769,0.0909
 2025-06-22 10:36:15.629273,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,Mamelodi Sundowns,-0.013999999999999999,0.0769,0.0909
-2025-06-22 06:43:47.381061,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Joe Espada (HOU),-0.014100000000000001,0.0385,0.0526
-2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.014100000000000001,0.0385,0.0526
+2025-06-22 09:31:52.923565,U21 European Championship - European U21 Championship 2025 - Top Goalscorer,William Osula (Denmark U21),-0.013999999999999999,0.0769,0.0909
 2025-06-22 06:43:47.381061,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Bruce Bochy (TEX),-0.014100000000000001,0.0385,0.0526
+2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Bubba Chandler,-0.014100000000000001,0.0385,0.0526
+2025-06-22 06:43:47.381061,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Joe Espada (HOU),-0.014100000000000001,0.0385,0.0526
+2025-06-22 13:37:49.007947,ROY - NL ROY 2025 - National League Rookie of the Year,Hyeseong Kim (LAD),-0.014399999999999996,0.0625,0.0769
 2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.014399999999999996,0.0625,0.0769
 2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Raisel Iglesias (ATL),-0.014599999999999998,0.0132,0.0278
 2025-06-22 06:43:47.370387,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Ryan Pressly (CHC),-0.014599999999999998,0.0132,0.0278
@@ -168,56 +213,95 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-22 08:37:34.860075,Travelers Championship - 2/3 Balls - Final Round 2-Balls - J. Bridgeman / J.T. Poston - Final Round 2-Balls,J.T. Poston,-0.016699999999999937,0.5833,0.6
 2025-06-22 10:36:15.632361,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Fluminense RJ,-0.0179,0.125,0.1429
 2025-06-22 09:31:52.908358,CONCACAF Gold Cup - CONCACAF Gold Cup 2025 - Winner,USA,-0.018799999999999983,0.3448,0.3636
+2025-06-22 13:37:49.386299,Scores - Final Round Scores - Ryan Fox - Final Round Scores,Over 68.5,-0.01880000000000004,0.5556,0.5744
+2025-06-22 13:37:49.442496,Scores - Final Round Scores - Justin Thomas - Final Round Scores,Over 68.5,-0.018900000000000028,0.4255,0.4444
+2025-06-22 13:37:49.451222,Scores - Final Round Scores - Aaron Rai - Final Round Scores,Over 68.5,-0.018900000000000028,0.4255,0.4444
+2025-06-22 13:37:49.486244,Scores - Final Round Scores - Viktor Hovland - Final Round Scores,Over 68.5,-0.018900000000000028,0.4255,0.4444
+2025-06-22 13:37:49.540505,Scores - Final Round Scores - Russell Henley - Final Round Scores,Over 68.5,-0.018900000000000028,0.4255,0.4444
 2025-06-22 04:44:43.469610,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Jamal Musiala,-0.019099999999999992,0.0476,0.0667
 2025-06-22 04:44:43.472913,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Rest of the World,-0.019099999999999995,0.0244,0.0435
+2025-06-22 13:37:49.420880,Scores - Final Round Scores - Andrew Novak - Final Round Scores,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-06-22 05:35:07.373509,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Under 68.5,-0.01970000000000005,0.5455,0.5652
+2025-06-22 13:37:49.531452,Scores - Final Round Scores - Wyndham Clark - Final Round Scores,Over 68.5,-0.01970000000000005,0.5455,0.5652
+2025-06-22 13:37:49.455600,Scores - Final Round Scores - Alex Noren - Final Round Scores,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-06-22 04:44:43.523660,Club World Cup - Group E - Winner,CF Monterrey,-0.02020000000000001,0.0909,0.1111
 2025-06-22 04:44:43.461993,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Miguel Merentiel (Boca Juniors),-0.0203,0.0385,0.0588
+2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.020699999999999996,0.4444,0.4651
+2025-06-22 13:37:49.438199,Scores - Final Round Scores - Sam Burns - Final Round Scores,Over 68.5,-0.020699999999999996,0.4444,0.4651
+2025-06-22 13:37:49.477470,Scores - Final Round Scores - Sepp Straka - Final Round Scores,Over 68.5,-0.020699999999999996,0.4444,0.4651
 2025-06-22 11:27:59.305385,Scores - Final Round Scores - Thomas Detry - Final Round Scores,Under 68.5,-0.020699999999999996,0.4444,0.4651
 2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),-0.020699999999999996,0.2174,0.2381
-2025-06-22 04:01:57.402793,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.020699999999999996,0.4444,0.4651
+2025-06-22 13:37:49.425298,Scores - Final Round Scores - J.J. Spaun - Final Round Scores,Over 68.5,-0.02169999999999994,0.5238,0.5455
 2025-06-22 06:43:47.386322,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Bob Melvin (SF),-0.022199999999999998,0.2,0.2222
+2025-06-22 13:37:49.403601,Scores - Final Round Scores - Cameron Young - Final Round Scores,Over 68.5,-0.022600000000000064,0.5122,0.5348
+2025-06-22 13:37:49.381978,Scores - Final Round Scores - Collin Morikawa - Final Round Scores,Over 67.5,-0.022600000000000064,0.5122,0.5348
+2025-06-22 13:37:49.390643,Scores - Final Round Scores - Daniel Berger - Final Round Scores,Over 68.5,-0.022600000000000064,0.5122,0.5348
+2025-06-22 13:37:49.394931,Scores - Final Round Scores - Robert MacIntyre - Final Round Scores,Over 68.5,-0.022699999999999998,0.4651,0.4878
+2025-06-22 13:37:49.459886,Scores - Final Round Scores - Hideki Matsuyama - Final Round Scores,Over 68.5,-0.022699999999999998,0.4651,0.4878
 2025-06-22 09:31:55.224775,ROY - NL ROY 2025 - National League Rookie of the Year,Logan Henderson,-0.023200000000000002,0.0244,0.0476
 2025-06-22 06:43:45.329861,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.023799999999999988,0.1429,0.1667
 2025-06-22 12:56:19.014453,Round Match-Ups - Final Round Match-Ups - S. Burns vs A. Rai - Final Round Match-Ups,Aaron Rai,-0.023800000000000043,0.5,0.5238
 2025-06-22 11:27:59.300337,Travelers Championship - 2/3 Balls - Final Round 2-Balls - T. Fleetwood / R. Henley - Final Round 2-Balls,Tommy Fleetwood,-0.023800000000000043,0.5,0.5238
+2025-06-22 13:37:49.522200,Scores - Final Round Scores - Brian Harman - Final Round Scores,Over 68.5,-0.023800000000000043,0.5,0.5238
+2025-06-22 13:37:49.416523,Scores - Final Round Scores - Adam Scott - Final Round Scores,Over 68.5,-0.024399999999999977,0.4878,0.5122
+2025-06-22 13:37:49.526846,Scores - Final Round Scores - Jason Day - Final Round Scores,Over 68.5,-0.024399999999999977,0.4878,0.5122
+2025-06-22 13:37:49.468645,Scores - Final Round Scores - Sungjae Im - Final Round Scores,Over 68.5,-0.024399999999999977,0.4878,0.5122
+2025-06-22 13:37:49.517681,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Over 67.5,-0.024399999999999977,0.4878,0.5122
+2025-06-22 13:37:49.504228,Scores - Final Round Scores - Harris English - Final Round Scores,Over 68.5,-0.024399999999999977,0.4878,0.5122
 2025-06-22 11:27:59.309745,Scores - Final Round Scores - Min Woo Lee - Final Round Scores,Under 68.5,-0.024399999999999977,0.4878,0.5122
-2025-06-22 12:56:18.878371,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 08:37:34.801092,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 06:43:47.483245,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 05:35:07.126635,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 09:31:55.344910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-22 11:27:59.136679,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-22 10:36:18.214514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 09:31:55.344910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 04:44:45.999339,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-22 07:31:24.569187,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 02:31:29.588690,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 10:36:18.214514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 04:01:59.436508,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 05:35:07.126635,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 13:37:49.137648,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 08:37:34.801092,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 12:56:18.878371,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 06:43:47.483245,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-22 13:37:49.412231,Scores - Final Round Scores - Xander Schauffele - Final Round Scores,Over 67.5,-0.026499999999999968,0.5652,0.5917
 2025-06-22 06:43:45.646517,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 34½,-0.026499999999999968,0.5652,0.5917
-2025-06-22 08:37:34.797007,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 04:44:45.995231,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 05:35:07.122429,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 06:43:47.479111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 07:31:24.564938,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 04:01:59.432521,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 05:35:07.122429,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 12:56:18.874151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 13:37:49.133483,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 07:31:24.564938,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 08:37:34.797007,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 09:31:55.340876,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 10:36:18.210475,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 11:27:59.132665,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 12:56:18.874151,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-22 02:31:29.584666,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-22 06:43:47.479111,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-22 06:43:45.689804,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.027099999999999902,0.7959,0.823
 2025-06-22 07:31:24.364174,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.027700000000000058,0.5556,0.5833
 2025-06-22 08:37:34.944489,Travelers Championship - 2/3 Balls - Final Round 2-Balls - S. Scheffler / T. Pendrith - Final Round 2-Balls,Taylor Pendrith,-0.028500000000000025,0.2941,0.3226
+2025-06-22 13:37:49.513216,Scores - Final Round Scores - Min Woo Lee - Final Round Scores,Over 68.5,-0.028900000000000037,0.5455,0.5744
 2025-06-22 06:43:45.616811,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 8½,-0.028900000000000037,0.5455,0.5744
 2025-06-22 06:43:45.333090,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.029600000000000015,0.3704,0.4
 2025-06-22 06:43:47.348695,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Chris Sale (ATL),-0.030199999999999998,0.0323,0.0625
+2025-06-22 13:37:49.464267,Scores - Final Round Scores - Max Greyserman - Final Round Scores,Over 68.5,-0.030399999999999983,0.5348,0.5652
+2025-06-22 13:37:49.508730,Scores - Final Round Scores - Lucas Glover - Final Round Scores,Over 68.5,-0.030399999999999983,0.5348,0.5652
+2025-06-22 13:37:49.544954,Scores - Final Round Scores - Thomas Detry - Final Round Scores,Over 68.5,-0.03090000000000004,0.5917,0.6226
+2025-06-22 13:37:49.490728,Scores - Final Round Scores - Denny McCarthy - Final Round Scores,Over 68.5,-0.03179999999999994,0.5238,0.5556
+2025-06-22 13:37:49.481856,Scores - Final Round Scores - Taylor Pendrith - Final Round Scores,Over 68.5,-0.033299999999999996,0.5122,0.5455
+2025-06-22 13:37:49.495224,Scores - Final Round Scores - Nick Taylor - Final Round Scores,Over 68.5,-0.033299999999999996,0.5122,0.5455
 2025-06-22 09:31:53.282923,EuroBasket Women - EuroBasket Women 2025 - Outright,Lithuania (W),-0.03439999999999999,0.0323,0.0667
+2025-06-22 13:37:49.407934,Scores - Final Round Scores - Ludvig Aberg - Final Round Scores,Over 67.5,-0.03479999999999994,0.5652,0.6
+2025-06-22 13:37:49.499723,Scores - Final Round Scores - Patrick Cantlay - Final Round Scores,Over 67.5,-0.03479999999999994,0.5652,0.6
 2025-06-22 07:31:24.703555,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Over 66.5,-0.03480000000000005,0.5,0.5348
-2025-06-22 07:31:24.751366,Scores - Final Round Scores - Keegan Bradley - Final Round Scores,Over 68.5,-0.03600000000000003,0.4878,0.5238
+2025-06-22 13:37:49.399276,Scores - Final Round Scores - Ben Griffin - Final Round Scores,Over 68.5,-0.03489999999999999,0.4651,0.5
+2025-06-22 13:37:49.446836,Scores - Final Round Scores - Shane Lowry - Final Round Scores,Over 68.5,-0.03489999999999999,0.4651,0.5
+2025-06-22 13:37:49.473074,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Over 66.5,-0.03489999999999999,0.4651,0.5
 2025-06-22 07:31:24.759897,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Over 68.5,-0.03600000000000003,0.4878,0.5238
+2025-06-22 07:31:24.751366,Scores - Final Round Scores - Keegan Bradley - Final Round Scores,Over 68.5,-0.03600000000000003,0.4878,0.5238
 2025-06-22 06:43:47.381061,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Dan Wilson (SEA),-0.0384,0.0385,0.0769
 2025-06-22 05:35:04.646030,Club World Cup - Group F - Winner,Borussia Dortmund,-0.0393,0.5833,0.6226
+2025-06-22 13:37:49.549451,Scores - Final Round Scores - Tommy Fleetwood - Final Round Scores,Over 68.5,-0.043399999999999994,0.4444,0.4878
 2025-06-22 06:43:45.638101,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 15½,-0.043399999999999994,0.5122,0.5556
+2025-06-22 13:37:49.377644,Scores - Final Round Scores - Akshay Bhatia - Final Round Scores,Over 68.5,-0.043399999999999994,0.5122,0.5556
 2025-06-22 05:35:04.646030,Club World Cup - Group F - Winner,Mamelodi Sundowns,-0.04440000000000001,0.0667,0.1111
 2025-06-22 05:35:04.649569,Club World Cup - Group F - Not To Qualify From Group,Fluminense RJ,-0.044499999999999984,0.2222,0.2667
 2025-06-22 04:01:57.505505,Draft Picks - 2025 NBA Draft- Picks #1 - #9 - 8th Overall Pick,Jeremiah Fears,-0.044499999999999984,0.2222,0.2667

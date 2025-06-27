@@ -7,7 +7,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-27 15:34:29.555523,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 67.5,0.13639999999999997,0.6364,0.5
 2025-06-27 15:34:29.559863,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Under 68.5,0.12419999999999998,0.6364,0.5122
 2025-06-27 15:34:29.568815,Scores - 2nd Round Score - Byeong Hun An - 2nd Round Score,Under 68.5,0.12260000000000004,0.6226,0.5
-2025-06-27 06:46:38.870465,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 68.5,0.12260000000000004,0.6226,0.5
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,England,0.10370000000000001,0.3704,0.2667
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Benfica,0.1,0.2667,0.1667
 2025-06-27 15:34:29.518973,Round Requests - 2nd Round Score - Patrick Cantlay - Requests,Under 68.5,0.0917,0.7143,0.6226
@@ -17,14 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-27 18:44:22.257228,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,0.06190000000000001,0.4255,0.3636
 2025-06-27 14:36:08.601275,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Frankie Gavin,0.052200000000000024,0.6078,0.5556
 2025-06-27 14:36:08.632502,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Tom Stokes,0.04820000000000002,0.6226,0.5744
-2025-06-27 06:46:38.911255,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Over 67.5,0.04620000000000002,0.5917,0.5455
 2025-06-27 10:40:37.725100,Scores - 2nd Round Score - Davis Thompson - 2nd Round Score,Under 68.5,0.045499999999999985,0.5455,0.5
-2025-06-27 06:46:36.871686,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.044499999999999984,0.2667,0.2222
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Megan Khang / Lexi Thompson,0.04440000000000001,0.1111,0.0667
 2025-06-27 15:34:29.542519,Scores - 2nd Round Score - Wyndham Clark - 2nd Round Score,Under 68.5,0.04409999999999992,0.6667,0.6226
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Jennifer Kupcho / Leona Maguire,0.04329999999999999,0.0909,0.0476
 2025-06-27 08:43:45.204152,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),0.04290000000000005,0.4,0.3571
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Jin Hee Im / Somi Lee,0.04269999999999999,0.1538,0.1111
 2025-06-27 18:44:21.963803,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Inter Milan,0.03889999999999999,0.1818,0.1429
 2025-06-27 08:43:45.214881,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.03749999999999998,0.7674,0.7299
 2025-06-27 15:34:29.538188,Scores - 2nd Round Score - Min Woo Lee - 2nd Round Score,Under 68.5,0.03639999999999999,0.6364,0.6
@@ -41,88 +35,81 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-27 11:29:21.986700,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - W. Chandler / M. Riedel / O. Black - 2nd Round 3-Balls,Will Chandler,0.029000000000000026,0.4545,0.4255
 2025-06-27 11:29:21.861739,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - K. Velo / L. Clanton / B. White - 2nd Round 3-Balls,Luke Clanton,0.027700000000000058,0.5833,0.5556
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Chelsea,0.027700000000000002,0.4444,0.4167
-2025-06-27 18:44:24.409187,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 11:29:21.722156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 14:36:08.534762,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 10:40:37.330249,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 09:34:59.683062,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 08:43:45.356910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 15:34:29.266797,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-27 07:32:25.738302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 06:46:38.556386,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 16:39:35.464106,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 08:43:45.356910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-27 17:33:40.132049,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 14:36:08.534762,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 19:26:54.769559,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 18:44:24.409187,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 15:34:29.266797,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 11:29:21.722156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 10:40:37.330249,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 16:39:35.464106,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-27 13:44:12.940884,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-27 09:34:59.683062,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-27 13:00:45.487569,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-27 11:29:21.742126,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 09:34:59.705023,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 13:00:45.509726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 13:44:12.962701,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 10:40:37.759573,Scores - 2nd Round Score - Min Woo Lee - 2nd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
-2025-06-27 14:36:08.556110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 06:46:38.577946,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 15:34:29.287115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 10:40:37.350462,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-27 16:39:35.485256,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 07:32:25.759259,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-27 17:33:40.152404,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-27 08:43:45.377238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 13:44:12.962701,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 15:34:29.287115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-27 18:44:24.429570,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 14:36:08.556110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 19:26:54.789880,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 10:40:37.759573,Scores - 2nd Round Score - Min Woo Lee - 2nd Round Score,Under 68.5,0.025599999999999956,0.6,0.5744
+2025-06-27 13:00:45.509726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 11:29:21.742126,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 10:40:37.350462,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 09:34:59.705023,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 08:43:45.377238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-27 07:32:25.759259,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-27 13:00:45.595541,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Connor Tierney,0.0252,0.7222,0.697
 2025-06-27 08:43:45.220174,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,A.J. Hinch (DET),0.025000000000000022,0.9,0.875
 2025-06-27 11:29:21.995208,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - T. Dickson / J. Pak / D. Clemons - 2nd Round 3-Balls,John Pak,0.023800000000000043,0.5238,0.5
 2025-06-27 15:34:29.214568,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,0.023800000000000016,0.1905,0.1667
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Spain,0.023799999999999988,0.1667,0.1429
 2025-06-27 15:34:29.514529,Round Requests - 2nd Round Score - Alex Smalley - Requests,Under 65.5,0.023799999999999988,0.3571,0.3333
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Chanettee Wannasaen / Jaravee Boonchant,0.023200000000000002,0.0476,0.0244
 2025-06-27 09:35:00.021520,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs P. Cantlay - 2nd Round Match-Ups,Collin Morikawa,0.022600000000000064,0.5348,0.5122
 2025-06-27 11:29:21.890767,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / V. Perez / D. Skinns - 2nd Round 3-Balls,David Skinns,0.02250000000000002,0.2857,0.2632
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Gemma Dryburgh / Cassie Porter,0.022400000000000003,0.0323,0.0099
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Yan Liu / Yahui Zhang,0.022200000000000004,0.0345,0.0123
 2025-06-27 16:39:33.471364,NBA Specials - Masai Ujiri Next Team? - Masai Ujiri Next Team,Atlanta Hawks,0.022199999999999998,0.2222,0.2
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Saki Baba / Yuri Yoshida,0.022099999999999998,0.0385,0.0164
-2025-06-27 11:29:22.000241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 67.5,0.021699999999999997,0.4762,0.4545
 2025-06-27 10:40:37.707817,Scores - 2nd Round Score - Aldrich Potgieter - 2nd Round Score,Under 68.5,0.021699999999999997,0.4762,0.4545
+2025-06-27 11:29:22.000241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 67.5,0.021699999999999997,0.4762,0.4545
 2025-06-27 10:40:37.785529,Scores - 2nd Round Score - Matt Fitzpatrick - 2nd Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
-2025-06-27 16:39:35.659540,Round Match-Ups - 2nd Round Match-Ups - M.W. Lee vs W. Clark - 2nd Round Match-Ups,Min Woo Lee,0.02169999999999994,0.5455,0.5238
 2025-06-27 07:32:25.801747,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Jim Wallhead,0.02169999999999994,0.5455,0.5238
+2025-06-27 16:39:35.659540,Round Match-Ups - 2nd Round Match-Ups - M.W. Lee vs W. Clark - 2nd Round Match-Ups,Min Woo Lee,0.02169999999999994,0.5455,0.5238
 2025-06-27 08:43:45.225501,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Craig Counsell (CHC),0.020699999999999996,0.4651,0.4444
 2025-06-27 14:36:08.592616,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Jamie Cox,0.018900000000000028,0.8403,0.8214
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Bayern Munich,0.018799999999999983,0.3636,0.3448
 2025-06-27 09:34:59.990180,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs H. Matsuyama - 2nd Round Match-Ups,Ben Griffin,0.018100000000000005,0.5833,0.5652
 2025-06-27 08:43:45.198866,ROY - NL ROY 2025 - National League Rookie of the Year,Chase Burns (CIN),0.01759999999999999,0.1176,0.1
 2025-06-27 10:40:37.733733,Scores - 2nd Round Score - Si Woo Kim - 2nd Round Score,Under 68.5,0.017299999999999982,0.5917,0.5744
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Manon De Roey / Pauline Roussin-Bouchard,0.016600000000000004,0.0345,0.0179
 2025-06-27 18:44:24.475383,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,James Lilley,0.015699999999999936,0.8824,0.8667
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Jodi Ewart Shadoff / Heather Lin,0.0151,0.0217,0.0066
 2025-06-27 16:39:35.530662,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Frankie Gavin,0.014800000000000035,0.6226,0.6078
 2025-06-27 18:44:24.479463,BKFC 77: Tierney vs Christie - Kris Trezise vs Paul O'Sullivan - To Win the Bout,Kris Trezise,0.014700000000000046,0.7647,0.75
 2025-06-27 08:43:45.427732,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,James Lilley,0.014200000000000101,0.8403,0.8261
 2025-06-27 08:43:43.617180,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Houston Texans,0.014099999999999998,0.0385,0.0244
-2025-06-27 10:40:37.781164,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Under 68.5,0.012199999999999989,0.5122,0.5
 2025-06-27 10:40:37.646238,Round Match-Ups - 2nd Round Match-Ups - R. Gerard vs S. Jaeger - 2nd Round Match-Ups,Stephan Jaeger,0.012199999999999989,0.5122,0.5
-2025-06-27 06:46:38.612631,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Jamie Cox,0.011900000000000022,0.8214,0.8095
-2025-06-27 06:46:36.871686,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.011700000000000016,0.2222,0.2105
+2025-06-27 19:26:54.672439,Boxing Lines - Leila Beaudoin vs Elhem Mekhaled - To Win the Bout,Elhem Mekhaled,0.012199999999999989,0.5,0.4878
+2025-06-27 10:40:37.781164,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Under 68.5,0.012199999999999989,0.5122,0.5
+2025-06-27 19:26:54.692636,Boxing Lines - Arslanbek Makhmudov vs Ricardo Brown - To Win the Bout,Ricardo Brown,0.011699999999999988,0.2857,0.274
 2025-06-27 10:40:37.245156,Boxing Lines - Steven Butler vs Jose De Jesus Macias - To Win the Bout,Steven Butler,0.011699999999999933,0.7895,0.7778
 2025-06-27 07:32:26.078250,Round Match-Ups - 2nd Round Match-Ups - K. Bradley vs M. Fitzpatrick - 2nd Round Match-Ups,Matt Fitzpatrick,0.0116,0.4878,0.4762
-2025-06-27 08:43:45.198866,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),0.011199999999999995,0.0588,0.0476
 2025-06-27 14:36:08.889082,Dallas - Dallas - Winner,Brooks Koepka,0.011199999999999995,0.0588,0.0476
-2025-06-27 16:39:33.471364,NBA Specials - Masai Ujiri Next Team? - Masai Ujiri Next Team,Chicago Bulls,0.011099999999999999,0.1111,0.1
+2025-06-27 08:43:45.198866,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),0.011199999999999995,0.0588,0.0476
 2025-06-27 18:44:24.508350,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Connor Tierney,0.011099999999999999,0.7333,0.7222
-2025-06-27 08:43:45.249640,Elite Boxing - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,0.01090000000000002,0.8571,0.8462
+2025-06-27 16:39:33.471364,NBA Specials - Masai Ujiri Next Team? - Masai Ujiri Next Team,Chicago Bulls,0.011099999999999999,0.1111,0.1
 2025-06-27 18:44:24.463060,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Jamie Cox,0.01090000000000002,0.8571,0.8462
+2025-06-27 08:43:45.249640,Elite Boxing - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,0.01090000000000002,0.8571,0.8462
 2025-06-27 14:36:08.605675,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,James Lilley,0.01090000000000002,0.8571,0.8462
 2025-06-27 18:44:22.280822,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Over 71.5,0.010699999999999932,0.5455,0.5348
-2025-06-27 08:43:45.781319,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 67.5,0.010599999999999998,0.4651,0.4545
 2025-06-27 08:43:45.720181,Scores - 2nd Round Score - Ben Griffin - 2nd Round Score,Under 67.5,0.010599999999999998,0.4651,0.4545
+2025-06-27 08:43:45.781319,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 67.5,0.010599999999999998,0.4651,0.4545
 2025-06-27 18:44:22.567970,Mayoral Elections - Next Mayor of New York - Winner,Eric Adams,0.010499999999999982,0.2105,0.2
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Borussia Dortmund,0.010399999999999993,0.2326,0.2222
 2025-06-27 18:44:22.355011,NBA Championship - NBA Championship 2025-26 - NBA Champion,Orlando Magic,0.0102,0.0769,0.0667
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Sarah Schmelzel / Albane Valenzuela,0.010100000000000001,0.0345,0.0244
-2025-06-27 17:33:40.111711,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,0.010099999999999998,0.6875,0.6774
 2025-06-27 08:43:45.419329,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Jim Wallhead,0.010099999999999998,0.5556,0.5455
-2025-06-27 18:44:22.280822,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Under 71.5,-0.010099999999999998,0.5455,0.5556
+2025-06-27 17:33:40.111711,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,0.010099999999999998,0.6875,0.6774
 2025-06-27 16:39:35.530662,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Jack Dugdale,-0.010099999999999998,0.4444,0.4545
+2025-06-27 18:44:22.280822,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Under 71.5,-0.010099999999999998,0.5455,0.5556
 2025-06-27 17:33:40.197849,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,Fran Suarez,-0.010499999999999982,0.2,0.2105
 2025-06-27 10:40:37.750955,Scores - 2nd Round Score - Max Greyserman - 2nd Round Score,Over 68.5,-0.010599999999999998,0.4545,0.4651
 2025-06-27 08:43:45.652605,Round Match-Ups - 2nd Round Match-Ups - H. Hall vs T. Kim - 2nd Round Match-Ups,Tom Kim,-0.010599999999999998,0.4545,0.4651
@@ -132,32 +119,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-27 13:44:12.874139,Boxing Lines - Deontay Wilder vs Tyrrell Anthony Herndon - To Win the Bout,Tyrrell Anthony Herndon,-0.011099999999999999,0.1,0.1111
 2025-06-27 10:40:37.768178,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Under 67.5,-0.011099999999999999,0.4651,0.4762
 2025-06-27 09:34:59.990180,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs H. Matsuyama - 2nd Round Match-Ups,Hideki Matsuyama,-0.011099999999999999,0.4651,0.4762
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Lauren Coughlin / Nasa Hataoka,-0.011199999999999995,0.0323,0.0435
 2025-06-27 08:43:45.204152,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Will Vest (DET),-0.011199999999999995,0.0323,0.0435
 2025-06-27 18:44:24.508350,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Danny Christie,-0.01150000000000001,0.3333,0.3448
 2025-06-27 11:29:21.990901,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / N. Xiong / M. La Sasso - 2nd Round 3-Balls,Michael Thorbjornsen,-0.011599999999999944,0.5348,0.5464
-2025-06-27 08:43:45.656936,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs H. Matsuyama - 2nd Round Match-Ups,Hideki Matsuyama,-0.0116,0.4762,0.4878
 2025-06-27 10:40:37.733733,Scores - 2nd Round Score - Si Woo Kim - 2nd Round Score,Over 68.5,-0.0116,0.4762,0.4878
+2025-06-27 08:43:45.656936,Round Match-Ups - 2nd Round Match-Ups - B. Griffin vs H. Matsuyama - 2nd Round Match-Ups,Hideki Matsuyama,-0.0116,0.4762,0.4878
 2025-06-27 08:43:45.419329,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Dawid Chylinski,-0.011600000000000055,0.5122,0.5238
 2025-06-27 14:36:08.605675,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,Fran Suarez,-0.011700000000000016,0.2105,0.2222
 2025-06-27 18:44:24.463060,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Charles Wasserman,-0.011700000000000016,0.2105,0.2222
 2025-06-27 11:29:21.986700,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - W. Chandler / M. Riedel / O. Black - 2nd Round 3-Balls,Matthew Riedel,-0.012199999999999989,0.4878,0.5
 2025-06-27 13:00:45.586783,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,-0.012199999999999989,0.4878,0.5
-2025-06-27 06:46:38.612631,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Charles Wasserman,-0.012799999999999978,0.2469,0.2597
-2025-06-27 06:46:36.871686,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,-0.0131,0.2222,0.2353
 2025-06-27 08:43:45.427732,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,Fran Suarez,-0.01369999999999999,0.2273,0.241
 2025-06-27 18:44:24.388663,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,-0.013800000000000034,0.3636,0.3774
 2025-06-27 08:43:45.204152,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Mason Miller (ATH),-0.014399999999999996,0.0625,0.0769
-2025-06-27 06:46:38.879522,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 67.5,-0.014800000000000035,0.6078,0.6226
 2025-06-27 11:29:21.945018,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - W. Simpson / Z. Johnson / B. Hun An - 2nd Round 3-Balls,Webb Simpson,-0.014900000000000024,0.3077,0.3226
-2025-06-27 08:43:45.225501,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Mike Shildt (SD),-0.015300000000000001,0.0323,0.0476
 2025-06-27 08:43:45.225501,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Dave Roberts (LAD),-0.015300000000000001,0.0323,0.0476
-2025-06-27 10:40:37.707817,Scores - 2nd Round Score - Aldrich Potgieter - 2nd Round Score,Over 68.5,-0.016100000000000003,0.5917,0.6078
+2025-06-27 08:43:45.225501,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Mike Shildt (SD),-0.015300000000000001,0.0323,0.0476
+2025-06-27 19:26:54.692636,Boxing Lines - Arslanbek Makhmudov vs Ricardo Brown - To Win the Bout,Arslanbek Makhmudov,-0.015899999999999914,0.7778,0.7937
 2025-06-27 11:29:22.000241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 67.5,-0.016100000000000003,0.5917,0.6078
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Jeeno Thitikul / Ruoning Yin,-0.016699999999999993,0.25,0.2667
+2025-06-27 10:40:37.707817,Scores - 2nd Round Score - Aldrich Potgieter - 2nd Round Score,Over 68.5,-0.016100000000000003,0.5917,0.6078
 2025-06-27 08:43:43.617180,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,-0.016700000000000007,0.0833,0.1
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,France,-0.0174,0.2326,0.25
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Hinako Shibuno / Minami Katsu,-0.017800000000000003,0.0066,0.0244
 2025-06-27 18:44:24.475383,BKFC 77: Tierney vs Christie - James Lilley vs Fran Suarez - To Win the Bout,Fran Suarez,-0.01820000000000002,0.1818,0.2
 2025-06-27 13:00:45.595541,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Danny Christie,-0.018799999999999983,0.3448,0.3636
 2025-06-27 14:36:06.240829,"Box Office 2025 - ""F1"" Opening Weekend Box Office - Proposition",43-47 Million,-0.019000000000000003,0.0435,0.0625
@@ -175,70 +157,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-27 18:44:21.963803,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Borussia Dortmund,-0.0242,0.0667,0.0909
 2025-06-27 15:34:29.214568,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,-0.025000000000000022,0.875,0.9
 2025-06-27 11:29:21.990901,Rocket Classic - 2/3 Balls - 2nd Round 3-Balls - M. Thorbjornsen / N. Xiong / M. La Sasso - 2nd Round 3-Balls,Norman Xiong,-0.0252,0.2778,0.303
-2025-06-27 17:33:40.132049,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-27 14:36:08.534762,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-27 16:39:35.464106,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 15:34:29.266797,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 17:33:40.132049,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 18:44:24.409187,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-27 08:43:45.356910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 19:26:54.769559,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 16:39:35.464106,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 13:44:12.940884,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 14:36:08.534762,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 13:00:45.487569,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 11:29:21.722156,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 07:32:25.738302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 10:40:37.330249,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 09:34:59.683062,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-27 07:32:25.738302,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-27 06:46:38.556386,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-27 08:43:45.356910,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Any Other Country,-0.0262,0.0123,0.0385
-2025-06-27 08:43:45.377238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 06:46:38.577946,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 13:00:45.509726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 07:32:25.759259,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 15:34:29.287115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 16:39:35.485256,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 09:34:59.705023,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 18:44:24.429570,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 17:33:40.152404,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 10:40:37.350462,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 11:29:21.742126,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-27 13:00:45.509726,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 08:43:45.377238,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 13:44:12.962701,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 17:33:40.152404,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 14:36:08.556110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 19:26:54.789880,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 18:44:24.429570,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 15:34:29.287115,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-27 16:39:35.485256,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-27 15:34:29.514529,Round Requests - 2nd Round Score - Alex Smalley - Requests,Over 65.5,-0.02739999999999998,0.7059,0.7333
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Germany,-0.027999999999999997,0.1538,0.1818
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Inter Miami,-0.028199999999999996,0.0385,0.0667
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Ariya Jutanugarn / Moriya Jutanugarn,-0.032799999999999996,0.0057,0.0385
-2025-06-27 07:32:26.073817,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs P. Cantlay - 2nd Round Match-Ups,Collin Morikawa,-0.033299999999999996,0.5122,0.5455
 2025-06-27 10:40:37.755229,Scores - 2nd Round Score - Luke Clanton - 2nd Round Score,Over 68.5,-0.033299999999999996,0.4545,0.4878
 2025-06-27 10:40:37.746685,Scores - 2nd Round Score - Mark Hubbard - 2nd Round Score,Over 68.5,-0.033299999999999996,0.5122,0.5455
+2025-06-27 07:32:26.073817,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs P. Cantlay - 2nd Round Match-Ups,Collin Morikawa,-0.033299999999999996,0.5122,0.5455
 2025-06-27 10:40:37.742350,Scores - 2nd Round Score - Gary Woodland - 2nd Round Score,Over 68.5,-0.033399999999999985,0.5744,0.6078
 2025-06-27 13:00:45.790838,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 67.5,-0.03479999999999994,0.5652,0.6
 2025-06-27 10:40:37.720782,Scores - 2nd Round Score - Chris Kirk - 2nd Round Score,Over 68.5,-0.03610000000000002,0.5556,0.5917
 2025-06-27 16:39:35.560426,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,-0.03620000000000001,0.4082,0.4444
-2025-06-27 15:34:29.551115,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Over 68.5,-0.039600000000000024,0.4255,0.4651
 2025-06-27 15:34:29.538188,Scores - 2nd Round Score - Min Woo Lee - 2nd Round Score,Over 68.5,-0.039600000000000024,0.4255,0.4651
+2025-06-27 15:34:29.551115,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Over 68.5,-0.039600000000000024,0.4255,0.4651
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Italy,-0.0397,0.0714,0.1111
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Haeran Ryu / Rose Zhang,-0.0403,0.0123,0.0526
 2025-06-27 10:40:37.725100,Scores - 2nd Round Score - Davis Thompson - 2nd Round Score,Over 68.5,-0.04139999999999999,0.5238,0.5652
 2025-06-27 18:44:22.257228,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Timothée Chalamet,-0.04329999999999999,0.0476,0.0909
 2025-06-27 14:36:08.632502,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,-0.043399999999999994,0.4444,0.4878
 2025-06-27 15:34:29.542519,Scores - 2nd Round Score - Wyndham Clark - 2nd Round Score,Over 68.5,-0.044399999999999995,0.4,0.4444
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Paris Saint-Germain,-0.044399999999999995,0.5556,0.6
-2025-06-27 06:46:36.871686,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.0476,0.1429,0.1905
-2025-06-27 06:46:38.911255,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Under 67.5,-0.04760000000000003,0.4762,0.5238
 2025-06-27 18:44:21.963803,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Paris Saint-Germain,-0.04910000000000003,0.3509,0.4
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Juventus,-0.04999999999999999,0.2,0.25
 2025-06-27 18:44:21.967311,Club World Cup - FIFA Club World Cup 2025 - Country of Winning Team,Brazil,-0.05,0.0833,0.1333
 2025-06-27 18:44:21.963803,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Flamengo RJ,-0.052399999999999995,0.0385,0.0909
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Sei Young Kim / Auston Kim,-0.0544,0.0123,0.0667
 2025-06-27 08:43:45.204152,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),-0.05559999999999998,0.5,0.5556
 2025-06-27 14:36:08.601275,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Jack Dugdale,-0.057699999999999974,0.4545,0.5122
 2025-06-27 18:44:21.963803,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Bayern Munich,-0.0635,0.2222,0.2857
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Fluminense RJ,-0.0762,0.0667,0.1429
 2025-06-27 16:39:35.526163,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Dawid Chylinski,-0.07739999999999997,0.4348,0.5122
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Rio Takeda / Miyu Yamashita,-0.08410000000000001,0.0588,0.1429
-2025-06-27 06:46:39.070010,Dow Championship - Dow Championship - Winner,Chisato Iwai / Akie Iwai,-0.0871,0.0667,0.1538
 2025-06-27 15:34:29.518973,Round Requests - 2nd Round Score - Patrick Cantlay - Requests,Over 68.5,-0.09350000000000003,0.3509,0.4444
 2025-06-27 15:34:29.564395,Scores - 2nd Round Score - Matt Fitzpatrick - 2nd Round Score,Over 68.5,-0.09830000000000005,0.4255,0.5238
-2025-06-27 06:46:38.870465,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 68.5,-0.12080000000000002,0.4444,0.5652
 2025-06-27 15:34:29.568815,Scores - 2nd Round Score - Byeong Hun An - 2nd Round Score,Over 68.5,-0.12080000000000002,0.4444,0.5652
 2025-06-27 15:34:29.559863,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Over 68.5,-0.1301,0.4255,0.5556
 2025-06-27 18:44:21.960837,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,Flamengo RJ,-0.1353,0.1,0.2353

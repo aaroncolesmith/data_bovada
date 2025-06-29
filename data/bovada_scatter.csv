@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Eugenio Chacarra,0.15550000000000003,0.2222,0.0667
 2025-06-28 15:32:11.637347,Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 70.5,0.13480000000000003,0.6226,0.4878
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Adrien Saddier,0.1049,0.1818,0.0769
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Angel Di Maria (Benfica),0.08979999999999999,0.1667,0.0769
 2025-06-28 21:30:00.011594,Wide Receivers - NFL 2025-26 Receiving TD's - Tyreek Hill Regular Season Total Receiving TD's 2025-26,Under 7.5,0.07710000000000006,0.6226,0.5455
 2025-06-28 15:32:11.575721,Scores - 3rd Round Score - Jake Knapp - 3rd Round Score,Under 68.5,0.06929999999999997,0.5455,0.4762
 2025-06-28 15:32:11.645843,Scores - 2nd Round Score - Harold Varner - 2nd Round Score,Over 71.5,0.06700000000000006,0.6226,0.5556
@@ -12,159 +13,155 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Alex Fitzpatrick,0.047099999999999996,0.0667,0.0196
 2025-06-28 17:31:50.383988,Scores - 3rd Round Score - Chris Kirk - 3rd Round Score,Under 68.5,0.03600000000000003,0.5238,0.4878
 2025-06-28 17:31:50.370613,Scores - 3rd Round Score - Mark Hubbard - 3rd Round Score,Under 68.5,0.03489999999999999,0.5,0.4651
+2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,0.03420000000000001,0.1111,0.0769
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Clement Sordet,0.034100000000000005,0.0345,0.0004
 2025-06-28 15:32:09.747976,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,LSU,0.034100000000000005,0.125,0.0909
 2025-06-28 17:31:50.366158,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Under 68.5,0.033299999999999996,0.4878,0.4545
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Pedro Neto (Chelsea),0.032400000000000005,0.0476,0.0152
 2025-06-28 17:31:50.375024,Scores - 3rd Round Score - Michael Thorbjornsen - 3rd Round Score,Under 68.5,0.031799999999999995,0.4762,0.4444
 2025-06-28 21:29:59.727825,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Over 28.5,0.03179999999999994,0.5556,0.5238
 2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Alabama,0.0305,0.2,0.1695
-2025-06-28 18:43:14.704515,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Jim Wallhead,0.030299999999999994,0.6667,0.6364
 2025-06-28 17:31:50.379471,Scores - 3rd Round Score - Andrew Putnam - 3rd Round Score,Under 68.5,0.030299999999999994,0.4651,0.4348
+2025-06-28 18:43:14.704515,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Jim Wallhead,0.030299999999999994,0.6667,0.6364
 2025-06-28 21:30:00.446414,Big 12 - Big 12 Regular Season Wins - Arizona,Under 5.5,0.02960000000000007,0.6296,0.6
-2025-06-28 14:33:00.795597,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 12:56:54.942505,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 13:38:09.617929,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-28 15:32:11.344222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 16:39:30.307331,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 18:43:14.650514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 19:26:49.931706,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 21:30:01.045163,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 22:34:34.079105,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-28 17:31:50.229827,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 12:56:54.962524,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 16:39:30.327314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 15:32:11.364593,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 14:33:00.815861,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 13:38:09.638341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 17:31:50.250871,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 16:39:30.307331,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-28 18:43:14.650514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-28 22:34:34.079105,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-28 21:30:01.045163,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-28 19:26:49.931706,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-28 20:33:50.654376,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-28 18:43:14.670908,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 17:31:50.250871,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 16:39:30.327314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 15:32:11.364593,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-28 22:34:34.030461,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,0.0252,0.7222,0.697
 2025-06-28 21:30:00.996347,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,0.024399999999999977,0.2597,0.2353
-2025-06-28 14:33:01.014204,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Under 67.5,0.024399999999999977,0.5122,0.4878
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Phil Foden (Man City),0.024,0.0625,0.0385
 2025-06-28 21:29:59.731141,Quarterbacks - NFL 2025-26 Passing TD's - Bo Nix Regular Season Total Passing TD's,Over 24.5,0.023800000000000043,0.5238,0.5
 2025-06-28 15:32:11.571454,Scores - 3rd Round Score - Hideki Matsuyama - 3rd Round Score,Over 68.5,0.023799999999999988,0.5,0.4762
 2025-06-28 15:32:11.550088,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Over 67.5,0.022600000000000064,0.5348,0.5122
-2025-06-28 14:33:01.000985,Scores - 3rd Round Score - Luke Clanton - 3rd Round Score,Under 68.5,0.022600000000000064,0.5348,0.5122
 2025-06-28 16:39:30.396341,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Tom Stokes,0.022600000000000064,0.6226,0.6
 2025-06-28 18:43:14.724775,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Charles Wasserman,0.022199999999999998,0.2222,0.2
-2025-06-28 12:56:55.224110,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 67.5,0.02079999999999993,0.5556,0.5348
-2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Over 925.5,0.02079999999999993,0.5556,0.5348
 2025-06-28 21:30:00.080154,Wide Receivers - NFL 2025-26 Receiving Yards - Ladd McConkey Regular Season Total Receiving Yards 2025-26,Over 1025.5,0.02079999999999993,0.5556,0.5348
-2025-06-28 21:30:00.052935,Wide Receivers - NFL 2025-26 Receiving Yards - Drake London Regular Season Total Receiving Yards 2025-26,Over 1075.5,0.02079999999999993,0.5556,0.5348
+2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Over 925.5,0.02079999999999993,0.5556,0.5348
 2025-06-28 21:29:59.761781,Quarterbacks - NFL 2025-26 Passing TD's - J.J. McCarthy Regular Season Total Passing TD's,Under 24.5,0.02079999999999993,0.5556,0.5348
+2025-06-28 21:30:00.052935,Wide Receivers - NFL 2025-26 Receiving Yards - Drake London Regular Season Total Receiving Yards 2025-26,Over 1075.5,0.02079999999999993,0.5556,0.5348
+2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Palmeiras SP,0.0203,0.0588,0.0385
+2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Man City & Phil Foden,0.019800000000000005,0.0476,0.0278
 2025-06-28 21:29:59.991474,Wide Receivers - NFL 2025-26 Receiving TD's - Nico Collins Regular Season Total Receiving TD's 2025-26,Over 6.5,0.01970000000000005,0.5652,0.5455
 2025-06-28 23:31:15.256241,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,0.019699999999999995,0.4545,0.4348
-2025-06-28 14:33:00.957917,Rocket Classic - 2/3 Balls - 3rd Round 2-Balls - G. Woodland / M. Greyserman - 3rd Round 2-Balls,Max Greyserman,0.01880000000000004,0.5744,0.5556
-2025-06-28 15:32:11.562936,Scores - 3rd Round Score - Max Greyserman - 3rd Round Score,Over 68.5,0.01880000000000004,0.5744,0.5556
-2025-06-28 15:32:11.567212,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 67.5,0.01880000000000004,0.5744,0.5556
-2025-06-28 16:39:30.267342,Boxing Lines - Shakan Pitters vs Bradley Rea - To Win the Bout,Bradley Rea,0.01880000000000004,0.6552,0.6364
+2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Manchester City,0.019000000000000017,0.2857,0.2667
 2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Over 19.5,0.01880000000000004,0.5744,0.5556
+2025-06-29 02:34:23.817066,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-28 16:39:30.267342,Boxing Lines - Shakan Pitters vs Bradley Rea - To Win the Bout,Bradley Rea,0.01880000000000004,0.6552,0.6364
+2025-06-28 15:32:11.567212,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 67.5,0.01880000000000004,0.5744,0.5556
+2025-06-28 15:32:11.562936,Scores - 3rd Round Score - Max Greyserman - 3rd Round Score,Over 68.5,0.01880000000000004,0.5744,0.5556
 2025-06-28 18:43:14.720735,BKFC 77: Tierney vs Christie - Marley Churcher vs Anthony Holmes - To Win the Bout,Marley Churcher,0.017600000000000005,0.3509,0.3333
+2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 02:34:23.821278,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-28 15:32:11.438820,BKFC 77: Tierney vs Christie - Tony Lafferty vs Toby Bindon - To Win the Bout,Tony Lafferty,0.017299999999999982,0.5917,0.5744
 2025-06-28 21:29:59.747720,Quarterbacks - NFL 2025-26 Passing TD's - Cameron Ward Regular Season Total Passing TD's,Over 18.5,0.017299999999999982,0.5917,0.5744
-2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-28 22:34:34.026386,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,0.016599999999999948,0.8261,0.8095
 2025-06-28 15:32:11.430674,BKFC 77: Tierney vs Christie - Ricky Nelder vs Mario Soo - To Win the Bout,Ricky Nelder,0.016100000000000003,0.6078,0.5917
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jeremy Doku (Man City),0.014899999999999997,0.0625,0.0476
 2025-06-28 16:39:30.392329,BKFC 77: Tierney vs Christie - Ricky Nelder vs Mario Soo - To Win the Bout,Ricky Nelder,0.014800000000000035,0.6226,0.6078
+2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Phil Foden (Man City),0.013999999999999999,0.0909,0.0769
 2025-06-28 19:26:49.891135,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,0.013300000000000034,0.3704,0.3571
 2025-06-28 23:31:15.196132,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,0.012299999999999978,0.3571,0.3448
 2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Auburn,0.012200000000000003,0.04,0.0278
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Jayden Schaper,0.0118,0.0217,0.0099
 2025-06-28 15:32:11.418473,BKFC 77: Tierney vs Christie - Macaulay Bygraves vs George Thorpe - To Win the Bout,George Thorpe,0.011600000000000055,0.5238,0.5122
-2025-06-28 14:33:00.751116,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,0.0116,0.2469,0.2353
 2025-06-28 21:29:59.744402,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Over 23.5,0.0116,0.4878,0.4762
 2025-06-28 18:43:14.728841,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Danny Christie,0.01150000000000001,0.3448,0.3333
 2025-06-28 17:31:50.289771,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Frankie Gavin,0.011499999999999955,0.6667,0.6552
 2025-06-28 22:34:34.042652,Boxing Lines - Raul Curiel vs Victor Ezequiel Rodriguez - To Win the Bout,Victor Ezequiel Rodriguez,0.011099999999999999,0.1111,0.1
-2025-06-28 15:32:09.743913,Conferences - Mountain West Conference Championship  - Mountain West Conference Championship Game Winner 2025 ,Fresno State,0.011099999999999999,0.1111,0.1
-2025-06-28 14:33:01.022942,Scores - 3rd Round Score - Jake Knapp - 3rd Round Score,Under 68.5,0.011099999999999999,0.4762,0.4651
 2025-06-28 16:39:30.295333,Boxing Lines - Michal Cieslak vs Jean Pascal - To Win the Bout,Michal Cieslak,0.011099999999999999,0.9,0.8889
 2025-06-28 16:39:30.351289,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.011099999999999999,0.7937,0.7826
+2025-06-28 15:32:09.743913,Conferences - Mountain West Conference Championship  - Mountain West Conference Championship Game Winner 2025 ,Fresno State,0.011099999999999999,0.1111,0.1
 2025-06-28 21:29:59.693282,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Over 8.5,0.01100000000000001,0.5348,0.5238
-2025-06-28 12:56:54.877705,Elite Boxing - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,0.01090000000000002,0.8571,0.8462
+2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,PSG & Erling Haaland,0.010700000000000001,0.0385,0.0278
+2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Federico Valverde (Real Madrid),0.010700000000000001,0.0385,0.0278
 2025-06-28 21:30:00.100304,Wide Receivers - NFL 2025-26 Receiving Yards - Rome Odunze Regular Season Total Receiving Yards 2025-26,Over 800.5,0.010699999999999932,0.5455,0.5348
 2025-06-28 15:32:11.434772,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,0.010599999999999998,0.4651,0.4545
-2025-06-28 21:29:59.904879,Tight Ends - NFL 2025-26 Receiving TD's - Brock Bowers Regular Season Total Receiving TD's 2025-26,Over 4.5,0.010099999999999998,0.5556,0.5455
-2025-06-28 12:56:55.176098,Round Match-Ups - 3rd Round Match Up - MW Lee v SW Kim - 3rd Round Match Up,Si Woo Kim,0.010099999999999998,0.5556,0.5455
 2025-06-28 17:31:50.298088,BKFC 77: Tierney vs Christie - Kris Trezise vs Paul O'Sullivan - To Win the Bout,Paul O'Sullivan,0.010099999999999998,0.3226,0.3125
 2025-06-28 18:43:14.708604,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,0.010099999999999998,0.4545,0.4444
+2025-06-28 21:29:59.904879,Tight Ends - NFL 2025-26 Receiving TD's - Brock Bowers Regular Season Total Receiving TD's 2025-26,Over 4.5,0.010099999999999998,0.5556,0.5455
 2025-06-28 15:32:11.418473,BKFC 77: Tierney vs Christie - Macaulay Bygraves vs George Thorpe - To Win the Bout,Macaulay Bygraves,-0.010099999999999998,0.5455,0.5556
 2025-06-28 16:39:30.392329,BKFC 77: Tierney vs Christie - Ricky Nelder vs Mario Soo - To Win the Bout,Mario Soo,-0.010099999999999998,0.4444,0.4545
 2025-06-28 15:32:11.580352,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Under 68.5,-0.010599999999999998,0.4545,0.4651
 2025-06-28 21:29:59.693282,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Under 8.5,-0.010699999999999932,0.5348,0.5455
+2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Bayern Munich & Jamal Musiala,-0.010700000000000001,0.0278,0.0385
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Vinicius Jr. (Real Madrid),-0.010700000000000001,0.0278,0.0385
 2025-06-28 23:31:15.175255,Elite Boxing - Jake Paul vs Julio Cesar Chavez Jr - To Win the Bout,Jake Paul,-0.01090000000000002,0.8462,0.8571
 2025-06-28 21:30:00.100304,Wide Receivers - NFL 2025-26 Receiving Yards - Rome Odunze Regular Season Total Receiving Yards 2025-26,Under 800.5,-0.01100000000000001,0.5238,0.5348
 2025-06-28 18:43:14.728841,BKFC 77: Tierney vs Christie - Danny Christie vs Connor Tierney - To Win the Bout,Connor Tierney,-0.011099999999999999,0.7222,0.7333
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Harry Kane (Bayern Munich),-0.011199999999999995,0.0476,0.0588
 2025-06-28 18:43:14.712657,BKFC 77: Tierney vs Christie - Jack Dugdale vs Frankie Gavin - To Win the Bout,Frankie Gavin,-0.011499999999999955,0.6552,0.6667
 2025-06-28 15:32:11.438820,BKFC 77: Tierney vs Christie - Tony Lafferty vs Toby Bindon - To Win the Bout,Toby Bindon,-0.0116,0.4762,0.4878
 2025-06-28 21:29:59.747720,Quarterbacks - NFL 2025-26 Passing TD's - Cameron Ward Regular Season Total Passing TD's,Under 18.5,-0.0116,0.4762,0.4878
 2025-06-28 21:29:59.904879,Tight Ends - NFL 2025-26 Receiving TD's - Brock Bowers Regular Season Total Receiving TD's 2025-26,Under 4.5,-0.011600000000000055,0.5122,0.5238
-2025-06-28 14:33:00.751116,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,-0.011900000000000022,0.8214,0.8333
+2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Jude Bellingham,-0.011699999999999999,0.0079,0.0196
 2025-06-28 21:29:59.754802,Quarterbacks - NFL 2025-26 Passing TD's - Drake Maye Regular Season Total Passing TD's,Under 19.5,-0.012199999999999989,0.5,0.5122
-2025-06-28 12:56:55.176098,Round Match-Ups - 3rd Round Match Up - MW Lee v SW Kim - 3rd Round Match Up,Min Woo Lee,-0.012199999999999989,0.4878,0.5
+2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Flamengo RJ,-0.012700000000000003,0.0196,0.0323
 2025-06-28 19:26:49.891135,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,-0.013599999999999945,0.6923,0.7059
+2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Man City & Erling Haaland,-0.013999999999999999,0.0769,0.0909
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kenan Yildiz (Juventus),-0.013999999999999999,0.0769,0.0909
+2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Jamal Musiala (Bayern Munich),-0.014399999999999996,0.0625,0.0769
 2025-06-28 18:43:14.708604,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Tom Stokes,-0.014800000000000035,0.6078,0.6226
 2025-06-28 23:31:15.196132,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,-0.01629999999999998,0.7059,0.7222
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Nicolai Von Dellingshausen,-0.0171,0.0025,0.0196
-2025-06-28 16:39:30.267342,Boxing Lines - Shakan Pitters vs Bradley Rea - To Win the Bout,Shakan Pitters,-0.017299999999999982,0.4082,0.4255
 2025-06-28 15:32:09.743913,Conferences - Mountain West Conference Championship  - Mountain West Conference Championship Game Winner 2025 ,Boise State,-0.017299999999999982,0.5744,0.5917
+2025-06-28 16:39:30.267342,Boxing Lines - Shakan Pitters vs Bradley Rea - To Win the Bout,Shakan Pitters,-0.017299999999999982,0.4082,0.4255
+2025-06-29 02:34:23.817066,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-28 21:29:59.744402,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Under 23.5,-0.017299999999999982,0.5744,0.5917
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Edoardo Molinari,-0.017499999999999998,0.0004,0.0179
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Maximilian Kieffer,-0.017599999999999998,0.002,0.0196
 2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Georgia,-0.0179,0.2174,0.2353
 2025-06-28 22:34:34.026386,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,-0.018699999999999994,0.241,0.2597
 2025-06-28 22:34:34.030461,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,-0.018799999999999983,0.3448,0.3636
-2025-06-28 14:33:01.014204,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Over 67.5,-0.01880000000000004,0.5556,0.5744
 2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-29 02:34:23.821278,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-28 18:43:14.720735,BKFC 77: Tierney vs Christie - Marley Churcher vs Anthony Holmes - To Win the Bout,Anthony Holmes,-0.018999999999999906,0.7143,0.7333
 2025-06-28 21:29:59.731141,Quarterbacks - NFL 2025-26 Passing TD's - Bo Nix Regular Season Total Passing TD's,Under 24.5,-0.01970000000000005,0.5455,0.5652
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Fabrizio Zanotti,-0.020000000000000004,0.0123,0.0323
 2025-06-28 18:43:14.724775,BKFC 77: Tierney vs Christie - Charles Wasserman vs Jamie Cox - To Win the Bout,Jamie Cox,-0.020500000000000074,0.8462,0.8667
 2025-06-28 16:39:30.396341,BKFC 77: Tierney vs Christie - Tom Stokes vs Ryan Aston - To Win the Bout,Ryan Aston,-0.020699999999999996,0.4444,0.4651
 2025-06-28 15:32:11.550088,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Under 67.5,-0.02079999999999993,0.5348,0.5556
-2025-06-28 14:33:01.000985,Scores - 3rd Round Score - Luke Clanton - 3rd Round Score,Over 68.5,-0.02079999999999993,0.5348,0.5556
 2025-06-28 15:32:11.430674,BKFC 77: Tierney vs Christie - Ricky Nelder vs Mario Soo - To Win the Bout,Mario Soo,-0.021699999999999997,0.4545,0.4762
 2025-06-28 23:31:15.256241,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.02180000000000004,0.6078,0.6296
-2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Under 925.5,-0.022600000000000064,0.5122,0.5348
+2025-06-28 21:30:00.052935,Wide Receivers - NFL 2025-26 Receiving Yards - Drake London Regular Season Total Receiving Yards 2025-26,Under 1075.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:30:00.080154,Wide Receivers - NFL 2025-26 Receiving Yards - Ladd McConkey Regular Season Total Receiving Yards 2025-26,Under 1025.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:29:59.761781,Quarterbacks - NFL 2025-26 Passing TD's - J.J. McCarthy Regular Season Total Passing TD's,Over 24.5,-0.022600000000000064,0.5122,0.5348
-2025-06-28 12:56:55.224110,Scores - 3rd Round Score - Collin Morikawa - 3rd Round Score,Over 67.5,-0.022600000000000064,0.5122,0.5348
-2025-06-28 21:30:00.052935,Wide Receivers - NFL 2025-26 Receiving Yards - Drake London Regular Season Total Receiving Yards 2025-26,Under 1075.5,-0.022600000000000064,0.5122,0.5348
-2025-06-28 14:33:00.957917,Rocket Classic - 2/3 Balls - 3rd Round 2-Balls - G. Woodland / M. Greyserman - 3rd Round 2-Balls,Gary Woodland,-0.022699999999999998,0.4651,0.4878
+2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Under 925.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:29:59.991474,Wide Receivers - NFL 2025-26 Receiving TD's - Nico Collins Regular Season Total Receiving TD's 2025-26,Under 6.5,-0.023800000000000043,0.5,0.5238
 2025-06-28 21:30:00.996347,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,-0.023800000000000043,0.8095,0.8333
-2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Under 19.5,-0.024399999999999977,0.4878,0.5122
 2025-06-28 15:32:11.562936,Scores - 3rd Round Score - Max Greyserman - 3rd Round Score,Under 68.5,-0.024399999999999977,0.4878,0.5122
 2025-06-28 15:32:11.567212,Scores - 3rd Round Score - Ben Griffin - 3rd Round Score,Under 67.5,-0.024399999999999977,0.4878,0.5122
+2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Under 19.5,-0.024399999999999977,0.4878,0.5122
 2025-06-28 18:43:14.704515,BKFC 77: Tierney vs Christie - Dawid Chylinski vs Jim Wallhead - To Win the Bout,Dawid Chylinski,-0.025499999999999967,0.4,0.4255
-2025-06-28 12:56:54.942505,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 13:38:09.617929,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 14:33:00.795597,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 15:32:11.344222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 16:39:30.307331,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 18:43:14.650514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 17:31:50.229827,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 19:26:49.931706,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-28 21:30:01.045163,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 17:31:50.229827,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 15:32:11.344222,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-28 22:34:34.079105,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 16:39:30.307331,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 19:26:49.931706,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
+2025-06-28 18:43:14.650514,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-28 15:32:11.571454,Scores - 3rd Round Score - Hideki Matsuyama - 3rd Round Score,Under 68.5,-0.026499999999999968,0.5652,0.5917
-2025-06-28 14:33:00.815861,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-28 20:33:50.654376,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 18:43:14.670908,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 17:31:50.250871,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 16:39:30.327314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 15:32:11.364593,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 13:38:09.638341,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 12:56:54.962524,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 20:33:50.654376,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-28 16:39:30.327314,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-28 17:31:50.250871,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Ivan Cantero,-0.0273,0.005,0.0323
 2025-06-28 17:31:50.383988,Scores - 3rd Round Score - Chris Kirk - 3rd Round Score,Over 68.5,-0.028900000000000037,0.5455,0.5744
 2025-06-28 17:31:50.379471,Scores - 3rd Round Score - Andrew Putnam - 3rd Round Score,Over 68.5,-0.02960000000000007,0.6,0.6296
@@ -172,7 +169,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-28 17:31:50.375024,Scores - 3rd Round Score - Michael Thorbjornsen - 3rd Round Score,Over 68.5,-0.03090000000000004,0.5917,0.6226
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Marco Penge,-0.031900000000000005,0.0004,0.0323
 2025-06-28 21:29:59.727825,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Under 28.5,-0.033299999999999996,0.5122,0.5455
+2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Michael Olise (Bayern Munich),-0.033300000000000024,0.1667,0.2
 2025-06-28 17:31:50.366158,Scores - 3rd Round Score - Aldrich Potgieter - 3rd Round Score,Over 68.5,-0.033399999999999985,0.5744,0.6078
+2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jamal Musiala (Bayern Munich),-0.03420000000000001,0.0769,0.1111
 2025-06-28 17:31:50.370613,Scores - 3rd Round Score - Mark Hubbard - 3rd Round Score,Over 68.5,-0.03479999999999994,0.5652,0.6
 2025-06-28 16:39:30.527614,Italian Open - Italian Open - Winner,Francesco Laporta,-0.0384,0.0385,0.0769
 2025-06-28 15:32:09.747976,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Alabama,-0.0388,0.1695,0.2083

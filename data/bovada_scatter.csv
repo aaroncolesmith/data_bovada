@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Jin Hee Im / Somi Lee,0.15389999999999998,0.3077,0.1538
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Sarah Schmelzel / Albane Valenzuela,0.1123,0.2299,0.1176
+2025-06-29 08:38:06.905785,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Lima,0.1071,0.25,0.1429
 2025-06-29 06:44:23.491131,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,0.10159999999999991,0.6364,0.5348
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Manon De Roey / Pauline Roussin-Bouchard,0.1,0.2,0.1
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Thomas Bjorn,0.09999999999999999,0.1667,0.0667
@@ -10,31 +11,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Brooke Matthews / Lauren Hartlage,0.07339999999999999,0.0833,0.0099
 2025-06-29 06:44:25.378410,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 68.5,0.06930000000000003,0.5238,0.4545
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Stewart Cink,0.06670000000000004,0.4,0.3333
+2025-06-29 08:38:06.901189,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,CD Cuenca,0.06620000000000001,0.125,0.0588
 2025-06-29 04:05:47.232828,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.06309999999999999,0.0909,0.0278
 2025-06-29 04:05:47.254402,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.05879999999999996,0.8462,0.7874
 2025-06-29 06:44:23.528816,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Under 19½,0.05689999999999995,0.5917,0.5348
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Sung Hyun Park / Ina Yoon,0.0555,0.0833,0.0278
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Padraig Harrington,0.047599999999999976,0.3333,0.2857
 2025-06-29 06:44:23.567703,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,0.04700000000000004,0.5348,0.4878
+2025-06-29 08:38:09.354076,Scores - Final Round Score - Sami Valimaki - Final Round Score,Under 70.5,0.04620000000000002,0.5917,0.5455
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Mark Hensby,0.04620000000000002,0.2,0.1538
+2025-06-29 08:38:09.375892,Scores - Final Round Score - Doug Ghim - Final Round Score,Under 70.5,0.04139999999999999,0.5652,0.5238
 2025-06-29 06:44:25.369611,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 68.5,0.03959999999999997,0.5744,0.5348
 2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,0.03420000000000001,0.1111,0.0769
 2025-06-29 04:05:47.232828,ROY - AL ROY 2025 - American League Rookie of the Year,Nick Kurtz (ATH),0.033299999999999996,0.1333,0.1
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Pedro Neto (Chelsea),0.032400000000000005,0.0476,0.0152
 2025-06-28 21:29:59.727825,Quarterbacks - NFL 2025-26 Passing TD's - Baker Mayfield Regular Season Total Passing TD's,Over 28.5,0.03179999999999994,0.5556,0.5238
-2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Alabama,0.0305,0.2,0.1695
-2025-06-29 06:44:25.209620,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),0.02960000000000007,0.6296,0.6
+2025-06-29 08:38:06.901189,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.030299999999999994,0.3636,0.3333
 2025-06-28 21:30:00.446414,Big 12 - Big 12 Regular Season Wins - Arizona,Under 5.5,0.02960000000000007,0.6296,0.6
-2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
+2025-06-29 06:44:25.209620,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),0.02960000000000007,0.6296,0.6
 2025-06-28 21:30:01.045163,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
 2025-06-28 22:34:34.079105,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.026600000000000013,0.4348,0.4082
-2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
-2025-06-28 20:33:50.654376,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-29 08:38:09.344390,Round Match-Ups - Final Round Match-Up - A. Potgieter vs M. Hubbard - Final Round Match-Up,Mark Hubbard,0.026499999999999968,0.5917,0.5652
 2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
+2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.025599999999999956,0.6552,0.6296
 2025-06-28 22:34:34.030461,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,0.0252,0.7222,0.697
 2025-06-28 21:30:00.996347,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,0.024399999999999977,0.2597,0.2353
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Phil Foden (Man City),0.024,0.0625,0.0385
+2025-06-29 08:38:06.901189,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,0.023899999999999998,0.0435,0.0196
 2025-06-28 21:29:59.731141,Quarterbacks - NFL 2025-26 Passing TD's - Bo Nix Regular Season Total Passing TD's,Over 24.5,0.023800000000000043,0.5238,0.5
 2025-06-28 21:29:59.761781,Quarterbacks - NFL 2025-26 Passing TD's - J.J. McCarthy Regular Season Total Passing TD's,Under 24.5,0.02079999999999993,0.5556,0.5348
 2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Over 925.5,0.02079999999999993,0.5556,0.5348
@@ -45,27 +49,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-28 21:29:59.991474,Wide Receivers - NFL 2025-26 Receiving TD's - Nico Collins Regular Season Total Receiving TD's 2025-26,Over 6.5,0.01970000000000005,0.5652,0.5455
 2025-06-28 23:31:15.256241,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,0.019699999999999995,0.4545,0.4348
 2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Manchester City,0.019000000000000017,0.2857,0.2667
-2025-06-29 06:44:25.282208,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-29 04:05:47.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 05:37:39.312087,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 04:51:57.488703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Over 19.5,0.01880000000000004,0.5744,0.5556
-2025-06-29 04:05:47.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-29 06:44:25.282208,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 02:34:23.817066,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-29 08:38:09.084386,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Over 19.5,0.01880000000000004,0.5744,0.5556
 2025-06-29 07:31:02.438547,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 05:37:39.316110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-28 21:29:59.747720,Quarterbacks - NFL 2025-26 Passing TD's - Cameron Ward Regular Season Total Passing TD's,Over 18.5,0.017299999999999982,0.5917,0.5744
-2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 02:34:23.821278,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 04:05:47.322658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 05:37:39.316110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-29 04:51:57.492751,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 07:31:02.442559,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 02:34:23.821278,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 08:38:09.088507,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 04:05:47.322658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-29 06:44:25.286281,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 07:31:02.442559,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-29 04:05:47.227327,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Andrew Abbott (CIN),0.0167,0.0217,0.005
 2025-06-28 22:34:34.026386,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,0.016599999999999948,0.8261,0.8095
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jeremy Doku (Man City),0.014899999999999997,0.0625,0.0476
 2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Phil Foden (Man City),0.013999999999999999,0.0909,0.0769
 2025-06-28 23:31:15.196132,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,0.012299999999999978,0.3571,0.3448
-2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Auburn,0.012200000000000003,0.04,0.0278
 2025-06-28 21:29:59.744402,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Over 23.5,0.0116,0.4878,0.4762
 2025-06-28 22:34:34.042652,Boxing Lines - Raul Curiel vs Victor Ezequiel Rodriguez - To Win the Bout,Victor Ezequiel Rodriguez,0.011099999999999999,0.1111,0.1
 2025-06-28 21:29:59.693282,Pittsburgh Steelers - Pittsburgh Steelers Regular Season Wins - Steelers Regular Season Wins,Over 8.5,0.01100000000000001,0.5348,0.5238
@@ -82,57 +87,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Harry Kane (Bayern Munich),-0.011199999999999995,0.0476,0.0588
 2025-06-28 21:29:59.747720,Quarterbacks - NFL 2025-26 Passing TD's - Cameron Ward Regular Season Total Passing TD's,Under 18.5,-0.0116,0.4762,0.4878
 2025-06-28 21:29:59.904879,Tight Ends - NFL 2025-26 Receiving TD's - Brock Bowers Regular Season Total Receiving TD's 2025-26,Under 4.5,-0.011600000000000055,0.5122,0.5238
-2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Lauren Coughlin / Nasa Hataoka,-0.011699999999999999,0.0079,0.0196
 2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Jude Bellingham,-0.011699999999999999,0.0079,0.0196
+2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Lauren Coughlin / Nasa Hataoka,-0.011699999999999999,0.0079,0.0196
 2025-06-28 21:29:59.754802,Quarterbacks - NFL 2025-26 Passing TD's - Drake Maye Regular Season Total Passing TD's,Under 19.5,-0.012199999999999989,0.5,0.5122
-2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Flamengo RJ,-0.012700000000000003,0.0196,0.0323
 2025-06-29 04:05:47.238166,ROY - NL ROY 2025 - National League Rookie of the Year,Ben Casparius (LAD),-0.012700000000000003,0.0196,0.0323
+2025-06-29 02:34:21.453069,Club World Cup - FIFA Club World Cup 2025 - Winner,Flamengo RJ,-0.012700000000000003,0.0196,0.0323
 2025-06-29 02:34:21.463623,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Man City & Erling Haaland,-0.013999999999999999,0.0769,0.0909
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kenan Yildiz (Juventus),-0.013999999999999999,0.0769,0.0909
 2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Jamal Musiala (Bayern Munich),-0.014399999999999996,0.0625,0.0769
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Steve Alker,-0.014900000000000004,0.0196,0.0345
 2025-06-28 23:31:15.196132,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Floyd Schofield,-0.01629999999999998,0.7059,0.7222
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Lucy Li / Andrea Lee,-0.017100000000000004,0.0152,0.0323
+2025-06-29 04:05:47.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 02:34:23.817066,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 04:51:57.488703,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 06:44:25.282208,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 04:05:47.318448,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 05:37:39.312087,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 07:31:02.438547,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
+2025-06-29 08:38:09.084386,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-28 21:29:59.744402,Quarterbacks - NFL 2025-26 Passing TD's - Caleb Williams Regular Season Total Passing TD's,Under 23.5,-0.017299999999999982,0.5744,0.5917
+2025-06-29 06:44:25.282208,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Scott Hend,-0.017800000000000003,0.0066,0.0244
-2025-06-28 20:33:49.135086,Conferences - SEC Conference Championship  - SEC Championship Game Winner 2025 ,Georgia,-0.0179,0.2174,0.2353
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Jenny Bae / Robyn Choi,-0.0179,0.0099,0.0278
 2025-06-28 22:34:34.026386,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Yolanda Guadalupe Vega Ochoa,-0.018699999999999994,0.241,0.2597
 2025-06-28 22:34:34.030461,Boxing Lines - Floyd Schofield vs Farmer Tevin - To Win the Bout,Farmer Tevin,-0.018799999999999983,0.3448,0.3636
+2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 07:31:02.442559,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 06:44:25.286281,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 05:37:39.316110,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 04:51:57.492751,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 04:05:47.322658,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 02:34:23.821278,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-28 23:31:15.236362,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-29 08:38:09.088507,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 04:05:47.232828,ROY - AL ROY 2025 - American League Rookie of the Year,Jac Caglianone (KC),-0.0189,0.0196,0.0385
 2025-06-28 21:29:59.731141,Quarterbacks - NFL 2025-26 Passing TD's - Bo Nix Regular Season Total Passing TD's,Under 24.5,-0.01970000000000005,0.5455,0.5652
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Ernie Els,-0.019899999999999998,0.0079,0.0278
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Arpichaya Yubol / Pornanong Phatlum,-0.020000000000000004,0.0123,0.0323
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Freddie Jacobson,-0.021199999999999997,0.0066,0.0278
+2025-06-29 08:38:09.344390,Round Match-Ups - Final Round Match-Up - A. Potgieter vs M. Hubbard - Final Round Match-Up,Aldrich Potgieter,-0.021699999999999997,0.4545,0.4762
 2025-06-28 23:31:15.256241,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.02180000000000004,0.6078,0.6296
 2025-06-28 21:30:00.080154,Wide Receivers - NFL 2025-26 Receiving Yards - Ladd McConkey Regular Season Total Receiving Yards 2025-26,Under 1025.5,-0.022600000000000064,0.5122,0.5348
-2025-06-28 21:29:59.761781,Quarterbacks - NFL 2025-26 Passing TD's - J.J. McCarthy Regular Season Total Passing TD's,Over 24.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:30:00.086929,Wide Receivers - NFL 2025-26 Receiving Yards - Marvin Harrison Jr. Regular Season Total Receiving Yards 2025-26,Under 925.5,-0.022600000000000064,0.5122,0.5348
+2025-06-28 21:29:59.761781,Quarterbacks - NFL 2025-26 Passing TD's - J.J. McCarthy Regular Season Total Passing TD's,Over 24.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:30:00.052935,Wide Receivers - NFL 2025-26 Receiving Yards - Drake London Regular Season Total Receiving Yards 2025-26,Under 1075.5,-0.022600000000000064,0.5122,0.5348
 2025-06-28 21:29:59.991474,Wide Receivers - NFL 2025-26 Receiving TD's - Nico Collins Regular Season Total Receiving TD's 2025-26,Under 6.5,-0.023800000000000043,0.5,0.5238
 2025-06-28 21:30:00.996347,Boxing Lines - Holly Holm vs Yolanda Guadalupe Vega Ochoa - To Win the Bout,Holly Holm,-0.023800000000000043,0.8095,0.8333
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Chanettee Wannasaen / Jaravee Boonchant,-0.024299999999999995,0.0345,0.0588
 2025-06-28 21:29:59.765227,Quarterbacks - NFL 2025-26 Passing TD's - Jalen Hurts Regular Season Total Passing TD's,Under 19.5,-0.024399999999999977,0.4878,0.5122
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Ayaka Furue / Narin An,-0.024800000000000003,0.0278,0.0526
-2025-06-28 20:33:50.658403,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-28 21:30:01.045163,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
 2025-06-28 22:34:34.079105,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.025599999999999956,0.6296,0.6552
-2025-06-28 20:33:50.654376,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
-2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 21:30:01.041167,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
+2025-06-28 23:31:15.232241,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-28 22:34:34.075117,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.026600000000000013,0.4082,0.4348
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Gemma Dryburgh / Cassie Porter,-0.028199999999999996,0.0385,0.0667
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Rio Takeda / Miyu Yamashita,-0.0282,0.0244,0.0526
@@ -143,13 +148,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-29 02:34:21.460178,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Michael Olise (Bayern Munich),-0.033300000000000024,0.1667,0.2
 2025-06-29 02:34:21.456208,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jamal Musiala (Bayern Munich),-0.03420000000000001,0.0769,0.1111
 2025-06-29 06:44:23.567703,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.03959999999999997,0.5348,0.5744
+2025-06-29 08:38:06.901189,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,-0.04099999999999998,0.2667,0.3077
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,Miguel Angel Jimenez,-0.04229999999999999,0.0244,0.0667
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Yan Liu / Yahui Zhang,-0.0427,0.0099,0.0526
 2025-06-29 05:37:39.399058,US Senior Open Championship - US Senior Open - US Senior Open,YE Yang,-0.044700000000000004,0.0079,0.0526
+2025-06-29 08:38:09.375892,Scores - Final Round Score - Doug Ghim - Final Round Score,Over 70.5,-0.045499999999999985,0.5,0.5455
 2025-06-29 06:44:25.369611,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,-0.04700000000000004,0.4878,0.5348
+2025-06-29 08:38:09.354076,Scores - Final Round Score - Sami Valimaki - Final Round Score,Over 70.5,-0.04760000000000003,0.4762,0.5238
 2025-06-29 06:44:23.528816,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 19½,-0.05860000000000004,0.4762,0.5348
 2025-06-29 06:44:25.378410,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 68.5,-0.07710000000000006,0.5455,0.6226
 2025-06-28 21:30:00.011594,Wide Receivers - NFL 2025-26 Receiving TD's - Tyreek Hill Regular Season Total Receiving TD's 2025-26,Over 7.5,-0.07940000000000003,0.4444,0.5238
+2025-06-29 08:38:06.901189,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.08549999999999996,0.2222,0.3077
 2025-06-29 06:44:25.404358,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Under 68.5,-0.08900000000000002,0.4762,0.5652
+2025-06-29 08:38:06.905785,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,-0.09089999999999998,0.8182,0.9091
 2025-06-29 06:44:23.491131,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,-0.10000000000000003,0.4348,0.5348
 2025-06-29 05:37:39.447960,Dow Championship - Dow Championship - Winner,Jennifer Kupcho / Leona Maguire,-0.22690000000000002,0.0588,0.2857

@@ -1,55 +1,76 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-30 02:28:42.714954,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Kade Anderson,0.10109999999999997,0.5455,0.4444
-2025-06-29 15:33:10.947929,Scores - Final Round Score - Kevin Roy - Final Round Score,Under 71.5,0.030299999999999994,0.6667,0.6364
-2025-06-29 14:33:36.306842,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Under 68.5,0.024399999999999977,0.5122,0.4878
-2025-06-29 14:33:36.293828,Scores - Final Round Score - Nicolas Echavarria - Final Round Score,Under 69.5,0.024399999999999977,0.5122,0.4878
-2025-06-29 14:33:36.333090,Scores - Final Round Score - Thriston Lawrence - Final Round Score,Under 69.5,0.021699999999999997,0.4762,0.4545
-2025-06-29 14:33:36.328742,Scores - Final Round Score - Michael Thorbjornsen - Final Round Score,Under 69.5,0.01880000000000004,0.5744,0.5556
+2025-06-30 04:03:53.475409,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.08900000000000002,0.5652,0.4762
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.06659999999999999,0.3333,0.2667
+2025-06-30 04:03:53.286756,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.05679999999999999,0.1818,0.125
+2025-06-30 04:03:52.905364,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,0.05310000000000001,0.2857,0.2326
+2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.04469999999999996,0.6364,0.5917
+2025-06-30 04:03:55.172487,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.04290000000000005,0.6429,0.6
+2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.041800000000000004,0.2857,0.2439
+2025-06-30 04:03:52.905364,Club World Cup - FIFA Club World Cup 2025 - Winner,Bayern Munich,0.028799999999999992,0.1538,0.125
+2025-06-30 04:03:53.306384,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),0.027900000000000008,0.0714,0.0435
+2025-06-30 04:03:53.450955,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,0.023800000000000043,0.5238,0.5
+2025-06-30 04:03:53.412639,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,0.023799999999999988,0.5,0.4762
+2025-06-30 04:03:53.408308,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 11½,0.022600000000000064,0.5348,0.5122
+2025-06-30 04:03:53.011065,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Flamengo,0.022199999999999998,0.2222,0.2
+2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.02100000000000002,0.3846,0.3636
+2025-06-30 04:03:53.403682,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 25½,0.01880000000000004,0.5744,0.5556
 2025-06-29 16:39:37.999936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 15:33:10.852667,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 17:32:43.371381,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 20:33:32.617464,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 14:33:36.110082,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 14:33:35.946028,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.018100000000000005,0.5833,0.5652
-2025-06-29 16:39:38.004093,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 14:33:36.298199,Scores - Final Round Score - Doug Ghim - Final Round Score,Under 70.5,0.017299999999999982,0.5917,0.5744
-2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 17:32:43.375396,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,CD Cuenca,0.0179,0.1429,0.125
 2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 14:33:36.114174,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 15:33:10.856649,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 14:33:35.935953,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.015100000000000002,0.8333,0.8182
-2025-06-29 14:33:35.940757,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,0.014800000000000008,0.1481,0.1333
-2025-06-29 14:33:36.234898,Round Match-Ups - Final Round Match-Up - C. Champ vs T. Lawrence - Final Round Match-Up,Cameron Champ,0.012199999999999989,0.5,0.4878
-2025-06-29 15:33:10.832698,Boxing Lines - Dina Thorslund vs Shurretta Metcalf - To Win the Bout,Dina Thorslund,0.011099999999999999,0.9,0.8889
-2025-06-29 15:33:10.844718,Boxing Lines - Savannah Marshall vs Shadasia Green - To Win the Bout,Savannah Marshall,0.01090000000000002,0.8571,0.8462
-2025-06-29 14:33:36.234898,Round Match-Ups - Final Round Match-Up - C. Champ vs T. Lawrence - Final Round Match-Up,Thriston Lawrence,-0.010099999999999998,0.5455,0.5556
+2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-30 04:03:53.442531,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 33½,0.017299999999999982,0.5917,0.5744
+2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 16:39:38.004093,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 17:32:43.375396,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs Phoenix Mercury,0.016700000000000007,0.1,0.0833
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,0.015300000000000001,0.0588,0.0435
+2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.013899999999999996,0.125,0.1111
+2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.013899999999999996,0.125,0.1111
+2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Minnesota Lynx,0.0131,0.0476,0.0345
+2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat New York Liberty,0.0131,0.0476,0.0345
+2025-06-30 04:03:53.488451,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.012400000000000078,0.8948,0.8824
+2025-06-30 04:03:53.438261,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,0.012199999999999989,0.5122,0.5
+2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Phoenix Mercury,0.011099999999999999,0.0667,0.0556
+2025-06-30 04:03:53.497104,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,0.010699999999999932,0.5455,0.5348
 2025-06-29 22:34:44.396653,Rookie of the Year - Rookie Of The Year 2025-26 - ROTY,Cooper Flagg (DAL),-0.010099999999999998,0.6774,0.6875
-2025-06-29 14:33:36.298199,Scores - Final Round Score - Doug Ghim - Final Round Score,Over 70.5,-0.0116,0.4762,0.4878
-2025-06-29 15:33:10.844718,Boxing Lines - Savannah Marshall vs Shadasia Green - To Win the Bout,Shadasia Green,-0.011700000000000016,0.2105,0.2222
-2025-06-29 14:33:36.333090,Scores - Final Round Score - Thriston Lawrence - Final Round Score,Over 69.5,-0.016100000000000003,0.5917,0.6078
+2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,-0.010699999999999932,0.5348,0.5455
+2025-06-30 04:03:53.408308,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 11½,-0.010699999999999932,0.5348,0.5455
+2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat New York Liberty,-0.010899999999999993,0.1429,0.1538
+2025-06-30 04:03:53.497104,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.01100000000000001,0.5238,0.5348
+2025-06-30 04:03:52.905364,Club World Cup - FIFA Club World Cup 2025 - Winner,Palmeiras SP,-0.011199999999999995,0.0476,0.0588
+2025-06-30 04:03:53.488451,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.011300000000000004,0.1739,0.1852
+2025-06-30 04:03:53.442531,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.0116,0.4762,0.4878
+2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.011899999999999966,0.339,0.3509
+2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.013899999999999996,0.129,0.1429
+2025-06-30 04:03:53.466145,To Make the Playoffs - Chicago Sky - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,-0.014099999999999998,0.0244,0.0385
+2025-06-30 04:03:53.310726,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.015400000000000025,0.2703,0.2857
+2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.015699999999999936,0.8667,0.8824
+2025-06-30 04:03:53.286756,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.017299999999999982,0.4082,0.4255
+2025-06-30 04:03:53.412639,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.017299999999999982,0.5744,0.5917
+2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 16:39:37.999936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 17:32:43.371381,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 14:33:36.110082,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 20:33:32.617464,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 15:33:10.852667,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 14:33:35.940757,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.018399999999999972,0.6875,0.7059
-2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 15:33:10.856649,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 14:33:36.114174,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-29 20:33:32.617464,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
+2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs New York Liberty,-0.017299999999999982,0.2857,0.303
 2025-06-29 17:32:43.375396,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 14:33:36.306842,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 68.5,-0.01880000000000004,0.5556,0.5744
+2025-06-30 04:03:53.438261,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.01880000000000004,0.5556,0.5744
+2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 16:39:38.004093,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 14:33:36.293828,Scores - Final Round Score - Nicolas Echavarria - Final Round Score,Over 69.5,-0.01880000000000004,0.5556,0.5744
-2025-06-29 14:33:35.946028,NL East - NL East 2025 - NL East Winner,New York Mets,-0.023799999999999988,0.4762,0.5
-2025-06-29 14:33:36.328742,Scores - Final Round Score - Michael Thorbjornsen - Final Round Score,Over 69.5,-0.024399999999999977,0.4878,0.5122
-2025-06-29 15:33:10.947929,Scores - Final Round Score - Kevin Roy - Final Round Score,Over 71.5,-0.025499999999999967,0.4,0.4255
-2025-06-29 14:33:36.071159,"MLB Daily Specials - Sunday, June 29 - Daily Specials",Each Team to Score 1+ Run,-0.034499999999999975,0.3226,0.3571
+2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-30 04:03:53.450955,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 26½,-0.01970000000000005,0.5455,0.5652
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.022199999999999998,0.2,0.2222
+2025-06-30 04:03:55.172487,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.022199999999999998,0.2,0.2222
+2025-06-30 04:03:55.172487,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),-0.02310000000000001,0.0769,0.1
+2025-06-30 04:03:53.403682,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Under 25½,-0.024399999999999977,0.4878,0.5122
+2025-06-30 04:03:53.306384,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.027800000000000005,0.0833,0.1111
+2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,-0.03330000000000001,0.0667,0.1
 2025-06-30 02:28:42.714954,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Ethan Holliday,-0.04849999999999999,0.5348,0.5833
+2025-06-30 04:03:53.475409,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.0917,0.5,0.5917

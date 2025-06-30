@@ -15,18 +15,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-30 04:03:53.011065,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Flamengo,0.022199999999999998,0.2222,0.2
 2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.02100000000000002,0.3846,0.3636
 2025-06-30 04:03:53.403682,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 25½,0.01880000000000004,0.5744,0.5556
-2025-06-29 16:39:37.999936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 17:32:43.371381,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
-2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
+2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-29 20:33:32.617464,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.01880000000000004,0.6552,0.6364
 2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,CD Cuenca,0.0179,0.1429,0.125
-2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-30 04:03:53.442531,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 33½,0.017299999999999982,0.5917,0.5744
-2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
-2025-06-29 16:39:38.004093,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-29 17:32:43.375396,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
+2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.017299999999999982,0.4255,0.4082
 2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs Phoenix Mercury,0.016700000000000007,0.1,0.0833
 2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,0.015300000000000001,0.0588,0.0435
 2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.013899999999999996,0.125,0.1111
@@ -38,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Phoenix Mercury,0.011099999999999999,0.0667,0.0556
 2025-06-30 04:03:53.497104,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,0.010699999999999932,0.5455,0.5348
 2025-06-29 22:34:44.396653,Rookie of the Year - Rookie Of The Year 2025-26 - ROTY,Cooper Flagg (DAL),-0.010099999999999998,0.6774,0.6875
-2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,-0.010699999999999932,0.5348,0.5455
 2025-06-30 04:03:53.408308,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 11½,-0.010699999999999932,0.5348,0.5455
+2025-06-30 04:03:53.298296,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,-0.010699999999999932,0.5348,0.5455
 2025-06-30 04:03:53.294709,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat New York Liberty,-0.010899999999999993,0.1429,0.1538
 2025-06-30 04:03:53.497104,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.01100000000000001,0.5238,0.5348
 2025-06-30 04:03:52.905364,Club World Cup - FIFA Club World Cup 2025 - Winner,Palmeiras SP,-0.011199999999999995,0.0476,0.0588
@@ -51,20 +49,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Universidad Católica del Ecuador,-0.014099999999999998,0.0244,0.0385
 2025-06-30 04:03:53.310726,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.015400000000000025,0.2703,0.2857
 2025-06-30 04:03:53.301616,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.015699999999999936,0.8667,0.8824
-2025-06-30 04:03:53.286756,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.017299999999999982,0.4082,0.4255
-2025-06-30 04:03:53.412639,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.017299999999999982,0.5744,0.5917
 2025-06-29 18:41:16.903639,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 16:39:37.999936,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 17:32:43.371381,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
-2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-29 20:33:32.617464,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
+2025-06-29 19:26:57.024642,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.017299999999999982,0.4082,0.4255
 2025-06-30 04:03:53.290767,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs New York Liberty,-0.017299999999999982,0.2857,0.303
+2025-06-30 04:03:53.412639,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.017299999999999982,0.5744,0.5917
+2025-06-30 04:03:53.286756,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.017299999999999982,0.4082,0.4255
 2025-06-29 17:32:43.375396,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-30 04:03:53.438261,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.01880000000000004,0.5556,0.5744
-2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
-2025-06-29 16:39:38.004093,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 20:33:32.621509,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
 2025-06-29 19:26:57.028612,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-29 18:41:16.907608,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.01880000000000004,0.6364,0.6552
+2025-06-30 04:03:53.438261,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.01880000000000004,0.5556,0.5744
 2025-06-30 04:03:53.450955,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 26½,-0.01970000000000005,0.5455,0.5652
 2025-06-30 04:03:53.020440,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.022199999999999998,0.2,0.2222
 2025-06-30 04:03:55.172487,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.022199999999999998,0.2,0.2222

@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 08:44:22.786695,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Palmeiras SP,0.0889,0.2,0.1111
 2025-07-01 07:34:14.698538,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,0.0889,0.2,0.1111
 2025-07-01 07:34:14.698538,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,0.08329999999999999,0.3333,0.25
-2025-07-01 08:44:22.796691,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group D,0.07930000000000001,0.2222,0.1429
 2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Angel Di Maria (Benfica),0.07930000000000001,0.2222,0.1429
+2025-07-01 08:44:22.796691,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group D,0.07930000000000001,0.2222,0.1429
 2025-07-01 08:44:22.796691,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group F,0.0774,0.125,0.0476
 2025-07-01 07:34:14.698538,Club World Cup - FIFA Club World Cup 2025 - Winner,Al Hilal,0.071,0.0833,0.0123
 2025-07-01 08:44:22.777553,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Fluminense & PSG,0.0703,0.0769,0.0066
@@ -46,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 13:46:29.048153,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Los Angeles Dodgers,0.027700000000000002,0.4444,0.4167
 2025-07-01 14:35:01.833207,Tournament Match-Ups - Tournament Match-Ups - C. Gotterup vs M. Thorbjornsen - Tournament Match-Ups,Michael Thorbjornsen,0.026499999999999968,0.5917,0.5652
 2025-07-01 08:44:25.045639,International Series Morocco - International Series Morocco - Winner,Jazz Janewattananond,0.024600000000000004,0.0345,0.0099
+2025-07-01 16:43:19.354429,International Series Morocco - International Series Morocco - Winner,John Catlin,0.024299999999999995,0.0588,0.0345
 2025-07-01 07:34:14.833569,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,0.0242,0.0909,0.0667
 2025-07-01 06:47:27.152199,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,0.023900000000000005,0.1429,0.119
 2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Vitinha (PSG),0.023799999999999988,0.1667,0.1429
@@ -69,21 +70,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 13:46:29.009263,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,0.018400000000000027,0.3125,0.2941
 2025-07-01 13:46:29.043179,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,0.01820000000000002,0.2,0.1818
 2025-07-01 06:47:28.653878,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),0.018099999999999998,0.0769,0.0588
+2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Michael Olise (Bayern Munich),0.0179,0.1429,0.125
 2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Khvicha Kvaratskhelia (PSG),0.0179,0.1429,0.125
 2025-07-01 08:44:22.796691,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group C,0.0179,0.1429,0.125
-2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Michael Olise (Bayern Munich),0.0179,0.1429,0.125
+2025-07-01 16:43:19.298246,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-01 15:35:46.132996,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-01 14:35:01.972695,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-01 13:46:29.423520,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-01 06:47:27.147461,AFC West - AFC West 2025-26 - AFC West Winner,Los Angeles Chargers,0.0174,0.25,0.2326
 2025-07-01 15:35:44.578945,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Under 8.5,0.017299999999999982,0.5917,0.5744
 2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Pedro Neto (Chelsea),0.017099999999999997,0.0294,0.0123
-2025-07-01 13:02:33.485524,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-01 15:35:46.154057,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-01 16:43:19.354429,International Series Morocco - International Series Morocco - Winner,Miguel Tabuena,0.0168,0.0385,0.0217
+2025-07-01 16:43:19.323001,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-01 14:35:01.996614,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-01 15:35:46.154057,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-01 13:02:33.485524,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-01 13:46:29.445952,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-01 13:02:33.489802,Cut Lines - Keith Mitchell - Make Cut / Miss Cut - Keith Mitchell,Miss,0.016699999999999993,0.4167,0.4
 2025-07-01 13:02:33.468244,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Miss,0.016699999999999993,0.4167,0.4
-2025-07-01 13:46:29.445952,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-01 14:34:59.508086,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Total Hot Dogs Eaten by Miki Sudo,Over 44.5,0.016699999999999937,0.6,0.5833
 2025-07-01 06:47:28.627493,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.01660000000000006,0.9333,0.9167
 2025-07-01 06:47:27.161687,NFC South - NFC South 2025-26 - NFC South Winner,Carolina Panthers,0.016600000000000004,0.1905,0.1739
@@ -99,30 +103,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 08:44:22.793572,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Real Madrid & Harry Kane,0.014099999999999998,0.0385,0.0244
 2025-07-01 07:34:14.698538,Club World Cup - FIFA Club World Cup 2025 - Winner,Juventus,0.014099999999999998,0.0385,0.0244
 2025-07-01 08:44:22.796691,Club World Cup - FIFA Club World Cup 2025 - Winners Group,Group A,0.014099999999999994,0.0667,0.0526
+2025-07-01 08:44:22.783676,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,CF Monterrey,0.013999999999999999,0.0909,0.0769
 2025-07-01 07:34:14.702158,Club World Cup - FIFA Club World Cup 2025 - Golden Ball,Jude Bellingham (Real Madrid),0.013999999999999999,0.0909,0.0769
 2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kenan Yildiz (Juventus),0.013999999999999999,0.0909,0.0769
-2025-07-01 08:44:22.783676,Club World Cup - FIFA Club World Cup 2025 - To Reach Semi-Final,CF Monterrey,0.013999999999999999,0.0909,0.0769
 2025-07-01 06:47:28.653878,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),0.013299999999999979,0.6429,0.6296
 2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),0.0131,0.0476,0.0345
 2025-07-01 06:47:27.118923,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Minnesota Vikings,0.0131,0.0476,0.0345
-2025-07-01 04:51:40.648159,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,New York Knicks,0.0131,0.2353,0.2222
 2025-07-01 10:40:56.452895,Boxing Lines - Jack Catterall vs Harlem Eubank - To Win the Bout,Jack Catterall,0.0131,0.7778,0.7647
+2025-07-01 04:51:40.648159,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,New York Knicks,0.0131,0.2353,0.2222
 2025-07-01 07:34:16.820075,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,0.012899999999999912,0.8462,0.8333
 2025-07-01 06:47:27.142686,AFC South - AFC South 2025-26 - AFC South Winner,Jacksonville Jaguars,0.011899999999999994,0.25,0.2381
 2025-07-01 08:44:22.777553,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Fluminense & Juventus,0.0116,0.0149,0.0033
 2025-07-01 10:40:56.477370,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.011499999999999955,0.6667,0.6552
-2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jude Bellingham (Real Madrid),0.011199999999999995,0.0588,0.0476
-2025-07-01 04:51:40.652845,Western Conference - Western Conference 2025-26 - Conference Winner,Dallas Mavericks,0.011199999999999995,0.0588,0.0476
 2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Pedro Neto (Chelsea),0.011199999999999995,0.0588,0.0476
+2025-07-01 04:51:40.652845,Western Conference - Western Conference 2025-26 - Conference Winner,Dallas Mavericks,0.011199999999999995,0.0588,0.0476
+2025-07-01 08:44:22.774367,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jude Bellingham (Real Madrid),0.011199999999999995,0.0588,0.0476
 2025-07-01 15:35:44.039323,Central Division - Central Division 2025-26 - Division Winner,Milwaukee Bucks,0.011099999999999999,0.1111,0.1
 2025-07-01 08:44:22.799794,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,South America,0.011099999999999999,0.1111,0.1
 2025-07-01 08:44:22.777553,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Borussia Dortmund & Chelsea,0.010700000000000001,0.0385,0.0278
-2025-07-01 04:08:49.287320,Southeast Division - Southeast Division 2025-26 - Division Winner,Atlanta Hawks,0.010699999999999987,0.3333,0.3226
 2025-07-01 13:02:33.381311,Cut Lines - Ben Griffin - Make Cut / Miss Cut - Ben Griffin,Make,0.010500000000000065,0.8,0.7895
 2025-07-01 13:02:31.299969,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Detroit Pistons,0.0102,0.0769,0.0667
-2025-07-01 04:08:49.247762,NBA Championship - NBA Championship 2025-26 - State to Win,Florida,0.0102,0.0769,0.0667
-2025-07-01 13:46:29.043179,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Toronto Blue Jays,0.0102,0.0769,0.0667
 2025-07-01 08:44:22.777553,Club World Cup - FIFA Club World Cup 2025 - Name The Finalists,Palmeiras & PSG,0.0102,0.0769,0.0667
+2025-07-01 13:46:29.043179,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Toronto Blue Jays,0.0102,0.0769,0.0667
 2025-07-01 06:47:27.161687,NFC South - NFC South 2025-26 - NFC South Winner,Tampa Bay Buccaneers,0.010099999999999998,0.5556,0.5455
 2025-07-01 13:46:29.196719,Boxing Lines - Albert Batyrgaziev vs James Dickens - To Win the Bout,James Dickens,-0.010899999999999993,0.1429,0.1538
 2025-07-01 06:47:27.142686,AFC South - AFC South 2025-26 - AFC South Winner,Houston Texans,-0.01100000000000001,0.5238,0.5348
@@ -130,6 +132,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 13:46:29.209257,Boxing Lines - Patric Brown vs Lewis Oakford - To Win the Bout,Lewis Oakford,-0.011099999999999999,0.1,0.1111
 2025-07-01 15:35:44.578945,Seattle Seahawks - Seattle Seahawks Regular Season Wins - Seahawks Regular Season Wins,Over 8.5,-0.0116,0.4762,0.4878
 2025-07-01 08:44:25.045639,International Series Morocco - International Series Morocco - Winner,Sampson Zheng,-0.011699999999999999,0.0079,0.0196
+2025-07-01 16:43:19.191372,Tournament Match-Ups - Tournament Match-Ups - M. Hubbard vs R. Fowler - Tournament Match-Ups,Rickie Fowler,-0.012199999999999989,0.5,0.5122
 2025-07-01 13:46:29.043179,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.012200000000000003,0.0278,0.04
 2025-07-01 15:35:44.039323,Central Division - Central Division 2025-26 - Division Winner,Cleveland Cavaliers,-0.012899999999999912,0.8333,0.8462
 2025-07-01 08:44:24.981488,Boxing Lines - Albert Batyrgaziev vs James Dickens - To Win the Bout,James Dickens,-0.012899999999999995,0.1538,0.1667
@@ -138,24 +141,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 13:02:31.284715,NBA Championship - NBA Championship 2025-26 - Champion,San Antonio Spurs,-0.014099999999999998,0.0244,0.0385
 2025-07-01 06:47:27.123759,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Baltimore Ravens,-0.014200000000000018,0.2105,0.2247
 2025-07-01 13:46:29.048153,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,San Francisco Giants,-0.014399999999999996,0.0625,0.0769
-2025-07-01 07:34:16.923240,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Carlos Estevez (PHI),-0.014899999999999997,0.0476,0.0625
-2025-07-01 07:34:16.923240,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Felix Bautista (BAL),-0.014899999999999997,0.0476,0.0625
 2025-07-01 07:34:16.923240,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Mason Miller (ATH),-0.014899999999999997,0.0476,0.0625
+2025-07-01 07:34:16.923240,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Felix Bautista (BAL),-0.014899999999999997,0.0476,0.0625
+2025-07-01 07:34:16.923240,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Carlos Estevez (PHI),-0.014899999999999997,0.0476,0.0625
 2025-07-01 04:51:40.652845,Western Conference - Western Conference 2025-26 - Conference Winner,Oklahoma City Thunder,-0.015400000000000025,0.3846,0.4
 2025-07-01 06:47:27.128552,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Detroit Lions,-0.01570000000000002,0.1538,0.1695
 2025-07-01 13:46:29.423520,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-01 14:35:01.972695,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-01 15:35:46.132996,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-01 16:43:19.298246,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-01 13:02:31.284715,NBA Championship - NBA Championship 2025-26 - Champion,Cleveland Cavaliers,-0.016700000000000007,0.0833,0.1
 2025-07-01 08:44:25.045639,International Series Morocco - International Series Morocco - Winner,Jaco Ahlers,-0.017100000000000004,0.0152,0.0323
 2025-07-01 10:40:56.452895,Boxing Lines - Jack Catterall vs Harlem Eubank - To Win the Bout,Harlem Eubank,-0.017299999999999982,0.2857,0.303
 2025-07-01 06:47:27.152199,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,-0.017299999999999982,0.2857,0.303
-2025-07-01 13:02:33.468244,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-01 14:35:01.996614,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-01 16:43:19.323001,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-01 15:35:46.154057,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-01 13:02:33.489802,Cut Lines - Keith Mitchell - Make Cut / Miss Cut - Keith Mitchell,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-01 13:02:33.468244,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-01 13:02:33.485524,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-01 13:46:29.445952,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-01 14:35:01.996614,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-01 13:02:33.489802,Cut Lines - Keith Mitchell - Make Cut / Miss Cut - Keith Mitchell,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-01 08:44:24.985468,Boxing Lines - Jack Catterall vs Harlem Eubank - To Win the Bout,Jack Catterall,-0.017899999999999916,0.7647,0.7826
 2025-07-01 08:44:22.799794,Club World Cup - FIFA Club World Cup 2025 - Winning Continent,Europe,-0.018100000000000005,0.9231,0.9412
 2025-07-01 07:34:14.833569,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.01820000000000002,0.1818,0.2
@@ -177,7 +182,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-01 08:44:25.045639,International Series Morocco - International Series Morocco - Winner,Steve Lewton,-0.022799999999999997,0.005,0.0278
 2025-07-01 14:34:59.508086,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Total Hot Dogs Eaten by Miki Sudo,Under 44.5,-0.023799999999999988,0.4762,0.5
 2025-07-01 14:35:01.833207,Tournament Match-Ups - Tournament Match-Ups - C. Gotterup vs M. Thorbjornsen - Tournament Match-Ups,Chris Gotterup,-0.023799999999999988,0.4762,0.5
-2025-07-01 04:08:49.247762,NBA Championship - NBA Championship 2025-26 - State to Win,Field,-0.024600000000000066,0.6364,0.661
 2025-07-01 08:44:22.780752,Club World Cup - FIFA Club World Cup 2025 - To Reach Quarter-Final,CF Monterrey,-0.02560000000000001,0.3077,0.3333
 2025-07-01 13:02:33.454944,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Make,-0.025600000000000067,0.6667,0.6923
 2025-07-01 08:44:25.045639,International Series Morocco - International Series Morocco - Winner,Phachara Khongwatmai,-0.0262,0.0123,0.0385

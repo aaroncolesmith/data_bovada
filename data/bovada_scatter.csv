@@ -17,9 +17,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 07:32:52.065439,UEFA European Championship Women - Group A - Outright,Iceland (W),0.0655,0.1905,0.125
 2025-07-02 08:44:07.670816,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),0.062,0.0769,0.0149
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: PSG, 2nd: Fluminense",0.0617,0.0667,0.005
-2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Real Madrid, 2nd: Fluminense",0.060099999999999994,0.0667,0.0066
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Real Madrid, 2nd: Al Hilal",0.060099999999999994,0.0667,0.0066
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: PSG, 2nd: Palmeiras",0.060099999999999994,0.0667,0.0066
+2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Real Madrid, 2nd: Fluminense",0.060099999999999994,0.0667,0.0066
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Chelsea, 2nd: Real Madrid",0.05879999999999999,0.0667,0.0079
 2025-07-02 02:22:58.598426,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Total Hot Dogs Eaten by Patrick Bertoletti,Over 50.5,0.05740000000000001,0.6226,0.5652
 2025-07-02 04:00:06.568324,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 29½,0.05559999999999998,0.5556,0.5
@@ -35,8 +35,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Bayern Munich, 2nd: Al Hilal",0.044800000000000006,0.0476,0.0028
 2025-07-02 10:40:19.367537,James Bond Specials - Year Of Next James Bond - Next Bond Release,2027,0.044399999999999995,0.4444,0.4
 2025-07-02 08:44:07.673972,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Borussia Dortmund,0.0417,0.125,0.0833
-2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Bayern Munich, 2nd: Palmeiras",0.0378,0.0435,0.0057
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Bayern Munich, 2nd: Fluminense",0.0378,0.0435,0.0057
+2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Bayern Munich, 2nd: Palmeiras",0.0378,0.0435,0.0057
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Al Hilal, 2nd: PSG",0.0375,0.0385,0.001
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Al Hilal, 2nd: Real Madrid",0.0365,0.0385,0.002
 2025-07-02 04:00:06.534606,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,0.03480000000000005,0.5348,0.5
@@ -58,43 +58,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 10:40:19.367537,James Bond Specials - Year Of Next James Bond - Next Bond Release,2029,0.023799999999999988,0.1667,0.1429
 2025-07-02 07:32:53.976788,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),0.023799999999999932,0.6667,0.6429
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Al Hilal, 2nd: Bayern Munich",0.0234,0.0244,0.001
-2025-07-02 10:40:21.424023,Boxing Lines - Joe Cordina vs Jaret Gonzalez Quiroz - To Win the Bout,Jaret Gonzalez Quiroz,0.02310000000000001,0.1,0.0769
 2025-07-02 07:32:53.976788,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),0.02310000000000001,0.1,0.0769
-2025-07-02 04:00:06.564157,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 32½,0.022600000000000064,0.5348,0.5122
+2025-07-02 10:40:21.424023,Boxing Lines - Joe Cordina vs Jaret Gonzalez Quiroz - To Win the Bout,Jaret Gonzalez Quiroz,0.02310000000000001,0.1,0.0769
 2025-07-02 04:00:06.543169,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 19½,0.022600000000000064,0.5348,0.5122
+2025-07-02 04:00:06.564157,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 32½,0.022600000000000064,0.5348,0.5122
 2025-07-02 11:29:54.096160,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,0.022199999999999998,0.1333,0.1111
-2025-07-02 07:32:52.065439,UEFA European Championship Women - Group A - Outright,Norway (W),0.02169999999999994,0.5455,0.5238
 2025-07-02 10:40:19.686721,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,0.02169999999999994,0.5455,0.5238
+2025-07-02 07:32:52.065439,UEFA European Championship Women - Group A - Outright,Norway (W),0.02169999999999994,0.5455,0.5238
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Palmeiras, 2nd: Bayern Munich",0.0216,0.0244,0.0028
 2025-07-02 08:44:07.680898,Club World Cup - FIFA Club World Cup 2025 - Winner Forecast,"1st: Fluminense, 2nd: Bayern Munich",0.0216,0.0244,0.0028
 2025-07-02 07:32:53.961418,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.02080000000000004,0.6875,0.6667
-2025-07-01 23:31:25.665098,Boxing Lines - Hovhannes Bachkov vs Xolisani Ndongeni - To Win the Bout,Hovhannes Bachkov,0.019100000000000006,0.9524,0.9333
 2025-07-02 04:00:06.454657,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.018999999999999906,0.7333,0.7143
 2025-07-02 08:44:10.027697,Boxing Lines - Joe Cordina vs Jaret Gonzalez Quiroz - To Win the Bout,Joe Cordina,0.01849999999999996,0.9709,0.9524
-2025-07-02 10:40:22.004944,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-02 05:39:30.744584,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 09:37:22.210386,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 08:44:10.630970,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 07:32:54.721805,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-02 11:29:56.827608,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 06:46:59.444663,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-02 05:39:30.744584,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 04:45:20.534666,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 04:00:08.816861,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-02 10:40:22.004944,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-02 02:23:01.060469,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-01 23:31:26.030509,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-02 11:29:56.827608,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-02 13:02:29.651855,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-02 13:02:29.119705,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.017400000000000082,0.8,0.7826
 2025-07-02 11:29:54.096160,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alessia Russio,0.016700000000000007,0.1,0.0833
-2025-07-02 04:45:20.555499,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 10:40:22.026950,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-01 23:31:26.051752,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 05:39:30.766311,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 06:46:59.466541,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 04:00:08.839011,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 08:44:10.653470,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 07:32:54.743006,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 02:23:01.082932,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-02 09:37:22.232721,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-02 11:29:56.849323,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-02 10:40:19.695511,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,0.016699999999999993,0.2667,0.25
+2025-07-02 02:23:01.082932,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 04:00:08.839011,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 05:39:30.766311,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 04:45:20.555499,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 10:40:22.026950,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 06:46:59.466541,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 13:02:29.673763,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 07:32:54.743006,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 08:44:10.653470,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-02 09:37:22.232721,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-02 06:46:56.854597,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Winnner,Patrick Bertoletti,0.015899999999999997,0.1111,0.0952
 2025-07-02 11:29:54.054041,UEFA European Championship Women - Group A - Not To Qualify From Group,Norway (W),0.015899999999999997,0.2381,0.2222
 2025-07-02 04:45:20.582414,International Series Morocco - International Series Morocco - Winner,Peter Uihlein,0.0157,0.0435,0.0278
@@ -107,10 +107,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 10:40:19.676652,Mayoral Elections - Next Mayor of New York - Winner,Eric Adams,0.0131,0.2353,0.2222
 2025-07-02 10:40:19.353645,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,AI/Artificial Intelligence,0.012899999999999995,0.1667,0.1538
 2025-07-02 11:29:56.267252,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.012700000000000045,0.6491,0.6364
-2025-07-02 06:46:58.890457,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.011600000000000055,0.5238,0.5122
 2025-07-02 04:00:06.559860,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,0.011600000000000055,0.5238,0.5122
+2025-07-02 06:46:58.890457,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.011600000000000055,0.5238,0.5122
 2025-07-02 02:23:00.549088,Boxing Lines - Skye Nicolson vs Carla Camila Campos Gonzales - To Win the Bout,Carla Camila Campos Gonzales,0.011099999999999999,0.0667,0.0556
-2025-07-01 23:31:25.740813,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,0.011099999999999999,0.4762,0.4651
 2025-07-02 06:46:56.881968,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Total Hot Dogs Eaten by James Webb,Under 49.5,0.01100000000000001,0.5348,0.5238
 2025-07-02 06:46:56.864530,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Under 71.5,0.01100000000000001,0.5348,0.5238
 2025-07-02 07:32:51.895384,Club World Cup - FIFA Club World Cup 2025 - Winner,Bayern Munich,0.010899999999999993,0.1538,0.1429
@@ -120,16 +119,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 10:40:21.460339,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.010099999999999998,0.5556,0.5455
 2025-07-02 04:00:06.559860,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.010099999999999998,0.5455,0.5556
 2025-07-02 06:46:58.890457,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010099999999999998,0.5455,0.5556
+2025-07-02 13:02:29.012972,Boxing Lines - Albert Batyrgaziev vs James Dickens - To Win the Bout,Albert Batyrgaziev,-0.010199999999999987,0.9231,0.9333
 2025-07-02 07:32:51.895384,Club World Cup - FIFA Club World Cup 2025 - Winner,Al Hilal,-0.0102,0.0667,0.0769
 2025-07-02 06:46:56.854597,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Winnner,Geoffrey Esper,-0.0102,0.0667,0.0769
 2025-07-02 07:32:52.087095,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),-0.010699999999999987,0.3226,0.3333
 2025-07-02 08:44:07.670816,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Joao Neves (PSG),-0.010700000000000001,0.0278,0.0385
-2025-07-02 04:00:08.290573,Boxing Lines - Albert Batyrgaziev vs James Dickens - To Win the Bout,James Dickens,-0.010899999999999993,0.1429,0.1538
 2025-07-02 04:45:17.799981,Club World Cup - FIFA Club World Cup 2025 - Winner,Bayern Munich,-0.010899999999999993,0.1429,0.1538
+2025-07-02 04:00:08.290573,Boxing Lines - Albert Batyrgaziev vs James Dickens - To Win the Bout,James Dickens,-0.010899999999999993,0.1429,0.1538
 2025-07-02 02:23:00.536577,Boxing Lines - William Crolla vs Fraser Wilkinson - To Win the Bout,Fraser Wilkinson,-0.011099999999999999,0.1,0.1111
 2025-07-02 10:40:19.695511,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Pete Buttigieg,-0.011199999999999995,0.0476,0.0588
-2025-07-02 10:40:21.460339,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.011600000000000055,0.5122,0.5238
 2025-07-02 06:46:56.877777,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Total Hot Dogs Eaten by Geoffrey Esper,Under 49.5,-0.011600000000000055,0.5122,0.5238
+2025-07-02 10:40:21.460339,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.011600000000000055,0.5122,0.5238
 2025-07-02 04:00:06.489478,NBA Specials - Where Will Bol Bol Play Game 1 of the 2025 / 2026 NBA Season if Not With the Suns - Proposition,Denver Nuggets,-0.011700000000000016,0.2105,0.2222
 2025-07-02 08:44:10.510124,Tournament Match-Ups - Tournament Match-Ups - D. Thompson vs L. Clanton - Tournament Match-Ups,Luke Clanton,-0.012199999999999989,0.4878,0.5
 2025-07-02 07:32:52.080634,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),-0.012899999999999995,0.1538,0.1667
@@ -139,31 +139,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 04:00:06.454657,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.013999999999999999,0.0769,0.0909
 2025-07-02 07:32:52.080634,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Switzerland (W),-0.014099999999999998,0.0244,0.0385
 2025-07-02 07:32:53.976788,ROY - NL ROY 2025 - National League Rookie of the Year,Chase Burns (CIN),-0.014399999999999996,0.0625,0.0769
+2025-07-02 13:02:29.119705,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.015000000000000013,0.2667,0.2817
 2025-07-02 07:32:52.080634,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Netherlands (W),-0.015300000000000001,0.0435,0.0588
-2025-07-02 10:40:22.004944,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 05:39:30.744584,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 04:00:08.816861,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 06:46:59.444663,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 02:23:01.060469,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 08:44:10.630970,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 09:37:22.210386,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 07:32:54.721805,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 11:29:56.827608,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-01 23:31:26.030509,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-02 08:44:07.673972,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Bayern Munich,-0.016699999999999993,0.25,0.2667
+2025-07-02 02:23:01.060469,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 04:00:08.816861,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-02 04:45:20.534666,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-02 06:46:59.466541,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 05:39:30.744584,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 06:46:59.444663,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 07:32:54.721805,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 09:37:22.210386,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 08:44:10.630970,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 10:40:22.004944,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 11:29:56.827608,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-02 13:02:29.651855,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-02 11:29:56.849323,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 07:32:54.743006,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 10:40:22.026950,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 09:37:22.232721,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 05:39:30.766311,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 08:44:10.653470,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 04:45:20.555499,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 04:00:08.839011,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-02 02:23:01.082932,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-01 23:31:26.051752,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-02 07:32:52.072974,UEFA European Championship Women - Group C - Outright,Germany (W),-0.01759999999999995,0.6491,0.6667
+2025-07-02 02:23:01.082932,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 04:00:08.839011,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 04:45:20.555499,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 05:39:30.766311,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 06:46:59.466541,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 07:32:54.743006,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 08:44:10.653470,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 09:37:22.232721,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 10:40:22.026950,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-02 13:02:29.673763,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-02 08:44:07.677528,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,PSG & Harry Kane,-0.018099999999999998,0.0588,0.0769
 2025-07-02 07:32:51.895384,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,-0.01820000000000002,0.1818,0.2
 2025-07-02 07:32:52.080634,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Germany (W),-0.01820000000000002,0.1818,0.2
@@ -171,8 +172,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 08:44:07.673972,Club World Cup - FIFA Club World Cup 2025 - To Reach the Final,Paris Saint-Germain,-0.019699999999999995,0.4348,0.4545
 2025-07-02 08:44:07.670816,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Kingsley Coman (Bayern Munich),-0.019800000000000005,0.0278,0.0476
 2025-07-02 04:00:06.454657,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.020299999999999985,0.25,0.2703
-2025-07-02 04:00:06.564157,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,-0.02079999999999993,0.5348,0.5556
 2025-07-02 04:00:06.543169,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 19½,-0.02079999999999993,0.5348,0.5556
+2025-07-02 04:00:06.564157,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,-0.02079999999999993,0.5348,0.5556
 2025-07-02 11:29:54.332188,FIBA AmeriCup Women - AmeriCup Women Winner - Outright,Canada Women,-0.020799999999999985,0.3125,0.3333
 2025-07-02 06:46:56.774634,UEFA European Championship Women - Group C - Outright,Sweden (W),-0.021999999999999964,0.2857,0.3077
 2025-07-02 08:44:10.027697,Boxing Lines - Joe Cordina vs Jaret Gonzalez Quiroz - To Win the Bout,Jaret Gonzalez Quiroz,-0.02310000000000001,0.0769,0.1
@@ -181,7 +182,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 10:40:19.367537,James Bond Specials - Year Of Next James Bond - Next Bond Release,2026,-0.023799999999999988,0.1429,0.1667
 2025-07-02 10:40:19.686721,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,-0.023800000000000043,0.5,0.5238
 2025-07-02 07:32:52.080634,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Denmark (W),-0.023899999999999998,0.0196,0.0435
-2025-07-01 23:31:25.665098,Boxing Lines - Hovhannes Bachkov vs Xolisani Ndongeni - To Win the Bout,Xolisani Ndongeni,-0.024999999999999994,0.1,0.125
 2025-07-02 06:46:56.867842,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Winner Without Joey Chestnut,James Webb,-0.02560000000000001,0.3077,0.3333
 2025-07-02 04:45:17.799981,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,-0.02560000000000001,0.3077,0.3333
 2025-07-02 07:32:53.966529,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),-0.0267,0.0909,0.1176
@@ -190,9 +190,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-02 11:29:54.054041,UEFA European Championship Women - Group A - Not To Qualify From Group,Finland (W),-0.028800000000000048,0.8462,0.875
 2025-07-02 09:37:21.635323,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.030299999999999994,0.6364,0.6667
 2025-07-02 08:44:07.670816,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Jude Bellingham (Real Madrid),-0.031,0.0278,0.0588
-2025-07-02 10:40:19.676652,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,-0.031799999999999995,0.1111,0.1429
 2025-07-02 10:40:19.348364,World Dog Surfing Championship - 2025 Overall Top Dog - Winner,Faith,-0.031799999999999995,0.1111,0.1429
 2025-07-02 10:40:19.348364,World Dog Surfing Championship - 2025 Overall Top Dog - Winner,Delilah,-0.031799999999999995,0.1111,0.1429
+2025-07-02 10:40:19.676652,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,-0.031799999999999995,0.1111,0.1429
 2025-07-02 10:40:19.348364,World Dog Surfing Championship - 2025 Overall Top Dog - Winner,Sugar,-0.033300000000000024,0.1667,0.2
 2025-07-02 04:00:06.538799,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,-0.03639999999999999,0.6,0.6364
 2025-07-02 04:00:06.534606,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.03959999999999997,0.5348,0.5744

@@ -11,16 +11,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-03 08:43:06.745109,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Ada Hegerberg,0.07220000000000001,0.1,0.0278
 2025-07-03 13:44:46.463431,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Winner Without Joey Chestnut,Patrick Bertoletti,0.07189999999999996,0.6552,0.5833
 2025-07-03 16:44:20.944745,SEC - SEC Regular Season Wins - Tennessee,Under 8.5,0.06989999999999996,0.6154,0.5455
-2025-07-03 06:47:13.100161,World Dog Surfing Championship - 2025 Overall Top Dog - Winner,Cacau,0.06670000000000004,0.4,0.3333
 2025-07-03 13:00:23.158445,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Billy Carlson vs JoJo Parker,JoJo Parker,0.06230000000000002,0.4878,0.4255
 2025-07-03 13:44:48.511452,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.05610000000000004,0.7436,0.6875
-2025-07-03 16:44:20.927732,SEC - SEC Regular Season Wins - Mississippi,Under 8.5,0.05559999999999998,0.5,0.4444
 2025-07-03 14:36:31.077224,FIBA AmeriCup Women - AmeriCup Women Winner - Outright,Brazil Women,0.05559999999999998,0.5,0.4444
+2025-07-03 16:44:20.927732,SEC - SEC Regular Season Wins - Mississippi,Under 8.5,0.05559999999999998,0.5,0.4444
 2025-07-03 17:35:25.856949,ROY - NL ROY 2025 - National League Rookie of the Year,Hyeseong Kim (LAD),0.052399999999999995,0.0909,0.0385
 2025-07-03 13:44:48.500137,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.05049999999999999,0.2778,0.2273
 2025-07-03 17:35:24.108315,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Dallas Mavericks,0.04999999999999999,0.25,0.2
 2025-07-03 13:00:23.182818,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Kade Anderson,0.045499999999999985,0.5455,0.5
-2025-07-03 06:47:13.249399,Dalai Lama - Nationality of Next Dalai Lama - Winner,Nepal,0.042899999999999994,0.1429,0.1
 2025-07-03 17:35:23.927427,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Women's Division - Total Hot Dogs Eaten by Domenica Dee,Under 25.5,0.04139999999999999,0.5652,0.5238
 2025-07-03 13:44:46.470255,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - World Record Broken,No (76 Or Less),0.04039999999999999,0.8182,0.7778
 2025-07-03 13:00:23.200165,MLB Specials - MLB Draft - MLB Draft 2025 - Gage Wood Draft Position,Over 16½,0.03959999999999997,0.5744,0.5348
@@ -29,43 +27,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-03 13:00:23.186346,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Any Other Player,0.034100000000000005,0.125,0.0909
 2025-07-03 16:44:19.434677,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Dallas Mavericks,0.033300000000000024,0.2,0.1667
 2025-07-03 17:35:23.894568,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - Geoffrey Esper vs Patrick Bertoletti,Patrick Bertoletti,0.032299999999999995,0.6875,0.6552
-2025-07-03 13:44:46.416385,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by James Webb,Over 50.5,0.03179999999999994,0.5556,0.5238
 2025-07-03 13:44:46.409697,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by Geoffrey Esper,Over 50.5,0.03179999999999994,0.5556,0.5238
+2025-07-03 13:44:46.416385,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by James Webb,Over 50.5,0.03179999999999994,0.5556,0.5238
 2025-07-03 13:00:23.186346,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Liam Doyle,0.03059999999999999,0.2632,0.2326
-2025-07-03 17:35:23.871404,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Under 71.5,0.028900000000000037,0.5744,0.5455
 2025-07-03 17:35:23.897840,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - James Webb vs Geoffrey Esper,James Webb,0.028900000000000037,0.5744,0.5455
 2025-07-03 17:35:23.924162,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Special Head to Head - Miki Sudo vs Nick Wehry (Spread),Miki Sudo +1.5,0.028900000000000037,0.5744,0.5455
+2025-07-03 17:35:23.871404,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Under 71.5,0.028900000000000037,0.5744,0.5455
 2025-07-03 16:44:20.699317,Big Ten - Big Ten Regular Season Wins - Maryland,Under 4.5,0.026499999999999968,0.5917,0.5652
-2025-07-03 06:47:16.014722,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Make,0.025600000000000067,0.6923,0.6667
 2025-07-03 13:00:23.168902,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gage Wood vs Tyler Bremner,Tyler Bremner,0.022600000000000064,0.5348,0.5122
 2025-07-03 15:35:06.094894,Non Conference - Non Conference Regular Season Wins - Notre Dame,Over 10.5,0.021699999999999997,0.4762,0.4545
 2025-07-03 14:36:32.779247,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.02080000000000004,0.6875,0.6667
-2025-07-03 14:36:33.270731,Round Match-Ups - 1st Round Match-Ups - M. Thorbjornsen vs D. Thompson - 1st Round Match-Ups,Davis Thompson,0.02079999999999993,0.5556,0.5348
 2025-07-03 14:36:33.082290,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.02079999999999993,0.5556,0.5348
+2025-07-03 14:36:33.270731,Round Match-Ups - 1st Round Match-Ups - M. Thorbjornsen vs D. Thompson - 1st Round Match-Ups,Davis Thompson,0.02079999999999993,0.5556,0.5348
 2025-07-03 17:35:25.856949,ROY - NL ROY 2025 - National League Rookie of the Year,Isaac Collins (MIL),0.0203,0.0588,0.0385
+2025-07-03 13:00:23.161905,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Brendan Summerhill vs Gavin Kilen,Gavin Kilen,0.01970000000000005,0.5652,0.5455
 2025-07-03 17:35:23.838530,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by Joey Chestnut,Under 71.5,0.01970000000000005,0.5652,0.5455
 2025-07-03 17:35:23.901108,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - James Webb vs Joey Chestnut,Joey Chestnut -20.5,0.01970000000000005,0.5652,0.5455
-2025-07-03 13:00:23.161905,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Brendan Summerhill vs Gavin Kilen,Gavin Kilen,0.01970000000000005,0.5652,0.5455
-2025-07-03 17:35:23.950253,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Women's Division - Total Hot Dogs Eaten by Miki Sudo,Over 46.5,0.01880000000000004,0.5744,0.5556
 2025-07-03 18:44:44.581120,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Aqib Fiaz,0.01880000000000004,0.5744,0.5556
+2025-07-03 17:35:23.950253,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Women's Division - Total Hot Dogs Eaten by Miki Sudo,Over 46.5,0.01880000000000004,0.5744,0.5556
 2025-07-03 13:44:46.396203,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Winnner,Any Other Eater,0.0182,0.0323,0.0141
-2025-07-03 09:36:21.279566,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-03 06:47:16.023923,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-03 10:40:11.073755,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-03 11:30:03.572146,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
-2025-07-03 08:43:09.747212,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-03 07:33:01.204862,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-03 10:40:11.073755,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-03 08:43:09.747212,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-03 09:36:21.279566,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
+2025-07-03 11:30:03.572146,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,0.01759999999999995,0.6667,0.6491
 2025-07-03 17:35:23.907705,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - Patrick Bertoletti vs Joey Chestnut,Patrick Bertoletti +17.5,0.017299999999999982,0.5917,0.5744
+2025-07-03 11:30:03.594014,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
+2025-07-03 07:33:01.226183,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-03 09:36:21.302403,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-03 10:40:11.096519,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-03 06:47:16.046870,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-03 08:43:09.770475,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-03 07:33:01.226183,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
-2025-07-03 11:30:03.594014,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,0.016699999999999993,0.4167,0.4
 2025-07-03 08:43:06.898934,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Alianza Atletico,0.0156,0.0196,0.004
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Norway (W),0.013899999999999996,0.125,0.1111
-2025-07-03 09:36:20.633607,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,0.012199999999999989,0.5,0.4878
 2025-07-03 15:35:06.539986,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,0.012199999999999989,0.5122,0.5
+2025-07-03 09:36:20.633607,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,0.012199999999999989,0.5,0.4878
 2025-07-03 13:00:23.207152,MLB Specials - MLB Draft - MLB Draft 2025 - Jace LaViolette Draft Position,Over 19½,0.011600000000000055,0.5238,0.5122
 2025-07-03 08:43:06.742054,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Norway (W),0.011199999999999995,0.0435,0.0323
 2025-07-03 17:35:25.856949,ROY - NL ROY 2025 - National League Rookie of the Year,Agustin Ramirez (MIA),0.011099999999999999,0.1111,0.1
@@ -76,9 +71,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-03 13:44:48.844531,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010699999999999932,0.5348,0.5455
 2025-07-03 13:00:23.172455,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Xavier Neyens,-0.01100000000000001,0.5238,0.5348
 2025-07-03 08:43:09.093425,Boxing Lines - Cristobal Lorente Campoy vs Ruben Gill - To Win the Bout,Cristobal Lorente Campoy,-0.011099999999999999,0.8889,0.9
+2025-07-03 19:27:40.716334,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Denver Nuggets,-0.011199999999999995,0.0476,0.0588
 2025-07-03 13:44:46.463431,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Winner Without Joey Chestnut,Derek Hendrickson,-0.011200000000000002,0.0132,0.0244
 2025-07-03 17:35:24.108315,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,New York Knicks,-0.012899999999999995,0.1538,0.1667
 2025-07-03 13:00:23.189817,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Ethan Holliday,-0.013999999999999999,0.0769,0.0909
+2025-07-03 19:27:40.716334,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,LA Clippers,-0.014099999999999994,0.0526,0.0667
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Switzerland (W),-0.014099999999999994,0.0526,0.0667
 2025-07-03 13:44:46.396203,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Winnner,Joey Chestnut,-0.014100000000000001,0.9474,0.9615
 2025-07-03 13:44:46.463431,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Winner Without Joey Chestnut,James Webb,-0.01469999999999999,0.2353,0.25
@@ -87,25 +84,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-03 08:43:06.745109,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,-0.015700000000000006,0.1176,0.1333
 2025-07-03 17:35:23.894568,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - Geoffrey Esper vs Patrick Bertoletti,Geoffrey Esper,-0.016000000000000014,0.3922,0.4082
 2025-07-03 08:43:06.745109,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Salma Paralluelo,-0.016600000000000004,0.0667,0.0833
-2025-07-03 08:43:09.747212,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-03 06:47:16.023923,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-03 07:33:01.204862,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-03 09:36:21.279566,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
-2025-07-03 10:40:11.073755,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-03 08:43:09.747212,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-03 11:30:03.572146,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-03 10:40:11.073755,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
+2025-07-03 09:36:21.279566,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Miss,-0.016699999999999993,0.4,0.4167
 2025-07-03 13:00:23.186346,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Aiva Arquette,-0.017099999999999997,0.0385,0.0556
-2025-07-03 09:36:21.302403,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-03 10:40:11.096519,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-03 08:43:09.770475,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-03 07:33:01.226183,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
-2025-07-03 06:47:16.046870,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-03 11:30:03.594014,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-03 07:33:01.226183,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-03 08:43:09.770475,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
+2025-07-03 09:36:21.302403,Cut Lines - Alex Smalley - Make Cut / Miss Cut - Alex Smalley,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),-0.018100000000000005,0.5652,0.5833
 2025-07-03 08:43:06.898934,Primera División - Peru Primera Division - Liga 1 Apertura 2025 Futures - Apertura Final Winner,Universitario de Deportes,-0.018199999999999994,0.8,0.8182
 2025-07-03 14:36:31.077224,FIBA AmeriCup Women - AmeriCup Women Winner - Outright,Canada Women,-0.018400000000000027,0.2941,0.3125
 2025-07-03 13:00:23.168902,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gage Wood vs Tyler Bremner,Gage Wood,-0.01880000000000004,0.5556,0.5744
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Iceland (W),-0.019099999999999995,0.0244,0.0435
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Netherlands (W),-0.02049999999999999,0.1333,0.1538
+2025-07-03 19:27:40.716334,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,New York Knicks,-0.02049999999999999,0.1333,0.1538
 2025-07-03 13:44:48.511452,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,-0.021300000000000013,0.1961,0.2174
 2025-07-03 17:35:23.901108,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - James Webb vs Joey Chestnut,James Webb +20.5,-0.02169999999999994,0.5238,0.5455
 2025-07-03 17:35:23.838530,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by Joey Chestnut,Over 71.5,-0.02169999999999994,0.5238,0.5455
@@ -113,23 +109,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-03 17:35:23.950253,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Women's Division - Total Hot Dogs Eaten by Miki Sudo,Under 46.5,-0.022600000000000064,0.5122,0.5348
 2025-07-03 14:36:33.082290,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.022600000000000064,0.5122,0.5348
 2025-07-03 15:35:06.094894,Non Conference - Non Conference Regular Season Wins - Notre Dame,Under 10.5,-0.023699999999999943,0.5917,0.6154
-2025-07-03 06:47:13.100161,World Dog Surfing Championship - 2025 Overall Top Dog - Winner,Sugar,-0.023799999999999988,0.1429,0.1667
 2025-07-03 13:00:23.193326,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Liam Doyle,-0.023799999999999988,0.1429,0.1667
-2025-07-03 16:44:20.699317,Big Ten - Big Ten Regular Season Wins - Maryland,Over 4.5,-0.023799999999999988,0.4762,0.5
 2025-07-03 13:00:23.193326,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Jamie Arnold,-0.023799999999999988,0.1429,0.1667
-2025-07-03 17:35:23.907705,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - Patrick Bertoletti vs Joey Chestnut,Joey Chestnut -17.5,-0.024399999999999977,0.4878,0.5122
+2025-07-03 16:44:20.699317,Big Ten - Big Ten Regular Season Wins - Maryland,Over 4.5,-0.023799999999999988,0.4762,0.5
 2025-07-03 14:36:33.270731,Round Match-Ups - 1st Round Match-Ups - M. Thorbjornsen vs D. Thompson - 1st Round Match-Ups,Michael Thorbjornsen,-0.024399999999999977,0.4878,0.5122
 2025-07-03 18:44:44.581120,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,-0.024399999999999977,0.4878,0.5122
+2025-07-03 17:35:23.907705,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - Patrick Bertoletti vs Joey Chestnut,Joey Chestnut -17.5,-0.024399999999999977,0.4878,0.5122
 2025-07-03 14:36:32.779247,NL East - NL East 2025 - NL East Winner,New York Mets,-0.024500000000000022,0.3922,0.4167
 2025-07-03 17:35:23.911002,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Special - Joey Chestnut/Miki Sudo Combined Total Hot Dogs Eaten,Under 116.5,-0.027700000000000058,0.5556,0.5833
 2025-07-03 13:44:46.463431,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Winner Without Joey Chestnut,Nick Wehry,-0.028399999999999995,0.0625,0.0909
-2025-07-03 06:47:16.014722,Cut Lines - Michael Kim - Make Cut / Miss Cut - Michael Kim,Miss,-0.029600000000000015,0.3704,0.4
 2025-07-03 18:44:44.543715,Elite Boxing - Canelo Alvarez vs Terence Crawford - To Win the Bout,Canelo Alvarez,-0.030299999999999994,0.6364,0.6667
-2025-07-03 13:44:46.409697,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by Geoffrey Esper,Under 50.5,-0.030399999999999983,0.5348,0.5652
 2025-07-03 13:44:46.416385,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by James Webb,Under 50.5,-0.030399999999999983,0.5348,0.5652
+2025-07-03 13:44:46.409697,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Men's Division - Total Hot Dogs Eaten by Geoffrey Esper,Under 50.5,-0.030399999999999983,0.5348,0.5652
+2025-07-03 17:35:23.897840,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - James Webb vs Geoffrey Esper,Geoffrey Esper,-0.033299999999999996,0.5122,0.5455
 2025-07-03 17:35:23.871404,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division - Hot Dogs Eaten By The Winner,Over 71.5,-0.033299999999999996,0.5122,0.5455
 2025-07-03 17:35:23.924162,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Special Head to Head - Miki Sudo vs Nick Wehry (Spread),Nick Wehry -1.5,-0.033299999999999996,0.5122,0.5455
-2025-07-03 17:35:23.897840,Nathan's Hot Dog Eating Contest - Nathan's Hot Dog Eating Contest 2025 - Mens Division Head to Head - James Webb vs Geoffrey Esper,Geoffrey Esper,-0.033299999999999996,0.5122,0.5455
 2025-07-03 08:43:06.751931,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Sweden (W),-0.033300000000000024,0.1667,0.2
 2025-07-03 13:44:48.511452,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.035,0.125,0.16
 2025-07-03 17:35:24.108315,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Golden State Warriors,-0.03570000000000001,0.25,0.2857

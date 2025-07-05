@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-05 20:33:04.675417,SEC - SEC Regular Season Wins - Alabama,Over 9.5,0.02079999999999993,0.5556,0.5348
 2025-07-05 09:32:17.630911,Round Match-Ups - 3rd Round Match-Ups - P. Fishburn vs E. Cole - 3rd Round Match-Ups,Eric Cole,0.02079999999999993,0.5556,0.5348
 2025-07-05 12:56:59.895081,John Deere Classic - 2/3 Balls - 3rd Round 3-Balls - P. Knowles / G. Sargent / A. Svensson - 3rd Round 3-Balls,Adam Svensson,0.020699999999999996,0.4651,0.4444
-2025-07-05 13:38:32.522589,Big 12 - Big 12 Regular Season Wins - Texas Tech,Over 8.5,0.017299999999999982,0.5917,0.5744
 2025-07-05 10:36:29.313414,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Aqib Fiaz,0.017299999999999982,0.5917,0.5744
+2025-07-05 13:38:32.522589,Big 12 - Big 12 Regular Season Wins - Texas Tech,Over 8.5,0.017299999999999982,0.5917,0.5744
 2025-07-05 14:35:03.543413,FIBA AmeriCup Women - AmeriCup Women Winner - Outright,Argentina Women,0.017099999999999997,0.0294,0.0123
 2025-07-05 12:56:59.992950,Scores - 3rd Round Scores - Cameron Champ - 3rd Round Scores,Over 68.5,0.016100000000000003,0.6078,0.5917
 2025-07-05 12:57:00.001680,Scores - 3rd Round Scores - Chris Kirk - 3rd Round Scores,Over 68.5,0.016100000000000003,0.6078,0.5917
@@ -29,14 +29,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-05 14:35:05.409736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.014800000000000035,0.6226,0.6078
 2025-07-05 11:27:43.565084,Club World Cup - FIFA Club World Cup 2025 - Winner,Bayern Munich,0.012899999999999995,0.1667,0.1538
 2025-07-05 13:38:33.137624,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,0.0116,0.4878,0.4762
-2025-07-05 20:33:04.246103,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,0.01100000000000001,0.5348,0.5238
 2025-07-05 10:36:29.366636,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.01100000000000001,0.5348,0.5238
+2025-07-05 20:33:04.246103,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,0.01100000000000001,0.5348,0.5238
 2025-07-05 13:38:33.177554,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.010099999999999998,0.4545,0.4444
-2025-07-05 14:35:05.409736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.010099999999999998,0.4444,0.4545
 2025-07-05 15:32:01.904550,Boxing Lines - Jack Catterall vs Harlem Eubank - To Win the Bout,Harlem Eubank,-0.010099999999999998,0.3125,0.3226
-2025-07-05 15:32:01.884457,Boxing Lines - Pat Brown vs Lewis Oakford - To Win the Bout,Lewis Oakford,-0.0102,0.0667,0.0769
+2025-07-05 14:35:05.409736,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.010099999999999998,0.4444,0.4545
 2025-07-05 18:40:01.665707,Club World Cup - FIFA Club World Cup 2025 - Winner,Fluminense RJ,-0.0102,0.0667,0.0769
+2025-07-05 15:32:01.884457,Boxing Lines - Pat Brown vs Lewis Oakford - To Win the Bout,Lewis Oakford,-0.0102,0.0667,0.0769
 2025-07-05 20:33:05.078597,BMW International Open - BMW International Open - Winner,Andrea Pavan,-0.0106,0.0004,0.011
+2025-07-05 20:33:04.246103,To Make the Playoffs - 2025-26 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,-0.010699999999999932,0.5348,0.5455
 2025-07-05 10:36:29.366636,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.010699999999999932,0.5348,0.5455
 2025-07-05 10:36:29.325653,Boxing Lines - Jack Catterall vs Harlem Eubank - To Win the Bout,Harlem Eubank,-0.010699999999999987,0.3226,0.3333
 2025-07-05 13:38:32.752901,Non Conference - Non Conference Regular Season Wins - Notre Dame,Over 10.5,-0.011099999999999999,0.4651,0.4762
@@ -56,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-05 20:33:05.078597,BMW International Open - BMW International Open - Winner,Marcel Siem,-0.0192,0.0004,0.0196
 2025-07-05 12:57:00.041277,Scores - 3rd Round Scores - Kevin Yu - 3rd Round Scores,Over 68.5,-0.01970000000000005,0.5455,0.5652
 2025-07-05 12:57:00.010504,Scores - 3rd Round Scores - Davis Thompson - 3rd Round Scores,Under 68.5,-0.01970000000000005,0.5455,0.5652
-2025-07-05 12:57:00.001680,Scores - 3rd Round Scores - Chris Kirk - 3rd Round Scores,Under 68.5,-0.021699999999999997,0.4545,0.4762
 2025-07-05 12:56:59.992950,Scores - 3rd Round Scores - Cameron Champ - 3rd Round Scores,Under 68.5,-0.021699999999999997,0.4545,0.4762
+2025-07-05 12:57:00.001680,Scores - 3rd Round Scores - Chris Kirk - 3rd Round Scores,Under 68.5,-0.021699999999999997,0.4545,0.4762
 2025-07-05 14:35:03.529279,Euroleague - Euroleague 2025/26 - Outright,Fenerbahce,-0.022199999999999998,0.1111,0.1333
 2025-07-05 20:33:04.675417,SEC - SEC Regular Season Wins - Alabama,Under 9.5,-0.022600000000000064,0.5122,0.5348
 2025-07-05 14:35:05.374284,Boxing Lines - Aqib Fiaz vs Alex Murphy - To Win the Bout,Alex Murphy,-0.022699999999999998,0.4651,0.4878

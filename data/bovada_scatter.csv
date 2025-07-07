@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-07 02:29:26.335581,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 26½,0.030399999999999983,0.5652,0.5348
 2025-07-07 02:29:28.109832,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.02899999999999997,0.303,0.274
 2025-07-07 04:04:09.430722,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.02859999999999996,0.6364,0.6078
+2025-07-07 07:34:08.561481,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,0.02560000000000001,0.3333,0.3077
 2025-07-07 04:04:09.410350,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.02079999999999993,0.5556,0.5348
 2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Netherlands (W),0.0203,0.0588,0.0385
 2025-07-07 06:48:27.489045,UEFA European Championship Women - Group C - Outright,Germany (W),0.01759999999999995,0.6667,0.6491
@@ -38,11 +39,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-07 04:49:04.851458,NBA Summer League - NBA 2K26 Summer League - Champion,Utah Jazz,-0.010899999999999993,0.1429,0.1538
 2025-07-06 20:33:47.124539,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,-0.01100000000000001,0.5238,0.5348
 2025-07-07 02:29:28.077405,Boxing Lines - Lester Martinez vs Pierre Hubert Dibombe - To Win the Bout,Pierre Hubert Dibombe,-0.011099999999999999,0.1,0.1111
+2025-07-07 07:34:08.561481,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,-0.011199999999999995,0.0476,0.0588
 2025-07-06 21:30:35.776441,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.011699999999999988,0.274,0.2857
 2025-07-07 02:29:26.352227,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,-0.012199999999999989,0.5,0.5122
 2025-07-07 02:29:26.331397,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 20½,-0.012199999999999989,0.4878,0.5
+2025-07-07 07:34:08.561481,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.013999999999999999,0.0769,0.0909
 2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),-0.015100000000000002,0.1667,0.1818
 2025-07-07 04:04:09.434799,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.017299999999999982,0.2857,0.303
+2025-07-07 07:34:08.561481,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Brian White,-0.019099999999999992,0.0476,0.0667
 2025-07-07 02:29:26.259861,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.020500000000000074,0.8462,0.8667
 2025-07-07 04:04:09.410350,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.022600000000000064,0.5122,0.5348
 2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.024499999999999966,0.5833,0.6078
@@ -50,6 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-07 02:29:28.109832,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.028999999999999915,0.7647,0.7937
 2025-07-07 04:04:09.430722,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,-0.029000000000000026,0.4255,0.4545
 2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Germany (W),-0.033300000000000024,0.1667,0.2
+2025-07-07 07:34:08.561481,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,-0.03420000000000001,0.0769,0.1111
 2025-07-07 02:29:26.335581,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Over 26½,-0.03480000000000005,0.5,0.5348
 2025-07-07 06:48:27.502377,UEFA European Championship Women - Group D - Not To Qualify From Group,Netherlands (W),-0.036900000000000044,0.5464,0.5833
 2025-07-07 06:48:27.495269,UEFA European Championship Women - Group C - To Qualify From Group,Poland (W),-0.047099999999999996,0.0196,0.0667

@@ -1,41 +1,65 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-07-07 06:48:27.499032,UEFA European Championship Women - Group D - Outright,France (W),0.3152,0.75,0.4348
+2025-07-07 06:48:27.502377,UEFA European Championship Women - Group D - Not To Qualify From Group,England (W),0.25,0.5,0.25
+2025-07-07 06:48:27.505235,UEFA European Championship Women - Group D - To Qualify From Group,France (W),0.2389,0.9722,0.7333
+2025-07-07 06:48:27.492399,UEFA European Championship Women - Group C - Not To Qualify From Group,Denmark (W),0.2168,0.9091,0.6923
 2025-07-07 02:29:26.339767,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 14½,0.17099999999999999,0.5556,0.3846
+2025-07-07 06:48:27.495269,UEFA European Championship Women - Group C - To Qualify From Group,Sweden (W),0.15910000000000002,0.9091,0.75
 2025-07-06 21:30:34.310673,Cincinnati Bengals - Cincinnati Bengals Regular Season Wins - Bengals Regular Season Wins,Under 9.5,0.07940000000000003,0.5238,0.4444
+2025-07-07 06:48:27.495269,UEFA European Championship Women - Group C - To Qualify From Group,Germany (W),0.07130000000000003,0.9804,0.9091
+2025-07-07 06:48:27.489045,UEFA European Championship Women - Group C - Outright,Sweden (W),0.05130000000000001,0.3846,0.3333
+2025-07-07 06:48:27.505235,UEFA European Championship Women - Group D - To Qualify From Group,Netherlands (W),0.0464,0.5464,0.5
+2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Spain (W),0.045499999999999985,0.5,0.4545
 2025-07-07 02:29:26.134254,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sinners,0.0321,0.0909,0.0588
 2025-07-07 02:29:26.335581,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 26½,0.030399999999999983,0.5652,0.5348
 2025-07-07 02:29:28.109832,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.02899999999999997,0.303,0.274
 2025-07-07 04:04:09.430722,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.02859999999999996,0.6364,0.6078
 2025-07-07 04:04:09.410350,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.02079999999999993,0.5556,0.5348
-2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.016699999999999993,0.2667,0.25
+2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Netherlands (W),0.0203,0.0588,0.0385
+2025-07-07 06:48:27.489045,UEFA European Championship Women - Group C - Outright,Germany (W),0.01759999999999995,0.6667,0.6491
 2025-07-07 02:29:26.259861,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.016699999999999993,0.4167,0.4
-2025-07-06 18:41:49.372175,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,0.016100000000000003,0.6078,0.5917
+2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.016699999999999993,0.2667,0.25
 2025-07-06 21:30:35.776441,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.015899999999999914,0.7937,0.7778
 2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Golden State Valkyries,0.014399999999999996,0.0769,0.0625
 2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,0.013600000000000001,0.3077,0.2941
 2025-07-07 04:04:09.434799,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.0131,0.7778,0.7647
-2025-07-06 18:41:49.305429,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.0131,0.7778,0.7647
 2025-07-07 02:29:26.259861,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.012299999999999978,0.3571,0.3448
+2025-07-07 06:48:27.499032,UEFA European Championship Women - Group D - Outright,Netherlands (W),0.011700000000000016,0.2222,0.2105
+2025-07-07 06:48:29.814788,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,0.011600000000000055,0.5238,0.5122
 2025-07-07 04:49:04.851458,NBA Summer League - NBA 2K26 Summer League - Champion,Philadelphia 76ers,0.011099999999999999,0.1111,0.1
 2025-07-07 04:49:04.851458,NBA Summer League - NBA 2K26 Summer League - Champion,Miami Heat,0.011099999999999999,0.1111,0.1
 2025-07-07 02:29:28.085832,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.01100000000000001,0.5348,0.5238
 2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.010899999999999993,0.1538,0.1429
 2025-07-06 20:33:47.124539,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,0.010699999999999932,0.5455,0.5348
 2025-07-07 04:04:09.406323,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,Shakur Stevenson,0.010199999999999987,0.9333,0.9231
+2025-07-07 06:48:29.814788,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,-0.010099999999999998,0.5455,0.5556
+2025-07-07 06:48:27.499032,UEFA European Championship Women - Group D - Outright,Wales (W),-0.0101,0.004,0.0141
 2025-07-07 02:29:28.085832,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.010699999999999932,0.5348,0.5455
 2025-07-07 04:49:04.851458,NBA Summer League - NBA 2K26 Summer League - Champion,Utah Jazz,-0.010899999999999993,0.1429,0.1538
 2025-07-06 20:33:47.124539,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,-0.01100000000000001,0.5238,0.5348
 2025-07-07 02:29:28.077405,Boxing Lines - Lester Martinez vs Pierre Hubert Dibombe - To Win the Bout,Pierre Hubert Dibombe,-0.011099999999999999,0.1,0.1111
-2025-07-06 18:41:49.305429,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.011099999999999999,0.2667,0.2778
 2025-07-06 21:30:35.776441,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.011699999999999988,0.274,0.2857
 2025-07-07 02:29:26.352227,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,-0.012199999999999989,0.5,0.5122
 2025-07-07 02:29:26.331397,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 20½,-0.012199999999999989,0.4878,0.5
+2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),-0.015100000000000002,0.1667,0.1818
 2025-07-07 04:04:09.434799,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.017299999999999982,0.2857,0.303
 2025-07-07 02:29:26.259861,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.020500000000000074,0.8462,0.8667
-2025-07-06 18:41:49.372175,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,-0.021699999999999997,0.4545,0.4762
 2025-07-07 04:04:09.410350,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.022600000000000064,0.5122,0.5348
 2025-07-07 02:29:26.256748,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.024499999999999966,0.5833,0.6078
+2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,England (W),-0.028799999999999992,0.125,0.1538
 2025-07-07 02:29:28.109832,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.028999999999999915,0.7647,0.7937
 2025-07-07 04:04:09.430722,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,-0.029000000000000026,0.4255,0.4545
+2025-07-07 06:48:27.509051,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Germany (W),-0.033300000000000024,0.1667,0.2
 2025-07-07 02:29:26.335581,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Over 26½,-0.03480000000000005,0.5,0.5348
+2025-07-07 06:48:27.502377,UEFA European Championship Women - Group D - Not To Qualify From Group,Netherlands (W),-0.036900000000000044,0.5464,0.5833
+2025-07-07 06:48:27.495269,UEFA European Championship Women - Group C - To Qualify From Group,Poland (W),-0.047099999999999996,0.0196,0.0667
+2025-07-07 06:48:27.505235,UEFA European Championship Women - Group D - To Qualify From Group,Wales (W),-0.047099999999999996,0.0196,0.0667
 2025-07-06 21:30:34.310673,Cincinnati Bengals - Cincinnati Bengals Regular Season Wins - Bengals Regular Season Wins,Over 9.5,-0.07710000000000006,0.5455,0.6226
+2025-07-07 06:48:27.489045,UEFA European Championship Women - Group C - Outright,Denmark (W),-0.0774,0.0476,0.125
+2025-07-07 06:48:27.492399,UEFA European Championship Women - Group C - Not To Qualify From Group,Germany (W),-0.0953,0.0476,0.1429
+2025-07-07 06:48:27.492399,UEFA European Championship Women - Group C - Not To Qualify From Group,Sweden (W),-0.16479999999999997,0.1429,0.3077
 2025-07-07 02:29:26.339767,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 14½,-0.1703,0.5122,0.6825
+2025-07-07 06:48:27.505235,UEFA European Championship Women - Group D - To Qualify From Group,England (W),-0.2349,0.5833,0.8182
+2025-07-07 06:48:27.495269,UEFA European Championship Women - Group C - To Qualify From Group,Denmark (W),-0.2417,0.1429,0.3846
+2025-07-07 06:48:27.502377,UEFA European Championship Women - Group D - Not To Qualify From Group,France (W),-0.2708,0.0625,0.3333
+2025-07-07 06:48:27.499032,UEFA European Championship Women - Group D - Outright,England (W),-0.3318,0.1333,0.4651

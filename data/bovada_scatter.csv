@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 10:40:00.601511,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,0.1129,0.8462,0.7333
 2025-07-08 14:37:18.473841,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,A'ja Wilson (LVA),0.11110000000000003,0.4444,0.3333
 2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,0.11070000000000002,0.3774,0.2667
+2025-07-08 22:36:11.108984,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Gavin Fien,0.10360000000000003,0.6491,0.5455
 2025-07-08 11:30:09.918969,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Rory McIlroy,0.09230000000000005,0.4,0.3077
 2025-07-08 16:44:06.676124,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Liam Doyle,0.0917,0.5917,0.5
 2025-07-08 16:44:06.658491,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gage Wood vs Tyler Bremner,Tyler Bremner,0.08730000000000004,0.6429,0.5556
@@ -22,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 10:40:00.648690,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,0.03920000000000001,0.7059,0.6667
 2025-07-08 14:37:18.473841,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Alanna Smith (MIN),0.03889999999999999,0.1818,0.1429
 2025-07-08 16:44:06.715021,MLB Specials - MLB Draft - MLB Draft 2025 - Jace LaViolette Draft Position,Over 19½,0.03479999999999994,0.6,0.5652
-2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.033399999999999985,0.8667,0.8333
 2025-07-08 16:44:06.683014,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Jamie Arnold,0.033399999999999985,0.1667,0.1333
+2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.033399999999999985,0.8667,0.8333
 2025-07-08 16:44:06.683014,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Ethan Holliday,0.03090000000000004,0.6226,0.5917
 2025-07-08 14:37:19.382271,Wide Receivers - NFL 2025-26 Receiving Yards - Malik Nabers Regular Season Total Receiving Yards 2025-26,Under 1150.5,0.030399999999999983,0.5652,0.5348
 2025-07-08 10:40:00.670146,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Miss,0.029600000000000015,0.4,0.3704
@@ -36,10 +37,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 16:44:06.811933,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.023800000000000043,0.5238,0.5
 2025-07-08 16:44:06.672730,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Liam Doyle,0.0238,0.0714,0.0476
 2025-07-08 16:44:06.534947,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.022199999999999998,0.8,0.7778
-2025-07-08 18:46:34.856850,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 8.5,0.02169999999999994,0.5455,0.5238
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.02169999999999994,0.5455,0.5238
+2025-07-08 18:46:34.856850,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 8.5,0.02169999999999994,0.5455,0.5238
 2025-07-08 15:35:33.060831,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.01999999999999999,0.2105,0.1905
 2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.019699999999999995,0.4545,0.4348
+2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.019600000000000006,0.3226,0.303
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.019000000000000017,0.2857,0.2667
 2025-07-08 18:46:34.693219,Conferences - Big 12 Conference Championship  - Big 12 Conference Championship Game Winner 2025 ,TCU,0.01830000000000001,0.0952,0.0769
 2025-07-08 16:44:06.534947,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.01820000000000002,0.2,0.1818
@@ -48,7 +50,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 16:44:06.672730,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Jamie Arnold,0.017099999999999997,0.0556,0.0385
 2025-07-08 20:35:50.048846,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.01680000000000001,0.2273,0.2105
 2025-07-08 16:44:06.523149,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,0.0161,0.0455,0.0294
-2025-07-08 09:36:36.358055,Andalucia - Andalucia - Winner,Louis Oosthuizen,0.0157,0.0435,0.0278
 2025-07-08 16:44:06.672730,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Seth Hernandez,0.014899999999999997,0.0625,0.0476
 2025-07-08 17:35:23.130164,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,0.01469999999999999,0.25,0.2353
 2025-07-08 21:32:14.168382,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Jaelan Phillips (MIA),0.014599999999999998,0.0196,0.005
@@ -60,29 +61,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 21:32:14.168382,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Bradley Chubb (MIA),0.011699999999999999,0.0196,0.0079
 2025-07-08 16:44:06.662102,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Xavier Neyens,0.011600000000000055,0.5238,0.5122
 2025-07-08 16:44:06.546646,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.010700000000000001,0.0385,0.0278
-2025-07-08 09:36:36.358055,Andalucia - Andalucia - Winner,Abraham Ancer,0.010600000000000002,0.0323,0.0217
-2025-07-08 09:36:36.375179,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Nelly Korda,0.0102,0.0769,0.0667
-2025-07-08 10:40:00.582013,Boxing Lines - Xander Zayas vs Jorge Garcia Perez - To Win the Bout,Xander Zayas,0.010199999999999987,0.8039,0.7937
 2025-07-08 15:35:33.056684,Boxing Lines - Tammara Thibeault vs Casamassa Mary - To Win the Bout,Tammara Thibeault,0.010199999999999987,0.9333,0.9231
 2025-07-08 16:44:06.788290,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Ellie Scotney,0.010199999999999987,0.9333,0.9231
+2025-07-08 10:40:00.582013,Boxing Lines - Xander Zayas vs Jorge Garcia Perez - To Win the Bout,Xander Zayas,0.010199999999999987,0.8039,0.7937
 2025-07-08 11:30:09.779811,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.010099999999999998,0.5556,0.5455
 2025-07-08 16:44:06.662102,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Gavin Fien,-0.010099999999999998,0.5455,0.5556
 2025-07-08 17:35:23.130164,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Minnesota Vikings,-0.0102,0.0667,0.0769
+2025-07-08 22:36:08.715715,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.010699999999999987,0.3226,0.3333
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Indiana Fever,-0.010700000000000001,0.0278,0.0385
 2025-07-08 16:44:06.676124,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Aiva Arquette,-0.010700000000000001,0.0278,0.0385
 2025-07-08 10:40:00.582013,Boxing Lines - Xander Zayas vs Jorge Garcia Perez - To Win the Bout,Jorge Garcia Perez,-0.010800000000000032,0.2632,0.274
-2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,-0.010899999999999993,0.1429,0.1538
 2025-07-08 18:46:34.693219,Conferences - Big 12 Conference Championship  - Big 12 Conference Championship Game Winner 2025 ,Arizona State,-0.010899999999999993,0.1429,0.1538
-2025-07-08 09:36:36.364035,ISCO Championship - ISCO Championship - Winner,Jackson Koivun,-0.011199999999999995,0.0476,0.0588
+2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,-0.010899999999999993,0.1429,0.1538
 2025-07-08 16:44:06.540824,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.011499999999999955,0.6552,0.6667
 2025-07-08 11:30:09.779811,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.011600000000000055,0.5122,0.5238
 2025-07-08 13:02:29.420885,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.012199999999999989,0.5,0.5122
 2025-07-08 16:44:06.517335,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,-0.012700000000000003,0.0196,0.0323
 2025-07-08 14:37:18.473841,WNBA Awards - Defensive Player of the Year 2025 - Defensive Player of the Year 2025,Aliyah Boston (IND),-0.012700000000000003,0.0196,0.0323
-2025-07-08 09:36:36.290370,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.012700000000000045,0.6364,0.6491
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Seattle Storm,-0.012800000000000002,0.0217,0.0345
-2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,-0.012899999999999995,0.1538,0.1667
 2025-07-08 16:44:06.529174,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,-0.012899999999999995,0.1538,0.1667
+2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,-0.012899999999999995,0.1538,0.1667
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat New York Liberty,-0.012999999999999998,0.0164,0.0294
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Atlanta Dream To Beat New York Liberty,-0.012999999999999998,0.0164,0.0294
 2025-07-08 21:32:15.981975,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.0131,0.7647,0.7778
@@ -90,7 +88,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 10:40:00.644425,Cut Lines - Matt Fitzpatrick - Make Cut / Miss Cut - Matt Fitzpatrick,Miss,-0.013300000000000034,0.3571,0.3704
 2025-07-08 16:44:06.780331,Boxing Lines - Tammara Thibeault vs Casamassa Mary - To Win the Bout,Casamassa Mary,-0.013899999999999996,0.1111,0.125
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Minnesota Lynx,-0.014099999999999994,0.0526,0.0667
-2025-07-08 09:36:36.364035,ISCO Championship - ISCO Championship - Winner,Kris Ventura,-0.014099999999999998,0.0244,0.0385
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Las Vegas Aces,-0.014100000000000001,0.0385,0.0526
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat Minnesota Lynx,-0.014899999999999997,0.0476,0.0625
 2025-07-08 16:44:06.546646,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.015199999999999991,0.9681,0.9833
@@ -100,6 +97,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 20:35:50.048846,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Cherneka Johnson,-0.016799999999999926,0.8403,0.8571
 2025-07-08 16:44:06.683014,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Aiva Arquette,-0.0179,0.125,0.1429
 2025-07-08 15:35:33.060831,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Cherneka Johnson,-0.017900000000000027,0.8571,0.875
+2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.01820000000000002,0.1818,0.2
+2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Marcos Leonardo (Al Hilal),-0.01820000000000002,0.1818,0.2
+2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Angel Di Maria (Benfica),-0.01820000000000002,0.1818,0.2
 2025-07-08 13:49:05.148148,Scottish Open - Scottish Open - Winner,Scottie Scheffler,-0.01820000000000002,0.1818,0.2
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat New York Liberty,-0.019099999999999992,0.0476,0.0667
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Indiana Fever,-0.019099999999999995,0.0244,0.0435
@@ -113,6 +113,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 16:44:06.523149,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.023799999999999988,0.4762,0.5
 2025-07-08 16:44:06.529174,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.024,0.0385,0.0625
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Seattle Storm,-0.024299999999999995,0.0526,0.0769
+2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.02440000000000009,0.7403,0.7647
 2025-07-08 16:44:06.679566,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Jojo Parker,-0.025300000000000003,0.1176,0.1429
 2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,-0.025499999999999967,0.4,0.4255
 2025-07-08 10:40:00.670146,Cut Lines - Harry Hall - Make Cut / Miss Cut - Harry Hall,Make,-0.025600000000000067,0.6667,0.6923
@@ -148,6 +149,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 11:30:09.918969,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Scottie Scheffler,-0.08940000000000003,0.6667,0.7561
 2025-07-08 16:44:06.648217,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Billy Carlson vs JoJo Parker,Billy Carlson,-0.0917,0.5,0.5917
 2025-07-08 16:44:06.672730,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Ethan Holliday,-0.09999999999999998,0.4,0.5
+2025-07-08 22:36:11.108984,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Xavier Neyens,-0.10710000000000003,0.4167,0.5238
 2025-07-08 10:40:00.601511,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,-0.11109999999999998,0.2222,0.3333
 2025-07-08 16:44:06.742001,MLB Specials - MLB Draft - MLB Draft 2025 - Seth Hernandez Draft Position,Over 6½,-0.13040000000000002,0.4348,0.5652
 2025-07-08 10:40:00.614399,Cut Lines - Robert MacIntyre - Make Cut / Miss Cut - Robert MacIntyre,Miss,-0.13190000000000002,0.3125,0.4444

@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 02:25:39.937010,Cut Lines - Emiliano Grillo - Make Cut / Miss Cut - Emiliano Grillo,Make,0.1704,0.8,0.6296
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alexia Putellas,0.1238,0.2667,0.1429
-2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Chelsea,0.11070000000000002,0.3774,0.2667
 2025-07-08 22:36:11.108984,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Gavin Fien,0.10360000000000003,0.6491,0.5455
 2025-07-09 02:25:39.954462,Cut Lines - Mark Hubbard - Make Cut / Miss Cut - Mark Hubbard,Make,0.10089999999999999,0.75,0.6491
 2025-07-09 02:25:39.932645,Cut Lines - Michael Thorbjornsen - Make Cut / Miss Cut - Michael Thorbjornsen,Make,0.10000000000000009,0.8333,0.7333
@@ -12,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,0.038899999999999935,0.8571,0.8182
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.037800000000000056,0.5833,0.5455
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,0.03640000000000004,0.4,0.3636
+2025-07-09 09:37:18.518013,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.027800000000000047,0.75,0.7222
 2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,0.026499999999999968,0.5917,0.5652
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.0252,0.7222,0.697
 2025-07-09 02:25:36.822967,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Chelsea & Serhou Guirassy,0.024299999999999995,0.0769,0.0526
@@ -20,12 +20,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.019600000000000006,0.3226,0.303
 2025-07-08 23:32:30.917422,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.018100000000000005,0.4348,0.4167
 2025-07-09 08:44:21.255633,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),0.017600000000000005,0.3509,0.3333
-2025-07-08 21:32:15.981975,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.017299999999999982,0.303,0.2857
 2025-07-09 08:44:21.255633,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Sweden (W),0.015100000000000002,0.1818,0.1667
 2025-07-08 23:32:30.888693,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.01469999999999999,0.25,0.2353
-2025-07-08 21:32:14.168382,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Jaelan Phillips (MIA),0.014599999999999998,0.0196,0.005
+2025-07-09 09:37:18.441534,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Tammara Thibeault,0.014100000000000001,0.9474,0.9333
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Lea Schuller,0.013899999999999996,0.125,0.1111
-2025-07-08 21:32:14.168382,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Bradley Chubb (MIA),0.011699999999999999,0.0196,0.0079
+2025-07-09 09:37:18.489891,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.011700000000000016,0.2222,0.2105
 2025-07-09 08:44:23.907387,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.01150000000000001,0.3448,0.3333
 2025-07-09 07:34:04.010528,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.011099999999999999,0.7333,0.7222
 2025-07-09 02:25:39.296048,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.01100000000000001,0.5348,0.5238
@@ -33,24 +32,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,0.010899999999999993,0.1538,0.1429
 2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Walter Clayton Jr. (WAS),0.010700000000000001,0.0385,0.0278
 2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Ajay Mitchell (OKC),0.010700000000000001,0.0385,0.0278
-2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Memphis Grizzlies,0.0102,0.0769,0.0667
 2025-07-09 08:44:21.249031,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Sweden (W),0.0102,0.0769,0.0667
+2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Memphis Grizzlies,0.0102,0.0769,0.0667
 2025-07-09 08:44:23.828838,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Tammara Thibeault,0.010199999999999987,0.9333,0.9231
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Athenea del Castillo,-0.010100000000000001,0.0244,0.0345
-2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Houston Texans,-0.0102,0.0667,0.0769
 2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Miami Heat,-0.0102,0.0667,0.0769
-2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Kansas City Chiefs,-0.010499999999999982,0.2,0.2105
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Houston Texans,-0.0102,0.0667,0.0769
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Baltimore Ravens,-0.010499999999999982,0.2,0.2105
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Kansas City Chiefs,-0.010499999999999982,0.2,0.2105
 2025-07-09 02:25:39.296048,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010699999999999932,0.5348,0.5455
 2025-07-08 22:36:08.715715,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.010699999999999987,0.3226,0.3333
+2025-07-09 09:37:18.489891,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Vladyslav Sirenko,-0.01090000000000002,0.8462,0.8571
 2025-07-09 04:03:01.391648,Andalucia - Andalucia - Winner,Tyrrell Hatton,-0.011099999999999999,0.1,0.1111
 2025-07-09 08:44:23.907387,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.011099999999999999,0.7222,0.7333
-2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Claudia Pina,-0.011199999999999995,0.0476,0.0588
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Vivianne Miedema,-0.011199999999999995,0.0476,0.0588
+2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Claudia Pina,-0.011199999999999995,0.0476,0.0588
 2025-07-09 07:34:04.010528,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.01150000000000001,0.3333,0.3448
-2025-07-08 21:32:15.981975,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.0131,0.7647,0.7778
-2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Filippa Angeldal,-0.014099999999999998,0.0244,0.0385
+2025-07-09 09:37:18.441534,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Mary Casamassa,-0.013899999999999996,0.1111,0.125
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Salma Paralluelo,-0.014099999999999998,0.0244,0.0385
+2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Filippa Angeldal,-0.014099999999999998,0.0244,0.0385
 2025-07-08 23:32:30.888693,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Cherneka Johnson,-0.015100000000000002,0.8182,0.8333
 2025-07-09 06:47:57.646361,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.017899999999999916,0.7647,0.7826
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Ada Hegerberg,-0.018200000000000004,0.0294,0.0476
@@ -60,15 +60,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.018799999999999983,0.3448,0.3636
 2025-07-08 23:32:30.917422,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.019499999999999962,0.6296,0.6491
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alessia Russio,-0.0203,0.0385,0.0588
-2025-07-08 21:32:16.193513,Andalucia - Andalucia - Winner,Cameron Smith,-0.0203,0.0385,0.0588
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Cincinnati Bengals,-0.0208,0.0625,0.0833
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.021999999999999964,0.2857,0.3077
 2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.023799999999999988,0.4762,0.5
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.023799999999999988,0.3333,0.3571
 2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.02440000000000009,0.7403,0.7647
-2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,-0.025499999999999967,0.4,0.4255
 2025-07-09 06:47:55.578475,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 11½,-0.026499999999999968,0.5652,0.5917
-2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.030299999999999994,0.3333,0.3636
+2025-07-09 09:37:18.518013,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.032299999999999995,0.3125,0.3448
 2025-07-09 05:42:31.337170,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.033299999999999996,0.4545,0.4878
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.04139999999999999,0.5238,0.5652
 2025-07-09 02:25:39.340068,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.043300000000000005,0.697,0.7403

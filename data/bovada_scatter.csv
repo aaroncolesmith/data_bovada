@@ -4,21 +4,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 22:36:11.108984,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gavin Fien vs Xavier Neyens,Gavin Fien,0.10360000000000003,0.6491,0.5455
 2025-07-09 02:25:39.954462,Cut Lines - Mark Hubbard - Make Cut / Miss Cut - Mark Hubbard,Make,0.10089999999999999,0.75,0.6491
 2025-07-09 02:25:39.932645,Cut Lines - Michael Thorbjornsen - Make Cut / Miss Cut - Michael Thorbjornsen,Make,0.10000000000000009,0.8333,0.7333
+2025-07-09 06:47:55.586753,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 13½,0.06220000000000003,0.5744,0.5122
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Buffalo Bills,0.053300000000000014,0.339,0.2857
 2025-07-09 02:25:39.340068,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.04099999999999998,0.3636,0.3226
 2025-07-09 05:42:31.337170,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.040999999999999925,0.6154,0.5744
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,0.038899999999999935,0.8571,0.8182
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.037800000000000056,0.5833,0.5455
 2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.033399999999999985,0.8667,0.8333
 2025-07-08 19:28:34.548954,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.02729999999999999,0.3448,0.3175
+2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,0.026499999999999968,0.5917,0.5652
 2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.025599999999999956,0.6,0.5744
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.0252,0.7222,0.697
 2025-07-09 02:25:36.822967,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Chelsea & Serhou Guirassy,0.024299999999999995,0.0769,0.0526
+2025-07-09 06:47:55.578475,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 11½,0.023799999999999988,0.5,0.4762
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.02169999999999994,0.5455,0.5238
-2025-07-08 18:46:34.856850,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Under 8.5,0.02169999999999994,0.5455,0.5238
+2025-07-09 06:47:57.646361,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.021299999999999986,0.303,0.2817
 2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.019699999999999995,0.4545,0.4348
 2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.019600000000000006,0.3226,0.303
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.019000000000000017,0.2857,0.2667
-2025-07-08 18:46:34.693219,Conferences - Big 12 Conference Championship  - Big 12 Conference Championship Game Winner 2025 ,TCU,0.01830000000000001,0.0952,0.0769
 2025-07-08 23:32:30.917422,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,0.018100000000000005,0.4348,0.4167
 2025-07-08 21:32:15.981975,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.017299999999999982,0.303,0.2857
 2025-07-08 20:35:50.048846,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.01680000000000001,0.2273,0.2105
@@ -31,17 +34,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Ajay Mitchell (OKC),0.010700000000000001,0.0385,0.0278
 2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Walter Clayton Jr. (WAS),0.010700000000000001,0.0385,0.0278
 2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Memphis Grizzlies,0.0102,0.0769,0.0667
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Houston Texans,-0.0102,0.0667,0.0769
 2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Miami Heat,-0.0102,0.0667,0.0769
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Baltimore Ravens,-0.010499999999999982,0.2,0.2105
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Kansas City Chiefs,-0.010499999999999982,0.2,0.2105
 2025-07-09 02:25:39.296048,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010699999999999932,0.5348,0.5455
 2025-07-08 22:36:08.715715,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.010699999999999987,0.3226,0.3333
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Indiana Fever,-0.010700000000000001,0.0278,0.0385
-2025-07-08 18:46:34.693219,Conferences - Big 12 Conference Championship  - Big 12 Conference Championship Game Winner 2025 ,Arizona State,-0.010899999999999993,0.1429,0.1538
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,-0.010899999999999993,0.1429,0.1538
 2025-07-09 04:03:01.391648,Andalucia - Andalucia - Winner,Tyrrell Hatton,-0.011099999999999999,0.1,0.1111
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Seattle Storm,-0.012800000000000002,0.0217,0.0345
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,-0.012899999999999995,0.1538,0.1667
-2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat New York Liberty,-0.012999999999999998,0.0164,0.0294
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Atlanta Dream To Beat New York Liberty,-0.012999999999999998,0.0164,0.0294
+2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat New York Liberty,-0.012999999999999998,0.0164,0.0294
 2025-07-08 21:32:15.981975,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.0131,0.7647,0.7778
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Minnesota Lynx,-0.014099999999999994,0.0526,0.0667
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Las Vegas Aces,-0.014100000000000001,0.0385,0.0526
@@ -50,23 +55,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Las Vegas Aces,-0.015300000000000001,0.0323,0.0476
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat New York Liberty,-0.0159,0.0164,0.0323
 2025-07-08 20:35:50.048846,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Cherneka Johnson,-0.016799999999999926,0.8403,0.8571
-2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Angel Di Maria (Benfica),-0.01820000000000002,0.1818,0.2
+2025-07-09 06:47:57.646361,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.017899999999999916,0.7647,0.7826
 2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.01820000000000002,0.1818,0.2
+2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Angel Di Maria (Benfica),-0.01820000000000002,0.1818,0.2
 2025-07-08 22:36:08.718048,Club World Cup - FIFA Club World Cup 2025 - Top Goalscorer,Marcos Leonardo (Al Hilal),-0.01820000000000002,0.1818,0.2
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.018799999999999983,0.3448,0.3636
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat New York Liberty,-0.019099999999999992,0.0476,0.0667
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Indiana Fever,-0.019099999999999995,0.0244,0.0435
 2025-07-08 23:32:30.917422,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,-0.019499999999999962,0.6296,0.6491
 2025-07-08 21:32:16.193513,Andalucia - Andalucia - Winner,Cameron Smith,-0.0203,0.0385,0.0588
-2025-07-08 18:46:34.856850,New England Patriots - New England Patriots Regular Season Wins - Patriots Regular Season Wins,Over 8.5,-0.02169999999999994,0.5238,0.5455
+2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Cincinnati Bengals,-0.0208,0.0625,0.0833
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.021999999999999964,0.2857,0.3077
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat New York Liberty,-0.0232,0.0435,0.0667
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.023799999999999988,0.3333,0.3571
+2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.023799999999999988,0.4762,0.5
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Seattle Storm,-0.024299999999999995,0.0526,0.0769
 2025-07-08 22:36:11.306025,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.02440000000000009,0.7403,0.7647
 2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Paris Saint-Germain,-0.025499999999999967,0.4,0.4255
+2025-07-09 06:47:55.578475,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 11½,-0.026499999999999968,0.5652,0.5917
 2025-07-08 20:35:47.873466,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.027999999999999914,0.8182,0.8462
-2025-07-08 18:46:34.693219,Conferences - Big 12 Conference Championship  - Big 12 Conference Championship Game Winner 2025 ,BYU,-0.028399999999999995,0.0625,0.0909
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,-0.028799999999999992,0.125,0.1538
 2025-07-08 20:35:47.870313,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Golden State Valkyries,-0.029299999999999993,0.0476,0.0769
 2025-07-08 21:32:13.371654,Club World Cup - FIFA Club World Cup 2025 - Winner,Real Madrid,-0.030299999999999994,0.3333,0.3636
@@ -80,6 +87,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-08 20:35:47.866826,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Indiana Fever,-0.048600000000000004,0.0625,0.1111
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Minnesota Lynx,-0.04909999999999999,0.1176,0.1667
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs New York Liberty,-0.059099999999999986,0.2857,0.3448
+2025-07-09 06:47:55.586753,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 13½,-0.06779999999999997,0.4878,0.5556
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,-0.0739,0.1,0.1739
 2025-07-08 20:35:47.862984,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs New York Liberty,-0.08659999999999998,0.0952,0.1818
 2025-07-09 02:25:39.932645,Cut Lines - Michael Thorbjornsen - Make Cut / Miss Cut - Michael Thorbjornsen,Miss,-0.09799999999999998,0.2353,0.3333

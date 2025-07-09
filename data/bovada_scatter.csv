@@ -5,22 +5,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 02:25:39.932645,Cut Lines - Michael Thorbjornsen - Make Cut / Miss Cut - Michael Thorbjornsen,Make,0.10000000000000009,0.8333,0.7333
 2025-07-09 06:47:55.586753,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 13½,0.06220000000000003,0.5744,0.5122
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Buffalo Bills,0.053300000000000014,0.339,0.2857
+2025-07-09 13:47:26.443620,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.04459999999999997,0.3571,0.3125
 2025-07-09 02:25:39.340068,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.04099999999999998,0.3636,0.3226
 2025-07-09 05:42:31.337170,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.040999999999999925,0.6154,0.5744
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,0.038899999999999935,0.8571,0.8182
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.037800000000000056,0.5833,0.5455
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,0.03640000000000004,0.4,0.3636
 2025-07-09 13:03:02.131040,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs A. Scott - Request,Adam Scott,0.03489999999999999,0.5,0.4651
+2025-07-09 13:03:02.135354,Tournament Match-Ups - Tournament Match-Ups - M. McNealy vs C. Gotterup - Request,Maverick McNealy,0.03090000000000004,0.6226,0.5917
 2025-07-09 13:03:02.118131,Tournament Match-Ups - Tournament Match-Ups - BH An v N. Hojgaard - Request,Nicolai Hojgaard,0.030399999999999983,0.5652,0.5348
 2025-07-09 13:03:02.143934,Tournament Match-Ups - Tournament Match-Ups - T. Detry v H. English - Request,Thomas Detry,0.030399999999999983,0.5652,0.5348
-2025-07-09 13:03:02.139656,Tournament Match-Ups - Tournament Match-Ups - R. Neergaard Petersen v B. Harman - Request,Rasmus Neergaard Petersen,0.028900000000000037,0.5744,0.5455
 2025-07-09 13:03:02.109504,Tournament Match-Ups - Tournament Match-Ups - A. Del Rey v C. Hill - Request,Alejandro Del Rey,0.028900000000000037,0.5744,0.5455
+2025-07-09 13:03:02.139656,Tournament Match-Ups - Tournament Match-Ups - R. Neergaard Petersen v B. Harman - Request,Rasmus Neergaard Petersen,0.028900000000000037,0.5744,0.5455
 2025-07-09 09:37:18.518013,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.027800000000000047,0.75,0.7222
 2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,0.026499999999999968,0.5917,0.5652
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.0252,0.7222,0.697
 2025-07-09 02:25:36.822967,Club World Cup - FIFA Club World Cup 2025 - Winner & Top Goalscorer,Chelsea & Serhou Guirassy,0.024299999999999995,0.0769,0.0526
 2025-07-09 06:47:55.578475,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 11½,0.023799999999999988,0.5,0.4762
 2025-07-09 06:47:57.646361,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.021299999999999986,0.303,0.2817
+2025-07-09 13:47:26.410710,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Vladyslav Sirenko,0.020500000000000074,0.8667,0.8462
 2025-07-09 08:44:21.255633,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),0.017600000000000005,0.3509,0.3333
 2025-07-09 08:44:21.255633,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Sweden (W),0.015100000000000002,0.1818,0.1667
 2025-07-09 09:37:18.441534,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Tammara Thibeault,0.014100000000000001,0.9474,0.9333
@@ -29,55 +32,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 09:37:18.489891,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.011700000000000016,0.2222,0.2105
 2025-07-09 13:03:01.796681,Boxing Lines - Kenshiro Teraji vs Ricardo Sandoval - To Win the Bout,Ricardo Sandoval,0.011700000000000016,0.2222,0.2105
 2025-07-09 08:44:23.907387,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.01150000000000001,0.3448,0.3333
+2025-07-09 13:47:24.149422,Western Conference - Western Conference 2025-26 - Conference Winner,L.A. Clippers,0.011199999999999995,0.0588,0.0476
+2025-07-09 13:47:26.448027,Boxing Lines - Diego Pacheco vs Trevor McCumby - To Win the Bout,Trevor McCumby,0.011099999999999999,0.1111,0.1
 2025-07-09 07:34:04.010528,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.011099999999999999,0.7333,0.7222
 2025-07-09 02:25:39.296048,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.01100000000000001,0.5348,0.5238
 2025-07-09 04:03:01.391648,Andalucia - Andalucia - Winner,Jon Rahm,0.010899999999999993,0.1538,0.1429
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,0.010899999999999993,0.1538,0.1429
-2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Ajay Mitchell (OKC),0.010700000000000001,0.0385,0.0278
 2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Walter Clayton Jr. (WAS),0.010700000000000001,0.0385,0.0278
+2025-07-09 05:42:31.260345,NBA Summer League - NBA 2K26 Summer League - MVP,Ajay Mitchell (OKC),0.010700000000000001,0.0385,0.0278
 2025-07-09 10:41:13.374114,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.010699999999999932,0.5455,0.5348
 2025-07-09 08:44:21.249031,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Sweden (W),0.0102,0.0769,0.0667
 2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Memphis Grizzlies,0.0102,0.0769,0.0667
 2025-07-09 08:44:23.828838,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Tammara Thibeault,0.010199999999999987,0.9333,0.9231
+2025-07-09 13:47:24.129138,NBA Championship - NBA Championship 2025-26 - Champion,L.A. Clippers,0.010100000000000001,0.0345,0.0244
 2025-07-09 13:03:01.710980,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.010099999999999998,0.5556,0.5455
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Athenea del Castillo,-0.010100000000000001,0.0244,0.0345
-2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Miami Heat,-0.0102,0.0667,0.0769
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Houston Texans,-0.0102,0.0667,0.0769
+2025-07-09 05:42:31.256753,NBA Summer League - NBA 2K26 Summer League - Champion,Miami Heat,-0.0102,0.0667,0.0769
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Baltimore Ravens,-0.010499999999999982,0.2,0.2105
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Kansas City Chiefs,-0.010499999999999982,0.2,0.2105
 2025-07-09 02:25:39.296048,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010699999999999932,0.5348,0.5455
-2025-07-09 09:37:18.489891,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Vladyslav Sirenko,-0.01090000000000002,0.8462,0.8571
 2025-07-09 13:03:01.796681,Boxing Lines - Kenshiro Teraji vs Ricardo Sandoval - To Win the Bout,Kenshiro Teraji,-0.01090000000000002,0.8462,0.8571
+2025-07-09 09:37:18.489891,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Vladyslav Sirenko,-0.01090000000000002,0.8462,0.8571
 2025-07-09 10:41:13.374114,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.01100000000000001,0.5238,0.5348
 2025-07-09 04:03:01.391648,Andalucia - Andalucia - Winner,Tyrrell Hatton,-0.011099999999999999,0.1,0.1111
-2025-07-09 08:44:23.907387,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.011099999999999999,0.7222,0.7333
 2025-07-09 11:31:13.161942,Boxing Lines - Diego Pacheco vs Trevor McCumby - To Win the Bout,Trevor McCumby,-0.011099999999999999,0.1,0.1111
-2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Vivianne Miedema,-0.011199999999999995,0.0476,0.0588
+2025-07-09 08:44:23.907387,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.011099999999999999,0.7222,0.7333
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Claudia Pina,-0.011199999999999995,0.0476,0.0588
+2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Vivianne Miedema,-0.011199999999999995,0.0476,0.0588
 2025-07-09 07:34:04.010528,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.01150000000000001,0.3333,0.3448
 2025-07-09 13:03:01.710980,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.011600000000000055,0.5122,0.5238
 2025-07-09 09:37:18.441534,Boxing Lines - Tammara Thibeault vs Mary Casamassa - To Win the Bout,Mary Casamassa,-0.013899999999999996,0.1111,0.125
-2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Filippa Angeldal,-0.014099999999999998,0.0244,0.0385
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Salma Paralluelo,-0.014099999999999998,0.0244,0.0385
+2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Filippa Angeldal,-0.014099999999999998,0.0244,0.0385
 2025-07-09 06:47:57.646361,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.017899999999999916,0.7647,0.7826
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Ada Hegerberg,-0.018200000000000004,0.0294,0.0476
 2025-07-09 04:03:00.761132,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.018799999999999983,0.3448,0.3636
 2025-07-09 08:44:21.252213,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alessia Russio,-0.0203,0.0385,0.0588
 2025-07-09 06:47:55.749721,AFC Championship - AFC Playoffs No. 1 Seeded Team - #1 AFC Seed,Cincinnati Bengals,-0.0208,0.0625,0.0833
 2025-07-09 05:42:31.234057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.021999999999999964,0.2857,0.3077
-2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.023799999999999988,0.4762,0.5
+2025-07-09 13:47:26.410710,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,-0.022199999999999998,0.2,0.2222
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,-0.023799999999999988,0.3333,0.3571
+2025-07-09 06:47:55.582637,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,-0.023799999999999988,0.4762,0.5
 2025-07-09 06:47:55.578475,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 11½,-0.026499999999999968,0.5652,0.5917
 2025-07-09 13:03:02.135354,Tournament Match-Ups - Tournament Match-Ups - M. McNealy vs C. Gotterup - Request,Chris Gotterup,-0.031799999999999995,0.4444,0.4762
 2025-07-09 09:37:18.518013,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.032299999999999995,0.3125,0.3448
 2025-07-09 05:42:31.337170,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.033299999999999996,0.4545,0.4878
 2025-07-09 13:03:02.131040,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs A. Scott - Request,Ludvig Aberg,-0.03479999999999994,0.5652,0.6
-2025-07-09 13:03:02.143934,Tournament Match-Ups - Tournament Match-Ups - T. Detry v H. English - Request,Harris English,-0.03480000000000005,0.5,0.5348
 2025-07-09 13:03:02.118131,Tournament Match-Ups - Tournament Match-Ups - BH An v N. Hojgaard - Request,Byeong Hun An,-0.03480000000000005,0.5,0.5348
-2025-07-09 13:03:02.109504,Tournament Match-Ups - Tournament Match-Ups - A. Del Rey v C. Hill - Request,Calum Hill,-0.03600000000000003,0.4878,0.5238
+2025-07-09 13:03:02.143934,Tournament Match-Ups - Tournament Match-Ups - T. Detry v H. English - Request,Harris English,-0.03480000000000005,0.5,0.5348
 2025-07-09 13:03:02.139656,Tournament Match-Ups - Tournament Match-Ups - R. Neergaard Petersen v B. Harman - Request,Brian Harman,-0.03600000000000003,0.4878,0.5238
+2025-07-09 13:03:02.109504,Tournament Match-Ups - Tournament Match-Ups - A. Del Rey v C. Hill - Request,Calum Hill,-0.03600000000000003,0.4878,0.5238
 2025-07-09 05:42:31.237228,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.04139999999999999,0.5238,0.5652
 2025-07-09 02:25:39.340068,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.043300000000000005,0.697,0.7403
+2025-07-09 13:47:26.443620,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.04410000000000003,0.7059,0.75
 2025-07-09 06:47:55.586753,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 13½,-0.06779999999999997,0.4878,0.5556
 2025-07-09 02:25:39.932645,Cut Lines - Michael Thorbjornsen - Make Cut / Miss Cut - Michael Thorbjornsen,Miss,-0.09799999999999998,0.2353,0.3333
 2025-07-09 02:25:39.954462,Cut Lines - Mark Hubbard - Make Cut / Miss Cut - Mark Hubbard,Miss,-0.10420000000000001,0.3125,0.4167

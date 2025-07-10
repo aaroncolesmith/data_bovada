@@ -8,16 +8,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 20:35:38.208835,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Amanda Serrano,0.032299999999999995,0.6875,0.6552
 2025-07-10 04:02:39.722063,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Paige Bueckers (DAL),0.03059999999999996,0.9681,0.9375
 2025-07-09 23:32:26.565438,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,England (W),0.028799999999999992,0.1538,0.125
+2025-07-10 05:40:52.193150,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs R. MacIntyre - 1st Round Match-Ups,Robert MacIntyre,0.02169999999999994,0.5455,0.5238
 2025-07-10 02:26:00.361531,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.021100000000000008,0.2564,0.2353
 2025-07-10 02:26:01.119878,Tournament Match-Ups - Tournament Match-Ups - J J Spaun vs R. Hojgaard - Tournament Match-Ups,Rasmus Hojgaard,0.02079999999999993,0.5556,0.5348
 2025-07-10 02:26:01.219355,Round Match-Ups - 1st Round Match-Ups - E. Grillo vs M. Hubbard - 1st Round Match-Ups,Emiliano Grillo,0.01970000000000005,0.5652,0.5455
 2025-07-10 02:26:01.103465,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Rory McIlroy,0.018100000000000005,0.4348,0.4167
 2025-07-09 23:32:27.011337,NBA Summer League - NBA 2K26 Summer League - Champion,Memphis Grizzlies,0.013999999999999999,0.0909,0.0769
+2025-07-10 05:40:51.540195,Boxing Lines - Ramla Ali vs Lila dos Santos Furtado - To Win the Bout,Lila dos Santos Furtado,0.01369999999999999,0.241,0.2273
 2025-07-09 20:35:38.188505,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Cherneka Johnson,0.0129999999999999,0.8261,0.8131
 2025-07-09 23:32:29.023862,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.012199999999999989,0.5122,0.5
 2025-07-10 04:02:41.713350,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Ellie Scotney,-0.010199999999999987,0.9231,0.9333
 2025-07-10 02:26:00.393779,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,William Zepeda,-0.011099999999999999,0.1,0.1111
 2025-07-09 22:36:19.406280,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.012199999999999989,0.5,0.5122
+2025-07-10 05:40:51.540195,Boxing Lines - Ramla Ali vs Lila dos Santos Furtado - To Win the Bout,Ramla Ali,-0.014200000000000101,0.8261,0.8403
 2025-07-09 23:32:26.565438,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Sweden (W),-0.014399999999999996,0.0625,0.0769
 2025-07-09 20:35:38.188505,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,-0.015400000000000025,0.241,0.2564
 2025-07-10 04:02:39.569395,"Superman - ""Superman"" Opening Weekend Box Office - Proposition",$108-116 Million,-0.016699999999999993,0.25,0.2667
@@ -27,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-09 23:32:26.567728,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),-0.02200000000000002,0.6923,0.7143
 2025-07-10 02:26:01.119878,Tournament Match-Ups - Tournament Match-Ups - J J Spaun vs R. Hojgaard - Tournament Match-Ups,J J Spaun,-0.022600000000000064,0.5122,0.5348
 2025-07-10 02:26:01.219355,Round Match-Ups - 1st Round Match-Ups - E. Grillo vs M. Hubbard - 1st Round Match-Ups,Mark Hubbard,-0.023799999999999988,0.4762,0.5
+2025-07-10 05:40:52.193150,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs R. MacIntyre - 1st Round Match-Ups,Ludvig Aberg,-0.023800000000000043,0.5,0.5238
 2025-07-10 04:02:39.722063,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.0245,0.0588,0.0833
 2025-07-09 20:35:38.208835,Boxing Lines - Katie Taylor vs Amanda Serrano - To Win the Bout,Katie Taylor,-0.030799999999999994,0.3774,0.4082
 2025-07-10 04:02:39.726383,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.034100000000000005,0.0909,0.125

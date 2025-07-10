@@ -1,10 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-10 06:48:23.841223,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),0.19179999999999997,0.6,0.4082
-2025-07-10 06:48:23.856878,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.1388999999999999,0.9167,0.7778
 2025-07-10 06:48:23.862072,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Ronald Acuna Jr. (ATL),0.1388999999999999,0.9167,0.7778
+2025-07-10 06:48:23.856878,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Jacob deGrom (TEX),0.1388999999999999,0.9167,0.7778
 2025-07-10 06:48:23.872571,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Craig Counsell (CHC),0.1266,0.5917,0.4651
 2025-07-10 06:48:23.835823,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),0.12380000000000002,0.5238,0.4
 2025-07-10 04:02:39.726383,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (PHO),0.1039,0.1333,0.0294
+2025-07-10 10:41:08.952121,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.09689999999999999,0.3636,0.2667
 2025-07-09 23:32:26.567728,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),0.0917,0.3774,0.2857
 2025-07-10 10:41:08.897060,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Lauren James,0.0915,0.1111,0.0196
 2025-07-10 06:48:23.851658,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Edwin Diaz (NYM),0.0807,0.4255,0.3448
@@ -25,8 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-10 08:44:29.795946,Match-Ups - Tournament Match Up - C. Tarren vs J. Scrivener - Request,Callum Tarren,0.030399999999999983,0.5652,0.5348
 2025-07-10 08:44:29.786934,Match-Ups - Tournament Match Up - A. Schenk vs A. Hadwin - Request,Adam Schenk,0.030399999999999983,0.5652,0.5348
 2025-07-10 08:44:29.677184,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs T. Gooch - Tournament Match-Ups,Sebastian Munoz,0.030399999999999983,0.5652,0.5348
-2025-07-10 08:44:29.673123,Tournament Match-Ups - Tournament Match-Ups - P. Reed vs S. Garcia - Tournament Match-Ups,Patrick Reed,0.028900000000000037,0.5744,0.5455
 2025-07-10 08:44:29.791591,Match-Ups - Tournament Match Up - A. Svensson vs J. Suber - Request,Jackson Suber,0.028900000000000037,0.5744,0.5455
+2025-07-10 08:44:29.673123,Tournament Match-Ups - Tournament Match-Ups - P. Reed vs S. Garcia - Tournament Match-Ups,Patrick Reed,0.028900000000000037,0.5744,0.5455
 2025-07-09 23:32:26.565438,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,England (W),0.028799999999999992,0.1538,0.125
 2025-07-10 06:48:23.862072,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Spencer Strider (ATL),0.0278,0.0556,0.0278
 2025-07-10 10:41:08.958934,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.02779999999999999,0.25,0.2222
@@ -35,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-10 05:40:52.193150,Round Match-Ups - 1st Round Match-Ups - L. Aberg vs R. MacIntyre - 1st Round Match-Ups,Robert MacIntyre,0.02169999999999994,0.5455,0.5238
 2025-07-10 02:26:00.361531,Boxing Lines - Cherneka Johnson vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.021100000000000008,0.2564,0.2353
 2025-07-10 02:26:01.119878,Tournament Match-Ups - Tournament Match-Ups - J J Spaun vs R. Hojgaard - Tournament Match-Ups,Rasmus Hojgaard,0.02079999999999993,0.5556,0.5348
-2025-07-10 06:48:23.830478,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),0.02020000000000001,0.1111,0.0909
 2025-07-10 10:41:08.962030,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.02020000000000001,0.1111,0.0909
+2025-07-10 06:48:23.830478,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),0.02020000000000001,0.1111,0.0909
 2025-07-10 02:26:01.219355,Round Match-Ups - 1st Round Match-Ups - E. Grillo vs M. Hubbard - 1st Round Match-Ups,Emiliano Grillo,0.01970000000000005,0.5652,0.5455
 2025-07-10 02:26:01.103465,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIlroy - Tournament Match-Ups,Rory McIlroy,0.018100000000000005,0.4348,0.4167
 2025-07-10 06:48:23.982651,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,William Zepeda,0.01759999999999999,0.1176,0.1
@@ -80,13 +81,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-10 10:41:08.897060,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Marie-Antoinette Katoto,-0.031,0.0278,0.0588
 2025-07-10 04:02:39.726383,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.034100000000000005,0.0909,0.125
 2025-07-10 09:37:11.058680,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Ellie Scotney,-0.03420000000000001,0.8889,0.9231
+2025-07-10 08:44:29.795946,Match-Ups - Tournament Match Up - C. Tarren vs J. Scrivener - Request,Jason Scrivener,-0.03480000000000005,0.5,0.5348
 2025-07-10 08:44:29.677184,Tournament Match-Ups - Tournament Match-Ups - S. Munoz vs T. Gooch - Tournament Match-Ups,Talor Gooch,-0.03480000000000005,0.5,0.5348
 2025-07-10 08:44:29.800319,Match-Ups - Tournament Match Up - D. Lipsky vs H. Higgs - Request,David Lipsky,-0.03480000000000005,0.5,0.5348
 2025-07-10 08:44:29.786934,Match-Ups - Tournament Match Up - A. Schenk vs A. Hadwin - Request,Adam Hadwin,-0.03480000000000005,0.5,0.5348
-2025-07-10 08:44:29.795946,Match-Ups - Tournament Match Up - C. Tarren vs J. Scrivener - Request,Jason Scrivener,-0.03480000000000005,0.5,0.5348
 2025-07-10 06:48:23.856878,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Spencer Torkelson (DET),-0.0353,0.0556,0.0909
-2025-07-10 08:44:29.791591,Match-Ups - Tournament Match Up - A. Svensson vs J. Suber - Request,Adam Svensson,-0.03600000000000003,0.4878,0.5238
 2025-07-10 08:44:29.673123,Tournament Match-Ups - Tournament Match-Ups - P. Reed vs S. Garcia - Tournament Match-Ups,Sergio Garcia,-0.03600000000000003,0.4878,0.5238
+2025-07-10 08:44:29.791591,Match-Ups - Tournament Match Up - A. Svensson vs J. Suber - Request,Adam Svensson,-0.03600000000000003,0.4878,0.5238
 2025-07-10 06:48:23.862072,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jung Hoo Lee (SF),-0.0392,0.0196,0.0588
 2025-07-10 08:44:29.132538,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.03980000000000006,0.6154,0.6552
 2025-07-10 06:48:23.872571,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Oliver Marmol (STL),-0.04169999999999999,0.125,0.1667

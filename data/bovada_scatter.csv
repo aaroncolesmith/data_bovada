@@ -21,15 +21,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,San Antonio Spurs,0.030199999999999998,0.0625,0.0323
 2025-07-11 02:28:49.723266,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,England (W),0.027999999999999997,0.1818,0.1538
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Oklahoma City Thunder,0.024299999999999995,0.0769,0.0526
-2025-07-11 06:47:40.785287,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Yamileth Mercado,0.023799999999999988,0.1667,0.1429
+2025-07-11 11:30:41.504906,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Yamileth Mercado,0.023799999999999988,0.1667,0.1429
 2025-07-11 04:07:32.863400,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.023799999999999988,0.1667,0.1429
+2025-07-11 06:47:40.785287,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Yamileth Mercado,0.023799999999999988,0.1667,0.1429
 2025-07-11 04:07:32.955226,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Cooper Flagg (DAL),0.023799999999999932,0.6667,0.6429
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Hye-Jin Choi,0.0232,0.0667,0.0435
 2025-07-11 09:36:07.073486,Round Match-Ups - 2nd Round Match-Ups - J. Thomas vs S. Burns - 2nd Round Match-Ups,Sam Burns,0.022600000000000064,0.5348,0.5122
 2025-07-11 04:07:32.299465,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,France (W),0.021999999999999964,0.3077,0.2857
 2025-07-11 09:36:07.069374,Round Match-Ups - 2nd Round Match-Ups - J. Knapp vs T. Olesen - 2nd Round Match-Ups,Jake Knapp,0.02169999999999994,0.5455,0.5238
-2025-07-11 05:40:20.266672,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.02079999999999993,0.5556,0.5348
 2025-07-11 09:36:07.065183,Round Match-Ups - 2nd Round Match-Ups - C. Conners vs S. Straka - 2nd Round Match-Ups,Sepp Straka,0.02079999999999993,0.5556,0.5348
+2025-07-11 05:40:20.266672,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.02079999999999993,0.5556,0.5348
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Indiana Pacers,0.0206,0.0385,0.0179
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Mao Saigo,0.019800000000000005,0.0476,0.0278
 2025-07-11 05:40:18.442467,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.019000000000000017,0.2857,0.2667
@@ -41,8 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 10:39:57.738888,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.016100000000000003,0.6078,0.5917
 2025-07-11 07:34:25.925540,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Spencer Strider (ATL),0.01580000000000001,0.0714,0.0556
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Sacramento Kings,0.015499999999999998,0.0278,0.0123
-2025-07-11 10:39:57.764159,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Jorge Mata Cuellar,0.015100000000000002,0.1818,0.1667
 2025-07-11 02:28:49.723266,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),0.015100000000000002,0.1818,0.1667
+2025-07-11 10:39:57.764159,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Jorge Mata Cuellar,0.015100000000000002,0.1818,0.1667
 2025-07-11 04:07:32.863400,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Golden State Valkyries,0.014899999999999997,0.0625,0.0476
 2025-07-11 09:36:04.542126,NBA Summer League - NBA 2K26 Summer League - MVP,Jamal Shead (TOR),0.014899999999999997,0.0625,0.0476
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Washington Wizards,0.01440000000000001,0.1053,0.0909
@@ -58,21 +59,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 09:36:06.785983,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.011600000000000055,0.5238,0.5122
 2025-07-11 04:07:32.856075,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.011099999999999999,0.1111,0.1
 2025-07-11 09:36:07.077595,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs R. MacIntyre - 2nd Round Match-Ups,Ludvig Aberg,0.01100000000000001,0.5348,0.5238
+2025-07-11 11:30:41.550788,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.01100000000000001,0.5348,0.5238
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Lottie Woad,0.010700000000000001,0.0385,0.0278
 2025-07-11 08:44:06.308609,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.010099999999999998,0.3226,0.3125
 2025-07-11 09:36:06.785983,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.010099999999999998,0.5455,0.5556
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Linn Grant,-0.0102,0.005,0.0152
 2025-07-11 09:36:04.542126,NBA Summer League - NBA 2K26 Summer League - MVP,Walter Clayton Jr. (WAS),-0.010600000000000002,0.0217,0.0323
+2025-07-11 11:30:41.550788,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.010699999999999932,0.5348,0.5455
 2025-07-11 04:07:32.863400,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Seattle Storm,-0.010899999999999993,0.1429,0.1538
 2025-07-11 04:07:32.852067,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.01150000000000001,0.3333,0.3448
-2025-07-11 09:36:07.052202,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs W. Clark - 2nd Round Match-Ups,Wyndham Clark,-0.0116,0.4762,0.4878
 2025-07-11 04:07:35.186018,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.0116,0.4762,0.4878
+2025-07-11 09:36:07.052202,Round Match-Ups - 2nd Round Match-Ups - M. McNealy vs W. Clark - 2nd Round Match-Ups,Wyndham Clark,-0.0116,0.4762,0.4878
 2025-07-11 09:36:07.077595,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs R. MacIntyre - 2nd Round Match-Ups,Robert MacIntyre,-0.011600000000000055,0.5122,0.5238
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Jin Young Ko,-0.012100000000000001,0.0123,0.0244
 2025-07-11 09:36:04.542126,NBA Summer League - NBA 2K26 Summer League - MVP,Cooper Flagg (DAL),-0.012700000000000003,0.0196,0.0323
 2025-07-11 04:07:32.880348,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.013999999999999999,0.0769,0.0909
-2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Miyuu Yamashita,-0.014099999999999998,0.0244,0.0385
 2025-07-11 04:07:32.859892,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat Phoenix Mercury,-0.014099999999999998,0.0244,0.0385
+2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Miyuu Yamashita,-0.014099999999999998,0.0244,0.0385
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Los Angeles Clippers,-0.014100000000000001,0.0385,0.0526
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,Brooklyn Nets,-0.0145,0.0099,0.0244
 2025-07-11 07:34:25.925540,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Jesus Luzardo (PHI),-0.014899999999999997,0.0476,0.0625
@@ -80,6 +83,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Brooke Henderson,-0.015399999999999999,0.0025,0.0179
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Hyo Joo Kim,-0.015499999999999998,0.0123,0.0278
 2025-07-11 07:34:25.913602,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Tanner Scott (LAD),-0.0157,0.0278,0.0435
+2025-07-11 11:30:41.504906,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Ellie Scotney,-0.016699999999999937,0.9,0.9167
 2025-07-11 06:47:40.785287,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Ellie Scotney,-0.016699999999999937,0.9,0.9167
 2025-07-11 05:40:18.442467,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,-0.016699999999999993,0.25,0.2667
 2025-07-11 10:39:57.764159,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,-0.01760000000000006,0.8824,0.9
@@ -87,8 +91,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 04:07:32.863400,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.019000000000000017,0.2667,0.2857
 2025-07-11 02:28:53.146874,The Amundi Evian Championship - The Amundi Evian Championship - Winner,Akie Iwai,-0.019200000000000002,0.0025,0.0217
 2025-07-11 07:34:25.902613,ROY - NL ROY 2025 - National League Rookie of the Year,Hyeseong Kim (LAD),-0.01949999999999999,0.0714,0.0909
-2025-07-11 05:40:18.442467,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.02020000000000001,0.0909,0.1111
 2025-07-11 04:07:32.859892,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Phoenix Mercury,-0.02020000000000001,0.0909,0.1111
+2025-07-11 05:40:18.442467,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.02020000000000001,0.0909,0.1111
 2025-07-11 07:34:25.902613,ROY - NL ROY 2025 - National League Rookie of the Year,Isaac Collins (MIL),-0.0203,0.0323,0.0526
 2025-07-11 09:36:04.542126,NBA Summer League - NBA 2K26 Summer League - MVP,Dalton Knecht (LAL),-0.0203,0.0385,0.0588
 2025-07-11 08:44:03.982858,NBA Summer League - NBA 2K26 Summer League - Champion,New Orleans Pelicans,-0.0204,0.0141,0.0345
@@ -96,8 +100,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-11 02:28:49.723266,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Netherlands (W),-0.022400000000000003,0.0099,0.0323
 2025-07-11 05:40:20.266672,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.022600000000000064,0.5122,0.5348
 2025-07-11 09:36:07.073486,Round Match-Ups - 2nd Round Match-Ups - J. Thomas vs S. Burns - 2nd Round Match-Ups,Justin Thomas,-0.022600000000000064,0.5122,0.5348
-2025-07-11 07:34:25.913602,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Kyle Finnegan (WAS),-0.023299999999999994,0.0323,0.0556
 2025-07-11 07:34:25.913602,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Shelby Miller (ARI),-0.023299999999999994,0.0323,0.0556
+2025-07-11 07:34:25.913602,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Kyle Finnegan (WAS),-0.023299999999999994,0.0323,0.0556
 2025-07-10 23:32:15.018290,MLB Series Prices - MLB Series Prices July 10 to 13 - 4 Game Series,Tie,-0.02360000000000001,0.3846,0.4082
 2025-07-11 04:07:32.866676,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.023799999999999932,0.8333,0.8571
 2025-07-11 07:34:26.032191,Boxing Lines - Ellie Scotney vs Yamileth Mercado - To Win the Bout,Yamileth Mercado,-0.023799999999999988,0.1429,0.1667

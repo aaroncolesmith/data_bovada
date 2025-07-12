@@ -11,15 +11,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 08:38:49.145630,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.08749999999999991,0.7101,0.6226
 2025-07-12 14:34:41.987555,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,West Ham United,0.08179999999999998,0.1818,0.1
 2025-07-12 08:38:49.095393,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 13½,0.07619999999999993,0.6,0.5238
+2025-07-12 17:32:25.057883,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.07580000000000003,0.339,0.2632
 2025-07-12 14:34:42.000047,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,0.07500000000000001,0.2,0.125
 2025-07-12 07:31:42.075031,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.07450000000000001,0.2174,0.1429
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Jerry Kelly,0.0666,0.1333,0.0667
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Reed Sheppard (HOU),0.066,0.1429,0.0769
 2025-07-12 08:38:49.136559,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,0.06519999999999998,0.5,0.4348
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Jason Caron,0.0588,0.1176,0.0588
-2025-07-12 11:29:29.496880,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Over 68.5,0.05449999999999999,0.6,0.5455
 2025-07-12 11:29:29.533664,Scores - 3rd Round Scores - Harry Hall - 3rd Round Scores,Over 68.5,0.05449999999999999,0.6,0.5455
-2025-07-12 04:45:55.760731,Governor Races - Virginia - Winner,Democrats,0.05380000000000007,0.9,0.8462
+2025-07-12 11:29:29.496880,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Over 68.5,0.05449999999999999,0.6,0.5455
 2025-07-12 08:38:51.114852,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Ethan Holliday,0.05300000000000005,0.75,0.697
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Alex Cejka,0.052700000000000004,0.1053,0.0526
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Portland Trail Blazers,0.0502,0.0625,0.0123
@@ -27,7 +27,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 08:38:51.089945,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Gage Wood vs Tyler Bremner,Tyler Bremner,0.04760000000000009,0.7143,0.6667
 2025-07-12 11:29:29.519709,Scores - 3rd Round Scores - Marco Penge - 3rd Round Scores,Over 68.5,0.0474,0.6552,0.6078
 2025-07-12 11:29:29.528745,Scores - 3rd Round Scores - Chris Gotterup - 3rd Round Scores,Over 68.5,0.04469999999999996,0.6364,0.5917
-2025-07-12 04:45:54.952326,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,0.044399999999999995,0.4444,0.4
 2025-07-12 06:45:24.812209,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.043800000000000006,0.2105,0.1667
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Tim O'Neal,0.0427,0.0526,0.0099
 2025-07-12 08:38:51.065384,Home Run Derby - 2025 Home Run Derby - Home Run Derby Winner,Cal Raleigh (SEA),0.04099999999999998,0.2632,0.2222
@@ -36,46 +35,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 07:31:39.626730,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.03640000000000004,0.4,0.3636
 2025-07-12 08:38:49.120102,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 14½,0.03610000000000002,0.5917,0.5556
 2025-07-12 08:38:51.096904,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Marek Houston vs Wehiwa Aloy,Wehiwa Aloy,0.03600000000000003,0.5238,0.4878
-2025-07-12 07:31:42.171776,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Kade Anderson,0.035699999999999954,0.75,0.7143
 2025-07-12 10:37:16.654843,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - S. Scheffler v W. Clark - 3rd Round 2 Balls ,Scottie Scheffler,0.035699999999999954,0.75,0.7143
+2025-07-12 07:31:42.171776,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Kade Anderson,0.035699999999999954,0.75,0.7143
 2025-07-12 07:31:42.090941,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Zack Wheeler (PHI),0.03479999999999994,0.6,0.5652
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Detroit Pistons,0.0347,0.0625,0.0278
 2025-07-12 14:34:41.987555,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Nottingham Forest,0.0343,0.1176,0.0833
-2025-07-12 04:45:54.955742,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Norway (W),0.033300000000000024,0.2,0.1667
 2025-07-12 07:31:42.101661,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.03259999999999999,0.2326,0.2
 2025-07-12 09:32:58.320058,BKFC 78: Perdomo vs Adams - Leonardo Perdomo vs Arnold Adams - To Win the Bout,Leonardo Perdomo,0.032200000000000006,0.9655,0.9333
 2025-07-12 07:31:42.111983,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Edwin Diaz (NYM),0.032099999999999906,0.6154,0.5833
 2025-07-12 12:58:25.631949,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.030199999999999998,0.0625,0.0323
 2025-07-12 12:58:25.614503,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Over 69.5,0.029000000000000026,0.4545,0.4255
-2025-07-12 11:29:29.473297,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Under 69.5,0.02859999999999996,0.6364,0.6078
 2025-07-12 10:37:16.626183,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - T. Fleetwood v H. English - 3rd Round 2 Balls,Tommy Fleetwood,0.02859999999999996,0.6364,0.6078
+2025-07-12 11:29:29.473297,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Under 69.5,0.02859999999999996,0.6364,0.6078
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Phoenix Suns,0.028000000000000004,0.0476,0.0196
+2025-07-12 17:32:25.053051,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.027999999999999997,0.1818,0.1538
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Shane Bertsch,0.0279,0.0345,0.0066
-2025-07-12 10:37:16.696223,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Schmidid v L. Aberg - 3rd Round 2 Balls,Ludvig Aberg,0.025599999999999956,0.6552,0.6296
 2025-07-12 10:37:16.687812,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - S. Straka v R. McIlroy - 3rd Round 2 Balls ,Rory McIlroy,0.025599999999999956,0.6552,0.6296
+2025-07-12 10:37:16.696223,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Schmidid v L. Aberg - 3rd Round 2 Balls,Ludvig Aberg,0.025599999999999956,0.6552,0.6296
 2025-07-12 15:33:45.651193,BKFC 78: Perdomo vs Adams - Justin Ibarrola vs Robert Armas - To Win the Bout,Justin Ibarrola,0.02529999999999999,0.8824,0.8571
+2025-07-12 17:32:23.294816,US Political Specials - Pam Bondi to be Attorney General on July 31 2025 - Proposition,No,0.0252,0.1852,0.16
 2025-07-12 07:31:42.080334,MVP - NL MVP 2025 - National League MVP,Pete Crow-Armstrong (CHC),0.024999999999999994,0.125,0.1
 2025-07-12 08:38:49.149824,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,0.0242,0.0909,0.0667
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Los Angeles Clippers,0.024,0.0625,0.0385
+2025-07-12 17:32:25.053051,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.024,0.0625,0.0385
 2025-07-12 12:58:25.649501,Scores - 3rd Round Scores - Ludvig Aberg - 3rd Round Scores,Over 68.5,0.023799999999999988,0.5,0.4762
+2025-07-12 17:32:22.480402,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Cruz Azul,0.023799999999999988,0.1667,0.1429
 2025-07-12 08:38:49.099556,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Over 7½,0.023799999999999988,0.5,0.4762
 2025-07-12 08:38:49.128337,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,0.022699999999999998,0.4878,0.4651
 2025-07-12 08:38:49.132446,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 29½,0.022600000000000064,0.5348,0.5122
-2025-07-12 04:45:54.955742,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),0.02260000000000001,0.4,0.3774
-2025-07-12 04:45:54.955742,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),0.02200000000000002,0.7143,0.6923
 2025-07-12 14:34:44.679332,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Hamzah Sheeraz,0.02180000000000004,0.6296,0.6078
 2025-07-12 08:38:49.124237,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,0.021699999999999997,0.4762,0.4545
 2025-07-12 12:58:25.601059,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Penge v M. Fitzpatrick - 3rd Round 2 Balls,Marco Penge,0.021699999999999997,0.4762,0.4545
 2025-07-12 16:39:49.115371,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.02169999999999994,0.5455,0.5238
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Felipe Aguilar,0.021300000000000003,0.0323,0.011
+2025-07-12 17:32:25.077697,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,0.02049999999999999,0.1538,0.1333
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Alex Sarr (WAS),0.020000000000000004,0.0323,0.0123
 2025-07-12 09:32:58.311994,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,0.019600000000000006,0.3226,0.303
+2025-07-12 17:32:25.077697,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Milwaukee Brewers,0.019099999999999992,0.0667,0.0476
 2025-07-12 12:58:25.618862,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 68.5,0.018900000000000028,0.4444,0.4255
+2025-07-12 17:32:25.048217,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,0.01880000000000004,0.5744,0.5556
 2025-07-12 14:34:41.993810,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Tottenham Hotspur,0.01820000000000002,0.2,0.1818
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Paul Goydos,0.0179,0.0278,0.0099
 2025-07-12 10:37:16.467880,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,William Zepeda,0.0179,0.1429,0.125
-2025-07-12 04:45:57.669199,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,0.01760000000000006,0.9,0.8824
 2025-07-12 08:38:51.065384,Home Run Derby - 2025 Home Run Derby - Home Run Derby Winner,Oneil Cruz (PIT),0.0174,0.25,0.2326
 2025-07-12 14:34:41.977405,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Chelsea,0.016600000000000004,0.0833,0.0667
 2025-07-12 05:36:27.263900,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.01629999999999998,0.7222,0.7059
@@ -83,13 +85,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 07:31:42.175316,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Liam Doyle,0.015800000000000036,0.6825,0.6667
 2025-07-12 07:31:39.934184,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs Phoenix Mercury,0.015700000000000006,0.1333,0.1176
 2025-07-12 08:38:51.111299,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Any Other Player,0.015400000000000025,0.4,0.3846
+2025-07-12 17:32:25.072730,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Detroit Tigers,0.015400000000000025,0.2857,0.2703
+2025-07-12 17:32:25.072730,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.015300000000000001,0.0588,0.0435
 2025-07-12 05:36:27.255816,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Jorge Mata Cuellar,0.015100000000000002,0.1818,0.1667
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,0.015100000000000002,0.1818,0.1667
 2025-07-12 08:38:49.158347,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.014900000000000024,0.9524,0.9375
-2025-07-12 12:58:25.623216,Scores - 3rd Round Scores - Jake Knapp - 3rd Round Scores,Over 68.5,0.014800000000000035,0.6226,0.6078
-2025-07-12 11:29:29.501601,Scores - 3rd Round Scores - Keith Mitchell - 3rd Round Scores,Over 68.5,0.014800000000000035,0.6226,0.6078
 2025-07-12 12:58:25.627592,Scores - 3rd Round Scores - Victor Perez - 3rd Round Scores,Over 68.5,0.014800000000000035,0.6226,0.6078
+2025-07-12 11:29:29.501601,Scores - 3rd Round Scores - Keith Mitchell - 3rd Round Scores,Over 68.5,0.014800000000000035,0.6226,0.6078
 2025-07-12 07:31:42.329580,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Andrew Strode,0.014800000000000035,0.6226,0.6078
+2025-07-12 12:58:25.623216,Scores - 3rd Round Scores - Jake Knapp - 3rd Round Scores,Over 68.5,0.014800000000000035,0.6226,0.6078
 2025-07-12 09:32:58.328173,BKFC 78: Perdomo vs Adams - Matt Russo vs Justyn Martinez - To Win the Bout,Matt Russo,0.014700000000000046,0.7647,0.75
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Mario Tiziani,0.0145,0.0244,0.0099
 2025-07-12 14:34:41.980621,Premier League Futures/Specials - English Premier League 2025/26 - Top at Xmas,Chelsea,0.013999999999999999,0.0909,0.0769
@@ -98,17 +102,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 09:32:58.332200,BKFC 78: Perdomo vs Adams - Stephen Townsel vs Keith Richardson - To Win the Bout,Stephen Townsel,0.013599999999999945,0.7059,0.6923
 2025-07-12 11:29:29.289048,BKFC 78: Perdomo vs Adams - Matt Russo vs Justyn Martinez - To Win the Bout,Matt Russo,0.0131,0.7778,0.7647
 2025-07-12 14:34:42.742705,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Lamar Jackson (BAL),0.012899999999999995,0.1667,0.1538
+2025-07-12 17:32:25.048217,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,0.012600000000000007,0.0714,0.0588
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Paul Stankowski,0.012599999999999998,0.0278,0.0152
-2025-07-12 04:45:57.677426,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.012299999999999978,0.3571,0.3448
 2025-07-12 07:31:42.380195,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - R. MacIntyre v J. Thomas - 3rd Round 2 Balls,Justin Thomas,0.012199999999999989,0.5,0.4878
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Chad Campbell,0.0119,0.0152,0.0033
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Washington Mystics,0.011700000000000002,0.1026,0.0909
 2025-07-12 12:58:25.547619,BKFC 78: Perdomo vs Adams - Leonel Carrera vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.011099999999999999,0.4762,0.4651
+2025-07-12 17:32:25.072730,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Toronto Blue Jays,0.011099999999999999,0.1111,0.1
 2025-07-12 08:38:49.103660,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,0.011099999999999999,0.4762,0.4651
 2025-07-12 12:58:25.662577,Scores - 3rd Round Scores - Matt Fitzpatrick - 3rd Round Scores,Over 68.5,0.01100000000000001,0.5348,0.5238
 2025-07-12 12:58:25.405872,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,0.01100000000000001,0.5348,0.5238
-2025-07-12 12:58:25.393370,Boxing Lines - Katsuma Akitsugi vs Jonas Sultan - To Win the Bout,Jonas Sultan,0.010899999999999993,0.1538,0.1429
 2025-07-12 16:39:49.123648,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,William Zepeda,0.010899999999999993,0.1538,0.1429
+2025-07-12 12:58:25.393370,Boxing Lines - Katsuma Akitsugi vs Jonas Sultan - To Win the Bout,Jonas Sultan,0.010899999999999993,0.1538,0.1429
 2025-07-12 07:31:39.941389,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Washington Mystics,0.010700000000000001,0.0385,0.0278
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Gene Sauers,0.0107,0.0132,0.0025
 2025-07-12 15:33:45.508688,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,0.010699999999999932,0.5455,0.5348
@@ -116,29 +121,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 11:29:29.284950,BKFC 78: Perdomo vs Adams - Leonel Carrera vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.010599999999999998,0.4651,0.4545
 2025-07-12 05:36:27.243766,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.010499999999999982,0.2105,0.2
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Willie Wood,0.0103,0.0123,0.002
+2025-07-12 17:32:25.038506,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,0.010100000000000001,0.0345,0.0244
 2025-07-12 14:34:44.765755,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Gee Perez,0.010099999999999998,0.4545,0.4444
+2025-07-12 17:32:25.374240,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,0.010099999999999998,0.3226,0.3125
+2025-07-12 12:58:25.627592,Scores - 3rd Round Scores - Victor Perez - 3rd Round Scores,Under 68.5,-0.010099999999999998,0.4444,0.4545
 2025-07-12 07:31:42.380195,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - R. MacIntyre v J. Thomas - 3rd Round 2 Balls,Robert MacIntyre,-0.010099999999999998,0.5455,0.5556
-2025-07-12 07:31:42.329580,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Gee Perez,-0.010099999999999998,0.4444,0.4545
+2025-07-12 08:38:51.219327,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.010099999999999998,0.3125,0.3226
+2025-07-12 15:33:45.646354,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,-0.010099999999999998,0.3125,0.3226
 2025-07-12 12:58:25.623216,Scores - 3rd Round Scores - Jake Knapp - 3rd Round Scores,Under 68.5,-0.010099999999999998,0.4444,0.4545
+2025-07-12 07:31:42.329580,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Gee Perez,-0.010099999999999998,0.4444,0.4545
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,-0.010099999999999998,0.4444,0.4545
 2025-07-12 11:29:29.501601,Scores - 3rd Round Scores - Keith Mitchell - 3rd Round Scores,Under 68.5,-0.010099999999999998,0.4444,0.4545
-2025-07-12 15:33:45.646354,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,-0.010099999999999998,0.3125,0.3226
-2025-07-12 12:58:25.627592,Scores - 3rd Round Scores - Victor Perez - 3rd Round Scores,Under 68.5,-0.010099999999999998,0.4444,0.4545
-2025-07-12 08:38:51.219327,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.010099999999999998,0.3125,0.3226
 2025-07-12 07:31:39.941389,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.010299999999999976,0.2564,0.2667
-2025-07-12 04:45:57.657155,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,-0.010499999999999982,0.2,0.2105
-2025-07-12 08:38:51.174036,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.010599999999999998,0.4545,0.4651
 2025-07-12 12:58:25.636378,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Under 68.5,-0.010599999999999998,0.4545,0.4651
+2025-07-12 17:32:25.077697,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Los Angeles Dodgers,-0.010599999999999998,0.4545,0.4651
+2025-07-12 08:38:51.174036,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.010599999999999998,0.4545,0.4651
 2025-07-12 12:58:25.662577,Scores - 3rd Round Scores - Matt Fitzpatrick - 3rd Round Scores,Under 68.5,-0.010699999999999932,0.5348,0.5455
 2025-07-12 12:58:25.405872,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Subriel Matias,-0.010699999999999932,0.5348,0.5455
 2025-07-12 07:31:39.941389,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.010699999999999987,0.3226,0.3333
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Dalton Knecht (LAL),-0.010700000000000001,0.0278,0.0385
+2025-07-12 17:32:25.077697,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,-0.010899999999999993,0.1429,0.1538
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,-0.01090000000000002,0.8462,0.8571
 2025-07-12 15:33:45.508688,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.01100000000000001,0.5238,0.5348
 2025-07-12 15:33:45.504072,Boxing Lines - Vladimir Hernandez vs Francisco Veron - To Win the Bout,Vladimir Hernandez,-0.011099999999999999,0.4651,0.4762
-2025-07-12 04:45:57.645040,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.011099999999999999,0.4651,0.4762
 2025-07-12 06:45:24.820998,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.011199999999999995,0.0476,0.0588
 2025-07-12 07:31:42.175316,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Kade Anderson,-0.01150000000000001,0.3333,0.3448
+2025-07-12 17:32:25.057883,NL Central - NL Central 2025 - NL Central Winner,St. Louis Cardinals,-0.011899999999999994,0.0714,0.0833
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Nikola Topic (OKC),-0.011899999999999994,0.0714,0.0833
 2025-07-12 07:31:39.934184,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs New York Liberty,-0.011900000000000008,0.0833,0.0952
 2025-07-12 09:32:58.615388,Scores - 3rd Round Scores - Nick Taylor - 3rd Round Scores,Under 68.5,-0.012199999999999989,0.4878,0.5
@@ -150,20 +158,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,New York Knicks,-0.013,0.0066,0.0196
 2025-07-12 08:38:51.075929,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Anthony Eyanson vs JB Middleton,Anthony Eyanson,-0.013299999999999979,0.6296,0.6429
 2025-07-12 09:32:58.332200,BKFC 78: Perdomo vs Adams - Stephen Townsel vs Keith Richardson - To Win the Bout,Keith Richardson,-0.013300000000000034,0.3571,0.3704
+2025-07-12 17:32:25.077697,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Atlanta Braves,-0.013400000000000002,0.011,0.0244
 2025-07-12 12:58:25.618862,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Under 68.5,-0.013799999999999923,0.6226,0.6364
-2025-07-12 04:45:54.952326,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Lea Schuller,-0.013899999999999996,0.1111,0.125
 2025-07-12 06:45:27.009644,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,Shakur Stevenson,-0.014100000000000001,0.9333,0.9474
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Ace Bailey (UTA),-0.014400000000000003,0.0179,0.0323
 2025-07-12 08:38:49.149824,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.014499999999999957,0.9756,0.9901
 2025-07-12 14:34:44.765755,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Andrew Strode,-0.014800000000000035,0.6078,0.6226
 2025-07-12 07:31:42.171776,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Liam Doyle,-0.014899999999999997,0.0476,0.0625
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.015100000000000002,0.8182,0.8333
-2025-07-12 04:45:57.669199,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Jorge Mata Cuellar,-0.015100000000000002,0.1667,0.1818
+2025-07-12 17:32:22.480402,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Deportivo Toluca,-0.015100000000000002,0.1667,0.1818
 2025-07-12 06:45:24.820998,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Kiki Iriafen (WAS),-0.015300000000000001,0.0435,0.0588
 2025-07-12 07:31:39.934184,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Minnesota Lynx vs New York Liberty,-0.015400000000000025,0.2703,0.2857
-2025-07-12 04:45:57.677426,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,-0.01629999999999998,0.7059,0.7222
 2025-07-12 10:37:16.467880,Boxing Lines - Shakur Stevenson vs William Zepeda - To Win the Bout,Shakur Stevenson,-0.01660000000000006,0.9167,0.9333
-2025-07-12 04:45:54.952326,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alexia Putellas,-0.016699999999999993,0.25,0.2667
 2025-07-12 14:34:41.977405,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,-0.016699999999999993,0.25,0.2667
 2025-07-12 14:34:41.980621,Premier League Futures/Specials - English Premier League 2025/26 - Top at Xmas,Arsenal,-0.016699999999999993,0.25,0.2667
 2025-07-12 08:38:51.111299,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Jojo Parker,-0.016700000000000007,0.0833,0.1
@@ -172,16 +178,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 11:29:29.289048,BKFC 78: Perdomo vs Adams - Matt Russo vs Justyn Martinez - To Win the Bout,Justyn Martinez,-0.017299999999999982,0.2857,0.303
 2025-07-12 10:37:16.626183,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - T. Fleetwood v H. English - 3rd Round 2 Balls,Harris English,-0.017299999999999982,0.4082,0.4255
 2025-07-12 05:36:27.255816,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,-0.01760000000000006,0.8824,0.9
+2025-07-12 17:32:22.480402,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,CF Monterrey,-0.0179,0.125,0.1429
+2025-07-12 17:32:22.480402,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Tigres UANL,-0.0179,0.125,0.1429
 2025-07-12 08:38:49.158347,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.0179,0.1111,0.129
+2025-07-12 17:32:25.053051,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.017900000000000027,0.8571,0.875
 2025-07-12 08:38:51.065384,Home Run Derby - 2025 Home Run Derby - Home Run Derby Winner,Jazz Chisholm (NYY),-0.01830000000000001,0.0769,0.0952
 2025-07-12 11:29:29.477640,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 68.5,-0.018900000000000028,0.4255,0.4444
 2025-07-12 14:34:42.000047,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Newcastle United,-0.018999999999999906,0.7143,0.7333
-2025-07-12 04:45:54.955742,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),-0.019000000000000017,0.2667,0.2857
 2025-07-12 07:31:42.090941,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Logan Webb (SF),-0.019099999999999992,0.0476,0.0667
 2025-07-12 07:31:39.937964,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Phoenix Mercury,-0.01949999999999999,0.0714,0.0909
 2025-07-12 14:34:44.679332,Boxing Lines - Edgar Berlanga vs Hamzah Sheeraz - To Win the Bout,Edgar Berlanga,-0.019699999999999995,0.4348,0.4545
-2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Y.E. Yang,-0.019800000000000005,0.0278,0.0476
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Kel'el Ware (MIA),-0.019800000000000005,0.0278,0.0476
+2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Y.E. Yang,-0.019800000000000005,0.0278,0.0476
 2025-07-12 14:34:41.987555,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Bournemouth,-0.02020000000000001,0.0909,0.1111
 2025-07-12 08:38:49.132446,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 29½,-0.02079999999999993,0.5348,0.5556
 2025-07-12 06:45:24.812209,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.020799999999999985,0.3125,0.3333
@@ -190,17 +198,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 07:31:39.934184,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Las Vegas Aces,-0.021799999999999996,0.0217,0.0435
 2025-07-12 07:31:39.626730,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,-0.021999999999999964,0.2857,0.3077
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Kon Knueppel (CHA),-0.022400000000000003,0.0099,0.0323
+2025-07-12 17:32:23.294816,US Political Specials - Pam Bondi to be Attorney General on July 31 2025 - Proposition,Yes,-0.022600000000000064,0.8824,0.905
 2025-07-12 08:38:49.124237,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,-0.023699999999999943,0.5917,0.6154
 2025-07-12 07:31:39.944486,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.023800000000000043,0.5,0.5238
+2025-07-12 17:32:25.072730,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Tampa Bay Rays,-0.0242,0.0667,0.0909
 2025-07-12 06:45:24.825103,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.024299999999999995,0.0526,0.0769
 2025-07-12 09:32:58.311994,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Julio Perez,-0.02440000000000009,0.7403,0.7647
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Tim Petrovic,-0.024499999999999997,0.0033,0.0278
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Stephen Ames,-0.025799999999999997,0.002,0.0278
-2025-07-12 12:58:25.601059,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Penge v M. Fitzpatrick - 3rd Round 2 Balls,Matt Fitzpatrick,-0.026499999999999968,0.5652,0.5917
 2025-07-12 08:38:49.099556,Regular Season Wins - Connecticut Sun - 2025 Regular Season Wins - Regular Season Wins,Under 7½,-0.026499999999999968,0.5652,0.5917
+2025-07-12 12:58:25.601059,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Penge v M. Fitzpatrick - 3rd Round 2 Balls,Matt Fitzpatrick,-0.026499999999999968,0.5652,0.5917
 2025-07-12 12:58:25.649501,Scores - 3rd Round Scores - Ludvig Aberg - 3rd Round Scores,Under 68.5,-0.026499999999999968,0.5652,0.5917
+2025-07-12 17:32:25.048217,AL East - AL East 2025 - AL East Winner 2025,Tampa Bay Rays,-0.0267,0.0909,0.1176
 2025-07-12 07:31:42.101661,ROY - NL ROY 2025 - National League Rookie of the Year,Jacob Misiorowski (MIL),-0.026800000000000046,0.6875,0.7143
-2025-07-12 04:45:54.955742,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Sweden (W),-0.02779999999999999,0.2222,0.25
 2025-07-12 08:38:48.835376,NBA Summer League - NBA 2K26 Summer League - MVP,Jamal Shead (TOR),-0.027999999999999997,0.0345,0.0625
 2025-07-12 08:38:48.831838,NBA Summer League - NBA 2K26 Summer League - Champion,Chicago Bulls,-0.028300000000000002,0.004,0.0323
 2025-07-12 07:31:42.171776,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Aiva Arquette,-0.028399999999999995,0.0625,0.0909
@@ -211,11 +221,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 08:38:51.096904,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Marek Houston vs Wehiwa Aloy,Marek Houston,-0.028900000000000037,0.5455,0.5744
 2025-07-12 11:29:29.473297,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Over 69.5,-0.029000000000000026,0.4255,0.4545
 2025-07-12 05:36:27.738663,DICK'S Open - DICK'S Open - Winner,Bernhard Langer,-0.030299999999999997,0.0132,0.0435
-2025-07-12 08:38:51.111299,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Aiva Arquette,-0.03210000000000002,0.3846,0.4167
 2025-07-12 10:37:16.687812,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - S. Straka v R. McIlroy - 3rd Round 2 Balls ,Sepp Straka,-0.03210000000000002,0.3846,0.4167
 2025-07-12 10:37:16.696223,Scottish Open - 2/3 Balls - 3rd Round 2 Balls - M. Schmidid v L. Aberg - 3rd Round 2 Balls,Matti Schmid,-0.03210000000000002,0.3846,0.4167
+2025-07-12 08:38:51.111299,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Aiva Arquette,-0.03210000000000002,0.3846,0.4167
 2025-07-12 12:58:25.631949,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 67.5,-0.033299999999999996,0.5122,0.5455
-2025-07-12 04:45:55.760731,Governor Races - Virginia - Winner,Republicans,-0.033300000000000024,0.1667,0.2
 2025-07-12 08:38:49.128337,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 32½,-0.03479999999999994,0.5652,0.6
 2025-07-12 07:31:42.111983,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Robert Suarez (SD),-0.0348,0.4,0.4348
 2025-07-12 14:34:41.987555,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Fulham,-0.035,0.125,0.16
@@ -239,6 +248,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 14:34:42.000047,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester United,-0.05559999999999998,0.5,0.5556
 2025-07-12 11:29:29.533664,Scores - 3rd Round Scores - Harry Hall - 3rd Round Scores,Under 68.5,-0.05870000000000003,0.4651,0.5238
 2025-07-12 11:29:29.496880,Scores - 3rd Round Scores - Sepp Straka - 3rd Round Scores,Under 68.5,-0.05870000000000003,0.4651,0.5238
+2025-07-12 17:32:25.057883,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.05940000000000001,0.6774,0.7368
 2025-07-12 14:34:41.993810,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,-0.06230000000000002,0.4255,0.4878
 2025-07-12 07:31:42.075031,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.06620000000000004,0.875,0.9412
 2025-07-12 07:31:42.096266,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),-0.06930000000000003,0.4545,0.5238

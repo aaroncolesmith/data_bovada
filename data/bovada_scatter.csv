@@ -22,12 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 20:33:53.584816,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Cal Raleigh (SEA),0.036900000000000044,0.7143,0.6774
 2025-07-13 06:45:41.226634,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Aroldis Chapman (BOS),0.036199999999999996,0.1538,0.1176
 2025-07-13 06:45:41.418892,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Any Other Player,0.028399999999999995,0.0909,0.0625
+2025-07-13 07:33:19.909768,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Sweden (W),0.028399999999999995,0.0909,0.0625
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Harrison Frazar,0.0283,0.0435,0.0152
 2025-07-13 06:45:41.252840,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Pat Murphy (MIL),0.02779999999999999,0.25,0.2222
+2025-07-13 07:33:22.728710,Home Run Derby - 2025 Home Run Derby - Player to Hit Longest Derby HR,James Wood (WAS),0.02779999999999999,0.25,0.2222
 2025-07-12 20:33:53.584816,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,James Wood (WAS),0.026499999999999968,0.5917,0.5652
 2025-07-13 06:45:41.237029,Comeback Player of the Year - AL Comeback Player of the Year 2025 - AL Comeback Player of the Year,Trevor Story (BOS),0.0257,0.0323,0.0066
-2025-07-12 20:33:53.584816,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Junior Caminero (TB),0.025499999999999967,0.4255,0.4
 2025-07-12 20:33:53.581347,Home Run Derby - 2025 Home Run Derby - To Make the Final,Cal Raleigh (SEA),0.025499999999999967,0.4255,0.4
+2025-07-12 20:33:53.584816,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Junior Caminero (TB),0.025499999999999967,0.4255,0.4
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Matt Gogel,0.023799999999999998,0.0278,0.004
 2025-07-13 06:45:41.145157,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.0232,0.0667,0.0435
 2025-07-13 05:37:07.766298,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Penn State,0.021999999999999964,0.3077,0.2857
@@ -39,12 +41,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 06:45:41.426133,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Aiva Arquette,0.016000000000000014,0.4082,0.3922
 2025-07-12 22:35:47.098458,BKFC 78: Perdomo vs Adams - Christine Vicens vs Sarah Click - To Win the Bout,Christine Vicens,0.015699999999999936,0.8824,0.8667
 2025-07-13 06:45:41.226634,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Carlos Estevez (PHI),0.015300000000000001,0.0476,0.0323
+2025-07-13 07:33:22.728710,Home Run Derby - 2025 Home Run Derby - Player to Hit Longest Derby HR,Byron Buxton (MIN),0.015100000000000002,0.1818,0.1667
 2025-07-13 06:45:41.135480,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.014900000000000024,0.6923,0.6774
-2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Gene Sauers,0.014599999999999998,0.0278,0.0132
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Billy Mayfair,0.014599999999999998,0.0196,0.005
+2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Gene Sauers,0.014599999999999998,0.0278,0.0132
 2025-07-12 22:35:47.094323,BKFC 78: Perdomo vs Adams - Bryan Duran vs Robbie Peralta - To Win the Bout,Bryan Duran,0.014399999999999968,0.8039,0.7895
-2025-07-12 21:31:13.455812,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,0.013900000000000023,0.8889,0.875
 2025-07-12 21:31:13.421441,Boxing Lines - David Morrell vs Imam Khataev - To Win the Bout,David Morrell,0.013900000000000023,0.8889,0.875
+2025-07-12 21:31:13.455812,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,0.013900000000000023,0.8889,0.875
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Jeff Sluman,0.012899999999999998,0.0179,0.005
 2025-07-12 21:31:13.559175,BKFC 78: Perdomo vs Adams - Leonel Carrera vs Jake Bostwick - To Win the Bout,Jake Bostwick,0.0116,0.4878,0.4762
 2025-07-12 22:35:47.110847,BKFC 78: Perdomo vs Adams - Howard Davis vs Drako Rodriguez - To Win the Bout,Howard Davis,0.011099999999999999,0.7333,0.7222
@@ -52,14 +55,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-12 21:31:13.520576,BKFC 78: Perdomo vs Adams - Andrew Strode vs Gee Perez - To Win the Bout,Gee Perez,0.010599999999999998,0.4651,0.4545
 2025-07-13 04:51:04.123010,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.010499999999999982,0.2105,0.2
 2025-07-13 02:37:59.318901,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.010099999999999998,0.3226,0.3125
-2025-07-12 22:35:47.115022,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,-0.010099999999999998,0.3125,0.3226
-2025-07-13 06:45:41.426133,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Seth Hernandez,-0.010099999999999998,0.4444,0.4545
 2025-07-12 20:33:53.584816,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Oneil Cruz (PIT),-0.010099999999999998,0.6774,0.6875
+2025-07-13 06:45:41.426133,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Seth Hernandez,-0.010099999999999998,0.4444,0.4545
 2025-07-13 06:45:38.990464,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.010099999999999998,0.3125,0.3226
+2025-07-12 22:35:47.115022,BKFC 78: Perdomo vs Adams - Julio Perez vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,-0.010099999999999998,0.3125,0.3226
 2025-07-13 04:09:29.115328,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,-0.010499999999999982,0.2,0.2105
 2025-07-12 21:31:13.529641,BKFC 78: Perdomo vs Adams - Christine Vicens vs Sarah Click - To Win the Bout,Sarah Click,-0.010499999999999982,0.2,0.2105
-2025-07-13 02:37:59.247871,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Seth Hernandez,-0.010599999999999998,0.4545,0.4651
 2025-07-13 06:45:41.226634,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),-0.010599999999999998,0.4545,0.4651
+2025-07-13 02:37:59.247871,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Seth Hernandez,-0.010599999999999998,0.4545,0.4651
 2025-07-12 22:35:46.989979,Boxing Lines - Alberto Puello vs Subriel Matias - To Win the Bout,Alberto Puello,-0.010699999999999932,0.5348,0.5455
 2025-07-13 06:45:41.242273,Comeback Player of the Year - NL Comeback Player of the Year 2025 - NL Comeback Player of the Year,Kodai Senga (NYM),-0.010700000000000001,0.0278,0.0385
 2025-07-12 22:35:47.110847,BKFC 78: Perdomo vs Adams - Howard Davis vs Drako Rodriguez - To Win the Bout,Drako Rodriguez,-0.01150000000000001,0.3333,0.3448
@@ -77,6 +80,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 02:37:59.247871,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Liam Doyle,-0.016700000000000007,0.0833,0.1
 2025-07-12 21:31:13.559175,BKFC 78: Perdomo vs Adams - Leonel Carrera vs Jake Bostwick - To Win the Bout,Leonel Carrera,-0.017299999999999982,0.5744,0.5917
 2025-07-12 22:35:47.098458,BKFC 78: Perdomo vs Adams - Christine Vicens vs Sarah Click - To Win the Bout,Sarah Click,-0.01820000000000002,0.1818,0.2
+2025-07-13 07:33:19.909768,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Spain (W),-0.01880000000000004,0.5556,0.5744
 2025-07-13 06:45:41.125832,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.01880000000000004,0.5556,0.5744
 2025-07-13 06:45:39.017538,NBA Summer League - NBA 2K26 Summer League - Champion,Boston Celtics,-0.019000000000000003,0.0435,0.0625
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Shane Bertsch,-0.019300000000000005,0.0152,0.0345
@@ -93,6 +97,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 06:45:39.017538,NBA Summer League - NBA 2K26 Summer League - Champion,Indiana Pacers,-0.0286,0.0099,0.0385
 2025-07-13 06:45:39.017538,NBA Summer League - NBA 2K26 Summer League - Champion,Dallas Mavericks,-0.0286,0.0099,0.0385
 2025-07-13 06:45:41.145157,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.03059999999999996,0.9375,0.9681
+2025-07-13 07:33:19.909768,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Germany (W),-0.034100000000000005,0.0909,0.125
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Tim O'Neal,-0.036199999999999996,0.0164,0.0526
 2025-07-13 06:45:41.885345,DICK'S Open - DICK'S Open - Winner,Miguel Angel Jimenez,-0.037099999999999994,0.0217,0.0588
 2025-07-13 02:37:59.244275,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Jamie Arnold,-0.0384,0.0385,0.0769

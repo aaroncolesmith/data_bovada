@@ -23,10 +23,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 21:31:09.262292,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Liverpool,0.036900000000000044,0.5833,0.5464
 2025-07-13 17:33:01.778799,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.035699999999999954,0.75,0.7143
 2025-07-13 16:39:42.843506,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.0343,0.1176,0.0833
-2025-07-13 10:39:20.536408,NBA Summer League - NBA 2K26 Summer League - MVP,Terrence Shannon Jr. (MIN),0.034100000000000005,0.125,0.0909
 2025-07-13 18:43:13.071161,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Any Other Player,0.033399999999999985,0.1667,0.1333
-2025-07-13 13:41:15.209124,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,AI/Artificial Intelligence,0.033300000000000024,0.2,0.1667
 2025-07-13 20:33:39.518480,AL West - AL West 2025 - AL West Winner 2025,Seattle Mariners,0.033300000000000024,0.2,0.1667
+2025-07-13 13:41:15.209124,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,AI/Artificial Intelligence,0.033300000000000024,0.2,0.1667
 2025-07-13 16:39:42.065452,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Fabian Ruiz,0.0319,0.0385,0.0066
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Rory McIlroy,0.031799999999999995,0.1429,0.1111
 2025-07-13 18:43:13.060503,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Marek Houston vs Wehiwa Aloy,Wehiwa Aloy,0.03179999999999994,0.5556,0.5238
@@ -44,37 +43,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 17:32:59.302792,NBA Summer League - NBA 2K26 Summer League - Champion,San Antonio Spurs,0.0242,0.0909,0.0667
 2025-07-13 13:41:18.039643,Round Match-Ups - Final Round Match Up - B. Hossler v J. Koivun - Final Round Match Up,Beau Hossler,0.023800000000000043,0.5238,0.5
 2025-07-13 13:41:18.048376,Round Match-Ups - Final Round Match Up - E. Grillo v M. Thorbjornsen - Final Round Match Up,Emiliano Grillo,0.023800000000000043,0.5238,0.5
-2025-07-13 10:39:23.244474,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Over 67.5,0.023799999999999988,0.5,0.4762
 2025-07-13 16:39:42.065452,Awards - Ballon d'Or Winner 2025 - Ballon d'Or Winner 2025,Achraf Hakimi,0.0236,0.0385,0.0149
 2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,New England Patriots,0.0203,0.0526,0.0323
 2025-07-13 16:39:42.843506,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Washington Commanders,0.02020000000000001,0.1111,0.0909
-2025-07-13 10:39:20.536408,NBA Summer League - NBA 2K26 Summer League - MVP,Cooper Flagg (DAL),0.0189,0.0385,0.0196
 2025-07-13 18:43:13.081775,MLB Specials - MLB Draft - Player to be Drafted in the Top 5,Seth Hernandez,0.018399999999999972,0.7059,0.6875
 2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Buffalo Bills,0.01809999999999995,0.3571,0.339
 2025-07-13 17:32:59.732213,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Aidan Hutchinson (DET),0.0179,0.1429,0.125
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Justin Rose,0.017800000000000003,0.0244,0.0066
-2025-07-13 10:39:22.976547,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.01629999999999998,0.7222,0.7059
 2025-07-13 18:43:11.131460,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Ja'Marr Chase (CIN),0.015899999999999997,0.1111,0.0952
-2025-07-13 10:39:23.349940,DICK'S Open - DICK'S Open - Winner,Harrison Frazar,0.015300000000000001,0.0588,0.0435
 2025-07-13 18:43:13.050161,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Brendan Summerhill vs Gavin Kilen,Gavin Kilen,0.015199999999999991,0.7826,0.7674
+2025-07-13 18:43:13.067636,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Aiva Arquette,0.014399999999999996,0.0769,0.0625
 2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Cincinnati Bengals,0.014399999999999996,0.0769,0.0625
 2025-07-13 17:32:59.302792,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.014399999999999996,0.0769,0.0625
-2025-07-13 18:43:13.067636,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Aiva Arquette,0.014399999999999996,0.0769,0.0625
 2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Los Angeles Chargers,0.014399999999999996,0.0769,0.0625
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Shane Lowry,0.014099999999999998,0.0385,0.0244
 2025-07-13 18:43:11.131460,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),0.013999999999999999,0.0909,0.0769
 2025-07-13 16:39:42.843506,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Philadelphia Eagles,0.0131,0.2353,0.2222
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Sepp Straka,0.013,0.0196,0.0066
-2025-07-13 10:39:23.169091,Round Match-Ups - Final Round Match-Ups - V. Perez vs T. Pendrith - Final Round Match-Ups,Victor Perez,0.012199999999999989,0.5,0.4878
 2025-07-13 14:34:13.359807,"MLB Daily Specials - Sunday, July 13 - Daily Specials",Each Team to Score 1+ Run,0.011899999999999994,0.25,0.2381
 2025-07-13 22:36:14.847342,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.011699999999999933,0.7895,0.7778
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Russell Henley,0.0113,0.0179,0.0066
-2025-07-13 10:39:20.536408,NBA Summer League - NBA 2K26 Summer League - MVP,Rob Dillingham (MIN),0.011199999999999995,0.0588,0.0476
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Ben Griffin,0.0108,0.0141,0.0033
-2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Denver Broncos,0.0102,0.0769,0.0667
 2025-07-13 17:32:59.306444,NBA Summer League - NBA 2K26 Summer League - MVP,Kyle Filipowski (UTA),0.0102,0.0769,0.0667
+2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Denver Broncos,0.0102,0.0769,0.0667
 2025-07-13 18:43:13.064041,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Mason Neville vs Tate Southisene,Tate Southisene,-0.010099999999999998,0.5455,0.5556
-2025-07-13 10:39:23.169091,Round Match-Ups - Final Round Match-Ups - V. Perez vs T. Pendrith - Final Round Match-Ups,Taylor Pendrith,-0.010099999999999998,0.5455,0.5556
 2025-07-13 21:31:09.262292,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Tottenham Hotspur,-0.0102,0.0667,0.0769
 2025-07-13 22:36:14.847342,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010299999999999976,0.2564,0.2667
 2025-07-13 21:31:09.252234,Premier League Futures/Specials - English Premier League 2025/26 - Top at Xmas,Liverpool,-0.010699999999999987,0.3226,0.3333
@@ -82,12 +74,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 18:43:13.064041,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Mason Neville vs Tate Southisene,Mason Neville,-0.01100000000000001,0.5238,0.5348
 2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Aiva Arquette,-0.011099999999999999,0.1,0.1111
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Bryson DeChambeau,-0.011199999999999995,0.0476,0.0588
-2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.011200000000000002,0.0132,0.0244
 2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Kade Anderson,-0.011200000000000002,0.0132,0.0244
+2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,-0.011200000000000002,0.0132,0.0244
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Tom Kim,-0.011699999999999999,0.0079,0.0196
-2025-07-13 18:43:13.074663,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Jojo Parker,-0.011899999999999994,0.0714,0.0833
 2025-07-13 21:31:09.262292,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Aston Villa,-0.011899999999999994,0.0714,0.0833
-2025-07-13 10:39:22.976547,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.012299999999999978,0.3448,0.3571
+2025-07-13 18:43:13.074663,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Jojo Parker,-0.011899999999999994,0.0714,0.0833
 2025-07-13 13:41:14.956358,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Sahith Theegala,-0.013,0.0066,0.0196
 2025-07-13 18:43:13.071161,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Kade Anderson,-0.014000000000000012,0.2985,0.3125
@@ -97,10 +88,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 20:33:39.518480,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,-0.014899999999999997,0.0476,0.0625
 2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Billy Carlson,-0.015300000000000001,0.0323,0.0476
 2025-07-13 18:43:13.071161,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Liam Doyle,-0.015800000000000036,0.6667,0.6825
-2025-07-13 21:31:09.252234,Premier League Futures/Specials - English Premier League 2025/26 - Top at Xmas,Newcastle United,-0.016700000000000007,0.0833,0.1
-2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Liam Doyle,-0.016700000000000007,0.0833,0.1
 2025-07-13 21:31:09.146475,FA Cup - England FA Cup 2025/26 - Winner,Newcastle United,-0.016700000000000007,0.0833,0.1
+2025-07-13 21:31:09.252234,Premier League Futures/Specials - English Premier League 2025/26 - Top at Xmas,Newcastle United,-0.016700000000000007,0.0833,0.1
 2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Kyson Witherspoon,-0.016700000000000007,0.0833,0.1
+2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Liam Doyle,-0.016700000000000007,0.0833,0.1
 2025-07-13 18:43:13.067636,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Jamie Arnold,-0.017099999999999997,0.0385,0.0556
 2025-07-13 18:43:13.050161,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Brendan Summerhill vs Gavin Kilen,Brendan Summerhill,-0.017299999999999982,0.2857,0.303
 2025-07-13 18:43:13.078255,MLB Specials - MLB Draft - MLB Draft 2025 - 4th Overall Pick,Jamie Arnold,-0.0179,0.125,0.1429
@@ -109,17 +100,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Xander Schauffele,-0.0203,0.0385,0.0588
 2025-07-13 18:43:13.074663,MLB Specials - MLB Draft - MLB Draft 2025 - 3rd Overall Pick,Liam Doyle,-0.0208,0.0625,0.0833
 2025-07-13 18:43:13.067636,MLB Specials - MLB Draft - MLB Draft 2025 - 1st Overall Pick,Ethan Holliday,-0.02100000000000002,0.3636,0.3846
-2025-07-13 13:41:18.039643,Round Match-Ups - Final Round Match Up - B. Hossler v J. Koivun - Final Round Match Up,Jackson Koivun,-0.02169999999999994,0.5238,0.5455
 2025-07-13 13:41:18.048376,Round Match-Ups - Final Round Match Up - E. Grillo v M. Thorbjornsen - Final Round Match Up,Michael Thorbjornsen,-0.02169999999999994,0.5238,0.5455
-2025-07-13 21:31:09.271850,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Aston Villa,-0.021699999999999997,0.4545,0.4762
+2025-07-13 13:41:18.039643,Round Match-Ups - Final Round Match Up - B. Hossler v J. Koivun - Final Round Match Up,Jackson Koivun,-0.02169999999999994,0.5238,0.5455
 2025-07-13 13:41:18.044034,Round Match-Ups - Final Round Match Up - C. Ramey v C. Reavie - Final Round Match Up,Chez Reavie,-0.021699999999999997,0.4545,0.4762
+2025-07-13 21:31:09.271850,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Aston Villa,-0.021699999999999997,0.4545,0.4762
 2025-07-13 21:31:09.271850,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Newcastle United,-0.02200000000000002,0.6923,0.7143
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Ludvig Aberg,-0.0232,0.0435,0.0667
 2025-07-13 18:43:11.131460,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Saquon Barkley (PHI),-0.023799999999999988,0.1429,0.1667
 2025-07-13 18:43:13.071161,MLB Specials - MLB Draft - MLB Draft 2025 - 2nd Overall Pick,Ethan Holliday,-0.024299999999999995,0.0526,0.0769
 2025-07-13 13:41:17.996274,Boxing Lines - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.025999999999999912,0.7143,0.7403
 2025-07-13 16:39:42.834296,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Kansas City Chiefs,-0.026100000000000012,0.1739,0.2
-2025-07-13 10:39:23.244474,Scores - Final Round Scores - Scottie Scheffler - Final Round Scores,Under 67.5,-0.026499999999999968,0.5652,0.5917
 2025-07-13 16:39:44.952733,The Open Championship - The Open Championship - Winner,Collin Morikawa,-0.026499999999999996,0.0323,0.0588
 2025-07-13 18:43:13.053603,MLB Specials - MLB Draft - 2025 MLB Draft - Player to be Drafted First Matchup - Charles Davalan vs Max Belyeu,Max Belyeu,-0.026600000000000013,0.4082,0.4348
 2025-07-13 18:43:13.081775,MLB Specials - MLB Draft - Player to be Drafted in the Top 5,Marek Houston,-0.026699999999999995,0.04,0.0667

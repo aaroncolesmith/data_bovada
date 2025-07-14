@@ -135,7 +135,8 @@ url_list = [
 'https://www.bovada.lv/services/sports/event/coupon/events/A/description/baseball?marketFilterId=rank&preMatchOnly=true&lang=en',
 'https://www.bovada.lv/services/sports/event/coupon/events/A/description/boxing?marketFilterId=def&preMatchOnly=true&lang=en',
 'https://www.bovada.lv/services/sports/event/coupon/events/A/description/basketball/college-basketball?marketFilterId=rank&preMatchOnly=true&lang=en',
-'https://www.bovada.lv/services/sports/event/coupon/events/A/description/golf?marketFilterId=def&preMatchOnly=true&lang=en'
+'https://www.bovada.lv/services/sports/event/coupon/events/A/description/golf?marketFilterId=def&preMatchOnly=true&lang=en',
+    'https://www.bovada.lv/services/sports/event/coupon/events/A/description/cycling?marketFilterId=def&preMatchOnly=true&lang=en'
 ]
 
 df1=get_historical_data()

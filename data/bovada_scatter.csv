@@ -39,14 +39,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-14 08:48:01.458792,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Huracán,0.015300000000000001,0.0476,0.0323
 2025-07-14 08:48:01.357484,Brasileirão Série A - Brazil Serie A 2025 - Winner,RB Bragantino,0.014900000000000004,0.0345,0.0196
 2025-07-14 08:48:01.458792,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Argentinos Juniors,0.014899999999999997,0.0625,0.0476
-2025-07-14 05:44:00.906108,Boxing Lines - David Nyika vs Nikolas Charalampous - To Win the Bout,David Nyika,0.014100000000000001,0.9615,0.9474
 2025-07-14 07:36:20.942912,Home Run Derby - 2025 Home Run Derby - Player to Hit Longest Derby HR,Junior Caminero (TB),0.014100000000000001,0.0526,0.0385
+2025-07-14 05:44:00.906108,Boxing Lines - David Nyika vs Nikolas Charalampous - To Win the Bout,David Nyika,0.014100000000000001,0.9615,0.9474
 2025-07-14 05:43:58.982712,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cameron Ward,0.0131,0.2353,0.2222
 2025-07-14 08:48:01.357484,Brasileirão Série A - Brazil Serie A 2025 - Winner,Bahia,0.0131,0.0476,0.0345
 2025-07-14 08:48:01.310730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,0.012899999999999995,0.1667,0.1538
 2025-07-14 06:50:25.477290,AL Central - AL Central 2025 - AL Central Winner,Minnesota Twins,0.012700000000000003,0.0323,0.0196
 2025-07-14 07:36:21.079834,Home Run Derby - 2025 Home Run Derby - Will Junior Caminero Make the Semi-Finals,No,0.012299999999999978,0.6552,0.6429
-2025-07-13 22:36:14.847342,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.011699999999999933,0.7895,0.7778
 2025-07-14 07:36:20.953383,Home Run Derby - 2025 Home Run Derby - Distance of Longest Home Run,Under 479.5,0.011600000000000055,0.5238,0.5122
 2025-07-14 09:43:33.036301,Boxing Lines - Kris Terzievski vs Troy Pilcher - To Win the Bout,Kris Terzievski,0.011499999999999955,0.6667,0.6552
 2025-07-14 08:48:01.839196,NBA Summer League - NBA 2K26 Summer League - Champion,Boston Celtics,0.011199999999999995,0.0588,0.0476
@@ -66,7 +65,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-14 07:36:20.953383,Home Run Derby - 2025 Home Run Derby - Distance of Longest Home Run,Over 479.5,-0.010099999999999998,0.5455,0.5556
 2025-07-14 08:48:01.842948,NBA Summer League - NBA 2K26 Summer League - MVP,Jamal Shead (TOR),-0.010100000000000001,0.0244,0.0345
 2025-07-14 08:48:01.310730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Portland Timbers,-0.0102,0.0667,0.0769
-2025-07-13 22:36:14.847342,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010299999999999976,0.2564,0.2667
 2025-07-14 06:50:25.570892,ROY - AL ROY 2025 - American League Rookie of the Year,Carlos Narvaez (BOS),-0.010700000000000001,0.0278,0.0385
 2025-07-14 04:11:47.372039,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Lauren James,-0.011099999999999999,0.1,0.1111
 2025-07-14 05:43:58.971810,CFL Futures - Grey Cup - Grey Cup Winner 2025,Ottawa Redblacks,-0.011199999999999995,0.0476,0.0588
@@ -76,6 +74,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Djordje Mihailovic,-0.012100000000000001,0.0123,0.0244
 2025-07-14 06:50:25.601934,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,John Schneider (TOR),-0.012299999999999991,0.1053,0.1176
 2025-07-14 08:48:01.465261,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Deportivo Riestra,-0.012700000000000003,0.0196,0.0323
+2025-07-14 10:43:43.465234,The Open Championship - The Open Championship - Winner,Scottie Scheffler,-0.012899999999999995,0.1538,0.1667
 2025-07-14 08:48:01.458792,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Godoy Cruz,-0.012999999999999998,0.0164,0.0294
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Luis Suarez,-0.013,0.0066,0.0196
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Cristian Arango,-0.0131,0.0345,0.0476
@@ -83,18 +82,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-14 06:50:25.482089,AL East - AL East 2025 - AL East Winner 2025,Tampa Bay Rays,-0.013999999999999999,0.0769,0.0909
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,-0.013999999999999999,0.0769,0.0909
 2025-07-14 02:33:43.797216,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),-0.014399999999999968,0.9231,0.9375
-2025-07-14 08:48:01.839196,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,-0.014399999999999996,0.0625,0.0769
 2025-07-14 06:50:25.586494,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Camilo Doval (SF),-0.014399999999999996,0.0625,0.0769
+2025-07-14 08:48:01.839196,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,-0.014399999999999996,0.0625,0.0769
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Josef Martinez,-0.014499999999999999,0.0149,0.0294
 2025-07-14 08:48:04.388314,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Jazz Chisholm (NYY),-0.01479999999999998,0.3774,0.3922
 2025-07-14 08:48:04.448738,Home Run Derby - 2025 Home Run Derby - Will Jazz Chisholm Make the Semi-Finals,Yes,-0.01479999999999998,0.3774,0.3922
 2025-07-14 04:11:47.369714,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),-0.015100000000000002,0.1667,0.1818
 2025-07-14 04:54:40.039505,WNBA Awards - Rookie of the Year 2025 - Rookie of the Year 2025,Sonia Citron (WAS),-0.015300000000000001,0.0323,0.0476
-2025-07-14 07:36:21.079834,Home Run Derby - 2025 Home Run Derby - Will Junior Caminero Make the Semi-Finals,Yes,-0.017299999999999982,0.4082,0.4255
 2025-07-14 07:36:21.028267,Home Run Derby - 2025 Home Run Derby - To Make the Semifinals,Junior Caminero (TB),-0.017299999999999982,0.4082,0.4255
+2025-07-14 07:36:21.079834,Home Run Derby - 2025 Home Run Derby - Will Junior Caminero Make the Semi-Finals,Yes,-0.017299999999999982,0.4082,0.4255
 2025-07-14 08:48:01.347773,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,CF Monterrey,-0.0179,0.125,0.1429
-2025-07-14 06:50:25.570892,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),-0.018099999999999998,0.0345,0.0526
 2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,-0.018099999999999998,0.0588,0.0769
+2025-07-14 06:50:25.570892,ROY - AL ROY 2025 - American League Rookie of the Year,Jasson Dominguez (NYY),-0.018099999999999998,0.0345,0.0526
 2025-07-14 08:48:01.462071,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Belgrano,-0.018200000000000004,0.0294,0.0476
 2025-07-14 08:48:01.839196,NBA Summer League - NBA 2K26 Summer League - Champion,Detroit Pistons,-0.019000000000000003,0.0435,0.0625
 2025-07-14 08:48:01.458792,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,San Lorenzo,-0.019099999999999992,0.0476,0.0667
@@ -110,9 +109,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-14 08:48:01.842948,NBA Summer League - NBA 2K26 Summer League - MVP,Leonard Miller (MIN),-0.028000000000000004,0.0196,0.0476
 2025-07-14 08:48:01.458792,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Vélez Sarsfield,-0.028000000000000004,0.0196,0.0476
 2025-07-14 06:50:25.601934,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Kevin Cash (TB),-0.028399999999999995,0.0625,0.0909
+2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.029299999999999993,0.0476,0.0769
 2025-07-14 08:48:01.842948,NBA Summer League - NBA 2K26 Summer League - MVP,Kyle Filipowski (UTA),-0.029299999999999993,0.0476,0.0769
 2025-07-14 08:48:01.465261,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Platense,-0.029299999999999993,0.0476,0.0769
-2025-07-14 08:48:01.307206,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.029299999999999993,0.0476,0.0769
 2025-07-14 06:50:25.586494,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Robert Suarez (SD),-0.029600000000000015,0.3704,0.4
 2025-07-14 08:48:01.839196,NBA Summer League - NBA 2K26 Summer League - Champion,Phoenix Suns,-0.0335,0.0141,0.0476
 2025-07-14 05:43:58.982712,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Shedeur Sanders (CLE),-0.0344,0.0244,0.0588

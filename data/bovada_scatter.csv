@@ -1,9 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Sacramento Kings,0.13890000000000002,0.2222,0.0833
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Miami Heat,0.11900000000000002,0.2857,0.1667
 2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,LA Clippers,0.11409999999999998,0.1667,0.0526
 2025-07-15 16:45:27.145836,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Miami Heat,0.09999999999999999,0.1667,0.0667
+2025-07-15 18:48:29.004195,Big 12 - Big 12 Regular Season Wins 2025-26 - BYU,Under 7.5,0.09959999999999991,0.7222,0.6226
 2025-07-15 09:43:33.500181,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Miss,0.09549999999999997,0.5122,0.4167
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Los Angeles Clippers,0.08339999999999999,0.1667,0.0833
+2025-07-15 18:48:29.236721,MWC - MWC Regular Season Wins 2025-26 - San Diego State,Over 4.5,0.0805999999999999,0.6154,0.5348
 2025-07-15 09:43:33.433825,Cut Lines - Si Woo Kim - Make Cut / Miss Cut - Si Woo Kim,Miss,0.06840000000000002,0.4255,0.3571
 2025-07-15 06:49:29.377546,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.057699999999999974,0.3077,0.25
 2025-07-15 09:43:33.486983,Cut Lines - Max Greyserman - Make Cut / Miss Cut - Max Greyserman,Miss,0.05070000000000002,0.4762,0.4255
@@ -13,91 +16,156 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 16:45:27.145836,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Dallas Mavericks,0.044399999999999995,0.4444,0.4
 2025-07-15 09:43:33.429415,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Miss,0.044399999999999995,0.4444,0.4
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Atlanta Hawks,0.04120000000000001,0.1,0.0588
+2025-07-15 18:48:29.175727,MAC - MAC Regular Season Wins 2025-26 - Buffalo,Under 7.5,0.03600000000000003,0.5238,0.4878
+2025-07-15 18:48:29.301662,SEC - SEC Regular Season Wins 2025-26 - Mississippi,Under 8.5,0.03480000000000005,0.5348,0.5
 2025-07-15 13:04:58.478444,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.03479999999999994,0.6,0.5652
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Detroit Pistons,0.0347,0.0625,0.0278
 2025-07-15 06:49:31.531961,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,0.033300000000000024,0.2,0.1667
-2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,Boston Red Sox,0.033299999999999996,0.1333,0.1
+2025-07-15 18:48:29.233155,MWC - MWC Regular Season Wins 2025-26 - New Mexico,Over 3.5,0.033299999999999996,0.4878,0.4545
+2025-07-15 18:48:28.993780,Big 12 - Big 12 Regular Season Wins 2025-26 - Arizona,Over 5.5,0.033299999999999996,0.5455,0.5122
+2025-07-15 18:48:28.907230,AAC - AAC Regular Season Wins 2025-26 - Rice,Under 3.5,0.031799999999999995,0.4762,0.4444
 2025-07-15 16:45:30.050851,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Make,0.030299999999999994,0.6667,0.6364
 2025-07-15 09:43:33.358468,Cut Lines - Chris Gotterup - Make Cut / Miss Cut - Chris Gotterup,Miss,0.029600000000000015,0.4,0.3704
 2025-07-15 09:43:33.305842,Cut Lines - Collin Morikawa - Make Cut / Miss Cut - Collin Morikawa,Miss,0.02679999999999999,0.3125,0.2857
+2025-07-15 18:48:28.954140,ACC - ACC Regular Season Wins 2025-26 - Louisville,Over 8.5,0.026499999999999968,0.5917,0.5652
 2025-07-15 16:45:30.088783,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,0.026499999999999968,0.6491,0.6226
 2025-07-15 16:45:29.972094,Cut Lines - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Make,0.025600000000000067,0.6923,0.6667
-2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Miss,0.025499999999999967,0.4255,0.4
+2025-07-15 18:48:28.927957,AAC - AAC Regular Season Wins 2025-26 - UTSA,Over 7.5,0.025599999999999956,0.6,0.5744
 2025-07-15 09:43:33.438260,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Miss,0.025499999999999967,0.4255,0.4
+2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Miss,0.025499999999999967,0.4255,0.4
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,San Antonio Spurs,0.024999999999999994,0.125,0.1
 2025-07-15 16:45:29.685290,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,0.024399999999999977,0.5122,0.4878
+2025-07-15 18:48:29.025459,Big 12 - Big 12 Regular Season Wins 2025-26 - Kansas State,Over 8.5,0.023799999999999988,0.5,0.4762
+2025-07-15 18:48:29.046176,Big 12 - Big 12 Regular Season Wins 2025-26 - West Virginia,Over 5.5,0.023799999999999988,0.5,0.4762
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Golden State Warriors,0.023799999999999988,0.1667,0.1429
 2025-07-15 11:31:22.268154,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
 2025-07-15 13:50:56.774293,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.022600000000000064,0.6226,0.6
 2025-07-15 17:36:08.277010,Outrights - Tour de France 2025 - Tour de France Winner,Jonas Vingegaard,0.022199999999999998,0.2222,0.2
+2025-07-15 18:48:29.032370,Big 12 - Big 12 Regular Season Wins 2025-26 - TCU,Under 6.5,0.020699999999999996,0.4651,0.4444
 2025-07-15 10:42:41.467584,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
+2025-07-15 18:48:29.847533,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Isaac Cruz,0.020500000000000074,0.8667,0.8462
 2025-07-15 09:43:33.262283,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,0.020100000000000007,0.1739,0.1538
 2025-07-15 14:37:47.994339,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Over 36.5,0.01970000000000005,0.5652,0.5455
+2025-07-15 18:48:29.196799,MAC - MAC Regular Season Wins 2025-26 - Northern Illinois,Over 6.5,0.019699999999999995,0.4545,0.4348
+2025-07-15 18:48:28.889784,AAC - AAC Regular Season Wins 2025-26 - East Carolina,Over 6.5,0.019699999999999995,0.4545,0.4348
 2025-07-15 09:43:33.271056,Cut Lines - Bryson DeChambeau - Make Cut / Miss Cut - Bryson DeChambeau,Miss,0.019000000000000017,0.2857,0.2667
 2025-07-15 09:43:33.394036,Cut Lines - Cameron Smith - Make Cut / Miss Cut - Cameron Smith,Miss,0.018900000000000028,0.4444,0.4255
-2025-07-15 16:45:30.103753,Cut Lines - Taylor Pendrith - Make Cut / Miss Cut - Taylor Pendrith,Make,0.01880000000000004,0.6552,0.6364
 2025-07-15 16:45:30.078088,Cut Lines - Harris English - Make Cut / Miss Cut - Harris English,Make,0.01880000000000004,0.6552,0.6364
+2025-07-15 16:45:30.103753,Cut Lines - Taylor Pendrith - Make Cut / Miss Cut - Taylor Pendrith,Make,0.01880000000000004,0.6552,0.6364
+2025-07-15 18:48:28.896803,AAC - AAC Regular Season Wins 2025-26 - Memphis,Under 8.5,0.01880000000000004,0.5744,0.5556
+2025-07-15 18:48:29.777176,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,0.01880000000000004,0.5744,0.5556
 2025-07-15 16:45:30.072882,Cut Lines - Keegan Bradley - Make Cut / Miss Cut - Keegan Bradley,Make,0.01880000000000004,0.6552,0.6364
-2025-07-15 05:43:00.619685,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.018099999999999998,0.0769,0.0588
 2025-07-15 13:04:58.344893,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,0.017299999999999982,0.5917,0.5744
+2025-07-15 18:48:29.222805,MWC - MWC Regular Season Wins 2025-26 - Fresno State,Over 6.5,0.017299999999999982,0.5917,0.5744
 2025-07-15 09:43:33.349591,Cut Lines - Brooks Koepka - Make Cut / Miss Cut - Brooks Koepka,Miss,0.016699999999999993,0.4167,0.4
+2025-07-15 18:48:28.936808,ACC - ACC Regular Season Wins 2025-26 - California,Under 5.5,0.01539999999999997,0.6154,0.6
+2025-07-15 18:48:29.308573,SEC - SEC Regular Season Wins 2025-26 - Missouri,Under 7.5,0.01539999999999997,0.6154,0.6
+2025-07-15 18:48:28.943740,ACC - ACC Regular Season Wins 2025-26 - Duke,Over 6.5,0.01539999999999997,0.6154,0.6
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Los Angeles Clippers,0.015100000000000002,0.1818,0.1667
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Cleveland Cavaliers,0.014599999999999998,0.0196,0.005
 2025-07-15 09:43:33.327779,Cut Lines - Ryan Fox - Make Cut / Miss Cut - Ryan Fox,Miss,0.01419999999999999,0.3846,0.3704
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Oklahoma City Thunder,0.013999999999999999,0.0909,0.0769
+2025-07-15 18:48:30.258757,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,0.013900000000000023,0.8889,0.875
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.013899999999999996,0.125,0.1111
 2025-07-15 06:49:30.859207,CFL Player Futures - CFL Most Outstanding Player 2025 - Most Outstanding Player,Bo Levi Mitchell,0.013899999999999996,0.2222,0.2083
+2025-07-15 18:48:29.322362,SEC - SEC Regular Season Wins 2025-26 - Texas,Over 9.5,0.013299999999999979,0.6429,0.6296
+2025-07-15 18:48:28.917660,AAC - AAC Regular Season Wins 2025-26 - Tulane ,Under 8.5,0.013299999999999979,0.6429,0.6296
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Cleveland Cavaliers,0.012899999999999995,0.1667,0.1538
+2025-07-15 18:48:29.028902,Big 12 - Big 12 Regular Season Wins 2025-26 - Oklahoma State,Under 5.5,0.012299999999999978,0.6552,0.6429
+2025-07-15 18:48:29.240154,MWC - MWC Regular Season Wins 2025-26 - San Jose State,Under 7.5,0.012199999999999989,0.5,0.4878
+2025-07-15 18:48:28.997218,Big 12 - Big 12 Regular Season Wins 2025-26 - Arizona State,Over 8.5,0.012199999999999989,0.5,0.4878
+2025-07-15 18:48:28.900231,AAC - AAC Regular Season Wins 2025-26 - Navy,Under 8.5,0.012199999999999989,0.5,0.4878
+2025-07-15 18:48:29.839160,Boxing Lines - Austin Williams vs Etinosa Oliha - To Win the Bout,Etinosa Oliha,0.011899999999999994,0.25,0.2381
 2025-07-15 13:04:58.311508,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.011699999999999933,0.7895,0.7778
+2025-07-15 18:48:28.910736,AAC - AAC Regular Season Wins 2025-26 - South Florida,Under 6.5,0.011600000000000055,0.5238,0.5122
+2025-07-15 18:48:29.039290,Big 12 - Big 12 Regular Season Wins 2025-26 - UCF,Under 5.5,0.011600000000000055,0.5238,0.5122
 2025-07-15 15:35:57.336920,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,0.0116,0.4878,0.4762
+2025-07-15 18:48:28.933234,ACC - ACC Regular Season Wins 2025-26 - Boston College,Over 5.5,0.0116,0.4878,0.4762
 2025-07-15 17:36:05.497611,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Ivica Zubac (LAC),0.011399999999999997,0.0278,0.0164
 2025-07-15 16:45:29.748588,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Brandon Figueroa,0.011099999999999999,0.7333,0.7222
 2025-07-15 06:49:30.859207,CFL Player Futures - CFL Most Outstanding Player 2025 - Most Outstanding Player,Nathan Rourke (BC),0.010899999999999993,0.1538,0.1429
+2025-07-15 18:48:29.182826,MAC - MAC Regular Season Wins 2025-26 - Eastern Michigan,Over 4.5,0.010699999999999932,0.5455,0.5348
+2025-07-15 18:48:28.914209,AAC - AAC Regular Season Wins 2025-26 - Temple,Under 3.5,0.010699999999999932,0.5455,0.5348
+2025-07-15 18:48:29.207185,MAC - MAC Regular Season Wins 2025-26 - Western Michigan,Under 4.5,0.010599999999999998,0.4651,0.4545
+2025-07-15 18:48:29.280749,SEC - SEC Regular Season Wins 2025-26 - Arkansas,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-07-15 16:45:29.645064,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.010500000000000065,0.8,0.7895
 2025-07-15 06:49:29.377546,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.010499999999999982,0.2105,0.2
+2025-07-15 18:48:29.007682,Big 12 - Big 12 Regular Season Wins 2025-26 - Cincinnati,Over 6.5,0.010099999999999998,0.4545,0.4444
+2025-07-15 18:48:29.164909,MAC - MAC Regular Season Wins 2025-26 - Akron,Over 4.5,-0.010099999999999998,0.4444,0.4545
 2025-07-15 08:45:50.911370,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,-0.010099999999999998,0.4444,0.4545
-2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.010099999999999998,0.5455,0.5556
+2025-07-15 18:48:29.039290,Big 12 - Big 12 Regular Season Wins 2025-26 - UCF,Over 5.5,-0.010099999999999998,0.5455,0.5556
+2025-07-15 18:48:28.910736,AAC - AAC Regular Season Wins 2025-26 - South Florida,Over 6.5,-0.010099999999999998,0.5455,0.5556
 2025-07-15 16:45:26.402227,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Norway (W),-0.010100000000000001,0.0244,0.0345
 2025-07-15 13:04:58.311508,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010299999999999976,0.2564,0.2667
-2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Wout Van Aert,-0.010899999999999993,0.1429,0.1538
+2025-07-15 18:48:28.936808,ACC - ACC Regular Season Wins 2025-26 - California,Over 5.5,-0.010599999999999998,0.4545,0.4651
+2025-07-15 18:48:29.308573,SEC - SEC Regular Season Wins 2025-26 - Missouri,Over 7.5,-0.010599999999999998,0.4545,0.4651
+2025-07-15 18:48:28.943740,ACC - ACC Regular Season Wins 2025-26 - Duke,Under 6.5,-0.010599999999999998,0.4545,0.4651
+2025-07-15 18:48:29.212363,MWC - MWC Regular Season Wins 2025-26 - Air Force,Over 5.5,-0.010700000000000043,0.6667,0.6774
+2025-07-15 18:48:29.839160,Boxing Lines - Austin Williams vs Etinosa Oliha - To Win the Bout,Austin Williams,-0.01089999999999991,0.8182,0.8291
 2025-07-15 13:04:58.432237,The Open Championship - The Open Championship - Winner,Scottie Scheffler,-0.010899999999999993,0.1429,0.1538
+2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Wout Van Aert,-0.010899999999999993,0.1429,0.1538
+2025-07-15 18:48:29.182826,MAC - MAC Regular Season Wins 2025-26 - Eastern Michigan,Under 4.5,-0.01100000000000001,0.5238,0.5348
+2025-07-15 18:48:28.914209,AAC - AAC Regular Season Wins 2025-26 - Temple,Over 3.5,-0.01100000000000001,0.5238,0.5348
 2025-07-15 16:45:29.748588,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.01150000000000001,0.3333,0.3448
+2025-07-15 18:48:29.222805,MWC - MWC Regular Season Wins 2025-26 - Fresno State,Under 6.5,-0.0116,0.4762,0.4878
 2025-07-15 13:04:58.344893,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,-0.0116,0.4762,0.4878
+2025-07-15 18:48:29.255622,Non Conference - Non Conference Regular Season Wins 2025-26 - Connecticut,Over 7.5,-0.012199999999999989,0.5,0.5122
 2025-07-15 09:43:33.394036,Cut Lines - Cameron Smith - Make Cut / Miss Cut - Cameron Smith,Make,-0.013799999999999923,0.6226,0.6364
 2025-07-15 08:45:50.908235,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Huracán,-0.013899999999999996,0.1111,0.125
 2025-07-15 08:45:53.892404,Barracuda Championship - Barracuda Championship - Winner,Brandon Wu,-0.013900000000000001,0.0025,0.0164
-2025-07-15 05:43:00.619685,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Tampa Bay Rays,-0.014099999999999994,0.0526,0.0667
+2025-07-15 18:48:29.196799,MAC - MAC Regular Season Wins 2025-26 - Northern Illinois,Under 6.5,-0.014200000000000101,0.6154,0.6296
+2025-07-15 18:48:28.889784,AAC - AAC Regular Season Wins 2025-26 - East Carolina,Under 6.5,-0.014200000000000101,0.6154,0.6296
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Cleveland Cavaliers,-0.014599999999999998,0.005,0.0196
 2025-07-15 09:43:33.327779,Cut Lines - Ryan Fox - Make Cut / Miss Cut - Ryan Fox,Make,-0.014900000000000024,0.6774,0.6923
 2025-07-15 06:49:29.377546,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.015100000000000002,0.1667,0.1818
+2025-07-15 18:48:29.280749,SEC - SEC Regular Season Wins 2025-26 - Arkansas,Under 5.5,-0.01539999999999997,0.6,0.6154
+2025-07-15 18:48:29.207185,MAC - MAC Regular Season Wins 2025-26 - Western Michigan,Over 4.5,-0.01539999999999997,0.6,0.6154
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Detroit Pistons,-0.0157,0.0278,0.0435
 2025-07-15 16:45:30.198029,Barracuda Championship - Barracuda Championship - Winner,MJ Daffue,-0.0171,0.0025,0.0196
-2025-07-15 16:45:30.072882,Cut Lines - Keegan Bradley - Make Cut / Miss Cut - Keegan Bradley,Miss,-0.017299999999999982,0.4082,0.4255
 2025-07-15 15:35:57.336920,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,-0.017299999999999982,0.5744,0.5917
-2025-07-15 16:45:30.078088,Cut Lines - Harris English - Make Cut / Miss Cut - Harris English,Miss,-0.017299999999999982,0.4082,0.4255
+2025-07-15 18:48:28.933234,ACC - ACC Regular Season Wins 2025-26 - Boston College,Under 5.5,-0.017299999999999982,0.5744,0.5917
 2025-07-15 16:45:30.103753,Cut Lines - Taylor Pendrith - Make Cut / Miss Cut - Taylor Pendrith,Miss,-0.017299999999999982,0.4082,0.4255
+2025-07-15 16:45:30.078088,Cut Lines - Harris English - Make Cut / Miss Cut - Harris English,Miss,-0.017299999999999982,0.4082,0.4255
+2025-07-15 18:48:29.028902,Big 12 - Big 12 Regular Season Wins 2025-26 - Oklahoma State,Over 5.5,-0.017299999999999982,0.4082,0.4255
+2025-07-15 16:45:30.072882,Cut Lines - Keegan Bradley - Make Cut / Miss Cut - Keegan Bradley,Miss,-0.017299999999999982,0.4082,0.4255
 2025-07-15 09:43:33.349591,Cut Lines - Brooks Koepka - Make Cut / Miss Cut - Brooks Koepka,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-15 16:45:29.685290,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,-0.01880000000000004,0.5556,0.5744
 2025-07-15 09:43:33.262283,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,-0.020199999999999996,0.8889,0.9091
-2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.02030000000000004,0.3571,0.3774
-2025-07-15 13:50:56.774293,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Shane Lowry,-0.020699999999999996,0.4444,0.4651
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Phoenix Suns,-0.0203,0.0385,0.0588
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Philadelphia 76ers,-0.0203,0.0385,0.0588
 2025-07-15 11:31:22.268154,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
-2025-07-15 09:43:33.271056,Cut Lines - Bryson DeChambeau - Make Cut / Miss Cut - Bryson DeChambeau,Make,-0.022199999999999998,0.7778,0.8
-2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Toronto Raptors,-0.022199999999999998,0.2,0.2222
+2025-07-15 13:50:56.774293,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Shane Lowry,-0.020699999999999996,0.4444,0.4651
 2025-07-15 16:45:27.145836,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,New York Knicks,-0.022199999999999998,0.1111,0.1333
+2025-07-15 09:43:33.271056,Cut Lines - Bryson DeChambeau - Make Cut / Miss Cut - Bryson DeChambeau,Make,-0.022199999999999998,0.7778,0.8
+2025-07-15 18:48:29.847533,Boxing Lines - Isaac Cruz vs Angel Fierro - To Win the Bout,Angel Fierro,-0.022199999999999998,0.2,0.2222
+2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Toronto Raptors,-0.022199999999999998,0.2,0.2222
 2025-07-15 10:42:41.467584,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
+2025-07-15 18:48:29.032370,Big 12 - Big 12 Regular Season Wins 2025-26 - TCU,Over 6.5,-0.022600000000000064,0.6,0.6226
+2025-07-15 18:48:28.927957,AAC - AAC Regular Season Wins 2025-26 - UTSA,Under 7.5,-0.022699999999999998,0.4651,0.4878
+2025-07-15 18:48:28.954140,ACC - ACC Regular Season Wins 2025-26 - Louisville,Under 8.5,-0.023799999999999988,0.4762,0.5
 2025-07-15 08:45:50.908235,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Estudiantes de La Plata,-0.023799999999999988,0.1429,0.1667
 2025-07-15 14:37:47.994339,Miami Heat - Regular Season Wins 2025-26 - Miami Heat - Regular Season Wins,Under 36.5,-0.023800000000000043,0.5,0.5238
+2025-07-15 18:48:28.896803,AAC - AAC Regular Season Wins 2025-26 - Memphis,Over 8.5,-0.024399999999999977,0.4878,0.5122
+2025-07-15 18:48:29.777176,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,-0.024399999999999977,0.4878,0.5122
 2025-07-15 16:45:30.050851,Cut Lines - Corey Conners - Make Cut / Miss Cut - Corey Conners,Miss,-0.025499999999999967,0.4,0.4255
 2025-07-15 09:43:33.358468,Cut Lines - Chris Gotterup - Make Cut / Miss Cut - Chris Gotterup,Make,-0.025600000000000067,0.6667,0.6923
+2025-07-15 18:48:29.025459,Big 12 - Big 12 Regular Season Wins 2025-26 - Kansas State,Under 8.5,-0.026499999999999968,0.5652,0.5917
+2025-07-15 18:48:29.046176,Big 12 - Big 12 Regular Season Wins 2025-26 - West Virginia,Under 5.5,-0.026499999999999968,0.5652,0.5917
 2025-07-15 16:45:30.088783,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Miss,-0.027700000000000002,0.4167,0.4444
 2025-07-15 09:43:33.305842,Cut Lines - Collin Morikawa - Make Cut / Miss Cut - Collin Morikawa,Make,-0.027800000000000047,0.75,0.7778
+2025-07-15 18:48:29.175727,MAC - MAC Regular Season Wins 2025-26 - Buffalo,Over 7.5,-0.028900000000000037,0.5455,0.5744
 2025-07-15 16:45:29.972094,Cut Lines - Justin Thomas - Make Cut / Miss Cut - Justin Thomas,Miss,-0.029600000000000015,0.3704,0.4
 2025-07-15 09:43:33.438260,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Make,-0.030299999999999994,0.6364,0.6667
 2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Make,-0.030299999999999994,0.6364,0.6667
-2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,-0.033300000000000024,0.1667,0.2
+2025-07-15 18:48:29.301662,SEC - SEC Regular Season Wins 2025-26 - Mississippi,Over 8.5,-0.030399999999999983,0.5348,0.5652
+2025-07-15 18:48:28.907230,AAC - AAC Regular Season Wins 2025-26 - Rice,Over 3.5,-0.03090000000000004,0.5917,0.6226
+2025-07-15 18:48:28.993780,Big 12 - Big 12 Regular Season Wins 2025-26 - Arizona,Under 5.5,-0.03179999999999994,0.5238,0.5556
 2025-07-15 14:37:47.886117,NBA Summer League - NBA 2K26 Summer League - Champion,Minnesota Timberwolves,-0.033300000000000024,0.1667,0.2
+2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,-0.033300000000000024,0.1667,0.2
 2025-07-15 13:04:58.478444,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Shane Lowry,-0.03489999999999999,0.4651,0.5
-2025-07-15 09:43:33.429415,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,-0.04409999999999992,0.6226,0.6667
+2025-07-15 18:48:29.233155,MWC - MWC Regular Season Wins 2025-26 - New Mexico,Under 3.5,-0.040999999999999925,0.5744,0.6154
 2025-07-15 09:43:33.460406,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Make,-0.04409999999999992,0.6226,0.6667
+2025-07-15 09:43:33.429415,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,-0.04409999999999992,0.6226,0.6667
 2025-07-15 09:43:33.473755,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,-0.04409999999999992,0.6226,0.6667
 2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,New York Knicks,-0.04440000000000001,0.0667,0.1111
 2025-07-15 09:43:33.486983,Cut Lines - Max Greyserman - Make Cut / Miss Cut - Max Greyserman,Make,-0.04469999999999996,0.5917,0.6364
@@ -107,4 +175,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 16:45:27.145836,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Cleveland Cavaliers,-0.06840000000000002,0.1538,0.2222
 2025-07-15 09:43:33.433825,Cut Lines - Si Woo Kim - Make Cut / Miss Cut - Si Woo Kim,Make,-0.0695,0.6364,0.7059
 2025-07-15 16:45:27.145836,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Golden State Warriors,-0.07930000000000001,0.1429,0.2222
+2025-07-15 18:48:29.236721,MWC - MWC Regular Season Wins 2025-26 - San Diego State,Under 4.5,-0.08030000000000004,0.4545,0.5348
 2025-07-15 09:43:33.500181,Cut Lines - Rickie Fowler - Make Cut / Miss Cut - Rickie Fowler,Make,-0.09350000000000003,0.5556,0.6491
+2025-07-15 18:48:29.004195,Big 12 - Big 12 Regular Season Wins 2025-26 - BYU,Over 7.5,-0.09960000000000002,0.3448,0.4444
+2025-07-15 17:36:05.471495,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Dallas Mavericks,-0.1587,0.2857,0.4444

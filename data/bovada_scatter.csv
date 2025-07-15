@@ -8,9 +8,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 06:49:29.377546,CFL Futures - Grey Cup - Grey Cup Winner 2025,Montreal Alouettes,0.057699999999999974,0.3077,0.25
 2025-07-15 09:43:33.486983,Cut Lines - Max Greyserman - Make Cut / Miss Cut - Max Greyserman,Miss,0.05070000000000002,0.4762,0.4255
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.048600000000000004,0.1111,0.0625
-2025-07-15 09:43:33.473755,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,0.044399999999999995,0.4444,0.4
 2025-07-15 09:43:33.460406,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Miss,0.044399999999999995,0.4444,0.4
 2025-07-15 09:43:33.429415,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Miss,0.044399999999999995,0.4444,0.4
+2025-07-15 09:43:33.473755,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Miss,0.044399999999999995,0.4444,0.4
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Atlanta Hawks,0.04120000000000001,0.1,0.0588
 2025-07-15 13:04:58.478444,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.03479999999999994,0.6,0.5652
 2025-07-15 02:32:36.281294,Exact Matchup - Exact Matchup 2025-26 - Exact Matchup,New York Knicks vs Denver Nuggets,0.0345,0.0385,0.004
@@ -22,8 +22,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Miss,0.025499999999999967,0.4255,0.4
 2025-07-15 11:31:22.268154,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
 2025-07-15 04:08:56.236779,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
-2025-07-15 02:32:38.909034,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
+2025-07-15 13:50:56.774293,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.022600000000000064,0.6226,0.6
 2025-07-15 10:42:41.467584,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
+2025-07-15 02:32:38.909034,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
 2025-07-15 09:43:33.262283,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Miss,0.020100000000000007,0.1739,0.1538
 2025-07-15 09:43:33.271056,Cut Lines - Bryson DeChambeau - Make Cut / Miss Cut - Bryson DeChambeau,Miss,0.019000000000000017,0.2857,0.2667
 2025-07-15 09:43:33.394036,Cut Lines - Cameron Smith - Make Cut / Miss Cut - Cameron Smith,Miss,0.018900000000000028,0.4444,0.4255
@@ -39,8 +40,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 02:32:38.860611,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,0.01150000000000001,0.3448,0.3333
 2025-07-15 06:49:30.859207,CFL Player Futures - CFL Most Outstanding Player 2025 - Most Outstanding Player,Nathan Rourke (BC),0.010899999999999993,0.1538,0.1429
 2025-07-15 06:49:29.377546,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.010499999999999982,0.2105,0.2
-2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.010099999999999998,0.5455,0.5556
 2025-07-15 08:45:50.911370,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,-0.010099999999999998,0.4444,0.4545
+2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.010099999999999998,0.5455,0.5556
 2025-07-15 13:04:58.311508,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010299999999999976,0.2564,0.2667
 2025-07-15 13:04:58.432237,The Open Championship - The Open Championship - Winner,Scottie Scheffler,-0.010899999999999993,0.1429,0.1538
 2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Wout Van Aert,-0.010899999999999993,0.1429,0.1538
@@ -57,21 +58,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-15 09:43:33.349591,Cut Lines - Brooks Koepka - Make Cut / Miss Cut - Brooks Koepka,Make,-0.01759999999999995,0.6491,0.6667
 2025-07-15 09:43:33.262283,Cut Lines - Rory McIlroy - Make Cut / Miss Cut - Rory McIlroy,Make,-0.020199999999999996,0.8889,0.9091
 2025-07-15 05:43:00.595735,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,-0.02030000000000004,0.3571,0.3774
-2025-07-15 04:08:56.236779,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
 2025-07-15 11:31:22.268154,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
+2025-07-15 04:08:56.236779,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
+2025-07-15 13:50:56.774293,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Shane Lowry,-0.020699999999999996,0.4444,0.4651
 2025-07-15 09:43:33.271056,Cut Lines - Bryson DeChambeau - Make Cut / Miss Cut - Bryson DeChambeau,Make,-0.022199999999999998,0.7778,0.8
 2025-07-15 10:42:41.467584,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-15 02:32:38.909034,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-15 08:45:50.908235,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Estudiantes de La Plata,-0.023799999999999988,0.1429,0.1667
 2025-07-15 09:43:33.358468,Cut Lines - Chris Gotterup - Make Cut / Miss Cut - Chris Gotterup,Make,-0.025600000000000067,0.6667,0.6923
 2025-07-15 09:43:33.305842,Cut Lines - Collin Morikawa - Make Cut / Miss Cut - Collin Morikawa,Make,-0.027800000000000047,0.75,0.7778
-2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Make,-0.030299999999999994,0.6364,0.6667
 2025-07-15 09:43:33.438260,Cut Lines - Maverick McNealy - Make Cut / Miss Cut - Maverick McNealy,Make,-0.030299999999999994,0.6364,0.6667
+2025-07-15 09:43:33.411647,Cut Lines - Min Woo Lee - Make Cut / Miss Cut - Min Woo Lee,Make,-0.030299999999999994,0.6364,0.6667
 2025-07-15 09:43:33.537633,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,-0.033300000000000024,0.1667,0.2
 2025-07-15 13:04:58.478444,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs T. Fleetwood - Tournament Match-Ups,Shane Lowry,-0.03489999999999999,0.4651,0.5
 2025-07-15 09:43:33.473755,Cut Lines - Tom Kim - Make Cut / Miss Cut - Tom Kim,Make,-0.04409999999999992,0.6226,0.6667
-2025-07-15 09:43:33.460406,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Make,-0.04409999999999992,0.6226,0.6667
 2025-07-15 09:43:33.429415,Cut Lines - Aaron Rai - Make Cut / Miss Cut - Aaron Rai,Make,-0.04409999999999992,0.6226,0.6667
+2025-07-15 09:43:33.460406,Cut Lines - Rasmus Hojgaard - Make Cut / Miss Cut - Rasmus Hojgaard,Make,-0.04409999999999992,0.6226,0.6667
 2025-07-15 09:43:33.486983,Cut Lines - Max Greyserman - Make Cut / Miss Cut - Max Greyserman,Make,-0.04469999999999996,0.5917,0.6364
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Minnesota Timberwolves,-0.04999999999999999,0.2,0.25
 2025-07-15 09:43:30.920323,NBA Summer League - NBA 2K26 Summer League - Champion,Boston Celtics,-0.052199999999999996,0.0066,0.0588

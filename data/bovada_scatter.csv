@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-07-16 10:43:24.257762,NBA Specials - Where Will Bradley Beal Play Game 1 of the 2025/2026 NBA Season - Bradley Beal Specials,LA Clippers,0.49349999999999994,0.6364,0.1429
 2025-07-16 04:07:39.669377,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Dallas Mavericks,0.1905,0.4762,0.2857
 2025-07-16 08:45:26.070180,NBA Summer League - NBA 2K26 Summer League - Champion,Minnesota Timberwolves,0.1792,0.3125,0.1333
 2025-07-16 06:49:21.621074,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,0.13070000000000004,0.4878,0.3571
@@ -19,7 +20,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 08:45:28.459762,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,0.03480000000000005,0.5348,0.5
 2025-07-15 23:32:29.849116,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,0.033300000000000024,0.2,0.1667
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Atlanta Hawks,0.033299999999999996,0.1333,0.1
-2025-07-15 22:38:20.973891,Boxing Lines - Clay AJ Waterman vs Mose Auimatagi Jr - To Win the Bout,Clay AJ Waterman,0.03180000000000005,0.8889,0.8571
 2025-07-16 06:49:21.616037,Regular Season Wins - Washington Mystics - 2025 Regular Season Wins - Regular Season Wins,Over 20½,0.03179999999999994,0.5556,0.5238
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,San Antonio Spurs,0.028799999999999992,0.1538,0.125
 2025-07-16 04:07:39.698790,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Chet Holmgren (OKC),0.027999999999999997,0.1333,0.1053
@@ -29,7 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 06:49:21.258318,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (PHO),0.023799999999999988,0.1667,0.1429
 2025-07-15 23:32:29.174704,Boxing Lines - Lawrence Okolie vs Kevin Lerena - To Win the Bout,Kevin Lerena,0.023799999999999988,0.3571,0.3333
 2025-07-16 06:49:21.599111,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 16½,0.02169999999999994,0.5455,0.5238
-2025-07-15 22:38:19.583834,Quarterbacks - NFL Passing Yards 2025-26 - Justin Herbert Regular Season Total Passing Yards,Over 3650.5,0.02079999999999993,0.5556,0.5348
+2025-07-16 10:43:26.692866,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
 2025-07-16 04:53:17.159169,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,0.01880000000000004,0.5744,0.5556
 2025-07-16 09:41:21.342402,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Independiente,0.0179,0.1429,0.125
 2025-07-16 02:29:26.473483,Euroleague - Euroleague 2025/26 - Outright,Real Madrid,0.0179,0.1429,0.125
@@ -44,32 +44,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 08:45:28.455378,Boxing Lines - Kris Terzievski vs Troy Pilcher - To Win the Bout,Kris Terzievski,0.013599999999999945,0.7059,0.6923
 2025-07-16 02:29:26.473483,Euroleague - Euroleague 2025/26 - Outright,Hapoel Tel Aviv,0.0131,0.0476,0.0345
 2025-07-16 07:35:22.880610,Boxing Lines - Alex Leapai Jnr vs Herve Silu Mata - To Win the Bout,Alex Leapai Jnr,0.0131,0.9655,0.9524
-2025-07-15 23:32:29.849116,Stage Betting - Stage 11 - Outright,Wout Van Aert,0.012899999999999995,0.1667,0.1538
 2025-07-16 06:49:21.278536,BIG3 Basketball - BIG3 2025 Championship - Championship Winner,LA Riot,0.012899999999999995,0.1667,0.1538
+2025-07-15 23:32:29.849116,Stage Betting - Stage 11 - Outright,Wout Van Aert,0.012899999999999995,0.1667,0.1538
 2025-07-16 06:49:21.258318,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.012899999999999912,0.8462,0.8333
-2025-07-16 06:49:21.239051,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.012299999999999991,0.1176,0.1053
 2025-07-16 06:49:21.246057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.012299999999999991,0.1176,0.1053
+2025-07-16 06:49:21.239051,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.012299999999999991,0.1176,0.1053
 2025-07-16 07:35:22.904925,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,0.012199999999999989,0.5,0.4878
 2025-07-16 06:49:21.582263,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,0.0116,0.4878,0.4762
 2025-07-15 23:32:29.828121,Price Cutter Charity Championship - Price Cutter Charity Championship - Winner,Kensei Hirata,0.011199999999999995,0.0435,0.0323
+2025-07-16 10:43:26.605917,Boxing Lines - Lawrence Okolie vs Kevin Lerena - To Win the Bout,Lawrence Okolie,0.011099999999999999,0.7333,0.7222
+2025-07-16 06:49:23.669869,Boxing Lines - Lasha Guruli vs James Francis - To Win the Bout,James Francis,0.011099999999999999,0.0667,0.0556
 2025-07-16 04:07:41.869000,Boxing Lines - Kane Baker vs Johan Linde - To Win the Bout,Johan Linde,0.011099999999999999,0.7333,0.7222
 2025-07-16 07:35:22.895264,Boxing Lines - Clay AJ Waterman vs Mose Auimatagi Jr - To Win the Bout,Clay AJ Waterman,0.011099999999999999,0.9,0.8889
-2025-07-16 06:49:23.669869,Boxing Lines - Lasha Guruli vs James Francis - To Win the Bout,James Francis,0.011099999999999999,0.0667,0.0556
-2025-07-15 22:38:21.707066,Stage Betting - Stage 11 - Outright,Wout Van Aert,0.010899999999999993,0.1538,0.1429
-2025-07-15 22:38:19.598183,Quarterbacks - NFL Passing Yards 2025-26 - Patrick Mahomes Regular Season Total Passing Yards,Under 4050.5,0.010699999999999932,0.5455,0.5348
-2025-07-15 22:38:19.562507,Quarterbacks - NFL Passing Yards 2025-26 - Jayden Daniels Regular Season Total Passing Yards,Over 3450.5,0.010699999999999932,0.5455,0.5348
 2025-07-15 23:32:29.828121,Price Cutter Charity Championship - Price Cutter Charity Championship - Winner,Doc Redman,0.010600000000000002,0.0323,0.0217
-2025-07-15 22:38:20.942374,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,0.010500000000000065,0.8,0.7895
 2025-07-16 04:07:41.906068,Boxing Lines - Abel Ramos vs Jose Luis Sanchez - To Win the Bout,Abel Ramos,0.010199999999999987,0.9333,0.9231
 2025-07-16 06:49:21.578026,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 14½,0.010099999999999998,0.5556,0.5455
 2025-07-16 06:49:21.235113,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.010099999999999998,0.3226,0.3125
-2025-07-16 06:49:21.590695,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 25½,0.010099999999999998,0.5556,0.5455
 2025-07-16 06:49:21.246057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,0.010099999999999998,0.5556,0.5455
+2025-07-16 06:49:21.590695,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Under 25½,0.010099999999999998,0.5556,0.5455
 2025-07-16 06:49:21.239051,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Minnesota Lynx,-0.010099999999999998,0.0455,0.0556
 2025-07-16 06:49:21.246057,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,-0.010899999999999993,0.1429,0.1538
-2025-07-15 22:38:19.598183,Quarterbacks - NFL Passing Yards 2025-26 - Patrick Mahomes Regular Season Total Passing Yards,Over 4050.5,-0.01100000000000001,0.5238,0.5348
-2025-07-15 22:38:19.562507,Quarterbacks - NFL Passing Yards 2025-26 - Jayden Daniels Regular Season Total Passing Yards,Under 3450.5,-0.01100000000000001,0.5238,0.5348
 2025-07-16 09:41:21.342402,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Mineiro,-0.011099999999999999,0.1,0.1111
+2025-07-16 10:43:26.605917,Boxing Lines - Lawrence Okolie vs Kevin Lerena - To Win the Bout,Kevin Lerena,-0.01150000000000001,0.3333,0.3448
 2025-07-16 04:07:41.869000,Boxing Lines - Kane Baker vs Johan Linde - To Win the Bout,Kane Baker,-0.01150000000000001,0.3333,0.3448
 2025-07-16 06:49:21.578026,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 14½,-0.011600000000000055,0.5122,0.5238
 2025-07-16 06:49:21.590695,Regular Season Wins - Indiana Fever - 2025 Regular Season Wins - Regular Season Wins,Over 25½,-0.011600000000000055,0.5122,0.5238
@@ -79,17 +75,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 08:45:28.455378,Boxing Lines - Kris Terzievski vs Troy Pilcher - To Win the Bout,Troy Pilcher,-0.013300000000000034,0.3571,0.3704
 2025-07-16 02:29:29.588230,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,-0.013900000000000023,0.875,0.8889
 2025-07-16 02:29:28.675907,Boxing Lines - Rahim Mundine vs Joe Vatusaqata - To Win the Bout,Joe Vatusaqata,-0.013999999999999999,0.0769,0.0909
-2025-07-16 06:49:21.249231,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,-0.015100000000000002,0.1667,0.1818
 2025-07-16 06:49:21.235113,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.015100000000000002,0.1667,0.1818
+2025-07-16 06:49:21.249231,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,-0.015100000000000002,0.1667,0.1818
 2025-07-16 07:35:22.880610,Boxing Lines - Alex Leapai Jnr vs Herve Silu Mata - To Win the Bout,Herve Silu Mata,-0.016700000000000007,0.0833,0.1
 2025-07-16 06:49:21.582263,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,-0.017299999999999982,0.5744,0.5917
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Toronto Raptors,-0.01820000000000002,0.1818,0.2
-2025-07-16 06:49:21.573820,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 25½,-0.01880000000000004,0.5556,0.5744
 2025-07-16 04:07:41.885415,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Sonny Bill Williams,-0.01880000000000004,0.5556,0.5744
+2025-07-16 06:49:21.573820,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 25½,-0.01880000000000004,0.5556,0.5744
 2025-07-16 06:49:21.258318,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Breanna Stewart (NYL),-0.019000000000000003,0.0435,0.0625
+2025-07-16 10:43:24.257762,NBA Specials - Where Will Bradley Beal Play Game 1 of the 2025/2026 NBA Season - Bradley Beal Specials,Milwaukee Bucks,-0.02020000000000001,0.0909,0.1111
 2025-07-16 04:07:39.698790,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Victor Wembanyama (SAS),-0.02100000000000002,0.6154,0.6364
 2025-07-16 06:49:21.599111,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 16½,-0.02169999999999994,0.5238,0.5455
-2025-07-15 22:38:19.583834,Quarterbacks - NFL Passing Yards 2025-26 - Justin Herbert Regular Season Total Passing Yards,Under 3650.5,-0.022600000000000064,0.5122,0.5348
+2025-07-16 10:43:26.692866,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-16 04:07:39.669377,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,Golden State Warriors,-0.023799999999999988,0.1429,0.1667
 2025-07-16 04:53:17.159169,Boxing Lines - Sonny Bill Williams vs Paul Gallen - To Win the Bout,Paul Gallen,-0.024399999999999977,0.4878,0.5122
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,-0.024999999999999994,0.1,0.125
@@ -102,7 +99,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 02:29:29.593836,Stage Betting - Stage 11 - Outright,Mathieu Van Der Poel,-0.033300000000000024,0.1667,0.2
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Minnesota Timberwolves,-0.033399999999999985,0.1333,0.1667
 2025-07-16 06:49:21.249231,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,-0.03620000000000001,0.4082,0.4444
-2025-07-15 22:38:20.973891,Boxing Lines - Clay AJ Waterman vs Mose Auimatagi Jr - To Win the Bout,Mose Auimatagi Jr,-0.036599999999999994,0.1739,0.2105
 2025-07-15 23:32:29.849116,Stage Betting - Stage 11 - Outright,Jonathan Milan,-0.038299999999999994,0.0526,0.0909
 2025-07-16 06:49:21.258318,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Caitlin Clark (IND),-0.039400000000000004,0.0132,0.0526
 2025-07-16 06:49:21.638204,To Make the Playoffs - Washington Mystics - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.04139999999999999,0.4348,0.4762
@@ -110,8 +106,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-16 06:49:21.633885,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.0474,0.905,0.9524
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Los Angeles Clippers,-0.04849999999999999,0.1333,0.1818
 2025-07-16 04:07:39.669377,NBA Specials - Where Will LeBron James Play Game 1 of the 2025 / 2026 NBA Season if Not With the Lakers - Proposition,LA Clippers,-0.04909999999999999,0.1176,0.1667
+2025-07-16 10:43:24.257762,NBA Specials - Where Will Bradley Beal Play Game 1 of the 2025/2026 NBA Season - Bradley Beal Specials,Miami Heat,-0.04999999999999999,0.2,0.25
+2025-07-16 10:43:24.257762,NBA Specials - Where Will Bradley Beal Play Game 1 of the 2025/2026 NBA Season - Bradley Beal Specials,Phoenix Suns,-0.052000000000000005,0.0909,0.1429
 2025-07-16 09:41:21.342402,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,-0.05249999999999999,0.0244,0.0769
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Detroit Pistons,-0.0526,0.0099,0.0625
+2025-07-16 10:43:24.257762,NBA Specials - Where Will Bradley Beal Play Game 1 of the 2025/2026 NBA Season - Bradley Beal Specials,LA Lakers,-0.05559999999999998,0.1111,0.1667
 2025-07-16 06:49:21.607607,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 29½,-0.05860000000000004,0.4762,0.5348
 2025-07-16 06:49:21.268544,NBA Summer League - NBA 2K26 Summer League - Champion,Sacramento Kings,-0.062200000000000005,0.16,0.2222
 2025-07-16 06:49:21.629592,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.0635,0.2222,0.2857

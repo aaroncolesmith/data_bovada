@@ -42,8 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Detroit Tigers,0.0889,0.2222,0.1333
 2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,St. Louis Cardinals,0.0873,0.1429,0.0556
 2025-07-17 08:45:23.611705,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Under 23½,0.08660000000000001,0.5744,0.4878
-2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,Milwaukee Brewers,0.08339999999999999,0.1667,0.0833
 2025-07-17 04:07:16.774509,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #4 Seed,San Francisco Giants,0.08339999999999999,0.1667,0.0833
+2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,Milwaukee Brewers,0.08339999999999999,0.1667,0.0833
 2025-07-17 04:07:16.752958,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #4 Seed,New York Yankees,0.08330000000000001,0.25,0.1667
 2025-07-17 04:07:16.745716,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #2 Seed,New York Yankees,0.08330000000000001,0.25,0.1667
 2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,San Francisco Giants,0.08240000000000001,0.2,0.1176
@@ -51,9 +51,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 10:42:58.355020,Scores - 1st Round Scores - Brian Harman - 1st Round Scores,Over 71.5,0.07299999999999995,0.6078,0.5348
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Seattle Mariners,0.07149999999999998,0.1667,0.0952
 2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,St. Louis Cardinals,0.06760000000000001,0.1111,0.0435
+2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.0642,0.1818,0.1176
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Boston Red Sox,0.0642,0.1818,0.1176
 2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,Boston Red Sox,0.0642,0.1818,0.1176
-2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Phoenix Mercury,0.0642,0.1818,0.1176
 2025-07-17 04:07:16.946459,To Make The Playoffs - Tampa Bay Rays To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,0.06190000000000001,0.4255,0.3636
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Minnesota Lynx,0.0619,0.1333,0.0714
 2025-07-17 04:07:16.764361,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #1 Seed,Los Angeles Dodgers,0.06119999999999992,0.7222,0.661
@@ -62,8 +62,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 08:45:23.599165,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Under 12½,0.057699999999999974,0.5455,0.4878
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),0.057699999999999974,0.75,0.6923
 2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,New York Mets,0.05710000000000001,0.2,0.1429
-2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,San Diego Padres,0.05710000000000001,0.2,0.1429
 2025-07-17 04:07:16.774509,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #4 Seed,San Diego Padres,0.05710000000000001,0.2,0.1429
+2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,San Diego Padres,0.05710000000000001,0.2,0.1429
 2025-07-17 08:45:23.603351,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 19½,0.05689999999999995,0.5917,0.5348
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Toronto Blue Jays,0.056400000000000006,0.1333,0.0769
 2025-07-17 04:07:16.774509,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #4 Seed,New York Mets,0.05550000000000002,0.2222,0.1667
@@ -84,33 +84,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 06:49:27.127744,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.03689999999999999,0.3226,0.2857
 2025-07-17 10:42:58.337769,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 71.5,0.03610000000000002,0.5917,0.5556
 2025-07-17 08:45:23.628473,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 29½,0.035999999999999976,0.5122,0.4762
-2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,Los Angeles Dodgers,0.03570000000000001,0.2857,0.25
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alexia Putellas,0.03570000000000001,0.2857,0.25
+2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,Los Angeles Dodgers,0.03570000000000001,0.2857,0.25
 2025-07-16 23:34:01.252648,Euroleague - Euroleague 2025/26 - Outright,Hapoel Tel Aviv,0.035699999999999996,0.0833,0.0476
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Indiana Fever,0.035199999999999995,0.0769,0.0417
 2025-07-17 08:45:23.620139,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.03480000000000005,0.5348,0.5
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Las Vegas Aces vs Minnesota Lynx,0.03439999999999999,0.0667,0.0323
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat New York Liberty,0.0334,0.0769,0.0435
 2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,San Diego Padres,0.033300000000000024,0.2,0.1667
+2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Seattle Storm,0.033299999999999996,0.0833,0.05
 2025-07-17 08:45:26.456563,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,0.033299999999999996,0.8333,0.8
 2025-07-17 04:07:16.868927,To Make The Playoffs - Boston Red Sox To Make The Playoffs - 2025 - To Make The Playoffs,No,0.033299999999999996,0.4878,0.4545
 2025-07-17 10:42:58.342073,Scores - 1st Round Scores - Keegan Bradley - 1st Round Scores,Over 71.5,0.033299999999999996,0.5455,0.5122
-2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Seattle Storm,0.033299999999999996,0.0833,0.05
 2025-07-17 02:30:01.424423,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,Italy (W),0.033,0.0526,0.0196
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Minnesota Lynx,0.0314,0.0769,0.0455
 2025-07-17 04:07:16.774509,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #4 Seed,St. Louis Cardinals,0.031199999999999995,0.0556,0.0244
 2025-07-17 06:49:27.130877,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Washington Mystics,0.02840000000000001,0.1053,0.0769
-2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,New York Mets,0.027999999999999997,0.1818,0.1538
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Minnesota Lynx,0.027999999999999997,0.1818,0.1538
+2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,New York Mets,0.027999999999999997,0.1818,0.1538
 2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,Cincinnati Reds,0.027700000000000002,0.0833,0.0556
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Las Vegas Aces vs New York Liberty,0.026699999999999995,0.0667,0.04
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Phoenix Mercury,0.026699999999999995,0.0667,0.04
 2025-07-17 10:42:58.328996,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 71.5,0.026499999999999968,0.5917,0.5652
 2025-07-17 10:42:58.402385,Scores - 1st Round Scores - Viktor Hovland - 1st Round Scores,Over 70.5,0.025599999999999956,0.6,0.5744
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Minnesota Lynx,0.0245,0.0833,0.0588
-2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs New York Liberty,0.024299999999999995,0.0769,0.0526
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat New York Liberty,0.024299999999999995,0.0588,0.0345
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Indiana Fever,0.024299999999999995,0.0769,0.0526
+2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs New York Liberty,0.024299999999999995,0.0769,0.0526
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat Minnesota Lynx,0.024,0.0625,0.0385
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Atlanta Dream vs Phoenix Mercury,0.023200000000000002,0.0476,0.0244
 2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Over 71.5,0.022600000000000064,0.5348,0.5122
@@ -128,17 +128,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Marie-Antoinette Katoto,0.019099999999999992,0.0667,0.0476
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Georgia Stanway,0.0189,0.0385,0.0196
 2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
-2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
-2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
-2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
-2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 10:42:58.424376,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
+2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
+2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
+2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 06:49:27.127744,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,0.01880000000000004,0.5744,0.5556
+2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 08:45:23.650353,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.018600000000000005,0.1786,0.16
 2025-07-17 06:49:27.127744,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.018100000000000005,0.5833,0.5652
 2025-07-17 04:07:17.107510,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Harrington / N. Hojgaard / T. McKibbin - 1st Round 3 Balls,Nicolai Hojgaard,0.018100000000000005,0.4348,0.4167
-2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Atlanta Dream,0.018099999999999998,0.0526,0.0345
 2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,Cincinnati Reds,0.018099999999999998,0.0526,0.0345
+2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Atlanta Dream,0.018099999999999998,0.0526,0.0345
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Seattle Storm,0.018099999999999998,0.0526,0.0345
 2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,New York Yankees,0.0179,0.1429,0.125
 2025-07-17 10:42:58.411266,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Over 69.5,0.017299999999999982,0.5917,0.5744
@@ -147,8 +147,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 08:45:23.646131,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.015900000000000025,0.8621,0.8462
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Minnesota Twins,0.015899999999999997,0.1111,0.0952
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Seattle Mariners,0.015700000000000006,0.1333,0.1176
-2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Golden State Valkyries vs New York Liberty,0.0153,0.0294,0.0141
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat Minnesota Lynx,0.0153,0.0294,0.0141
+2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Golden State Valkyries vs New York Liberty,0.0153,0.0294,0.0141
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat Minnesota Lynx,0.014900000000000004,0.0345,0.0196
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Boston Red Sox,0.014899999999999997,0.0625,0.0476
 2025-07-17 06:49:27.149989,NBA Summer League - NBA 2K26 Summer League - Champion,Toronto Raptors,0.01469999999999999,0.25,0.2353
@@ -157,40 +157,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,New York Liberty To Beat Las Vegas Aces,0.014099999999999998,0.0435,0.0294
 2025-07-17 06:49:27.130877,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,0.014099999999999998,0.0385,0.0244
 2025-07-17 04:07:16.764361,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #1 Seed,Philadelphia Phillies,0.013899999999999996,0.125,0.1111
-2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
 2025-07-17 10:42:58.406727,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
+2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
 2025-07-17 10:42:58.359345,Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat New York Liberty,0.013699999999999999,0.0278,0.0141
-2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat Phoenix Mercury,0.013400000000000002,0.0244,0.011
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Atlanta Dream To Beat Phoenix Mercury,0.013400000000000002,0.0244,0.011
+2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat Phoenix Mercury,0.013400000000000002,0.0244,0.011
 2025-07-17 04:07:14.539706,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,0.013300000000000034,0.3704,0.3571
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Seattle Storm To Beat New York Liberty,0.012999999999999998,0.0294,0.0164
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Atlanta Dream To Beat New York Liberty,0.012999999999999998,0.0294,0.0164
 2025-07-17 10:42:58.324669,Scores - 1st Round Scores - Adam Scott - 1st Round Scores,Over 70.5,0.012700000000000045,0.6491,0.6364
-2025-07-17 08:45:23.624290,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,0.012199999999999989,0.5,0.4878
 2025-07-17 10:42:58.315674,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs L. Aberg - 1st Round Match-Ups,Ludvig Aberg,0.012199999999999989,0.5,0.4878
+2025-07-17 08:45:23.624290,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,0.012199999999999989,0.5,0.4878
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Cleveland Guardians,0.011900000000000008,0.0952,0.0833
-2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Golden State Valkyries,0.0118,0.0217,0.0099
 2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,New York Liberty vs Washington Mystics,0.0118,0.0217,0.0099
+2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Golden State Valkyries,0.0118,0.0217,0.0099
 2025-07-17 04:07:17.468782,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs B. DeChambeau - 1st Round Match-Ups,Rory McIlroy,0.011600000000000055,0.5652,0.5536
 2025-07-17 08:45:25.707589,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.01150000000000001,0.3448,0.3333
 2025-07-17 07:35:21.825229,Scores - 1st Round Scores - Jordan Spieth - 1st Round Scores,Over 70.5,0.011499999999999955,0.6667,0.6552
-2025-07-17 02:30:05.709430,Stage Betting - Stage 12 - Outright,Tadej Pogacar,0.01100000000000001,0.5348,0.5238
 2025-07-17 07:35:21.811649,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Under 70.5,0.01100000000000001,0.5348,0.5238
+2025-07-17 02:30:05.709430,Stage Betting - Stage 12 - Outright,Tadej Pogacar,0.01100000000000001,0.5348,0.5238
 2025-07-17 06:49:27.130877,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Minnesota Lynx,0.01090000000000002,0.8571,0.8462
 2025-07-17 04:07:14.548591,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.01090000000000002,0.8571,0.8462
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat Phoenix Mercury,0.010700000000000001,0.0385,0.0278
 2025-07-16 23:34:03.590390,Boxing Lines - Lawrence Okolie vs Kevin Lerena - To Win the Bout,Kevin Lerena,0.010699999999999987,0.3333,0.3226
 2025-07-17 08:45:26.100297,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Under 69.5,0.010699999999999932,0.5455,0.5348
 2025-07-17 10:42:58.380820,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,0.010699999999999932,0.5455,0.5348
-2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Seattle Storm,0.010600000000000002,0.0323,0.0217
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Atlanta Dream To Beat Minnesota Lynx,0.010600000000000002,0.0323,0.0217
+2025-07-17 05:43:22.122353,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Seattle Storm,0.010600000000000002,0.0323,0.0217
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Lea Schuller,0.0102,0.0769,0.0667
 2025-07-17 06:49:27.149989,NBA Summer League - NBA 2K26 Summer League - Champion,San Antonio Spurs,0.0102,0.0769,0.0667
 2025-07-17 05:43:22.126191,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Indiana Fever,0.010100000000000001,0.0345,0.0244
 2025-07-17 07:35:21.766748,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 71.5,0.010099999999999998,0.5556,0.5455
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),-0.010099999999999998,0.4444,0.4545
 2025-07-17 10:42:58.315674,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs L. Aberg - 1st Round Match-Ups,Tommy Fleetwood,-0.010099999999999998,0.5455,0.5556
+2025-07-17 11:32:04.057049,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,-0.010500000000000065,0.7895,0.8
 2025-07-17 07:35:21.811649,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,-0.010699999999999932,0.5348,0.5455
 2025-07-16 23:34:03.631229,Boxing Lines - Brandon Figueroa vs Joet Gonzalez - To Win the Bout,Joet Gonzalez,-0.010699999999999987,0.3226,0.3333
 2025-07-17 04:07:16.778015,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #5 Seed,Philadelphia Phillies,-0.010899999999999993,0.1429,0.1538
@@ -201,12 +202,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 04:07:16.752958,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #4 Seed,Tampa Bay Rays,-0.011099999999999999,0.1,0.1111
 2025-07-17 04:07:17.107510,The Open Championship - 2/3 Balls - 1st Round 3 Balls - P. Harrington / N. Hojgaard / T. McKibbin - 1st Round 3 Balls,Padraig Harrington,-0.011099999999999999,0.2667,0.2778
 2025-07-17 04:07:16.752958,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #4 Seed,Cleveland Guardians,-0.011199999999999995,0.0476,0.0588
-2025-07-17 10:42:58.389480,Scores - 1st Round Scores - Robert MacIntyre - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
-2025-07-17 10:42:58.411266,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Under 69.5,-0.0116,0.4762,0.4878
 2025-07-17 04:07:17.468782,Round Match-Ups - 1st Round Match-Ups - R. McIIroy vs B. DeChambeau - 1st Round Match-Ups,Bryson DeChambeau,-0.0116,0.4762,0.4878
+2025-07-17 10:42:58.411266,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Under 69.5,-0.0116,0.4762,0.4878
+2025-07-17 10:42:58.389480,Scores - 1st Round Scores - Robert MacIntyre - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
 2025-07-17 07:35:21.766748,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 71.5,-0.011600000000000055,0.5122,0.5238
-2025-07-17 07:35:21.757637,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 71.5,-0.012199999999999989,0.5,0.5122
 2025-07-17 07:35:21.747600,Scores - 1st Round Scores - Wyndham Clark - 1st Round Scores,Under 71.5,-0.012199999999999989,0.5,0.5122
+2025-07-17 07:35:21.757637,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 71.5,-0.012199999999999989,0.5,0.5122
 2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,San Francisco Giants,-0.012700000000000003,0.0196,0.0323
 2025-07-17 04:07:14.548591,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Alyssa Thomas (PHO),-0.012899999999999995,0.1538,0.1667
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Los Angeles Angels,-0.013,0.0066,0.0196
@@ -217,37 +218,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 04:07:16.764361,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #1 Seed,San Diego Padres,-0.016600000000000004,0.0179,0.0345
 2025-07-17 08:45:25.707589,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.017300000000000093,0.697,0.7143
 2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,St. Louis Cardinals,-0.0181,0.0164,0.0345
-2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Mariona Caldentey,-0.018200000000000004,0.0294,0.0476
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Stina Blackstenius,-0.018200000000000004,0.0294,0.0476
+2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Mariona Caldentey,-0.018200000000000004,0.0294,0.0476
 2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,Houston Astros,-0.01830000000000001,0.0769,0.0952
-2025-07-17 10:42:58.359345,Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
 2025-07-17 10:42:58.406727,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
+2025-07-17 10:42:58.359345,Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
 2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
 2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,Philadelphia Phillies,-0.019699999999999995,0.1053,0.125
-2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
 2025-07-17 10:42:58.350741,Scores - 1st Round Scores - Harry Hall - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
+2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
 2025-07-17 02:30:04.891036,Scores - 1st Round Scores - Xander Schauffele - 1st Round Scores,Over 70.5,-0.02169999999999994,0.5238,0.5455
-2025-07-17 04:07:17.403841,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs M. Schmid - 1st Round Match-Ups,Denny McCarthy,-0.022600000000000064,0.5122,0.5348
 2025-07-17 10:42:58.420013,Scores - 1st Round Scores - Harris English - 1st Round Scores,Under 71.5,-0.022600000000000064,0.5122,0.5348
+2025-07-17 04:07:17.403841,Round Match-Ups - 1st Round Match-Ups - D. McCarthy vs M. Schmid - 1st Round Match-Ups,Denny McCarthy,-0.022600000000000064,0.5122,0.5348
 2025-07-17 10:42:58.402385,Scores - 1st Round Scores - Viktor Hovland - 1st Round Scores,Under 70.5,-0.022699999999999998,0.4651,0.4878
 2025-07-17 04:07:14.539706,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.023799999999999988,0.1429,0.1667
 2025-07-17 10:42:58.328996,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 71.5,-0.023799999999999988,0.4762,0.5
 2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,Texas Rangers,-0.0238,0.0714,0.0952
 2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,San Diego Padres,-0.023899999999999998,0.0196,0.0435
-2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
 2025-07-17 10:42:58.424376,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
 2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
 2025-07-17 04:07:16.745716,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #2 Seed,Tampa Bay Rays,-0.024800000000000003,0.0278,0.0526
 2025-07-17 04:07:16.767760,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #2 Seed,Cincinnati Reds,-0.0257,0.0066,0.0323
 2025-07-17 04:07:16.745716,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #2 Seed,Boston Red Sox,-0.025900000000000006,0.0455,0.0714
 2025-07-17 06:49:27.127744,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.02779999999999999,0.2222,0.25
 2025-07-17 04:07:16.752958,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #4 Seed,Kansas City Royals,-0.027900000000000008,0.0435,0.0714
 2025-07-17 02:30:01.426759,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Aitana Bonmati,-0.028000000000000004,0.0196,0.0476
-2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,Kansas City Royals,-0.028399999999999995,0.0625,0.0909
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Houston Astros,-0.028399999999999995,0.0625,0.0909
+2025-07-17 04:07:16.756493,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #5 Seed,Kansas City Royals,-0.028399999999999995,0.0625,0.0909
 2025-07-17 06:49:27.130877,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,-0.029000000000000026,0.4255,0.4545
 2025-07-17 04:07:16.781396,MLB Futures Specials - MLB 2025 National League Seeding - National League 2025 #6 Seed,Los Angeles Dodgers,-0.029399999999999996,0.0141,0.0435
 2025-07-17 08:45:23.620139,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.030399999999999983,0.5348,0.5652
@@ -272,8 +273,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 04:07:16.752958,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #4 Seed,Detroit Tigers,-0.051800000000000006,0.0196,0.0714
 2025-07-17 04:07:16.899986,To Make The Playoffs - Los Angeles Angels To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.052000000000000005,0.0909,0.1429
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),-0.05550000000000002,0.1667,0.2222
-2025-07-17 04:07:17.513923,Scores - 1st Round Scores - Chris Gotterup - 1st Round Scores,Over 71.5,-0.057699999999999974,0.4878,0.5455
 2025-07-17 10:42:58.333427,Scores - 1st Round Scores - Si Woo Kim - 1st Round Scores,Under 71.5,-0.057699999999999974,0.4545,0.5122
+2025-07-17 04:07:17.513923,Scores - 1st Round Scores - Chris Gotterup - 1st Round Scores,Over 71.5,-0.057699999999999974,0.4878,0.5455
 2025-07-17 08:45:23.603351,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 19½,-0.05860000000000004,0.4762,0.5348
 2025-07-17 06:49:27.149989,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,-0.05909999999999999,0.0076,0.0667
 2025-07-17 04:07:16.741781,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #1 Seed,Kansas City Royals,-0.06269999999999999,0.004,0.0667
@@ -289,8 +290,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 10:42:58.355020,Scores - 1st Round Scores - Brian Harman - 1st Round Scores,Under 71.5,-0.08030000000000004,0.4545,0.5348
 2025-07-17 04:07:16.759994,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #6 Seed,Baltimore Orioles,-0.08330000000000001,0.0278,0.1111
 2025-07-17 08:45:23.611705,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Over 23½,-0.08660000000000001,0.4878,0.5744
-2025-07-17 04:07:16.741781,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #1 Seed,Texas Rangers,-0.0902,0.005,0.0952
 2025-07-17 04:07:16.741781,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #1 Seed,Minnesota Twins,-0.0902,0.005,0.0952
+2025-07-17 04:07:16.741781,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #1 Seed,Texas Rangers,-0.0902,0.005,0.0952
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Cleveland Guardians,-0.0912,0.0141,0.1053
 2025-07-17 04:07:16.741781,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #1 Seed,New York Yankees,-0.09220000000000003,0.1818,0.274
 2025-07-17 04:07:16.749361,MLB Futures Specials - MLB 2025 American League Seeding - American League 2025 #3 Seed,Texas Rangers,-0.0948,0.0385,0.1333

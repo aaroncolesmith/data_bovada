@@ -1,6 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Italy (W),0.1428,0.2857,0.1429
 2025-07-17 08:45:23.594991,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Over 13½,0.13489999999999996,0.6,0.4651
+2025-07-17 19:31:58.264281,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,0.09999999999999998,0.9333,0.8333
 2025-07-17 08:45:23.611705,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Under 23½,0.08660000000000001,0.5744,0.4878
 2025-07-17 10:42:58.355020,Scores - 1st Round Scores - Brian Harman - 1st Round Scores,Over 71.5,0.07299999999999995,0.6078,0.5348
 2025-07-17 17:36:26.602961,Quarterbacks - NFL Passing TD's 2025-26 - Josh Allen Regular Season Total Passing TD's,Over 27.5,0.05860000000000004,0.5348,0.4762
@@ -15,160 +16,182 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 13:50:19.886416,Scores - 1st Round Scores - Jordan Spieth - 1st Round Scores,Over 70.5,0.04760000000000009,0.7143,0.6667
 2025-07-17 08:45:23.632718,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 26½,0.04760000000000003,0.5238,0.4762
 2025-07-17 16:45:07.922451,Quarterbacks - NFL Passing TD's 2025-26 - Caleb Williams Regular Season Total Passing TD's,Over 23.5,0.04700000000000004,0.5348,0.4878
-2025-07-17 17:36:26.620058,Quarterbacks - NFL Passing TD's 2025-26 - Matthew Stafford Regular Season Total Passing TD's,Under 24.5,0.04620000000000002,0.5917,0.5455
 2025-07-17 13:05:10.168486,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,0.04620000000000002,0.5917,0.5455
-2025-07-17 18:49:47.777293,Round Match-Ups - 1st Round Match-Ups - C. Phillips vs C. Ramey - 1st Round Match-Ups,Chandler Phillips,0.04139999999999999,0.5652,0.5238
+2025-07-17 17:36:26.620058,Quarterbacks - NFL Passing TD's 2025-26 - Matthew Stafford Regular Season Total Passing TD's,Under 24.5,0.04620000000000002,0.5917,0.5455
 2025-07-17 16:45:07.936175,Quarterbacks - NFL Passing TD's 2025-26 - Geno Smith Regular Season Total Passing TD's,Over 20.5,0.04139999999999999,0.5652,0.5238
+2025-07-17 18:49:47.777293,Round Match-Ups - 1st Round Match-Ups - C. Phillips vs C. Ramey - 1st Round Match-Ups,Chandler Phillips,0.04139999999999999,0.5652,0.5238
 2025-07-17 08:45:26.462005,Stage Betting - Stage 12 - Outright,Tadej Pogacar,0.03959999999999997,0.5744,0.5348
 2025-07-17 13:05:10.150770,Scores - 1st Round Scores - Maverick McNealy - 1st Round Scores,Over 71.5,0.03610000000000002,0.5917,0.5556
 2025-07-17 10:42:58.337769,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 71.5,0.03610000000000002,0.5917,0.5556
 2025-07-17 08:45:23.628473,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 29½,0.035999999999999976,0.5122,0.4762
 2025-07-17 08:45:23.620139,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Over 33½,0.03480000000000005,0.5348,0.5
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,0.034100000000000005,0.125,0.0909
-2025-07-17 08:45:26.456563,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,0.033299999999999996,0.8333,0.8
+2025-07-17 19:31:55.640535,NBA Summer League - NBA 2K26 Summer League - Champion,Sacramento Kings,0.033300000000000024,0.2,0.1667
 2025-07-17 10:42:58.342073,Scores - 1st Round Scores - Keegan Bradley - 1st Round Scores,Over 71.5,0.033299999999999996,0.5455,0.5122
-2025-07-17 18:49:45.490316,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Allisha Gray (ATL),Under 22.5,0.030399999999999983,0.5652,0.5348
+2025-07-17 08:45:26.456563,Outrights - Tour de France 2025 - Tour de France Winner,Tadej Pogacar,0.033299999999999996,0.8333,0.8
+2025-07-17 19:31:56.862230,Wide Receivers - NFL Receiving Yards 2025-26 - Ja'Marr Chase Regular Season Total Receiving Yards,Over 1325.5,0.030399999999999983,0.5652,0.5348
 2025-07-17 17:36:26.858263,Wide Receivers - NFL Receiving Yards 2025-26 - Amon-Ra St. Brown Regular Season Total Receiving Yards,Over 1075.5,0.030399999999999983,0.5652,0.5348
+2025-07-17 18:49:45.490316,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Allisha Gray (ATL),Under 22.5,0.030399999999999983,0.5652,0.5348
 2025-07-17 13:50:16.666141,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.027999999999999997,0.1818,0.1538
 2025-07-17 10:42:58.328996,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Over 71.5,0.026499999999999968,0.5917,0.5652
+2025-07-17 19:31:55.640535,NBA Summer League - NBA 2K26 Summer League - Champion,Atlanta Hawks,0.025900000000000003,0.0476,0.0217
 2025-07-17 13:50:16.666141,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.02560000000000001,0.3333,0.3077
-2025-07-17 13:50:19.917132,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Over 71.5,0.025599999999999956,0.6,0.5744
 2025-07-17 10:42:58.402385,Scores - 1st Round Scores - Viktor Hovland - 1st Round Scores,Over 70.5,0.025599999999999956,0.6,0.5744
+2025-07-17 13:50:19.917132,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Over 71.5,0.025599999999999956,0.6,0.5744
+2025-07-17 19:31:55.640535,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.024700000000000003,0.0323,0.0076
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Fluminense RJ,0.023799999999999988,0.1667,0.1429
-2025-07-17 16:45:07.929302,Quarterbacks - NFL Passing TD's 2025-26 - Dak Prescott Regular Season Total Passing TD's,Over 26.5,0.022600000000000064,0.5348,0.5122
-2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Over 71.5,0.022600000000000064,0.5348,0.5122
 2025-07-17 10:42:58.350741,Scores - 1st Round Scores - Harry Hall - 1st Round Scores,Over 71.5,0.022600000000000064,0.5348,0.5122
+2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Over 71.5,0.022600000000000064,0.5348,0.5122
 2025-07-17 14:38:40.666121,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
+2025-07-17 16:45:07.929302,Quarterbacks - NFL Passing TD's 2025-26 - Dak Prescott Regular Season Total Passing TD's,Over 26.5,0.022600000000000064,0.5348,0.5122
 2025-07-17 13:50:16.660005,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,0.021999999999999964,0.3077,0.2857
 2025-07-17 13:50:17.538584,WNBA All-Star Friday - 3-Point Contest - Winner,Caitlin Clark (IND),0.021999999999999964,0.3077,0.2857
+2025-07-17 19:31:55.969353,WNBA All-Star Friday - 3-Point Contest - Round 1 Starry Shots Made - Sonia Citron (WAS),One,0.021699999999999997,0.4762,0.4545
 2025-07-17 17:36:26.630383,Quarterbacks - NFL Passing TD's 2025-26 - Trevor Lawrence Regular Season Total Passing TD's,Under 22.5,0.02169999999999994,0.5455,0.5238
 2025-07-17 17:36:26.861705,Wide Receivers - NFL Receiving Yards 2025-26 - Brian Thomas Regular Season Total Receiving Yards,Over 1150.5,0.02079999999999993,0.5556,0.5348
 2025-07-17 10:42:58.420013,Scores - 1st Round Scores - Harris English - 1st Round Scores,Over 71.5,0.02079999999999993,0.5556,0.5348
 2025-07-17 18:49:46.367061,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Under 675.5,0.02079999999999993,0.5556,0.5348
 2025-07-17 13:50:19.837242,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Bolívar,0.019800000000000005,0.0476,0.0278
-2025-07-17 17:36:26.626958,Quarterbacks - NFL Passing TD's 2025-26 - Sam Darnold Regular Season Total Passing TD's,Under 20.5,0.01970000000000005,0.5652,0.5455
+2025-07-17 19:31:56.890585,Wide Receivers - NFL Receiving Yards 2025-26 - Mike Evans Regular Season Total Receiving Yards,Over 950.5,0.01970000000000005,0.5652,0.5455
 2025-07-17 18:49:45.493726,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Kelsey Plum (LAS),Over 19.5,0.01970000000000005,0.5652,0.5455
-2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
+2025-07-17 17:36:26.626958,Quarterbacks - NFL Passing TD's 2025-26 - Sam Darnold Regular Season Total Passing TD's,Under 20.5,0.01970000000000005,0.5652,0.5455
 2025-07-17 10:42:58.424376,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
+2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Over 71.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Over 70.5,0.01880000000000004,0.5744,0.5556
 2025-07-17 08:45:23.650353,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.018600000000000005,0.1786,0.16
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Nashville SC,0.018099999999999998,0.0769,0.0588
 2025-07-17 10:42:58.389480,Scores - 1st Round Scores - Robert MacIntyre - 1st Round Scores,Over 70.5,0.017299999999999982,0.5917,0.5744
-2025-07-17 13:50:19.908325,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Over 70.5,0.017299999999999982,0.5917,0.5744
 2025-07-17 13:50:19.921454,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Over 71.5,0.017299999999999982,0.5917,0.5744
 2025-07-17 16:45:07.942988,Quarterbacks - NFL Passing TD's 2025-26 - Jalen Hurts Regular Season Total Passing TD's,Over 19.5,0.017299999999999982,0.5917,0.5744
+2025-07-17 13:50:19.908325,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Over 70.5,0.017299999999999982,0.5917,0.5744
 2025-07-17 10:42:58.411266,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Over 69.5,0.017299999999999982,0.5917,0.5744
 2025-07-17 17:36:28.171209,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Daniel Lapin,0.016799999999999926,0.8571,0.8403
 2025-07-17 08:45:23.646131,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.015900000000000025,0.8621,0.8462
 2025-07-17 16:45:09.508832,Boxing Lines - Lasha Guruli vs James Francis - To Win the Bout,James Francis,0.013999999999999999,0.0909,0.0769
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,0.013999999999999999,0.0909,0.0769
-2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
 2025-07-17 10:42:58.359345,Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
+2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
 2025-07-17 10:42:58.406727,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Over 70.5,0.013799999999999923,0.6364,0.6226
-2025-07-17 13:50:19.899588,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Over 70.5,0.012700000000000045,0.6491,0.6364
 2025-07-17 10:42:58.324669,Scores - 1st Round Scores - Adam Scott - 1st Round Scores,Over 70.5,0.012700000000000045,0.6491,0.6364
-2025-07-17 08:45:23.624290,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,0.012199999999999989,0.5,0.4878
+2025-07-17 13:50:19.899588,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Over 70.5,0.012700000000000045,0.6491,0.6364
 2025-07-17 10:42:58.315674,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs L. Aberg - 1st Round Match-Ups,Ludvig Aberg,0.012199999999999989,0.5,0.4878
+2025-07-17 08:45:23.624290,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 32½,0.012199999999999989,0.5,0.4878
 2025-07-17 17:36:26.599544,Quarterbacks - NFL Passing TD's 2025-26 - Jordan Love Regular Season Total Passing TD's,Under 25.5,0.011600000000000055,0.5238,0.5122
 2025-07-17 08:45:25.707589,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,0.01150000000000001,0.3448,0.3333
 2025-07-17 07:35:21.825229,Scores - 1st Round Scores - Jordan Spieth - 1st Round Scores,Over 70.5,0.011499999999999955,0.6667,0.6552
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.011099999999999999,0.1111,0.1
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.011099999999999999,0.1111,0.1
-2025-07-17 13:05:10.107579,Round Match-Ups - 1st Round Match-Ups - R. Henley vs J. Niemann - 1st Round Match-Ups,Russell Henley,0.01100000000000001,0.5348,0.5238
 2025-07-17 07:35:21.811649,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Under 70.5,0.01100000000000001,0.5348,0.5238
 2025-07-17 18:49:46.363655,Wide Receivers - NFL Receiving Yards 2025-26 - Davante Adams Regular Season Total Receiving Yards,Over 950.5,0.01100000000000001,0.5348,0.5238
-2025-07-17 17:36:26.633822,Quarterbacks - NFL Passing TD's 2025-26 - Tua Tagovailoa Regular Season Total Passing TD's,Over 23.5,0.010699999999999932,0.5455,0.5348
+2025-07-17 13:05:10.107579,Round Match-Ups - 1st Round Match-Ups - R. Henley vs J. Niemann - 1st Round Match-Ups,Russell Henley,0.01100000000000001,0.5348,0.5238
+2025-07-17 19:31:56.914835,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Under 725.5,0.01100000000000001,0.5348,0.5238
 2025-07-17 08:45:26.100297,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Under 69.5,0.010699999999999932,0.5455,0.5348
 2025-07-17 17:36:26.609798,Quarterbacks - NFL Passing TD's 2025-26 - Justin Herbert Regular Season Total Passing TD's,Over 22.5,0.010699999999999932,0.5455,0.5348
+2025-07-17 16:45:07.915659,Quarterbacks - NFL Passing TD's 2025-26 - Bryce Young Regular Season Total Passing TD's,Over 18.5,0.010699999999999932,0.5455,0.5348
+2025-07-17 19:31:56.911372,Wide Receivers - NFL Receiving Yards 2025-26 - Tetairoa McMillan Regular Season Total Receiving Yards,Over 825.5,0.010699999999999932,0.5455,0.5348
+2025-07-17 17:36:26.633822,Quarterbacks - NFL Passing TD's 2025-26 - Tua Tagovailoa Regular Season Total Passing TD's,Over 23.5,0.010699999999999932,0.5455,0.5348
+2025-07-17 19:31:56.897587,Wide Receivers - NFL Receiving Yards 2025-26 - Puka Nacua Regular Season Total Receiving Yards,Over 1200.5,0.010699999999999932,0.5455,0.5348
 2025-07-17 10:42:58.380820,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,0.010699999999999932,0.5455,0.5348
 2025-07-17 13:50:17.555715,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Sonia Citron (WAS),Over 17.5,0.010699999999999932,0.5455,0.5348
-2025-07-17 16:45:07.915659,Quarterbacks - NFL Passing TD's 2025-26 - Bryce Young Regular Season Total Passing TD's,Over 18.5,0.010699999999999932,0.5455,0.5348
 2025-07-17 13:50:19.728717,Boxing Lines - Lasha Guruli vs James Francis - To Win the Bout,James Francis,0.0102,0.0769,0.0667
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Universidad de Chile,0.010100000000000001,0.0345,0.0244
-2025-07-17 17:36:26.623450,Quarterbacks - NFL Passing TD's 2025-26 - Patrick Mahomes Regular Season Total Passing TD's,Over 27.5,0.010099999999999998,0.5556,0.5455
 2025-07-17 07:35:21.766748,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Over 71.5,0.010099999999999998,0.5556,0.5455
-2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),-0.010099999999999998,0.4444,0.4545
+2025-07-17 19:31:55.955927,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Sonia Citron (WAS),Over 17.5,0.010099999999999998,0.5556,0.5455
+2025-07-17 17:36:26.623450,Quarterbacks - NFL Passing TD's 2025-26 - Patrick Mahomes Regular Season Total Passing TD's,Over 27.5,0.010099999999999998,0.5556,0.5455
 2025-07-17 10:42:58.315674,Round Match-Ups - 1st Round Match-Ups - T. Fleetwood vs L. Aberg - 1st Round Match-Ups,Tommy Fleetwood,-0.010099999999999998,0.5455,0.5556
+2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),-0.010099999999999998,0.4444,0.4545
 2025-07-17 17:36:26.599544,Quarterbacks - NFL Passing TD's 2025-26 - Jordan Love Regular Season Total Passing TD's,Over 25.5,-0.010099999999999998,0.5455,0.5556
 2025-07-17 13:50:16.660005,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,-0.0102,0.0667,0.0769
 2025-07-17 11:32:04.057049,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Oleksandr Usyk,-0.010500000000000065,0.7895,0.8
 2025-07-17 13:50:19.895232,Scores - 1st Round Scores - Viktor Hovland - 1st Round Scores,Under 70.5,-0.010599999999999998,0.4545,0.4651
-2025-07-17 07:35:21.811649,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,-0.010699999999999932,0.5348,0.5455
 2025-07-17 18:49:46.363655,Wide Receivers - NFL Receiving Yards 2025-26 - Davante Adams Regular Season Total Receiving Yards,Under 950.5,-0.010699999999999932,0.5348,0.5455
-2025-07-17 16:45:07.915659,Quarterbacks - NFL Passing TD's 2025-26 - Bryce Young Regular Season Total Passing TD's,Under 18.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 19:31:56.914835,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Over 725.5,-0.010699999999999932,0.5348,0.5455
+2025-07-17 07:35:21.811649,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Over 70.5,-0.010699999999999932,0.5348,0.5455
+2025-07-17 19:31:55.640535,NBA Summer League - NBA 2K26 Summer League - Champion,Minnesota Timberwolves,-0.010899999999999993,0.1429,0.1538
+2025-07-17 19:31:58.264281,Outrights - Tour de France 2025 - Tour de France Winner,Ben Healy,-0.011,0.0013,0.0123
 2025-07-17 17:36:26.609798,Quarterbacks - NFL Passing TD's 2025-26 - Justin Herbert Regular Season Total Passing TD's,Under 22.5,-0.01100000000000001,0.5238,0.5348
-2025-07-17 13:50:17.555715,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Sonia Citron (WAS),Under 17.5,-0.01100000000000001,0.5238,0.5348
-2025-07-17 17:36:26.633822,Quarterbacks - NFL Passing TD's 2025-26 - Tua Tagovailoa Regular Season Total Passing TD's,Under 23.5,-0.01100000000000001,0.5238,0.5348
 2025-07-17 08:45:26.100297,Scores - 1st Round Scores - Scottie Scheffler - 1st Round Scores,Over 69.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 13:50:17.555715,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Sonia Citron (WAS),Under 17.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 16:45:07.915659,Quarterbacks - NFL Passing TD's 2025-26 - Bryce Young Regular Season Total Passing TD's,Under 18.5,-0.01100000000000001,0.5238,0.5348
 2025-07-17 10:42:58.380820,Scores - 1st Round Scores - Bryson DeChambeau - 1st Round Scores,Under 70.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 17:36:26.633822,Quarterbacks - NFL Passing TD's 2025-26 - Tua Tagovailoa Regular Season Total Passing TD's,Under 23.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 19:31:56.911372,Wide Receivers - NFL Receiving Yards 2025-26 - Tetairoa McMillan Regular Season Total Receiving Yards,Under 825.5,-0.01100000000000001,0.5238,0.5348
+2025-07-17 19:31:56.897587,Wide Receivers - NFL Receiving Yards 2025-26 - Puka Nacua Regular Season Total Receiving Yards,Under 1200.5,-0.01100000000000001,0.5238,0.5348
 2025-07-17 13:50:19.903934,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Under 69.5,-0.011099999999999999,0.4651,0.4762
 2025-07-17 13:50:16.666141,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,-0.011199999999999995,0.0476,0.0588
 2025-07-17 10:42:58.411266,Scores - 1st Round Scores - Rory McIIroy - 1st Round Scores,Under 69.5,-0.0116,0.4762,0.4878
-2025-07-17 10:42:58.389480,Scores - 1st Round Scores - Robert MacIntyre - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
-2025-07-17 13:50:19.908325,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
 2025-07-17 13:50:19.921454,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Under 71.5,-0.0116,0.4762,0.4878
+2025-07-17 13:50:19.908325,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
+2025-07-17 10:42:58.389480,Scores - 1st Round Scores - Robert MacIntyre - 1st Round Scores,Under 70.5,-0.0116,0.4762,0.4878
 2025-07-17 16:45:07.942988,Quarterbacks - NFL Passing TD's 2025-26 - Jalen Hurts Regular Season Total Passing TD's,Under 19.5,-0.0116,0.4762,0.4878
 2025-07-17 07:35:21.766748,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 71.5,-0.011600000000000055,0.5122,0.5238
 2025-07-17 17:36:26.623450,Quarterbacks - NFL Passing TD's 2025-26 - Patrick Mahomes Regular Season Total Passing TD's,Under 27.5,-0.011600000000000055,0.5122,0.5238
 2025-07-17 13:05:10.107579,Round Match-Ups - 1st Round Match-Ups - R. Henley vs J. Niemann - 1st Round Match-Ups,Joaquin Niemann,-0.011600000000000055,0.5122,0.5238
+2025-07-17 19:31:55.955927,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Sonia Citron (WAS),Under 17.5,-0.011600000000000055,0.5122,0.5238
 2025-07-17 07:35:21.747600,Scores - 1st Round Scores - Wyndham Clark - 1st Round Scores,Under 71.5,-0.012199999999999989,0.5,0.5122
 2025-07-17 07:35:21.757637,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 71.5,-0.012199999999999989,0.5,0.5122
+2025-07-17 19:31:56.879986,Wide Receivers - NFL Receiving Yards 2025-26 - Ladd McConkey Regular Season Total Receiving Yards,Under 1025.5,-0.012199999999999989,0.5,0.5122
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Palestino,-0.012400000000000001,0.004,0.0164
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Mushuc Runa,-0.012700000000000003,0.0196,0.0323
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Columbus Crew,-0.013999999999999999,0.0769,0.0909
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,-0.013999999999999999,0.0769,0.0909
 2025-07-17 08:45:23.646131,To Make the Playoffs - Las Vegas Aces - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.016000000000000014,0.2062,0.2222
 2025-07-17 08:45:23.650353,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.016100000000000003,0.8889,0.905
+2025-07-17 19:31:58.264281,Outrights - Tour de France 2025 - Tour de France Winner,Matteo Jorgenson,-0.0163,0.0033,0.0196
 2025-07-17 17:36:28.171209,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.01680000000000001,0.2105,0.2273
 2025-07-17 08:45:25.707589,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,-0.017300000000000093,0.697,0.7143
 2025-07-17 13:50:16.666141,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,-0.017600000000000005,0.3333,0.3509
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Cienciano,-0.0179,0.0099,0.0278
 2025-07-17 13:50:16.666141,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,-0.018099999999999998,0.0588,0.0769
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,-0.01820000000000002,0.1818,0.2
+2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
 2025-07-17 10:42:58.359345,Scores - 1st Round Scores - Joaquin Niemann - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
 2025-07-17 10:42:58.406727,Scores - 1st Round Scores - Justin Thomas - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
-2025-07-17 10:42:58.372226,Scores - 1st Round Scores - Russell Henley - 1st Round Scores,Under 70.5,-0.018900000000000028,0.4255,0.4444
-2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,-0.0204,0.004,0.0244
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Atlético Bucaramanga,-0.0204,0.004,0.0244
+2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Vasco da Gama,-0.0204,0.004,0.0244
 2025-07-17 14:38:40.666121,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
-2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
 2025-07-17 10:42:58.350741,Scores - 1st Round Scores - Harry Hall - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
+2025-07-17 10:42:58.346433,Scores - 1st Round Scores - Aaron Rai - 1st Round Scores,Under 71.5,-0.02079999999999993,0.5348,0.5556
 2025-07-17 16:45:07.929302,Quarterbacks - NFL Passing TD's 2025-26 - Dak Prescott Regular Season Total Passing TD's,Under 26.5,-0.02079999999999993,0.5348,0.5556
 2025-07-17 17:36:26.630383,Quarterbacks - NFL Passing TD's 2025-26 - Trevor Lawrence Regular Season Total Passing TD's,Over 22.5,-0.02169999999999994,0.5238,0.5455
-2025-07-17 18:49:46.367061,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Over 675.5,-0.022600000000000064,0.5122,0.5348
 2025-07-17 13:50:19.837242,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-17 17:36:26.861705,Wide Receivers - NFL Receiving Yards 2025-26 - Brian Thomas Regular Season Total Receiving Yards,Under 1150.5,-0.022600000000000064,0.5122,0.5348
 2025-07-17 10:42:58.420013,Scores - 1st Round Scores - Harris English - 1st Round Scores,Under 71.5,-0.022600000000000064,0.5122,0.5348
-2025-07-17 13:50:19.917132,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Under 71.5,-0.022699999999999998,0.4651,0.4878
+2025-07-17 18:49:46.367061,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Over 675.5,-0.022600000000000064,0.5122,0.5348
 2025-07-17 10:42:58.402385,Scores - 1st Round Scores - Viktor Hovland - 1st Round Scores,Under 70.5,-0.022699999999999998,0.4651,0.4878
+2025-07-17 13:50:19.917132,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Under 71.5,-0.022699999999999998,0.4651,0.4878
 2025-07-17 10:42:58.328996,Scores - 1st Round Scores - Andrew Novak - 1st Round Scores,Under 71.5,-0.023799999999999988,0.4762,0.5
-2025-07-17 18:49:47.777293,Round Match-Ups - 1st Round Match-Ups - C. Phillips vs C. Ramey - 1st Round Match-Ups,Chad Ramey,-0.023800000000000043,0.5,0.5238
-2025-07-17 17:36:26.626958,Quarterbacks - NFL Passing TD's 2025-26 - Sam Darnold Regular Season Total Passing TD's,Over 20.5,-0.023800000000000043,0.5,0.5238
+2025-07-17 19:31:56.890585,Wide Receivers - NFL Receiving Yards 2025-26 - Mike Evans Regular Season Total Receiving Yards,Under 950.5,-0.023800000000000043,0.5,0.5238
 2025-07-17 18:49:45.493726,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Kelsey Plum (LAS),Under 19.5,-0.023800000000000043,0.5,0.5238
-2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,-0.0242,0.0667,0.0909
+2025-07-17 17:36:26.626958,Quarterbacks - NFL Passing TD's 2025-26 - Sam Darnold Regular Season Total Passing TD's,Over 20.5,-0.023800000000000043,0.5,0.5238
+2025-07-17 18:49:47.777293,Round Match-Ups - 1st Round Match-Ups - C. Phillips vs C. Ramey - 1st Round Match-Ups,Chad Ramey,-0.023800000000000043,0.5,0.5238
 2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Grêmio,-0.0242,0.0667,0.0909
-2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 13:50:16.721889,Copa Sudamericana - Copa Sudamericana 2025 - Futures - Winner,Huracán,-0.0242,0.0667,0.0909
 2025-07-17 10:42:58.376539,Scores - 1st Round Scores - Tyrrell Hatton - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
-2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
 2025-07-17 10:42:58.424376,Scores - 1st Round Scores - Nick Taylor - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.398110,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.428718,Scores - 1st Round Scores - Tom Kim - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.367922,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 71.5,-0.024399999999999977,0.4878,0.5122
+2025-07-17 10:42:58.415657,Scores - 1st Round Scores - Tommy Fleetwood - 1st Round Scores,Under 70.5,-0.024399999999999977,0.4878,0.5122
 2025-07-17 13:50:16.669766,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,-0.024999999999999994,0.1,0.125
+2025-07-17 19:31:58.264281,Outrights - Tour de France 2025 - Tour de France Winner,Remco Evenepoel,-0.0286,0.0099,0.0385
+2025-07-17 19:31:55.640535,NBA Summer League - NBA 2K26 Summer League - Champion,Oklahoma City Thunder,-0.030299999999999994,0.3333,0.3636
 2025-07-17 08:45:23.620139,Regular Season Wins - Minnesota Lynx - 2025 Regular Season Wins - Regular Season Wins,Under 33½,-0.030399999999999983,0.5348,0.5652
 2025-07-17 10:42:58.342073,Scores - 1st Round Scores - Keegan Bradley - 1st Round Scores,Under 71.5,-0.03179999999999994,0.5238,0.5556
-2025-07-17 17:36:26.858263,Wide Receivers - NFL Receiving Yards 2025-26 - Amon-Ra St. Brown Regular Season Total Receiving Yards,Under 1075.5,-0.03480000000000005,0.5,0.5348
 2025-07-17 18:49:45.490316,WNBA All-Star Friday - 3-Point Contest - Round 1 Score [excluding tiebreakers] - Allisha Gray (ATL),Over 22.5,-0.03480000000000005,0.5,0.5348
+2025-07-17 19:31:56.862230,Wide Receivers - NFL Receiving Yards 2025-26 - Ja'Marr Chase Regular Season Total Receiving Yards,Under 1325.5,-0.03480000000000005,0.5,0.5348
+2025-07-17 17:36:26.858263,Wide Receivers - NFL Receiving Yards 2025-26 - Amon-Ra St. Brown Regular Season Total Receiving Yards,Under 1075.5,-0.03480000000000005,0.5,0.5348
 2025-07-17 08:45:26.462005,Stage Betting - Stage 12 - Outright,Jonas Vingegaard,-0.03570000000000001,0.25,0.2857
-2025-07-17 13:05:10.150770,Scores - 1st Round Scores - Maverick McNealy - 1st Round Scores,Under 71.5,-0.035999999999999976,0.4762,0.5122
 2025-07-17 10:42:58.337769,Scores - 1st Round Scores - Daniel Berger - 1st Round Scores,Under 71.5,-0.035999999999999976,0.4762,0.5122
+2025-07-17 13:05:10.150770,Scores - 1st Round Scores - Maverick McNealy - 1st Round Scores,Under 71.5,-0.035999999999999976,0.4762,0.5122
 2025-07-17 08:45:23.628473,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 29½,-0.03610000000000002,0.5556,0.5917
 2025-07-17 16:45:07.922451,Quarterbacks - NFL Passing TD's 2025-26 - Caleb Williams Regular Season Total Passing TD's,Under 23.5,-0.03959999999999997,0.5348,0.5744
-2025-07-17 13:50:19.890833,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.043399999999999994,0.4444,0.4878
 2025-07-17 13:05:10.155179,Scores - 1st Round Scores - Min Woo Lee - 1st Round Scores,Under 71.5,-0.043399999999999994,0.4444,0.4878
+2025-07-17 13:50:19.890833,Scores - 1st Round Scores - Ludvig Aberg - 1st Round Scores,Under 70.5,-0.043399999999999994,0.4444,0.4878
 2025-07-17 16:45:07.936175,Quarterbacks - NFL Passing TD's 2025-26 - Geno Smith Regular Season Total Passing TD's,Under 20.5,-0.045499999999999985,0.5,0.5455
 2025-07-17 08:45:23.632718,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 26½,-0.04620000000000002,0.5455,0.5917
 2025-07-17 08:45:26.456563,Outrights - Tour de France 2025 - Tour de France Winner,Jonas Vingegaard,-0.047599999999999976,0.2857,0.3333
@@ -178,10 +201,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-17 08:45:23.599165,Regular Season Wins - Dallas Wings - 2025 Regular Season Wins - Regular Season Wins,Over 12½,-0.05059999999999998,0.5238,0.5744
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),-0.05550000000000002,0.1667,0.2222
 2025-07-17 17:36:26.602961,Quarterbacks - NFL Passing TD's 2025-26 - Josh Allen Regular Season Total Passing TD's,Under 27.5,-0.05689999999999995,0.5348,0.5917
-2025-07-17 10:42:58.333427,Scores - 1st Round Scores - Si Woo Kim - 1st Round Scores,Under 71.5,-0.057699999999999974,0.4545,0.5122
 2025-07-17 13:50:19.912822,Scores - 1st Round Scores - Harris English - 1st Round Scores,Under 71.5,-0.057699999999999974,0.4545,0.5122
+2025-07-17 10:42:58.333427,Scores - 1st Round Scores - Si Woo Kim - 1st Round Scores,Under 71.5,-0.057699999999999974,0.4545,0.5122
 2025-07-17 08:45:23.603351,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 19½,-0.05860000000000004,0.4762,0.5348
 2025-07-17 09:39:39.491317,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,France (W),-0.0635,0.2222,0.2857
 2025-07-17 10:42:58.355020,Scores - 1st Round Scores - Brian Harman - 1st Round Scores,Under 71.5,-0.08030000000000004,0.4545,0.5348
 2025-07-17 08:45:23.611705,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Over 23½,-0.08660000000000001,0.4878,0.5744
 2025-07-17 08:45:23.594991,Regular Season Wins - Chicago Sky - 2025 Regular Season Wins - Regular Season Wins,Under 13½,-0.13489999999999996,0.4651,0.6
+2025-07-17 19:31:58.264281,Outrights - Tour de France 2025 - Tour de France Winner,Jonas Vingegaard,-0.1857,0.1,0.2857

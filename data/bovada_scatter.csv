@@ -17,21 +17,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 09:34:02.717822,Main Markets - 3rd Round Six-Shooter - Group A - S. Scheffler / M. Fitzpatrick / R. McIIroy / T. Hatton / X. Schauffele / R. MacIntyre - 3rd Round Six-Shooter,Tyrrell Hatton,0.027999999999999997,0.1818,0.1538
 2025-07-19 10:39:27.347768,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),0.027800000000000047,0.7778,0.75
 2025-07-19 06:46:06.531013,AL East - AL East 2025 - AL East Winner 2025,Toronto Blue Jays,0.027500000000000024,0.3846,0.3571
+2025-07-19 16:41:30.388888,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Mario Barrios,0.02739999999999998,0.7333,0.7059
 2025-07-19 10:39:27.344388,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Esther Gonzalez,0.025600000000000067,0.6923,0.6667
 2025-07-19 11:29:19.193015,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Vince Whaley,0.0242,0.0909,0.0667
 2025-07-19 07:31:51.299110,Round Match-Ups - 3rd Round Match-Ups - T. Fleetwood vs L. Aberg - 3rd Round Match-Ups,Ludvig Aberg,0.023800000000000043,0.5238,0.5
 2025-07-19 08:41:10.049458,Scores - 3rd Round Scores - Harry Hall - 3rd Round Scores,Under 70.5,0.023799999999999988,0.5,0.4762
 2025-07-19 12:59:41.034348,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Donald Trump,0.023799999999999988,0.1667,0.1429
-2025-07-19 04:45:52.711988,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
 2025-07-19 06:46:07.099774,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
+2025-07-19 04:45:52.711988,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,0.022600000000000064,0.6226,0.6
 2025-07-19 06:46:06.653097,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Nathan Eovaldi (TEX),0.022400000000000003,0.0323,0.0099
 2025-07-19 06:46:06.701113,Manager of the Year - NL Manager of the Year 2025 - National League Manager of the Year,Pat Murphy (MIL),0.022199999999999998,0.3448,0.3226
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Sam Ryder,0.021799999999999996,0.0435,0.0217
 2025-07-19 08:41:10.083046,Scores - 3rd Round Scores - Chris Gotterup - 3rd Round Scores,Under 70.5,0.021699999999999997,0.4762,0.4545
 2025-07-19 08:41:10.115753,Scores - 3rd Round Scores - Haotong Li - 3rd Round Scores,Under 71.5,0.02079999999999993,0.5556,0.5348
 2025-07-19 04:45:52.678852,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,0.020699999999999996,0.4651,0.4444
-2025-07-19 04:02:11.961890,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
 2025-07-19 05:38:11.103593,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,0.020699999999999996,0.4651,0.4444
 2025-07-19 11:29:18.922211,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Daniel Lapin,0.020500000000000074,0.8667,0.8462
 2025-07-19 06:46:06.653097,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Jacob deGrom (TEX),0.02020000000000001,0.1111,0.0909
@@ -42,17 +42,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 14:34:59.978540,The Basketball Tournament - The Basketball Tournament  Winner - Outright,The Ville,0.01759999999999999,0.1176,0.1
 2025-07-19 12:59:44.150781,Scores - 3rd Round Scores - Lee Westwood - 3rd Round Scores,Over 71.5,0.017299999999999982,0.5917,0.5744
 2025-07-19 15:34:20.058438,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.01680000000000001,0.2273,0.2105
+2025-07-19 16:41:30.410579,Boxing Lines - Simon Zachenhuber vs Paulinus Ndjolonimu - To Win the Bout,Simon Zachenhuber,0.016799999999999926,0.8571,0.8403
 2025-07-19 13:42:26.898207,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Milwaukee Brewers,0.016600000000000004,0.0833,0.0667
 2025-07-19 06:46:07.122232,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - T. Detry / J. Olesen - 3rd Round 2 Balls,Thomas Detry,0.016100000000000003,0.6078,0.5917
 2025-07-19 06:46:06.545614,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.01539999999999997,0.6154,0.6
 2025-07-19 06:46:06.535856,AL West - AL West 2025 - AL West Winner 2025,Texas Rangers,0.014899999999999997,0.0625,0.0476
-2025-07-19 11:29:19.232632,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 69.5,0.014800000000000035,0.6226,0.6078
 2025-07-19 10:39:30.984940,Scores - 3rd Round Scores - Ludvig Aberg - 3rd Round Scores,Under 70.5,0.014800000000000035,0.6226,0.6078
+2025-07-19 11:29:19.232632,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 69.5,0.014800000000000035,0.6226,0.6078
 2025-07-19 15:34:20.035012,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.01469999999999999,0.25,0.2353
 2025-07-19 13:42:26.893089,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.01440000000000001,0.1053,0.0909
 2025-07-19 10:39:27.591125,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,0.01419999999999999,0.3846,0.3704
 2025-07-19 13:42:24.687050,The Basketball Tournament - The Basketball Tournament  Winner - Outright,Challenge ALS,0.014100000000000001,0.0526,0.0385
 2025-07-19 13:42:24.687050,The Basketball Tournament - The Basketball Tournament  Winner - Outright,Best Virginia,0.014099999999999998,0.0385,0.0244
+2025-07-19 16:41:30.402319,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Daniel Lapin,0.013900000000000023,0.8889,0.875
 2025-07-19 13:42:26.893089,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
 2025-07-19 13:42:24.687050,The Basketball Tournament - The Basketball Tournament  Winner - Outright,NXT ERA ELITE,0.012899999999999998,0.0278,0.0149
 2025-07-19 13:42:24.687050,The Basketball Tournament - The Basketball Tournament  Winner - Outright,Red Rose Thunder,0.012700000000000003,0.0323,0.0196
@@ -65,13 +67,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Patrick Fishburn,0.011199999999999995,0.0435,0.0323
 2025-07-19 10:39:30.776838,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Sebastian Fundora,0.011099999999999999,0.4762,0.4651
 2025-07-19 13:42:26.898207,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.010899999999999993,0.1538,0.1429
-2025-07-19 04:02:09.201436,NBA Summer League - NBA 2K26 Summer League - Champion,Charlotte Hornets,0.010800000000000004,0.2381,0.2273
 2025-07-19 14:35:02.620277,Boxing Lines - Lawrence Okolie vs Kevin Lerena - To Win the Bout,Kevin Lerena,0.010699999999999987,0.3333,0.3226
 2025-07-19 11:29:19.267884,Scores - 3rd Round Scores - Tyrrell Hatton - 3rd Round Scores,Under 69.5,0.010699999999999932,0.5455,0.5348
 2025-07-19 12:59:43.991085,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Solomon Dacres,0.010499999999999982,0.2105,0.2
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Martin Laird,0.0104,0.0132,0.0028
-2025-07-19 11:29:19.232632,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Over 69.5,-0.010099999999999998,0.4444,0.4545
 2025-07-19 10:39:30.984940,Scores - 3rd Round Scores - Ludvig Aberg - 3rd Round Scores,Over 70.5,-0.010099999999999998,0.4444,0.4545
+2025-07-19 11:29:19.232632,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Over 69.5,-0.010099999999999998,0.4444,0.4545
 2025-07-19 06:46:07.153257,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - S. Lowry / J. Rahm - 3rd Round 2 Balls,Shane Lowry,-0.010099999999999998,0.4444,0.4545
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Trevor Cone,-0.0101,0.004,0.0141
 2025-07-19 10:39:27.466226,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Chivas Guadalajara,-0.0102,0.0667,0.0769
@@ -82,19 +83,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 09:34:02.240615,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Daniel Lapin,-0.01090000000000002,0.8462,0.8571
 2025-07-19 11:29:19.267884,Scores - 3rd Round Scores - Tyrrell Hatton - 3rd Round Scores,Over 69.5,-0.01100000000000001,0.5238,0.5348
 2025-07-19 10:39:31.067690,Scores - 3rd Round Scores - Scottie Scheffler - 3rd Round Scores,Over 68.5,-0.011099999999999999,0.4651,0.4762
-2025-07-19 11:29:18.955513,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,-0.011099999999999999,0.8889,0.9
-2025-07-19 12:59:43.972849,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.011099999999999999,0.3279,0.339
 2025-07-19 15:34:17.121942,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,David Attenborough,-0.011099999999999999,0.1,0.1111
+2025-07-19 11:29:18.955513,Boxing Lines - Mark Magsayo vs Jorge Mata Cuellar - To Win the Bout,Mark Magsayo,-0.011099999999999999,0.8889,0.9
 2025-07-19 15:34:17.121942,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Greta Thunberg,-0.011099999999999999,0.1,0.1111
+2025-07-19 12:59:43.972849,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.011099999999999999,0.3279,0.339
 2025-07-19 11:29:19.306072,Barracuda Championship - Barracuda Championship - Winner,Patrick Fishburn,-0.011199999999999995,0.0323,0.0435
 2025-07-19 12:59:44.150781,Scores - 3rd Round Scores - Lee Westwood - 3rd Round Scores,Under 71.5,-0.0116,0.4762,0.4878
 2025-07-19 06:46:07.212095,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - H. Hall / C. Bezuidenhout - 3rd Round 2 Balls,Christiaan Bezuidenhout,-0.0116,0.4762,0.4878
 2025-07-19 06:46:07.191163,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - A. Rai / R. Fowler - 3rd Round 2 Balls,Rickie Fowler,-0.0116,0.4762,0.4878
-2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Doug Ghim,-0.0118,0.0099,0.0217
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Luke List,-0.0118,0.0099,0.0217
-2025-07-19 10:39:30.999304,Scores - 3rd Round Scores - Lee Westwood - 3rd Round Scores,Under 71.5,-0.012199999999999989,0.4878,0.5
+2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Doug Ghim,-0.0118,0.0099,0.0217
 2025-07-19 06:46:06.545614,NL East - NL East 2025 - NL East Winner,New York Mets,-0.012199999999999989,0.4878,0.5
 2025-07-19 09:34:02.544822,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 69.5,-0.012199999999999989,0.4878,0.5
+2025-07-19 10:39:30.999304,Scores - 3rd Round Scores - Lee Westwood - 3rd Round Scores,Under 71.5,-0.012199999999999989,0.4878,0.5
 2025-07-19 08:41:09.675296,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.012299999999999978,0.3448,0.3571
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Quade Cummins,-0.013,0.0066,0.0196
 2025-07-19 10:39:27.342056,UEFA European Championship Women - UEFA European Championship Women 2025 - Winner,France (W),-0.013899999999999996,0.1111,0.125
@@ -104,9 +105,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 11:29:18.892276,Elite Boxing - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.01469999999999999,0.2353,0.25
 2025-07-19 06:46:06.695767,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,Kevin Cash (TB),-0.014899999999999997,0.0476,0.0625
 2025-07-19 10:39:27.591125,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,-0.015100000000000002,0.1667,0.1818
+2025-07-19 16:41:30.388888,Elite Boxing - Mario Barrios vs Manny Pacquiao - To Win the Bout,Manny Pacquiao,-0.015400000000000025,0.3125,0.3279
 2025-07-19 08:41:10.083046,Scores - 3rd Round Scores - Chris Gotterup - 3rd Round Scores,Over 70.5,-0.016100000000000003,0.5917,0.6078
+2025-07-19 16:41:30.402319,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.016600000000000004,0.1739,0.1905
 2025-07-19 15:34:17.121942,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Elon Musk,-0.016700000000000007,0.0833,0.1
 2025-07-19 15:34:20.058438,Boxing Lines - Vladyslav Sirenko vs Solomon Dacres - To Win the Bout,Vladyslav Sirenko,-0.016799999999999926,0.8403,0.8571
+2025-07-19 16:41:30.410579,Boxing Lines - Simon Zachenhuber vs Paulinus Ndjolonimu - To Win the Bout,Paulinus Ndjolonimu,-0.01680000000000001,0.2105,0.2273
 2025-07-19 12:59:44.190415,Scores - 3rd Round Scores - Robert MacIntyre - 3rd Round Scores,Over 69.5,-0.017299999999999982,0.5744,0.5917
 2025-07-19 11:29:18.972035,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.017299999999999982,0.5744,0.5917
 2025-07-19 13:42:26.893089,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,-0.0174,0.2326,0.25
@@ -117,15 +121,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Kurt Kitayama,-0.019099999999999995,0.0244,0.0435
 2025-07-19 06:46:07.122232,The Open Championship - 2/3 Balls - 3rd Round 2 Balls - T. Detry / J. Olesen - 3rd Round 2 Balls,Jacob Skov Olesen,-0.019699999999999995,0.4348,0.4545
 2025-07-19 13:42:24.687050,The Basketball Tournament - The Basketball Tournament  Winner - Outright,Heartfire,-0.02020000000000001,0.0909,0.1111
-2025-07-19 04:45:52.711988,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
 2025-07-19 06:46:07.099774,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
+2025-07-19 04:45:52.711988,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Kenneth Sims Jr,-0.020699999999999996,0.4444,0.4651
 2025-07-19 06:46:06.531013,AL East - AL East 2025 - AL East Winner 2025,New York Yankees,-0.02169999999999994,0.5238,0.5455
 2025-07-19 07:31:51.299110,Round Match-Ups - 3rd Round Match-Ups - T. Fleetwood vs L. Aberg - 3rd Round Match-Ups,Tommy Fleetwood,-0.02169999999999994,0.5238,0.5455
 2025-07-19 11:29:18.922211,Boxing Lines - Daniel Lapin vs Lewis Edmondson - To Win the Bout,Lewis Edmondson,-0.022199999999999998,0.2,0.2222
 2025-07-19 05:38:11.103593,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-19 08:41:10.115753,Scores - 3rd Round Scores - Haotong Li - 3rd Round Scores,Over 71.5,-0.022600000000000064,0.5122,0.5348
 2025-07-19 04:45:52.678852,Boxing Lines - Sebastian Fundora vs Tim Tszyu - To Win the Bout,Tim Tszyu,-0.022600000000000064,0.6,0.6226
-2025-07-19 04:02:11.961890,Boxing Lines - Oscar Duarte Jurado vs Kenneth Sims Jr - To Win the Bout,Oscar Duarte Jurado,-0.022600000000000064,0.6,0.6226
 2025-07-19 11:29:19.193015,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-07-19 10:39:27.347768,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),-0.023799999999999988,0.1429,0.1667
 2025-07-19 06:46:07.385584,Scores - 3rd Round Scores - Lee Westwood - 3rd Round Scores,Under 71.5,-0.023800000000000043,0.5,0.5238
@@ -134,8 +137,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-19 06:46:06.535856,AL West - AL West 2025 - AL West Winner 2025,Houston Astros,-0.03080000000000005,0.7874,0.8182
 2025-07-19 05:38:11.481667,Barracuda Championship - Barracuda Championship - Winner,Ben Martin,-0.0344,0.0132,0.0476
 2025-07-19 06:46:06.679869,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Drew Pomeranz,-0.0347,0.0278,0.0625
-2025-07-19 08:41:10.111201,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Over 70.5,-0.03480000000000005,0.5,0.5348
 2025-07-19 12:59:44.181669,Scores - 3rd Round Scores - Tony Finau - 3rd Round Scores,Over 70.5,-0.03480000000000005,0.5,0.5348
+2025-07-19 08:41:10.111201,Scores - 3rd Round Scores - Brian Harman - 3rd Round Scores,Over 70.5,-0.03480000000000005,0.5,0.5348
 2025-07-19 05:38:08.879784,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.043800000000000006,0.1667,0.2105
 2025-07-19 10:39:27.344388,UEFA European Championship Women - UEFA European Championship Women 2025 - Top Goalscorer,Alexia Putellas,-0.044499999999999984,0.2222,0.2667
 2025-07-19 08:41:10.120250,Scores - 3rd Round Scores - Matt Fitzpatrick - 3rd Round Scores,Over 70.5,-0.05300000000000005,0.5122,0.5652

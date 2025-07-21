@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Elon Musk,0.0321,0.0909,0.0588
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Maverick McNealy,0.031200000000000002,0.0476,0.0164
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Yealimi Noh,0.031000000000000003,0.0323,0.0013
+2025-07-21 13:52:15.572140,Boxing Lines - Ryan Garner vs Reece Bellotti - To Win the Bout,Reece Bellotti,0.028299999999999992,0.3509,0.3226
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Ariya Jutanugarn,0.026799999999999997,0.0278,0.001
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Jin Hee Im,0.0265,0.0278,0.0013
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Max Greyserman,0.0262,0.0385,0.0123
@@ -25,6 +26,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Stephanie Kyriacou,0.0234,0.0244,0.001
 2025-07-21 08:48:59.542159,UK - UK - Winner,David Puig,0.0206,0.0385,0.0179
 2025-07-21 08:48:59.542159,UK - UK - Winner,Sebastian Munoz,0.0206,0.0385,0.0179
+2025-07-21 13:52:15.580404,Boxing Lines - Claressa Shields vs Lani Daniels - To Win the Bout,Claressa Shields,0.018900000000000028,0.9804,0.9615
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,A Lim Kim,0.0186,0.0196,0.001
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Grace Kim,0.0183,0.0196,0.0013
 2025-07-21 10:44:47.436935,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,CF Pachuca,0.0179,0.1429,0.125
@@ -40,27 +42,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.014399999999999968,0.9375,0.9231
 2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,0.013899999999999996,0.125,0.1111
 2025-07-21 08:48:59.542159,UK - UK - Winner,Tyrrell Hatton,0.013899999999999996,0.125,0.1111
-2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Sei Young Kim,0.0131,0.0164,0.0033
 2025-07-21 08:48:59.542159,UK - UK - Winner,Bubba Watson,0.0131,0.0164,0.0033
+2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Sei Young Kim,0.0131,0.0164,0.0033
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Cameron Champ,0.013,0.0196,0.0066
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Alex Smalley,0.012899999999999998,0.0179,0.005
 2025-07-21 11:32:26.426561,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Gabriela Ruffels,0.0119,0.0152,0.0033
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jacob Bridgeman,0.0114,0.0164,0.005
-2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Tringale,0.011399999999999997,0.0278,0.0164
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jake Knapp,0.011399999999999997,0.0278,0.0164
+2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Tringale,0.011399999999999997,0.0278,0.0164
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Lindy Duncan,0.011300000000000001,0.0123,0.001
 2025-07-21 08:48:59.542159,UK - UK - Winner,Harold Varner III,0.0113,0.0179,0.0066
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Michael Thorbjornsen,0.011200000000000002,0.0244,0.0132
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Chiara Tamburlini,0.0112,0.0132,0.002
+2025-07-21 13:52:15.607568,3M Open - 3M Open - Winner,Max Greyserman,0.011199999999999995,0.0435,0.0323
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Sam Burns,0.011199999999999995,0.0588,0.0476
 2025-07-21 06:50:23.810142,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.01100000000000001,0.5348,0.5238
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Jenny Shin,0.011,0.0123,0.0013
 2025-07-21 08:48:59.542159,UK - UK - Winner,Abraham Ancer,0.010700000000000001,0.0385,0.0278
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Taylor Pendrith,0.010600000000000002,0.0323,0.0217
 2025-07-21 08:48:59.542159,UK - UK - Winner,Dustin Johnson,-0.010700000000000001,0.0278,0.0385
-2025-07-21 10:44:47.436935,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Tigres UANL,-0.010899999999999993,0.1429,0.1538
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2027,-0.010899999999999993,0.1429,0.1538
+2025-07-21 10:44:47.436935,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Tigres UANL,-0.010899999999999993,0.1429,0.1538
 2025-07-21 10:44:47.650987,Jake Paul - Next Opponent - Next Fight,Jorge Masvidal,-0.011099999999999999,0.1,0.1111
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Juan Soto (NYM),-0.011199999999999995,0.0476,0.0588
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),-0.0116,0.4762,0.4878
@@ -68,14 +71,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Mark Hubbard,-0.011699999999999999,0.0079,0.0196
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Eric Cole,-0.0118,0.0099,0.0217
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Luke Clanton,-0.012700000000000003,0.0196,0.0323
-2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Emilio Pagan,-0.012700000000000003,0.0196,0.0323
 2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,JD Vance,-0.012700000000000003,0.0196,0.0323
+2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Emilio Pagan,-0.012700000000000003,0.0196,0.0323
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2028,-0.012899999999999995,0.1538,0.1667
+2025-07-21 13:52:15.636770,Stage Betting - Stage 16 - Outright,Jonas Vingegaard,-0.013899999999999996,0.1111,0.125
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Amy Yang,-0.0139,0.0057,0.0196
 2025-07-21 06:50:23.804583,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),-0.013999999999999999,0.0769,0.0909
 2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Smith,-0.014100000000000001,0.0385,0.0526
-2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Adrian Morejon,-0.01440000000000001,0.0909,0.1053
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Randy Rodriguez (SF),-0.01440000000000001,0.0909,0.1053
+2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Adrian Morejon,-0.01440000000000001,0.0909,0.1053
 2025-07-21 08:48:59.542159,UK - UK - Winner,Adrian Meronk,-0.0145,0.0099,0.0244
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.01469999999999999,0.2353,0.25
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.015100000000000002,0.1667,0.1818
@@ -96,7 +100,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Sahith Theegala,-0.022099999999999998,0.0164,0.0385
 2025-07-21 08:48:59.542159,UK - UK - Winner,Dean Burmester,-0.023200000000000002,0.0244,0.0476
 2025-07-21 06:50:23.815752,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),-0.023799999999999988,0.4762,0.5
+2025-07-21 13:52:15.580404,Boxing Lines - Claressa Shields vs Lani Daniels - To Win the Bout,Lani Daniels,-0.0242,0.0667,0.0909
 2025-07-21 08:48:59.542159,UK - UK - Winner,Louis Oosthuizen,-0.024800000000000003,0.0278,0.0526
+2025-07-21 13:52:15.572140,Boxing Lines - Ryan Garner vs Reece Bellotti - To Win the Bout,Ryan Garner,-0.025999999999999912,0.7143,0.7403
 2025-07-21 08:48:59.542159,UK - UK - Winner,Brooks Koepka,-0.0282,0.0244,0.0526
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Akshay Bhatia,-0.0282,0.0244,0.0526
 2025-07-21 08:48:59.542159,UK - UK - Winner,Sergio Garcia,-0.03439999999999999,0.0323,0.0667

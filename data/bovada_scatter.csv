@@ -4,11 +4,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 06:50:23.842671,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,John Schneider (TOR),0.0947,0.2,0.1053
 2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,AI/Artificial Intelligence,0.0857,0.2857,0.2
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2026,0.0857,0.2857,0.2
+2025-07-21 14:43:42.811823,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,0.05980000000000002,0.4444,0.3846
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Hyo Joo Kim,0.0513,0.0526,0.0013
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Ayaka Furue,0.0489,0.0588,0.0099
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Chris Gotterup,0.046,0.0526,0.0066
 2025-07-21 08:48:59.542159,UK - UK - Winner,Bryson DeChambeau,0.04269999999999999,0.1538,0.1111
 2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2028,0.04169999999999999,0.1667,0.125
+2025-07-21 14:43:44.161806,Quarterbacks - NFL Passing Yards 2025-26 - Cameron Ward Regular Season Total Passing Yards,Over 3200.5,0.03959999999999997,0.5744,0.5348
+2025-07-21 14:43:42.816513,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.036900000000000044,0.5833,0.5464
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2029 or later,0.03640000000000004,0.4,0.3636
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Saskatchewan Roughriders,0.0353,0.2353,0.2
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Andrea Lee,0.0352,0.0385,0.0033
@@ -40,17 +43,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Sarah Schmelzel,0.015100000000000002,0.0164,0.0013
 2025-07-21 08:48:59.542159,UK - UK - Winner,Jinichiro Kozuma,0.014400000000000001,0.0164,0.002
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Shohei Ohtani (LAD),0.014399999999999968,0.9375,0.9231
-2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,0.013899999999999996,0.125,0.1111
 2025-07-21 08:48:59.542159,UK - UK - Winner,Tyrrell Hatton,0.013899999999999996,0.125,0.1111
-2025-07-21 08:48:59.542159,UK - UK - Winner,Bubba Watson,0.0131,0.0164,0.0033
+2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,0.013899999999999996,0.125,0.1111
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Sei Young Kim,0.0131,0.0164,0.0033
+2025-07-21 08:48:59.542159,UK - UK - Winner,Bubba Watson,0.0131,0.0164,0.0033
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Cameron Champ,0.013,0.0196,0.0066
+2025-07-21 14:43:45.558114,Boxing Lines - Xander Zayas vs Jorge Garcia Perez - To Win the Bout,Xander Zayas,0.0129999999999999,0.8261,0.8131
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Alex Smalley,0.012899999999999998,0.0179,0.005
 2025-07-21 11:32:26.426561,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Gabriela Ruffels,0.0119,0.0152,0.0033
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jacob Bridgeman,0.0114,0.0164,0.005
-2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jake Knapp,0.011399999999999997,0.0278,0.0164
 2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Tringale,0.011399999999999997,0.0278,0.0164
+2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jake Knapp,0.011399999999999997,0.0278,0.0164
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Lindy Duncan,0.011300000000000001,0.0123,0.001
 2025-07-21 08:48:59.542159,UK - UK - Winner,Harold Varner III,0.0113,0.0179,0.0066
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Michael Thorbjornsen,0.011200000000000002,0.0244,0.0132
@@ -61,21 +65,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Jenny Shin,0.011,0.0123,0.0013
 2025-07-21 08:48:59.542159,UK - UK - Winner,Abraham Ancer,0.010700000000000001,0.0385,0.0278
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Taylor Pendrith,0.010600000000000002,0.0323,0.0217
+2025-07-21 14:43:42.816513,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,0.010399999999999993,0.2326,0.2222
+2025-07-21 14:43:42.811823,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Colo-Colo,-0.0102,0.0667,0.0769
+2025-07-21 14:43:42.811823,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,-0.010499999999999982,0.2,0.2105
 2025-07-21 08:48:59.542159,UK - UK - Winner,Dustin Johnson,-0.010700000000000001,0.0278,0.0385
-2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2027,-0.010899999999999993,0.1429,0.1538
 2025-07-21 10:44:47.436935,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,Tigres UANL,-0.010899999999999993,0.1429,0.1538
+2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2027,-0.010899999999999993,0.1429,0.1538
 2025-07-21 10:44:47.650987,Jake Paul - Next Opponent - Next Fight,Jorge Masvidal,-0.011099999999999999,0.1,0.1111
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Juan Soto (NYM),-0.011199999999999995,0.0476,0.0588
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),-0.0116,0.4762,0.4878
 2025-07-21 11:32:26.426561,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Mark Hubbard,-0.011699999999999999,0.0079,0.0196
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Eric Cole,-0.0118,0.0099,0.0217
-2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Luke Clanton,-0.012700000000000003,0.0196,0.0323
-2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,JD Vance,-0.012700000000000003,0.0196,0.0323
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Emilio Pagan,-0.012700000000000003,0.0196,0.0323
+2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,JD Vance,-0.012700000000000003,0.0196,0.0323
+2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Luke Clanton,-0.012700000000000003,0.0196,0.0323
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2028,-0.012899999999999995,0.1538,0.1667
 2025-07-21 13:52:15.636770,Stage Betting - Stage 16 - Outright,Jonas Vingegaard,-0.013899999999999996,0.1111,0.125
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Amy Yang,-0.0139,0.0057,0.0196
+2025-07-21 14:43:42.811823,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad Católica,-0.013999999999999999,0.0769,0.0909
 2025-07-21 06:50:23.804583,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),-0.013999999999999999,0.0769,0.0909
 2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Smith,-0.014100000000000001,0.0385,0.0526
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Randy Rodriguez (SF),-0.01440000000000001,0.0909,0.1053
@@ -85,6 +93,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.015100000000000002,0.1667,0.1818
 2025-07-21 11:32:26.435495,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Donald Trump Jr.,-0.015300000000000001,0.0435,0.0588
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Jhoan Duran (MIN),-0.015300000000000001,0.0323,0.0476
+2025-07-21 14:43:45.558114,Boxing Lines - Xander Zayas vs Jorge Garcia Perez - To Win the Bout,Jorge Garcia Perez,-0.015400000000000025,0.241,0.2564
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Erik Van Rooyen,-0.015499999999999998,0.0123,0.0278
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Mac Meissner,-0.0156,0.004,0.0196
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Pete Crow-Armstrong (CHC),-0.015700000000000006,0.1176,0.1333
@@ -107,9 +116,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Akshay Bhatia,-0.0282,0.0244,0.0526
 2025-07-21 08:48:59.542159,UK - UK - Winner,Sergio Garcia,-0.03439999999999999,0.0323,0.0667
 2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2029 or later,-0.035699999999999954,0.7143,0.75
+2025-07-21 14:43:42.811823,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,-0.03889999999999999,0.1429,0.1818
+2025-07-21 14:43:42.816513,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.04040000000000002,0.1818,0.2222
 2025-07-21 10:44:47.650987,Jake Paul - Next Opponent - Next Fight,Gilberto Ramirez,-0.04169999999999999,0.125,0.1667
 2025-07-21 06:50:23.842671,Manager of the Year - AL Manager of the Year 2025 - American League Manager of the Year,A.J. Hinch (DET),-0.04290000000000005,0.9375,0.9804
 2025-07-21 10:44:47.665958,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Benjamin Netanyahu,-0.04329999999999999,0.0476,0.0909
+2025-07-21 14:43:44.161806,Quarterbacks - NFL Passing Yards 2025-26 - Cameron Ward Regular Season Total Passing Yards,Under 3200.5,-0.04700000000000004,0.4878,0.5348
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Aroldis Chapman (BOS),-0.047599999999999976,0.2857,0.3333
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Tony Finau,-0.0555,0.0278,0.0833
 2025-07-21 13:06:57.359256,Scottish Open - Scottish Open - Winner,Esther Henseleit,-0.05650000000000001,0.0435,0.1

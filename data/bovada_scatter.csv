@@ -1,103 +1,55 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Independiente del Valle,0.14639999999999997,0.5464,0.4
-2025-07-20 13:00:54.744322,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Germany (W),0.1238,0.2667,0.1429
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.10199999999999998,0.5464,0.4444
 2025-07-20 18:44:54.777164,Wide Receivers - NFL Receiving TD's 2025-26 - Puka Nacua Regular Season Total Receiving TD's,Over 5.5,0.06989999999999996,0.6154,0.5455
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,1000+ Regular Season Receiving Yards - Tetairoa McMillan (ARI),0.057499999999999996,0.2703,0.2128
 2025-07-20 19:28:10.169932,Tight Ends - NFL Receiving TD's 2025-26 - Trey McBride Regular Season Total Receiving TD's,Over 4.5,0.05689999999999995,0.5917,0.5348
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,0.05550000000000002,0.2222,0.1667
 2025-07-20 18:44:54.788568,Wide Receivers - NFL Receiving TD's 2025-26 - Tetairoa McMillan Regular Season Total Receiving TD's,Over 4.5,0.05019999999999991,0.6154,0.5652
-2025-07-20 17:34:03.878684,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Over 7.5,0.04700000000000004,0.5348,0.4878
 2025-07-20 17:34:03.888808,Wide Receivers - NFL Receiving TD's 2025-26 - CeeDee Lamb Regular Season Total Receiving TD's,Over 7.5,0.04700000000000004,0.5348,0.4878
+2025-07-20 17:34:03.878684,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Over 7.5,0.04700000000000004,0.5348,0.4878
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,5+ Regular Season Receiving TDs - - Tetairoa McMillan,0.044399999999999995,0.6,0.5556
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,800+ Regular Season Receiving Yards - Tetairoa McMillan (ARI),0.043399999999999994,0.5556,0.5122
 2025-07-20 18:44:54.745962,Wide Receivers - NFL Receiving TD's 2025-26 - Garrett Wilson Regular Season Total Receiving TD's,Over 4.5,0.04139999999999999,0.5652,0.5238
 2025-07-20 17:34:03.898934,Wide Receivers - NFL Receiving TD's 2025-26 - Davante Adams Regular Season Total Receiving TD's,Over 8.5,0.03600000000000003,0.5238,0.4878
-2025-07-20 13:00:54.822605,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,0.0321,0.0909,0.0588
 2025-07-20 18:44:54.770254,Wide Receivers - NFL Receiving TD's 2025-26 - Mike Evans Regular Season Total Receiving TD's,Over 7.5,0.030399999999999983,0.5652,0.5348
-2025-07-20 13:00:54.822605,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.030299999999999994,0.3636,0.3333
 2025-07-20 18:44:54.799072,Wide Receivers - NFL Receiving TD's 2025-26 - Zay Flowers Regular Season Total Receiving TD's,Over 4.5,0.028900000000000037,0.5744,0.5455
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,900+ Regular Season Receiving Yards - Tetairoa McMillan (ARI),0.02560000000000001,0.3704,0.3448
-2025-07-20 13:00:57.998714,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Over 68.5,0.024399999999999977,0.5122,0.4878
-2025-07-20 13:00:57.980793,Round Match-Ups - Final Round Match-Ups - S. Scheffler vs R. McIIroy - Final Round Match-Ups,Rory McIlroy,0.024399999999999977,0.5122,0.4878
 2025-07-20 17:34:03.902348,Wide Receivers - NFL Receiving TD's 2025-26 - DeVonta Smith Regular Season Total Receiving TD's,Under 5.5,0.024399999999999977,0.5122,0.4878
-2025-07-20 13:00:54.819676,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,0.022199999999999998,0.2222,0.2
-2025-07-20 13:00:54.744322,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,Spain (W),0.022199999999999998,0.8,0.7778
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,0.022199999999999998,0.2222,0.2
-2025-07-20 13:00:54.819676,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.021999999999999964,0.3077,0.2857
+2025-07-20 15:33:59.543734,Quarterbacks - NFL Rushing Yards 2025-26 - Kyler Murray Regular Season Total Rushing Yards,Over 475.5,0.02079999999999993,0.5556,0.5348
+2025-07-20 16:40:53.427913,Running Backs - NFL Rushing Yards 2025-26 - Saquon Barkley Regular Season Total Rushing Yards,Under 1450.5,0.02079999999999993,0.5556,0.5348
 2025-07-20 16:40:53.390009,Running Backs - NFL Rushing Yards 2025-26 - Bijan Robinson Regular Season Total Rushing Yards,Over 1150.5,0.02079999999999993,0.5556,0.5348
 2025-07-20 17:34:04.081125,Running Backs - NFL Rushing TD's 2025-26 - Jahmyr Gibbs Regular Season Total Rushing TD's,Under 10.5,0.02079999999999993,0.5556,0.5348
-2025-07-20 16:40:53.427913,Running Backs - NFL Rushing Yards 2025-26 - Saquon Barkley Regular Season Total Rushing Yards,Under 1450.5,0.02079999999999993,0.5556,0.5348
 2025-07-20 17:34:04.077779,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Under 13.5,0.02079999999999993,0.5556,0.5348
-2025-07-20 15:33:59.543734,Quarterbacks - NFL Rushing Yards 2025-26 - Kyler Murray Regular Season Total Rushing Yards,Over 475.5,0.02079999999999993,0.5556,0.5348
 2025-07-20 18:44:54.792065,Wide Receivers - NFL Receiving TD's 2025-26 - Travis Hunter Regular Season Total Receiving TD's,Over 4.5,0.02079999999999993,0.5556,0.5348
-2025-07-20 13:00:58.003034,Scores - Final Round Scores - Haotong Li - Final Round Scores,Over 70.5,0.01970000000000005,0.5652,0.5455
-2025-07-20 13:00:57.976682,Round Match-Ups - Final Round Match-Ups - H. Li vs C. Gotterup - Final Round Match-Ups,Haotong Li,0.019699999999999995,0.4545,0.4348
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.019099999999999992,0.0667,0.0476
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,0.019099999999999992,0.0667,0.0476
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,700+ Regular Season Receiving Yards - Travis Hunter (JAX),0.01880000000000004,0.5744,0.5556
-2025-07-20 13:00:54.826212,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.01820000000000002,0.2,0.1818
 2025-07-20 18:44:54.780655,Wide Receivers - NFL Receiving TD's 2025-26 - Stefon Diggs Regular Season Total Receiving TD's,Over 4.5,0.017299999999999982,0.5917,0.5744
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,0.013899999999999996,0.125,0.1111
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,7+ Regular Season Receiving TDs - - Tetairoa McMillan,0.01319999999999999,0.2632,0.25
-2025-07-20 13:00:54.819676,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,0.012899999999999995,0.1667,0.1538
 2025-07-20 17:34:03.895562,Wide Receivers - NFL Receiving TD's 2025-26 - D.J. Moore Regular Season Total Receiving TD's,Over 6.5,0.012199999999999989,0.5,0.4878
 2025-07-20 17:34:03.892176,Wide Receivers - NFL Receiving TD's 2025-26 - Courtland Sutton Regular Season Total Receiving TD's,Under 6.5,0.012199999999999989,0.5122,0.5
-2025-07-20 17:34:04.087988,Running Backs - NFL Rushing TD's 2025-26 - Josh Jacobs Regular Season Total Rushing TD's,Over 9.5,0.011600000000000055,0.5238,0.5122
 2025-07-20 17:34:04.070990,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Over 10.5,0.011600000000000055,0.5238,0.5122
+2025-07-20 17:34:04.087988,Running Backs - NFL Rushing TD's 2025-26 - Josh Jacobs Regular Season Total Rushing TD's,Over 9.5,0.011600000000000055,0.5238,0.5122
 2025-07-20 20:35:24.302755,NFL Specials - 2025-2026 Regular Season Rookie Specials - Proposition,700+ Regular Season Receiving Yards - Tetairoa McMillan (ARI),0.011499999999999955,0.6667,0.6552
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Austin FC,0.011199999999999995,0.0588,0.0476
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,0.011199999999999995,0.0588,0.0476
 2025-07-20 19:28:11.096638,To Make the Playoffs - To Make the Playoffs 2025-26 - Clemson To Make The Playoffs,Yes,0.010700000000000043,0.6774,0.6667
-2025-07-20 16:40:53.404087,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Over 1375.5,0.010699999999999932,0.5455,0.5348
 2025-07-20 18:44:54.763308,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Over 7.5,0.010699999999999932,0.5455,0.5348
-2025-07-20 13:00:57.994347,Scores - Final Round Scores - Matt Fitzpatrick - Final Round Scores,Over 69.5,0.010699999999999932,0.5455,0.5348
 2025-07-20 17:34:04.084509,Running Backs - NFL Rushing TD's 2025-26 - Jonathan Taylor Regular Season Total Rushing TD's,Under 9.5,0.010699999999999932,0.5455,0.5348
-2025-07-20 13:00:54.819676,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,0.010399999999999993,0.2326,0.2222
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,0.0102,0.0769,0.0667
-2025-07-20 17:34:04.070990,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Under 10.5,-0.010099999999999998,0.5455,0.5556
+2025-07-20 16:40:53.404087,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Over 1375.5,0.010699999999999932,0.5455,0.5348
 2025-07-20 17:34:04.087988,Running Backs - NFL Rushing TD's 2025-26 - Josh Jacobs Regular Season Total Rushing TD's,Under 9.5,-0.010099999999999998,0.5455,0.5556
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Jose Earthquakes,-0.010100000000000001,0.0244,0.0345
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Dejan Joveljic,-0.0102,0.0667,0.0769
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Orlando City,-0.0102,0.0667,0.0769
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.0102,0.0667,0.0769
-2025-07-20 13:00:54.744322,UEFA European Championship Women - UEFA European Championship Women 2025 - To Reach the Final,England (W),-0.010500000000000065,0.8077,0.8182
-2025-07-20 18:44:54.763308,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Under 7.5,-0.01100000000000001,0.5238,0.5348
-2025-07-20 13:00:57.994347,Scores - Final Round Scores - Matt Fitzpatrick - Final Round Scores,Under 69.5,-0.01100000000000001,0.5238,0.5348
-2025-07-20 16:40:53.404087,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Under 1375.5,-0.01100000000000001,0.5238,0.5348
+2025-07-20 17:34:04.070990,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Under 10.5,-0.010099999999999998,0.5455,0.5556
 2025-07-20 17:34:04.084509,Running Backs - NFL Rushing TD's 2025-26 - Jonathan Taylor Regular Season Total Rushing TD's,Over 9.5,-0.01100000000000001,0.5238,0.5348
-2025-07-20 13:00:54.826212,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,-0.011099999999999999,0.1,0.1111
-2025-07-20 13:00:54.813309,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Ahoueke Denkey,-0.011199999999999995,0.0476,0.0588
+2025-07-20 18:44:54.763308,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Under 7.5,-0.01100000000000001,0.5238,0.5348
+2025-07-20 16:40:53.404087,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Under 1375.5,-0.01100000000000001,0.5238,0.5348
 2025-07-20 18:44:54.780655,Wide Receivers - NFL Receiving TD's 2025-26 - Stefon Diggs Regular Season Total Receiving TD's,Under 4.5,-0.0116,0.4762,0.4878
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.012899999999999995,0.1538,0.1667
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Orense,-0.014099999999999994,0.0526,0.0667
-2025-07-20 13:00:57.976682,Round Match-Ups - Final Round Match-Ups - H. Li vs C. Gotterup - Final Round Match-Ups,Chris Gotterup,-0.016100000000000003,0.5917,0.6078
-2025-07-20 13:00:54.819676,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,-0.0174,0.2326,0.25
-2025-07-20 13:00:54.822605,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Portland Timbers,-0.018200000000000004,0.0294,0.0476
-2025-07-20 13:00:54.822605,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.01820000000000002,0.1818,0.2
-2025-07-20 13:00:57.998714,Scores - Final Round Scores - Rory McIIroy - Final Round Scores,Under 68.5,-0.01880000000000004,0.5556,0.5744
 2025-07-20 17:34:03.902348,Wide Receivers - NFL Receiving TD's 2025-26 - DeVonta Smith Regular Season Total Receiving TD's,Over 5.5,-0.01880000000000004,0.5556,0.5744
-2025-07-20 13:00:57.980793,Round Match-Ups - Final Round Match-Ups - S. Scheffler vs R. McIIroy - Final Round Match-Ups,Scottie Scheffler,-0.02079999999999993,0.5348,0.5556
 2025-07-20 16:40:53.390009,Running Backs - NFL Rushing Yards 2025-26 - Bijan Robinson Regular Season Total Rushing Yards,Under 1150.5,-0.022600000000000064,0.5122,0.5348
+2025-07-20 18:44:54.792065,Wide Receivers - NFL Receiving TD's 2025-26 - Travis Hunter Regular Season Total Receiving TD's,Under 4.5,-0.022600000000000064,0.5122,0.5348
 2025-07-20 16:40:53.427913,Running Backs - NFL Rushing Yards 2025-26 - Saquon Barkley Regular Season Total Rushing Yards,Over 1450.5,-0.022600000000000064,0.5122,0.5348
 2025-07-20 15:33:59.543734,Quarterbacks - NFL Rushing Yards 2025-26 - Kyler Murray Regular Season Total Rushing Yards,Under 475.5,-0.022600000000000064,0.5122,0.5348
 2025-07-20 17:34:04.077779,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Over 13.5,-0.022600000000000064,0.5122,0.5348
 2025-07-20 17:34:04.081125,Running Backs - NFL Rushing TD's 2025-26 - Jahmyr Gibbs Regular Season Total Rushing TD's,Over 10.5,-0.022600000000000064,0.5122,0.5348
-2025-07-20 18:44:54.792065,Wide Receivers - NFL Receiving TD's 2025-26 - Travis Hunter Regular Season Total Receiving TD's,Under 4.5,-0.022600000000000064,0.5122,0.5348
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Aucas,-0.023200000000000002,0.0294,0.0526
-2025-07-20 13:00:58.003034,Scores - Final Round Scores - Haotong Li - Final Round Scores,Under 70.5,-0.023800000000000043,0.5,0.5238
-2025-07-20 13:00:54.822605,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,-0.02560000000000001,0.3077,0.3333
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Liga de Quito,-0.02779999999999999,0.2222,0.25
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Minnesota United,-0.027999999999999997,0.1538,0.1818
 2025-07-20 17:34:03.898934,Wide Receivers - NFL Receiving TD's 2025-26 - Davante Adams Regular Season Total Receiving TD's,Under 8.5,-0.028900000000000037,0.5455,0.5744
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,CD Cuenca,-0.034100000000000005,0.0909,0.125
 2025-07-20 18:44:54.770254,Wide Receivers - NFL Receiving TD's 2025-26 - Mike Evans Regular Season Total Receiving TD's,Under 7.5,-0.03480000000000005,0.5,0.5348
 2025-07-20 18:44:54.799072,Wide Receivers - NFL Receiving TD's 2025-26 - Zay Flowers Regular Season Total Receiving TD's,Under 4.5,-0.03600000000000003,0.4878,0.5238
 2025-07-20 17:34:03.888808,Wide Receivers - NFL Receiving TD's 2025-26 - CeeDee Lamb Regular Season Total Receiving TD's,Under 7.5,-0.03959999999999997,0.5348,0.5744
 2025-07-20 17:34:03.878684,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Under 7.5,-0.03959999999999997,0.5348,0.5744
-2025-07-20 13:00:54.994468,LigaPro Primera A - Ecuador LigaPro Serie A 2025 Futures - 1st Phase Winner - 1st Phase Winner,Barcelona SC,-0.044499999999999984,0.2222,0.2667
-2025-07-20 18:44:54.745962,Wide Receivers - NFL Receiving TD's 2025-26 - Garrett Wilson Regular Season Total Receiving TD's,Under 4.5,-0.045499999999999985,0.5,0.5455
 2025-07-20 18:44:54.788568,Wide Receivers - NFL Receiving TD's 2025-26 - Tetairoa McMillan Regular Season Total Receiving TD's,Under 4.5,-0.045499999999999985,0.4545,0.5
-2025-07-20 13:00:54.816730,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,-0.048100000000000004,0.1818,0.2299
+2025-07-20 18:44:54.745962,Wide Receivers - NFL Receiving TD's 2025-26 - Garrett Wilson Regular Season Total Receiving TD's,Under 4.5,-0.045499999999999985,0.5,0.5455
 2025-07-20 19:28:10.169932,Tight Ends - NFL Receiving TD's 2025-26 - Trey McBride Regular Season Total Receiving TD's,Under 4.5,-0.05860000000000004,0.4762,0.5348
 2025-07-20 18:44:54.777164,Wide Receivers - NFL Receiving TD's 2025-26 - Puka Nacua Regular Season Total Receiving TD's,Under 5.5,-0.06930000000000003,0.4545,0.5238

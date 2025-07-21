@@ -14,11 +14,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Maverick McNealy,0.031200000000000002,0.0476,0.0164
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Max Greyserman,0.0262,0.0385,0.0123
 2025-07-21 08:48:59.542159,UK - UK - Winner,Jon Rahm,0.023799999999999988,0.1667,0.1429
+2025-07-21 11:32:26.445754,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2027,0.023799999999999988,0.1667,0.1429
 2025-07-21 08:48:59.542159,UK - UK - Winner,David Puig,0.0206,0.0385,0.0179
 2025-07-21 08:48:59.542159,UK - UK - Winner,Sebastian Munoz,0.0206,0.0385,0.0179
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Trevor Megill (MIL),0.0179,0.1429,0.125
-2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Davis Thompson,0.0179,0.0278,0.0099
 2025-07-21 10:44:47.436935,Liga MX - Apertura - Liga MX Apertura 2025 - Winner,CF Pachuca,0.0179,0.1429,0.125
+2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Davis Thompson,0.0179,0.0278,0.0099
 2025-07-21 08:48:59.542159,UK - UK - Winner,Joaquin Niemann,0.016700000000000007,0.1,0.0833
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Andres Munoz (SEA),0.015400000000000025,0.4,0.3846
 2025-07-21 08:48:59.542159,UK - UK - Winner,Jinichiro Kozuma,0.014400000000000001,0.0164,0.002
@@ -28,9 +29,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 08:48:59.542159,UK - UK - Winner,Bubba Watson,0.0131,0.0164,0.0033
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Cameron Champ,0.013,0.0196,0.0066
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Alex Smalley,0.012899999999999998,0.0179,0.005
+2025-07-21 11:32:26.426561,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jacob Bridgeman,0.0114,0.0164,0.005
-2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Tringale,0.011399999999999997,0.0278,0.0164
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Jake Knapp,0.011399999999999997,0.0278,0.0164
+2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Tringale,0.011399999999999997,0.0278,0.0164
 2025-07-21 08:48:59.542159,UK - UK - Winner,Harold Varner III,0.0113,0.0179,0.0066
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Michael Thorbjornsen,0.011200000000000002,0.0244,0.0132
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Sam Burns,0.011199999999999995,0.0588,0.0476
@@ -43,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:47.650987,Jake Paul - Next Opponent - Next Fight,Jorge Masvidal,-0.011099999999999999,0.1,0.1111
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Juan Soto (NYM),-0.011199999999999995,0.0476,0.0588
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Josh Hader (HOU),-0.0116,0.4762,0.4878
+2025-07-21 11:32:26.426561,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Mark Hubbard,-0.011699999999999999,0.0079,0.0196
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Eric Cole,-0.0118,0.0099,0.0217
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Emilio Pagan,-0.012700000000000003,0.0196,0.0323
@@ -51,12 +54,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:48.349861,UK General Election - Keir Starmer Exit Date - Starmer Exit Date,2028,-0.012899999999999995,0.1538,0.1667
 2025-07-21 06:50:23.804583,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),-0.013999999999999999,0.0769,0.0909
 2025-07-21 08:48:59.542159,UK - UK - Winner,Cameron Smith,-0.014100000000000001,0.0385,0.0526
-2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Randy Rodriguez (SF),-0.01440000000000001,0.0909,0.1053
 2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Adrian Morejon,-0.01440000000000001,0.0909,0.1053
+2025-07-21 06:50:23.832002,Reliever of the Year - NL Reliever of the Year 2025 - National League Reliever of the Year,Randy Rodriguez (SF),-0.01440000000000001,0.0909,0.1053
 2025-07-21 08:48:59.542159,UK - UK - Winner,Adrian Meronk,-0.0145,0.0099,0.0244
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.01469999999999999,0.2353,0.25
 2025-07-21 05:45:36.136800,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,-0.015100000000000002,0.1667,0.1818
 2025-07-21 06:50:23.826610,Reliever of the Year - AL Reliever of the Year 2025 - American League Reliever of the Year,Jhoan Duran (MIN),-0.015300000000000001,0.0323,0.0476
+2025-07-21 11:32:26.435495,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Donald Trump Jr.,-0.015300000000000001,0.0435,0.0588
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Erik Van Rooyen,-0.015499999999999998,0.0123,0.0278
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Mac Meissner,-0.0156,0.004,0.0196
 2025-07-21 06:50:23.798950,MVP - NL MVP 2025 - National League MVP,Pete Crow-Armstrong (CHC),-0.015700000000000006,0.1176,0.1333
@@ -67,6 +71,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Adam Hadwin,-0.0194,0.005,0.0244
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Cam Davis,-0.020000000000000004,0.0123,0.0323
 2025-07-21 10:44:48.311981,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2026,-0.02020000000000001,0.0909,0.1111
+2025-07-21 11:32:26.435495,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Marco Rubio,-0.0203,0.0385,0.0588
 2025-07-21 10:44:50.230211,3M Open - 3M Open - Winner,Sahith Theegala,-0.022099999999999998,0.0164,0.0385
 2025-07-21 08:48:59.542159,UK - UK - Winner,Dean Burmester,-0.023200000000000002,0.0244,0.0476
 2025-07-21 06:50:23.815752,ROY - AL ROY 2025 - American League Rookie of the Year,Jacob Wilson (ATH),-0.023799999999999988,0.4762,0.5

@@ -1,24 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-18 13:49:37.490735,World Politics - Zelensky White House Talks - Zelensky at the White House,Volodymyr Zelensky to wear a suit,0.15000000000000002,0.75,0.6
 2025-08-18 14:39:56.245976,World Politics - Zelensky White House Talks - What will Trump say during Zelensky Meeting in Oval Office on Aug 18,Suit,0.13690000000000002,0.4878,0.3509
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Nottingham Forest,0.13640000000000002,0.5,0.3636
-2025-08-18 08:46:06.761323,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Erling Haaland (Man City),0.12380000000000002,0.5238,0.4
-2025-08-18 16:44:39.679675,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
-2025-08-18 13:05:34.107921,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
+2025-08-18 11:31:05.092348,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
+2025-08-18 18:48:14.321963,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 17:36:29.295708,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
-2025-08-18 20:33:29.526249,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
+2025-08-18 16:44:39.679675,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 15:37:16.909828,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 14:39:58.555599,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 13:49:39.867633,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
-2025-08-18 11:31:05.092348,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
+2025-08-18 13:05:34.107921,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 19:30:20.586296,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
-2025-08-18 18:48:14.321963,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,James Trafford,0.11900000000000002,0.2857,0.1667
+2025-08-18 20:33:29.526249,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
+2025-08-18 21:30:39.418465,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,0.12220000000000003,0.4,0.2778
 2025-08-18 10:42:45.836874,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,AZ Alkmaar,0.11780000000000002,0.4255,0.3077
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Volendam,0.11299999999999999,0.4255,0.3125
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Sunderland,0.11260000000000003,0.4762,0.3636
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Vélez Sarsfield,0.10439999999999999,0.1429,0.0385
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,David Raya,0.09999999999999998,0.5,0.4
 2025-08-18 10:42:45.880970,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.09049999999999997,0.5556,0.4651
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lyon,0.0849,0.2667,0.1818
 2025-08-18 09:40:28.872509,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.07940000000000003,0.5238,0.4444
@@ -27,14 +23,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Monaco,0.06190000000000001,0.4255,0.3636
 2025-08-18 10:42:45.730514,Brasileirão Série A - Brazil Serie A 2025 - Winner,Palmeiras,0.055900000000000005,0.3636,0.3077
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Rory McIlroy,0.052300000000000006,0.1111,0.0588
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Wolverhampton Wanderers,0.052300000000000006,0.1111,0.0588
 2025-08-18 10:42:45.830653,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,Feyenoord,0.05070000000000002,0.4762,0.4255
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Matt Wallace,0.0506,0.0526,0.002
-2025-08-18 13:49:37.490735,World Politics - Zelensky White House Talks - Zelensky at the White House,Volodymyr Zelensky to wear a tie,0.04999999999999999,0.25,0.2
 2025-08-18 09:40:29.069085,Primera A - Colombia Primera A 2025 - Winner,Atlético Nacional,0.04999999999999999,0.25,0.2
+2025-08-18 13:49:37.490735,World Politics - Zelensky White House Talks - Zelensky at the White House,Volodymyr Zelensky to wear a tie,0.04999999999999999,0.25,0.2
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Fortuna Sittard,0.04910000000000003,0.4,0.3509
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Leeds United,0.04909999999999999,0.1667,0.1176
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Newcastle United,0.04760000000000003,0.5238,0.4762
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Rasmus Hojgaard,0.0476,0.0526,0.005
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Heracles Almelo,0.047599999999999976,0.3333,0.2857
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Rasmus Neergaard-Petersen,0.0466,0.0476,0.001
@@ -42,80 +35,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Tigre,0.045,0.0667,0.0217
 2025-08-18 09:40:29.595556,Afrobasket - Afrobasket 2025 - Outright,Angola,0.04459999999999997,0.3571,0.3125
 2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Levante,0.044399999999999995,0.4444,0.4
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Bournemouth,0.04410000000000003,0.3774,0.3333
-2025-08-18 10:42:45.827526,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.04399999999999993,0.6667,0.6227
 2025-08-18 10:42:45.730514,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,0.04399999999999993,0.6667,0.6227
+2025-08-18 10:42:45.827526,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.04399999999999993,0.6667,0.6227
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Marco Penge,0.0436,0.0476,0.004
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Lyon,0.0417,0.125,0.0833
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Chelsea,0.04139999999999999,0.4762,0.4348
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Tottenham Hotspur,0.04099999999999998,0.3077,0.2667
 2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Athletic Bilbao,0.04089999999999999,0.4255,0.3846
 2025-08-18 10:42:45.827526,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Feyenoord,0.04040000000000002,0.2222,0.1818
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Boca Juniors,0.04040000000000002,0.2222,0.1818
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,0.03950000000000001,0.25,0.2105
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Arsenal,0.037900000000000045,0.8948,0.8569
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Brighton & Hove Albion,0.0378,0.4545,0.4167
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Jordan Smith,0.036899999999999995,0.0435,0.0066
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Justin Thomas,0.036899999999999995,0.0435,0.0066
 2025-08-18 09:40:28.849360,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,0.036199999999999996,0.1538,0.1176
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Brighton & Hove Albion,0.03420000000000001,0.1111,0.0769
 2025-08-18 10:42:45.880970,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,0.03420000000000001,0.1111,0.0769
-2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Atlético Lanús,0.03420000000000001,0.1111,0.0769
 2025-08-18 10:42:45.754577,DFB Pokal - DFB Pokal 2025/26 - Winner,RB Leipzig,0.03420000000000001,0.1111,0.0769
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Manchester City,0.033400000000000096,0.9804,0.947
+2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Atlético Lanús,0.03420000000000001,0.1111,0.0769
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Barracas Central,0.0334,0.0769,0.0435
 2025-08-18 09:40:28.849360,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Villarreal,0.033299999999999996,0.1333,0.1
 2025-08-18 10:42:45.701373,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Georges Mikautadze (Lyon),0.0321,0.0909,0.0588
-2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Russell Henley,0.0312,0.0435,0.0123
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Jesper Svensson,0.0312,0.0435,0.0123
+2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Russell Henley,0.0312,0.0435,0.0123
 2025-08-18 19:30:20.696722,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Sam Beck,0.030799999999999994,0.3125,0.2817
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Crystal Palace,0.029600000000000015,0.4,0.3704
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Laurie Canter,0.029500000000000002,0.0345,0.005
 2025-08-18 09:40:28.863227,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.028800000000000048,0.5744,0.5456
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester City,0.028200000000000003,0.8948,0.8666
 2025-08-18 10:42:45.754577,DFB Pokal - DFB Pokal 2025/26 - Winner,Bayer Leverkusen,0.027999999999999997,0.1818,0.1538
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Strasbourg,0.027800000000000005,0.1111,0.0833
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Banfield,0.0275,0.0385,0.011
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Haotong Li,0.027399999999999997,0.0278,0.0004
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Los Angeles Chargers,0.0267,0.1176,0.0909
 2025-08-18 09:40:32.335107,Boxing Lines - Ahmed Reda vs Bruno Tarimo - To Win the Bout,Bruno Tarimo,0.026500000000000024,0.3774,0.3509
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,West Ham United,0.026499999999999996,0.0588,0.0323
 2025-08-18 10:42:45.830653,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,AZ Alkmaar,0.025300000000000003,0.1429,0.1176
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Jay Stansfield,0.024999999999999994,0.125,0.1
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Sepp Straka,0.024499999999999997,0.0278,0.0033
+2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Toulouse,0.0242,0.0909,0.0667
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Miami Dolphins,0.0242,0.0909,0.0667
 2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Celta de Vigo,0.0242,0.0909,0.0667
-2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Toulouse,0.0242,0.0909,0.0667
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,John Parry,0.024,0.0244,0.0004
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Marseille,0.023800000000000043,0.5238,0.5
-2025-08-18 14:39:55.942165,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,0.023799999999999988,0.1667,0.1429
 2025-08-18 10:42:45.754577,DFB Pokal - DFB Pokal 2025/26 - Winner,Borussia Dortmund,0.023799999999999988,0.1667,0.1429
+2025-08-18 14:39:55.942165,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,0.023799999999999988,0.1667,0.1429
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Unión de Santa Fe,0.023200000000000002,0.0476,0.0244
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Corey Conners,0.022799999999999997,0.0278,0.005
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Robert MacIntyre,0.022799999999999997,0.0278,0.005
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,West Ham United,0.022400000000000087,0.8,0.7776
+2025-08-18 21:30:39.536660,Boxing Lines - Ahmed Reda vs Bruno Tarimo - To Win the Bout,Ahmed Reda,0.02200000000000002,0.7143,0.6923
 2025-08-18 10:42:45.701373,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Ousmane Dembele (PSG),0.021999999999999964,0.3077,0.2857
-2025-08-18 08:46:06.767900,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Brentford,0.021999999999999964,0.3077,0.2857
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Aston Villa,0.021999999999999964,0.3077,0.2857
 2025-08-18 20:33:29.648125,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Sam Beck,0.020799999999999985,0.3333,0.3125
 2025-08-18 09:40:28.869584,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,0.0203,0.0588,0.0385
 2025-08-18 11:31:01.840426,First Division A - Belgium First Division A 2025/26 - Winner,Mechelen,0.02020000000000001,0.1111,0.0909
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Andy Sullivan,0.02,0.0244,0.0044
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Leeds United,0.019399999999999973,0.6491,0.6297
 2025-08-18 13:05:34.279381,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Sam Beck,0.019000000000000017,0.2857,0.2667
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Burnley,0.018900000000000028,0.4444,0.4255
-2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,New York Giants,0.01830000000000001,0.0952,0.0769
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,New York Jets,0.01830000000000001,0.0952,0.0769
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Tottenham Hotspur,0.01820000000000002,0.2,0.1818
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Nick Pope,0.018200000000000004,0.0476,0.0294
+2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,New York Giants,0.01830000000000001,0.0952,0.0769
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Brest,0.018200000000000004,0.0476,0.0294
 2025-08-18 15:37:16.983900,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,0.018100000000000005,0.7959,0.7778
-2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Las Vegas Raiders,0.018099999999999998,0.0769,0.0588
 2025-08-18 09:40:29.069085,Primera A - Colombia Primera A 2025 - Winner,Deportivo Cali,0.018099999999999998,0.0769,0.0588
+2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Las Vegas Raiders,0.018099999999999998,0.0769,0.0588
 2025-08-18 09:40:29.595556,Afrobasket - Afrobasket 2025 - Outright,Nigeria,0.0179,0.1429,0.125
 2025-08-18 14:39:55.942165,EuroBasket 2025 - EuroBasket 2025 - Outright,France,0.0179,0.1429,0.125
 2025-08-18 11:31:01.840426,First Division A - Belgium First Division A 2025/26 - Winner,Anderlecht,0.0179,0.1429,0.125
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Nottingham Forest,0.0179,0.1429,0.125
+2025-08-18 21:30:39.562111,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Mark Chamberlain,0.017600000000000005,0.3509,0.3333
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Joost Luiten,0.0171,0.0196,0.0025
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Godoy Cruz,0.0168,0.0385,0.0217
 2025-08-18 10:42:45.855825,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.016599999999999948,0.6,0.5834
@@ -126,75 +102,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Chicago Bears,0.015300000000000001,0.0476,0.0323
 2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Sevilla,0.015100000000000002,0.1818,0.1667
 2025-08-18 20:33:29.661885,Boxing Lines - Nikita Tszyu vs Lulzim Ismaili - To Win the Bout,Nikita Tszyu,0.015000000000000013,0.9859,0.9709
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester City,0.015000000000000013,0.8333,0.8183
 2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Espanyol,0.014900000000000004,0.0345,0.0196
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Arsenal,0.014600000000000057,0.9091,0.8945
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Atlético Tucumán,0.014499999999999999,0.0294,0.0149
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,AJ Auxerre,0.014499999999999999,0.0294,0.0149
-2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Getafe,0.014100000000000001,0.0526,0.0385
-2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Seattle Seahawks,0.014100000000000001,0.0526,0.0385
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Washington Commanders,0.014100000000000001,0.0526,0.0385
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Matz Sels,0.014099999999999998,0.0385,0.0244
+2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Seattle Seahawks,0.014100000000000001,0.0526,0.0385
+2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Getafe,0.014100000000000001,0.0526,0.0385
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Platense,0.014099999999999998,0.0385,0.0244
 2025-08-18 10:42:45.730514,Brasileirão Série A - Brazil Serie A 2025 - Winner,Bahia,0.014099999999999998,0.0385,0.0244
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Jacksonville Jaguars,0.014099999999999994,0.0667,0.0526
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester City,0.014000000000000012,0.9231,0.9091
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Brentford,0.013999999999999999,0.0909,0.0769
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Huracán,0.013899999999999996,0.125,0.1111
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Everton,0.013800000000000034,0.3774,0.3636
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Tottenham Hotspur,0.013800000000000034,0.3774,0.3636
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Liverpool,0.013699999999999934,0.6364,0.6227
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Brest,0.013,0.0196,0.0066
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Marseille,0.012799999999999978,0.2985,0.2857
 2025-08-18 09:40:29.048819,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,River Plate,0.012799999999999978,0.2985,0.2857
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Manchester City,0.012199999999999989,0.5,0.4878
 2025-08-18 15:37:17.089049,Boxing Lines - Jake Wyllie vs Youssef Dib - To Win the Bout,Jake Wyllie,0.011900000000000022,0.8333,0.8214
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Daniel Brown,0.0116,0.0152,0.0036
 2025-08-18 20:33:29.638925,Boxing Lines - Jacob Clenshaw vs Isaias Sette - To Win the Bout,Isaias Sette,0.0116,0.4878,0.4762
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Akshay Bhatia,0.0113,0.0179,0.0066
-2025-08-18 11:31:01.840426,First Division A - Belgium First Division A 2025/26 - Winner,Sint-Truiden,0.011199999999999995,0.0588,0.0476
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Bournemouth,0.011199999999999995,0.0588,0.0476
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Defensa y Justicia,0.011199999999999995,0.0588,0.0476
 2025-08-18 10:42:45.754577,DFB Pokal - DFB Pokal 2025/26 - Winner,Eintracht Frankfurt,0.011199999999999995,0.0588,0.0476
+2025-08-18 11:31:01.840426,First Division A - Belgium First Division A 2025/26 - Winner,Sint-Truiden,0.011199999999999995,0.0588,0.0476
 2025-08-18 09:40:29.048819,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Atlético Lanús,0.011199999999999995,0.0588,0.0476
-2025-08-18 10:42:45.855825,Super Lig - Turkey Super Lig 2025/26 - Winner,Besiktas,0.011099999999999999,0.1111,0.1
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Crystal Palace,0.011099999999999999,0.1111,0.1
-2025-08-18 08:46:09.878576,Boxing Lines - Jacob Clenshaw vs Isaias Sette - To Win the Bout,Isaias Sette,0.011099999999999999,0.4762,0.4651
 2025-08-18 14:39:58.704151,Boxing Lines - Jacob Clenshaw vs Isaias Sette - To Win the Bout,Isaias Sette,0.011099999999999999,0.4762,0.4651
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Liverpool,0.011099999999999999,0.9,0.8889
+2025-08-18 10:42:45.855825,Super Lig - Turkey Super Lig 2025/26 - Winner,Besiktas,0.011099999999999999,0.1111,0.1
 2025-08-18 09:40:29.048819,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,0.010899999999999993,0.1538,0.1429
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Liverpool,0.010899999999999993,0.1538,0.1429
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Nottingham Forest,0.010800000000000032,0.9524,0.9416
 2025-08-18 13:05:34.046429,NFL Specials - Male Cheerleaders - Next NFL Team to have Male Cheerleaders,Denver Broncos,0.010700000000000001,0.0385,0.0278
 2025-08-18 15:37:17.080443,Boxing Lines - Nikita Tszyu vs Lulzim Ismaili - To Win the Bout,Lulzim Ismaili,0.0102,0.0769,0.0667
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Nottingham Forest,0.0102,0.0769,0.0667
 2025-08-18 20:33:29.634354,Boxing Lines - Blair Geraghty vs Naki Saguba - To Win the Bout,Blair Geraghty,0.010199999999999987,0.9333,0.9231
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Viktor Hovland,0.010100000000000001,0.0345,0.0244
 2025-08-18 10:42:45.841588,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,0.010099999999999998,0.4545,0.4444
 2025-08-18 10:42:45.701373,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Breel Embolo (Monaco),-0.010100000000000001,0.0244,0.0345
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Manchester City,-0.0102,0.0667,0.0769
-2025-08-18 16:44:39.920451,CPKC Women's Open - CPKC Women's Open - Winner,Minjee Lee,-0.0102,0.0667,0.0769
 2025-08-18 10:42:45.836874,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,FC Utrecht,-0.0102,0.0667,0.0769
+2025-08-18 16:44:39.920451,CPKC Women's Open - CPKC Women's Open - Winner,Minjee Lee,-0.0102,0.0667,0.0769
 2025-08-18 09:40:32.326188,Boxing Lines - Nikita Tszyu vs Lulzim Ismaili - To Win the Bout,Lulzim Ismaili,-0.0102,0.0667,0.0769
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Brighton & Hove Albion,-0.0102,0.0667,0.0769
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,-0.010499999999999982,0.2,0.2105
+2025-08-18 21:30:39.532183,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Sam Beck,-0.010699999999999987,0.3226,0.3333
+2025-08-18 09:40:29.048819,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Estudiantes de La Plata,-0.011099999999999999,0.1,0.1111
 2025-08-18 13:05:34.261740,Boxing Lines - Jacob Clenshaw vs Isaias Sette - To Win the Bout,Isaias Sette,-0.011099999999999999,0.4651,0.4762
 2025-08-18 15:37:16.930381,AL West - AL West 2025 - AL West Winner,Seattle Mariners,-0.011099999999999999,0.4651,0.4762
-2025-08-18 09:40:29.048819,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Estudiantes de La Plata,-0.011099999999999999,0.1,0.1111
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Chelsea,-0.011199999999999988,0.9412,0.9524
-2025-08-18 09:40:28.849360,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Real Sociedad,-0.011199999999999995,0.0476,0.0588
-2025-08-18 08:46:06.761323,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Joao Pedro (Chelsea),-0.011199999999999995,0.0476,0.0588
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Ludvig Aberg,-0.011199999999999995,0.0476,0.0588
+2025-08-18 09:40:28.849360,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Real Sociedad,-0.011199999999999995,0.0476,0.0588
 2025-08-18 15:37:17.089049,Boxing Lines - Jake Wyllie vs Youssef Dib - To Win the Bout,Youssef Dib,-0.0116,0.2353,0.2469
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Ben Brereton Diaz,-0.012100000000000001,0.0123,0.0244
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,West Ham United,-0.012100000000000001,0.0123,0.0244
 2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Atlético Madrid,-0.012699999999999934,0.8333,0.846
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Manchester United,-0.012699999999999934,0.8333,0.846
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Andrew Wilson,-0.0131,0.0033,0.0164
 2025-08-18 11:31:05.358729,Tour Championship - Tour Championship - Winner,Scottie Scheffler,-0.013800000000000034,0.3636,0.3774
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,George Hirst,-0.013899999999999996,0.1111,0.125
 2025-08-18 10:42:45.701373,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Folarin Balogun (Monaco),-0.014099999999999998,0.0244,0.0385
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Aston Villa,-0.014100000000000001,0.0385,0.0526
 2025-08-18 20:33:29.661885,Boxing Lines - Nikita Tszyu vs Lulzim Ismaili - To Win the Bout,Lulzim Ismaili,-0.014399999999999996,0.0625,0.0769
 2025-08-18 10:42:45.701373,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Mika Biereth (Monaco),-0.01440000000000001,0.0909,0.1053
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Ali Al Hamadi,-0.0145,0.0099,0.0244
@@ -203,127 +156,82 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-18 10:42:45.855825,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,-0.015400000000000025,0.3846,0.4
 2025-08-18 15:37:16.983900,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",-0.015400000000000025,0.2703,0.2857
 2025-08-18 09:40:29.069085,Primera A - Colombia Primera A 2025 - Winner,Independiente Medellín,-0.015700000000000006,0.1176,0.1333
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Wolverhampton Wanderers,-0.015900000000000025,0.8667,0.8826
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,West Ham United,-0.016600000000000004,0.0667,0.0833
 2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Alavés,-0.016699999999999993,0.25,0.2667
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Manchester City,-0.016699999999999993,0.25,0.2667
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Alisson,-0.016699999999999993,0.25,0.2667
 2025-08-18 20:33:29.648125,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Brock Jarvis,-0.016700000000000048,0.7333,0.75
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Chelsea,-0.016900000000000026,0.7333,0.7502
 2025-08-18 20:33:29.638925,Boxing Lines - Jacob Clenshaw vs Isaias Sette - To Win the Bout,Jacob Clenshaw,-0.017299999999999982,0.5744,0.5917
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Gimnasia La Plata,-0.017400000000000002,0.0149,0.0323
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,San Lorenzo,-0.01759999999999999,0.1,0.1176
 2025-08-18 14:39:55.945822,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Latvia,-0.0179,0.125,0.1429
 2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Sociedad,-0.0179,0.125,0.1429
-2025-08-18 08:46:06.757480,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Emiliano Martinez,-0.018099999999999998,0.0588,0.0769
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Mihailo Ivanovic,-0.018099999999999998,0.0345,0.0526
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Conor Chaplin,-0.018200000000000004,0.0294,0.0476
 2025-08-18 09:40:29.595556,Afrobasket - Afrobasket 2025 - Outright,Ivory Coast,-0.01820000000000002,0.1818,0.2
+2025-08-18 21:30:39.562111,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Jack Rafferty,-0.018799999999999928,0.7143,0.7331
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Damion Downs,-0.0189,0.0196,0.0385
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Liverpool,-0.018900000000000028,0.9615,0.9804
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,West Ham United,-0.019000000000000017,0.2667,0.2857
 2025-08-18 09:40:28.863227,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,-0.019000000000000017,0.2667,0.2857
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Nice,-0.019099999999999992,0.0476,0.0667
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Thomas Cannon,-0.019099999999999995,0.0244,0.0435
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Yannik Paul,-0.0194,0.005,0.0244
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Fulham,-0.01980000000000004,0.75,0.7698
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester United,-0.020100000000000007,0.2299,0.25
-2025-08-18 08:46:06.767900,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Nottingham Forest,-0.02020000000000001,0.0909,0.1111
+2025-08-18 21:30:39.536660,Boxing Lines - Ahmed Reda vs Bruno Tarimo - To Win the Bout,Bruno Tarimo,-0.019500000000000017,0.3509,0.3704
 2025-08-18 09:40:29.043990,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Almería,-0.02020000000000001,0.0909,0.1111
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Sparta Rotterdam,-0.0203,0.0385,0.0588
-2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,-0.021699999999999997,0.4545,0.4762
 2025-08-18 10:42:45.841588,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Benfica,-0.021699999999999997,0.4545,0.4762
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Wolverhampton Wanderers,-0.022199999999999998,0.2,0.2222
+2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,-0.021699999999999997,0.4545,0.4762
 2025-08-18 10:42:45.841588,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,FC Porto,-0.022199999999999998,0.2,0.2222
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Tottenham Hotspur,-0.022199999999999998,0.7778,0.8
-2025-08-18 13:05:34.279381,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Brock Jarvis,-0.022199999999999998,0.7778,0.8
 2025-08-18 10:42:45.836874,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Feyenoord,-0.022199999999999998,0.7778,0.8
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Brentford,-0.022199999999999998,0.2,0.2222
+2025-08-18 13:05:34.279381,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Brock Jarvis,-0.022199999999999998,0.7778,0.8
 2025-08-18 09:40:28.863227,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.02310000000000001,0.0769,0.1
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,NEC Nijmegen,-0.023200000000000002,0.0244,0.0476
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Chelsea,-0.023599999999999954,0.8333,0.8569
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Patson Daka,-0.023899999999999998,0.0196,0.0435
+2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Adam Armstrong,-0.0242,0.0667,0.0909
 2025-08-18 11:31:01.840426,First Division A - Belgium First Division A 2025/26 - Winner,Genk,-0.0242,0.0667,0.0909
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Groningen,-0.0242,0.0667,0.0909
-2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Adam Armstrong,-0.0242,0.0667,0.0909
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Manchester United,-0.0245,0.0588,0.0833
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Nice,-0.025300000000000003,0.1176,0.1429
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Fulham,-0.02560000000000001,0.3077,0.3333
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Crystal Palace,-0.025800000000000045,0.6667,0.6925
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Chelsea,-0.026500000000000024,0.2299,0.2564
 2025-08-18 09:40:32.335107,Boxing Lines - Ahmed Reda vs Bruno Tarimo - To Win the Bout,Ahmed Reda,-0.026800000000000046,0.6875,0.7143
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Tottenham Hotspur,-0.027799999999999936,0.8667,0.8945
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Manchester United,-0.027799999999999936,0.8182,0.846
 2025-08-18 09:40:28.855449,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Celta de Vigo,-0.027800000000000005,0.0833,0.1111
 2025-08-18 09:40:29.069085,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.027999999999999997,0.1053,0.1333
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Arsenal,-0.028000000000000025,0.9524,0.9804
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Lens,-0.028199999999999996,0.0385,0.0667
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Sunderland,-0.02859999999999996,0.9615,0.9901
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Deportivo Riestra,-0.0286,0.0099,0.0385
 2025-08-18 09:40:28.869584,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,-0.028799999999999992,0.125,0.1538
-2025-08-18 08:46:06.774227,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Tottenham Hotspur,-0.029299999999999993,0.0476,0.0769
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Romain Langasque,-0.0312,0.0123,0.0435
 2025-08-18 09:40:29.595556,Afrobasket - Afrobasket 2025 - Outright,Senegal,-0.031799999999999995,0.1111,0.1429
 2025-08-18 19:30:20.696722,Boxing Lines - Brock Jarvis vs Sam Beck - To Win the Bout,Brock Jarvis,-0.03259999999999996,0.75,0.7826
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lens,-0.033299999999999996,0.1,0.1333
-2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Getafe,-0.033300000000000024,0.1667,0.2
 2025-08-18 09:40:28.872509,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.033300000000000024,0.1667,0.2
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Arsenal,-0.033300000000000024,0.1667,0.2
-2025-08-18 08:46:06.761323,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Viktor Gyökeres (Arsenal),-0.034100000000000005,0.0909,0.125
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Leeds United,-0.034100000000000005,0.0909,0.125
-2025-08-18 08:46:06.761323,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Alexander Isak (Newcastle),-0.03420000000000001,0.0769,0.1111
-2025-08-18 08:46:06.786931,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester United,-0.03480000000000005,0.5,0.5348
+2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Getafe,-0.033300000000000024,0.1667,0.2
 2025-08-18 09:40:28.872509,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.0363,0.2667,0.303
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Estudiantes de La Plata,-0.0368,0.2299,0.2667
-2025-08-18 08:46:06.777277,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Newcastle United,-0.03869999999999996,0.8182,0.8569
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Go Ahead Eagles,-0.0407,0.0769,0.1176
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Everton,-0.04079999999999995,0.6923,0.7331
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Ross Stewart,-0.04229999999999999,0.0244,0.0667
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Brentford,-0.04239999999999999,0.8667,0.9091
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Brighton & Hove Albion,-0.04409999999999992,0.6226,0.6667
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Jeong Weon Ko,-0.0451,0.0025,0.0476
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Aston Villa,-0.04620000000000002,0.1538,0.2
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Tottenham Hotspur,-0.047599999999999976,0.2857,0.3333
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Burnley,-0.047599999999999976,0.2857,0.3333
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,NAC Breda,-0.047599999999999976,0.2857,0.3333
 2025-08-18 10:42:45.833770,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,SC Telstar,-0.04830000000000001,0.5744,0.6227
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Hideki Matsuyama,-0.048799999999999996,0.0345,0.0833
 2025-08-18 10:42:45.730514,Brasileirão Série A - Brazil Serie A 2025 - Winner,Botafogo,-0.0489,0.0099,0.0588
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Brentford,-0.050000000000000044,0.75,0.8
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Newcastle United,-0.05559999999999998,0.8333,0.8889
-2025-08-18 08:46:06.761323,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Mohamed Salah (Liverpool),-0.05679999999999999,0.125,0.1818
 2025-08-18 10:42:45.730514,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,-0.058300000000000005,0.0667,0.125
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Argentinos Juniors,-0.0588,0.0588,0.1176
-2025-08-18 08:46:06.780425,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Chelsea,-0.060900000000000065,0.6,0.6609
 2025-08-18 10:42:45.827526,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Ajax,-0.0635,0.2222,0.2857
 2025-08-18 09:40:28.824657,Championship - England Championship 2025/26 - Top Goalscorer,Cameron Archer,-0.06620000000000001,0.0588,0.125
 2025-08-18 09:40:28.849360,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Atlético Madrid,-0.06640000000000001,0.6667,0.7331
 2025-08-18 09:40:28.852363,La Liga - Spain La Liga 2025/26 - To Be Relegated,Espanyol,-0.06659999999999999,0.2667,0.3333
-2025-08-18 08:46:06.790128,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Aston Villa,-0.06830000000000003,0.75,0.8183
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester United,-0.06990000000000002,0.3846,0.4545
 2025-08-18 09:40:29.051894,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Racing Club,-0.07500000000000001,0.125,0.2
 2025-08-18 10:42:45.836874,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Ajax,-0.07589999999999997,0.7701,0.846
 2025-08-18 09:40:32.378510,Tour Championship - Tour Championship - Winner,Scottie Scheffler,-0.0771,0.3774,0.4545
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Wolverhampton Wanderers,-0.08330000000000004,0.75,0.8333
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Bournemouth,-0.08529999999999993,0.6923,0.7776
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Rosario Central,-0.0871,0.0667,0.1538
-2025-08-18 08:46:06.764751,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,West Ham United,-0.09089999999999998,0.8182,0.9091
-2025-08-18 08:46:06.771064,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Sunderland,-0.09689999999999999,0.2667,0.3636
-2025-08-18 08:46:06.783729,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Aston Villa,-0.09889999999999999,0.2857,0.3846
 2025-08-18 10:42:45.830653,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,Ajax,-0.10119999999999996,0.4444,0.5456
 2025-08-18 09:40:29.054991,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Independiente,-0.1079,0.0588,0.1667
 2025-08-18 10:42:45.880970,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,-0.12120000000000003,0.3333,0.4545
 2025-08-18 10:42:45.698260,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Lille,-0.1222,0.1,0.2222
-2025-08-18 13:49:39.863814,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 13:05:34.104251,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
+2025-08-18 13:49:39.863814,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 14:39:58.552046,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 15:37:16.906201,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 16:44:39.676074,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 17:36:29.292080,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 18:48:14.318082,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
-2025-08-18 19:30:20.582794,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 20:33:29.522500,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
-2025-08-18 08:46:06.793331,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Nottingham Forest,-0.13990000000000002,0.5744,0.7143
+2025-08-18 21:30:39.414882,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
+2025-08-18 19:30:20.582794,MLB Series Prices - MLB Series Prices Aug 18 to 20 - 4 Game Series,Tie,-0.12220000000000003,0.2778,0.4
 2025-08-18 10:42:45.707730,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lille,-0.20329999999999998,0.2222,0.4255
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Thriston Lawrence,-0.2786,0.0244,0.303
 2025-08-18 13:49:40.104610,British Masters - British Masters - Winner,Niklas Norgaard,-0.6578,0.0345,0.6923

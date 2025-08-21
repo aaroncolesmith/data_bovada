@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,Inter Miami,0.254,0.4762,0.2222
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,Orlando City,0.13330000000000003,0.2,0.0667
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,Seattle Sounders,0.13329999999999997,0.3333,0.2
+2025-08-21 11:29:09.259710,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 20½,0.09999999999999998,0.6,0.5
 2025-08-20 23:30:10.469555,EuroBasket 2025 - Tournament Match-Ups - Tournament Match-Ups (Slovenia vs Spain)Team to finish higher in Eurobasket 2025. ,Spain,0.09550000000000003,0.5833,0.4878
 2025-08-21 08:40:28.817880,Round Match-Ups - 1st Round Match-Ups - V. Hovland v C. Conners - Requests,Corey Conners,0.0947,0.4651,0.3704
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,LA Galaxy,0.0774,0.125,0.0476
@@ -10,65 +11,113 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 06:54:40.950741,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.07689999999999997,0.3333,0.2564
 2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Mali,0.0766,0.1111,0.0345
 2025-08-21 08:40:28.779793,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Chris Gotterup,0.07490000000000002,0.4082,0.3333
+2025-08-21 11:29:09.255270,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Under 27½,0.06779999999999997,0.5556,0.4878
 2025-08-21 06:54:40.930907,AL East - AL East 2025 - AL East Winner,New York Yankees,0.06379999999999997,0.3077,0.2439
 2025-08-21 08:40:28.808554,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Corey Conners,0.05980000000000002,0.4444,0.3846
 2025-08-21 05:34:51.681739,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.05710000000000001,0.2,0.1429
+2025-08-21 11:29:09.242142,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Under 28½,0.05559999999999998,0.5556,0.5
+2025-08-21 11:29:09.246546,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Under 21½,0.05299999999999999,0.4878,0.4348
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Harrogate Town,0.052300000000000006,0.1111,0.0588
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Crewe Alexandra,0.05070000000000002,0.4762,0.4255
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Forest Green Rovers,0.050000000000000044,0.8,0.75
 2025-08-21 06:54:40.940842,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.04909999999999999,0.1667,0.1176
 2025-08-20 23:30:13.043077,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Nicolas Agustin Muguruza,0.0476,0.1905,0.1429
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Grimsby Town,0.044499999999999984,0.2667,0.2222
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Southend Utd,0.04409999999999997,0.2941,0.25
 2025-08-20 23:30:12.983850,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.0413,0.6491,0.6078
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Crewe Alexandra,0.04040000000000002,0.2222,0.1818
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Notts County,0.03640000000000004,0.4,0.3636
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Crewe Alexandra,0.03570000000000001,0.2857,0.25
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Forest Green Rovers,0.0348,0.3333,0.2985
 2025-08-21 06:54:40.945787,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.03410000000000002,0.9091,0.875
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Hartlepool United,0.03370000000000001,0.3846,0.3509
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Forest Green Rovers,0.033399999999999985,0.1667,0.1333
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Gillingham,0.033300000000000024,0.2,0.1667
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Southend Utd,0.031799999999999995,0.1429,0.1111
 2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Collin Morikawa,0.030399999999999983,0.5652,0.5348
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Gillingham,0.029000000000000026,0.4545,0.4255
 2025-08-21 02:14:02.894064,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Toshiya Ishii,0.027800000000000047,0.75,0.7222
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Notts County,0.02779999999999999,0.25,0.2222
 2025-08-21 06:54:41.184516,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Chris Gotterup,0.02560000000000001,0.3333,0.3077
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Chesterfield,0.025599999999999956,0.6,0.5744
 2025-08-21 10:37:24.534999,National League - England National League 2025/26 - Top Goalscorer,Mani Dieseruvwe (Rochdale),0.024999999999999994,0.125,0.1
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Notts County,0.023799999999999988,0.1667,0.1429
 2025-08-21 02:14:02.888937,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.02300000000000002,0.6721,0.6491
 2025-08-20 23:30:13.097494,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Chris Eubank Jr,0.02300000000000002,0.6721,0.6491
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Forest Green Rovers,0.02260000000000001,0.4,0.3774
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,0.022199999999999998,0.2222,0.2
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.021999999999999964,0.3077,0.2857
 2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Rochdale,0.02100000000000002,0.3846,0.3636
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Bristol Rovers,0.02020000000000001,0.1111,0.0909
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Crawley Town,0.020100000000000007,0.25,0.2299
 2025-08-21 06:54:41.004734,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Ryuya Tsugawa,0.019600000000000006,0.3226,0.303
 2025-08-21 09:34:58.668226,Michigan Team Championship - Michigan - Team Event - Winner,Legion XIII,0.019000000000000017,0.2857,0.2667
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Halifax Town,0.019000000000000017,0.2857,0.2667
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Colchester United,0.018099999999999998,0.0769,0.0588
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Crawley Town,0.0179,0.1429,0.125
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Rochdale,0.0179,0.1429,0.125
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Grimsby Town,0.017600000000000005,0.3509,0.3333
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,0.01739999999999997,0.7674,0.75
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Gillingham,0.016699999999999993,0.2667,0.25
 2025-08-21 04:37:42.017373,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.01539999999999997,0.6875,0.6721
 2025-08-21 03:17:27.036931,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.014800000000000035,0.6226,0.6078
 2025-08-21 03:17:26.951423,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Toshiya Ishii,0.014700000000000046,0.7647,0.75
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Colchester United,0.014099999999999998,0.0385,0.0244
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Barrow FC,0.013999999999999999,0.0909,0.0769
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Shrewsbury Town,0.013899999999999996,0.125,0.1111
 2025-08-21 05:34:54.710639,Boxing Lines - Jake Wyllie vs Youssef Dib - To Win the Bout,Jake Wyllie,0.0129999999999999,0.8261,0.8131
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Cheltenham Town,0.012899999999999995,0.1667,0.1538
 2025-08-21 05:34:51.681739,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.012299999999999978,0.6552,0.6429
 2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Under 69.5,0.011600000000000055,0.5238,0.5122
+2025-08-21 11:29:08.049757,League Two - England League Two 2025/26 - Winner,Notts County,0.011199999999999995,0.0588,0.0476
 2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Cameroon,0.011099999999999999,0.1111,0.1
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,0.0102,0.0769,0.0667
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Sutton United,0.0102,0.0769,0.0667
+2025-08-21 11:29:08.031803,League One - England League One 2025/26 - Top Goalscorer,Jamie Reid (Stevenage),0.0102,0.0769,0.0667
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.010099999999999998,0.4545,0.4444
-2025-08-21 03:17:27.036931,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.010099999999999998,0.4444,0.4545
 2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.010099999999999998,0.5455,0.5556
+2025-08-21 03:17:27.036931,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.010099999999999998,0.4444,0.4545
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,-0.010499999999999982,0.2,0.2105
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Bristol Rovers,-0.010499999999999982,0.2,0.2105
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
 2025-08-21 06:54:40.935884,AL West - AL West 2025 - AL West Winner,Seattle Mariners,-0.0116,0.4762,0.4878
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Notts County,-0.012100000000000001,0.0123,0.0244
 2025-08-21 08:40:28.848038,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs C. Gotterup - Tournament Match-Ups ,Chris Gotterup,-0.012199999999999989,0.5,0.5122
-2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.013999999999999999,0.0769,0.0909
+2025-08-21 11:29:08.053192,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.013999999999999999,0.0769,0.0909
+2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.013999999999999999,0.0769,0.0909
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bristol Rovers,-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Gateshead,-0.014100000000000001,0.0385,0.0526
 2025-08-21 04:37:42.017373,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,-0.01479999999999998,0.3774,0.3922
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Swindon Town,-0.015100000000000002,0.1667,0.1818
 2025-08-21 05:34:54.710639,Boxing Lines - Jake Wyllie vs Youssef Dib - To Win the Bout,Youssef Dib,-0.015400000000000025,0.241,0.2564
 2025-08-21 06:54:40.925948,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.015499999999999998,0.0123,0.0278
 2025-08-21 05:34:51.678055,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.016699999999999993,0.4,0.4167
 2025-08-21 06:54:40.930907,AL East - AL East 2025 - AL East Winner,Boston Red Sox,-0.016700000000000007,0.0833,0.1
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Notts County,-0.018200000000000004,0.0294,0.0476
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Bromley,-0.018200000000000004,0.0294,0.0476
 2025-08-21 06:54:41.184516,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.018999999999999906,0.7143,0.7333
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Salford City,-0.019000000000000017,0.2667,0.2857
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Colchester United,-0.019000000000000017,0.2667,0.2857
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,-0.019000000000000017,0.2667,0.2857
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bromley,-0.02020000000000001,0.0909,0.1111
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Salford City,-0.021699999999999997,0.4545,0.4762
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Walsall,-0.023799999999999988,0.1429,0.1667
 2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Sepp Straka,-0.023800000000000043,0.5,0.5238
 2025-08-21 06:54:41.004734,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Toshiya Ishii,-0.02440000000000009,0.7403,0.7647
-2025-08-20 23:30:13.097494,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.024500000000000022,0.3922,0.4167
 2025-08-21 02:14:02.888937,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,-0.024500000000000022,0.3922,0.4167
+2025-08-20 23:30:13.097494,Boxing Lines - Chris Eubank Jr vs Conor Benn - To Win the Bout,Conor Benn,-0.024500000000000022,0.3922,0.4167
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Swindon Town,-0.025499999999999967,0.4,0.4255
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Walsall,-0.025499999999999967,0.4,0.4255
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,York City,-0.026700000000000057,0.8824,0.9091
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,York City,-0.029799999999999938,0.6369,0.6667
+2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Salford City,-0.029899999999999982,0.2,0.2299
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Colchester United,-0.031799999999999995,0.1111,0.1429
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Gateshead,-0.0321,0.0588,0.0909
 2025-08-21 02:14:02.894064,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Ryuya Tsugawa,-0.032299999999999995,0.3125,0.3448
+2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.033300000000000024,0.1667,0.2
+2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Bromley,-0.03420000000000001,0.0769,0.1111
 2025-08-21 05:34:51.681739,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.03570000000000001,0.25,0.2857
 2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Sepp Straka,-0.035999999999999976,0.4762,0.5122
 2025-08-20 23:30:12.983850,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,-0.0378,0.4167,0.4545
@@ -79,11 +128,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Carlisle United,-0.04910000000000003,0.3509,0.4
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Carlisle United,-0.05550000000000002,0.1667,0.2222
 2025-08-21 08:40:28.808554,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Sam Burns,-0.061000000000000054,0.6,0.661
+2025-08-21 11:29:09.246546,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 21½,-0.06440000000000001,0.5652,0.6296
+2025-08-21 11:29:09.242142,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 28½,-0.06530000000000002,0.5,0.5653
 2025-08-21 06:54:40.930907,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.06829999999999992,0.7143,0.7826
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,York City,-0.06929999999999997,0.4762,0.5455
+2025-08-21 11:29:09.255270,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Over 27½,-0.07440000000000002,0.5,0.5744
 2025-08-21 08:40:28.779793,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.07790000000000008,0.6364,0.7143
 2025-08-21 06:54:40.950741,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.08140000000000003,0.7368,0.8182
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.0857,0.2,0.2857
 2025-08-21 08:40:28.817880,Round Match-Ups - 1st Round Match-Ups - V. Hovland v C. Conners - Requests,Viktor Hovland,-0.08879999999999999,0.5833,0.6721
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.09820000000000001,0.4762,0.5744
 2025-08-20 23:30:10.469555,EuroBasket 2025 - Tournament Match-Ups - Tournament Match-Ups (Slovenia vs Spain)Team to finish higher in Eurobasket 2025. ,Slovenia,-0.09999999999999998,0.5,0.6
+2025-08-21 11:29:09.259710,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 20½,-0.11070000000000002,0.4545,0.5652

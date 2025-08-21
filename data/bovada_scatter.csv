@@ -43,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Southend Utd,0.031799999999999995,0.1429,0.1111
 2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Collin Morikawa,0.030399999999999983,0.5652,0.5348
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Gillingham,0.029000000000000026,0.4545,0.4255
-2025-08-21 02:14:02.894064,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Toshiya Ishii,0.027800000000000047,0.75,0.7222
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Notts County,0.02779999999999999,0.25,0.2222
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Botafogo,0.0267,0.1176,0.0909
 2025-08-21 06:54:41.184516,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Chris Gotterup,0.02560000000000001,0.3333,0.3077
@@ -52,12 +51,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,0.0242,0.0909,0.0667
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Notts County,0.023799999999999988,0.1667,0.1429
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,0.02310000000000001,0.1,0.0769
-2025-08-21 02:14:02.888937,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.02300000000000002,0.6721,0.6491
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Forest Green Rovers,0.02260000000000001,0.4,0.3774
+2025-08-21 14:36:45.914754,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama v J. Bridgeman - Requests,Jacob Bridgeman,0.02260000000000001,0.4,0.3774
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,0.022199999999999998,0.2222,0.2
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.021999999999999964,0.3077,0.2857
 2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Rochdale,0.02100000000000002,0.3846,0.3636
+2025-08-21 14:36:45.924360,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Corey Conners,0.020699999999999996,0.4651,0.4444
 2025-08-21 13:00:14.025313,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.020299999999999985,0.8077,0.7874
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Bristol Rovers,0.02020000000000001,0.1111,0.0909
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Crawley Town,0.020100000000000007,0.25,0.2299
@@ -65,12 +65,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Vélez Sarsfield,0.019099999999999992,0.0667,0.0476
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Halifax Town,0.019000000000000017,0.2857,0.2667
 2025-08-21 09:34:58.668226,Michigan Team Championship - Michigan - Team Event - Winner,Legion XIII,0.019000000000000017,0.2857,0.2667
+2025-08-21 14:36:45.751129,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Jack Rafferty,0.018999999999999906,0.7333,0.7143
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Colchester United,0.018099999999999998,0.0769,0.0588
-2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Rochdale,0.0179,0.1429,0.125
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Crawley Town,0.0179,0.1429,0.125
+2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Rochdale,0.0179,0.1429,0.125
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Grimsby Town,0.017600000000000005,0.3509,0.3333
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Giorgian De Arrascaeta,0.017400000000000002,0.0323,0.0149
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,0.01739999999999997,0.7674,0.75
+2025-08-21 14:36:45.885028,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Chris Gotterup,0.017299999999999982,0.4255,0.4082
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Gillingham,0.016699999999999993,0.2667,0.25
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Estudiantes de La Plata,0.016600000000000004,0.0833,0.0667
 2025-08-21 04:37:42.017373,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.01539999999999997,0.6875,0.6721
@@ -83,52 +85,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Cheltenham Town,0.012899999999999995,0.1667,0.1538
 2025-08-21 05:34:51.681739,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,0.012299999999999978,0.6552,0.6429
 2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Jacob Bridgeman,0.012199999999999989,0.5,0.4878
+2025-08-21 14:36:46.195915,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Over 69.5,0.012199999999999989,0.5,0.4878
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Bruno Henrique,0.0118,0.0217,0.0099
 2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Under 69.5,0.011600000000000055,0.5238,0.5122
 2025-08-21 11:29:08.049757,League Two - England League Two 2025/26 - Winner,Notts County,0.011199999999999995,0.0588,0.0476
-2025-08-21 13:00:16.402458,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Jan Paul Rivera-Pizarro,0.011199999999999988,0.9524,0.9412
 2025-08-21 13:00:16.398277,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Yoelvis Gomez,0.011199999999999988,0.9524,0.9412
+2025-08-21 13:00:16.402458,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Jan Paul Rivera-Pizarro,0.011199999999999988,0.9524,0.9412
 2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Cameroon,0.011099999999999999,0.1111,0.1
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Palmeiras,0.010399999999999993,0.2326,0.2222
+2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Sutton United,0.0102,0.0769,0.0667
 2025-08-21 11:29:08.031803,League One - England League One 2025/26 - Top Goalscorer,Jamie Reid (Stevenage),0.0102,0.0769,0.0667
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,0.0102,0.0769,0.0667
-2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Sutton United,0.0102,0.0769,0.0667
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.010099999999999998,0.4545,0.4444
-2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Sungjae Im,-0.010099999999999998,0.5455,0.5556
-2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.010099999999999998,0.5455,0.5556
 2025-08-21 03:17:27.036931,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.010099999999999998,0.4444,0.4545
+2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.010099999999999998,0.5455,0.5556
+2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Sungjae Im,-0.010099999999999998,0.5455,0.5556
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,-0.010499999999999982,0.2,0.2105
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Bristol Rovers,-0.010499999999999982,0.2,0.2105
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
 2025-08-21 06:54:40.935884,AL West - AL West 2025 - AL West Winner,Seattle Mariners,-0.0116,0.4762,0.4878
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Notts County,-0.012100000000000001,0.0123,0.0244
 2025-08-21 08:40:28.848038,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs C. Gotterup - Tournament Match-Ups ,Chris Gotterup,-0.012199999999999989,0.5,0.5122
-2025-08-21 11:29:08.053192,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.013999999999999999,0.0769,0.0909
+2025-08-21 14:36:45.885028,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.013799999999999923,0.6226,0.6364
+2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.013999999999999999,0.0769,0.0909
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bristol Rovers,-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.013999999999999999,0.0769,0.0909
-2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.013999999999999999,0.0769,0.0909
+2025-08-21 11:29:08.053192,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Gateshead,-0.014100000000000001,0.0385,0.0526
 2025-08-21 04:37:42.017373,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,-0.01479999999999998,0.3774,0.3922
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Swindon Town,-0.015100000000000002,0.1667,0.1818
 2025-08-21 05:34:54.710639,Boxing Lines - Jake Wyllie vs Youssef Dib - To Win the Bout,Youssef Dib,-0.015400000000000025,0.241,0.2564
 2025-08-21 06:54:40.925948,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.015499999999999998,0.0123,0.0278
+2025-08-21 14:36:45.924360,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Sam Burns,-0.016699999999999937,0.5833,0.6
 2025-08-21 05:34:51.678055,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.016699999999999993,0.4,0.4167
 2025-08-21 06:54:40.930907,AL East - AL East 2025 - AL East Winner,Boston Red Sox,-0.016700000000000007,0.0833,0.1
+2025-08-21 14:36:45.914754,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama v J. Bridgeman - Requests,Hideki Matsuyama,-0.01759999999999995,0.6491,0.6667
 2025-08-21 13:00:16.398277,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Edwine Humaine Jr,-0.01759999999999999,0.1,0.1176
 2025-08-21 13:00:16.402458,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Daniel Bailey,-0.01759999999999999,0.1,0.1176
+2025-08-21 14:36:45.751129,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Mark Chamberlain,-0.017600000000000005,0.3333,0.3509
 2025-08-21 13:00:14.025313,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.018100000000000005,0.2597,0.2778
-2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Bromley,-0.018200000000000004,0.0294,0.0476
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Notts County,-0.018200000000000004,0.0294,0.0476
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Bromley,-0.018200000000000004,0.0294,0.0476
 2025-08-21 06:54:41.184516,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.018999999999999906,0.7143,0.7333
-2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,-0.019000000000000017,0.2667,0.2857
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Salford City,-0.019000000000000017,0.2667,0.2857
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,-0.019000000000000017,0.2667,0.2857
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Colchester United,-0.019000000000000017,0.2667,0.2857
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bromley,-0.02020000000000001,0.0909,0.1111
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Salford City,-0.021699999999999997,0.4545,0.4762
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Walsall,-0.023799999999999988,0.1429,0.1667
 2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Sepp Straka,-0.023800000000000043,0.5,0.5238
 2025-08-21 06:54:41.004734,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Toshiya Ishii,-0.02440000000000009,0.7403,0.7647
-2025-08-21 02:14:02.888937,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,-0.024500000000000022,0.3922,0.4167
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Walsall,-0.025499999999999967,0.4,0.4255
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Swindon Town,-0.025499999999999967,0.4,0.4255
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,York City,-0.026700000000000057,0.8824,0.9091
@@ -136,7 +142,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Salford City,-0.029899999999999982,0.2,0.2299
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Colchester United,-0.031799999999999995,0.1111,0.1429
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Gateshead,-0.0321,0.0588,0.0909
-2025-08-21 02:14:02.894064,Boxing Lines - Toshiya Ishii vs Ryuya Tsugawa - To Win the Bout,Ryuya Tsugawa,-0.032299999999999995,0.3125,0.3448
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.033300000000000024,0.1667,0.2
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Bromley,-0.03420000000000001,0.0769,0.1111
 2025-08-21 05:34:51.681739,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.03570000000000001,0.25,0.2857

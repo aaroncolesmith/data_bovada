@@ -1,5 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Senegal,0.27380000000000004,0.4167,0.1429
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,0.2545,0.4545,0.2
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,Inter Miami,0.254,0.4762,0.2222
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Jose Flaco Lopez,0.1417,0.2667,0.125
@@ -7,19 +6,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,Seattle Sounders,0.13329999999999997,0.3333,0.2
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Flamengo,0.10089999999999999,0.3509,0.25
 2025-08-21 11:29:09.259710,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Over 20½,0.09999999999999998,0.6,0.5
-2025-08-21 08:40:28.817880,Round Match-Ups - 1st Round Match-Ups - V. Hovland v C. Conners - Requests,Corey Conners,0.0947,0.4651,0.3704
 2025-08-21 13:00:14.029543,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,0.09330000000000001,0.16,0.0667
 2025-08-21 13:00:14.016096,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 28½,0.0805999999999999,0.6154,0.5348
 2025-08-21 10:37:24.231434,Leagues Cup - Leagues Cup 2025 - Winner,LA Galaxy,0.0774,0.125,0.0476
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,0.07690000000000002,0.3846,0.3077
-2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Mali,0.0766,0.1111,0.0345
-2025-08-21 08:40:28.779793,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Chris Gotterup,0.07490000000000002,0.4082,0.3333
 2025-08-21 20:34:17.188686,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Under 1375.5,0.06789999999999996,0.5917,0.5238
 2025-08-21 11:29:09.255270,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Under 27½,0.06779999999999997,0.5556,0.4878
 2025-08-21 13:00:14.011855,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 29½,0.06679999999999997,0.6667,0.5999
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Maher Carrizo,0.066,0.1429,0.0769
 2025-08-21 16:40:18.086855,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Yaxel Lendeborg (Michigan),0.0635,0.1111,0.0476
-2025-08-21 08:40:28.808554,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Corey Conners,0.05980000000000002,0.4444,0.3846
 2025-08-21 13:00:14.020300,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Over 22½,0.059799999999999964,0.6154,0.5556
 2025-08-21 16:40:20.285823,Sun Belt - Sun Belt Regular Season Wins 2025-26 - Southern Mississippi,Over 5.5,0.05689999999999995,0.5917,0.5348
 2025-08-21 11:29:09.242142,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Under 28½,0.05559999999999998,0.5556,0.5
@@ -54,11 +49,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 18:42:51.166448,Wide Receivers - NFL Receiving Yards 2025-26 - Malik Nabers Regular Season Total Receiving Yards,Over 1175.5,0.033299999999999996,0.5455,0.5122
 2025-08-21 10:37:24.531618,National League - England National League 2025/26 - Winner,Southend Utd,0.031799999999999995,0.1429,0.1111
 2025-08-21 15:34:51.652009,Scores - 1st Round Score - Justin Rose - 1st Round Score,Under 69.5,0.03179999999999994,0.5556,0.5238
-2025-08-21 18:42:51.009464,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Under 7.5,0.030399999999999983,0.5652,0.5348
+2025-08-21 21:30:29.636210,Running Backs - NFL Rushing TD's 2025-26 - Saquon Barkley Regular Season Total Rushing TD's,Under 11.5,0.03179999999999994,0.5556,0.5238
 2025-08-21 20:34:17.192350,Running Backs - NFL Rushing Yards 2025-26 - Jahmyr Gibbs Regular Season Total Rushing Yards,Over 1075.5,0.030399999999999983,0.5652,0.5348
+2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Collin Morikawa,0.030399999999999983,0.5652,0.5348
 2025-08-21 20:34:17.184990,Running Backs - NFL Rushing Yards 2025-26 - Christian McCaffrey Regular Season Total Rushing Yards,Over 950.5,0.030399999999999983,0.5652,0.5348
 2025-08-21 18:42:51.205252,Wide Receivers - NFL Receiving Yards 2025-26 - Zay Flowers Regular Season Total Receiving Yards,Over 900.5,0.030399999999999983,0.5652,0.5348
-2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Collin Morikawa,0.030399999999999983,0.5652,0.5348
+2025-08-21 18:42:51.009464,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Under 7.5,0.030399999999999983,0.5652,0.5348
 2025-08-21 16:40:18.086855,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Trey Kaufman-Renn (Purdue),0.030199999999999998,0.0625,0.0323
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Gillingham,0.029000000000000026,0.4545,0.4255
 2025-08-21 20:34:14.885587,Taylor Swift Specials - The Life of a Showgirl Album Specials - Taylor Swift holds top ten spots on the Billboard Hot 100 for the week of October 18th,No,0.028600000000000014,0.3922,0.3636
@@ -67,11 +63,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 19:27:23.557481,Winner - Vuelta a Espana 2025  - Vuelta a Espana Winner,Jonas Vingegaard,0.027800000000000047,0.7778,0.75
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Notts County,0.02779999999999999,0.25,0.2222
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Botafogo,0.0267,0.1176,0.0909
-2025-08-21 15:34:51.596140,Scores - 1st Round Score - Keegan Bradley - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
+2025-08-21 15:34:50.465956,ACC - ACC Regular Season Wins 2025-26 - Louisville,Over 8.5,0.025599999999999956,0.6,0.5744
 2025-08-21 15:34:51.619546,Scores - 1st Round Score - Maverick McNealy - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
+2025-08-21 15:34:51.596140,Scores - 1st Round Score - Keegan Bradley - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
 2025-08-21 15:34:51.661283,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 67.5,0.025599999999999956,0.6552,0.6296
 2025-08-21 15:34:51.633598,Scores - 1st Round Score - Sepp Straka - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
-2025-08-21 15:34:50.465956,ACC - ACC Regular Season Wins 2025-26 - Louisville,Over 8.5,0.025599999999999956,0.6,0.5744
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Chesterfield,0.025599999999999956,0.6,0.5744
 2025-08-21 10:37:24.534999,National League - England National League 2025/26 - Top Goalscorer,Mani Dieseruvwe (Rochdale),0.024999999999999994,0.125,0.1
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,0.0242,0.0909,0.0667
@@ -79,26 +75,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 19:27:22.189813,Wide Receivers - NFL Receiving TD's 2025-26 - Nico Collins Regular Season Total Receiving TD's,Over 7.5,0.023799999999999988,0.5,0.4762
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Notts County,0.023799999999999988,0.1667,0.1429
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,River Plate,0.02310000000000001,0.1,0.0769
-2025-08-21 20:34:16.256057,New York Giants - Regular Season Wins 2025-26 - Giants Regular Season Wins,Over 5.5,0.022600000000000064,0.5348,0.5122
-2025-08-21 15:34:51.600991,Scores - 1st Round Score - Cameron Young - 1st Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
-2025-08-21 15:34:51.656710,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,0.022600000000000064,0.6226,0.6
-2025-08-21 15:34:51.647523,Scores - 1st Round Score - J.J. Spaun - 1st Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
 2025-08-21 15:34:51.567625,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
+2025-08-21 15:34:51.600991,Scores - 1st Round Score - Cameron Young - 1st Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
+2025-08-21 15:34:51.647523,Scores - 1st Round Score - J.J. Spaun - 1st Round Score,Under 69.5,0.022600000000000064,0.6226,0.6
+2025-08-21 15:34:51.656710,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,0.022600000000000064,0.6226,0.6
+2025-08-21 20:34:16.256057,New York Giants - Regular Season Wins 2025-26 - Giants Regular Season Wins,Over 5.5,0.022600000000000064,0.5348,0.5122
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Forest Green Rovers,0.02260000000000001,0.4,0.3774
 2025-08-21 14:36:45.914754,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama v J. Bridgeman - Requests,Jacob Bridgeman,0.02260000000000001,0.4,0.3774
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Shrewsbury Town,0.022199999999999998,0.2222,0.2
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.021999999999999964,0.3077,0.2857
 2025-08-21 15:34:51.576960,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.021699999999999997,0.4762,0.4545
-2025-08-21 20:34:16.940025,Quarterbacks - NFL Rushing Yards 2025-26 - Justin Fields Regular Season Total Rushing Yards,Over 650.5,0.02169999999999994,0.5455,0.5238
 2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Hideki Matsuyama,0.02169999999999994,0.5455,0.5238
+2025-08-21 20:34:16.940025,Quarterbacks - NFL Rushing Yards 2025-26 - Justin Fields Regular Season Total Rushing Yards,Over 650.5,0.02169999999999994,0.5455,0.5238
 2025-08-21 15:34:50.260791,Wide Receivers - NFL Receiving Yards 2025-26 - A.J. Brown Regular Season Total Receiving Yards,Under 1100.5,0.02169999999999994,0.5455,0.5238
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Rochdale,0.02100000000000002,0.3846,0.3636
-2025-08-21 18:42:51.201735,Wide Receivers - NFL Receiving Yards 2025-26 - Tyreek Hill Regular Season Total Receiving Yards,Over 975.5,0.02079999999999993,0.5556,0.5348
-2025-08-21 18:42:51.176985,Wide Receivers - NFL Receiving Yards 2025-26 - Nico Collins Regular Season Total Receiving Yards,Over 1150.5,0.02079999999999993,0.5556,0.5348
-2025-08-21 18:42:51.198193,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Over 750.5,0.02079999999999993,0.5556,0.5348
-2025-08-21 15:34:50.292826,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Under 700.5,0.02079999999999993,0.5556,0.5348
 2025-08-21 18:42:51.048494,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Over 5.5,0.02079999999999993,0.5556,0.5348
+2025-08-21 18:42:51.198193,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Over 750.5,0.02079999999999993,0.5556,0.5348
+2025-08-21 18:42:51.201735,Wide Receivers - NFL Receiving Yards 2025-26 - Tyreek Hill Regular Season Total Receiving Yards,Over 975.5,0.02079999999999993,0.5556,0.5348
 2025-08-21 18:42:51.055567,Wide Receivers - NFL Receiving TD's 2025-26 - Justin Jefferson Regular Season Total Receiving TD's,Under 9.5,0.02079999999999993,0.5556,0.5348
+2025-08-21 15:34:50.292826,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Under 700.5,0.02079999999999993,0.5556,0.5348
+2025-08-21 18:42:51.176985,Wide Receivers - NFL Receiving Yards 2025-26 - Nico Collins Regular Season Total Receiving Yards,Over 1150.5,0.02079999999999993,0.5556,0.5348
 2025-08-21 14:36:45.924360,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Corey Conners,0.020699999999999996,0.4651,0.4444
 2025-08-21 16:40:18.086855,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Darrion Williams (NC State),0.0203,0.0526,0.0323
 2025-08-21 13:00:14.025313,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.020299999999999985,0.8077,0.7874
@@ -111,11 +107,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 15:34:51.155187,Regular Season Win Parlays & Requests - Requests & Parlays - Proposition,Oklahoma Over 7.5 Wins,0.01970000000000005,0.5652,0.5455
 2025-08-21 20:34:18.351055,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.019699999999999995,0.4545,0.4348
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Vélez Sarsfield,0.019099999999999992,0.0667,0.0476
-2025-08-21 09:34:58.668226,Michigan Team Championship - Michigan - Team Event - Winner,Legion XIII,0.019000000000000017,0.2857,0.2667
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Halifax Town,0.019000000000000017,0.2857,0.2667
+2025-08-21 09:34:58.668226,Michigan Team Championship - Michigan - Team Event - Winner,Legion XIII,0.019000000000000017,0.2857,0.2667
 2025-08-21 14:36:45.751129,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Jack Rafferty,0.018999999999999906,0.7333,0.7143
-2025-08-21 15:34:51.610410,Scores - 1st Round Score - Harris English - 1st Round Score,Under 69.5,0.01880000000000004,0.5744,0.5556
+2025-08-21 21:30:29.611362,Running Backs - NFL Rushing TD's 2025-26 - Ashton Jeanty Regular Season Total Rushing TD's,Over 7.5,0.01880000000000004,0.5744,0.5556
 2025-08-21 15:34:51.581799,Scores - 1st Round Score - Corey Conners - 1st Round Score,Under 69.5,0.01880000000000004,0.5744,0.5556
+2025-08-21 15:34:51.610410,Scores - 1st Round Score - Harris English - 1st Round Score,Under 69.5,0.01880000000000004,0.5744,0.5556
 2025-08-21 16:40:18.298847,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,0.01820000000000002,0.2,0.1818
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Colchester United,0.018099999999999998,0.0769,0.0588
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Crawley Town,0.0179,0.1429,0.125
@@ -134,75 +131,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Barrow FC,0.013999999999999999,0.0909,0.0769
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Shrewsbury Town,0.013899999999999996,0.125,0.1111
 2025-08-21 15:34:51.615014,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
-2025-08-21 15:34:51.591090,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-08-21 15:34:51.572324,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
+2025-08-21 15:34:51.591090,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-08-21 15:34:51.586445,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Cheltenham Town,0.012899999999999995,0.1667,0.1538
 2025-08-21 16:40:18.086855,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Ja'Kobi Gilespie (Tennessee),0.012700000000000003,0.0323,0.0196
 2025-08-21 16:40:17.883229,NCAA D1 Men Tournament Winner - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Florida,0.012600000000000007,0.0714,0.0588
-2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Jacob Bridgeman,0.012199999999999989,0.5,0.4878
-2025-08-21 20:34:15.892889,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
 2025-08-21 14:36:46.195915,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Over 69.5,0.012199999999999989,0.5,0.4878
+2025-08-21 20:34:15.892889,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.012199999999999989,0.5122,0.5
+2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Jacob Bridgeman,0.012199999999999989,0.5,0.4878
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Bruno Henrique,0.0118,0.0217,0.0099
 2025-08-21 16:40:18.086855,NCAA D1 Men Awards - John R. Wooden Award 2025-26 - John Wooden Award Winner,Aden Holloway (Alabama),0.011699999999999999,0.0196,0.0079
 2025-08-21 16:40:19.700289,Wide Receivers - NFL Receiving Yards 2025-26 - Jaxon Smith-Njigba Regular Season Total Receiving Yards,Over 1000.5,0.011600000000000055,0.5238,0.5122
-2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Under 69.5,0.011600000000000055,0.5238,0.5122
-2025-08-21 19:27:22.180206,Wide Receivers - NFL Receiving TD's 2025-26 - Marvin Harrison Jr. Regular Season Total Receiving TD's,Over 7.5,0.0116,0.4878,0.4762
+2025-08-21 21:30:29.622001,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Over 13.5,0.011600000000000055,0.5238,0.5122
+2025-08-21 21:30:29.625538,Running Backs - NFL Rushing TD's 2025-26 - Jahmyr Gibbs Regular Season Total Rushing TD's,Over 10.5,0.011600000000000055,0.5238,0.5122
 2025-08-21 16:40:20.159623,MWC - MWC Regular Season Wins 2025-26 - UNLV,Over 8.5,0.0116,0.4878,0.4762
+2025-08-21 19:27:22.180206,Wide Receivers - NFL Receiving TD's 2025-26 - Marvin Harrison Jr. Regular Season Total Receiving TD's,Over 7.5,0.0116,0.4878,0.4762
 2025-08-21 11:29:08.049757,League Two - England League Two 2025/26 - Winner,Notts County,0.011199999999999995,0.0588,0.0476
 2025-08-21 13:00:16.398277,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Yoelvis Gomez,0.011199999999999988,0.9524,0.9412
 2025-08-21 13:00:16.402458,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Jan Paul Rivera-Pizarro,0.011199999999999988,0.9524,0.9412
-2025-08-21 08:40:26.017643,Afrobasket - Afrobasket 2025 - Outright,Cameroon,0.011099999999999999,0.1111,0.1
-2025-08-21 18:42:49.820245,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Liberty,0.01100000000000001,0.5348,0.5238
-2025-08-21 15:34:50.281160,Wide Receivers - NFL Receiving Yards 2025-26 - D.J. Moore Regular Season Total Receiving Yards,Over 975.5,0.01100000000000001,0.5348,0.5238
 2025-08-21 18:42:51.191105,Wide Receivers - NFL Receiving Yards 2025-26 - Tee Higgins Regular Season Total Receiving Yards,Over 1000.5,0.01100000000000001,0.5348,0.5238
+2025-08-21 15:34:50.281160,Wide Receivers - NFL Receiving Yards 2025-26 - D.J. Moore Regular Season Total Receiving Yards,Over 975.5,0.01100000000000001,0.5348,0.5238
+2025-08-21 18:42:49.820245,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Liberty,0.01100000000000001,0.5348,0.5238
 2025-08-21 18:42:51.159354,Wide Receivers - NFL Receiving Yards 2025-26 - Justin Jefferson Regular Season Total Receiving Yards,Over 1275.5,0.01100000000000001,0.5348,0.5238
+2025-08-21 21:30:29.614890,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Over 10.5,0.01100000000000001,0.5348,0.5238
+2025-08-21 15:34:50.277314,Wide Receivers - NFL Receiving Yards 2025-26 - Courtland Sutton Regular Season Total Receiving Yards,Over 900.5,0.010699999999999932,0.5455,0.5348
+2025-08-21 20:34:17.170461,Running Backs - NFL Rushing Yards 2025-26 - Ashton Jeanty Regular Season Total Rushing Yards,Under 1100.5,0.010699999999999932,0.5455,0.5348
 2025-08-21 20:34:17.199583,Running Backs - NFL Rushing Yards 2025-26 - Jonathan Taylor Regular Season Total Rushing Yards,Under 1200.5,0.010699999999999932,0.5455,0.5348
 2025-08-21 20:34:16.932794,Quarterbacks - NFL Rushing Yards 2025-26 - Jayden Daniels Regular Season Total Rushing Yards,Over 700.5,0.010699999999999932,0.5455,0.5348
-2025-08-21 20:34:17.170461,Running Backs - NFL Rushing Yards 2025-26 - Ashton Jeanty Regular Season Total Rushing Yards,Under 1100.5,0.010699999999999932,0.5455,0.5348
-2025-08-21 15:34:50.277314,Wide Receivers - NFL Receiving Yards 2025-26 - Courtland Sutton Regular Season Total Receiving Yards,Over 900.5,0.010699999999999932,0.5455,0.5348
 2025-08-21 13:00:12.794731,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Palmeiras,0.010399999999999993,0.2326,0.2222
-2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,0.0102,0.0769,0.0667
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Sutton United,0.0102,0.0769,0.0667
 2025-08-21 11:29:08.031803,League One - England League One 2025/26 - Top Goalscorer,Jamie Reid (Stevenage),0.0102,0.0769,0.0667
-2025-08-21 16:40:19.689576,Wide Receivers - NFL Receiving Yards 2025-26 - George Pickens Regular Season Total Receiving Yards,Over 900.5,0.010099999999999998,0.5556,0.5455
+2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,0.0102,0.0769,0.0667
 2025-08-21 18:42:51.062732,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Over 7.5,0.010099999999999998,0.5556,0.5455
-2025-08-21 20:34:17.195957,Running Backs - NFL Rushing Yards 2025-26 - James Cook Regular Season Total Rushing Yards,Under 950.5,0.010099999999999998,0.5556,0.5455
-2025-08-21 20:34:17.223347,Tight Ends - NFL Receiving TD's 2025-26 - Sam LaPorta Regular Season Total Receiving TD's,Over 6.5,0.010099999999999998,0.5556,0.5455
-2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.010099999999999998,0.4545,0.4444
+2025-08-21 16:40:19.689576,Wide Receivers - NFL Receiving Yards 2025-26 - George Pickens Regular Season Total Receiving Yards,Over 900.5,0.010099999999999998,0.5556,0.5455
 2025-08-21 18:42:51.052035,Wide Receivers - NFL Receiving TD's 2025-26 - Ja'Marr Chase Regular Season Total Receiving TD's,Under 11.5,0.010099999999999998,0.5556,0.5455
+2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.010099999999999998,0.4545,0.4444
+2025-08-21 20:34:17.223347,Tight Ends - NFL Receiving TD's 2025-26 - Sam LaPorta Regular Season Total Receiving TD's,Over 6.5,0.010099999999999998,0.5556,0.5455
+2025-08-21 20:34:17.195957,Running Backs - NFL Rushing Yards 2025-26 - James Cook Regular Season Total Rushing Yards,Under 950.5,0.010099999999999998,0.5556,0.5455
 2025-08-21 16:40:19.700289,Wide Receivers - NFL Receiving Yards 2025-26 - Jaxon Smith-Njigba Regular Season Total Receiving Yards,Under 1000.5,-0.010099999999999998,0.5455,0.5556
-2025-08-21 08:40:29.065112,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.010099999999999998,0.5455,0.5556
+2025-08-21 21:30:29.625538,Running Backs - NFL Rushing TD's 2025-26 - Jahmyr Gibbs Regular Season Total Rushing TD's,Under 10.5,-0.010099999999999998,0.5455,0.5556
 2025-08-21 13:00:16.505951,Main Markets - 1st Round 2 Balls - J. Bridgeman vs S. Im - 1st Round 2 Balls,Sungjae Im,-0.010099999999999998,0.5455,0.5556
 2025-08-21 19:27:22.194416,Wide Receivers - NFL Receiving TD's 2025-26 - Puka Nacua Regular Season Total Receiving TD's,Under 5.5,-0.010099999999999998,0.4444,0.4545
-2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,-0.010499999999999982,0.2,0.2105
+2025-08-21 21:30:29.622001,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Under 13.5,-0.010099999999999998,0.5455,0.5556
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Bristol Rovers,-0.010499999999999982,0.2,0.2105
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Fleetwood Town,-0.010499999999999982,0.2,0.2105
+2025-08-21 18:42:51.191105,Wide Receivers - NFL Receiving Yards 2025-26 - Tee Higgins Regular Season Total Receiving Yards,Under 1000.5,-0.010699999999999932,0.5348,0.5455
+2025-08-21 16:40:18.298847,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Clemson,-0.010699999999999932,0.5348,0.5455
 2025-08-21 18:42:51.159354,Wide Receivers - NFL Receiving Yards 2025-26 - Justin Jefferson Regular Season Total Receiving Yards,Under 1275.5,-0.010699999999999932,0.5348,0.5455
 2025-08-21 15:34:50.281160,Wide Receivers - NFL Receiving Yards 2025-26 - D.J. Moore Regular Season Total Receiving Yards,Under 975.5,-0.010699999999999932,0.5348,0.5455
-2025-08-21 16:40:18.298847,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Clemson,-0.010699999999999932,0.5348,0.5455
-2025-08-21 18:42:51.191105,Wide Receivers - NFL Receiving Yards 2025-26 - Tee Higgins Regular Season Total Receiving Yards,Under 1000.5,-0.010699999999999932,0.5348,0.5455
-2025-08-21 20:34:16.932794,Quarterbacks - NFL Rushing Yards 2025-26 - Jayden Daniels Regular Season Total Rushing Yards,Under 700.5,-0.01100000000000001,0.5238,0.5348
-2025-08-21 20:34:17.170461,Running Backs - NFL Rushing Yards 2025-26 - Ashton Jeanty Regular Season Total Rushing Yards,Over 1100.5,-0.01100000000000001,0.5238,0.5348
-2025-08-21 15:34:50.277314,Wide Receivers - NFL Receiving Yards 2025-26 - Courtland Sutton Regular Season Total Receiving Yards,Under 900.5,-0.01100000000000001,0.5238,0.5348
+2025-08-21 21:30:29.614890,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Under 10.5,-0.010699999999999932,0.5348,0.5455
 2025-08-21 20:34:17.199583,Running Backs - NFL Rushing Yards 2025-26 - Jonathan Taylor Regular Season Total Rushing Yards,Over 1200.5,-0.01100000000000001,0.5238,0.5348
+2025-08-21 15:34:50.277314,Wide Receivers - NFL Receiving Yards 2025-26 - Courtland Sutton Regular Season Total Receiving Yards,Under 900.5,-0.01100000000000001,0.5238,0.5348
+2025-08-21 20:34:17.170461,Running Backs - NFL Rushing Yards 2025-26 - Ashton Jeanty Regular Season Total Rushing Yards,Over 1100.5,-0.01100000000000001,0.5238,0.5348
+2025-08-21 20:34:16.932794,Quarterbacks - NFL Rushing Yards 2025-26 - Jayden Daniels Regular Season Total Rushing Yards,Under 700.5,-0.01100000000000001,0.5238,0.5348
 2025-08-21 16:40:20.189320,SEC - SEC Regular Season Wins 2025-26 - Arkansas,Over 5.5,-0.011099999999999999,0.4651,0.4762
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
-2025-08-21 20:34:17.223347,Tight Ends - NFL Receiving TD's 2025-26 - Sam LaPorta Regular Season Total Receiving TD's,Under 6.5,-0.011600000000000055,0.5122,0.5238
-2025-08-21 20:34:17.195957,Running Backs - NFL Rushing Yards 2025-26 - James Cook Regular Season Total Rushing Yards,Over 950.5,-0.011600000000000055,0.5122,0.5238
-2025-08-21 18:42:51.052035,Wide Receivers - NFL Receiving TD's 2025-26 - Ja'Marr Chase Regular Season Total Receiving TD's,Over 11.5,-0.011600000000000055,0.5122,0.5238
-2025-08-21 18:42:51.062732,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Under 7.5,-0.011600000000000055,0.5122,0.5238
 2025-08-21 20:34:15.892889,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
+2025-08-21 18:42:51.062732,Wide Receivers - NFL Receiving TD's 2025-26 - Malik Nabers Regular Season Total Receiving TD's,Under 7.5,-0.011600000000000055,0.5122,0.5238
+2025-08-21 20:34:17.195957,Running Backs - NFL Rushing Yards 2025-26 - James Cook Regular Season Total Rushing Yards,Over 950.5,-0.011600000000000055,0.5122,0.5238
+2025-08-21 20:34:17.223347,Tight Ends - NFL Receiving TD's 2025-26 - Sam LaPorta Regular Season Total Receiving TD's,Under 6.5,-0.011600000000000055,0.5122,0.5238
 2025-08-21 16:40:19.689576,Wide Receivers - NFL Receiving Yards 2025-26 - George Pickens Regular Season Total Receiving Yards,Under 900.5,-0.011600000000000055,0.5122,0.5238
+2025-08-21 18:42:51.052035,Wide Receivers - NFL Receiving TD's 2025-26 - Ja'Marr Chase Regular Season Total Receiving TD's,Over 11.5,-0.011600000000000055,0.5122,0.5238
 2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Notts County,-0.012100000000000001,0.0123,0.0244
-2025-08-21 18:42:51.044954,Wide Receivers - NFL Receiving TD's 2025-26 - Garrett Wilson Regular Season Total Receiving TD's,Under 4.5,-0.012199999999999989,0.4878,0.5
-2025-08-21 08:40:28.848038,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs C. Gotterup - Tournament Match-Ups ,Chris Gotterup,-0.012199999999999989,0.5,0.5122
 2025-08-21 16:40:19.696737,Wide Receivers - NFL Receiving Yards 2025-26 - Jameson Williams Regular Season Total Receiving Yards,Under 900.5,-0.012199999999999989,0.5,0.5122
-2025-08-21 20:34:16.943636,Quarterbacks - NFL Rushing Yards 2025-26 - Kyler Murray Regular Season Total Rushing Yards,Under 475.5,-0.012199999999999989,0.4878,0.5
 2025-08-21 20:34:16.208825,Green Bay Packers - Regular Season Wins 2025-26 - Packers Regular Season Wins,Under 9.5,-0.012199999999999989,0.5,0.5122
+2025-08-21 20:34:16.943636,Quarterbacks - NFL Rushing Yards 2025-26 - Kyler Murray Regular Season Total Rushing Yards,Under 475.5,-0.012199999999999989,0.4878,0.5
+2025-08-21 18:42:51.044954,Wide Receivers - NFL Receiving TD's 2025-26 - Garrett Wilson Regular Season Total Receiving TD's,Under 4.5,-0.012199999999999989,0.4878,0.5
 2025-08-21 14:36:45.885028,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.013799999999999923,0.6226,0.6364
-2025-08-21 11:29:08.053192,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.013999999999999999,0.0769,0.0909
-2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.013999999999999999,0.0769,0.0909
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bristol Rovers,-0.013999999999999999,0.0769,0.0909
+2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.013999999999999999,0.0769,0.0909
+2025-08-21 11:29:08.053192,League Two - England League Two 2025/26 - Top Goalscorer,Alassane Jatta (Notts County),-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.013999999999999999,0.0769,0.0909
 2025-08-21 10:37:24.539555,National League - England National League 2025/26 - To Be Promoted,Gateshead,-0.014100000000000001,0.0385,0.0526
 2025-08-21 19:27:23.557481,Winner - Vuelta a Espana 2025  - Vuelta a Espana Winner,Giulio Pellizzari,-0.014499999999999999,0.0149,0.0294
@@ -210,23 +209,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 15:34:51.576960,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,-0.016100000000000003,0.5917,0.6078
 2025-08-21 14:36:45.924360,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Sam Burns,-0.016699999999999937,0.5833,0.6
 2025-08-21 16:40:18.298847,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Georgia Tech,-0.016700000000000007,0.0833,0.1
-2025-08-21 16:40:20.159623,MWC - MWC Regular Season Wins 2025-26 - UNLV,Under 8.5,-0.017299999999999982,0.5744,0.5917
 2025-08-21 19:27:22.180206,Wide Receivers - NFL Receiving TD's 2025-26 - Marvin Harrison Jr. Regular Season Total Receiving TD's,Under 7.5,-0.017299999999999982,0.5744,0.5917
+2025-08-21 16:40:20.159623,MWC - MWC Regular Season Wins 2025-26 - UNLV,Under 8.5,-0.017299999999999982,0.5744,0.5917
 2025-08-21 14:36:45.914754,Round Match-Ups - 1st Round Match-Ups - H. Matsuyama v J. Bridgeman - Requests,Hideki Matsuyama,-0.01759999999999995,0.6491,0.6667
 2025-08-21 13:00:16.398277,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Edwine Humaine Jr,-0.01759999999999999,0.1,0.1176
 2025-08-21 13:00:16.402458,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Daniel Bailey,-0.01759999999999999,0.1,0.1176
 2025-08-21 14:36:45.751129,Boxing Lines - Jack Rafferty vs Mark Chamberlain - To Win the Bout,Mark Chamberlain,-0.017600000000000005,0.3333,0.3509
 2025-08-21 19:27:23.557481,Winner - Vuelta a Espana 2025  - Vuelta a Espana Winner,Juan Ayuso,-0.0179,0.125,0.1429
 2025-08-21 13:00:14.025313,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.018100000000000005,0.2597,0.2778
-2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Bromley,-0.018200000000000004,0.0294,0.0476
 2025-08-21 11:29:08.059879,League Two - England League Two 2025/26 - To Be Relegated,Notts County,-0.018200000000000004,0.0294,0.0476
-2025-08-21 15:34:51.572324,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
-2025-08-21 15:34:51.591090,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
-2025-08-21 15:34:51.586445,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
+2025-08-21 11:29:08.063043,League Two - England League Two 2025/26 - To Finish Bottom,Bromley,-0.018200000000000004,0.0294,0.0476
 2025-08-21 15:34:51.615014,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
+2025-08-21 15:34:51.572324,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
+2025-08-21 15:34:51.586445,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
+2025-08-21 15:34:51.591090,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Barnet,-0.019000000000000017,0.2667,0.2857
-2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Colchester United,-0.019000000000000017,0.2667,0.2857
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Salford City,-0.019000000000000017,0.2667,0.2857
+2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Colchester United,-0.019000000000000017,0.2667,0.2857
 2025-08-21 18:42:51.027173,Wide Receivers - NFL Receiving TD's 2025-26 - D.J. Moore Regular Season Total Receiving TD's,Under 6.5,-0.01970000000000005,0.5455,0.5652
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Bromley,-0.02020000000000001,0.0909,0.1111
 2025-08-21 15:34:51.647523,Scores - 1st Round Score - J.J. Spaun - 1st Round Score,Over 69.5,-0.020699999999999996,0.4444,0.4651
@@ -234,27 +233,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 15:34:51.600991,Scores - 1st Round Score - Cameron Young - 1st Round Score,Over 69.5,-0.020699999999999996,0.4444,0.4651
 2025-08-21 15:34:51.656710,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 68.5,-0.020699999999999996,0.4444,0.4651
 2025-08-21 20:34:16.256057,New York Giants - Regular Season Wins 2025-26 - Giants Regular Season Wins,Under 5.5,-0.02079999999999993,0.5348,0.5556
-2025-08-21 15:34:50.260791,Wide Receivers - NFL Receiving Yards 2025-26 - A.J. Brown Regular Season Total Receiving Yards,Over 1100.5,-0.02169999999999994,0.5238,0.5455
 2025-08-21 20:34:16.940025,Quarterbacks - NFL Rushing Yards 2025-26 - Justin Fields Regular Season Total Rushing Yards,Under 650.5,-0.02169999999999994,0.5238,0.5455
+2025-08-21 15:34:50.260791,Wide Receivers - NFL Receiving Yards 2025-26 - A.J. Brown Regular Season Total Receiving Yards,Over 1100.5,-0.02169999999999994,0.5238,0.5455
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Salford City,-0.021699999999999997,0.4545,0.4762
-2025-08-21 15:34:50.292826,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Over 700.5,-0.022600000000000064,0.5122,0.5348
+2025-08-21 18:42:51.201735,Wide Receivers - NFL Receiving Yards 2025-26 - Tyreek Hill Regular Season Total Receiving Yards,Under 975.5,-0.022600000000000064,0.5122,0.5348
 2025-08-21 18:42:51.055567,Wide Receivers - NFL Receiving TD's 2025-26 - Justin Jefferson Regular Season Total Receiving TD's,Over 9.5,-0.022600000000000064,0.5122,0.5348
 2025-08-21 18:42:51.198193,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Under 750.5,-0.022600000000000064,0.5122,0.5348
 2025-08-21 18:42:51.048494,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Under 5.5,-0.022600000000000064,0.5122,0.5348
+2025-08-21 15:34:50.292826,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Over 700.5,-0.022600000000000064,0.5122,0.5348
 2025-08-21 18:42:51.176985,Wide Receivers - NFL Receiving Yards 2025-26 - Nico Collins Regular Season Total Receiving Yards,Under 1150.5,-0.022600000000000064,0.5122,0.5348
-2025-08-21 18:42:51.201735,Wide Receivers - NFL Receiving Yards 2025-26 - Tyreek Hill Regular Season Total Receiving Yards,Under 975.5,-0.022600000000000064,0.5122,0.5348
-2025-08-21 15:34:51.633598,Scores - 1st Round Score - Sepp Straka - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-08-21 15:34:51.619546,Scores - 1st Round Score - Maverick McNealy - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-08-21 15:34:51.596140,Scores - 1st Round Score - Keegan Bradley - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
+2025-08-21 15:34:51.633598,Scores - 1st Round Score - Sepp Straka - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
 2025-08-21 15:34:50.465956,ACC - ACC Regular Season Wins 2025-26 - Louisville,Under 8.5,-0.022699999999999998,0.4651,0.4878
 2025-08-21 11:29:08.066185,League Two - England League Two 2025/26 - Top 3 Finish,Walsall,-0.023799999999999988,0.1429,0.1667
 2025-08-21 20:34:18.334676,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),-0.023800000000000043,0.8095,0.8333
+2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Sepp Straka,-0.023800000000000043,0.5,0.5238
+2025-08-21 18:42:51.194637,Wide Receivers - NFL Receiving Yards 2025-26 - Tetairoa McMillan Regular Season Total Receiving Yards,Under 825.5,-0.023800000000000043,0.5,0.5238
 2025-08-21 18:42:51.037861,Wide Receivers - NFL Receiving TD's 2025-26 - DK Metcalf Regular Season Total Receiving TD's,Under 6.5,-0.023800000000000043,0.5,0.5238
 2025-08-21 18:42:51.030712,Wide Receivers - NFL Receiving TD's 2025-26 - Davante Adams Regular Season Total Receiving TD's,Over 8.5,-0.023800000000000043,0.5,0.5238
-2025-08-21 18:42:51.194637,Wide Receivers - NFL Receiving Yards 2025-26 - Tetairoa McMillan Regular Season Total Receiving Yards,Under 825.5,-0.023800000000000043,0.5,0.5238
-2025-08-21 09:34:58.333145,Round Match-Ups - 1st Round Match-Ups - S. Straka v H. Matsuyama - Requests,Sepp Straka,-0.023800000000000043,0.5,0.5238
-2025-08-21 15:34:51.610410,Scores - 1st Round Score - Harris English - 1st Round Score,Over 69.5,-0.024399999999999977,0.4878,0.5122
 2025-08-21 15:34:51.581799,Scores - 1st Round Score - Corey Conners - 1st Round Score,Over 69.5,-0.024399999999999977,0.4878,0.5122
+2025-08-21 15:34:51.610410,Scores - 1st Round Score - Harris English - 1st Round Score,Over 69.5,-0.024399999999999977,0.4878,0.5122
+2025-08-21 21:30:29.611362,Running Backs - NFL Rushing TD's 2025-26 - Ashton Jeanty Regular Season Total Rushing TD's,Under 7.5,-0.024399999999999977,0.4878,0.5122
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Walsall,-0.025499999999999967,0.4,0.4255
 2025-08-21 11:29:08.069360,League Two - England League Two 2025/26 - Top 7 Finish,Swindon Town,-0.025499999999999967,0.4,0.4255
 2025-08-21 19:27:22.189813,Wide Receivers - NFL Receiving TD's 2025-26 - Nico Collins Regular Season Total Receiving TD's,Under 7.5,-0.026499999999999968,0.5652,0.5917
@@ -269,6 +269,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 18:42:51.166448,Wide Receivers - NFL Receiving Yards 2025-26 - Malik Nabers Regular Season Total Receiving Yards,Under 1175.5,-0.03179999999999994,0.5238,0.5556
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Colchester United,-0.031799999999999995,0.1111,0.1429
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Gateshead,-0.0321,0.0588,0.0909
+2025-08-21 21:30:29.636210,Running Backs - NFL Rushing TD's 2025-26 - Saquon Barkley Regular Season Total Rushing TD's,Over 11.5,-0.033299999999999996,0.5122,0.5455
 2025-08-21 15:34:51.638246,Scores - 1st Round Score - Ben Griffin - 1st Round Score,Over 69.5,-0.033299999999999996,0.4545,0.4878
 2025-08-21 15:34:51.652009,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.033299999999999996,0.5122,0.5455
 2025-08-21 11:29:08.056729,League Two - England League Two 2025/26 - To Be Promoted,Cambridge United,-0.033300000000000024,0.1667,0.2
@@ -276,8 +277,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 20:34:14.885587,Taylor Swift Specials - The Life of a Showgirl Album Specials - Taylor Swift holds top ten spots on the Billboard Hot 100 for the week of October 18th,Yes,-0.03469999999999995,0.6875,0.7222
 2025-08-21 20:34:17.192350,Running Backs - NFL Rushing Yards 2025-26 - Jahmyr Gibbs Regular Season Total Rushing Yards,Under 1075.5,-0.03480000000000005,0.5,0.5348
 2025-08-21 18:42:51.205252,Wide Receivers - NFL Receiving Yards 2025-26 - Zay Flowers Regular Season Total Receiving Yards,Under 900.5,-0.03480000000000005,0.5,0.5348
-2025-08-21 18:42:51.009464,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Over 7.5,-0.03480000000000005,0.5,0.5348
 2025-08-21 20:34:17.184990,Running Backs - NFL Rushing Yards 2025-26 - Christian McCaffrey Regular Season Total Rushing Yards,Under 950.5,-0.03480000000000005,0.5,0.5348
+2025-08-21 18:42:51.009464,Wide Receivers - NFL Receiving TD's 2025-26 - A.J. Brown Regular Season Total Receiving TD's,Over 7.5,-0.03480000000000005,0.5,0.5348
 2025-08-21 15:34:51.624150,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Over 69.5,-0.03489999999999999,0.4651,0.5
 2025-08-21 19:27:22.216624,Wide Receivers - NFL Receiving TD's 2025-26 - Tyreek Hill Regular Season Total Receiving TD's,Under 6.5,-0.03489999999999999,0.4651,0.5
 2025-08-21 09:34:58.299470,Round Match-Ups - 1st Round Match-Ups - C. Morikawa v S. Straka - Requests,Sepp Straka,-0.035999999999999976,0.4762,0.5122
@@ -290,7 +291,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 20:34:18.340239,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Cristopher Sanchez (PHI),-0.05609999999999998,0.2564,0.3125
 2025-08-21 13:00:12.790856,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Sebastian Driussi,-0.05639999999999999,0.0345,0.0909
 2025-08-21 16:40:20.285823,Sun Belt - Sun Belt Regular Season Wins 2025-26 - Southern Mississippi,Under 5.5,-0.05860000000000004,0.4762,0.5348
-2025-08-21 08:40:28.808554,Round Match-Ups - 1st Round Match-Ups - S. Burns v C. Conners - Requests,Sam Burns,-0.061000000000000054,0.6,0.661
 2025-08-21 11:29:09.246546,Regular Season Wins - Golden State Valkyries - 2025 Regular Season Wins - Regular Season Wins,Over 21½,-0.06440000000000001,0.5652,0.6296
 2025-08-21 13:00:14.011855,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 29½,-0.06509999999999999,0.4,0.4651
 2025-08-21 11:29:09.242142,Regular Season Wins - Atlanta Dream - 2025 Regular Season Wins - Regular Season Wins,Over 28½,-0.06530000000000002,0.5,0.5653
@@ -299,11 +299,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-21 20:34:17.188686,Running Backs - NFL Rushing Yards 2025-26 - Derrick Henry Regular Season Total Rushing Yards,Over 1375.5,-0.06929999999999997,0.4762,0.5455
 2025-08-21 11:29:09.255270,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Over 27½,-0.07440000000000002,0.5,0.5744
 2025-08-21 13:00:14.020300,Regular Season Wins - Seattle Storm - 2025 Regular Season Wins - Regular Season Wins,Under 22½,-0.07739999999999997,0.4348,0.5122
-2025-08-21 08:40:28.779793,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v C. Morikawa - Requests,Collin Morikawa,-0.07790000000000008,0.6364,0.7143
 2025-08-21 16:40:17.883229,NCAA D1 Men Tournament Winner - 2026 NCAA DI Men's Basketball Tournament - National Champion - 2026,Villanova,-0.08099999999999999,0.0099,0.0909
 2025-08-21 13:00:14.029543,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.08529999999999993,0.9048,0.9901
 2025-08-21 10:37:24.546161,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.0857,0.2,0.2857
-2025-08-21 08:40:28.817880,Round Match-Ups - 1st Round Match-Ups - V. Hovland v C. Conners - Requests,Viktor Hovland,-0.08879999999999999,0.5833,0.6721
 2025-08-21 13:00:14.016096,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 28½,-0.09040000000000004,0.4444,0.5348
 2025-08-21 10:37:24.542861,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.09820000000000001,0.4762,0.5744
 2025-08-21 11:29:09.259710,Regular Season Wins - Los Angeles Sparks - 2025 Regular Season Wins - Regular Season Wins,Under 20½,-0.11070000000000002,0.4545,0.5652

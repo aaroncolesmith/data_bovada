@@ -1,6 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Minjee Lee,0.0953,0.1429,0.0476
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Matt Fitzpatrick,0.09029999999999999,0.3125,0.2222
 2025-08-22 23:29:50.845528,Afrobasket - Afrobasket 2025 - Outright,Cameroon,0.0889,0.2,0.1111
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Akie Iwai,0.0877,0.3509,0.2632
 2025-08-22 18:43:29.866273,Stage Betting - Stage 1 - Outright,Jasper Philipsen,0.08330000000000004,0.5833,0.5
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Marcel Siem,0.0585,0.1111,0.0526
 2025-08-22 15:32:27.534943,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Nicolas Agustin Muguruza,0.04849999999999999,0.1818,0.1333
@@ -8,42 +10,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Matt Wallace,0.048100000000000004,0.125,0.0769
 2025-08-22 23:29:50.451319,EuroBasket 2025 - Group Qualification - Czech Republic - Group Qualification,No - Will not qualify from group,0.04089999999999999,0.4255,0.3846
 2025-08-22 21:30:06.386555,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Jack Turner,0.04070000000000007,0.9231,0.8824
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Brooke Henderson,0.036399999999999995,0.0435,0.0071
 2025-08-22 23:29:50.518666,EuroBasket 2025 - Stage of Elimination - Czech Republic - Stage of Elimination,Groups Stage,0.03620000000000001,0.4444,0.4082
+2025-08-23 02:04:55.291335,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Nicolas Agustin Muguruza,0.033399999999999985,0.1667,0.1333
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Kazuma Kobori,0.032400000000000005,0.0476,0.0152
 2025-08-22 23:29:50.371323,EuroBasket 2025 - EuroBasket 2025 - Outright,Serbia,0.03210000000000002,0.4167,0.3846
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Brandon Stone,0.0309,0.0526,0.0217
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Andy Sullivan,0.0275,0.0385,0.011
-2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Elvis Smylie,0.0257,0.0323,0.0066
 2025-08-22 15:32:27.482287,Boxing Lines - Tayre Robert Jones vs Alexander Rios Vega - To Win the Bout,Alexander Rios Vega,0.0257,0.2667,0.241
+2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Elvis Smylie,0.0257,0.0323,0.0066
 2025-08-22 20:34:24.471853,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Edwine Humaine Jr,0.024999999999999994,0.125,0.1
+2025-08-23 02:04:55.237474,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Daniel Bailey,0.02020000000000001,0.1111,0.0909
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Alex Fitzpatrick,0.0189,0.0385,0.0196
 2025-08-22 22:33:32.073562,Boxing Lines - Tayre Robert Jones vs Alexander Rios Vega - To Win the Bout,Tayre Robert Jones,0.01430000000000009,0.8182,0.8039
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Leona Maguire,0.014100000000000001,0.0526,0.0385
 2025-08-22 18:43:29.710104,Boxing Lines - Sebastian Juarez vs Antonio Louis Hernandez - To Win the Bout,Sebastian Juarez,0.0131,0.9655,0.9524
-2025-08-22 12:59:14.106975,Main Markets - 2nd Round 2 Balls - C. Morikawa vs P. Cantlay - 2nd Round 2 Balls,Collin Morikawa,0.01100000000000001,0.5348,0.5238
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Minami Katsu,0.0113,0.0141,0.0028
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Kiradech Aphibarnrat,0.0101,0.0141,0.004
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Angel Ayora,-0.010499999999999999,0.0036,0.0141
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Matthias Schwab,-0.010700000000000001,0.0057,0.0164
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Haeran Ryu,-0.010900000000000002,0.0055,0.0164
 2025-08-22 23:29:50.845528,Afrobasket - Afrobasket 2025 - Outright,Mali,-0.011099999999999999,0.1,0.1111
 2025-08-22 18:43:29.866273,Stage Betting - Stage 1 - Outright,Ethan Vernon,-0.011099999999999999,0.1,0.1111
-2025-08-22 13:41:19.609712,Round Match-Ups - 2nd Round Match-Ups - B. Griffin v J. Thomas - Requests,Ben Griffin,-0.0116,0.4762,0.4878
-2025-08-22 12:59:14.106975,Main Markets - 2nd Round 2 Balls - C. Morikawa vs P. Cantlay - 2nd Round 2 Balls,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Rio Takeda,-0.012499999999999999,0.0071,0.0196
 2025-08-22 23:29:50.371323,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,-0.012899999999999995,0.1538,0.1667
 2025-08-22 22:33:32.073562,Boxing Lines - Tayre Robert Jones vs Alexander Rios Vega - To Win the Bout,Alexander Rios Vega,-0.01319999999999999,0.25,0.2632
 2025-08-22 18:43:29.866273,Stage Betting - Stage 1 - Outright,Casper Van Uden,-0.013899999999999996,0.1111,0.125
+2025-08-23 02:04:55.237474,Boxing Lines - Jan Paul Rivera-Pizarro vs Daniel Bailey - To Win the Bout,Jan Paul Rivera-Pizarro,-0.014100000000000001,0.9474,0.9615
 2025-08-22 18:43:29.866273,Stage Betting - Stage 1 - Outright,Mads Pedersen,-0.015100000000000002,0.1667,0.1818
 2025-08-22 18:43:29.710104,Boxing Lines - Sebastian Juarez vs Antonio Louis Hernandez - To Win the Bout,Antonio Louis Hernandez,-0.016700000000000007,0.0833,0.1
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Aaron Rai,-0.017800000000000003,0.0066,0.0244
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Gaby Lopez,-0.0181,0.0164,0.0345
 2025-08-22 20:34:24.471853,Boxing Lines - Yoelvis Gomez vs Edwine Humaine Jr - To Win the Bout,Yoelvis Gomez,-0.019100000000000006,0.9333,0.9524
 2025-08-22 18:43:29.866273,Stage Betting - Stage 1 - Outright,Jake Stewart,-0.019600000000000003,0.0149,0.0345
 2025-08-22 23:29:50.518666,EuroBasket 2025 - Stage of Elimination - Czech Republic - Stage of Elimination,Rounds of 16,-0.022600000000000064,0.6,0.6226
+2025-08-23 02:04:55.291335,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Jack Turner,-0.02310000000000001,0.9,0.9231
 2025-08-22 15:32:27.482287,Boxing Lines - Tayre Robert Jones vs Alexander Rios Vega - To Win the Bout,Tayre Robert Jones,-0.0260999999999999,0.8,0.8261
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Marco Penge,-0.026600000000000002,0.0079,0.0345
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Aphrodite Deng,-0.026600000000000002,0.0079,0.0345
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Mao Saigo,-0.0275,0.011,0.0385
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Ewen Ferguson,-0.0306,0.0079,0.0385
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Megan Khang,-0.0321,0.0588,0.0909
 2025-08-22 23:29:50.451319,EuroBasket 2025 - Group Qualification - Czech Republic - Group Qualification,Yes - Will qualify from group,-0.032299999999999995,0.6552,0.6875
 2025-08-22 23:29:50.569355,EuroBasket 2025 - Stage of Elimination - Portugal - Stage of Elimination,Groups Stage,-0.033299999999999996,0.8667,0.9
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Keita Nakajima,-0.036199999999999996,0.0164,0.0526
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Rasmus Hojgaard,-0.0384,0.0385,0.0769
 2025-08-22 15:32:27.534943,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Jack Turner,-0.04070000000000007,0.8824,0.9231
 2025-08-22 21:30:06.386555,Boxing Lines - Jack Turner vs Nicolas Agustin Muguruza - To Win the Bout,Nicolas Agustin Muguruza,-0.04849999999999999,0.1333,0.1818
+2025-08-23 02:04:55.708591,CPKC Women's Open - CPKC Women's Open - Winner,Jeeno Thitikul,-0.04999999999999999,0.2,0.25
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Alex Noren,-0.061500000000000006,0.0385,0.1
 2025-08-22 18:43:29.823549,British Masters - British Masters - Winner,Haotong Li,-0.0741,0.0435,0.1176

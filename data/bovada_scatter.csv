@@ -1,61 +1,59 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 03:19:12.341495,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.2809999999999999,0.8462,0.5652
 2025-08-25 18:53:14.113102,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Donald Trump,0.11220000000000002,0.4348,0.3226
+2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Italy,0.05550000000000002,0.2222,0.1667
 2025-08-25 18:53:17.431745,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.053100000000000036,0.4167,0.3636
 2025-08-25 19:27:38.400512,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,0.04290000000000005,0.9,0.8571
 2025-08-26 03:19:08.740893,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,0.04099999999999998,0.3077,0.2667
 2025-08-25 22:34:50.181556,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
 2025-08-25 21:30:38.913482,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
-2025-08-25 16:41:08.475312,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
 2025-08-25 20:34:16.781628,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
-2025-08-25 17:32:06.784571,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
 2025-08-25 19:27:40.705419,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
 2025-08-26 03:19:09.609360,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.033299999999999996,0.8333,0.8
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.031399999999999983,0.2667,0.2353
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.030299999999999994,0.6667,0.6364
+2025-08-26 04:38:02.148604,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Sylvain  Francisco,0.028799999999999992,0.1538,0.125
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.021999999999999964,0.3077,0.2857
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Fabio Christen,0.019600000000000003,0.0345,0.0149
 2025-08-26 04:38:02.064608,EuroBasket 2025 - EuroBasket 2025 - Outright,Serbia,0.018900000000000028,0.4444,0.4255
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Nico Denz,0.0189,0.0385,0.0196
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.01880000000000004,0.6552,0.6364
-2025-08-25 16:41:08.701488,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,David Gaudu,0.017099999999999997,0.0294,0.0123
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.016699999999999993,0.2667,0.25
+2025-08-26 05:34:53.575006,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Serbia,0.015100000000000002,0.8333,0.8182
 2025-08-25 18:53:17.424587,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
-2025-08-25 17:32:06.781031,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-08-25 20:34:16.777762,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-08-25 21:30:38.909417,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
-2025-08-25 16:41:08.471733,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-08-25 22:34:50.176016,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-08-25 23:30:55.514548,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
-2025-08-25 16:41:07.762198,Big 12 - Big 12 Regular Season Wins 2025-26 - Arizona State,Over 8.5,0.011600000000000055,0.5238,0.5122
 2025-08-25 23:30:52.764523,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.010500000000000065,0.8,0.7895
-2025-08-25 16:41:07.762198,Big 12 - Big 12 Regular Season Wins 2025-26 - Arizona State,Under 8.5,-0.010099999999999998,0.5455,0.5556
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,-0.010899999999999993,0.1429,0.1538
 2025-08-25 18:53:14.113102,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,NATO,-0.011199999999999995,0.0476,0.0588
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.012299999999999991,0.1053,0.1176
-2025-08-25 23:30:55.518185,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
 2025-08-25 18:53:17.428210,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-08-25 23:30:55.518185,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-08-26 05:34:53.575006,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Turkey,-0.013899999999999996,0.1111,0.125
 2025-08-26 03:19:08.906566,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Chelsea,-0.013899999999999996,0.1111,0.125
 2025-08-25 18:53:14.113102,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Greta Thunberg,-0.014099999999999994,0.0526,0.0667
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Los Angeles Sparks,-0.014100000000000001,0.0385,0.0526
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Mads Pedersen,-0.015400000000000025,0.3846,0.4
 2025-08-26 03:19:09.609360,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.019000000000000017,0.2667,0.2857
-2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.022199999999999998,0.7778,0.8
+2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Spain,-0.021999999999999964,0.2857,0.3077
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Ethan Vernon,-0.022199999999999998,0.1111,0.1333
+2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.022199999999999998,0.7778,0.8
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.022600000000000064,0.5122,0.5348
 2025-08-25 19:27:38.400512,Mayoral Elections - Next Mayor of New York - Winner,Eric Adams,-0.02310000000000001,0.0769,0.1
+2025-08-26 05:34:53.575006,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Czechia,-0.023200000000000002,0.0294,0.0526
 2025-08-26 03:19:08.740893,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.023799999999999988,0.1429,0.1667
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.024800000000000016,0.2105,0.2353
 2025-08-26 03:19:08.987701,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02560000000000001,0.3077,0.3333
 2025-08-25 18:53:14.113102,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Antonio Guterres,-0.0321,0.0588,0.0909
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.03420000000000001,0.0769,0.1111
 2025-08-25 19:27:40.701885,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.0393,0.3774,0.4167
+2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Greece,-0.044399999999999995,0.5556,0.6
 2025-08-25 18:53:14.113102,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Volodymyr Zelenskyy,-0.052000000000000005,0.0909,0.1429
-2025-08-25 19:27:40.708953,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
-2025-08-25 20:34:16.785536,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
-2025-08-25 21:30:38.917564,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
-2025-08-25 17:32:06.788119,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
-2025-08-25 16:41:08.478879,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
 2025-08-25 22:34:50.187821,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
+2025-08-25 21:30:38.917564,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
+2025-08-25 20:34:16.785536,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
+2025-08-25 19:27:40.708953,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Jasper Philipsen,-0.07930000000000001,0.1429,0.2222
 2025-08-26 03:19:12.341495,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.2778,0.2222,0.5

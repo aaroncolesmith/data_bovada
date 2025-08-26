@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 08:43:22.004087,Serie A - Italy Serie A 2025/26 - To Be Relegated,Pisa,0.07440000000000002,0.5744,0.5
 2025-08-26 06:47:45.339573,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.06990000000000002,0.4545,0.3846
 2025-08-26 08:43:21.966503,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,0.06840000000000002,0.2222,0.1538
-2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.06670000000000004,0.4,0.3333
 2025-08-26 08:43:22.004087,Serie A - Italy Serie A 2025/26 - To Be Relegated,Sassuolo,0.06670000000000004,0.4,0.3333
+2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.06670000000000004,0.4,0.3333
 2025-08-26 08:43:21.969721,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.06669999999999998,0.6667,0.6
 2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Mohamed Salah (Liverpool),0.06669999999999998,0.2667,0.2
 2025-08-26 08:43:24.409728,Season Props Parlays & Requests - NFL Requested Specials 2025-26 - Requested Specials,"Bills, Ravens, Chiefs & Eagles all to moke the playoffs",0.06519999999999998,0.5,0.4348
@@ -26,24 +26,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 08:43:21.966503,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Villarreal,0.04169999999999999,0.1667,0.125
 2025-08-26 03:19:08.740893,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,0.04099999999999998,0.3077,0.2667
 2025-08-25 22:34:50.181556,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
-2025-08-25 21:30:38.913482,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.0393,0.4167,0.3774
 2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Rochdale,0.03640000000000004,0.4,0.3636
 2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Canada,0.03570000000000001,0.2857,0.25
 2025-08-26 06:47:45.408976,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),0.0348,0.4348,0.4
-2025-08-26 03:19:09.609360,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.033299999999999996,0.8333,0.8
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Carlisle United,0.033299999999999996,0.8333,0.8
 2025-08-26 06:47:45.349520,NL East - NL East 2025 - NL East Winner,New York Mets,0.033299999999999996,0.1333,0.1
+2025-08-26 03:19:09.609360,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.033299999999999996,0.8333,0.8
 2025-08-26 06:47:45.403706,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.033299999999999996,0.9333,0.9
 2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Forest Green Rovers,0.03179999999999994,0.5556,0.5238
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.031399999999999983,0.2667,0.2353
-2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.030299999999999994,0.6667,0.6364
 2025-08-26 07:32:00.007248,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester United,0.030299999999999994,0.3636,0.3333
+2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.030299999999999994,0.6667,0.6364
 2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Levante,0.029000000000000026,0.4545,0.4255
 2025-08-26 04:38:02.148604,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Sylvain  Francisco,0.028799999999999992,0.1538,0.125
 2025-08-26 07:32:00.000932,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Aston Villa,0.028299999999999992,0.9231,0.8948
 2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Inter Milan,0.027800000000000047,0.7778,0.75
 2025-08-26 08:43:22.234825,National League - England National League 2025/26 - Winner,Forest Green Rovers,0.02779999999999999,0.25,0.2222
 2025-08-26 07:32:00.004021,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Chelsea,0.026499999999999968,0.6491,0.6226
+2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Las Palmas,0.023799999999999988,0.1667,0.1429
 2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Valencia,0.023799999999999988,0.1667,0.1429
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.021999999999999964,0.3077,0.2857
 2025-08-26 08:43:22.234825,National League - England National League 2025/26 - Winner,Rochdale,0.02049999999999999,0.1538,0.1333
@@ -55,15 +55,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 04:38:02.064608,EuroBasket 2025 - EuroBasket 2025 - Outright,Serbia,0.018900000000000028,0.4444,0.4255
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Nico Denz,0.0189,0.0385,0.0196
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,0.01880000000000004,0.6552,0.6364
-2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Dominican Republic,0.01820000000000002,0.2,0.1818
-2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Gateshead,0.01820000000000002,0.2,0.1818
-2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.01820000000000002,0.2,0.1818
 2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Sevilla,0.01820000000000002,0.2,0.1818
+2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Gateshead,0.01820000000000002,0.2,0.1818
+2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Dominican Republic,0.01820000000000002,0.2,0.1818
+2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.01820000000000002,0.2,0.1818
 2025-08-26 07:32:00.013590,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Manchester United,0.018199999999999994,0.8182,0.8
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,0.018199999999999994,0.8182,0.8
+2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,0.018099999999999998,0.0769,0.0588
 2025-08-26 06:47:45.344572,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.017900000000000027,0.875,0.8571
-2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Florian Wirtz (Liverpool),0.0179,0.1429,0.125
 2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Jonathan David (Juventus),0.0179,0.1429,0.125
+2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Florian Wirtz (Liverpool),0.0179,0.1429,0.125
 2025-08-26 08:43:22.762905,EuroBasket 2025 - Tournament Match-Ups - Tournament Match-Ups (Czech Republic vs Montenegro),Montenegro,0.01759999999999995,0.6667,0.6491
 2025-08-26 07:31:59.994671,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Burnley,0.016700000000000048,0.75,0.7333
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.016699999999999993,0.2667,0.25
@@ -76,55 +77,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Uruguay,0.014099999999999998,0.0435,0.0294
 2025-08-26 07:32:00.010461,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Everton,0.013999999999999999,0.0909,0.0769
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,0.013899999999999996,0.125,0.1111
-2025-08-25 21:30:38.909417,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
+2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.013899999999999996,0.125,0.1111
 2025-08-25 23:30:55.514548,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-08-25 22:34:50.176016,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
+2025-08-26 09:35:44.045577,NT PGA Championship - NT PGA Championship - Winner,Quinnton Croker,0.0131,0.0476,0.0345
 2025-08-26 08:43:22.202739,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Liverpool,0.012700000000000045,0.6491,0.6364
 2025-08-26 07:32:00.013590,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Tottenham Hotspur,0.0121,0.8788,0.8667
-2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Joao Pedro (Chelsea),0.011199999999999995,0.0588,0.0476
 2025-08-26 08:43:21.969721,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),0.011199999999999995,0.0588,0.0476
+2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Joao Pedro (Chelsea),0.011199999999999995,0.0588,0.0476
+2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Sporting Gijón,0.011199999999999995,0.0588,0.0476
 2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Osasuna,0.011199999999999995,0.0588,0.0476
 2025-08-26 07:32:00.007248,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Liverpool,0.011199999999999988,0.9524,0.9412
 2025-08-26 07:32:00.007248,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Arsenal,0.011199999999999988,0.9524,0.9412
 2025-08-26 07:31:59.994671,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Fulham,0.011099999999999999,0.1111,0.1
 2025-08-25 23:30:52.764523,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.010500000000000065,0.8,0.7895
-2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Dusan Vlahovic (Juventus),0.0102,0.0769,0.0667
-2025-08-26 08:43:21.969721,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Alexander Sorloth (Atletico Madrid),0.0102,0.0769,0.0667
+2025-08-26 09:35:44.045577,NT PGA Championship - NT PGA Championship - Winner,Jake McLeod,0.0102,0.0769,0.0667
 2025-08-26 08:43:22.189766,Premier League Futures/Specials - English Premier League 2025/26 - Top Goalscorer,Hugo Ekitike (Liverpool),0.0102,0.0769,0.0667
+2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Dusan Vlahovic (Juventus),0.0102,0.0769,0.0667
+2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,0.0102,0.0769,0.0667
+2025-08-26 08:43:21.969721,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Alexander Sorloth (Atletico Madrid),0.0102,0.0769,0.0667
 2025-08-26 07:31:59.991540,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Sunderland,0.010099999999999998,0.4545,0.4444
-2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Sutton United,-0.010100000000000001,0.0244,0.0345
 2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Braintree Town,-0.010100000000000001,0.0244,0.0345
-2025-08-26 08:43:22.238108,National League - England National League 2025/26 - Top Goalscorer,Alex Reid (Hartlepool),-0.0102,0.0667,0.0769
+2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Sutton United,-0.010100000000000001,0.0244,0.0345
 2025-08-26 08:43:22.238108,National League - England National League 2025/26 - Top Goalscorer,Devante Rodney (Rochdale),-0.0102,0.0667,0.0769
+2025-08-26 08:43:22.238108,National League - England National League 2025/26 - Top Goalscorer,Alex Reid (Hartlepool),-0.0102,0.0667,0.0769
 2025-08-26 06:47:45.387821,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Hunter Brown (HOU),-0.010700000000000001,0.0278,0.0385
-2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Moise Kean (Fiorentina),-0.010899999999999993,0.1429,0.1538
-2025-08-26 07:32:00.000932,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Liverpool,-0.010899999999999993,0.1429,0.1538
 2025-08-26 07:32:00.000932,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Arsenal,-0.010899999999999993,0.1429,0.1538
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,-0.010899999999999993,0.1429,0.1538
-2025-08-26 08:43:22.238108,National League - England National League 2025/26 - Top Goalscorer,Daniel Creaney (Solihull Moors),-0.011199999999999995,0.0476,0.0588
-2025-08-26 08:43:26.009259,Black Desert NI Legends Open - Black Desert NI Legends Open - Winner,Craig Barlow,-0.011199999999999995,0.0476,0.0588
-2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
+2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Moise Kean (Fiorentina),-0.010899999999999993,0.1429,0.1538
+2025-08-26 07:32:00.000932,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Liverpool,-0.010899999999999993,0.1429,0.1538
+2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Leganés,-0.010899999999999993,0.1429,0.1538
 2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Santiago Gimenez (AC Milan),-0.011199999999999995,0.0476,0.0588
+2025-08-26 08:43:22.238108,National League - England National League 2025/26 - Top Goalscorer,Daniel Creaney (Solihull Moors),-0.011199999999999995,0.0476,0.0588
+2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Albacete,-0.011199999999999995,0.0476,0.0588
+2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
+2025-08-26 08:43:26.009259,Black Desert NI Legends Open - Black Desert NI Legends Open - Winner,Craig Barlow,-0.011199999999999995,0.0476,0.0588
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.012299999999999991,0.1053,0.1176
 2025-08-26 07:32:00.013590,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Leeds United,-0.012899999999999995,0.1538,0.1667
 2025-08-26 07:31:59.994671,Premier League Futures/Specials - English Premier League 2025/26 - To Be Relegated,Sunderland,-0.013799999999999923,0.6226,0.6364
 2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Southend Utd,-0.013800000000000034,0.3636,0.3774
 2025-08-25 23:30:55.518185,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
-2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,-0.013899999999999996,0.1111,0.125
 2025-08-26 03:19:08.906566,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Chelsea,-0.013899999999999996,0.1111,0.125
-2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.013899999999999996,0.1111,0.125
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.013899999999999996,0.1111,0.125
 2025-08-26 05:34:53.575006,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Turkey,-0.013899999999999996,0.1111,0.125
+2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,-0.013899999999999996,0.1111,0.125
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.013899999999999996,0.1111,0.125
+2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.013899999999999996,0.1111,0.125
 2025-08-26 08:43:26.009259,Black Desert NI Legends Open - Black Desert NI Legends Open - Winner,Mikael Lundberg,-0.014099999999999994,0.0526,0.0667
 2025-08-26 08:43:22.000708,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Riccardo Orsolini (Bologna),-0.014099999999999998,0.0244,0.0385
 2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Brackley Town,-0.014100000000000001,0.0385,0.0526
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Los Angeles Sparks,-0.014100000000000001,0.0385,0.0526
 2025-08-26 08:43:26.009259,Black Desert NI Legends Open - Black Desert NI Legends Open - Winner,Scott Hend,-0.01440000000000001,0.0909,0.1053
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Truro City,-0.014499999999999999,0.0149,0.0294
-2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Bologna,-0.015100000000000002,0.1667,0.1818
-2025-08-26 07:32:00.013590,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Newcastle United,-0.015100000000000002,0.8182,0.8333
 2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Lazio,-0.015100000000000002,0.1667,0.1818
+2025-08-26 07:32:00.013590,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Newcastle United,-0.015100000000000002,0.8182,0.8333
+2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Bologna,-0.015100000000000002,0.1667,0.1818
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Mads Pedersen,-0.015400000000000025,0.3846,0.4
 2025-08-26 06:47:45.393151,ROY - AL ROY 2025 - American League Rookie of the Year,Cam Smith (HOU),-0.0159,0.0164,0.0323
 2025-08-26 08:43:26.009259,Black Desert NI Legends Open - Black Desert NI Legends Open - Winner,Peter Baker,-0.016600000000000004,0.0667,0.0833
@@ -137,31 +144,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 08:43:21.969721,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Julian Alvarez (Atletico Madrid),-0.018099999999999998,0.0588,0.0769
 2025-08-26 08:43:22.762905,EuroBasket 2025 - Tournament Match-Ups - Tournament Match-Ups (Czech Republic vs Montenegro),Czech Republic,-0.018100000000000005,0.4167,0.4348
 2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Girona,-0.018200000000000004,0.0294,0.0476
-2025-08-26 06:47:45.344572,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.01820000000000002,0.1818,0.2
+2025-08-26 07:32:00.016694,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Tottenham Hotspur,-0.01820000000000002,0.1818,0.2
 2025-08-26 08:43:22.185969,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Ederson,-0.01820000000000002,0.1818,0.2
 2025-08-26 08:43:22.234825,National League - England National League 2025/26 - Winner,Southend Utd,-0.01820000000000002,0.1818,0.2
-2025-08-26 07:32:00.016694,Premier League Futures/Specials - English Premier League 2025/26 - Bottom 10 Finish,Tottenham Hotspur,-0.01820000000000002,0.1818,0.2
+2025-08-26 06:47:45.344572,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,-0.01820000000000002,0.1818,0.2
 2025-08-26 03:19:09.609360,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.019000000000000017,0.2667,0.2857
-2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Woking,-0.019099999999999992,0.0476,0.0667
 2025-08-26 08:43:22.234825,National League - England National League 2025/26 - Winner,Hartlepool United,-0.019099999999999992,0.0476,0.0667
-2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Spain,-0.021999999999999964,0.2857,0.3077
+2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Woking,-0.019099999999999992,0.0476,0.0667
 2025-08-26 08:43:22.004087,Serie A - Italy Serie A 2025/26 - To Be Relegated,Cagliari,-0.021999999999999964,0.2857,0.3077
+2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Spain,-0.021999999999999964,0.2857,0.3077
+2025-08-26 07:32:00.010461,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,-0.022199999999999998,0.2,0.2222
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.022199999999999998,0.7778,0.8
+2025-08-26 07:32:00.004021,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,-0.022199999999999998,0.2,0.2222
 2025-08-26 07:32:00.004021,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Manchester United,-0.022199999999999998,0.2,0.2222
 2025-08-25 23:30:55.733808,Stage Betting - Stage 4 - Outright,Ethan Vernon,-0.022199999999999998,0.1111,0.1333
-2025-08-26 07:32:00.010461,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Brighton & Hove Albion,-0.022199999999999998,0.2,0.2222
-2025-08-26 07:32:00.004021,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,-0.022199999999999998,0.2,0.2222
 2025-08-26 03:19:08.991264,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.022600000000000064,0.5122,0.5348
 2025-08-26 05:34:53.575006,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Czechia,-0.023200000000000002,0.0294,0.0526
-2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Hartlepool United,-0.023799999999999988,0.1429,0.1667
 2025-08-26 03:19:08.740893,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.023799999999999988,0.1429,0.1667
+2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Hartlepool United,-0.023799999999999988,0.1429,0.1667
 2025-08-26 06:47:45.349520,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,-0.0242,0.9091,0.9333
 2025-08-26 03:19:08.994332,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,-0.024800000000000016,0.2105,0.2353
-2025-08-26 03:19:08.987701,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02560000000000001,0.3077,0.3333
 2025-08-26 07:31:59.991540,Premier League Futures/Specials - English Premier League 2025/26 - Not to be Relegated,Burnley,-0.02560000000000001,0.3077,0.3333
+2025-08-26 03:19:08.987701,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02560000000000001,0.3077,0.3333
 2025-08-26 06:47:45.382406,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.02750000000000008,0.6154,0.6429
-2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Como,-0.02779999999999999,0.2222,0.25
 2025-08-26 08:43:22.004087,Serie A - Italy Serie A 2025/26 - To Be Relegated,Parma,-0.02779999999999999,0.2222,0.25
+2025-08-26 08:43:22.007127,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Como,-0.02779999999999999,0.2222,0.25
 2025-08-26 08:43:22.185969,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Alisson,-0.02779999999999999,0.2222,0.25
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.027999999999999997,0.1538,0.1818
 2025-08-26 07:32:00.000932,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Chelsea,-0.029000000000000026,0.4255,0.4545
@@ -178,14 +185,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 05:34:53.581621,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Greece,-0.044399999999999995,0.5556,0.6
 2025-08-26 08:43:22.241687,National League - England National League 2025/26 - To Be Promoted,York City,-0.044399999999999995,0.4,0.4444
 2025-08-26 06:47:45.339573,AL West - AL West 2025 - AL West Winner,Houston Astros,-0.04459999999999997,0.6429,0.6875
-2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,York City,-0.045499999999999985,0.5,0.5455
-2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Oviedo,-0.045499999999999985,0.5,0.5455
 2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,-0.045499999999999985,0.4545,0.5
+2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Oviedo,-0.045499999999999985,0.5,0.5455
+2025-08-26 08:43:22.244900,National League - England National League 2025/26 - Top 3 Finish,York City,-0.045499999999999985,0.5,0.5455
+2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Reims,-0.047599999999999976,0.2857,0.3333
 2025-08-26 08:43:22.248085,National League - England National League 2025/26 - Top 7 Finish,York City,-0.04909999999999992,0.8333,0.8824
-2025-08-25 21:30:38.917564,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
 2025-08-25 22:34:50.187821,MLB Series Prices - MLB Series Prices Aug 25 to 28 - 4 Game Series,Tie,-0.053100000000000036,0.3636,0.4167
-2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Puerto Rico,-0.05559999999999998,0.1111,0.1667
 2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Getafe,-0.05559999999999998,0.1111,0.1667
+2025-08-26 08:43:22.982059,FIBA AmeriCup - AmeriCup Winner - Outright,Puerto Rico,-0.05559999999999998,0.1111,0.1667
 2025-08-26 08:43:22.225830,Premier League Futures/Specials - English Premier League 2025/26 - Most Assists,Bukayo Saka (Arsenal),-0.05710000000000001,0.1429,0.2
 2025-08-26 08:43:21.973046,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,-0.06190000000000001,0.3636,0.4255
 2025-08-26 08:43:21.976055,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Atlético Madrid,-0.0635,0.7143,0.7778

@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 21:30:39.456952,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Over 27½,0.02750000000000008,0.6429,0.6154
 2025-08-26 21:30:42.150246,Boxing Lines - Ty Mitchell vs Sean Hemphill - To Win the Bout,Sean Hemphill,0.02639999999999998,0.8667,0.8403
 2025-08-26 13:03:18.506942,Brasileirão Série A - Brazil Serie A 2025 - Winner,Flamengo,0.025600000000000067,0.6923,0.6667
-2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Las Palmas,0.023799999999999988,0.1667,0.1429
 2025-08-26 21:30:39.452693,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Over 27½,0.023699999999999943,0.6154,0.5917
 2025-08-26 14:35:06.548689,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Lester Martinez,0.02360000000000001,0.4082,0.3846
 2025-08-26 15:34:00.180837,NT PGA Championship - NT PGA Championship - Winner,Douglas Klein,0.023200000000000002,0.0476,0.0244
@@ -18,40 +17,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 21:30:39.439869,Regular Season Wins - Las Vegas Aces - 2025 Regular Season Wins - Regular Season Wins,Over 28½,0.020699999999999996,0.4651,0.4444
 2025-08-26 18:42:36.923000,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.02020000000000001,0.1111,0.0909
 2025-08-26 15:34:00.180837,NT PGA Championship - NT PGA Championship - Winner,Will Florimo,0.019800000000000005,0.0476,0.0278
-2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,0.018099999999999998,0.0769,0.0588
 2025-08-26 20:33:18.751638,Boxing Lines - Naoya Inoue vs Murodjon Akhmadaliev - To Win the Bout,Naoya Inoue,0.014000000000000012,0.9231,0.9091
 2025-08-26 15:33:56.384017,Space Exploration - SpaceX Starship Flight Test 10 - Chopsticks catch Super Heavy booster,Yes,0.013999999999999999,0.0909,0.0769
-2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.013899999999999996,0.125,0.1111
 2025-08-26 21:30:42.271061,Omega European Masters - 2/3 Balls - 1st Round 3 Balls - M. Fitzpatrick / R. Hojgaard / W. Clark - 1st Round 3 Balls,Wyndham Clark,0.013600000000000001,0.3077,0.2941
-2025-08-26 09:35:44.045577,NT PGA Championship - NT PGA Championship - Winner,Quinnton Croker,0.0131,0.0476,0.0345
 2025-08-26 15:33:59.996744,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.012199999999999989,0.5122,0.5
 2025-08-26 20:33:18.692019,Boxing Lines - Ty Mitchell vs Sean Hemphill - To Win the Bout,Sean Hemphill,0.011200000000000099,0.8403,0.8291
-2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Sporting Gijón,0.011199999999999995,0.0588,0.0476
 2025-08-26 13:45:10.856028,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Estudiantes de La Plata,0.011099999999999999,0.1111,0.1
 2025-08-26 14:35:06.544460,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.01090000000000002,0.8571,0.8462
 2025-08-26 13:45:14.734104,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.010899999999999993,0.1538,0.1429
-2025-08-26 09:35:44.045577,NT PGA Championship - NT PGA Championship - Winner,Jake McLeod,0.0102,0.0769,0.0667
 2025-08-26 13:03:22.477802,Omega European Masters - Omega European Masters - Winner,Alex Noren,0.0102,0.0769,0.0667
-2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,0.0102,0.0769,0.0667
 2025-08-26 13:03:22.518084,NT PGA Championship - NT PGA Championship - Winner,Kerry Mountcastle,-0.010100000000000001,0.0244,0.0345
 2025-08-26 13:03:22.518084,NT PGA Championship - NT PGA Championship - Winner,Jake McLeod,-0.0102,0.0667,0.0769
 2025-08-26 13:45:10.859210,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Argentinos Juniors,-0.0102,0.0667,0.0769
 2025-08-26 21:30:39.452693,Regular Season Wins - New York Liberty - 2025 Regular Season Wins - Regular Season Wins,Under 27½,-0.010599999999999998,0.4545,0.4651
 2025-08-26 13:03:22.518084,NT PGA Championship - NT PGA Championship - Winner,Tim Hart,-0.010700000000000001,0.0278,0.0385
 2025-08-26 20:33:18.692019,Boxing Lines - Ty Mitchell vs Sean Hemphill - To Win the Bout,Ty Mitchell,-0.010800000000000004,0.2273,0.2381
-2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Leganés,-0.010899999999999993,0.1429,0.1538
 2025-08-26 19:26:39.436079,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Anthony Sherman,-0.011099999999999999,0.1,0.1111
 2025-08-26 13:03:18.643022,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.011099999999999999,0.1,0.1111
 2025-08-26 19:26:39.436079,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Jackson Mahomes,-0.011199999999999995,0.0323,0.0435
 2025-08-26 19:26:39.436079,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Rob Gronkowski,-0.011199999999999995,0.0476,0.0588
-2025-08-26 09:35:40.133052,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Albacete,-0.011199999999999995,0.0476,0.0588
 2025-08-26 14:35:06.544460,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.011700000000000016,0.2105,0.2222
 2025-08-26 21:30:42.032932,AL Central - AL Central 2025 - AL Central Winner,Kansas City Royals,-0.012400000000000001,0.004,0.0164
 2025-08-26 13:45:10.859210,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Huracán,-0.013899999999999996,0.1111,0.125
 2025-08-26 13:45:10.859210,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Barracas Central,-0.013999999999999999,0.0769,0.0909
 2025-08-26 19:26:39.436079,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Andy Reid,-0.014099999999999994,0.0526,0.0667
-2025-08-26 13:45:10.856028,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,-0.015100000000000002,0.1667,0.1818
 2025-08-26 17:32:14.275214,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,-0.015100000000000002,0.1667,0.1818
+2025-08-26 13:45:10.856028,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,-0.015100000000000002,0.1667,0.1818
 2025-08-26 19:26:39.436079,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Chris Jones (KC),-0.016600000000000004,0.0667,0.0833
 2025-08-26 13:03:22.518084,NT PGA Championship - NT PGA Championship - Winner,Nathan Barbieri,-0.018099999999999998,0.0345,0.0526
 2025-08-26 21:30:39.456952,Regular Season Wins - Phoenix Mercury - 2025 Regular Season Wins - Regular Season Wins,Under 27½,-0.018900000000000028,0.4255,0.4444
@@ -67,7 +58,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-26 13:45:10.859210,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Boca Juniors,-0.02779999999999999,0.2222,0.25
 2025-08-26 17:32:14.275214,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Juan Ayuso,-0.027800000000000005,0.0833,0.1111
 2025-08-26 19:26:39.429321,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,No,-0.04169999999999996,0.8333,0.875
-2025-08-26 09:35:40.104123,Ligue 2 - France Ligue 2 2025/26 - Winner,Reims,-0.047599999999999976,0.2857,0.3333
 2025-08-26 15:33:59.996744,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.05019999999999991,0.5652,0.6154
 2025-08-26 13:45:10.859210,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Belgrano,-0.0538,0.005,0.0588
 2025-08-26 16:39:19.939790,Boxing Lines - Rima Ayadi vs Elif Nur Turhan - To Win the Bout,Rima Ayadi,-0.06509999999999999,0.4,0.4651

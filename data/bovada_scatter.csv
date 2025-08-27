@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-08-27 13:39:45.129990,World Politics - Samoa Legislative Assembly Election - Winner,HRPP,0.10419999999999996,0.9709,0.8667
 2025-08-27 12:58:45.201439,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the best Man,Jason Kelce,0.08650000000000002,0.9615,0.875
 2025-08-27 07:29:52.199876,FIBA AmeriCup - AmeriCup Winner - Outright,Canada,0.07789999999999997,0.3636,0.2857
 2025-08-27 07:29:54.975775,Cy Young - NL Cy Young 2025 - National League Cy Young Winner,Paul Skenes (PIT),0.05679999999999996,0.9901,0.9333
@@ -28,3 +29,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-27 04:36:13.401645,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),-0.07619999999999999,0.1905,0.2667
 2025-08-27 07:29:54.959724,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),-0.08389999999999997,0.5652,0.6491
 2025-08-27 07:29:52.199876,FIBA AmeriCup - AmeriCup Winner - Outright,Brazil,-0.0857,0.2,0.2857
+2025-08-27 13:39:45.129990,World Politics - Samoa Legislative Assembly Election - Winner,FAST,-0.1048,0.0952,0.2

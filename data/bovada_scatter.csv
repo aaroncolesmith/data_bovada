@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 02:05:31.700031,FIBA AmeriCup - AmeriCup Winner - Outright,Canada,0.02100000000000002,0.3846,0.3636
 2025-08-28 04:35:51.636190,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.015700000000000006,0.1333,0.1176
 2025-08-28 09:33:02.984464,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 10:36:42.222639,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 02:05:34.543156,Boxing Lines - Rima Ayadi vs Elif Nur Turhan - To Win the Bout,Elif Nur Turhan,0.011499999999999955,0.6667,0.6552
 2025-08-28 02:05:34.630879,Omega European Masters - Omega European Masters - Winner,Matt Fitzpatrick,0.011099999999999999,0.1111,0.1
 2025-08-28 03:45:26.930848,Boxing Lines - Rima Ayadi vs Elif Nur Turhan - To Win the Bout,Elif Nur Turhan,0.010700000000000043,0.6774,0.6667
@@ -13,8 +14,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 05:33:36.053218,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,-0.010299999999999976,0.2564,0.2667
 2025-08-28 03:45:26.977272,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.010499999999999982,0.2,0.2105
 2025-08-28 03:45:26.985681,Boxing Lines - Ivan Dychko vs Jermaine Franklin Jr - To Win the Bout,Jermaine Franklin Jr,-0.012199999999999989,0.5,0.5122
-2025-08-28 09:33:02.988153,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 05:33:36.053218,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,-0.012299999999999978,0.6429,0.6552
+2025-08-28 09:33:02.988153,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 10:36:42.226247,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 02:05:34.490719,Winning State - World Series 2025 - Winning State - Winning State,"Pennsylvania (PHI, PIT)",-0.012299999999999991,0.1053,0.1176
 2025-08-28 03:45:26.998292,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.014700000000000046,0.75,0.7647
 2025-08-28 03:45:26.930848,Boxing Lines - Rima Ayadi vs Elif Nur Turhan - To Win the Bout,Rima Ayadi,-0.015400000000000025,0.3846,0.4

@@ -4,8 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 12:59:01.450032,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Cruzeiro MG,0.10390000000000002,0.2857,0.1818
 2025-08-28 22:32:40.685474,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Lithuania,Jonas  Valanciunas,0.10300000000000009,0.8,0.697
 2025-08-28 22:32:40.674584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Czech Republic,Martin Kriz,0.09999999999999999,0.1667,0.0667
-2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Turkey,0.0889,0.2,0.1111
 2025-08-28 15:33:25.449529,NL East - NL East 2025 - NL East Winner,New York Mets,0.0889,0.2222,0.1333
+2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Turkey,0.0889,0.2,0.1111
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Simon Birgander,0.08330000000000004,0.8333,0.75
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.07789999999999997,0.3636,0.2857
 2025-08-28 12:59:01.193879,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Atlético Madrid,0.06789999999999996,0.5917,0.5238
@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 15:33:25.444447,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.04169999999999996,0.9167,0.875
 2025-08-28 12:59:01.450032,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Corinthians,0.04040000000000002,0.2222,0.1818
 2025-08-28 22:32:40.681808,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Latvia,Kristaps  Porzingis,0.03410000000000002,0.9091,0.875
-2025-08-28 15:33:25.439404,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.033299999999999996,0.4878,0.4545
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jonas Vingegaard,0.033299999999999996,0.8333,0.8
+2025-08-28 15:33:25.439404,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.033299999999999996,0.4878,0.4545
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Green Bay Packers,0.030700000000000005,0.1333,0.1026
 2025-08-28 21:29:25.822649,Big Ten - Big Ten Regular Season Wins 2025-26 - USC,Over 7.5,0.030299999999999994,0.697,0.6667
 2025-08-28 15:33:25.434327,AL East - AL East 2025 - AL East Winner,New York Yankees,0.030200000000000005,0.2041,0.1739
@@ -48,21 +48,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 15:33:25.418958,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,0.015100000000000002,0.1818,0.1667
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Petr Krivanek,0.014899999999999997,0.0625,0.0476
 2025-08-28 12:59:01.304495,EFL Cup - EFL Cup 2025/26 - Winner,Aston Villa,0.013999999999999999,0.0909,0.0769
-2025-08-28 11:27:44.260225,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Arsenal,0.013899999999999996,0.125,0.1111
 2025-08-28 22:32:41.545513,Winning Division - Super Bowl LX 2026 - Winning Division - Winning Division,AFC East,0.012899999999999995,0.1667,0.1538
-2025-08-28 16:39:27.827122,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 10:36:42.222639,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 11:27:47.737865,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 18:43:38.248549,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 12:59:04.688118,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 15:33:25.399312,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 13:41:06.367452,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 20:32:52.595760,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 21:29:26.380364,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 14:35:18.284052,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 19:26:35.827500,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 17:31:58.061996,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 16:39:27.827122,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 15:33:25.399312,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:43.675262,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 14:35:18.284052,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 13:41:06.367452,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 19:26:35.827500,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 12:59:04.688118,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Denzel Andersson,0.011199999999999995,0.0588,0.0476
 2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-08-28 12:59:04.830349,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,0.010499999999999982,0.2105,0.2
@@ -71,33 +68,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 15:33:25.424084,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Milwaukee Brewers,-0.011200000000000015,0.2062,0.2174
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Felix Gall,-0.012100000000000001,0.0123,0.0244
 2025-08-28 12:59:02.500699,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Clemson,-0.012199999999999989,0.5,0.5122
-2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 20:32:52.599382,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 22:32:43.679494,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 17:31:58.066455,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 20:32:52.599382,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 19:26:35.831358,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 18:43:38.253067,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 11:27:47.741743,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 16:39:27.831179,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 17:31:58.066455,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 15:33:25.403000,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 14:35:18.287611,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 13:41:06.371083,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 12:59:04.691703,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 10:36:42.226247,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 11:27:44.260225,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Paris Saint-Germain,-0.012899999999999995,0.1538,0.1667
-2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,-0.012899999999999995,0.125,0.1379
 2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
-2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Dallas Cowboys,-0.0131,0.0345,0.0476
+2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,-0.012899999999999995,0.125,0.1379
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,-0.0131,0.2222,0.2353
+2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Dallas Cowboys,-0.0131,0.0345,0.0476
 2025-08-28 22:32:41.545513,Winning Division - Super Bowl LX 2026 - Winning Division - Winning Division,NFC East,-0.013600000000000001,0.1905,0.2041
-2025-08-28 11:27:47.838348,Boxing Lines - Amir Anderson vs Vitor Siqueira - To Win the Bout,Amir Anderson,-0.013700000000000045,0.9722,0.9859
 2025-08-28 18:43:34.407147,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Real Madrid,-0.013899999999999996,0.1111,0.125
-2025-08-28 12:59:01.193879,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Real Betis,-0.013999999999999999,0.0769,0.0909
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Minnesota Vikings,-0.013999999999999999,0.0769,0.0909
-2025-08-28 11:27:44.260225,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayern Munich,-0.013999999999999999,0.0769,0.0909
+2025-08-28 12:59:01.193879,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Real Betis,-0.013999999999999999,0.0769,0.0909
+2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.014399999999999996,0.0625,0.0769
 2025-08-28 15:33:25.499617,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Vojtech Hruban,-0.014399999999999996,0.0625,0.0769
-2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:41.415847,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,-0.014800000000000008,0.1333,0.1481
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,-0.015100000000000002,0.1667,0.1818
 2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Under 5.5,-0.01539999999999997,0.6,0.6154

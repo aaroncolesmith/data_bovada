@@ -35,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Dennis  Schroder,0.016600000000000004,0.0833,0.0667
 2025-08-29 15:30:53.486238,AL East - AL East 2025 - AL East Winner,Boston Red Sox,0.015100000000000002,0.1818,0.1667
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,0.015100000000000002,0.1818,0.1667
+2025-08-29 19:25:38.189544,Boxing Lines - Albert Bell vs Hunter Keith - To Win the Bout,Hunter Keith,0.013999999999999999,0.0909,0.0769
 2025-08-29 18:38:08.646182,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,0.011700000000000016,0.2222,0.2105
 2025-08-29 12:57:44.096475,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.011499999999999955,0.6667,0.6552
 2025-08-29 10:35:55.417302,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Shabab,0.011199999999999995,0.0588,0.0476
@@ -43,7 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 15:30:53.486238,AL East - AL East 2025 - AL East Winner,New York Yankees,0.01100000000000001,0.2151,0.2041
 2025-08-29 16:38:37.664887,Season Props Parlays & Requests - NFL Requested Specials 2025-26 - Requested Specials,"Chiefs & Eagles both to Make the Playoffs, Titans, Browns & Saints all Not to Make the Playoffs",0.010699999999999932,0.5455,0.5348
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.010299999999999976,0.2667,0.2564
-2025-08-29 06:44:32.022597,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,0.010099999999999998,0.3226,0.3125
+2025-08-29 19:25:38.193966,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,0.010199999999999987,0.9333,0.9231
 2025-08-29 16:38:39.363192,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Giulio Ciccone,-0.0102,0.0667,0.0769
 2025-08-29 18:38:08.650311,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,San Francisco 49ers,-0.010899999999999993,0.1429,0.1538
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,-0.010899999999999993,0.1429,0.1538
@@ -51,8 +52,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 16:38:39.363192,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Antonio Tiberi,-0.011300000000000001,0.001,0.0123
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.011700000000000016,0.2105,0.2222
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,France,-0.012899999999999995,0.1538,0.1667
-2025-08-29 09:32:48.429831,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Franz  Wagner,-0.013899999999999996,0.1111,0.125
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Germany,-0.013899999999999996,0.1111,0.125
+2025-08-29 09:32:48.429831,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Franz  Wagner,-0.013899999999999996,0.1111,0.125
 2025-08-29 12:57:44.239532,FM Championship - 2/3 Balls - 2nd Round 3-Balls - L. Woad / L. Grant / R. Zhang - 2nd Round 3-Balls,Linn Grant,-0.01419999999999999,0.3704,0.3846
 2025-08-29 09:32:48.429831,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Theo  Maledon,-0.015300000000000001,0.0435,0.0588
 2025-08-29 12:57:44.229310,FM Championship - 2/3 Balls - 2nd Round 3-Balls - N. Korda / B. Henderson / M. Lee - 2nd Round 3-Balls,Minjee Lee,-0.015400000000000025,0.3846,0.4
@@ -62,9 +63,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Any Other Nation,-0.018099999999999998,0.0588,0.0769
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Slovenia,-0.018200000000000004,0.0294,0.0476
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Kristaps  Porzingis,-0.019099999999999992,0.0476,0.0667
-2025-08-29 10:35:55.417302,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,-0.022199999999999998,0.2,0.2222
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,France,-0.022199999999999998,0.1111,0.1333
 2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group B,-0.022199999999999998,0.2,0.2222
+2025-08-29 10:35:55.417302,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,-0.022199999999999998,0.2,0.2222
 2025-08-29 15:30:53.491500,AL West - AL West 2025 - AL West Winner,Seattle Mariners,-0.022699999999999998,0.4651,0.4878
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Latvia,-0.023200000000000002,0.0294,0.0526
 2025-08-29 07:30:19.431521,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Atlético Mineiro,-0.023200000000000002,0.0244,0.0476

@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Nelly Korda,0.0596,0.1429,0.0833
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Jaromir Bohacik,0.048600000000000004,0.1111,0.0625
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Allisen Corpuz,0.046,0.0526,0.0066
+2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,0.0417,0.125,0.0833
 2025-08-28 22:32:40.674584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Czech Republic,Jaromir Bohacik,0.0417,0.125,0.0833
 2025-08-29 02:05:31.634627,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,No,0.04169999999999996,0.875,0.8333
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Celine Boutier,0.0389,0.0667,0.0278
@@ -25,9 +26,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Serbia,0.023799999999999932,0.8571,0.8333
 2025-08-28 18:43:37.461925,Big 12 - Big 12 Regular Season Wins 2025-26 - Colorado,Under 5.5,0.021699999999999997,0.4762,0.4545
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Barra Njie,0.0203,0.0588,0.0385
+2025-08-29 04:37:06.542969,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),0.01980000000000004,0.8948,0.875
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jodi Ewart Shadoff,0.019700000000000002,0.0217,0.002
-2025-08-28 22:32:40.678166,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,0.019699999999999995,0.4545,0.4348
 2025-08-28 22:32:40.678166,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Franz  Wagner,0.019699999999999995,0.4545,0.4348
+2025-08-28 22:32:40.678166,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,0.019699999999999995,0.4545,0.4348
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Green Bay Packers,0.019099999999999992,0.0667,0.0476
 2025-08-28 22:32:40.667291,EuroBasket 2025 - EuroBasket 2025 - Group B Winner,Lithuania,0.01820000000000002,0.2,0.1818
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Giulio Ciccone,0.018099999999999998,0.0769,0.0588
@@ -40,23 +42,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 18:43:38.248549,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 20:32:52.595760,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 21:29:26.380364,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 17:31:58.061996,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 19:26:35.827500,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:43.675262,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 16:39:27.827122,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 17:31:58.061996,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Denzel Andersson,0.011199999999999995,0.0588,0.0476
 2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Los Angeles Rams,-0.011199999999999995,0.0476,0.0588
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Felix Gall,-0.012100000000000001,0.0123,0.0244
 2025-08-28 17:31:58.066455,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 18:43:38.253067,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 22:32:43.679494,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 19:26:35.831358,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 16:39:27.831179,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 18:43:38.253067,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 19:26:35.831358,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 20:32:52.599382,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
+2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 22:32:43.679494,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,-0.012899999999999995,0.125,0.1379
+2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Nasa Hataoka,-0.013,0.0022,0.0152
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,-0.0131,0.2222,0.2353
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Dallas Cowboys,-0.0131,0.0345,0.0476
@@ -74,11 +76,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jai Hindley,-0.017099999999999997,0.0123,0.0294
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Egan Bernal,-0.017099999999999997,0.0123,0.0294
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Angel Yin,-0.0174,0.0022,0.0196
+2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.0179,0.125,0.1429
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jin Young Ko,-0.0189,0.0055,0.0244
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Somi Lee,-0.0204,0.004,0.0244
 2025-08-28 18:43:34.407147,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Paris Saint-Germain,-0.02049999999999999,0.1333,0.1538
 2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Joel Parra,-0.0208,0.0625,0.0833
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,David Gaudu,-0.021900000000000003,0.0025,0.0244
+2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02250000000000002,0.2632,0.2857
 2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Czechia,-0.0228,0.0066,0.0294
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Megan Khang,-0.0233,0.0152,0.0385
 2025-08-28 18:43:37.461925,Big 12 - Big 12 Regular Season Wins 2025-26 - Colorado,Over 5.5,-0.023699999999999943,0.5917,0.6154

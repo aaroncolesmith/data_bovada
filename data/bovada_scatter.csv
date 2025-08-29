@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Juancho Hernangomez,0.27380000000000004,0.5238,0.25
 2025-08-29 08:38:40.912882,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,No,0.21299999999999997,0.7874,0.5744
 2025-08-29 08:38:40.908572,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.13749999999999996,0.9375,0.8
+2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group A,0.11549999999999999,0.5917,0.4762
 2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Willy Hernangómez,0.11430000000000001,0.4,0.2857
 2025-08-28 22:32:40.685474,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Lithuania,Jonas  Valanciunas,0.10300000000000009,0.8,0.697
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Sei Young Kim,0.1006,0.125,0.0244
@@ -9,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Turkey,0.0889,0.2,0.1111
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Simon Birgander,0.08330000000000004,0.8333,0.75
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.07789999999999997,0.3636,0.2857
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Serbia,0.06840000000000002,0.5128,0.4444
 2025-08-29 08:38:40.904245,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,Yes,0.06600000000000006,0.9231,0.8571
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Minjee Lee,0.066,0.1429,0.0769
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.06270000000000003,0.3704,0.3077
@@ -16,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 07:30:19.431521,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Bahia,0.05679999999999999,0.1818,0.125
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Jaromir Bohacik,0.048600000000000004,0.1111,0.0625
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Las Vegas Aces,0.04760000000000009,0.7143,0.6667
+2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Giannis  Antetokounmpo,0.047599999999999976,0.3333,0.2857
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Allisen Corpuz,0.046,0.0526,0.0066
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Phoenix Mercury,0.045499999999999985,0.5,0.4545
 2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,0.0417,0.125,0.0833
@@ -24,9 +27,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Indiana Fever,0.03950000000000001,0.25,0.2105
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Celine Boutier,0.0389,0.0667,0.0278
 2025-08-28 22:32:40.681808,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Latvia,Kristaps  Porzingis,0.03410000000000002,0.9091,0.875
+2025-08-29 09:32:48.157242,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Selena Gomez,0.034100000000000005,0.125,0.0909
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Andrea Lee,0.0309,0.0526,0.0217
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Green Bay Packers,0.030700000000000005,0.1333,0.1026
-2025-08-28 21:29:25.822649,Big Ten - Big Ten Regular Season Wins 2025-26 - USC,Over 7.5,0.030299999999999994,0.697,0.6667
 2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,New Jersey + New York,0.028799999999999992,0.1667,0.1379
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,0.02840000000000001,0.1053,0.0769
 2025-08-28 22:32:40.681808,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Latvia,Andrejs Grazulis,0.028399999999999995,0.0909,0.0625
@@ -40,27 +43,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:40.678166,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,0.019699999999999995,0.4545,0.4348
 2025-08-28 22:32:40.678166,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Franz  Wagner,0.019699999999999995,0.4545,0.4348
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Green Bay Packers,0.019099999999999992,0.0667,0.0476
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Turkey,0.019099999999999992,0.0667,0.0476
 2025-08-28 22:32:40.667291,EuroBasket 2025 - EuroBasket 2025 - Group B Winner,Lithuania,0.01820000000000002,0.2,0.1818
 2025-08-28 22:32:40.667291,EuroBasket 2025 - EuroBasket 2025 - Group B Winner,Finland,0.016600000000000004,0.0833,0.0667
+2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Dennis  Schroder,0.016600000000000004,0.0833,0.0667
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Miranda Wang,0.0163,0.0196,0.0033
+2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,0.015100000000000002,0.1818,0.1667
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Petr Krivanek,0.014899999999999997,0.0625,0.0476
 2025-08-28 22:32:41.545513,Winning Division - Super Bowl LX 2026 - Winning Division - Winning Division,AFC East,0.012899999999999995,0.1667,0.1538
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jin Hee Im,0.012599999999999998,0.0278,0.0152
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Emily Pedersen,0.012400000000000001,0.0164,0.004
 2025-08-28 22:32:43.675262,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 21:29:26.380364,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Denzel Andersson,0.011199999999999995,0.0588,0.0476
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.011099999999999999,0.2778,0.2667
-2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.010299999999999976,0.2667,0.2564
 2025-08-29 06:44:32.022597,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,0.010099999999999998,0.3226,0.3125
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,-0.010899999999999993,0.1429,0.1538
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Los Angeles Rams,-0.011199999999999995,0.0476,0.0588
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,-0.011700000000000016,0.2105,0.2222
-2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 22:32:43.679494,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,France,-0.012899999999999995,0.1538,0.1667
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,-0.012899999999999995,0.125,0.1379
+2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Nasa Hataoka,-0.013,0.0022,0.0152
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Dallas Cowboys,-0.0131,0.0345,0.0476
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,-0.0131,0.2222,0.2353
@@ -68,32 +72,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Germany,-0.013899999999999996,0.1111,0.125
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Minnesota Vikings,-0.013999999999999999,0.0769,0.0909
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Akie Iwai,-0.014099999999999998,0.0244,0.0385
-2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Vojtech Hruban,-0.014399999999999996,0.0625,0.0769
+2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:41.415847,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,-0.014800000000000008,0.1333,0.1481
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Esther Henseleit,-0.015199999999999998,0.0044,0.0196
-2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Under 5.5,-0.01539999999999997,0.6,0.6154
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Brooke Henderson,-0.0168,0.011,0.0278
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Angel Yin,-0.0174,0.0022,0.0196
 2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.0179,0.125,0.1429
 2025-08-29 08:38:39.839227,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Liverpool,-0.0179,0.125,0.1429
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Any Other Nation,-0.018099999999999998,0.0588,0.0769
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Slovenia,-0.018200000000000004,0.0294,0.0476
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jin Young Ko,-0.0189,0.0055,0.0244
+2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Kristaps  Porzingis,-0.019099999999999992,0.0476,0.0667
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Somi Lee,-0.0204,0.004,0.0244
 2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Joel Parra,-0.0208,0.0625,0.0833
+2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group B,-0.022199999999999998,0.2,0.2222
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,France,-0.022199999999999998,0.1111,0.1333
 2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02250000000000002,0.2632,0.2857
 2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Czechia,-0.0228,0.0066,0.0294
 2025-08-29 07:30:19.431521,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Atlético Mineiro,-0.023200000000000002,0.0244,0.0476
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Latvia,-0.023200000000000002,0.0294,0.0526
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Megan Khang,-0.0233,0.0152,0.0385
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,England,-0.023800000000000043,0.5,0.5238
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,-0.0242,0.0667,0.0909
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.024800000000000016,0.2105,0.2353
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Ariya Jutanugarn,-0.024999999999999998,0.0028,0.0278
-2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Mao Saigo,-0.025599999999999998,0.0179,0.0435
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Rio Takeda,-0.025599999999999998,0.0179,0.0435
+2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Mao Saigo,-0.025599999999999998,0.0179,0.0435
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.027800000000000047,0.75,0.7778
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Spain,-0.028199999999999996,0.0385,0.0667
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.02840000000000001,0.0769,0.1053
-2025-08-28 21:29:25.822649,Big Ten - Big Ten Regular Season Wins 2025-26 - USC,Under 7.5,-0.029600000000000015,0.3704,0.4
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Miyu Yamashita,-0.029700000000000004,0.0179,0.0476
 2025-08-28 22:32:41.415847,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,-0.032099999999999906,0.5833,0.6154
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Detroit Lions,-0.033399999999999985,0.1333,0.1667
@@ -101,11 +109,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Lottie Woad,-0.0405,0.0071,0.0476
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.04240000000000001,0.1176,0.16
 2025-08-28 22:32:40.685474,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Lithuania,Tadas Sedekerskis,-0.04440000000000001,0.0667,0.1111
+2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group D,-0.04620000000000002,0.1538,0.2
+2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group C,-0.04620000000000002,0.1538,0.2
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Vit  Krejci,-0.04630000000000001,0.5833,0.6296
 2025-08-28 22:32:41.405680,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.048099999999999976,0.3774,0.4255
 2025-08-29 02:05:31.634627,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,Yes,-0.04999999999999999,0.2,0.25
 2025-08-29 07:30:19.431521,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Fluminense,-0.05559999999999998,0.1111,0.1667
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.057699999999999974,0.4545,0.5122
+2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jokic,-0.06669999999999998,0.1,0.1667
 2025-08-29 08:38:40.904245,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.0676,0.1429,0.2105
 2025-08-28 22:32:40.663635,EuroBasket 2025 - EuroBasket 2025 - Group A Winner,Latvia,-0.0774,0.0476,0.125
 2025-08-29 08:38:40.908572,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.1377,0.129,0.2667

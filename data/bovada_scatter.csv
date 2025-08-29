@@ -39,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Emily Pedersen,0.012400000000000001,0.0164,0.004
 2025-08-29 12:57:44.096475,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.011499999999999955,0.6667,0.6552
 2025-08-29 10:35:55.417302,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Shabab,0.011199999999999995,0.0588,0.0476
+2025-08-29 13:38:55.036121,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Aston Villa,0.011099999999999999,0.1111,0.1
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Atlanta Dream,0.011099999999999999,0.2778,0.2667
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.010299999999999976,0.2667,0.2564
 2025-08-29 06:44:32.022597,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,0.010099999999999998,0.3226,0.3125
@@ -68,13 +69,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 09:32:48.440286,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group B,-0.022199999999999998,0.2,0.2222
 2025-08-29 10:35:55.417302,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,-0.022199999999999998,0.2,0.2222
 2025-08-29 04:37:06.249655,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.02250000000000002,0.2632,0.2857
-2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Latvia,-0.023200000000000002,0.0294,0.0526
 2025-08-29 07:30:19.431521,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Atlético Mineiro,-0.023200000000000002,0.0244,0.0476
+2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Latvia,-0.023200000000000002,0.0294,0.0526
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Megan Khang,-0.0233,0.0152,0.0385
 2025-08-29 08:38:39.859131,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,England,-0.023800000000000043,0.5,0.5238
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Ariya Jutanugarn,-0.024999999999999998,0.0028,0.0278
-2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Rio Takeda,-0.025599999999999998,0.0179,0.0435
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Mao Saigo,-0.025599999999999998,0.0179,0.0435
+2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Rio Takeda,-0.025599999999999998,0.0179,0.0435
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.027800000000000047,0.75,0.7778
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Spain,-0.028199999999999996,0.0385,0.0667
 2025-08-29 08:38:40.329696,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.02840000000000001,0.0769,0.1053

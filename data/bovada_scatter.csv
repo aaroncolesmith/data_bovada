@@ -30,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 09:32:48.381977,EuroBasket 2025 - EuroBasket 2025 - Outright,Turkey,0.019099999999999992,0.0667,0.0476
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Neemias  Queta,0.017800000000000003,0.0244,0.0066
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jovic,0.017099999999999997,0.0294,0.0123
+2025-08-29 11:27:43.830096,Day 1 - Day 1 - Day 1 Winner,Europe,0.016699999999999993,0.4167,0.4
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Dennis  Schroder,0.016600000000000004,0.0833,0.0667
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Miranda Wang,0.0163,0.0196,0.0033
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,0.015100000000000002,0.1818,0.1667
@@ -82,5 +83,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-29 08:38:40.326468,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.057699999999999974,0.4545,0.5122
 2025-08-29 09:32:48.433428,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jokic,-0.06669999999999998,0.1,0.1667
 2025-08-29 08:38:40.904245,To Make the Playoffs - Golden State Valkyries - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.0676,0.1429,0.2105
+2025-08-29 11:27:43.830096,Day 1 - Day 1 - Day 1 Winner,USA,-0.12260000000000004,0.5,0.6226
 2025-08-29 08:38:40.908572,To Make the Playoffs - Indiana Fever - To Make the 2025 Playoffs - To Make the Playoffs,No,-0.1377,0.129,0.2667
 2025-08-29 08:38:40.912882,To Make the Playoffs - Los Angeles Sparks - To Make the 2025 Playoffs - To Make the Playoffs,Yes,-0.21000000000000002,0.2778,0.4878

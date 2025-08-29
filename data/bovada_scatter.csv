@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Jaromir Bohacik,0.048600000000000004,0.1111,0.0625
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Allisen Corpuz,0.046,0.0526,0.0066
 2025-08-28 22:32:40.674584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Czech Republic,Jaromir Bohacik,0.0417,0.125,0.0833
-2025-08-28 15:33:25.444447,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.04169999999999996,0.9167,0.875
 2025-08-29 02:05:31.634627,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,No,0.04169999999999996,0.875,0.8333
+2025-08-28 15:33:25.444447,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.04169999999999996,0.9167,0.875
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Celine Boutier,0.0389,0.0667,0.0278
 2025-08-28 22:32:40.681808,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Latvia,Kristaps  Porzingis,0.03410000000000002,0.9091,0.875
 2025-08-28 15:33:25.439404,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.033299999999999996,0.4878,0.4545
@@ -50,28 +50,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:41.545513,Winning Division - Super Bowl LX 2026 - Winning Division - Winning Division,AFC East,0.012899999999999995,0.1667,0.1538
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jin Hee Im,0.012599999999999998,0.0278,0.0152
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Emily Pedersen,0.012400000000000001,0.0164,0.004
-2025-08-28 14:35:18.284052,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 20:32:52.595760,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 19:26:35.827500,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 22:32:43.675262,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 15:33:25.399312,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 16:39:27.827122,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 18:43:38.248549,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 21:29:26.380364,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 17:31:58.061996,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
-2025-08-28 20:32:52.595760,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 15:33:25.399312,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 16:39:27.827122,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 22:32:43.675262,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
+2025-08-28 18:43:38.248549,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,0.012299999999999978,0.3571,0.3448
 2025-08-28 22:32:40.696484,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Sweden,Denzel Andersson,0.011199999999999995,0.0588,0.0476
 2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Over 5.5,0.010599999999999998,0.4651,0.4545
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Los Angeles Rams,-0.011199999999999995,0.0476,0.0588
 2025-08-28 15:33:25.424084,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Milwaukee Brewers,-0.011200000000000015,0.2062,0.2174
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Felix Gall,-0.012100000000000001,0.0123,0.0244
-2025-08-28 15:33:25.403000,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 16:39:27.831179,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 14:35:18.287611,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 20:32:52.599382,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 18:43:38.253067,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
-2025-08-28 19:26:35.831358,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 21:29:26.383990,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 22:32:43.679494,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 20:32:52.599382,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 19:26:35.831358,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 18:43:38.253067,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 15:33:25.403000,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
+2025-08-28 16:39:27.831179,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 17:31:58.066455,MLB Series Prices - MLB Series Prices Aug 28 to 31 - 4 Game Series,Tie,-0.012299999999999978,0.3448,0.3571
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,-0.012899999999999995,0.125,0.1379
 2025-08-28 22:32:41.539825,Winning State - Super Bowl LX 2026 - Winning State - Winning State,Pennsylvania,-0.012899999999999995,0.1538,0.1667
@@ -83,16 +81,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Minnesota Vikings,-0.013999999999999999,0.0769,0.0909
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Akie Iwai,-0.014099999999999998,0.0244,0.0385
 2025-08-28 22:32:40.692850,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.014399999999999996,0.0625,0.0769
-2025-08-28 15:33:25.499617,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:40.703631,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Czech Republic,Vojtech Hruban,-0.014399999999999996,0.0625,0.0769
+2025-08-28 15:33:25.499617,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.014399999999999996,0.0625,0.0769
 2025-08-28 22:32:41.415847,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,-0.014800000000000008,0.1333,0.1481
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,-0.015100000000000002,0.1667,0.1818
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Esther Henseleit,-0.015199999999999998,0.0044,0.0196
 2025-08-28 21:29:25.818960,Big Ten - Big Ten Regular Season Wins 2025-26 - UCLA,Under 5.5,-0.01539999999999997,0.6,0.6154
 2025-08-28 15:33:25.418958,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,-0.015499999999999998,0.0123,0.0278
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Brooke Henderson,-0.0168,0.011,0.0278
-2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jai Hindley,-0.017099999999999997,0.0123,0.0294
 2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Egan Bernal,-0.017099999999999997,0.0123,0.0294
+2025-08-28 18:43:38.498133,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jai Hindley,-0.017099999999999997,0.0123,0.0294
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Angel Yin,-0.0174,0.0022,0.0196
 2025-08-28 15:33:25.418958,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,-0.01820000000000002,0.1818,0.2
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Jin Young Ko,-0.0189,0.0055,0.0244
@@ -106,8 +104,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-28 22:32:41.359888,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,-0.0242,0.0667,0.0909
 2025-08-28 22:32:41.380319,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Philadelphia Eagles,-0.024800000000000016,0.2105,0.2353
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Ariya Jutanugarn,-0.024999999999999998,0.0028,0.0278
-2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Rio Takeda,-0.025599999999999998,0.0179,0.0435
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Mao Saigo,-0.025599999999999998,0.0179,0.0435
+2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Rio Takeda,-0.025599999999999998,0.0179,0.0435
 2025-08-28 21:29:25.822649,Big Ten - Big Ten Regular Season Wins 2025-26 - USC,Under 7.5,-0.029600000000000015,0.3704,0.4
 2025-08-29 02:05:34.692334,FM Championship - FM Championship - Winner,Miyu Yamashita,-0.029700000000000004,0.0179,0.0476
 2025-08-28 22:32:41.415847,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,-0.032099999999999906,0.5833,0.6154

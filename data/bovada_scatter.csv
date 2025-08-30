@@ -27,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-30 07:27:00.445044,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,UTSA,0.023800000000000016,0.1905,0.1667
 2025-08-30 07:27:00.436693,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Air Force,0.02310000000000001,0.1,0.0769
 2025-08-30 09:29:16.457447,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Nassr,0.022199999999999998,0.2222,0.2
+2025-08-30 11:25:47.998915,Boxing Lines - Ty Mitchell vs Sean Hemphill - To Win the Bout,Sean Hemphill,0.02210000000000001,0.8403,0.8182
 2025-08-30 03:41:45.122130,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.02100000000000002,0.3846,0.3636
 2025-08-30 08:34:58.400684,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.02080000000000004,0.9375,0.9167
 2025-08-30 07:27:02.431380,Exhibition Fights - Joao Barbosa vs Joey Essex - To Win the Bout,Joao Barbosa,0.019600000000000006,0.3226,0.303
@@ -35,17 +36,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-30 08:34:55.205567,Championship - England Championship 2025/26 - Winner 2025/26,Ipswich Town,0.01820000000000002,0.2,0.1818
 2025-08-30 06:39:20.623731,BKFC Fight Night: Budva - Damjan Savanovic vs Dominik Estorer - To Win the Bout,Dominik Estorer,0.017900000000000027,0.875,0.8571
 2025-08-30 04:34:40.889080,FM Championship - FM Championship - Winner,Celine Borge,0.0177,0.0217,0.004
-2025-08-30 08:34:58.464991,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.017600000000000005,0.3509,0.3333
 2025-08-30 03:07:21.033141,Exhibition Fights - Joao Barbosa vs Joey Essex - To Win the Bout,Joao Barbosa,0.017600000000000005,0.274,0.2564
 2025-08-30 09:29:16.442985,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,0.017600000000000005,0.3509,0.3333
+2025-08-30 08:34:58.464991,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.017600000000000005,0.3509,0.3333
 2025-08-30 03:41:47.449002,Stage Betting - Stage 8 - Outright,Casper Van Uden,0.016700000000000007,0.1,0.0833
 2025-08-30 07:27:00.440727,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Texas State,0.015700000000000006,0.1333,0.1176
 2025-08-30 06:39:18.461491,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Penn State,0.014900000000000024,0.3226,0.3077
 2025-08-30 07:27:00.436693,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,0.014899999999999997,0.0625,0.0476
 2025-08-30 03:07:21.113117,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.014700000000000046,0.7647,0.75
 2025-08-30 04:34:40.889080,FM Championship - FM Championship - Winner,Rose Zhang,0.0145,0.0244,0.0099
-2025-08-30 09:29:16.414495,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,0.014099999999999998,0.0385,0.0244
 2025-08-30 09:29:16.822981,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jovic,0.014099999999999998,0.0435,0.0294
+2025-08-30 09:29:16.414495,2. Bundesliga - Germany Bundesliga 2 2025/26 - Winner,Elversberg,0.014099999999999998,0.0385,0.0244
 2025-08-30 08:34:55.247823,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,0.014000000000000012,0.9231,0.9091
 2025-08-30 09:29:16.409704,Ligue 2 - France Ligue 2 2025/26 - Winner,USL Dunkerque,0.013999999999999999,0.0909,0.0769
 2025-08-30 08:34:55.205567,Championship - England Championship 2025/26 - Winner 2025/26,Leicester City,0.013999999999999999,0.0909,0.0769
@@ -64,8 +65,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-30 08:34:58.488446,Exhibition Fights - Tony Ferguson vs Nathaniel Bustamante - To Win the Bout,Nathaniel Bustamante,0.010199999999999987,0.8039,0.7937
 2025-08-30 09:29:16.400041,First Division A - Belgium First Division A 2025/26 - Winner,Cercle Brugge,0.010100000000000001,0.0345,0.0244
 2025-08-29 23:28:56.750537,Exhibition Fights - Chase Demoor vs Natan Marcon - To Win the Bout,Chase Demoor,-0.010199999999999987,0.9231,0.9333
-2025-08-30 09:29:16.438244,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,-0.0102,0.0667,0.0769
 2025-08-30 09:29:16.400041,First Division A - Belgium First Division A 2025/26 - Winner,Mechelen,-0.0102,0.0667,0.0769
+2025-08-30 09:29:16.438244,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Racing Santander,-0.0102,0.0667,0.0769
 2025-08-30 06:39:20.619427,BKFC Fight Night: Budva - Donovan Desmae vs Jedrzej Durski - To Win the Bout,Jedrzej Durski,-0.010699999999999987,0.3226,0.3333
 2025-08-30 08:34:58.488446,Exhibition Fights - Tony Ferguson vs Nathaniel Bustamante - To Win the Bout,Tony Ferguson,-0.010800000000000032,0.2632,0.274
 2025-08-30 01:59:49.330716,Exhibition Fights - Darren Till vs Luke Rockhold - To Win the Bout,Luke Rockhold,-0.010899999999999993,0.1429,0.1538
@@ -93,13 +94,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-30 09:29:16.457447,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Shabab,-0.0203,0.0385,0.0588
 2025-08-30 06:39:18.461491,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Nebraska,-0.021799999999999996,0.0217,0.0435
 2025-08-30 09:29:16.419270,Serie B - Italy Serie B 2025/26 - Outright,Venezia,-0.022199999999999998,0.2,0.2222
+2025-08-30 11:25:47.998915,Boxing Lines - Ty Mitchell vs Sean Hemphill - To Win the Bout,Ty Mitchell,-0.022699999999999998,0.2273,0.25
 2025-08-30 07:27:02.431380,Exhibition Fights - Joao Barbosa vs Joey Essex - To Win the Bout,Joey Essex,-0.02440000000000009,0.7403,0.7647
 2025-08-30 07:27:00.445044,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Tulane,-0.024800000000000016,0.2105,0.2353
 2025-08-30 08:34:58.484197,Exhibition Fights - Joao Barbosa vs Joey Essex - To Win the Bout,Joey Essex,-0.025999999999999912,0.7143,0.7403
 2025-08-30 07:27:00.453161,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ohio,-0.02779999999999999,0.2222,0.25
 2025-08-30 06:39:20.484387,Exhibition Fights - Joao Barbosa vs Joey Essex - To Win the Bout,Joey Essex,-0.028999999999999915,0.7647,0.7937
-2025-08-30 06:39:20.588795,BKFC Fight Night: Budva - Dilan Prasovic vs Lasha Roinishvili - To Win the Bout,Dilan Prasovic,-0.033399999999999985,0.8333,0.8667
 2025-08-30 08:34:55.205567,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.033399999999999985,0.1333,0.1667
+2025-08-30 06:39:20.588795,BKFC Fight Night: Budva - Dilan Prasovic vs Lasha Roinishvili - To Win the Bout,Dilan Prasovic,-0.033399999999999985,0.8333,0.8667
 2025-08-30 03:41:45.122130,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.03370000000000001,0.3509,0.3846
 2025-08-30 06:39:18.457403,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Clemson,-0.03489999999999999,0.4651,0.5
 2025-08-30 07:27:00.445044,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Memphis,-0.036000000000000004,0.1379,0.1739

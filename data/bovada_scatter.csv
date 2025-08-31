@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Sehmus Hazer,0.625,0.75,0.125
-2025-08-31 08:34:34.424879,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Florida State,0.0655,0.1,0.0345
 2025-08-31 16:35:53.013076,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jonas Vingegaard,0.06540000000000001,0.8571,0.7917
 2025-08-31 18:38:26.653486,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Jordan Mason (MIN),0.051500000000000004,0.0625,0.011
 2025-08-31 09:28:54.591632,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Georgia,0.0504,0.2857,0.2353
@@ -10,8 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 18:38:26.653486,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Chase Brown (CIN),0.0475,0.0769,0.0294
 2025-08-31 18:38:26.788529,Quarterbacks - NFL Passing Yards 2025-26 - Cameron Ward Regular Season Total Passing Yards,Under 3200.5,0.04700000000000004,0.5348,0.4878
 2025-08-31 18:38:26.968225,Wide Receivers - NFL Receiving TD's 2025-26 - Brian Thomas Jr. Regular Season Total Receiving TD's,Under 7.5,0.044399999999999995,0.6,0.5556
-2025-08-31 17:29:49.338235,Regular Season Stat Leaders - NFL Player With Most Interceptions Thrown 2025-26 - Regular Season Most Interceptions Thrown,Jared Goff (DET),0.04120000000000001,0.1,0.0588
 2025-08-31 18:38:26.637562,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Justin Jefferson (MIN),0.04120000000000001,0.1,0.0588
+2025-08-31 17:29:49.338235,Regular Season Stat Leaders - NFL Player With Most Interceptions Thrown 2025-26 - Regular Season Most Interceptions Thrown,Jared Goff (DET),0.04120000000000001,0.1,0.0588
 2025-08-31 18:38:26.989471,Wide Receivers - NFL Receiving TD's 2025-26 - DK Metcalf Regular Season Total Receiving TD's,Under 6.5,0.03480000000000005,0.5348,0.5
 2025-08-31 18:38:27.138198,Wide Receivers - NFL Receiving Yards 2025-26 - Stefon Diggs Regular Season Total Receiving Yards,Under 750.5,0.03480000000000005,0.5348,0.5
 2025-08-31 18:38:27.096042,Wide Receivers - NFL Receiving Yards 2025-26 - George Pickens Regular Season Total Receiving Yards,Under 900.5,0.033299999999999996,0.5455,0.5122
@@ -19,9 +18,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 18:38:27.082087,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Over 700.5,0.033299999999999996,0.5455,0.5122
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Gunner Stockton (UGA),0.03219999999999999,0.0667,0.0345
 2025-08-31 17:29:49.218761,NFC North - Regular Season Division Wins - Detroit Lions Regular Season Division Wins,Under 3.5,0.03179999999999994,0.5556,0.5238
-2025-08-31 18:38:26.864354,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Under 10.5,0.030399999999999983,0.5652,0.5348
-2025-08-31 18:38:26.855720,Quarterbacks - NFL Passing Yards 2025-26 - Tua Tagovailoa Regular Season Total Passing Yards,Under 3450.5,0.030399999999999983,0.5652,0.5348
 2025-08-31 18:38:27.124122,Wide Receivers - NFL Receiving Yards 2025-26 - Mike Evans Regular Season Total Receiving Yards,Over 975.5,0.030399999999999983,0.5652,0.5348
+2025-08-31 18:38:26.855720,Quarterbacks - NFL Passing Yards 2025-26 - Tua Tagovailoa Regular Season Total Passing Yards,Under 3450.5,0.030399999999999983,0.5652,0.5348
+2025-08-31 18:38:26.864354,Running Backs - NFL Rushing TD's 2025-26 - Bijan Robinson Regular Season Total Rushing TD's,Under 10.5,0.030399999999999983,0.5652,0.5348
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.029299999999999993,0.0769,0.0476
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Garrett Nussmeier (LSU),0.028999999999999998,0.129,0.1
 2025-08-31 18:38:26.627621,Regular Season Stat Leaders - NFL Player With Most Passing Touchdowns 2025-26 - Regular Season Most Passing Touchdowns,Patrick Mahomes (KC),0.0286,0.1,0.0714
@@ -31,43 +30,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 17:29:49.259653,NFC South - Regular Season Division Wins - Tampa Bay Buccaneers Regular Season Division Wins,Under 4.5,0.023799999999999932,0.6667,0.6429
 2025-08-31 17:29:49.338235,Regular Season Stat Leaders - NFL Player With Most Interceptions Thrown 2025-26 - Regular Season Most Interceptions Thrown,C.J. Stroud (HOU),0.023200000000000002,0.0476,0.0244
 2025-08-31 18:38:26.664253,Regular Season Stat Leaders - NFL Player With Most Sacks 2025-26 - Regular Season Most Sacks,Trey Hendrickson (CIN),0.02310000000000001,0.1,0.0769
-2025-08-31 18:38:27.000046,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Under 5.5,0.022600000000000064,0.5348,0.5122
 2025-08-31 18:38:27.148897,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Under 750.5,0.022600000000000064,0.5348,0.5122
+2025-08-31 18:38:27.000046,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Under 5.5,0.022600000000000064,0.5348,0.5122
 2025-08-31 17:29:49.272414,NFC East - Division Exact Position - NY Giants Division Exact Position,3rd,0.021999999999999964,0.3077,0.2857
-2025-08-31 18:38:27.134717,Wide Receivers - NFL Receiving Yards 2025-26 - Rome Odunze Regular Season Total Receiving Yards,Over 875.5,0.02079999999999993,0.5556,0.5348
 2025-08-31 18:38:26.925114,Running Backs - NFL Rushing Yards 2025-26 - Saquon Barkley Regular Season Total Rushing Yards,Under 1375.5,0.02079999999999993,0.5556,0.5348
 2025-08-31 18:38:26.917758,Running Backs - NFL Rushing Yards 2025-26 - Josh Jacobs Regular Season Total Rushing Yards,Under 1075.5,0.02079999999999993,0.5556,0.5348
+2025-08-31 18:38:27.134717,Wide Receivers - NFL Receiving Yards 2025-26 - Rome Odunze Regular Season Total Receiving Yards,Over 875.5,0.02079999999999993,0.5556,0.5348
 2025-08-31 18:38:26.992987,Wide Receivers - NFL Receiving TD's 2025-26 - Drake London Regular Season Total Receiving TD's,Under 7.5,0.01970000000000005,0.5652,0.5455
 2025-08-31 18:38:26.632564,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,C.J. Stroud (HOU),0.01949999999999999,0.0909,0.0714
 2025-08-31 18:38:25.756285,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Thomas Castellanos (FSU),0.018200000000000004,0.0476,0.0294
-2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.018099999999999998,0.0526,0.0345
 2025-08-31 18:38:26.637562,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,CeeDee Lamb (DAL),0.018099999999999998,0.0769,0.0588
+2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.018099999999999998,0.0526,0.0345
 2025-08-31 18:38:27.017746,Wide Receivers - NFL Receiving TD's 2025-26 - Marvin Harrison Jr. Regular Season Total Receiving TD's,Under 7.5,0.017299999999999982,0.5917,0.5744
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Thomas Castellanos (FSU),0.017099999999999997,0.0294,0.0123
 2025-08-31 18:38:27.045816,Wide Receivers - NFL Receiving TD's 2025-26 - Tyreek Hill Regular Season Total Receiving TD's,Over 6.5,0.01539999999999997,0.6154,0.6
 2025-08-31 09:28:54.526934,National Championship - National Championship 2025-26 - National Championship Game Winner ,Auburn,0.014400000000000003,0.0323,0.0179
 2025-08-31 16:35:51.108065,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Devon Dampier (UTH),0.014099999999999998,0.0435,0.0294
-2025-08-31 18:38:26.648139,Regular Season Stat Leaders - NFL Player With Most Receptions 2025-26 - Regular Season Most Receptions,Malik Nabers (NYG),0.013999999999999999,0.0909,0.0769
 2025-08-31 18:38:26.653486,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Josh Allen (BUF),0.013999999999999999,0.0909,0.0769
-2025-08-31 18:38:26.637562,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Amon-Ra St. Brown (DET),0.013999999999999999,0.0909,0.0769
+2025-08-31 18:38:26.648139,Regular Season Stat Leaders - NFL Player With Most Receptions 2025-26 - Regular Season Most Receptions,Malik Nabers (NYG),0.013999999999999999,0.0909,0.0769
 2025-08-31 18:38:26.627621,Regular Season Stat Leaders - NFL Player With Most Passing Touchdowns 2025-26 - Regular Season Most Passing Touchdowns,Dak Prescott (DAL),0.013999999999999999,0.0909,0.0769
+2025-08-31 18:38:26.637562,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Amon-Ra St. Brown (DET),0.013999999999999999,0.0909,0.0769
 2025-08-31 09:28:54.587511,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Texas Tech,0.013899999999999996,0.1739,0.16
-2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jackson Arnold (AUB),0.0131,0.0476,0.0345
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,DJ Lagway (FLA),0.0131,0.0476,0.0345
+2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jackson Arnold (AUB),0.0131,0.0476,0.0345
 2025-08-31 18:38:26.900112,Running Backs - NFL Rushing Yards 2025-26 - Chase Brown Regular Season Total Rushing Yards,Under 900.5,0.012199999999999989,0.5122,0.5
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Furkan  Korkmaz,0.011899999999999994,0.0833,0.0714
 2025-08-31 15:29:35.924287,Boxing Lines - Ben Marksby vs Senan Kelly - To Win the Bout,Senan Kelly,0.011700000000000016,0.2222,0.2105
 2025-08-31 09:28:54.599753,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Ohio State,0.01150000000000001,0.3448,0.3333
 2025-08-31 18:38:26.627621,Regular Season Stat Leaders - NFL Player With Most Passing Touchdowns 2025-26 - Regular Season Most Passing Touchdowns,Brock Purdy (SF),0.011500000000000003,0.05,0.0385
-2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Devon Dampier (UTH),0.0115,0.0294,0.0179
 2025-08-31 18:38:26.658870,Regular Season Stat Leaders - NFL Player With Most Rushing Yards 2025-26	 - Regular Season Most Rushing Yards,Kenneth Walker (SEA),0.0115,0.0294,0.0179
+2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Devon Dampier (UTH),0.0115,0.0294,0.0179
 2025-08-31 17:29:49.150322,AFC East - Regular Season Division Wins - Miami Dolphins Regular Season Division Wins,Under 2.5,0.011099999999999999,0.4762,0.4651
 2025-08-31 18:38:26.971775,Wide Receivers - NFL Receiving TD's 2025-26 - CeeDee Lamb Regular Season Total Receiving TD's,Over 7.5,0.010699999999999932,0.5455,0.5348
 2025-08-31 18:38:26.698381,Quarterbacks - NFL Passing TD's 2025-26 - Dak Prescott Regular Season Total Passing TD's,Over 26.5,0.010699999999999932,0.5455,0.5348
-2025-08-31 18:38:26.632564,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Brock Purdy (SF),0.0102,0.0769,0.0667
+2025-08-31 18:38:26.664253,Regular Season Stat Leaders - NFL Player With Most Sacks 2025-26 - Regular Season Most Sacks,Maxx Crosby (LV),0.0102,0.0769,0.0667
 2025-08-31 17:29:49.338235,Regular Season Stat Leaders - NFL Player With Most Interceptions Thrown 2025-26 - Regular Season Most Interceptions Thrown,Jordan Love (GB),0.0102,0.0769,0.0667
 2025-08-31 15:29:34.260277,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,LaNorris Sellers (SCAR),0.0102,0.0769,0.0667
-2025-08-31 18:38:26.664253,Regular Season Stat Leaders - NFL Player With Most Sacks 2025-26 - Regular Season Most Sacks,Maxx Crosby (LV),0.0102,0.0769,0.0667
+2025-08-31 18:38:26.632564,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Brock Purdy (SF),0.0102,0.0769,0.0667
 2025-08-31 18:38:26.871287,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Under 13.5,0.010099999999999998,0.5556,0.5455
 2025-08-31 09:28:54.591632,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas A&M,-0.0102,0.0667,0.0769
 2025-08-31 18:38:27.045816,Wide Receivers - NFL Receiving TD's 2025-26 - Tyreek Hill Regular Season Total Receiving TD's,Under 6.5,-0.010599999999999998,0.4545,0.4651
@@ -79,9 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 18:38:27.017746,Wide Receivers - NFL Receiving TD's 2025-26 - Marvin Harrison Jr. Regular Season Total Receiving TD's,Over 7.5,-0.0116,0.4762,0.4878
 2025-08-31 18:38:26.871287,Running Backs - NFL Rushing TD's 2025-26 - Derrick Henry Regular Season Total Rushing TD's,Over 13.5,-0.011600000000000055,0.5122,0.5238
 2025-08-31 16:35:53.013076,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Sepp Kuss,-0.011699999999999999,0.0079,0.0196
-2025-08-31 08:34:34.424879,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,-0.011700000000000016,0.2105,0.2222
-2025-08-31 18:38:26.885222,Running Backs - NFL Rushing TD's 2025-26 - Saquon Barkley Regular Season Total Rushing TD's,Over 11.5,-0.012199999999999989,0.5,0.5122
 2025-08-31 18:38:27.155946,Wide Receivers - NFL Receiving Yards 2025-26 - Zay Flowers Regular Season Total Receiving Yards,Under 900.5,-0.012199999999999989,0.4878,0.5
+2025-08-31 18:38:26.885222,Running Backs - NFL Rushing TD's 2025-26 - Saquon Barkley Regular Season Total Rushing TD's,Over 11.5,-0.012199999999999989,0.5,0.5122
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Omer Yurtseven,-0.014499999999999999,0.0149,0.0294
 2025-08-31 09:28:54.599753,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Penn State,-0.014900000000000024,0.3077,0.3226
 2025-08-31 09:28:54.587511,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Baylor,-0.015700000000000006,0.1176,0.1333
@@ -89,12 +87,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Ty Simpson (ALA),-0.019099999999999995,0.0244,0.0435
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Ercan Osmani,-0.019499999999999997,0.0099,0.0294
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Sertac Sanli,-0.019499999999999997,0.0099,0.0294
-2025-08-31 08:34:34.424879,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Clemson,-0.020699999999999996,0.4444,0.4651
-2025-08-31 18:38:27.000046,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Over 5.5,-0.02079999999999993,0.5348,0.5556
 2025-08-31 18:38:27.148897,Wide Receivers - NFL Receiving Yards 2025-26 - Travis Hunter Regular Season Total Receiving Yards,Over 750.5,-0.02079999999999993,0.5348,0.5556
+2025-08-31 18:38:27.000046,Wide Receivers - NFL Receiving TD's 2025-26 - George Pickens Regular Season Total Receiving TD's,Over 5.5,-0.02079999999999993,0.5348,0.5556
+2025-08-31 18:38:27.134717,Wide Receivers - NFL Receiving Yards 2025-26 - Rome Odunze Regular Season Total Receiving Yards,Under 875.5,-0.022600000000000064,0.5122,0.5348
 2025-08-31 18:38:26.925114,Running Backs - NFL Rushing Yards 2025-26 - Saquon Barkley Regular Season Total Rushing Yards,Over 1375.5,-0.022600000000000064,0.5122,0.5348
 2025-08-31 18:38:26.917758,Running Backs - NFL Rushing Yards 2025-26 - Josh Jacobs Regular Season Total Rushing Yards,Over 1075.5,-0.022600000000000064,0.5122,0.5348
-2025-08-31 18:38:27.134717,Wide Receivers - NFL Receiving Yards 2025-26 - Rome Odunze Regular Season Total Receiving Yards,Under 875.5,-0.022600000000000064,0.5122,0.5348
 2025-08-31 18:38:26.992987,Wide Receivers - NFL Receiving TD's 2025-26 - Drake London Regular Season Total Receiving TD's,Over 7.5,-0.023800000000000043,0.5,0.5238
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Kenan Sipahi,-0.024,0.0385,0.0625
 2025-08-31 09:28:54.649544,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jeremiah Smith (OSU),-0.024299999999999995,0.0526,0.0769
@@ -102,8 +99,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-08-31 17:29:49.259653,NFC South - Regular Season Division Wins - Tampa Bay Buccaneers Regular Season Division Wins,Over 4.5,-0.025499999999999967,0.4,0.4255
 2025-08-31 09:28:54.587511,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Arizona State,-0.0267,0.1333,0.16
 2025-08-31 18:38:24.998193,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Erkan Yilmaz,-0.0268,0.0149,0.0417
-2025-08-31 18:38:26.989471,Wide Receivers - NFL Receiving TD's 2025-26 - DK Metcalf Regular Season Total Receiving TD's,Over 6.5,-0.030399999999999983,0.5348,0.5652
 2025-08-31 18:38:27.138198,Wide Receivers - NFL Receiving Yards 2025-26 - Stefon Diggs Regular Season Total Receiving Yards,Over 750.5,-0.030399999999999983,0.5348,0.5652
+2025-08-31 18:38:26.989471,Wide Receivers - NFL Receiving TD's 2025-26 - DK Metcalf Regular Season Total Receiving TD's,Over 6.5,-0.030399999999999983,0.5348,0.5652
 2025-08-31 18:38:27.042257,Wide Receivers - NFL Receiving TD's 2025-26 - Travis Hunter Regular Season Total Receiving TD's,Over 4.5,-0.03179999999999994,0.5238,0.5556
 2025-08-31 18:38:27.082087,Wide Receivers - NFL Receiving Yards 2025-26 - Deebo Samuel Regular Season Total Receiving Yards,Under 700.5,-0.03179999999999994,0.5238,0.5556
 2025-08-31 18:38:27.096042,Wide Receivers - NFL Receiving Yards 2025-26 - George Pickens Regular Season Total Receiving Yards,Over 900.5,-0.03179999999999994,0.5238,0.5556

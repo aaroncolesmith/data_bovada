@@ -10,48 +10,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Mario Saint-Supery,0.21900000000000003,0.2857,0.0667
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Zaccharie  Risacher,0.2179,0.3846,0.1667
 2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Pelle  Larsson,0.2167,0.4167,0.2
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,0.19230000000000003,0.5,0.3077
-2025-09-01 13:00:14.991270,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,0.19199999999999995,0.6364,0.4444
 2025-09-01 18:40:26.832736,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Simone  Fontecchio,0.19009999999999994,0.9901,0.8
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Simone  Fontecchio,0.1857,0.2857,0.1
-2025-09-01 13:40:47.281671,World Politics - Next Prime Minister of Norway - Proposition,Jonas Gahr Støre,0.17810000000000004,0.8333,0.6552
-2025-09-01 13:00:15.287432,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Coquimbo Unido,0.17580000000000007,0.9091,0.7333
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Justus Hollatz,0.1706,0.2,0.0294
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Tristan  da Silva,0.1666,0.3333,0.1667
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Elie  Okobo,0.1607,0.2857,0.125
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Alperen  Sengun,0.16069999999999995,0.875,0.7143
 2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Willy Hernangómez,0.15000000000000002,0.4,0.25
-2025-09-01 13:00:15.243222,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,AZ Alkmaar,0.1301,0.5556,0.4255
 2025-09-01 19:25:50.804244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Luka  Doncic,0.12960000000000005,0.6296,0.5
 2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,0.12379999999999997,0.6,0.4762
 2025-09-01 16:37:23.691273,World Politics - Jamaica House of Representatives Election - Proposition,JLP,0.12180000000000002,0.6774,0.5556
 2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Antetokounmpo,0.12120000000000003,0.4545,0.3333
 2025-09-01 19:25:50.821557,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Shane Larkin,0.11900000000000002,0.2857,0.1667
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Simone  Fontecchio,0.11509999999999998,0.9901,0.875
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,NAC Breda,0.11430000000000001,0.4,0.2857
 2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Santi  Aldama,0.11109999999999998,0.3333,0.2222
-2025-09-01 13:00:15.237047,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,AZ Alkmaar,0.1071,0.25,0.1429
 2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Sylvain  Francisco,0.1054,0.125,0.0196
-2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Elie  Okobo,0.10150000000000003,0.4348,0.3333
 2025-09-01 18:40:26.870824,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Alessandro Pajola,0.10150000000000003,0.4651,0.3636
+2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Elie  Okobo,0.10150000000000003,0.4348,0.3333
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Sylvain  Francisco,0.09999999999999999,0.1667,0.0667
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.0988,0.6226,0.5238
-2025-09-01 13:00:15.247927,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,FC Porto,0.09799999999999998,0.3333,0.2353
 2025-09-01 16:37:22.957615,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Abigail Anderson,0.0922,0.4255,0.3333
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Heracles Almelo,0.0922,0.4255,0.3333
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Alperen  Sengun,0.09040000000000004,0.5348,0.4444
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Juancho Hernangomez,0.08340000000000003,0.4167,0.3333
 2025-09-01 16:37:22.995639,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Will Taylor Swift Appear on the New Heights Podcast Again Before the Wedding,"Yes, she will appear again",0.08329999999999999,0.3333,0.25
 2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Alperen  Sengun,0.08099999999999996,0.9901,0.9091
 2025-09-01 18:40:26.836830,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Sloukas,0.0808000000000001,0.7778,0.697
 2025-09-01 19:25:50.763283,EuroBasket 2025 - EuroBasket 2025 - Group D Winner,Poland,0.0774,0.125,0.0476
-2025-09-01 13:40:48.968322,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,"Ricky Pearsall 1,000 or more receiving yards",0.06860000000000002,0.2353,0.1667
-2025-09-01 13:00:15.233960,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Feyenoord,0.06840000000000002,0.2222,0.1538
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Franz  Wagner,0.06669999999999998,0.1667,0.1
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Leon Stergar,0.06649999999999999,0.0909,0.0244
-2025-09-01 13:00:14.991270,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.06519999999999998,0.3509,0.2857
-2025-09-01 13:00:15.278066,Super League - Switzerland Super League 2025/26 - Winner,St. Gallen,0.0629,0.1538,0.0909
-2025-09-01 13:40:48.973884,NCAA Football Specials - How Many Times will Bill Belichick’s girlfriend Jordon Hudson be Shown on the ESPN Broadcast vs TCU - Proposition,Over 2.5,0.06270000000000003,0.3704,0.3077
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Mario Saint-Supery,0.0596,0.1429,0.0833
 2025-09-01 18:40:26.850338,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Germany,Dennis  Schroder,0.05860000000000004,0.5348,0.4762
 2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Barra Njie,0.05710000000000001,0.2,0.1429
@@ -59,146 +44,95 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Santi  Aldama,0.05449999999999999,0.4545,0.4
 2025-09-01 16:37:22.946935,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,No,0.04810000000000003,0.9231,0.875
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Xabi Lopez-Arostegui,0.048100000000000004,0.125,0.0769
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,German Berterame,0.047599999999999976,0.3333,0.2857
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Martin Krampelj,0.0474,0.0909,0.0435
 2025-09-01 16:37:22.930011,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials -  When will They Get Married,After December 31 2025,0.0464,0.9412,0.8948
 2025-09-01 20:31:40.788851,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.04579999999999995,0.7333,0.6875
 2025-09-01 16:37:22.950492,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be in the Wedding Party,Austin Swift,0.045499999999999985,0.5455,0.5
-2025-09-01 13:00:15.243222,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,FC Utrecht,0.04440000000000001,0.1111,0.0667
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Excelsior Maassluis,0.04099999999999998,0.3077,0.2667
 2025-09-01 15:31:47.354498,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Seattle Storm,0.04099999999999998,0.3077,0.2667
-2025-09-01 13:00:15.210058,First Division A - Belgium First Division A 2025/26 - Winner,Union Saint-Gilloise,0.04099999999999998,0.3077,0.2667
 2025-09-01 15:31:47.351391,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Phoenix Mercury,0.03950000000000001,0.25,0.2105
-2025-09-01 13:00:15.233960,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,AZ Alkmaar,0.03860000000000001,0.1053,0.0667
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Konstantinos Mitoglou,0.038299999999999994,0.0909,0.0526
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,0.0368,0.2667,0.2299
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,0.03640000000000004,0.4,0.3636
 2025-09-01 18:40:26.877574,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Darius Thompson,0.0344,0.0588,0.0244
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Nicolo Melli,0.0344,0.0588,0.0244
 2025-09-01 18:40:26.887770,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Alessandro Pajola,0.03410000000000002,0.9091,0.875
 2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Dario Brizuela,0.033300000000000024,0.2,0.1667
 2025-09-01 15:31:47.351391,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Las Vegas Aces,0.029600000000000015,0.4,0.3704
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Jaime Pradilla,0.0282,0.0526,0.0244
-2025-09-01 13:00:15.278066,Super League - Switzerland Super League 2025/26 - Winner,FC Thun,0.028199999999999996,0.0667,0.0385
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Luka  Doncic,0.02560000000000001,0.3333,0.3077
 2025-09-01 22:32:38.312248,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,0.025599999999999956,0.6,0.5744
-2025-09-01 13:40:48.968322,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Any Missed FG to hit the Upright or Crossbar in Week 1,0.025599999999999956,0.6,0.5744
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Bilal  Coulibaly,0.024999999999999994,0.125,0.1
-2025-09-01 13:40:48.968322,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Dak Prescott To Miss Any Game With An Injury,0.024500000000000022,0.4167,0.3922
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Yankuba Sima,0.024299999999999995,0.0588,0.0345
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Antetokounmpo,0.024299999999999995,0.0769,0.0526
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,0.0242,0.0909,0.0667
-2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Viktor Gaddefors,0.023899999999999998,0.0435,0.0196
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Rok Radovic,0.023899999999999998,0.0435,0.0196
-2025-09-01 13:00:15.273424,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,River Plate,0.023800000000000043,0.5238,0.5
-2025-09-01 13:00:15.055384,Liga MX - Liga MX Apertura 2025 - Winner,Tigres UANL,0.023799999999999988,0.1667,0.1429
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,0.023799999999999988,0.1667,0.1429
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Heerenveen,0.02310000000000001,0.1,0.0769
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.021999999999999964,0.3077,0.2857
-2025-09-01 13:00:15.247927,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Benfica,0.021699999999999997,0.4762,0.4545
+2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Viktor Gaddefors,0.023899999999999998,0.0435,0.0196
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Adem  Bona,0.020699999999999996,0.4651,0.4444
 2025-09-01 20:31:40.784070,Boxing Lines - Ben Marksby vs Senan Kelly - To Win the Bout,Ben Marksby,0.020500000000000074,0.8667,0.8462
 2025-09-01 15:31:47.904338,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.02049999999999999,0.1538,0.1333
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.02020000000000001,0.1111,0.0909
-2025-09-01 13:00:15.292161,Primera A - Colombia Primera A 2025 - Winner,Atlético Nacional,0.020100000000000007,0.25,0.2299
 2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Kenan Sipahi,0.019099999999999995,0.0435,0.0244
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Zaccharie  Risacher,0.019099999999999992,0.0667,0.0476
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.019000000000000017,0.2857,0.2667
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Volendam,0.018900000000000028,0.4444,0.4255
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Philadelphia Union,0.01820000000000002,0.2,0.1818
 2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Ercan Osmani,0.018200000000000004,0.0476,0.0294
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.018099999999999998,0.0769,0.0588
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,PEC Zwolle,0.018099999999999998,0.0769,0.0588
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,0.0179,0.1429,0.125
 2025-09-01 20:31:40.779311,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.0179,0.1429,0.125
 2025-09-01 15:31:49.919204,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,0.017899999999999916,0.7826,0.7647
-2025-09-01 13:40:49.387463,Irish Open - Irish Open - Winner,Haotong Li,0.017800000000000003,0.0244,0.0066
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Mouhamet Diouf,0.017099999999999997,0.0294,0.0123
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Thanasis Antetokounmpo,0.016699999999999993,0.2667,0.25
 2025-09-01 18:40:29.512046,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,0.01660000000000006,0.9333,0.9167
 2025-09-01 18:40:26.867361,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Giannis  Antetokounmpo,0.015900000000000025,0.9868,0.9709
-2025-09-01 13:00:15.237047,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,FC Utrecht,0.014900000000000004,0.0345,0.0196
 2025-09-01 15:31:47.354498,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Golden State Valkyries,0.014800000000000008,0.1481,0.1333
 2025-09-01 18:40:26.853787,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Greece,Giannis  Antetokounmpo,0.014599999999999946,0.995,0.9804
-2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Alessandro Pajola,0.0145,0.0244,0.0099
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Sehmus Hazer,0.0145,0.0244,0.0099
+2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Alessandro Pajola,0.0145,0.0244,0.0099
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Giampaolo Ricci,0.014499999999999999,0.0294,0.0149
-2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Kenan Sipahi,0.014499999999999999,0.0294,0.0149
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Ercan Osmani,0.014499999999999999,0.0294,0.0149
+2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Kenan Sipahi,0.014499999999999999,0.0294,0.0149
 2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Joel Parra,0.014399999999999996,0.0769,0.0625
-2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Johannes Thiemann,0.014399999999999996,0.0769,0.0625
 2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,0.014399999999999996,0.0769,0.0625
+2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Johannes Thiemann,0.014399999999999996,0.0769,0.0625
 2025-09-01 20:31:40.891036,Irish Open - Irish Open - Winner,Patrick Reed,0.014100000000000001,0.0526,0.0385
-2025-09-01 13:40:48.968322,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,George Pickens get ejected in one of his first 8 games,0.014100000000000001,0.0526,0.0385
 2025-09-01 16:37:25.824591,Stifel Charity Classic - Stifel Charity Classic - Winner,Jerry Kelly,0.014099999999999994,0.0667,0.0526
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Victor Davila,0.013999999999999999,0.0909,0.0769
-2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Dimitris Katsivelis,0.0131,0.0476,0.0345
 2025-09-01 16:37:25.830546,Aramco Houston - Aramco Houston - Winner,Carlota Ciganda,0.0131,0.0476,0.0345
-2025-09-01 13:00:15.262291,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.012700000000000045,0.6491,0.6364
-2025-09-01 13:00:15.262291,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,0.012699999999999989,0.3636,0.3509
+2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Dimitris Katsivelis,0.0131,0.0476,0.0345
 2025-09-01 22:32:39.975454,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.01150000000000001,0.3448,0.3333
 2025-09-01 16:37:25.824591,Stifel Charity Classic - Stifel Charity Classic - Winner,Justin Leonard,0.011199999999999995,0.0588,0.0476
-2025-09-01 18:40:26.836830,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,0.011099999999999999,0.1111,0.1
 2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,0.011099999999999999,0.1111,0.1
+2025-09-01 18:40:26.836830,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,0.011099999999999999,0.1111,0.1
 2025-09-01 20:31:40.891036,Irish Open - Irish Open - Winner,Tom McKibbin,0.010700000000000001,0.0385,0.0278
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Charlotte FC,0.0102,0.0769,0.0667
-2025-09-01 13:00:15.210058,First Division A - Belgium First Division A 2025/26 - Winner,Genk,0.0102,0.0769,0.0667
 2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Shane Larkin,0.010100000000000001,0.0345,0.0244
 2025-09-01 19:25:53.392231,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.010099999999999998,0.6875,0.6774
 2025-09-01 15:31:47.189250,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.010099999999999998,0.4444,0.4545
 2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Dennis  Schroder,-0.010100000000000001,0.0244,0.0345
-2025-09-01 18:40:26.887770,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Marco Spissu,-0.010100000000000001,0.0244,0.0345
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Willy Hernangómez,-0.010100000000000001,0.0244,0.0345
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,-0.0102,0.0667,0.0769
-2025-09-01 13:00:15.267128,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Racing Club,-0.0102,0.0667,0.0769
+2025-09-01 18:40:26.887770,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Marco Spissu,-0.010100000000000001,0.0244,0.0345
 2025-09-01 18:40:26.887770,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Mouhamet Diouf,-0.0102,0.0667,0.0769
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Go Ahead Eagles,-0.0102,0.0667,0.0769
 2025-09-01 18:40:26.877574,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Simone  Fontecchio,-0.0102,0.0667,0.0769
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alexis Vega,-0.0102,0.0667,0.0769
 2025-09-01 16:37:25.824591,Stifel Charity Classic - Stifel Charity Classic - Winner,Stewart Cink,-0.010399999999999993,0.2222,0.2326
-2025-09-01 22:32:39.975454,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,-0.011099999999999999,0.7222,0.7333
 2025-09-01 18:40:26.887770,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Simone  Fontecchio,-0.011099999999999999,0.1,0.1111
-2025-09-01 13:00:15.278066,Super League - Switzerland Super League 2025/26 - Winner,Servette,-0.011199999999999995,0.0476,0.0588
-2025-09-01 13:00:15.267128,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Independiente,-0.011199999999999995,0.0476,0.0588
+2025-09-01 22:32:39.975454,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,-0.011099999999999999,0.7222,0.7333
 2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Theo  Maledon,-0.011199999999999995,0.0476,0.0588
-2025-09-01 13:00:18.028252,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Ishmael Davis,-0.011499999999999955,0.6552,0.6667
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Ahoueke Denkey,-0.011699999999999999,0.0079,0.0196
 2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Josep Puerto,-0.012100000000000001,0.0123,0.0244
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Furkan  Korkmaz,-0.012300000000000002,0.0294,0.0417
 2025-09-01 18:40:26.850338,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Germany,Andreas Obst,-0.0126,0.04,0.0526
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Bilal  Coulibaly,-0.0131,0.0345,0.0476
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Brian Rodriguez,-0.0131,0.0345,0.0476
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Omer Yurtseven,-0.013899999999999996,0.1111,0.125
-2025-09-01 13:00:15.287432,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Colo-Colo,-0.0139,0.001,0.0149
-2025-09-01 13:00:15.292161,Primera A - Colombia Primera A 2025 - Winner,América de Cali,-0.013999999999999999,0.0769,0.0909
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Sparta Rotterdam,-0.014099999999999998,0.0244,0.0385
-2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Tyler Dorsey,-0.014099999999999998,0.0244,0.0385
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Xabi Lopez-Arostegui,-0.014099999999999998,0.0244,0.0385
-2025-09-01 13:00:15.237047,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,FC Twente,-0.014099999999999998,0.0244,0.0385
-2025-09-01 13:00:18.085065,Irish Open - Irish Open - Winner,Patrick Reed,-0.014100000000000001,0.0385,0.0526
-2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Alexandre  Sarr,-0.014499999999999999,0.0149,0.0294
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Diego Rossi,-0.014499999999999999,0.0149,0.0294
+2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Tyler Dorsey,-0.014099999999999998,0.0244,0.0385
 2025-09-01 18:40:26.853787,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Greece,Vasileios Toliopoulos,-0.014499999999999999,0.0149,0.0294
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Pablo Barrera,-0.014499999999999999,0.0149,0.0294
 2025-09-01 18:40:26.829345,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Kostas Sloukas,-0.014499999999999999,0.0149,0.0294
 2025-09-01 18:40:26.826001,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Germany,Maodo Lo,-0.014499999999999999,0.0149,0.0294
+2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Alexandre  Sarr,-0.014499999999999999,0.0149,0.0294
 2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Xabi Lopez-Arostegui,-0.014499999999999999,0.0149,0.0294
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Shane Larkin,-0.0145,0.0099,0.0244
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Mouhammadou  Jaiteh,-0.0145,0.0099,0.0244
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hany Mukhtar,-0.0145,0.0099,0.0244
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Oscar da Silva,-0.0145,0.0099,0.0244
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Johannes Voigtmann,-0.0145,0.0099,0.0244
 2025-09-01 15:31:50.004088,Irish Open - Irish Open - Winner,Matteo Manassero,-0.0145,0.0099,0.0244
-2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Josep Puerto,-0.014599999999999998,0.005,0.0196
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Sertac Sanli,-0.014599999999999998,0.005,0.0196
+2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Josep Puerto,-0.014599999999999998,0.005,0.0196
+2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Santiago Yusta,-0.014900000000000004,0.0196,0.0345
+2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Santiago Yusta,-0.014900000000000004,0.0196,0.0345
 2025-09-01 15:31:47.351391,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Los Angeles Sparks,-0.014900000000000004,0.0196,0.0345
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Timothe  Luwawu-Cabarrot,-0.014900000000000004,0.0196,0.0345
-2025-09-01 19:25:50.807675,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Santiago Yusta,-0.014900000000000004,0.0196,0.0345
-2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Santiago Yusta,-0.014900000000000004,0.0196,0.0345
 2025-09-01 18:40:26.870824,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Marco  Spissu,-0.015100000000000002,0.1667,0.1818
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Cedi Osman,-0.015100000000000002,0.1667,0.1818
 2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Denzel Andersson,-0.015300000000000001,0.0435,0.0588
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,FC Utrecht,-0.0156,0.004,0.0196
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Jaime Pradilla,-0.0156,0.0244,0.04
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Onuralp  Bitim,-0.0163,0.0033,0.0196
 2025-09-01 20:31:40.779311,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.01660000000000006,0.9167,0.9333
@@ -209,32 +143,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Furkan  Korkmaz,-0.0173,0.0244,0.0417
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Josep Puerto,-0.017800000000000003,0.0066,0.0244
 2025-09-01 18:40:29.512046,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.0179,0.125,0.1429
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Uros Djurdjevic,-0.018099999999999998,0.0588,0.0769
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Tyler Dorsey,-0.018099999999999998,0.0588,0.0769
-2025-09-01 13:00:15.262291,Super Lig - Turkey Super Lig 2025/26 - Winner,Besiktas,-0.018099999999999998,0.0588,0.0769
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Joel  Parra,-0.018099999999999998,0.0588,0.0769
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Andreas Obst,-0.018200000000000004,0.0294,0.0476
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Alonso Martinez,-0.018200000000000004,0.0294,0.0476
-2025-09-01 13:00:15.278066,Super League - Switzerland Super League 2025/26 - Winner,FC Lugano,-0.018200000000000004,0.0294,0.0476
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Luka Scuka,-0.01820000000000002,0.1818,0.2
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Eric Choupo-Moting,-0.0189,0.0196,0.0385
-2025-09-01 13:00:15.243222,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,PSV Eindhoven,-0.018900000000000028,0.9615,0.9804
-2025-09-01 13:00:15.287432,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Palestino,-0.019099999999999992,0.0476,0.0667
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Groningen,-0.019099999999999992,0.0476,0.0667
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Saliou  Niang,-0.019099999999999992,0.0476,0.0667
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Nicolas Ibanez,-0.019099999999999992,0.0476,0.0667
-2025-09-01 13:00:15.210058,First Division A - Belgium First Division A 2025/26 - Winner,Mechelen,-0.019099999999999992,0.0476,0.0667
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Gabriele Procida,-0.0194,0.005,0.0244
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Jaylen  Hoard,-0.019499999999999997,0.0099,0.0294
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Joel  Parra,-0.019499999999999997,0.0099,0.0294
 2025-09-01 18:40:26.853787,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Greece,Kostas Sloukas,-0.019600000000000003,0.0149,0.0345
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Josep Puerto,-0.019600000000000003,0.0149,0.0345
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,FC Cincinnati,-0.02020000000000001,0.0909,0.1111
 2025-09-01 18:40:26.877574,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Mouhamet Diouf,-0.02020000000000001,0.0909,0.1111
 2025-09-01 15:31:47.354498,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Atlanta Dream,-0.020299999999999985,0.6226,0.6429
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Maodo Lo,-0.0203,0.0385,0.0588
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,-0.0203,0.0385,0.0588
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Hugo Cuypers,-0.0203,0.0385,0.0588
 2025-09-01 15:31:50.004088,Irish Open - Irish Open - Winner,Ivan Cantero,-0.0211,0.0033,0.0244
 2025-09-01 15:31:49.919204,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,-0.021299999999999986,0.2817,0.303
 2025-09-01 15:31:47.351391,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Minnesota Lynx,-0.02180000000000004,0.6078,0.6296
@@ -244,57 +165,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 22:32:38.312248,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,-0.022699999999999998,0.4651,0.4878
 2025-09-01 19:25:50.804244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Edo Muric,-0.02310000000000001,0.0769,0.1
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Tristan  da Silva,-0.02310000000000001,0.0769,0.1
+2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Cedi Osman,-0.023200000000000002,0.0244,0.0476
 2025-09-01 18:40:26.894498,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Sweden,Mattias Markusson,-0.023200000000000002,0.0294,0.0526
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Santiago Yusta,-0.023200000000000002,0.0244,0.0476
-2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Cedi Osman,-0.023200000000000002,0.0244,0.0476
 2025-09-01 18:40:26.850338,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Germany,Isaac Bonga,-0.023200000000000002,0.0244,0.0476
 2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Isaia  Cordinier,-0.023200000000000002,0.0244,0.0476
 2025-09-01 18:40:26.850338,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Germany,Maodo Lo,-0.0236,0.0149,0.0385
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Giannoulis Larentzakis,-0.0236,0.0149,0.0385
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Minnesota United,-0.023799999999999988,0.1429,0.1667
-2025-09-01 13:00:15.055384,Liga MX - Liga MX Apertura 2025 - Winner,Deportivo Toluca,-0.023799999999999988,0.1429,0.1667
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Danilo Gallinari,-0.023899999999999998,0.0196,0.0435
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,-0.0242,0.0667,0.0909
-2025-09-01 13:00:14.979177,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,-0.0242,0.0667,0.0909
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Jaylen  Hoard,-0.024299999999999995,0.0345,0.0588
 2025-09-01 18:40:26.867361,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Konstantinos Mitoglou,-0.024299999999999995,0.0526,0.0769
-2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Furkan  Korkmaz,-0.024399999999999998,0.005,0.0294
 2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Onuralp  Bitim,-0.024399999999999998,0.005,0.0294
+2025-09-01 19:25:50.811079,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Turkey,Furkan  Korkmaz,-0.024399999999999998,0.005,0.0294
 2025-09-01 19:25:50.821557,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Furkan  Korkmaz,-0.0245,0.0588,0.0833
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Nashville SC,-0.024999999999999994,0.1,0.125
 2025-09-01 15:31:47.354498,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,New York Liberty,-0.027800000000000047,0.7222,0.75
 2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Johannes Voigtmann,-0.027900000000000008,0.0435,0.0714
-2025-09-01 13:00:15.233960,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Ajax,-0.027999999999999997,0.1538,0.1818
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Dennis  Schroder,-0.028000000000000004,0.0196,0.0476
 2025-09-01 18:40:26.832736,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Danilo Gallinari,-0.028599999999999997,0.0149,0.0435
-2025-09-01 13:00:15.210058,First Division A - Belgium First Division A 2025/26 - Winner,Royal Antwerp,-0.029299999999999993,0.0476,0.0769
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Mouhamet Diouf,-0.029299999999999993,0.0476,0.0769
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Maodo Lo,-0.029400000000000003,0.0123,0.0417
-2025-09-01 13:00:15.127890,Brasileirão Série A - Brazil Serie A 2025 - Winner,Bahia,-0.0306,0.0079,0.0385
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Sertac Sanli,-0.031199999999999995,0.0244,0.0556
 2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Thanasis Antetokounmpo,-0.031799999999999995,0.1111,0.1429
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Helinho,-0.0321,0.0588,0.0909
-2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Jaylen  Hoard,-0.0321,0.0588,0.0909
 2025-09-01 19:25:50.821557,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Alperen  Sengun,-0.0321,0.0588,0.0909
+2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Jaylen  Hoard,-0.0321,0.0588,0.0909
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Daniel Theis,-0.03219999999999999,0.0345,0.0667
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Darius Thompson,-0.03219999999999999,0.0345,0.0667
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Xabi Lopez-Arostegui,-0.03270000000000001,0.0149,0.0476
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Isaac Bonga,-0.033100000000000004,0.0294,0.0625
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Paulinho,-0.033300000000000024,0.1667,0.2
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,FC Cincinnati,-0.033300000000000024,0.1667,0.2
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Willy Hernangómez,-0.033300000000000024,0.1667,0.2
-2025-09-01 13:00:15.243222,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,FC Twente,-0.034100000000000005,0.0909,0.125
 2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Konstantinos Mitoglou,-0.034100000000000005,0.0909,0.125
 2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Juancho Hernangomez,-0.03420000000000001,0.0769,0.1111
-2025-09-01 13:00:14.982072,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Tai Baribo,-0.0344,0.0244,0.0588
 2025-09-01 18:40:26.853787,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Greece,Tyler Dorsey,-0.0373,0.0294,0.0667
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,-0.0373,0.0294,0.0667
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Timothe  Luwawu-Cabarrot,-0.037700000000000004,0.0099,0.0476
-2025-09-01 13:00:15.287432,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Audax Italiano,-0.037700000000000004,0.0099,0.0476
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Juancho Hernangomez,-0.038099999999999995,0.0244,0.0625
 2025-09-01 19:25:50.821557,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Cedi Osman,-0.038299999999999994,0.0526,0.0909
 2025-09-01 15:31:47.354498,WNBA Championship - WNBA Championship 2025 - Team to Reach Semifinals,Los Angeles Sparks,-0.0384,0.0385,0.0769
-2025-09-01 13:00:14.985370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,-0.03889999999999999,0.1429,0.1818
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Willy Hernangómez,-0.0392,0.0196,0.0588
 2025-09-01 15:31:49.886464,"MLB Daily Specials - Monday, September 1 - Daily Specials",Each Team to Score 1+ Run,-0.03920000000000001,0.2941,0.3333
 2025-09-01 18:40:26.884382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Jaime Pradilla,-0.04120000000000001,0.0588,0.1
@@ -303,7 +208,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 20:31:40.788851,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.04410000000000003,0.3333,0.3774
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Isaia  Cordinier,-0.047099999999999996,0.0196,0.0667
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Dennis  Schroder,-0.047599999999999976,0.2857,0.3333
-2025-09-01 13:00:15.233960,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,-0.04760000000000009,0.6667,0.7143
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Papanikolaou,-0.048100000000000004,0.0769,0.125
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Josep Puerto,-0.0518,0.0149,0.0667
 2025-09-01 19:25:50.814507,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Germany,Johannes Thiemann,-0.051800000000000006,0.0196,0.0714
@@ -312,39 +216,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Daniel Theis,-0.05449999999999999,0.4,0.4545
 2025-09-01 18:40:26.843584,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Giannis  Antetokounmpo,-0.05449999999999999,0.4,0.4545
 2025-09-01 18:40:26.850338,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Germany,Franz  Wagner,-0.05559999999999998,0.5,0.5556
-2025-09-01 13:00:15.267128,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,River Plate,-0.055800000000000016,0.2299,0.2857
 2025-09-01 16:37:22.930011,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials -  When will They Get Married,On Or Before December 31 2025,-0.05679999999999999,0.125,0.1818
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Dario Brizuela,-0.05679999999999999,0.125,0.1818
 2025-09-01 16:37:22.946935,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Taylor Swift pregnant in 2025,Yes,-0.05710000000000001,0.1429,0.2
 2025-09-01 19:25:50.821557,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Turkey,Sehmus Hazer,-0.057699999999999974,0.6923,0.75
 2025-09-01 21:28:44.410400,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Isaia  Cordinier,-0.058899999999999994,0.0244,0.0833
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Marco Spissu,-0.05910000000000001,0.0123,0.0714
-2025-09-01 13:40:48.973884,NCAA Football Specials - How Many Times will Bill Belichick’s girlfriend Jordon Hudson be Shown on the ESPN Broadcast vs TCU - Proposition,Under 2.5,-0.05910000000000004,0.697,0.7561
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Sloukas,-0.0615,0.0294,0.0909
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Alexandre  Sarr,-0.0635,0.0476,0.1111
 2025-09-01 21:28:44.434406,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Zaccharie  Risacher,-0.0635,0.0476,0.1111
-2025-09-01 13:00:14.991270,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Seattle Sounders,-0.0637,0.0196,0.0833
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,Fortuna Sittard,-0.06670000000000004,0.3333,0.4
-2025-09-01 13:00:15.237047,Eredivisie - Netherlands Eredivisie 2025/26 - Winner without PSV,Ajax,-0.067,0.3774,0.4444
 2025-09-01 18:40:26.836830,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Vasileios Toliopoulos,-0.07069999999999999,0.1111,0.1818
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Joel Parra,-0.07239999999999999,0.0526,0.125
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Nashville SC,-0.07450000000000001,0.0588,0.1333
 2025-09-01 18:40:26.891113,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Santiago Yusta,-0.07500000000000001,0.125,0.2
 2025-09-01 18:40:26.874185,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Santi  Aldama,-0.0756,0.0244,0.1
 2025-09-01 18:40:26.846963,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Turkey,Cedi Osman,-0.0756,0.0244,0.1
-2025-09-01 13:40:47.281671,World Politics - Next Prime Minister of Norway - Proposition,Erna Solberg,-0.0761,0.1739,0.25
-2025-09-01 13:00:15.243222,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Ajax,-0.07779999999999998,0.6923,0.7701
 2025-09-01 16:37:22.995639,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Will Taylor Swift Appear on the New Heights Podcast Again Before the Wedding,"No, she will not appear again",-0.08330000000000004,0.75,0.8333
 2025-09-01 16:37:22.957615,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Austin Swift,-0.0847,0.2857,0.3704
-2025-09-01 13:00:14.991270,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,-0.0867,0.0244,0.1111
-2025-09-01 13:00:14.988248,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.087,0.1429,0.2299
 2025-09-01 19:25:50.804244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Alen Omic,-0.08779999999999999,0.4,0.4878
 2025-09-01 19:25:50.817929,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Panagiotis Kalaitzakis,-0.0909,0.0909,0.1818
 2025-09-01 15:31:47.351391,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,New York Liberty,-0.09090000000000004,0.3636,0.4545
-2025-09-01 13:00:15.058666,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,João Pedro,-0.0953,0.0476,0.1429
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Mark Padjen,-0.09620000000000001,0.0149,0.1111
 2025-09-01 18:40:26.870824,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Nicolo Melli,-0.1,0.1667,0.2667
-2025-09-01 13:00:15.247927,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,-0.10360000000000003,0.3509,0.4545
 2025-09-01 18:40:26.857120,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Italy,Danilo Gallinari,-0.1101,0.0149,0.125
 2025-09-01 18:40:26.840203,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Germany,Johannes Voigtmann,-0.11409999999999998,0.0526,0.1667
 2025-09-01 19:25:50.759882,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Spain,-0.11900000000000002,0.1667,0.2857
@@ -352,14 +244,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-01 18:40:26.860520,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Turkey,Shane Larkin,-0.123,0.0588,0.1818
 2025-09-01 18:40:26.863906,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Franz  Wagner,-0.12380000000000002,0.4,0.5238
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Gregor Hrovat,-0.1244,0.0294,0.1538
-2025-09-01 13:00:15.240127,Eredivisie - Netherlands Eredivisie 2025/26 - To Be Relegated,SC Telstar,-0.13,0.4444,0.5744
 2025-09-01 16:37:23.675633,"Financial Markets - Bitcoin Price - Will Bitcoin Reach $120,000 On September 3rd ?",Yes,-0.13419999999999999,0.0476,0.1818
 2025-09-01 21:28:44.372788,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Santi  Aldama,-0.13489999999999996,0.4651,0.6
-2025-09-01 13:40:47.281671,World Politics - Next Prime Minister of Norway - Proposition,Sylvi Listhaug,-0.1389,0.1111,0.25
 2025-09-01 18:40:26.880948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Alen Omic,-0.141,0.1667,0.3077
 2025-09-01 18:40:26.832736,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Saliou  Niang,-0.1474,0.0526,0.2
-2025-09-01 13:00:15.287432,Primera Division - Chile Primera Division - Liga de Primera 2025 Futures - Winner,Universidad de Chile,-0.1556,0.1111,0.2667
-2025-09-01 13:00:14.991270,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.1556,0.1111,0.2667
 2025-09-01 19:25:50.800837,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Nicolo Melli,-0.15910000000000002,0.75,0.9091
 2025-09-01 21:28:44.430917,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Guerschon  Yabusele,-0.1607,0.125,0.2857
 2025-09-01 19:25:50.759882,EuroBasket 2025 - EuroBasket 2025 - Group C Winner,Italy,-0.163,0.037,0.2

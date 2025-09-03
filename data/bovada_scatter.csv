@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,0.03420000000000001,0.1111,0.0769
 2025-09-03 06:41:56.630593,Nicolas Maduro Specials - Maduro Specials - Venezuela Specials,Maduro to be in US custody before October 2025,0.033300000000000024,0.2,0.1667
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.031799999999999995,0.1429,0.1111
+2025-09-03 17:31:13.428670,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,0.03070000000000006,0.9474,0.9167
 2025-09-03 07:29:44.883794,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Michael Conlan,0.025999999999999912,0.7403,0.7143
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,0.0257,0.1026,0.0769
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Forest Green Rovers,0.0242,0.9333,0.9091
@@ -21,13 +22,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.020100000000000007,0.25,0.2299
 2025-09-03 14:34:35.982174,Regular Season Stat Leaders - NFL Player With Most Rushing Yards 2025-26	 - Regular Season Most Rushing Yards,Tony Pollard (TEN),0.020000000000000004,0.0323,0.0123
 2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.019699999999999995,0.125,0.1053
-2025-09-03 06:41:58.730845,Irish Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / N. Norgaard / S. Norris - 1st Round 3 Balls,Niklas Norgaard,0.018900000000000028,0.4444,0.4255
 2025-09-03 08:37:52.459030,National League - England National League 2025/26 - Top 3 Finish,Rochdale,0.018900000000000028,0.4444,0.4255
+2025-09-03 06:41:58.730845,Irish Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / N. Norgaard / S. Norris - 1st Round 3 Balls,Niklas Norgaard,0.018900000000000028,0.4444,0.4255
 2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Baker Mayfield (TB),0.018600000000000005,0.1724,0.1538
 2025-09-03 07:29:44.783206,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.0179,0.1429,0.125
 2025-09-03 06:41:58.531343,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.0174,0.25,0.2326
-2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.0174,0.2174,0.2
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,0.0174,0.2174,0.2
+2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.0174,0.2174,0.2
 2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Joe Burrow (CIN),0.017299999999999982,0.303,0.2857
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Boston Red Sox,0.014899999999999997,0.0625,0.0476
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,0.01440000000000001,0.1053,0.0909
@@ -35,24 +36,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Shane Lowry,0.011700000000000016,0.2222,0.2105
 2025-09-03 06:41:58.587240,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.011600000000000055,0.5238,0.5122
 2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Rory McIlroy,0.01150000000000001,0.3448,0.3333
-2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Cade Klubnik (CLEM),0.0102,0.0769,0.0667
 2025-09-03 12:58:52.285758,European Legends Cup - European Legends Cup - Winner,Adilson Da Silva,0.0102,0.0769,0.0667
+2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Cade Klubnik (CLEM),0.0102,0.0769,0.0667
 2025-09-03 15:32:59.228429,Boxing Lines - Oscar Valdez vs Richard Medina - To Win the Bout,Oscar Valdez,0.010199999999999987,0.9333,0.9231
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Cleveland Guardians,-0.0101,0.004,0.0141
-2025-09-03 09:31:39.219108,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.0102,0.0667,0.0769
 2025-09-03 11:27:09.780811,Irish Open - Irish Open - Winner,Tyrrell Hatton,-0.0102,0.0667,0.0769
+2025-09-03 09:31:39.219108,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.0102,0.0667,0.0769
 2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.011400000000000007,0.1176,0.129
 2025-09-03 06:41:58.730845,Irish Open - 2/3 Balls - 1st Round 3 Balls - D. Brown / N. Norgaard / S. Norris - 1st Round 3 Balls,Shaun Norris,-0.011699999999999988,0.274,0.2857
 2025-09-03 09:31:39.219108,National League - England National League 2025/26 - Winner,York City,-0.0131,0.2222,0.2353
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.013899999999999996,0.1111,0.125
 2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Garrett Nussmeier (LSU),-0.013899999999999996,0.1111,0.125
-2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.013999999999999999,0.0769,0.0909
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.013999999999999999,0.0769,0.0909
+2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.013999999999999999,0.0769,0.0909
 2025-09-03 07:29:42.265310,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Volodymyr Zelenskyy,-0.013999999999999999,0.0769,0.0909
 2025-09-03 06:41:58.587240,ROY - NL ROY 2025 - National League Rookie of the Year,Matt Shaw (CHC),-0.014099999999999998,0.0244,0.0385
+2025-09-03 06:41:58.531343,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.015100000000000002,0.8182,0.8333
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,-0.015100000000000002,0.8182,0.8333
 2025-09-03 08:37:52.462280,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.015100000000000002,0.1667,0.1818
-2025-09-03 06:41:58.531343,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.015100000000000002,0.8182,0.8333
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.015100000000000002,0.1667,0.1818
 2025-09-03 06:41:58.510613,AL East - AL East 2025 - AL East Winner,New York Yankees,-0.01629999999999998,0.2778,0.2941
 2025-09-03 16:37:59.215822,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.0179,0.125,0.1429
@@ -64,6 +65,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 09:31:39.219108,National League - England National League 2025/26 - Winner,Southend Utd,-0.027999999999999997,0.1538,0.1818
 2025-09-03 07:29:44.883794,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.028299999999999992,0.3226,0.3509
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,-0.030700000000000005,0.0645,0.0952
+2025-09-03 17:31:13.428670,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.031799999999999995,0.1111,0.1429
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,-0.04849999999999999,0.1333,0.1818
 2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OKLA),-0.053599999999999995,0.0714,0.125
 2025-09-03 07:29:42.265310,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Yulia Navalnaya,-0.07230000000000003,0.2667,0.339

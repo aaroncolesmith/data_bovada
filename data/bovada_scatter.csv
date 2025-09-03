@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-02 21:27:58.891952,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Lithuania,Azuolas Tubelis,0.1417,0.2667,0.125
 2025-09-02 16:39:52.441102,Dallas Cowboys - Regular Season Wins 2025-26 - Cowboys Regular Season Wins,Under 7.5,0.13489999999999996,0.6,0.4651
 2025-09-02 22:31:11.981800,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Serbia,Tristan  Vukcevic,0.1084,0.1429,0.0345
-2025-09-02 15:34:05.256090,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Abdul Carter (NYG),0.0847,0.3704,0.2857
 2025-09-03 01:59:20.992488,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 1 Regular Season Shut Outs,0.0768,0.0909,0.0141
 2025-09-03 01:59:20.992488,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 3 Regular Season Shut Outs,0.0726,0.1111,0.0385
 2025-09-02 16:39:53.815396,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,"Ricky Pearsall 1,000 or more receiving yards",0.07239999999999996,0.3077,0.2353
@@ -16,16 +15,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-02 21:27:58.888382,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Latvia,Kristaps  Porzingis,0.05559999999999998,0.5556,0.5
 2025-09-03 03:05:08.875730,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Zero Regular Season Shut Outs,0.052399999999999995,0.0909,0.0385
 2025-09-02 16:39:53.094507,NFC East - Regular Season Division Wins - NY Giants Regular Season Division Wins,Over 1.5,0.047799999999999954,0.6774,0.6296
-2025-09-02 15:34:06.150349,Regular Season Stat Leaders - NFL Player With Most Receiving Yards 2025-26	 - Regular Season Most Receiving Yards,Drake London (ATL),0.04329999999999999,0.0909,0.0476
 2025-09-02 16:39:53.090852,NFC East - Regular Season Division Wins - Dallas Cowboys Regular Season Division Wins,Under 2.5,0.04139999999999999,0.5652,0.5238
-2025-09-02 15:34:06.140740,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Joe Burrow (CIN),0.04040000000000002,0.2222,0.1818
 2025-09-02 22:31:11.981800,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Serbia,Stefan Jovic,0.037700000000000004,0.0476,0.0099
-2025-09-02 15:34:06.140740,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Dak Prescott (DAL),0.037599999999999995,0.1429,0.1053
 2025-09-02 22:31:11.981800,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Serbia,Ognjen  Dobric,0.0336,0.0435,0.0099
 2025-09-02 16:39:53.098077,NFC East - Regular Season Division Wins - Philadelphia Eagles Regular Season Division Wins,Over 4.5,0.030299999999999994,0.4651,0.4348
 2025-09-03 01:59:20.992488,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Zero Regular Season Shut Outs,0.0286,0.0385,0.0099
 2025-09-02 22:31:13.689637,Quarterbacks - NFL Passing TD's 2025-26 - J.J. McCarthy Regular Season Total Passing TD's,Under 24.5,0.026499999999999968,0.5917,0.5652
-2025-09-02 15:34:06.150349,Regular Season Stat Leaders - NFL Player With Most Receiving Yards 2025-26	 - Regular Season Most Receiving Yards,Nico Collins (HOU),0.024999999999999994,0.125,0.1
 2025-09-02 22:31:14.616085,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,0.024500000000000077,0.8182,0.7937
 2025-09-02 16:39:53.025128,NFC North - Regular Season Division Wins - Green Bay Packers Regular Season Division Wins,Over 3.5,0.024399999999999977,0.5122,0.4878
 2025-09-02 22:31:11.974505,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Serbia,Aleksa  Avramovic,0.024299999999999995,0.0769,0.0526
@@ -35,13 +30,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-02 22:31:12.875826,Washington Commanders - Regular Season Wins 2025-26 - Commanders Regular Season Wins,Under 9.5,0.022600000000000064,0.5348,0.5122
 2025-09-02 18:39:45.103565,Stage Betting - Stage 11 - Outright,Matteo Jorgenson,0.0215,0.0294,0.0079
 2025-09-02 16:39:53.101645,NFC East - Regular Season Division Wins - Washington Commanders Regular Season Division Wins,Over 3.5,0.02079999999999993,0.5556,0.5348
-2025-09-03 03:05:08.875730,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 2 Regular Season Shut Outs,0.02020000000000001,0.1111,0.0909
 2025-09-03 03:05:08.875730,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 1 Regular Season Shut Outs,0.02020000000000001,0.1111,0.0909
-2025-09-02 15:34:05.256090,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Carson Schwesinger (CLE),0.019800000000000005,0.0476,0.0278
+2025-09-03 03:05:08.875730,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 2 Regular Season Shut Outs,0.02020000000000001,0.1111,0.0909
 2025-09-02 20:29:33.518949,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Malik Nabers (NYG),0.019800000000000005,0.0476,0.0278
 2025-09-02 22:31:11.945201,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Latvia,Kristaps Porzingis,0.019199999999999995,0.9901,0.9709
-2025-09-02 22:31:11.959664,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Latvia,Davis Bertans,0.018200000000000004,0.0476,0.0294
 2025-09-02 22:31:11.952724,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Lithuania,Margiris Normantas,0.018200000000000004,0.0476,0.0294
+2025-09-02 22:31:11.959664,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Latvia,Davis Bertans,0.018200000000000004,0.0476,0.0294
 2025-09-02 22:31:11.952724,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Lithuania,Arnas Velicka,0.018099999999999998,0.0769,0.0588
 2025-09-02 22:31:11.977942,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Lithuania,Ignas  Sargiunas,0.017099999999999997,0.0294,0.0123
 2025-09-02 20:29:35.341993,Boxing Lines - Alexandre Gaumont vs Sofiane Khati - To Win the Bout,Sofiane Khati,0.016600000000000004,0.1905,0.1739
@@ -51,19 +45,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-02 18:39:42.874336,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Buffalo Bills,0.013899999999999996,0.1429,0.129
 2025-09-02 20:29:33.536215,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Dak Prescott (DAL),0.0131,0.2353,0.2222
 2025-09-02 20:29:33.518949,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Joe Burrow (CIN),0.012700000000000003,0.0323,0.0196
-2025-09-02 15:34:05.244241,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),0.012499999999999997,0.0625,0.05
 2025-09-02 20:29:33.536215,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Hunter Renfrow (CAR),0.012100000000000001,0.0244,0.0123
 2025-09-02 20:29:33.536215,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Tua Tagovailoa (MIA),0.011500000000000003,0.05,0.0385
 2025-09-02 18:39:44.816185,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,0.011099999999999999,0.7937,0.7826
 2025-09-02 20:29:34.521223,Quarterbacks - NFL Passing TD's 2025-26 - Justin Fields Regular Season Total Passing TD's,Over 14.5,0.01100000000000001,0.5348,0.5238
-2025-09-02 15:34:05.244241,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),0.0102,0.0769,0.0667
 2025-09-02 18:39:42.874336,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Detroit Lions,0.0102,0.0769,0.0667
 2025-09-02 22:31:11.974505,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Serbia,Nikola  Jovic,0.010100000000000001,0.0345,0.0244
 2025-09-02 21:27:58.891952,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Lithuania,Rokas Giedraitis,-0.010100000000000001,0.0244,0.0345
 2025-09-02 20:29:34.521223,Quarterbacks - NFL Passing TD's 2025-26 - Justin Fields Regular Season Total Passing TD's,Under 14.5,-0.010699999999999932,0.5348,0.5455
 2025-09-02 22:31:11.945201,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Latvia,Davis Bertans,-0.011199999999999995,0.0476,0.0588
 2025-09-02 20:29:35.341993,Boxing Lines - Alexandre Gaumont vs Sofiane Khati - To Win the Bout,Alexandre Gaumont,-0.013900000000000023,0.875,0.8889
-2025-09-02 15:34:06.140740,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Brock Purdy (SF),-0.014399999999999996,0.0625,0.0769
 2025-09-02 22:31:11.952724,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Lithuania,Rokas Jokubaitis,-0.014499999999999957,0.9756,0.9901
 2025-09-02 22:31:11.952724,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Lithuania,Tadas Sedekerskis,-0.014900000000000004,0.0196,0.0345
 2025-09-02 17:30:51.011461,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,-0.015100000000000002,0.1667,0.1818
@@ -78,7 +69,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-02 22:31:13.689637,Quarterbacks - NFL Passing TD's 2025-26 - J.J. McCarthy Regular Season Total Passing TD's,Over 24.5,-0.023799999999999988,0.4762,0.5
 2025-09-02 22:31:14.616085,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,-0.02400000000000002,0.25,0.274
 2025-09-02 22:31:11.945201,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Latvia,Rihards Lomazs,-0.024299999999999995,0.0345,0.0588
-2025-09-02 15:34:06.140740,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,C.J. Stroud (HOU),-0.028399999999999995,0.0625,0.0909
 2025-09-02 16:39:53.098077,NFC East - Regular Season Division Wins - Philadelphia Eagles Regular Season Division Wins,Under 4.5,-0.02960000000000007,0.6,0.6296
 2025-09-02 16:39:53.094507,NFC East - Regular Season Division Wins - NY Giants Regular Season Division Wins,Under 1.5,-0.04260000000000003,0.3922,0.4348
 2025-09-02 16:39:53.090852,NFC East - Regular Season Division Wins - Dallas Cowboys Regular Season Division Wins,Over 2.5,-0.045499999999999985,0.5,0.5455

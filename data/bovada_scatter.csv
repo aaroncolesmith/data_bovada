@@ -1,5 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 18:39:58.586634,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Tom Pidcock,0.0544,0.0667,0.0123
+2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Tyler Dorsey,0.0539,0.0833,0.0294
+2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Konstantinos Mitoglou,0.0539,0.0833,0.0294
 2025-09-03 19:26:24.555682,National Championship - National Championship 2025-26 - National Championship Game Winner ,Miami Florida,0.03219999999999999,0.0667,0.0345
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.031799999999999995,0.1429,0.1111
 2025-09-03 18:39:57.365282,Regular Season Stat Leaders - NFL Player With Most Sacks 2025-26 - Regular Season Most Sacks,Aidan Hutchinson (DET),0.031,0.1739,0.1429
@@ -8,11 +10,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 18:39:57.355688,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Jahmyr Gibbs (DET),0.0286,0.1,0.0714
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,0.0257,0.1026,0.0769
 2025-09-03 18:39:57.350909,Regular Season Stat Leaders - NFL Player With Most Receptions 2025-26 - Regular Season Most Receptions,Ja'Marr Chase (CIN),0.02310000000000001,0.1481,0.125
-2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,LaNorris Sellers (SCAR),0.02310000000000001,0.1,0.0769
 2025-09-03 19:26:24.589942,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,0.022199999999999998,0.8,0.7778
 2025-09-03 14:34:35.982174,Regular Season Stat Leaders - NFL Player With Most Rushing Yards 2025-26	 - Regular Season Most Rushing Yards,Tony Pollard (TEN),0.020000000000000004,0.0323,0.0123
 2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Chicago Cubs,0.019699999999999995,0.125,0.1053
 2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Baker Mayfield (TB),0.018600000000000005,0.1724,0.1538
+2025-09-04 01:59:33.067150,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Mouhamet Diouf,0.018200000000000004,0.0476,0.0294
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Santiago Buitrago,0.018200000000000004,0.0476,0.0294
 2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.0174,0.2174,0.2
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,New York Yankees,0.0174,0.2174,0.2
@@ -22,30 +24,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 18:39:57.340795,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Ja'Marr Chase (CIN),0.014800000000000008,0.1481,0.1333
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,0.01440000000000001,0.1053,0.0909
 2025-09-03 18:39:56.436056,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),0.013999999999999999,0.0909,0.0769
+2025-09-04 01:59:35.573034,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.013899999999999996,0.125,0.1111
 2025-09-03 18:39:57.336016,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Joe Burrow (CIN),0.0131,0.2353,0.2222
 2025-09-03 19:26:24.555682,National Championship - National Championship 2025-26 - National Championship Game Winner ,Florida State,0.012400000000000001,0.0164,0.004
 2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Shane Lowry,0.011700000000000016,0.2222,0.2105
 2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Rory McIlroy,0.01150000000000001,0.3448,0.3333
 2025-09-03 18:39:57.331310,Regular Season Stat Leaders - NFL Player With Most Passing Touchdowns 2025-26 - Regular Season Most Passing Touchdowns,Joe Burrow (CIN),0.010499999999999982,0.2105,0.2
-2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Cade Klubnik (CLEM),0.0102,0.0769,0.0667
-2025-09-03 12:58:52.285758,European Legends Cup - European Legends Cup - Winner,Adilson Da Silva,0.0102,0.0769,0.0667
 2025-09-03 15:32:59.228429,Boxing Lines - Oscar Valdez vs Richard Medina - To Win the Bout,Oscar Valdez,0.010199999999999987,0.9333,0.9231
 2025-09-03 23:28:13.875298,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.010099999999999998,0.6875,0.6774
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Cleveland Guardians,-0.0101,0.004,0.0141
 2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,New York Mets,-0.011400000000000007,0.1176,0.129
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.013899999999999996,0.1111,0.125
-2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Garrett Nussmeier (LSU),-0.013899999999999996,0.1111,0.125
+2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 3 Regular Season Shut Outs,-0.013999999999999999,0.0769,0.0909
+2025-09-04 01:59:35.573034,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.014100000000000001,0.9333,0.9474
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.015100000000000002,0.1667,0.1818
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Matteo Jorgenson,-0.017099999999999997,0.0123,0.0294
 2025-09-03 19:26:24.589942,AFC East - AFC East 2025-26 - AFC East Winner,Miami Dolphins,-0.0175,0.1075,0.125
 2025-09-03 16:37:59.215822,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.0179,0.125,0.1429
-2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,San Diego Padres,-0.023799999999999988,0.1429,0.1667
+2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 2 Regular Season Shut Outs,-0.02020000000000001,0.0909,0.1111
 2025-09-03 18:39:58.586634,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,-0.023799999999999988,0.1429,0.1667
+2025-09-03 14:34:36.959502,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,San Diego Padres,-0.023799999999999988,0.1429,0.1667
 2025-09-03 19:26:24.594800,AFC West - AFC West 2025-26 - AFC West Winner,Los Angeles Chargers,-0.026999999999999996,0.2083,0.2353
 2025-09-03 14:34:36.940340,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,-0.030700000000000005,0.0645,0.0952
 2025-09-03 17:31:13.428670,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.031799999999999995,0.1111,0.1429
 2025-09-03 19:26:24.834200,Washington Commanders - Regular Season Wins 2025-26 - Commanders Regular Season Wins,Over 9.5,-0.03480000000000005,0.5,0.5348
 2025-09-03 14:34:36.953297,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,-0.04849999999999999,0.1333,0.1818
-2025-09-03 13:38:03.575178,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OKLA),-0.053599999999999995,0.0714,0.125
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Jonas Vingegaard,-0.15910000000000002,0.0909,0.25
 2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Aaron Rodgers (PIT),-0.8656,0.0435,0.9091

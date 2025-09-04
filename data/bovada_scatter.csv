@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-09-04 03:05:21.000032,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,Yes,0.06710000000000005,0.6825,0.6154
 2025-09-03 18:39:58.586634,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Tom Pidcock,0.0544,0.0667,0.0123
 2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Konstantinos Mitoglou,0.0539,0.0833,0.0294
 2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Tyler Dorsey,0.0539,0.0833,0.0294
@@ -9,10 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 18:39:57.355688,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Jahmyr Gibbs (DET),0.0286,0.1,0.0714
 2025-09-03 18:39:57.350909,Regular Season Stat Leaders - NFL Player With Most Receptions 2025-26 - Regular Season Most Receptions,Ja'Marr Chase (CIN),0.02310000000000001,0.1481,0.125
 2025-09-03 19:26:24.589942,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,0.022199999999999998,0.8,0.7778
-2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Baker Mayfield (TB),0.018600000000000005,0.1724,0.1538
-2025-09-04 01:59:33.067150,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Mouhamet Diouf,0.018200000000000004,0.0476,0.0294
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Santiago Buitrago,0.018200000000000004,0.0476,0.0294
-2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Joe Burrow (CIN),0.017299999999999982,0.303,0.2857
+2025-09-04 01:59:33.067150,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Mouhamet Diouf,0.018200000000000004,0.0476,0.0294
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Pablo Castrillo,0.017099999999999997,0.0294,0.0123
 2025-09-03 18:39:57.340795,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Ja'Marr Chase (CIN),0.014800000000000008,0.1481,0.1333
 2025-09-03 18:39:56.436056,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,TreVeyon Henderson (NE),0.013999999999999999,0.0909,0.0769
@@ -20,10 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-03 18:39:57.336016,Regular Season Stat Leaders - NFL Player With Most Passing Yards 2025-26 - Regular Season Most Passing Yards	,Joe Burrow (CIN),0.0131,0.2353,0.2222
 2025-09-04 03:05:22.536136,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,0.0129999999999999,0.8261,0.8131
 2025-09-03 19:26:24.555682,National Championship - National Championship 2025-26 - National Championship Game Winner ,Florida State,0.012400000000000001,0.0164,0.004
-2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Shane Lowry,0.011700000000000016,0.2222,0.2105
-2025-09-03 15:32:59.459781,Main Markets - 1st Round Six Shooter - C. Bezuidenhout / J. Svensson / J. Smith / K. Reitan / R. McIlroy / S. Lowry - 1st Round Six Shooter,Rory McIlroy,0.01150000000000001,0.3448,0.3333
 2025-09-03 18:39:57.331310,Regular Season Stat Leaders - NFL Player With Most Passing Touchdowns 2025-26 - Regular Season Most Passing Touchdowns,Joe Burrow (CIN),0.010499999999999982,0.2105,0.2
-2025-09-03 15:32:59.228429,Boxing Lines - Oscar Valdez vs Richard Medina - To Win the Bout,Oscar Valdez,0.010199999999999987,0.9333,0.9231
 2025-09-03 23:28:13.875298,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.010099999999999998,0.6875,0.6774
 2025-09-04 03:05:20.001214,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.010099999999999998,0.4444,0.4545
 2025-09-04 03:05:20.001214,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.013899999999999996,0.1111,0.125
@@ -41,4 +37,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 03:05:20.038402,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Giannis  Antetokounmpo,-0.04079999999999995,0.9542,0.995
 2025-09-04 03:05:21.000032,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,-0.06990000000000002,0.3846,0.4545
 2025-09-03 18:39:58.596205,Stage Betting - Stage 12 - Outright,Jonas Vingegaard,-0.15910000000000002,0.0909,0.25
-2025-09-03 15:32:58.833502,Regular Season Milestones - NFL Regular Season Milestones 2025 -26 - Player to Record 40+ Regular Season Passing TD's,Aaron Rodgers (PIT),-0.8656,0.0435,0.9091

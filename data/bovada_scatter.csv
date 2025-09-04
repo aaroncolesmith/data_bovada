@@ -24,20 +24,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 05:32:17.443167,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Mouhamet Diouf,0.058300000000000005,0.125,0.0667
 2025-09-04 05:32:17.425747,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Rok Radovic,0.05650000000000001,0.1,0.0435
 2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,0.05559999999999998,0.5,0.4444
-2025-09-04 05:32:17.394272,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,0.05559999999999998,0.1667,0.1111
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,David Adelman,0.05559999999999998,0.1667,0.1111
+2025-09-04 05:32:17.394272,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,0.05559999999999998,0.1667,0.1111
 2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Tyler Dorsey,0.0539,0.0833,0.0294
 2025-09-04 01:59:33.063745,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Konstantinos Mitoglou,0.0539,0.0833,0.0294
 2025-09-04 06:43:51.846297,Groups - Eastern Groups 2025-26 - East Group C Winner,New York Knicks,0.05300000000000005,0.5652,0.5122
 2025-09-04 06:43:51.825859,Pacific Division - Pacific Division 2025-26 - Division Winner,Golden State Warriors,0.052800000000000014,0.3125,0.2597
-2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Mouhammadou  Jaiteh,0.04999999999999999,0.25,0.2
 2025-09-04 04:35:04.997318,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Dario Brizuela,0.04999999999999999,0.25,0.2
+2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Mouhammadou  Jaiteh,0.04999999999999999,0.25,0.2
 2025-09-04 06:43:51.853408,Groups - Western Groups 2025-26 - West Group B Winner,Los Angeles Lakers,0.046099999999999974,0.3636,0.3175
 2025-09-04 04:35:04.997318,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Spain,Santi  Aldama,0.04229999999999999,0.0667,0.0244
 2025-09-04 05:32:17.443167,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Giampaolo Ricci,0.0392,0.0588,0.0196
 2025-09-04 05:32:19.874197,NL Central - NL Central 2025 - NL Central Winner,Milwaukee Brewers,0.033399999999999985,0.9565,0.9231
-2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Rochdale,0.033299999999999996,0.8333,0.8
+2025-09-04 11:27:31.876421,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,0.033299999999999996,0.5455,0.5122
 2025-09-04 06:43:51.820906,Northwest Division - Northwest Division 2025-26 - Division Winner,Oklahoma City Thunder,0.033299999999999996,0.8333,0.8
+2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Rochdale,0.033299999999999996,0.8333,0.8
 2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Jaylen  Hoard,0.0321,0.0909,0.0588
 2025-09-04 06:43:51.707359,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Cleveland Cavaliers,0.031799999999999995,0.3175,0.2857
 2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Cleveland Cavaliers,0.031799999999999995,0.1429,0.1111
@@ -59,10 +60,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 06:43:51.811422,Atlantic Division - Atlantic Division 2025-26 - Division Winner,Boston Celtics,0.020100000000000007,0.1739,0.1538
 2025-09-04 05:32:17.429224,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Spain,Sergio De Larrea,0.019499999999999997,0.0294,0.0099
 2025-09-04 06:43:51.850327,Groups - Western Groups 2025-26 - West Group A Winner,Oklahoma City Thunder,0.019499999999999962,0.6491,0.6296
-2025-09-04 04:35:04.983395,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Mouhamet Diouf,0.019099999999999992,0.0667,0.0476
 2025-09-04 04:35:04.983395,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Saliou  Niang,0.019099999999999992,0.0667,0.0476
-2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Atlanta Hawks,0.018800000000000004,0.0714,0.0526
+2025-09-04 04:35:04.983395,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Mouhamet Diouf,0.019099999999999992,0.0667,0.0476
 2025-09-04 06:43:51.715585,Western Conference - Western Conference 2025-26 - Conference Winner,Golden State Warriors,0.018800000000000004,0.0714,0.0526
+2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Atlanta Hawks,0.018800000000000004,0.0714,0.0526
 2025-09-04 06:43:51.850327,Groups - Western Groups 2025-26 - West Group A Winner,Phoenix Suns,0.01830000000000001,0.0952,0.0769
 2025-09-04 01:59:33.067150,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Mouhamet Diouf,0.018200000000000004,0.0476,0.0294
 2025-09-04 04:35:07.572235,Boxing Lines - Naoya Inoue vs Murodjon Akhmadaliev - To Win the Bout,Murodjon Akhmadaliev,0.0179,0.1429,0.125
@@ -79,11 +80,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 06:43:51.835368,Southwest Division - Southwest Division 2025-26 - Division Winner,New Orleans Pelicans,0.0145,0.0244,0.0099
 2025-09-04 06:43:51.835368,Southwest Division - Southwest Division 2025-26 - Division Winner,Memphis Grizzlies,0.014399999999999996,0.0769,0.0625
 2025-09-04 05:32:17.443167,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Nicolo Melli,0.014100000000000001,0.0526,0.0385
-2025-09-04 08:37:47.605722,Stage Betting - Stage 12 - Outright,Harold Tejada,0.014099999999999998,0.0385,0.0244
 2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Timothe  Luwawu-Cabarrot,0.014099999999999998,0.0435,0.0294
+2025-09-04 08:37:47.605722,Stage Betting - Stage 12 - Outright,Harold Tejada,0.014099999999999998,0.0385,0.0244
 2025-09-04 06:43:51.715585,Western Conference - Western Conference 2025-26 - Conference Winner,Minnesota Timberwolves,0.013999999999999999,0.0909,0.0769
 2025-09-04 01:59:35.573034,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.013899999999999996,0.125,0.1111
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),0.013800000000000034,0.3774,0.3636
+2025-09-04 11:27:31.997864,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.0131,0.7778,0.7647
 2025-09-04 04:35:04.976452,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Tyler Dorsey,0.0131,0.0476,0.0345
 2025-09-04 03:05:22.536136,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,0.0129999999999999,0.8261,0.8131
 2025-09-04 06:43:51.816172,Central Division - Central Division 2025-26 - Division Winner,Indiana Pacers,0.0126,0.0526,0.04
@@ -96,31 +98,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,DeMar DeRozan (SAC),0.010700000000000001,0.0385,0.0278
 2025-09-04 06:43:51.692931,NBA Championship Winner - Championship 2025-26 - Champion,Los Angeles Lakers,0.0102,0.0769,0.0667
 2025-09-03 23:28:13.875298,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,0.010099999999999998,0.6875,0.6774
-2025-09-04 03:05:20.001214,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.010099999999999998,0.4444,0.4545
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Edwards (MIN),-0.010099999999999998,0.0952,0.1053
+2025-09-04 03:05:20.001214,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.010099999999999998,0.4444,0.4545
 2025-09-04 05:32:17.446685,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Juancho Hernangomez,-0.010100000000000001,0.0244,0.0345
+2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Obi Toppin (IND),-0.010100000000000001,0.0244,0.0345
 2025-09-04 04:35:04.972354,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Darius Thompson,-0.010100000000000001,0.0244,0.0345
 2025-09-04 05:32:17.439671,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Mouhammadou  Jaiteh,-0.010100000000000001,0.0244,0.0345
-2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Obi Toppin (IND),-0.010100000000000001,0.0244,0.0345
-2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Shai Gilgeous-Alexander (OKC),-0.0102,0.005,0.0152
+2025-09-04 11:27:31.846065,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.010199999999999987,0.9231,0.9333
 2025-09-04 07:29:22.106296,Winning Division - Winning Division 2025-26 - Winning Division ,Southeast,-0.0102,0.0667,0.0769
+2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Shai Gilgeous-Alexander (OKC),-0.0102,0.005,0.0152
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Kelly Oubre Jr (PHI),-0.010300000000000002,0.0141,0.0244
 2025-09-04 08:37:44.818098,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Shai Gilgeous-Alexander (OKC),-0.010599999999999998,0.2597,0.2703
 2025-09-04 09:32:09.443338,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Jeremiah Fears (NOP),-0.010600000000000002,0.0217,0.0323
-2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jabari Smith Jr. (HOU),-0.010700000000000001,0.0278,0.0385
-2025-09-04 10:35:15.167466,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,TJ McConnell (IND),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Donte DiVincenzo (MIN),-0.010700000000000001,0.0196,0.0303
-2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Keldon Johnson (SAS),-0.010700000000000001,0.0278,0.0385
+2025-09-04 10:35:15.167466,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,TJ McConnell (IND),-0.010700000000000001,0.0278,0.0385
+2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jabari Smith Jr. (HOU),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),-0.010700000000000001,0.0278,0.0385
+2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Keldon Johnson (SAS),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:12.022713,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Luis Campos Cortez,-0.010899999999999993,0.1429,0.1538
-2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.011099999999999999,0.1,0.1111
-2025-09-04 06:43:51.707359,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Detroit Pistons,-0.011099999999999999,0.0556,0.0667
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.011099999999999999,0.1,0.1111
+2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.011099999999999999,0.1,0.1111
 2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Kevin Durant (HOU),-0.011099999999999999,0.1,0.1111
-2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Minnesota Timberwolves,-0.011199999999999995,0.0476,0.0588
-2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Anthony Edwards (MIN),-0.011199999999999995,0.0476,0.0588
-2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Halifax Town,-0.011199999999999995,0.0476,0.0588
+2025-09-04 06:43:51.707359,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Detroit Pistons,-0.011099999999999999,0.0556,0.0667
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Devante Rodney (Rochdale),-0.011199999999999995,0.0476,0.0588
+2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Anthony Edwards (MIN),-0.011199999999999995,0.0476,0.0588
+2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Minnesota Timberwolves,-0.011199999999999995,0.0476,0.0588
+2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Halifax Town,-0.011199999999999995,0.0476,0.0588
 2025-09-04 06:43:51.835368,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.011699999999999933,0.7778,0.7895
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Lonzo Ball (CLE),-0.0118,0.0099,0.0217
 2025-09-04 06:43:51.850327,Groups - Western Groups 2025-26 - West Group A Winner,Minnesota Timberwolves,-0.011899999999999994,0.2381,0.25
@@ -131,8 +134,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 06:43:51.846297,Groups - Eastern Groups 2025-26 - East Group C Winner,Miami Heat,-0.012899999999999995,0.1538,0.1667
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),-0.013899999999999996,0.1111,0.125
 2025-09-04 03:05:20.001214,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.013899999999999996,0.1111,0.125
-2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 3 Regular Season Shut Outs,-0.013999999999999999,0.0769,0.0909
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,-0.013999999999999999,0.0769,0.0909
+2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 3 Regular Season Shut Outs,-0.013999999999999999,0.0769,0.0909
 2025-09-04 06:43:51.856491,Groups - Western Groups 2025-26 - West Group C Winner,Portland Trail Blazers,-0.014099999999999994,0.0526,0.0667
 2025-09-04 01:59:35.573034,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.014100000000000001,0.9333,0.9474
 2025-09-04 09:32:12.027805,Boxing Lines - Jhon Orobio vs Ivan Basurto Monroy - To Win the Bout,Ivan Basurto Monroy,-0.014399999999999996,0.0625,0.0769
@@ -143,11 +146,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Stephen Curry (GSW),-0.014899999999999997,0.0476,0.0625
 2025-09-04 04:35:04.993857,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Matteo Spagnolo,-0.014900000000000004,0.0196,0.0345
 2025-09-04 04:35:04.990360,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Bilal  Coulibaly,-0.014900000000000004,0.0196,0.0345
+2025-09-04 06:43:51.853408,Groups - Western Groups 2025-26 - West Group B Winner,Dallas Mavericks,-0.015100000000000002,0.1667,0.1818
 2025-09-04 07:29:22.106296,Winning Division - Winning Division 2025-26 - Winning Division ,Southwest,-0.015100000000000002,0.1667,0.1818
-2025-09-04 07:29:22.006461,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Shai Gilgeous-Alexander (OKC),-0.015100000000000002,0.1667,0.1818
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Mani Dieseruvwe (Rochdale),-0.015100000000000002,0.1667,0.1818
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.015100000000000002,0.1667,0.1818
-2025-09-04 06:43:51.853408,Groups - Western Groups 2025-26 - West Group B Winner,Dallas Mavericks,-0.015100000000000002,0.1667,0.1818
+2025-09-04 07:29:22.006461,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Shai Gilgeous-Alexander (OKC),-0.015100000000000002,0.1667,0.1818
 2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Nikola Jokic,-0.015400000000000025,0.2703,0.2857
 2025-09-04 03:05:22.536136,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,-0.015400000000000025,0.241,0.2564
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Scunthorpe United,-0.015700000000000006,0.1176,0.1333
@@ -158,6 +161,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 04:35:05.000795,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Mouhammadou  Jaiteh,-0.017099999999999997,0.0123,0.0294
 2025-09-04 04:35:05.000795,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Theo  Maledon,-0.017099999999999997,0.0123,0.0294
 2025-09-04 04:35:04.979935,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Joel Parra,-0.017099999999999997,0.0123,0.0294
+2025-09-04 11:27:31.997864,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,-0.017299999999999982,0.2857,0.303
 2025-09-04 06:43:51.825859,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,-0.017600000000000005,0.3333,0.3509
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.0179,0.125,0.1429
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.018099999999999998,0.0588,0.0769
@@ -169,8 +173,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.019099999999999992,0.0476,0.0667
 2025-09-04 04:35:04.979935,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - Spain,Santiago Yusta,-0.019600000000000003,0.0149,0.0345
 2025-09-04 06:43:51.715585,Western Conference - Western Conference 2025-26 - Conference Winner,Los Angeles Lakers,-0.02020000000000001,0.0909,0.1111
-2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 2 Regular Season Shut Outs,-0.02020000000000001,0.0909,0.1111
 2025-09-04 09:32:09.443338,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Dylan Harper (SAS),-0.02020000000000001,0.0909,0.1111
+2025-09-04 01:59:35.371840,NFL Requested Specials - NFL Season Requested Specials - NFL Requested Specials,Exactly 2 Regular Season Shut Outs,-0.02020000000000001,0.0909,0.1111
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Gradey Dick (TOR),-0.0203,0.0385,0.0588
 2025-09-04 06:43:51.707359,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Orlando Magic,-0.02049999999999999,0.1333,0.1538
 2025-09-04 09:32:09.068106,National League - England National League 2025/26 - Winner,Forest Green Rovers,-0.021999999999999964,0.2857,0.3077
@@ -179,14 +183,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jordan Clarkson (NYK),-0.0232,0.0435,0.0667
 2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Theo  Maledon,-0.023200000000000002,0.0244,0.0476
 2025-09-04 04:35:04.972354,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Saliou  Niang,-0.023200000000000002,0.0294,0.0526
-2025-09-04 06:43:51.856491,Groups - Western Groups 2025-26 - West Group C Winner,Houston Rockets,-0.023799999999999988,0.3333,0.3571
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.023799999999999988,0.1429,0.1667
-2025-09-04 05:32:17.411758,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Panagiotis Kalaitzakis,-0.0242,0.0667,0.0909
+2025-09-04 06:43:51.856491,Groups - Western Groups 2025-26 - West Group C Winner,Houston Rockets,-0.023799999999999988,0.3333,0.3571
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,Mitch Johnson,-0.0242,0.0667,0.0909
 2025-09-04 05:32:17.411758,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Konstantinos Mitoglou,-0.0242,0.0667,0.0909
+2025-09-04 05:32:17.411758,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Panagiotis Kalaitzakis,-0.0242,0.0667,0.0909
 2025-09-04 04:35:04.972354,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Italy,Nicolo Melli,-0.024299999999999995,0.0345,0.0588
-2025-09-04 05:32:17.446685,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Xabi Lopez-Arostegui,-0.024999999999999994,0.1,0.125
 2025-09-04 04:35:05.004244,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Sylvain  Francisco,-0.024999999999999994,0.1,0.125
+2025-09-04 05:32:17.446685,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Xabi Lopez-Arostegui,-0.024999999999999994,0.1,0.125
 2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Hartlepool United,-0.025300000000000003,0.1176,0.1429
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Southend Utd,-0.02560000000000001,0.3077,0.3333
 2025-09-04 08:37:44.829345,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Joel Embiid (PHI),-0.026899999999999993,0.05,0.0769
@@ -197,9 +201,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Luka Doncic (LAL),-0.028399999999999995,0.0625,0.0909
 2025-09-04 06:43:51.697817,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Houston Rockets,-0.0286,0.0714,0.1
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Hartlepool United,-0.029000000000000026,0.4255,0.4545
-2025-09-04 05:32:17.408220,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Joel Parra,-0.029299999999999993,0.0476,0.0769
 2025-09-04 05:32:17.408220,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Jaime Pradilla,-0.029299999999999993,0.0476,0.0769
+2025-09-04 05:32:17.408220,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Spain,Joel Parra,-0.029299999999999993,0.0476,0.0769
 2025-09-04 07:29:22.111340,First Time Winner - First Time Winner 2025-26 - First Time Winner,No,-0.02980000000000005,0.875,0.9048
+2025-09-04 11:27:31.876421,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,-0.03179999999999994,0.5238,0.5556
 2025-09-04 05:32:17.394272,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Konstantinos Mitoglou,-0.0321,0.0588,0.0909
 2025-09-04 06:43:51.853408,Groups - Western Groups 2025-26 - West Group B Winner,L.A. Clippers,-0.032299999999999995,0.3125,0.3448
 2025-09-04 05:32:17.439671,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Guerschon  Yabusele,-0.033300000000000024,0.1667,0.2
@@ -235,9 +240,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 03:05:21.000032,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,-0.06990000000000002,0.3846,0.4545
 2025-09-04 05:32:19.863831,AL East - AL East 2025 - AL East Winner,Boston Red Sox,-0.07500000000000001,0.125,0.2
 2025-09-04 04:35:04.993857,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Nicolo Melli,-0.08979999999999999,0.0769,0.1667
-2025-09-04 05:32:17.446685,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Santiago Yusta,-0.0905,0.0345,0.125
 2025-09-04 05:32:17.439671,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Theo  Maledon,-0.0905,0.0345,0.125
 2025-09-04 04:35:05.000795,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Bilal  Coulibaly,-0.0905,0.0345,0.125
+2025-09-04 05:32:17.446685,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Spain,Santiago Yusta,-0.0905,0.0345,0.125
 2025-09-04 05:32:17.439671,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Elie  Okobo,-0.09999999999999999,0.0667,0.1667
 2025-09-04 04:35:04.990360,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - France,Theo  Maledon,-0.10439999999999999,0.0385,0.1429
 2025-09-04 04:35:05.000795,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Sylvain  Francisco,-0.1079,0.0588,0.1667

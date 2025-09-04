@@ -3,14 +3,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 15:41:23.893819,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),0.10000000000000003,0.5348,0.4348
 2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,James Madison,0.07690000000000002,0.3846,0.3077
 2025-09-04 14:35:04.937078,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Tulane,0.07520000000000002,0.2857,0.2105
-2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,0.05559999999999998,0.5,0.4444
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,David Adelman,0.05559999999999998,0.1667,0.1111
+2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,0.05559999999999998,0.5,0.4444
 2025-09-04 15:41:23.877265,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.04859999999999998,0.9375,0.8889
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ohio,0.044499999999999984,0.2667,0.2222
 2025-09-04 14:35:04.103222,"Daily Soccer Specials - European FIFA World Cup Qualifiers - Thursday, 4th September - European FIFA World Cup Qualifiers - Thursday, 4th September","Spain, Netherlands and Germany each to score 2 or more goals",0.044399999999999995,0.4444,0.4
 2025-09-04 20:32:06.103737,Stage Betting - Stage 13 - Outright,Felix Gall,0.03559999999999999,0.0435,0.0079
-2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Texas State,0.033399999999999985,0.1667,0.1333
 2025-09-04 12:55:23.938362,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,0.033399999999999985,0.1667,0.1333
+2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Texas State,0.033399999999999985,0.1667,0.1333
 2025-09-04 11:27:31.876421,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,0.033299999999999996,0.5455,0.5122
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Rochdale,0.033299999999999996,0.8333,0.8
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Buffalo,0.031700000000000006,0.2222,0.1905
@@ -18,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 14:35:04.937078,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Memphis,0.028799999999999992,0.1667,0.1379
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,Ime Udoka,0.0267,0.1176,0.0909
 2025-09-04 12:55:24.034760,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Pedro Guevara,0.025600000000000067,0.6923,0.6667
-2025-09-04 08:37:47.605722,Stage Betting - Stage 12 - Outright,Marc Soler,0.0245,0.0833,0.0588
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Central Michigan,0.024299999999999995,0.0769,0.0526
 2025-09-04 14:35:06.725796,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Avery Martin Duval,0.0242,0.9333,0.9091
 2025-09-04 17:30:43.183408,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.023800000000000016,0.1905,0.1667
@@ -26,33 +25,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,Mark Daigneault,0.023200000000000002,0.0476,0.0244
 2025-09-04 14:35:06.476994,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.02310000000000001,0.1,0.0769
 2025-09-04 14:35:04.928538,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Fresno State,0.02310000000000001,0.1,0.0769
-2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Luka Doncic (LAL),0.02210000000000001,0.2326,0.2105
 2025-09-04 12:55:23.970844,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,0.02169999999999994,0.5455,0.5238
-2025-09-04 08:37:47.605722,Stage Betting - Stage 12 - Outright,Mads Pedersen,0.0203,0.0588,0.0385
+2025-09-04 21:28:49.098028,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,0.01999999999999999,0.2105,0.1905
 2025-09-04 20:32:06.103737,Stage Betting - Stage 13 - Outright,Sepp Kuss,0.0194,0.0244,0.005
 2025-09-04 18:40:39.478037,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jordan Love (GB),0.018800000000000004,0.0714,0.0526
 2025-09-04 18:40:41.467403,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Charlie Edwards,0.017900000000000027,0.875,0.8571
 2025-09-04 17:30:43.122263,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Luis Campos Cortez,0.0179,0.1429,0.125
 2025-09-04 14:35:04.928538,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,0.0179,0.1429,0.125
-2025-09-04 08:37:47.375066,Boxing Lines - Zachary Phee vs Frankie Storey - To Win the Bout,Zachary Phee,0.017300000000000093,0.7143,0.697
 2025-09-04 14:35:06.897434,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.017299999999999982,0.303,0.2857
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Altrincham,0.016699999999999993,0.2667,0.25
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.016699999999999993,0.2667,0.25
-2025-09-04 08:37:44.818098,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Stephen Curry (GSW),0.0157,0.0435,0.0278
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,JJ Redick,0.015300000000000001,0.0476,0.0323
-2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Carlisle United,0.015100000000000002,0.8333,0.8182
 2025-09-04 16:38:16.463411,Regular Season Stat Leaders - NFL Player With Most Rushing Touchdowns 2025-26 - Regular Season Most Rushing Touchdowns,Derrick Henry (BAL),0.015100000000000002,0.1818,0.1667
+2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Carlisle United,0.015100000000000002,0.8333,0.8182
 2025-09-04 09:32:12.027805,Boxing Lines - Jhon Orobio vs Ivan Basurto Monroy - To Win the Bout,Jhon Orobio,0.015000000000000013,0.9859,0.9709
 2025-09-04 17:30:42.232429,Regular Season Stat Leaders - NFL Player With Most Receiving Touchdowns 2025-26 - Regular Season Most Receiving Touchdowns,Drake London (ATL),0.014899999999999997,0.0625,0.0476
 2025-09-04 14:35:04.928538,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,0.014399999999999996,0.0769,0.0625
 2025-09-04 15:41:23.404994,Wide Receivers - NFL Receiving TD's 2025-26 - Tetairoa McMillan Regular Season Total Receiving TD's,Over 4.5,0.014200000000000101,0.6296,0.6154
 2025-09-04 16:38:15.555652,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Abdul Carter (NYG),0.01419999999999999,0.3846,0.3704
-2025-09-04 08:37:47.605722,Stage Betting - Stage 12 - Outright,Harold Tejada,0.014099999999999998,0.0385,0.0244
+2025-09-04 21:28:49.075456,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,0.014000000000000012,0.9231,0.9091
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),0.013800000000000034,0.3774,0.3636
-2025-09-04 11:27:31.997864,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.0131,0.7778,0.7647
-2025-09-04 15:41:24.062121,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,0.0131,0.7778,0.7647
 2025-09-04 12:55:23.948192,Boxing Lines - Kieran Molloy vs Nourdeen Toure - To Win the Bout,Kieran Molloy,0.0131,0.9655,0.9524
 2025-09-04 18:40:41.611428,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.0131,0.7778,0.7647
+2025-09-04 11:27:31.997864,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.0131,0.7778,0.7647
+2025-09-04 15:41:24.062121,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,0.0131,0.7778,0.7647
 2025-09-04 14:35:04.928538,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,0.012400000000000001,0.0164,0.004
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,Jason Kidd,0.0118,0.0217,0.0099
 2025-09-04 14:35:04.937078,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Rice,0.0113,0.0179,0.0066
@@ -64,89 +60,80 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,DeMar DeRozan (SAC),0.010700000000000001,0.0385,0.0278
 2025-09-04 18:40:41.477011,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,0.010699999999999932,0.5455,0.5348
 2025-09-04 19:25:33.918556,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,0.010099999999999998,0.5556,0.5455
-2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Edwards (MIN),-0.010099999999999998,0.0952,0.1053
 2025-09-04 12:55:23.966143,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,-0.010099999999999998,0.3125,0.3226
+2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Edwards (MIN),-0.010099999999999998,0.0952,0.1053
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Obi Toppin (IND),-0.010100000000000001,0.0244,0.0345
 2025-09-04 11:27:31.846065,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.010199999999999987,0.9231,0.9333
 2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Shai Gilgeous-Alexander (OKC),-0.0102,0.005,0.0152
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Kelly Oubre Jr (PHI),-0.010300000000000002,0.0141,0.0244
-2025-09-04 08:37:44.818098,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Shai Gilgeous-Alexander (OKC),-0.010599999999999998,0.2597,0.2703
 2025-09-04 09:32:09.443338,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Jeremiah Fears (NOP),-0.010600000000000002,0.0217,0.0323
 2025-09-04 15:41:23.962523,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,-0.010699999999999932,0.5348,0.5455
-2025-09-04 18:40:39.478037,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Matthew Stafford (LAR),-0.010700000000000001,0.0278,0.0385
+2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),-0.010700000000000001,0.0278,0.0385
 2025-09-04 10:35:15.167466,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,TJ McConnell (IND),-0.010700000000000001,0.0278,0.0385
+2025-09-04 18:40:39.478037,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Matthew Stafford (LAR),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Keldon Johnson (SAS),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jabari Smith Jr. (HOU),-0.010700000000000001,0.0278,0.0385
-2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),-0.010700000000000001,0.0278,0.0385
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Donte DiVincenzo (MIN),-0.010700000000000001,0.0196,0.0303
-2025-09-04 13:37:27.942003,Boxing Lines - Pat McCormack vs Miguel Parra Ramirez - To Win the Bout,Miguel Parra Ramirez,-0.010899999999999993,0.1429,0.1538
 2025-09-04 09:32:12.022713,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Luis Campos Cortez,-0.010899999999999993,0.1429,0.1538
+2025-09-04 13:37:27.942003,Boxing Lines - Pat McCormack vs Miguel Parra Ramirez - To Win the Bout,Miguel Parra Ramirez,-0.010899999999999993,0.1429,0.1538
 2025-09-04 18:40:41.477011,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.01100000000000001,0.5238,0.5348
-2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Kevin Durant (HOU),-0.011099999999999999,0.1,0.1111
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.011099999999999999,0.1,0.1111
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.011099999999999999,0.1,0.1111
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Devante Rodney (Rochdale),-0.011199999999999995,0.0476,0.0588
 2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Halifax Town,-0.011199999999999995,0.0476,0.0588
-2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Anthony Edwards (MIN),-0.011199999999999995,0.0476,0.0588
 2025-09-04 19:25:33.918556,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.011600000000000055,0.5122,0.5238
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Lonzo Ball (CLE),-0.0118,0.0099,0.0217
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Forest Green Rovers,-0.012199999999999989,0.5,0.5122
 2025-09-04 20:32:05.728324,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.5,0.5122
-2025-09-04 08:37:47.375066,Boxing Lines - Zachary Phee vs Frankie Storey - To Win the Bout,Frankie Storey,-0.012699999999999989,0.3509,0.3636
-2025-09-04 17:30:43.244339,Boxing Lines - Muzamiru Kakande vs Kevin Reavell - To Win the Bout,Kevin Reavell,-0.012899999999999995,0.1538,0.1667
 2025-09-04 18:40:41.444410,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.012899999999999995,0.1538,0.1667
+2025-09-04 17:30:43.244339,Boxing Lines - Muzamiru Kakande vs Kevin Reavell - To Win the Bout,Kevin Reavell,-0.012899999999999995,0.1538,0.1667
 2025-09-04 14:35:06.897434,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.0131,0.7647,0.7778
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),-0.013899999999999996,0.1111,0.125
-2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,-0.013999999999999999,0.0769,0.0909
 2025-09-04 14:35:06.476994,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,-0.013999999999999999,0.0769,0.0909
+2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Hartlepool United,-0.013999999999999999,0.0769,0.0909
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Eastern Michigan,-0.014099999999999998,0.0294,0.0435
-2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Coastal Carolina,-0.014100000000000001,0.0385,0.0526
 2025-09-04 14:35:04.928538,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Hawaii,-0.014100000000000001,0.0385,0.0526
+2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Coastal Carolina,-0.014100000000000001,0.0385,0.0526
 2025-09-04 09:32:12.027805,Boxing Lines - Jhon Orobio vs Ivan Basurto Monroy - To Win the Bout,Ivan Basurto Monroy,-0.014399999999999996,0.0625,0.0769
-2025-09-04 08:37:44.829345,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Giannis Antetokounmpo (MIL),-0.014399999999999996,0.0625,0.0769
 2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Luguentz Dort (OKC),-0.014599999999999998,0.0132,0.0278
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Anthony Davis (DAL),-0.014599999999999998,0.0132,0.0278
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Halifax Town,-0.01469999999999999,0.2353,0.25
-2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Stephen Curry (GSW),-0.014899999999999997,0.0476,0.0625
 2025-09-04 09:32:09.071688,National League - England National League 2025/26 - Top Goalscorer,Mani Dieseruvwe (Rochdale),-0.015100000000000002,0.1667,0.1818
-2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.015100000000000002,0.1667,0.1818
 2025-09-04 15:41:23.893819,ROY - NL ROY 2025 - National League Rookie of the Year,Isaac Collins (MIL),-0.015100000000000002,0.1667,0.1818
+2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.015100000000000002,0.1667,0.1818
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Western Michigan,-0.015300000000000001,0.0435,0.0588
-2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Nikola Jokic,-0.015400000000000025,0.2703,0.2857
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Scunthorpe United,-0.015700000000000006,0.1176,0.1333
-2025-09-04 08:37:44.812547,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.01579999999999998,0.3175,0.3333
 2025-09-04 17:30:43.122263,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Avery Martin Duval,-0.01660000000000006,0.9167,0.9333
 2025-09-04 12:55:23.948192,Boxing Lines - Kieran Molloy vs Nourdeen Toure - To Win the Bout,Nourdeen Toure,-0.016700000000000007,0.0833,0.1
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.0168,0.0217,0.0385
-2025-09-04 15:41:24.062121,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.017299999999999982,0.2857,0.303
 2025-09-04 18:40:41.611428,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,-0.017299999999999982,0.2857,0.303
 2025-09-04 11:27:31.997864,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,-0.017299999999999982,0.2857,0.303
+2025-09-04 15:41:24.062121,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.017299999999999982,0.2857,0.303
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.0179,0.125,0.1429
+2025-09-04 21:28:49.098028,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Charlie Edwards,-0.017900000000000027,0.8571,0.875
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Morecambe,-0.018099999999999998,0.0588,0.0769
 2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Scunthorpe United,-0.01820000000000002,0.1818,0.2
-2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Evan Mobley (CLE),-0.01830000000000001,0.0769,0.0952
 2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Old Dominion,-0.01830000000000001,0.0769,0.0952
+2025-09-04 09:32:09.466330,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Evan Mobley (CLE),-0.01830000000000001,0.0769,0.0952
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Brook Lopez (LAC),-0.0187,0.0057,0.0244
 2025-09-04 10:35:15.172934,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.019099999999999992,0.0476,0.0667
 2025-09-04 15:41:23.404994,Wide Receivers - NFL Receiving TD's 2025-26 - Tetairoa McMillan Regular Season Total Receiving TD's,Under 4.5,-0.019699999999999995,0.4348,0.4545
 2025-09-04 18:40:41.467403,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,-0.01999999999999999,0.1905,0.2105
 2025-09-04 09:32:09.443338,Rookie of the Year - Rookie of the Year 2025-26 - ROTY,Dylan Harper (SAS),-0.02020000000000001,0.0909,0.1111
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Gradey Dick (TOR),-0.0203,0.0385,0.0588
+2025-09-04 21:28:49.075456,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Vladimir Shishkin,-0.02049999999999999,0.1333,0.1538
 2025-09-04 12:55:23.970844,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.02169999999999994,0.5238,0.5455
 2025-09-04 09:32:09.068106,National League - England National League 2025/26 - Winner,Forest Green Rovers,-0.021999999999999964,0.2857,0.3077
-2025-09-04 08:37:44.829345,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Donovan Mitchell (CLE),-0.022199999999999998,0.2,0.2222
 2025-09-04 12:55:23.938362,Boxing Lines - Osleys Iglesias vs Vladimir Shishkin - To Win the Bout,Osleys Iglesias,-0.02310000000000001,0.9,0.9231
 2025-09-04 09:32:09.455015,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jordan Clarkson (NYK),-0.0232,0.0435,0.0667
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.023799999999999988,0.1429,0.1667
-2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Georgia Southern,-0.0242,0.0667,0.0909
 2025-09-04 09:32:09.437750,Coach of the Year - Coach of the Year 2025-26 - COTY,Mitch Johnson,-0.0242,0.0667,0.0909
+2025-09-04 14:35:04.932671,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Georgia Southern,-0.0242,0.0667,0.0909
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Bowling Green,-0.024299999999999995,0.0526,0.0769
 2025-09-04 14:35:04.945366,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Miami Ohio,-0.024999999999999994,0.1,0.125
 2025-09-04 17:30:43.183408,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White (UGA),-0.025000000000000022,0.875,0.9
 2025-09-04 09:32:09.078832,National League - England National League 2025/26 - Top 3 Finish,Hartlepool United,-0.025300000000000003,0.1176,0.1429
 2025-09-04 09:32:09.075445,National League - England National League 2025/26 - To Be Promoted,Southend Utd,-0.02560000000000001,0.3077,0.3333
-2025-09-04 08:37:44.829345,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Joel Embiid (PHI),-0.026899999999999993,0.05,0.0769
-2025-09-04 08:37:44.834770,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Luka Doncic (LAL),-0.028399999999999995,0.0625,0.0909
 2025-09-04 14:35:06.725796,Boxing Lines - Avery Martin Duval vs Luis Campos Cortez - To Win the Bout,Luis Campos Cortez,-0.028799999999999992,0.125,0.1538
 2025-09-04 09:32:09.082238,National League - England National League 2025/26 - Top 7 Finish,Hartlepool United,-0.029000000000000026,0.4255,0.4545
 2025-09-04 12:55:24.034760,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Adrian Curiel,-0.029600000000000015,0.3704,0.4

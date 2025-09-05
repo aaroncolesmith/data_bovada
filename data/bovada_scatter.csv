@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Turkey,0.49210000000000004,0.7143,0.2222
-2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Guerschon  Yabusele,0.3917,0.5455,0.1538
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Turkey,0.3917,0.5455,0.1538
+2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Guerschon  Yabusele,0.3917,0.5455,0.1538
 2025-09-05 18:38:39.136529,Stage Betting - Stage 14 - Outright,Jonas Vingegaard,0.35000000000000003,0.4167,0.0667
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Alperen  Sengun,0.2417,0.3846,0.1429
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Antetokounmpo,0.2122,0.5455,0.3333
@@ -21,18 +21,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Dennis  Schroder,0.10370000000000001,0.3704,0.2667
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Panagiotis Kalaitzakis,0.09999999999999999,0.1667,0.0667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Neemias  Queta,0.0956,0.125,0.0294
-2025-09-05 07:29:47.454462,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,0.09509999999999996,0.7826,0.6875
 2025-09-05 15:31:58.210315,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Nicola Akele,0.0865,0.125,0.0385
 2025-09-05 15:31:58.210315,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Darius Thompson,0.08410000000000001,0.1429,0.0588
 2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Luka  Doncic,0.08080000000000004,0.4444,0.3636
-2025-09-05 07:29:47.486500,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.08030000000000004,0.5348,0.4545
 2025-09-05 17:34:03.528617,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Joao Almeida,0.07930000000000001,0.2222,0.1429
 2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Zaccharie  Risacher,0.0774,0.125,0.0476
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Elie  Okobo,0.0762,0.1429,0.0667
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Franz  Wagner,0.07579999999999999,0.1667,0.0909
 2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Sylvain  Francisco,0.0756,0.1,0.0244
 2025-09-05 16:35:41.740953,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Germany,Franz Wagner,0.07440000000000002,0.5744,0.5
-2025-09-05 07:29:47.461731,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,No,0.07290000000000002,0.4651,0.3922
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Germany,0.06990000000000002,0.4545,0.3846
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Greece,0.06670000000000004,0.4,0.3333
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Luka  Doncic,0.06670000000000004,0.4,0.3333
@@ -40,157 +37,122 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Dennis  Schroder,0.0596,0.1429,0.0833
 2025-09-05 15:31:58.210315,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Italy,Simone  Fontecchio,0.058300000000000005,0.125,0.0667
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Theo  Maledon,0.05639999999999999,0.0909,0.0345
-2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Alen Omic,0.05559999999999998,0.5556,0.5
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Franz  Wagner,0.05559999999999998,0.1667,0.1111
+2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Alen Omic,0.05559999999999998,0.5556,0.5
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Giannis  Antetokounmpo,0.048100000000000004,0.125,0.0769
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Dennis  Schroder,0.042899999999999994,0.1429,0.1
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Deni  Avdija,0.04229999999999999,0.0667,0.0244
 2025-09-05 13:37:24.087178,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White (UGA),0.04169999999999996,0.9167,0.875
-2025-09-05 07:29:47.450950,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,No,0.040899999999999936,0.95,0.9091
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Deni  Avdija,0.0403,0.0526,0.0123
 2025-09-05 16:35:41.857838,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Zaccharie  Risacher,0.0398,0.0833,0.0435
 2025-09-05 14:33:42.366371,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.03889999999999999,0.1818,0.1429
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Zaccharie  Risacher,0.038299999999999994,0.0909,0.0526
 2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Alessandro Pajola,0.037800000000000056,0.5833,0.5455
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Greece,0.03570000000000001,0.2857,0.25
-2025-09-05 07:29:47.443879,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,0.03469999999999995,0.7222,0.6875
+2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Kevin Alexis Herrera Cuautle,0.03420000000000001,0.1111,0.0769
 2025-09-05 15:31:58.158473,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Kostas Papanikolaou,0.0334,0.0769,0.0435
-2025-09-05 07:29:47.504172,To Make the Playoffs - To Make the Playoffs 2025-26 - New Orleans Saints To Make the Playoffs,No,0.03290000000000004,0.9615,0.9286
+2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03300000000000003,0.274,0.241
 2025-09-05 12:57:06.460089,Boxing Lines - Sulaiman Segawa vs Bryan Acosta - To Win the Bout,Bryan Acosta,0.03210000000000002,0.4167,0.3846
 2025-09-05 15:31:58.172224,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Luka  Doncic,0.03210000000000002,0.4167,0.3846
 2025-09-05 12:57:06.442383,Boxing Lines - Ben Marksby vs Senan Kelly - To Win the Bout,Senan Kelly,0.031700000000000006,0.2222,0.1905
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Poland,0.0294,0.0588,0.0294
-2025-09-05 07:29:47.252128,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),0.029299999999999993,0.0769,0.0476
-2025-09-05 07:29:47.507726,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,Yes,0.028799999999999992,0.1667,0.1379
-2025-09-05 07:29:47.433178,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,0.028700000000000003,0.2105,0.1818
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Guerschon  Yabusele,0.028199999999999996,0.0667,0.0385
 2025-09-05 15:31:58.112797,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Giannis  Antetokounmpo,0.0262,0.9804,0.9542
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jokic,0.024999999999999994,0.125,0.1
 2025-09-05 13:37:24.078729,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,0.024399999999999977,0.5122,0.4878
-2025-09-05 07:29:47.536150,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,0.023799999999999988,0.5,0.4762
 2025-09-05 08:38:10.471538,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Tom Welland,0.023499999999999965,0.9709,0.9474
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Elie  Okobo,0.023200000000000002,0.0476,0.0244
-2025-09-05 07:29:47.472348,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,No,0.022499999999999964,0.7368,0.7143
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Neemias  Queta,0.022200000000000004,0.0345,0.0123
 2025-09-05 15:32:00.137383,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Pedro Guevara,0.02200000000000002,0.7143,0.6923
 2025-09-05 15:32:00.200763,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.021299999999999986,0.303,0.2817
-2025-09-05 07:29:47.468822,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,0.020699999999999996,0.4651,0.4444
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Matteo Spagnolo,0.019600000000000003,0.0345,0.0149
-2025-09-05 07:29:47.511265,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,No,0.019000000000000017,0.8857,0.8667
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Jordan Loyd,0.018099999999999998,0.0769,0.0588
 2025-09-05 17:34:03.336035,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Charlie Edwards,0.017900000000000027,0.875,0.8571
-2025-09-05 07:29:47.500621,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,No,0.01759999999999995,0.6667,0.6491
-2025-09-05 07:29:47.479445,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,No,0.016699999999999993,0.2667,0.25
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Zaccharie  Risacher,0.016600000000000004,0.0833,0.0667
-2025-09-05 07:29:47.482960,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,No,0.016000000000000014,0.8077,0.7917
-2025-09-05 07:29:47.525398,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,0.015800000000000036,0.6825,0.6667
-2025-09-05 07:29:47.465294,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,0.015400000000000025,0.4,0.3846
-2025-09-05 07:29:47.447391,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,0.01539999999999997,0.6154,0.6
-2025-09-05 07:29:47.440318,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,No,0.015199999999999991,0.7826,0.7674
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Sloukas,0.014900000000000004,0.0345,0.0196
-2025-09-05 07:29:47.528994,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,0.014200000000000101,0.6296,0.6154
 2025-09-05 18:38:39.136529,Stage Betting - Stage 14 - Outright,Santiago Buitrago,0.014099999999999998,0.0435,0.0294
-2025-09-05 07:29:47.252128,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Dak Prescott (DAL),0.014099999999999998,0.0385,0.0244
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Papanikolaou,0.013999999999999999,0.0909,0.0769
-2025-09-05 07:29:47.436742,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,No,0.013899999999999996,0.1739,0.16
-2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Bilal  Coulibaly,0.0131,0.2353,0.2222
 2025-09-05 12:57:06.433676,Boxing Lines - Dan Toward vs Khalid Ennachat - To Win the Bout,Dan Toward,0.0131,0.9655,0.9524
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Israel,0.0131,0.0476,0.0345
+2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Bilal  Coulibaly,0.0131,0.2353,0.2222
 2025-09-05 15:31:58.244831,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group C,0.012899999999999995,0.1667,0.1538
-2025-09-05 07:29:47.532537,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,No,0.01090000000000002,0.8571,0.8462
 2025-09-05 13:37:24.117425,Boxing Lines - Pat McCormack vs Miguel Parra Ramirez - To Win the Bout,Miguel Parra Ramirez,0.010899999999999993,0.1538,0.1429
+2025-09-05 20:32:54.934707,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.010699999999999987,0.3333,0.3226
 2025-09-05 16:35:43.699053,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,0.010499999999999982,0.2105,0.2
 2025-09-05 19:26:26.179600,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.010099999999999998,0.3226,0.3125
-2025-09-05 07:29:47.436742,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,Yes,-0.010000000000000009,0.8948,0.9048
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Shane Larkin,-0.010100000000000001,0.0244,0.0345
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Giannis  Antetokounmpo,-0.010100000000000001,0.0244,0.0345
 2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Theo  Maledon,-0.010300000000000002,0.0141,0.0244
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Kostas  Sloukas,-0.010300000000000002,0.0141,0.0244
 2025-09-05 13:37:24.070221,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,-0.010499999999999982,0.2,0.2105
-2025-09-05 07:29:47.447391,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,-0.010599999999999998,0.4545,0.4651
 2025-09-05 08:38:10.567521,Irish Open - 2/3 Balls - 2nd Round 3 Balls - D. Micheluzzi / D. Bryant / MJ Daffue - 2nd Round 3 Balls,MJ Daffue,-0.010699999999999987,0.3226,0.3333
 2025-09-05 08:38:10.585443,Irish Open - 2/3 Balls - 2nd Round 3 Balls - A. Fitzpatrick / N. Elvira / N. Von Dellingshausen - 2nd Round 3 Balls,Nacho Elvira,-0.010699999999999987,0.3226,0.3333
-2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Giampaolo Ricci,-0.011199999999999995,0.0476,0.0588
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Timothe  Luwawu-Cabarrot,-0.011199999999999995,0.0323,0.0435
-2025-09-05 07:29:47.475960,To Make the Playoffs - To Make the Playoffs 2025-26 - Jacksonville Jaguars To Make the Playoffs,No,-0.011499999999999955,0.6552,0.6667
+2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Giampaolo Ricci,-0.011199999999999995,0.0476,0.0588
 2025-09-05 08:38:10.545195,Irish Open - 2/3 Balls - 2nd Round 3 Balls - B. Koepka / M. Couvra / S. Lowry - 2nd Round 3 Balls,Shane Lowry,-0.011600000000000055,0.5122,0.5238
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Danilo Gallinari,-0.011699999999999999,0.0079,0.0196
-2025-09-05 07:29:47.532537,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.011700000000000016,0.2105,0.2222
 2025-09-05 12:57:06.455750,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.4878,0.5
+2025-09-05 20:32:54.938938,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.5,0.5122
 2025-09-05 15:31:58.172224,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Alen Omic,-0.012299999999999978,0.6429,0.6552
-2025-09-05 07:29:47.440318,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,Yes,-0.012799999999999978,0.2857,0.2985
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Alperen  Sengun,-0.014099999999999994,0.0526,0.0667
 2025-09-05 15:31:58.161892,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Saliou  Niang,-0.014099999999999994,0.0526,0.0667
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Alperen  Sengun,-0.014099999999999994,0.0526,0.0667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Mouhammadou  Jaiteh,-0.014099999999999998,0.0244,0.0385
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,-0.014099999999999998,0.0294,0.0435
 2025-09-05 15:31:58.158473,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Konstantinos Mitoglou,-0.014100000000000001,0.0385,0.0526
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Tyler Dorsey,-0.014100000000000001,0.0385,0.0526
-2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Vasileios Toliopoulos,-0.014100000000000001,0.0385,0.0526
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Nicolo Melli,-0.014100000000000001,0.0385,0.0526
-2025-09-05 07:29:47.482960,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,Yes,-0.014300000000000035,0.2597,0.274
+2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Vasileios Toliopoulos,-0.014100000000000001,0.0385,0.0526
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Vasilije  Micic,-0.014499999999999999,0.0149,0.0294
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Danilo  Gallinari,-0.014599999999999998,0.005,0.0196
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Konstantinos Mitoglou,-0.015300000000000001,0.0435,0.0588
-2025-09-05 07:29:47.525398,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,Yes,-0.015400000000000025,0.3846,0.4
 2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Marco  Spissu,-0.015400000000000025,0.3846,0.4
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jovic,-0.0157,0.0278,0.0435
-2025-09-05 07:29:47.465294,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,Yes,-0.015800000000000036,0.6667,0.6825
-2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Luka  Doncic,-0.016600000000000004,0.0667,0.0833
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Latvia,-0.016600000000000004,0.0667,0.0833
-2025-09-05 07:29:47.500621,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,Yes,-0.016699999999999993,0.4,0.4167
-2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Rok Radovic,-0.016700000000000007,0.0833,0.1
+2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Luka  Doncic,-0.016600000000000004,0.0667,0.0833
 2025-09-05 12:57:06.433676,Boxing Lines - Dan Toward vs Khalid Ennachat - To Win the Bout,Khalid Ennachat,-0.016700000000000007,0.0833,0.1
+2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Rok Radovic,-0.016700000000000007,0.0833,0.1
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Santi  Aldama,-0.017099999999999997,0.0123,0.0294
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Darius  Thompson,-0.017099999999999997,0.0123,0.0294
 2025-09-05 15:32:00.200763,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.017899999999999916,0.7647,0.7826
-2025-09-05 07:29:47.479445,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,Yes,-0.018199999999999994,0.8,0.8182
-2025-09-05 07:29:47.511265,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,Yes,-0.01820000000000002,0.1818,0.2
 2025-09-05 13:37:24.078729,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Jonhatan Cardoso,-0.01880000000000004,0.5556,0.5744
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Theo  Maledon,-0.019099999999999995,0.0244,0.0435
 2025-09-05 15:32:00.137383,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Adrian Curiel,-0.019500000000000017,0.3509,0.3704
-2025-09-05 07:29:47.528994,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,-0.019699999999999995,0.4348,0.4545
 2025-09-05 17:34:03.336035,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,-0.01999999999999999,0.1905,0.2105
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Finland,-0.0203,0.0385,0.0588
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Luka  Doncic,-0.020799999999999985,0.3125,0.3333
 2025-09-05 15:31:58.112797,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Konstantinos Mitoglou,-0.0208,0.0625,0.0833
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Jaylen  Hoard,-0.02169999999999994,0.5238,0.5455
-2025-09-05 07:29:47.468822,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,-0.022600000000000064,0.6,0.6226
-2025-09-05 07:29:47.472348,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,Yes,-0.022999999999999965,0.3279,0.3509
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Sylvain  Francisco,-0.02310000000000001,0.0769,0.1
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Konstantinos Mitoglou,-0.0232,0.0435,0.0667
+2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Tom Welland,-0.023499999999999965,0.9474,0.9709
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Antetokounmpo,-0.023799999999999988,0.1429,0.1667
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,-0.023799999999999988,0.1429,0.1667
-2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Darius  Thompson,-0.023899999999999998,0.0196,0.0435
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Aleksander  Balcerowski,-0.023899999999999998,0.0196,0.0435
+2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Darius  Thompson,-0.023899999999999998,0.0196,0.0435
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Kristaps  Porzingis,-0.024299999999999995,0.0345,0.0588
-2025-09-05 07:29:47.536150,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,Yes,-0.026499999999999968,0.5652,0.5917
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Sylvain  Francisco,-0.027999999999999997,0.1538,0.1818
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Filip  Petrusev,-0.028000000000000004,0.0196,0.0476
-2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Alexandros Samodurov,-0.028000000000000004,0.0196,0.0476
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Jusuf  Nurkic,-0.028000000000000004,0.0196,0.0476
+2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Alexandros Samodurov,-0.028000000000000004,0.0196,0.0476
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Filip  Petrusev,-0.028000000000000004,0.0196,0.0476
 2025-09-05 18:38:39.136529,Stage Betting - Stage 14 - Outright,Sepp Kuss,-0.0282,0.0244,0.0526
 2025-09-05 12:57:06.460089,Boxing Lines - Sulaiman Segawa vs Bryan Acosta - To Win the Bout,Sulaiman Segawa,-0.028299999999999992,0.6491,0.6774
-2025-09-05 07:29:47.507726,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Giants To Make the Playoffs,No,-0.02859999999999996,0.9,0.9286
-2025-09-05 07:29:47.433178,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,Yes,-0.02860000000000007,0.8571,0.8857
 2025-09-05 15:31:58.244831,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group D,-0.028799999999999992,0.125,0.1538
 2025-09-05 12:57:06.442383,Boxing Lines - Ben Marksby vs Senan Kelly - To Win the Bout,Ben Marksby,-0.028800000000000048,0.8462,0.875
-2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Darius Thompson,-0.031799999999999995,0.1111,0.1429
 2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Mouhammadou  Jaiteh,-0.031799999999999995,0.1111,0.1429
+2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Darius Thompson,-0.031799999999999995,0.1111,0.1429
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Shane  Larkin,-0.03219999999999999,0.0345,0.0667
-2025-09-05 07:29:47.504172,To Make the Playoffs - To Make the Playoffs 2025-26 - New Orleans Saints To Make the Playoffs,Yes,-0.03259999999999999,0.1053,0.1379
-2025-09-05 07:29:47.443879,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,-0.03260000000000002,0.3448,0.3774
+2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.032399999999999984,0.7937,0.8261
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Vasileios Toliopoulos,-0.0334,0.0435,0.0769
 2025-09-05 08:38:10.471538,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Kevin Alexis Herrera Cuautle,-0.03420000000000001,0.0769,0.1111
 2025-09-05 14:33:42.366371,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White (UGA),-0.0343,0.8824,0.9167
-2025-09-05 07:29:47.450950,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,-0.036199999999999996,0.1176,0.1538
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Italy,-0.038299999999999994,0.0526,0.0909
 2025-09-05 15:32:00.083419,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,-0.03889999999999999,0.1429,0.1818
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Mouhamet  Diouf,-0.0403,0.0123,0.0526
 2025-09-05 17:34:03.528617,Winner - Vuelta a Espana 2025 - Vuelta a Espana Winner,Jonas Vingegaard,-0.04169999999999996,0.8333,0.875
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Mouhamet Diouf,-0.0417,0.0833,0.125
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Sloukas,-0.043300000000000005,0.9091,0.9524
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Jaylen  Hoard,-0.043899999999999995,0.0149,0.0588
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Lauri  Markkanen,-0.043899999999999995,0.0149,0.0588
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Jaylen  Hoard,-0.043899999999999995,0.0149,0.0588
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Thanasis Antetokounmpo,-0.045499999999999985,0.5,0.5455
 2025-09-05 15:31:58.244831,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group A,-0.04620000000000002,0.5455,0.5917
 2025-09-05 13:37:24.087178,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,-0.0476,0.1429,0.1905
@@ -205,18 +167,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Latvia,-0.06669999999999998,0.1,0.1667
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Slovenia,-0.0762,0.0667,0.1429
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Thanasis Antetokounmpo,-0.0771,0.3774,0.4545
-2025-09-05 07:29:47.461731,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,Yes,-0.07740000000000002,0.6,0.6774
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,France,-0.07789999999999997,0.2857,0.3636
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,-0.07930000000000001,0.1429,0.2222
 2025-09-05 16:35:41.740953,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Germany,Dennis Schroder,-0.08030000000000004,0.4545,0.5348
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Arturs  Zagars,-0.0804,0.0196,0.1
-2025-09-05 07:29:47.486500,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.0805999999999999,0.5348,0.6154
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Nikola  Jokic,-0.0815,0.0435,0.125
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Jonas  Valanciunas,-0.08170000000000001,0.0294,0.1111
 2025-09-05 16:35:41.857838,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Guerschon  Yabusele,-0.0847,0.6296,0.7143
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Simone  Fontecchio,-0.0889,0.1111,0.2
 2025-09-05 17:34:01.500258,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Giannis  Antetokounmpo,-0.08979999999999999,0.0769,0.1667
-2025-09-05 07:29:47.454462,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,-0.0917,0.2857,0.3774
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Nikola  Milutinov,-0.0956,0.0294,0.125
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Serbia,-0.10070000000000001,0.6667,0.7674
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,France,-0.10769999999999996,0.2,0.3077

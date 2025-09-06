@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 06:38:01.973922,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,0.0948,0.6296,0.5348
 2025-09-06 06:38:01.966370,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,No,0.06659999999999999,0.3333,0.2667
 2025-09-06 06:38:02.727938,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.06269999999999998,0.8095,0.7468
+2025-09-06 08:33:50.189500,Stifel Charity Classic - Stifel Charity Classic - Winner,Stewart Cink,0.055900000000000005,0.3636,0.3077
 2025-09-06 07:26:45.735293,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Alisson,0.044499999999999984,0.2667,0.2222
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Luna Sobron Galmes,0.0436,0.0588,0.0152
 2025-09-06 06:38:02.795106,MVP - NL MVP 2025 - National League MVP,Juan Soto (NYM),0.0433,0.0556,0.0123
@@ -19,14 +20,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 02:12:01.474742,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Parry vs J. Winther - Outright,John Parry,0.03709999999999991,0.6667,0.6296
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Ashley Lau,0.03660000000000001,0.0476,0.011
 2025-09-06 07:26:46.993567,Philadelphia Eagles - Regular Season Wins 2025-26 - Eagles Regular Season Wins,Over 11.5,0.035999999999999976,0.5122,0.4762
-2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Kevin Alexis Herrera Cuautle,0.03420000000000001,0.1111,0.0769
+2025-09-06 08:33:50.189500,Stifel Charity Classic - Stifel Charity Classic - Winner,Thomas Bjorn,0.03420000000000001,0.1111,0.0769
 2025-09-05 21:28:06.721513,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03369999999999995,0.3077,0.274
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Thomas Bjorn,0.0334,0.0769,0.0435
 2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.033399999999999985,0.1667,0.1333
 2025-09-06 04:35:16.947178,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Appalachian State,0.03330000000000001,0.1,0.0667
 2025-09-06 03:38:24.726951,AFC West - AFC West 2025-26 - AFC West Winner,Las Vegas Raiders,0.033299999999999996,0.0833,0.05
 2025-09-05 22:32:17.250507,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,0.033299999999999996,0.9333,0.9
-2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03300000000000003,0.274,0.241
 2025-09-06 07:26:47.922418,Boxing Lines - Ricardo Emmanuel Gonzalez Goy vs Leobardo Quintana - To Win the Bout,Ricardo Emmanuel Gonzalez Goy,0.031799999999999995,0.4762,0.4444
 2025-09-06 06:38:01.743428,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Dak Prescott (DAL),0.031399999999999983,0.2667,0.2353
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Y E Yang,0.029299999999999993,0.0769,0.0476
@@ -37,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 06:38:01.720449,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),0.023799999999999988,0.1667,0.1429
 2025-09-05 22:32:15.240289,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.021699999999999997,0.4762,0.4545
 2025-09-06 05:31:08.152283,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Jhonattan Vegas,0.02079999999999993,0.5556,0.5348
-2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Alex Cejka,0.0203,0.0588,0.0385
 2025-09-06 06:38:01.726106,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jim Harbaugh,0.0203,0.0526,0.0323
+2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Alex Cejka,0.0203,0.0588,0.0385
 2025-09-06 05:31:07.070108,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Houston Texans,0.0203,0.0588,0.0385
 2025-09-06 04:35:16.468157,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),0.01970000000000005,0.5652,0.5455
 2025-09-06 04:35:16.951758,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ohio,0.019000000000000017,0.2857,0.2667
@@ -49,16 +49,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 06:38:01.944067,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,Yes,0.017299999999999982,0.5917,0.5744
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Daniela Darquea,0.0168,0.0278,0.011
 2025-09-06 05:31:07.065862,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Los Angeles Chargers,0.016700000000000007,0.1,0.0833
+2025-09-06 08:33:50.189500,Stifel Charity Classic - Stifel Charity Classic - Winner,Ernie Els,0.016700000000000007,0.1,0.0833
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Arjun Atwal,0.0165,0.0244,0.0079
 2025-09-06 06:38:01.955138,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.01539999999999997,0.6154,0.6
-2025-09-06 06:38:02.533049,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,0.014900000000000024,0.3226,0.3077
-2025-09-06 06:38:02.784078,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.014900000000000024,0.9524,0.9375
 2025-09-06 07:26:47.909474,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.014900000000000024,0.3226,0.3077
+2025-09-06 06:38:02.784078,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.014900000000000024,0.9524,0.9375
+2025-09-06 06:38:02.533049,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,0.014900000000000024,0.3226,0.3077
 2025-09-06 06:38:01.720449,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Justin Herbert (LAC),0.014899999999999997,0.0625,0.0476
 2025-09-06 03:38:24.772210,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,0.01469999999999999,0.25,0.2353
 2025-09-06 06:38:02.743759,NL East - NL East 2025 - NL East Winner,Philadelphia Phillies,0.014100000000000001,0.9615,0.9474
-2025-09-06 05:31:07.070108,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Los Angeles Chargers,0.013999999999999999,0.0909,0.0769
+2025-09-06 08:33:50.189500,Stifel Charity Classic - Stifel Charity Classic - Winner,Arjun Atwal,0.014099999999999998,0.0385,0.0244
 2025-09-06 05:31:07.070108,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Cincinnati Bengals,0.013999999999999999,0.0909,0.0769
+2025-09-06 05:31:07.070108,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Los Angeles Chargers,0.013999999999999999,0.0909,0.0769
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Nuria Iturrioz,0.013,0.0196,0.0066
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Cara Gainer,0.012700000000000003,0.0323,0.0196
 2025-09-05 23:28:38.805869,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Adrian Curiel,0.012699999999999989,0.3636,0.3509
@@ -67,7 +69,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 04:35:18.037411,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Bryant vs S. Lowry - 3rd Round 2 Balls,Shane Lowry,0.011099999999999999,0.7333,0.7222
 2025-09-06 05:31:07.145422,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,UNLV,0.010899999999999993,0.1538,0.1429
 2025-09-06 06:38:01.748925,NFL Awards Parlays & Requests - NFL Awards Parlays 2025-26 - Parlays & Requests,"MVP: Lamar Jackson, DPOY: Micah Parsons, Ravens to be the AFC #1 Seed",0.010700000000000001,0.0385,0.0278
-2025-09-05 20:32:54.934707,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.010699999999999987,0.3333,0.3226
 2025-09-06 06:38:01.743428,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Marquise Brown (KC),0.010300000000000002,0.0244,0.0141
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Paul Stankowski,0.010300000000000002,0.0244,0.0141
 2025-09-06 05:31:07.065862,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,0.0102,0.0769,0.0667
@@ -75,43 +76,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Paul Broadhurst,0.0102,0.0152,0.005
 2025-09-06 03:38:24.689066,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Kansas City Chiefs,-0.010099999999999998,0.0952,0.1053
 2025-09-06 06:38:01.955138,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.010599999999999998,0.4545,0.4651
-2025-09-06 05:31:08.280388,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Wiesberger vs H. Brown - 3rd Round 2 Balls,Bernd Wiesberger,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.188890,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Norris vs C. Sordet - 3rd Round 2 Balls,Clement Sordet,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.161450,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Armitage vs M. Elvira - 3rd Round 2 Balls,Manuel Elvira,-0.010699999999999932,0.5348,0.5455
 2025-09-06 05:31:08.174919,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. von Dellingshausen vs A. Otaegui - 3rd Round 2 Balls,Nicolai von Dellingshausen,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.170423,Irish Open - 2/3 Balls - 3rd Round 2 Balls - A. Halvorsen vs Y. Katsuragawa - 3rd Round 2 Balls,Anread Holvorsen,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.271488,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Forsstrom vs A. Cockerill - 3rd Round 2 Balls,Aaron Cockerill,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.267215,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Schmidt vs D. Ravetto - 3rd Round 2 Balls,Ben Schmidt,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.232463,Irish Open - 2/3 Balls - 3rd Round 2 Balls - C. Jarvis vs R. Sterne - 3rd Round 2 Balls,Casey Jarvis,-0.010699999999999932,0.5348,0.5455
-2025-09-06 05:31:08.202204,Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Clements vs J. Luiten - 3rd Round 2 Balls,Todd Clements,-0.010699999999999932,0.5348,0.5455
 2025-09-06 04:35:17.946477,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Jhonattan Vegas,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.161450,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Armitage vs M. Elvira - 3rd Round 2 Balls,Manuel Elvira,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.271488,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Forsstrom vs A. Cockerill - 3rd Round 2 Balls,Aaron Cockerill,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.188890,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Norris vs C. Sordet - 3rd Round 2 Balls,Clement Sordet,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.202204,Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Clements vs J. Luiten - 3rd Round 2 Balls,Todd Clements,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.267215,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Schmidt vs D. Ravetto - 3rd Round 2 Balls,Ben Schmidt,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.280388,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Wiesberger vs H. Brown - 3rd Round 2 Balls,Bernd Wiesberger,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.170423,Irish Open - 2/3 Balls - 3rd Round 2 Balls - A. Halvorsen vs Y. Katsuragawa - 3rd Round 2 Balls,Anread Holvorsen,-0.010699999999999932,0.5348,0.5455
+2025-09-06 05:31:08.232463,Irish Open - 2/3 Balls - 3rd Round 2 Balls - C. Jarvis vs R. Sterne - 3rd Round 2 Balls,Casey Jarvis,-0.010699999999999932,0.5348,0.5455
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Charley Hull,-0.010899999999999993,0.1429,0.1538
 2025-09-06 06:38:02.806274,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.01100000000000001,0.5238,0.5348
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Shannon Tan,-0.011199999999999995,0.0323,0.0435
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Justin Leonard,-0.011199999999999995,0.0323,0.0435
 2025-09-06 04:35:18.037411,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Bryant vs S. Lowry - 3rd Round 2 Balls,Davis Bryant,-0.01150000000000001,0.3333,0.3448
 2025-09-06 06:38:01.944067,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,No,-0.0116,0.4762,0.4878
-2025-09-06 05:31:08.271488,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Forsstrom vs A. Cockerill - 3rd Round 2 Balls,Simon Forsstrom,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.188890,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Norris vs C. Sordet - 3rd Round 2 Balls,Shaun Norris,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.202204,Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Clements vs J. Luiten - 3rd Round 2 Balls,Joost Luiten,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.174919,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. von Dellingshausen vs A. Otaegui - 3rd Round 2 Balls,Adrian Otaegui,-0.011600000000000055,0.5122,0.5238
-2025-09-06 04:35:17.946477,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Mikael Lindberg,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.232463,Irish Open - 2/3 Balls - 3rd Round 2 Balls - C. Jarvis vs R. Sterne - 3rd Round 2 Balls,Richard Sterne,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.280388,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Wiesberger vs H. Brown - 3rd Round 2 Balls,Hamish Brown,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.161450,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Armitage vs M. Elvira - 3rd Round 2 Balls,Marcus Armitage,-0.011600000000000055,0.5122,0.5238
-2025-09-06 05:31:08.267215,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Schmidt vs D. Ravetto - 3rd Round 2 Balls,David Ravetto,-0.011600000000000055,0.5122,0.5238
 2025-09-06 05:31:08.170423,Irish Open - 2/3 Balls - 3rd Round 2 Balls - A. Halvorsen vs Y. Katsuragawa - 3rd Round 2 Balls,Yuto Katsuragawa,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.202204,Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Clements vs J. Luiten - 3rd Round 2 Balls,Joost Luiten,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.188890,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Norris vs C. Sordet - 3rd Round 2 Balls,Shaun Norris,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.271488,Irish Open - 2/3 Balls - 3rd Round 2 Balls - S. Forsstrom vs A. Cockerill - 3rd Round 2 Balls,Simon Forsstrom,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.161450,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Armitage vs M. Elvira - 3rd Round 2 Balls,Marcus Armitage,-0.011600000000000055,0.5122,0.5238
+2025-09-06 04:35:17.946477,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Mikael Lindberg,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.174919,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. von Dellingshausen vs A. Otaegui - 3rd Round 2 Balls,Adrian Otaegui,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.232463,Irish Open - 2/3 Balls - 3rd Round 2 Balls - C. Jarvis vs R. Sterne - 3rd Round 2 Balls,Richard Sterne,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.267215,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Schmidt vs D. Ravetto - 3rd Round 2 Balls,David Ravetto,-0.011600000000000055,0.5122,0.5238
+2025-09-06 05:31:08.280388,Irish Open - 2/3 Balls - 3rd Round 2 Balls - B. Wiesberger vs H. Brown - 3rd Round 2 Balls,Hamish Brown,-0.011600000000000055,0.5122,0.5238
 2025-09-05 21:28:06.686624,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.4878,0.5
-2025-09-05 20:32:54.938938,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.5,0.5122
 2025-09-06 06:38:02.748959,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.012299999999999978,0.8182,0.8305
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Ricardo Gonzalez,-0.012700000000000003,0.0196,0.0323
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Alice Hewson,-0.012700000000000003,0.0196,0.0323
 2025-09-05 22:32:17.246314,Boxing Lines - Sulaiman Segawa vs Bryan Acosta - To Win the Bout,Sulaiman Segawa,-0.012700000000000045,0.6364,0.6491
 2025-09-06 06:38:01.720449,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Joe Burrow (CIN),-0.012899999999999995,0.1538,0.1667
-2025-09-06 05:31:08.165806,Irish Open - 2/3 Balls - 3rd Round 2 Balls - P. Reed vs K. Kobori - 3rd Round 2 Balls,Patrick Reed,-0.013799999999999923,0.6226,0.6364
-2025-09-06 04:35:17.942227,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Naidoo vs S. Crocker - 3rd Round 2 Balls,Sean Crocker,-0.013799999999999923,0.6226,0.6364
-2025-09-06 04:35:17.951168,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Manassero vs Z. Lombard - 3rd Round 2 Balls,Matteo Manassero,-0.013799999999999923,0.6226,0.6364
 2025-09-06 04:35:17.937559,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Laird vs T. Aiken - 3rd Round 2 Balls,Martin Laird,-0.013799999999999923,0.6226,0.6364
+2025-09-06 04:35:17.942227,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Naidoo vs S. Crocker - 3rd Round 2 Balls,Sean Crocker,-0.013799999999999923,0.6226,0.6364
+2025-09-06 05:31:08.165806,Irish Open - 2/3 Balls - 3rd Round 2 Balls - P. Reed vs K. Kobori - 3rd Round 2 Balls,Patrick Reed,-0.013799999999999923,0.6226,0.6364
+2025-09-06 04:35:17.951168,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Manassero vs Z. Lombard - 3rd Round 2 Balls,Matteo Manassero,-0.013799999999999923,0.6226,0.6364
 2025-09-05 22:32:15.240289,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.013899999999999996,0.1111,0.125
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Cameron Percy,-0.014099999999999994,0.0526,0.0667
 2025-09-06 05:31:08.275725,Irish Open - 2/3 Balls - 3rd Round 2 Balls - O. Lindell vs B. Wu - 3rd Round 2 Balls,Brandon Wu,-0.01419999999999999,0.3704,0.3846
@@ -119,17 +119,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 05:31:07.065862,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Buffalo Bills,-0.01469999999999999,0.2353,0.25
 2025-09-06 05:31:07.070108,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Buffalo Bills,-0.014900000000000024,0.3077,0.3226
 2025-09-06 07:26:47.909474,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.015800000000000036,0.7403,0.7561
-2025-09-06 05:31:08.249575,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. de Bruyn vs M. Penge - 3rd Round 2 Balls,Marco Penge,-0.015900000000000025,0.7619,0.7778
 2025-09-06 05:31:08.284789,Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Hatton vs T. Pulkkanen - 3rd Round 2 Balls,Tyrrell Hatton,-0.015900000000000025,0.7619,0.7778
+2025-09-06 05:31:08.249575,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. de Bruyn vs M. Penge - 3rd Round 2 Balls,Marco Penge,-0.015900000000000025,0.7619,0.7778
 2025-09-06 05:31:08.223971,Irish Open - 2/3 Balls - 3rd Round 2 Balls - A. Levy vs T. Detry - 3rd Round 2 Balls,Thomas Detry,-0.01639999999999997,0.661,0.6774
 2025-09-06 02:12:01.254831,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.01660000000000006,0.9167,0.9333
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Helen Briem,-0.0168,0.0217,0.0385
 2025-09-05 23:28:38.805869,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Pedro Guevara,-0.017300000000000093,0.697,0.7143
-2025-09-06 05:31:08.228218,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Parry vs J. Winther - 3rd Round 2 Balls,John Parry,-0.01759999999999995,0.6491,0.6667
 2025-09-06 05:31:08.262931,Irish Open - 2/3 Balls - 3rd Round 2 Balls - R. Cabrera Bello vs T. McKibbin - 3rd Round 2 Balls,Tom McKibbin,-0.01759999999999995,0.6491,0.6667
+2025-09-06 05:31:08.228218,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Parry vs J. Winther - 3rd Round 2 Balls,John Parry,-0.01759999999999995,0.6491,0.6667
 2025-09-06 04:35:16.812175,Mayoral Elections - Next Mayor of New York - Winner,Eric Adams,-0.018099999999999998,0.0588,0.0769
-2025-09-06 05:31:08.179550,Irish Open - 2/3 Balls - 3rd Round 2 Balls - R. Fisher vs R. Williams - 3rd Round 2 Balls,Robin Williams,-0.018100000000000005,0.5652,0.5833
 2025-09-06 05:31:08.293967,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Hillier vs T. Olesen - 3rd Round 2 Balls,Thorbjorn Olesen,-0.018100000000000005,0.5652,0.5833
+2025-09-06 05:31:08.179550,Irish Open - 2/3 Balls - 3rd Round 2 Balls - R. Fisher vs R. Williams - 3rd Round 2 Balls,Robin Williams,-0.018100000000000005,0.5652,0.5833
 2025-09-06 05:31:08.197845,Irish Open - 2/3 Balls - 3rd Round 2 Balls - E. van Rooyen vs G. Migliozzi - 3rd Round 2 Balls,Erik Van Rooyen,-0.018100000000000005,0.5652,0.5833
 2025-09-06 05:31:08.245199,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. Lemke vs R. Langasque - 3rd Round 2 Balls,Romain Langasque,-0.01880000000000004,0.5556,0.5744
 2025-09-06 07:26:45.735293,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Matz Sels,-0.0189,0.0196,0.0385
@@ -143,7 +143,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 05:31:08.258271,Irish Open - 2/3 Balls - 3rd Round 2 Balls - C. Bezuidenhout vs J. Olesen - 3rd Round 2 Balls,Christiaan Bezuidenhout,-0.02180000000000004,0.6078,0.6296
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Richard Green,-0.022799999999999997,0.005,0.0278
 2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.02310000000000001,0.9,0.9231
-2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Tom Welland,-0.023499999999999965,0.9474,0.9709
 2025-09-06 06:38:02.806274,ROY - NL ROY 2025 - National League Rookie of the Year,Isaac Collins (MIL),-0.023799999999999988,0.1429,0.1667
 2025-09-06 06:38:02.743759,NL East - NL East 2025 - NL East Winner,New York Mets,-0.0242,0.0667,0.0909
 2025-09-06 07:26:46.927019,Los Angeles Chargers - Regular Season Wins 2025-26 - Chargers Regular Season Wins,Under 9.5,-0.024399999999999977,0.4878,0.5122
@@ -152,15 +151,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Chiara Tamburlini,-0.024800000000000003,0.0278,0.0526
 2025-09-06 05:31:08.236731,"Irish Open - 2/3 Balls - 3rd Round 2 Balls - T. Vaillant vs A, Ayora - 3rd Round 2 Balls",Angel Ayora,-0.025599999999999956,0.5744,0.6
 2025-09-06 07:26:45.735293,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,David Raya,-0.025599999999999956,0.5744,0.6
-2025-09-06 05:31:08.206518,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. Elvira vs P. O'Hara - 3rd Round 2 Balls,Nacho Elvira,-0.025599999999999956,0.5744,0.6
 2025-09-06 05:31:08.253956,Irish Open - 2/3 Balls - 3rd Round 2 Balls - L. Canter vs A. Hidalgo - 3rd Round 2 Balls,Laurie Canter,-0.025599999999999956,0.5744,0.6
+2025-09-06 05:31:08.206518,Irish Open - 2/3 Balls - 3rd Round 2 Balls - N. Elvira vs P. O'Hara - 3rd Round 2 Balls,Nacho Elvira,-0.025599999999999956,0.5744,0.6
 2025-09-06 05:31:08.215074,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Moscatel vs J. Senior - 3rd Round 2 Balls,Jack Senior,-0.025599999999999956,0.5744,0.6
 2025-09-06 06:38:02.727938,AL East - AL East 2025 - AL East Winner,New York Yankees,-0.026100000000000012,0.1961,0.2222
 2025-09-06 06:38:02.795106,MVP - NL MVP 2025 - National League MVP,Kyle Schwarber (PHI),-0.0267,0.0909,0.1176
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Tommy Gainey,-0.0303,0.002,0.0323
 2025-09-06 07:26:47.922418,Boxing Lines - Ricardo Emmanuel Gonzalez Goy vs Leobardo Quintana - To Win the Bout,Leobardo Quintana,-0.03090000000000004,0.5917,0.6226
 2025-09-06 07:26:45.735293,Premier League Futures/Specials - English Premier League 2025/26 - Golden Glove,Guglielmo Vicario,-0.0321,0.0588,0.0909
-2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.032399999999999984,0.7937,0.8261
 2025-09-06 04:35:16.468157,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.033299999999999996,0.5122,0.5455
 2025-09-06 05:31:07.065862,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Kansas City Chiefs,-0.033300000000000024,0.1667,0.2
 2025-09-06 06:38:02.727938,AL East - AL East 2025 - AL East Winner,Boston Red Sox,-0.034100000000000005,0.0909,0.125
@@ -174,6 +172,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Celine Boutier,-0.048100000000000004,0.0769,0.125
 2025-09-06 07:26:46.993567,Philadelphia Eagles - Regular Season Wins 2025-26 - Eagles Regular Season Wins,Under 11.5,-0.05689999999999995,0.5348,0.5917
 2025-09-06 06:38:01.966370,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,Yes,-0.06670000000000009,0.7333,0.8
+2025-09-06 08:33:50.189500,Stifel Charity Classic - Stifel Charity Classic - Winner,Soren Kjeldsen,-0.0791,0.0385,0.1176
 2025-09-06 06:38:01.973922,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,-0.10000000000000003,0.4348,0.5348
 2025-09-06 06:38:02.778509,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.10709999999999997,0.25,0.3571
 2025-09-06 07:26:46.937148,Kansas City Chiefs - Regular Season Wins 2025-26 - Chiefs Regular Season Wins,Over 11.5,-0.12380000000000002,0.4,0.5238

@@ -1,7 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Turkey,0.49210000000000004,0.7143,0.2222
-2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Guerschon  Yabusele,0.3917,0.5455,0.1538
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Turkey,0.3917,0.5455,0.1538
+2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Guerschon  Yabusele,0.3917,0.5455,0.1538
 2025-09-05 18:38:39.136529,Stage Betting - Stage 14 - Outright,Jonas Vingegaard,0.35000000000000003,0.4167,0.0667
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Alperen  Sengun,0.2417,0.3846,0.1429
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Antetokounmpo,0.2122,0.5455,0.3333
@@ -48,7 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Soren Kjeldsen,0.0407,0.1176,0.0769
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Deni  Avdija,0.0403,0.0526,0.0123
 2025-09-05 16:35:41.857838,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points - France,Zaccharie  Risacher,0.0398,0.0833,0.0435
-2025-09-05 14:33:42.366371,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.03889999999999999,0.1818,0.1429
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Anne Van Dam,0.0384,0.0769,0.0385
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Zaccharie  Risacher,0.038299999999999994,0.0909,0.0526
 2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Alessandro Pajola,0.037800000000000056,0.5833,0.5455
@@ -57,8 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Greece,0.03570000000000001,0.2857,0.25
 2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Kevin Alexis Herrera Cuautle,0.03420000000000001,0.1111,0.0769
 2025-09-05 21:28:06.721513,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03369999999999995,0.3077,0.274
-2025-09-05 15:31:58.158473,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Kostas Papanikolaou,0.0334,0.0769,0.0435
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Thomas Bjorn,0.0334,0.0769,0.0435
+2025-09-05 15:31:58.158473,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Kostas Papanikolaou,0.0334,0.0769,0.0435
 2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.033399999999999985,0.1667,0.1333
 2025-09-05 22:32:17.250507,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,0.033299999999999996,0.9333,0.9
 2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03300000000000003,0.274,0.241
@@ -76,8 +75,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Alex Cejka,0.0203,0.0588,0.0385
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Matteo Spagnolo,0.019600000000000003,0.0345,0.0149
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Charlie Wi,0.0182,0.0323,0.0141
-2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Jordan Loyd,0.018099999999999998,0.0769,0.0588
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Angel Cabrera,0.018099999999999998,0.0526,0.0345
+2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Jordan Loyd,0.018099999999999998,0.0769,0.0588
 2025-09-05 17:34:03.336035,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Charlie Edwards,0.017900000000000027,0.875,0.8571
 2025-09-06 02:12:01.254831,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.0179,0.1429,0.125
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Daniela Darquea,0.0168,0.0278,0.011
@@ -104,35 +103,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 15:31:58.206834,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - France,Theo  Maledon,-0.010300000000000002,0.0141,0.0244
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Kostas  Sloukas,-0.010300000000000002,0.0141,0.0244
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Charley Hull,-0.010899999999999993,0.1429,0.1538
-2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Shannon Tan,-0.011199999999999995,0.0323,0.0435
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Justin Leonard,-0.011199999999999995,0.0323,0.0435
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Timothe  Luwawu-Cabarrot,-0.011199999999999995,0.0323,0.0435
+2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Shannon Tan,-0.011199999999999995,0.0323,0.0435
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Giampaolo Ricci,-0.011199999999999995,0.0476,0.0588
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Danilo Gallinari,-0.011699999999999999,0.0079,0.0196
-2025-09-05 21:28:06.686624,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.4878,0.5
 2025-09-05 20:32:54.938938,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.5,0.5122
+2025-09-05 21:28:06.686624,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.4878,0.5
 2025-09-05 15:31:58.172224,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Alen Omic,-0.012299999999999978,0.6429,0.6552
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Ricardo Gonzalez,-0.012700000000000003,0.0196,0.0323
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Alice Hewson,-0.012700000000000003,0.0196,0.0323
 2025-09-05 22:32:17.246314,Boxing Lines - Sulaiman Segawa vs Bryan Acosta - To Win the Bout,Sulaiman Segawa,-0.012700000000000045,0.6364,0.6491
 2025-09-05 22:32:15.240289,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.013899999999999996,0.1111,0.125
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Alperen  Sengun,-0.014099999999999994,0.0526,0.0667
-2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Cameron Percy,-0.014099999999999994,0.0526,0.0667
 2025-09-05 15:31:58.161892,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Italy,Saliou  Niang,-0.014099999999999994,0.0526,0.0667
-2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,-0.014099999999999998,0.0294,0.0435
+2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Cameron Percy,-0.014099999999999994,0.0526,0.0667
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Alperen  Sengun,-0.014099999999999994,0.0526,0.0667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Mouhammadou  Jaiteh,-0.014099999999999998,0.0244,0.0385
-2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Nicolo Melli,-0.014100000000000001,0.0385,0.0526
+2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,-0.014099999999999998,0.0294,0.0435
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Vasileios Toliopoulos,-0.014100000000000001,0.0385,0.0526
-2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Tyler Dorsey,-0.014100000000000001,0.0385,0.0526
+2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Nicolo Melli,-0.014100000000000001,0.0385,0.0526
 2025-09-05 15:31:58.158473,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Greece,Konstantinos Mitoglou,-0.014100000000000001,0.0385,0.0526
+2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Tyler Dorsey,-0.014100000000000001,0.0385,0.0526
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Michael Wright,-0.0142,0.001,0.0152
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Vasilije  Micic,-0.014499999999999999,0.0149,0.0294
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Danilo  Gallinari,-0.014599999999999998,0.005,0.0196
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Konstantinos Mitoglou,-0.015300000000000001,0.0435,0.0588
 2025-09-05 15:31:58.199973,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Italy,Marco  Spissu,-0.015400000000000025,0.3846,0.4
 2025-09-05 15:31:58.196531,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Nikola  Jovic,-0.0157,0.0278,0.0435
-2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Latvia,-0.016600000000000004,0.0667,0.0833
 2025-09-05 15:31:58.192975,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Luka  Doncic,-0.016600000000000004,0.0667,0.0833
+2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Latvia,-0.016600000000000004,0.0667,0.0833
 2025-09-06 02:12:01.254831,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.01660000000000006,0.9167,0.9333
 2025-09-05 15:31:58.220703,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Slovenia,Rok Radovic,-0.016700000000000007,0.0833,0.1
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Helen Briem,-0.0168,0.0217,0.0385
@@ -150,14 +149,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 15:31:58.112797,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Points Scorer - Greece,Konstantinos Mitoglou,-0.0208,0.0625,0.0833
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Jaylen  Hoard,-0.02169999999999994,0.5238,0.5455
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Richard Green,-0.022799999999999997,0.005,0.0278
-2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.02310000000000001,0.9,0.9231
 2025-09-05 15:31:58.227587,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - France,Sylvain  Francisco,-0.02310000000000001,0.0769,0.1
+2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.02310000000000001,0.9,0.9231
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Konstantinos Mitoglou,-0.0232,0.0435,0.0667
 2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Tom Welland,-0.023499999999999965,0.9474,0.9709
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Antetokounmpo,-0.023799999999999988,0.1429,0.1667
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,-0.023799999999999988,0.1429,0.1667
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Aleksander  Balcerowski,-0.023899999999999998,0.0196,0.0435
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Darius  Thompson,-0.023899999999999998,0.0196,0.0435
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Aleksander  Balcerowski,-0.023899999999999998,0.0196,0.0435
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Kristaps  Porzingis,-0.024299999999999995,0.0345,0.0588
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Chiara Tamburlini,-0.024800000000000003,0.0278,0.0526
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Sylvain  Francisco,-0.027999999999999997,0.1538,0.1818
@@ -172,7 +171,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Shane  Larkin,-0.03219999999999999,0.0345,0.0667
 2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.032399999999999984,0.7937,0.8261
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Vasileios Toliopoulos,-0.0334,0.0435,0.0769
-2025-09-05 14:33:42.366371,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White (UGA),-0.0343,0.8824,0.9167
 2025-09-06 02:12:01.474742,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Parry vs J. Winther - Outright,Jeff Winther,-0.0348,0.4,0.4348
 2025-09-05 21:28:06.721513,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.03759999999999997,0.7561,0.7937
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Italy,-0.038299999999999994,0.0526,0.0909
@@ -183,8 +181,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 22:32:17.250507,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,-0.04169999999999999,0.125,0.1667
 2025-09-05 15:31:58.234537,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Italy,Mouhamet Diouf,-0.0417,0.0833,0.125
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Sloukas,-0.043300000000000005,0.9091,0.9524
-2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Lauri  Markkanen,-0.043899999999999995,0.0149,0.0588
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Jaylen  Hoard,-0.043899999999999995,0.0149,0.0588
+2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Lauri  Markkanen,-0.043899999999999995,0.0149,0.0588
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Thanasis Antetokounmpo,-0.045499999999999985,0.5,0.5455
 2025-09-05 15:31:58.244831,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group A,-0.04620000000000002,0.5455,0.5917
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Jerry Kelly,-0.047099999999999996,0.0196,0.0667
@@ -196,8 +194,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 17:34:01.490069,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Lithuania,-0.05450000000000001,0.0455,0.1
 2025-09-05 15:31:58.231051,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - France,Guerschon  Yabusele,-0.05559999999999998,0.1111,0.1667
 2025-09-05 17:34:01.500258,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,-0.066,0.0769,0.1429
-2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Latvia,-0.06669999999999998,0.1,0.1667
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Italy,-0.06669999999999998,0.1,0.1667
+2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Latvia,-0.06669999999999998,0.1,0.1667
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Slovenia,-0.0762,0.0667,0.1429
 2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Thanasis Antetokounmpo,-0.0771,0.3774,0.4545
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,France,-0.07789999999999997,0.2857,0.3636

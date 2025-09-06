@@ -33,15 +33,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:06.721513,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03369999999999995,0.3077,0.274
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Thomas Bjorn,0.0334,0.0769,0.0435
 2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Rene Tellez Giron,0.033399999999999985,0.1667,0.1333
+2025-09-06 04:35:16.947178,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Appalachian State,0.03330000000000001,0.1,0.0667
 2025-09-05 22:32:17.250507,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,0.033299999999999996,0.9333,0.9
 2025-09-06 03:38:24.726951,AFC West - AFC West 2025-26 - AFC West Winner,Las Vegas Raiders,0.033299999999999996,0.0833,0.05
 2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Troy Williamson,0.03300000000000003,0.274,0.241
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Poland,0.0294,0.0588,0.0294
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Y E Yang,0.029299999999999993,0.0769,0.0476
+2025-09-06 04:35:16.812175,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.027999999999999997,0.1818,0.1538
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Elie  Okobo,0.023200000000000002,0.0476,0.0244
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Neemias  Queta,0.022200000000000004,0.0345,0.0123
 2025-09-05 22:32:15.240289,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.021699999999999997,0.4762,0.4545
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Alex Cejka,0.0203,0.0588,0.0385
+2025-09-06 04:35:16.468157,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,A'ja Wilson (LVA),0.01970000000000005,0.5652,0.5455
+2025-09-06 04:35:16.951758,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Ohio,0.019000000000000017,0.2857,0.2667
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Charlie Wi,0.0182,0.0323,0.0141
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Angel Cabrera,0.018099999999999998,0.0526,0.0345
 2025-09-05 17:34:03.336035,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Charlie Edwards,0.017900000000000027,0.875,0.8571
@@ -49,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Daniela Darquea,0.0168,0.0278,0.011
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Arjun Atwal,0.0165,0.0244,0.0079
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Sloukas,0.014900000000000004,0.0345,0.0196
+2025-09-06 03:38:24.772210,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Miami Florida,0.01469999999999999,0.25,0.2353
 2025-09-05 18:38:39.136529,Stage Betting - Stage 14 - Outright,Santiago Buitrago,0.014099999999999998,0.0435,0.0294
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Papanikolaou,0.013999999999999999,0.0909,0.0769
 2025-09-05 17:34:01.493342,EuroBasket 2025 - EuroBasket 2025 - To Win Medal,Israel,0.0131,0.0476,0.0345
@@ -57,6 +62,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 23:28:38.805869,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Adrian Curiel,0.012699999999999989,0.3636,0.3509
 2025-09-05 22:32:17.242101,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,0.012199999999999989,0.5,0.4878
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Amy Taylor,0.0119,0.0132,0.0013
+2025-09-06 04:35:18.037411,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Bryant vs S. Lowry - 3rd Round 2 Balls,Shane Lowry,0.011099999999999999,0.7333,0.7222
 2025-09-05 20:32:54.934707,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.010699999999999987,0.3333,0.3226
 2025-09-05 16:35:43.699053,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,0.010499999999999982,0.2105,0.2
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Paul Stankowski,0.010300000000000002,0.0244,0.0141
@@ -64,17 +70,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 19:26:26.179600,Boxing Lines - Michael Conlan vs Jack Bateson - To Win the Bout,Jack Bateson,0.010099999999999998,0.3226,0.3125
 2025-09-06 03:38:24.689066,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Kansas City Chiefs,-0.010099999999999998,0.0952,0.1053
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Giannis  Antetokounmpo,-0.010100000000000001,0.0244,0.0345
+2025-09-06 04:35:17.946477,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Jhonattan Vegas,-0.010699999999999932,0.5348,0.5455
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Charley Hull,-0.010899999999999993,0.1429,0.1538
-2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Justin Leonard,-0.011199999999999995,0.0323,0.0435
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Shannon Tan,-0.011199999999999995,0.0323,0.0435
+2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Justin Leonard,-0.011199999999999995,0.0323,0.0435
+2025-09-06 04:35:18.037411,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Bryant vs S. Lowry - 3rd Round 2 Balls,Davis Bryant,-0.01150000000000001,0.3333,0.3448
+2025-09-06 04:35:17.946477,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Lindberg vs J. Vegas - 3rd Round 2 Balls,Mikael Lindberg,-0.011600000000000055,0.5122,0.5238
 2025-09-05 21:28:06.686624,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.4878,0.5
 2025-09-05 20:32:54.938938,Boxing Lines - Jonhatan Cardoso vs Luis Armando Torres Valenzuela - To Win the Bout,Luis Armando Torres Valenzuela,-0.012199999999999989,0.5,0.5122
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Ricardo Gonzalez,-0.012700000000000003,0.0196,0.0323
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Alice Hewson,-0.012700000000000003,0.0196,0.0323
 2025-09-05 22:32:17.246314,Boxing Lines - Sulaiman Segawa vs Bryan Acosta - To Win the Bout,Sulaiman Segawa,-0.012700000000000045,0.6364,0.6491
+2025-09-06 04:35:17.951168,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Manassero vs Z. Lombard - 3rd Round 2 Balls,Matteo Manassero,-0.013799999999999923,0.6226,0.6364
+2025-09-06 04:35:17.937559,Irish Open - 2/3 Balls - 3rd Round 2 Balls - M. Laird vs T. Aiken - 3rd Round 2 Balls,Martin Laird,-0.013799999999999923,0.6226,0.6364
+2025-09-06 04:35:17.942227,Irish Open - 2/3 Balls - 3rd Round 2 Balls - D. Naidoo vs S. Crocker - 3rd Round 2 Balls,Sean Crocker,-0.013799999999999923,0.6226,0.6364
 2025-09-05 22:32:15.240289,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.013899999999999996,0.1111,0.125
-2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Cameron Percy,-0.014099999999999994,0.0526,0.0667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Alperen  Sengun,-0.014099999999999994,0.0526,0.0667
+2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Cameron Percy,-0.014099999999999994,0.0526,0.0667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Mouhammadou  Jaiteh,-0.014099999999999998,0.0244,0.0385
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Kostas Papanikolaou,-0.014099999999999998,0.0294,0.0435
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Tyler Dorsey,-0.014100000000000001,0.0385,0.0526
@@ -87,6 +99,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-06 02:12:01.254831,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.01660000000000006,0.9167,0.9333
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Helen Briem,-0.0168,0.0217,0.0385
 2025-09-05 23:28:38.805869,Boxing Lines - Pedro Guevara vs Adrian Curiel - To Win the Bout,Pedro Guevara,-0.017300000000000093,0.697,0.7143
+2025-09-06 04:35:16.812175,Mayoral Elections - Next Mayor of New York - Winner,Eric Adams,-0.018099999999999998,0.0588,0.0769
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Retief Goosen,-0.019100000000000002,0.0132,0.0323
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Manon De Roey,-0.019300000000000005,0.0152,0.0345
 2025-09-05 17:34:03.336035,Boxing Lines - Charlie Edwards vs Salvador Juarez - To Win the Bout,Salvador Juarez,-0.01999999999999999,0.1905,0.2105
@@ -96,10 +109,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:06.695257,Boxing Lines - Jordan White vs Rene Tellez Giron - To Win the Bout,Jordan White,-0.02310000000000001,0.9,0.9231
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Konstantinos Mitoglou,-0.0232,0.0435,0.0667
 2025-09-05 20:32:55.015765,Boxing Lines - Tom Welland vs Kevin Alexis Herrera Cuautle - To Win the Bout,Tom Welland,-0.023499999999999965,0.9474,0.9709
-2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,-0.023799999999999988,0.1429,0.1667
 2025-09-05 17:34:01.475943,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Steals - Greece,Kostas Antetokounmpo,-0.023799999999999988,0.1429,0.1667
-2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Darius  Thompson,-0.023899999999999998,0.0196,0.0435
+2025-09-05 17:34:01.430459,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Blocks - Greece,Kostas Papanikolaou,-0.023799999999999988,0.1429,0.1667
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Aleksander  Balcerowski,-0.023899999999999998,0.0196,0.0435
+2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Darius  Thompson,-0.023899999999999998,0.0196,0.0435
 2025-09-05 17:34:01.555382,EuroBasket 2025 - EuroBasket 2025 - Top Total Rebounds,Kristaps  Porzingis,-0.024299999999999995,0.0345,0.0588
 2025-09-06 02:12:01.609175,Aramco Houston - Aramco Houston - Winner,Chiara Tamburlini,-0.024800000000000003,0.0278,0.0526
 2025-09-05 17:34:01.551938,EuroBasket 2025 - EuroBasket 2025 - Top Total Blocks,Jusuf  Nurkic,-0.028000000000000004,0.0196,0.0476
@@ -109,6 +122,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-05 21:28:07.016244,Stifel Charity Classic - Stifel Charity Classic - Winner,Tommy Gainey,-0.0303,0.002,0.0323
 2025-09-05 17:34:01.548496,EuroBasket 2025 - EuroBasket 2025 - Top Total Assists,Shane  Larkin,-0.03219999999999999,0.0345,0.0667
 2025-09-05 20:32:54.972980,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.032399999999999984,0.7937,0.8261
+2025-09-06 04:35:16.468157,WNBA Awards - Regular Season MVP 2025 - Regular Season MVP 2025,Napheesa Collier (MIN),-0.033299999999999996,0.5122,0.5455
 2025-09-05 17:34:01.416310,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Assists - Greece,Vasileios Toliopoulos,-0.0334,0.0435,0.0769
 2025-09-06 02:12:01.474742,Irish Open - 2/3 Balls - 3rd Round 2 Balls - J. Parry vs J. Winther - Outright,Jeff Winther,-0.0348,0.4,0.4348
 2025-09-05 21:28:06.721513,Boxing Lines - Mark Dickinson vs Troy Williamson - To Win the Bout,Mark Dickinson,-0.03759999999999997,0.7561,0.7937

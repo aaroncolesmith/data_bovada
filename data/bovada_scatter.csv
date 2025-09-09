@@ -2,28 +2,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-08 19:28:49.583896,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Luka  Doncic,0.4,0.8,0.4
 2025-09-08 19:28:49.583896,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Lauri  Markkanen,0.2356,0.3125,0.0769
 2025-09-08 19:28:49.580351,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Franz  Wagner,0.23330000000000004,0.4,0.1667
-2025-09-08 15:33:20.156176,EuroBasket 2025 - EuroBasket 2025 - Outright,Turkey,0.18330000000000002,0.25,0.0667
 2025-09-08 19:28:49.580351,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Dennis  Schroder,0.1238,0.2667,0.1429
 2025-09-08 19:28:49.580351,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Giannis  Antetokounmpo,0.1,0.2,0.1
 2025-09-08 20:33:23.835987,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Abigail Anderson,0.09999999999999998,0.6,0.5
 2025-09-08 20:33:24.570618,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.04040000000000002,0.2222,0.1818
 2025-09-08 17:31:42.786162,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),0.03950000000000001,0.25,0.2105
 2025-09-08 19:28:49.580351,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Alperen  Sengun,0.03950000000000001,0.25,0.2105
-2025-09-08 17:31:42.904867,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
 2025-09-08 16:38:16.198756,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
-2025-09-08 15:33:20.968257,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
-2025-09-08 20:33:24.834979,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
 2025-09-08 21:29:20.618962,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
+2025-09-08 20:33:24.834979,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
 2025-09-08 19:28:50.403345,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
-2025-09-08 15:33:20.940468,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 3 Game Series,Seattle Mariners,0.035699999999999954,0.75,0.7143
+2025-09-08 17:31:42.904867,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.03640000000000004,0.4,0.3636
 2025-09-08 22:32:29.487078,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Paddy Donovan,0.026700000000000057,0.9091,0.8824
 2025-09-08 20:33:24.590028,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,Donald J Trump,0.026499999999999996,0.0588,0.0323
 2025-09-08 23:29:15.788843,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Lamar Jackson (BAL),0.023800000000000016,0.1905,0.1667
 2025-09-08 22:32:29.499357,Boxing Lines - Serhii Bohachuk vs Brandon Adams  - To Win the Bout,Serhii Bohachuk,0.020500000000000074,0.8667,0.8462
 2025-09-08 20:33:23.829366,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be in the Wedding Party,Austin Swift,0.01970000000000005,0.5652,0.5455
-2025-09-08 15:33:20.768292,World Politics - Moldova Parliamentary Election - Proposition,PAS,0.019100000000000006,0.9524,0.9333
 2025-09-09 02:04:39.156129,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Indianapolis Colts,0.019100000000000002,0.0323,0.0132
-2025-09-08 15:33:20.089723,Big Brother Season 27 - Big Brother Season 27 - Winner,Vince Panaro,0.0179,0.1429,0.125
 2025-09-08 17:31:42.753336,NFC South - NFC South 2025-26 - NFC South Winner,Tampa Bay Buccaneers,0.01759999999999995,0.6667,0.6491
 2025-09-08 22:32:29.511608,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.017299999999999982,0.303,0.2857
 2025-09-08 20:33:25.025330,BMW PGA Championship - BMW PGA Championship - Winner,Tommy Fleetwood,0.016700000000000007,0.1,0.0833
@@ -32,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-08 20:33:24.570618,Mayoral Elections - Next Mayor of New York - Winner,Curtis Sliwa,0.014100000000000001,0.0526,0.0385
 2025-09-08 19:28:50.396374,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,0.013800000000000034,0.3774,0.3636
 2025-09-08 16:38:16.406436,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nanna Koerstz Madsen,0.012100000000000001,0.0244,0.0123
-2025-09-09 02:04:39.408518,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Akie Iwai,0.011199999999999995,0.0588,0.0476
 2025-09-09 02:04:39.402557,Sanford International - Sanford International - Winner,Steve Flesch,0.011199999999999995,0.0435,0.0323
+2025-09-09 02:04:39.408518,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Akie Iwai,0.011199999999999995,0.0588,0.0476
 2025-09-08 16:38:16.406436,Kroger Queen City Championship - Kroger Queen City Championship - Winner,A Lim Kim,0.010700000000000001,0.0385,0.0278
 2025-09-08 17:31:42.758174,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,0.010699999999999987,0.3333,0.3226
 2025-09-08 16:38:16.406436,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Ayaka Furue,0.010600000000000002,0.0323,0.0217
@@ -44,21 +39,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-08 17:31:42.729102,AFC North - AFC North 2025-26 - AFC North Winner,Cincinnati Bengals,-0.010099999999999998,0.3125,0.3226
 2025-09-08 19:28:49.580351,EuroBasket 2025 - EuroBasket 2025 - MVP Winner,Cedi  Osman,-0.010100000000000001,0.0244,0.0345
 2025-09-08 20:33:23.835987,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Karlie Kloss,-0.0102,0.0667,0.0769
-2025-09-08 15:33:21.160046,BMW PGA Championship - BMW PGA Championship - Winner,Aaron Rai,-0.010700000000000001,0.0278,0.0385
-2025-09-08 15:33:21.154012,Procore Championship - Procore Championship - Winner,Patrick Cantlay,-0.011199999999999995,0.0476,0.0588
 2025-09-09 02:04:39.402557,Sanford International - Sanford International - Winner,Steve Allan,-0.011199999999999995,0.0476,0.0588
 2025-09-09 02:04:39.323299,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,-0.011600000000000055,0.5122,0.5238
 2025-09-08 20:33:23.835987,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Gigi Hadid,-0.011900000000000008,0.0833,0.0952
 2025-09-08 22:32:29.511608,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.0131,0.7647,0.7778
 2025-09-08 19:28:49.587289,EuroBasket 2025 - EuroBasket 2025 - Winners Group,Group A,-0.01319999999999999,0.25,0.2632
-2025-09-08 15:33:20.964739,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-09-08 16:38:16.194844,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-09-08 18:41:29.020373,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-09-08 19:28:50.399864,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
+2025-09-08 17:31:42.901370,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
 2025-09-08 20:33:24.831424,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
 2025-09-08 22:32:29.350323,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
 2025-09-08 21:29:20.615379,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
-2025-09-08 19:28:50.399864,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
-2025-09-08 18:41:29.020373,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
-2025-09-08 17:31:42.901370,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
-2025-09-08 16:38:16.194844,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.013800000000000034,0.3636,0.3774
 2025-09-08 17:31:42.786162,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Patrick Mahomes (KC),-0.013899999999999996,0.1111,0.125
 2025-09-09 02:04:39.402557,Sanford International - Sanford International - Winner,Soren Kjeldsen,-0.013999999999999999,0.0769,0.0909
 2025-09-09 02:04:39.408518,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Miyu Yamashita,-0.014099999999999994,0.0526,0.0667
@@ -69,16 +61,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-08 19:28:49.583896,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Cedi Osman,-0.019300000000000005,0.0152,0.0345
 2025-09-08 17:31:42.786162,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Joe Burrow (CIN),-0.02049999999999999,0.1333,0.1538
 2025-09-08 22:32:29.499357,Boxing Lines - Serhii Bohachuk vs Brandon Adams  - To Win the Bout,Brandon Adams,-0.022199999999999998,0.2,0.2222
+2025-09-08 17:31:42.897793,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
 2025-09-08 22:32:29.346840,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
-2025-09-08 16:38:16.191304,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
 2025-09-08 21:29:20.611844,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
 2025-09-08 20:33:24.827920,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
-2025-09-08 15:33:20.961258,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
+2025-09-08 16:38:16.191304,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
 2025-09-08 18:41:29.016788,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
-2025-09-08 17:31:42.897793,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 4 Game Series,Tie,-0.02260000000000001,0.3774,0.4
 2025-09-08 22:32:29.487078,Boxing Lines - Lewis Crocker vs Paddy Donovan - To Win the Bout,Lewis Crocker,-0.027999999999999997,0.1538,0.1818
 2025-09-08 19:28:49.583896,EuroBasket 2025 - EuroBasket 2025 - Top Points Scorer,Giannis  Antetokounmpo,-0.0334,0.0435,0.0769
-2025-09-08 15:33:20.940468,MLB Series Prices - MLB Series Prices Sep 8 to Sep 11 - 3 Game Series,St Louis Cardinals,-0.03839999999999999,0.3125,0.3509
 2025-09-08 20:33:23.835987,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Selena Gomez,-0.04040000000000002,0.1818,0.2222
 2025-09-08 20:33:23.835987,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - To be the Maid of Honour or Man of Honour,Blake Lively,-0.04999999999999999,0.2,0.25
 2025-09-08 20:33:24.570618,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,-0.059699999999999975,0.8403,0.9

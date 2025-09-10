@@ -27,20 +27,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:52.867858,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,No,0.040100000000000025,0.9901,0.95
 2025-09-09 16:38:52.948979,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,No,0.03770000000000007,0.8948,0.8571
 2025-09-09 16:38:52.871316,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,0.035600000000000076,0.8182,0.7826
-2025-09-09 16:38:52.878252,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,No,0.03489999999999999,0.5,0.4651
 2025-09-09 16:38:52.843554,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,Yes,0.03489999999999999,0.5,0.4651
+2025-09-09 16:38:52.878252,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,No,0.03489999999999999,0.5,0.4651
 2025-09-09 18:38:35.221772,Boxing Lines - Yoshiki Takei vs Christian Medina Jimenez - To Win the Bout,Yoshiki Takei,0.033399999999999985,0.8667,0.8333
 2025-09-09 16:38:52.874800,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,Yes,0.03090000000000004,0.6226,0.5917
-2025-09-09 14:34:49.315143,Tournament Match-Ups - Tournament Match-Up - A. Scott vs S.W. Kim - Tournament Match-Up,Si Woo Kim,0.03090000000000004,0.6226,0.5917
-2025-09-09 14:34:49.341689,Tournament Match-Ups - Tournament Match-Up - M. Kim vs R. Fox - Tournament Match-Up,Michael Kim,0.030399999999999983,0.5652,0.5348
-2025-09-09 14:34:49.328382,Tournament Match-Ups - Tournament Match-Up - J. Niemann vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,0.030399999999999983,0.5652,0.5348
-2025-09-09 14:34:49.323906,Tournament Match-Ups - Tournament Match-Up - D. Burmester vs M. Wallace - Tournament Match-Up,Matt Wallace,0.030399999999999983,0.5652,0.5348
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Shane Lowry,0.02960000000000007,0.6296,0.6
 2025-09-09 22:31:56.956539,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,0.027700000000000002,0.4444,0.4167
 2025-09-09 16:38:52.864371,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,0.02750000000000008,0.6429,0.6154
 2025-09-09 15:33:58.633393,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,0.02679999999999999,0.3125,0.2857
 2025-09-09 16:38:53.385060,Tournament Match-Ups - Tournament Match-Up - J. Niemann vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,0.026499999999999968,0.5917,0.5652
-2025-09-09 14:34:49.346101,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Shane Lowry,0.025599999999999956,0.6,0.5744
+2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),0.025400000000000006,0.1087,0.0833
 2025-09-09 16:38:52.850511,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,Yes,0.02529999999999999,0.8824,0.8571
 2025-09-09 15:33:58.398691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Washington Commanders,0.022000000000000006,0.1053,0.0833
 2025-09-09 17:31:10.211380,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,0.021799999999999986,0.3922,0.3704
@@ -58,9 +54,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 20:32:23.986986,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.010699999999999987,0.3226,0.3333
 2025-09-09 16:38:52.914052,To Make the Playoffs - To Make the Playoffs 2025-26 - Minnesota Vikings To Make the Playoffs,No,-0.01100000000000001,0.5238,0.5348
 2025-09-09 16:38:52.931399,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,No,-0.011300000000000004,0.2326,0.2439
+2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Caleb Williams (CHI),-0.011399999999999997,0.0164,0.0278
 2025-09-09 19:26:19.534202,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,-0.012199999999999989,0.5,0.5122
 2025-09-09 22:31:56.981562,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Christian Mbilli,-0.012700000000000045,0.6364,0.6491
 2025-09-09 15:33:58.398691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.013899999999999996,0.1111,0.125
+2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.014399999999999996,0.0625,0.0769
 2025-09-09 18:38:35.184708,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,-0.016700000000000048,0.7333,0.75
 2025-09-09 18:38:35.168132,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,-0.016900000000000026,0.6552,0.6721
 2025-09-09 16:38:53.118272,Boxing Lines - Tyrone McKenna vs Dylan Moran - To Win the Bout,Tyrone McKenna,-0.017300000000000093,0.697,0.7143
@@ -70,7 +68,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:52.896025,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,Yes,-0.018999999999999906,0.7143,0.7333
 2025-09-09 17:31:10.211380,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,-0.020199999999999996,0.6721,0.6923
 2025-09-09 16:38:52.921037,To Make the Playoffs - To Make the Playoffs 2025-26 - New Orleans Saints To Make the Playoffs,Yes,-0.022000000000000006,0.0833,0.1053
-2025-09-09 14:34:49.346101,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Marco Penge,-0.022699999999999998,0.4651,0.4878
 2025-09-09 16:38:53.385060,Tournament Match-Ups - Tournament Match-Up - J. Niemann vs M. Fitzpatrick - Tournament Match-Up,Joaquin Niemann,-0.023799999999999988,0.4762,0.5
 2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Todd Bowles,-0.024,0.0385,0.0625
 2025-09-09 19:26:19.537948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Alen Omic,-0.024399999999999977,0.4878,0.5122
@@ -81,12 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:52.864371,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,-0.029000000000000026,0.4255,0.4545
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Marco Penge,-0.030299999999999994,0.4348,0.4651
 2025-09-09 16:38:52.874800,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,No,-0.031799999999999995,0.4444,0.4762
-2025-09-09 14:34:49.315143,Tournament Match-Ups - Tournament Match-Up - A. Scott vs S.W. Kim - Tournament Match-Up,Adam Scott,-0.031799999999999995,0.4444,0.4762
 2025-09-09 16:38:52.878252,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,Yes,-0.03479999999999994,0.5652,0.6
 2025-09-09 16:38:52.843554,To Make the Playoffs - To Make the Playoffs 2025-26 - Arizona Cardinals To Make the Playoffs,No,-0.03479999999999994,0.5652,0.6
-2025-09-09 14:34:49.341689,Tournament Match-Ups - Tournament Match-Up - M. Kim vs R. Fox - Tournament Match-Up,Ryan Fox,-0.03480000000000005,0.5,0.5348
-2025-09-09 14:34:49.328382,Tournament Match-Ups - Tournament Match-Up - J. Niemann vs M. Fitzpatrick - Tournament Match-Up,Joaquin Niemann,-0.03480000000000005,0.5,0.5348
-2025-09-09 14:34:49.323906,Tournament Match-Ups - Tournament Match-Up - D. Burmester vs M. Wallace - Tournament Match-Up,Dean Burmester,-0.03480000000000005,0.5,0.5348
 2025-09-09 18:38:35.221772,Boxing Lines - Yoshiki Takei vs Christian Medina Jimenez - To Win the Bout,Christian Medina Jimenez,-0.0353,0.2,0.2353
 2025-09-09 16:38:52.871316,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,-0.03570000000000001,0.25,0.2857
 2025-09-09 16:38:52.948979,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.036599999999999994,0.1739,0.2105
@@ -95,8 +88,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:53.114128,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,-0.04630000000000001,0.3704,0.4167
 2025-09-09 15:33:58.422847,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.048100000000000004,0.0769,0.125
 2025-09-09 16:38:52.927917,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,Yes,-0.04849999999999999,0.1333,0.1818
-2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Callahan,-0.0509,0.0667,0.1176
 2025-09-09 16:38:52.867858,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,-0.0509,0.0667,0.1176
+2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Callahan,-0.0509,0.0667,0.1176
 2025-09-09 16:38:52.899770,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,No,-0.05159999999999998,0.7561,0.8077
 2025-09-09 16:38:52.854034,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,No,-0.0527,0.1212,0.1739
 2025-09-09 17:31:10.265369,Boxing Lines - Yoshiki Takei vs Christian Medina Jimenez - To Win the Bout,Yoshiki Takei,-0.05559999999999998,0.8333,0.8889

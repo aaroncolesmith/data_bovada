@@ -12,8 +12,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-10 04:33:53.235473,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Aidan Hutchinson (DET),0.06910000000000001,0.16,0.0909
 2025-09-10 09:31:59.110069,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 68.5,0.05559999999999998,0.5,0.4444
 2025-09-10 08:39:07.610760,Scores - 1st Round Score - J.J. Spaun - 1st Round Score,Over 69.5,0.05559999999999998,0.5,0.4444
-2025-09-10 08:39:07.624479,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 69.5,0.05070000000000002,0.4762,0.4255
 2025-09-10 08:39:07.638001,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 69.5,0.05070000000000002,0.4762,0.4255
+2025-09-10 08:39:07.624479,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 69.5,0.05070000000000002,0.4762,0.4255
 2025-09-10 04:33:52.504597,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.04760000000000003,0.5238,0.4762
 2025-09-10 05:32:16.418315,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Derrick Henry (BAL),0.0476,0.1905,0.1429
 2025-09-10 08:39:07.642482,Scores - 1st Round Score - Ben Griffin - 1st Round Score,Over 69.5,0.045499999999999985,0.5,0.4545
@@ -25,14 +25,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-10 06:43:45.321805,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Penn State,0.03920000000000001,0.3333,0.2941
 2025-09-10 04:33:53.235473,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,T.J. Watt (PIT),0.03860000000000001,0.1053,0.0667
 2025-09-10 09:31:59.078068,Scores - 1st Round Score - Corey Conners - 1st Round Score,Over 69.5,0.03600000000000003,0.5238,0.4878
-2025-09-10 08:39:07.592509,Scores - 1st Round Score - Maverick McNealy - 1st Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
 2025-09-10 09:31:59.091498,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
+2025-09-10 08:39:07.592509,Scores - 1st Round Score - Maverick McNealy - 1st Round Score,Over 69.5,0.03489999999999999,0.5,0.4651
 2025-09-10 08:39:07.647001,Scores - 1st Round Score - Cameron Young - 1st Round Score,Over 69.5,0.031799999999999995,0.4762,0.4444
 2025-09-10 09:31:59.096496,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,0.03090000000000004,0.6226,0.5917
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Shane Lowry,0.02960000000000007,0.6296,0.6
-2025-09-10 09:31:59.059986,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Under 68.5,0.029000000000000026,0.4545,0.4255
-2025-09-10 08:39:07.651685,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 69.5,0.029000000000000026,0.4545,0.4255
 2025-09-10 08:39:07.633543,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 69.5,0.029000000000000026,0.4545,0.4255
+2025-09-10 08:39:07.651685,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Over 69.5,0.029000000000000026,0.4545,0.4255
+2025-09-10 09:31:59.059986,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Under 68.5,0.029000000000000026,0.4545,0.4255
 2025-09-10 04:33:53.235473,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Jared Verse (LAR),0.02850000000000001,0.0952,0.0667
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),0.025400000000000006,0.1087,0.0833
 2025-09-10 09:31:59.064571,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
@@ -50,20 +50,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-10 06:43:45.518824,NL Central - NL Central 2025 - NL Central Winner,Chicago Cubs,0.012700000000000003,0.0323,0.0196
 2025-09-10 08:39:07.628957,Scores - 1st Round Score - Harris English - 1st Round Score,Over 69.5,0.012199999999999989,0.5,0.4878
 2025-09-10 07:30:05.732491,Boxing Lines - Serhii Bohachuk vs Brandon Adams  - To Win the Bout,Brandon Adams,0.011700000000000016,0.2222,0.2105
+2025-09-10 12:57:29.769099,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,0.011499999999999955,0.6667,0.6552
 2025-09-10 05:32:16.418315,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Bucky Irving (TB),0.011399999999999997,0.0278,0.0164
 2025-09-10 05:32:16.418315,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Josh Allen (BUF),0.011399999999999997,0.0278,0.0164
 2025-09-10 05:32:16.418315,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.011199999999999995,0.0588,0.0476
-2025-09-10 10:34:39.373598,Boxing Lines - Bek Nurmaganbet vs Steven Sumpter - To Win the Bout,Steven Sumpter,0.011099999999999999,0.1111,0.1
 2025-09-10 04:33:53.499432,Boxing Lines - Yuni Takada vs Ryusei Matsumoto - To Win the Bout,Ryusei Matsumoto,0.011099999999999999,0.9,0.8889
+2025-09-10 10:34:39.373598,Boxing Lines - Bek Nurmaganbet vs Steven Sumpter - To Win the Bout,Steven Sumpter,0.011099999999999999,0.1111,0.1
 2025-09-10 07:30:06.125722,BMW PGA Championship - 2/3 Balls - 1st Round 3 Balls - B. Horschel / J. Rose / T. Fleetwood - 1st Round 3 Balls,Tommy Fleetwood,0.01100000000000001,0.5348,0.5238
 2025-09-10 04:33:53.235473,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Myles Garrett (CLE),0.010899999999999993,0.1538,0.1429
+2025-09-10 12:57:29.793862,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,0.010699999999999987,0.3333,0.3226
 2025-09-10 03:40:47.143698,Boxing Lines - Yoshiki Takei vs Christian Medina Jimenez - To Win the Bout,Christian Medina Jimenez,0.010499999999999982,0.2105,0.2
 2025-09-10 04:33:53.507750,Boxing Lines - Yudai Murakami vs Taiga Imanaga - To Win the Bout,Taiga Imanaga,0.010199999999999987,0.9333,0.9231
 2025-09-10 09:31:57.427209,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Turkey,0.010099999999999998,0.5556,0.5455
 2025-09-10 04:33:52.504597,WNBA Championship - WNBA Championship 2025 - Championship Winner,Golden State Valkyries,-0.010300000000000002,0.0141,0.0244
+2025-09-10 12:57:29.781524,Boxing Lines - Jacob Bank vs Tyron Zeuge - To Win the Bout,Tyron Zeuge,-0.010499999999999982,0.2,0.2105
 2025-09-10 07:30:05.732491,Boxing Lines - Serhii Bohachuk vs Brandon Adams  - To Win the Bout,Serhii Bohachuk,-0.01090000000000002,0.8462,0.8571
 2025-09-10 04:33:53.235473,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Nick Bosa (SF),-0.011099999999999999,0.1,0.1111
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Caleb Williams (CHI),-0.011399999999999997,0.0164,0.0278
+2025-09-10 12:57:30.314559,BMW PGA Championship - BMW PGA Championship - Winner,Jon Rahm,-0.012299999999999991,0.1053,0.1176
 2025-09-10 09:31:57.427209,EuroBasket 2025 - EuroBasket 2025 - To Reach Final,Germany,-0.013600000000000056,0.8197,0.8333
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.014399999999999996,0.0625,0.0769
 2025-09-10 06:43:45.321805,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Michigan,-0.01440000000000001,0.0909,0.1053
@@ -80,24 +84,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-10 09:31:59.064571,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2025-09-10 08:39:06.156189,EuroBasket 2025 - EuroBasket 2025 - Outright,Germany,-0.023699999999999943,0.5917,0.6154
 2025-09-10 09:31:59.105587,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 68.5,-0.026499999999999968,0.5652,0.5917
+2025-09-10 08:39:07.633543,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 69.5,-0.02859999999999996,0.6078,0.6364
 2025-09-10 08:39:07.651685,Scores - 1st Round Score - Justin Thomas - 1st Round Score,Under 69.5,-0.02859999999999996,0.6078,0.6364
 2025-09-10 09:31:59.059986,Scores - 1st Round Score - Aaron Rai - 1st Round Score,Over 68.5,-0.02859999999999996,0.6078,0.6364
-2025-09-10 08:39:07.633543,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 69.5,-0.02859999999999996,0.6078,0.6364
 2025-09-10 09:31:59.078068,Scores - 1st Round Score - Corey Conners - 1st Round Score,Under 69.5,-0.028900000000000037,0.5455,0.5744
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Marco Penge,-0.030299999999999994,0.4348,0.4651
 2025-09-10 08:39:07.647001,Scores - 1st Round Score - Cameron Young - 1st Round Score,Under 69.5,-0.03090000000000004,0.5917,0.6226
-2025-09-10 09:31:59.096496,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,-0.031799999999999995,0.4444,0.4762
 2025-09-10 06:43:45.576330,ROY - NL ROY 2025 - National League Rookie of the Year,Isaac Collins (MIL),-0.031799999999999995,0.1111,0.1429
-2025-09-10 09:31:59.091498,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Under 69.5,-0.03479999999999994,0.5652,0.6
+2025-09-10 09:31:59.096496,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,-0.031799999999999995,0.4444,0.4762
 2025-09-10 08:39:07.592509,Scores - 1st Round Score - Maverick McNealy - 1st Round Score,Under 69.5,-0.03479999999999994,0.5652,0.6
+2025-09-10 09:31:59.091498,Scores - 1st Round Score - Robert MacIntyre - 1st Round Score,Under 69.5,-0.03479999999999994,0.5652,0.6
 2025-09-10 04:33:52.504597,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.04240000000000001,0.0909,0.1333
 2025-09-10 08:39:07.642482,Scores - 1st Round Score - Ben Griffin - 1st Round Score,Under 69.5,-0.04259999999999997,0.5652,0.6078
 2025-09-10 08:39:07.624479,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 69.5,-0.04469999999999996,0.5917,0.6364
 2025-09-10 08:39:07.638001,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 69.5,-0.04469999999999996,0.5917,0.6364
 2025-09-10 09:31:59.114587,Scores - 1st Round Score - Shane Lowry - 1st Round Score,Over 69.5,-0.045499999999999985,0.5,0.5455
 2025-09-10 09:31:59.073564,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.045499999999999985,0.4545,0.5
-2025-09-10 09:31:59.110069,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,-0.05740000000000001,0.5652,0.6226
 2025-09-10 08:39:07.610760,Scores - 1st Round Score - J.J. Spaun - 1st Round Score,Under 69.5,-0.05740000000000001,0.5652,0.6226
+2025-09-10 09:31:59.110069,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,-0.05740000000000001,0.5652,0.6226
 2025-09-10 09:31:59.101040,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,-0.07940000000000003,0.4444,0.5238
 2025-09-10 09:31:59.069062,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 68.5,-0.08030000000000004,0.4545,0.5348
 2025-09-10 06:43:45.528605,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.0877,0.2632,0.3509

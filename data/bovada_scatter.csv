@@ -22,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:52.854034,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,Yes,0.05259999999999998,0.9474,0.8948
 2025-09-09 16:38:52.899770,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,Yes,0.04799999999999999,0.3077,0.2597
 2025-09-09 16:38:52.927917,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,No,0.047599999999999976,0.9333,0.8857
-2025-09-09 15:33:58.422847,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,0.044499999999999984,0.2667,0.2222
 2025-09-09 16:38:53.114128,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,0.043200000000000016,0.6923,0.6491
 2025-09-09 16:38:52.867858,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,No,0.040100000000000025,0.9901,0.95
 2025-09-09 16:38:52.948979,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,No,0.03770000000000007,0.8948,0.8571
@@ -34,11 +33,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Shane Lowry,0.02960000000000007,0.6296,0.6
 2025-09-09 22:31:56.956539,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,0.027700000000000002,0.4444,0.4167
 2025-09-09 16:38:52.864371,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,0.02750000000000008,0.6429,0.6154
-2025-09-09 15:33:58.633393,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,0.02679999999999999,0.3125,0.2857
 2025-09-09 16:38:53.385060,Tournament Match-Ups - Tournament Match-Up - J. Niemann vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,0.026499999999999968,0.5917,0.5652
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),0.025400000000000006,0.1087,0.0833
 2025-09-09 16:38:52.850511,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,Yes,0.02529999999999999,0.8824,0.8571
-2025-09-09 15:33:58.398691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Washington Commanders,0.022000000000000006,0.1053,0.0833
 2025-09-09 17:31:10.211380,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,0.021799999999999986,0.3922,0.3704
 2025-09-09 18:38:35.184708,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,0.020799999999999985,0.3333,0.3125
 2025-09-09 16:38:52.921037,To Make the Playoffs - To Make the Playoffs 2025-26 - New Orleans Saints To Make the Playoffs,No,0.018900000000000028,0.9804,0.9615
@@ -48,17 +45,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 16:38:53.122354,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Ishmael Davis,0.012700000000000045,0.6491,0.6364
 2025-09-09 16:38:53.118272,Boxing Lines - Tyrone McKenna vs Dylan Moran - To Win the Bout,Dylan Moran,0.012699999999999989,0.3636,0.3509
 2025-09-09 16:38:52.931399,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,0.011900000000000022,0.8333,0.8214
-2025-09-09 15:33:58.398691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Los Angeles Rams,0.011900000000000008,0.0952,0.0833
 2025-09-09 19:26:20.665687,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,0.011699999999999933,0.7895,0.7778
 2025-09-09 16:38:52.914052,To Make the Playoffs - To Make the Playoffs 2025-26 - Minnesota Vikings To Make the Playoffs,Yes,0.010699999999999932,0.5455,0.5348
+2025-09-10 03:40:47.143698,Boxing Lines - Yoshiki Takei vs Christian Medina Jimenez - To Win the Bout,Christian Medina Jimenez,0.010499999999999982,0.2105,0.2
 2025-09-09 20:32:23.986986,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.010699999999999987,0.3226,0.3333
 2025-09-09 16:38:52.914052,To Make the Playoffs - To Make the Playoffs 2025-26 - Minnesota Vikings To Make the Playoffs,No,-0.01100000000000001,0.5238,0.5348
 2025-09-09 16:38:52.931399,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,No,-0.011300000000000004,0.2326,0.2439
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Caleb Williams (CHI),-0.011399999999999997,0.0164,0.0278
 2025-09-09 19:26:19.534202,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Germany,Daniel Theis,-0.012199999999999989,0.5,0.5122
 2025-09-09 22:31:56.981562,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Christian Mbilli,-0.012700000000000045,0.6364,0.6491
-2025-09-09 15:33:58.398691,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,San Francisco 49ers,-0.013899999999999996,0.1111,0.125
 2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jalen Hurts (PHI),-0.014399999999999996,0.0625,0.0769
+2025-09-10 03:04:38.889778,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,C.J. Stroud (HOU),-0.014900000000000004,0.0196,0.0345
 2025-09-09 18:38:35.184708,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,-0.016700000000000048,0.7333,0.75
 2025-09-09 18:38:35.168132,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,-0.016900000000000026,0.6552,0.6721
 2025-09-09 16:38:53.118272,Boxing Lines - Tyrone McKenna vs Dylan Moran - To Win the Bout,Tyrone McKenna,-0.017300000000000093,0.697,0.7143
@@ -73,7 +70,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 19:26:19.537948,EuroBasket 2025 - EuroBasket 2025 - Top Team Total Rebounds - Slovenia,Alen Omic,-0.024399999999999977,0.4878,0.5122
 2025-09-09 16:38:52.850511,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.02529999999999999,0.1852,0.2105
 2025-09-09 22:31:56.956539,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Ishmael Davis,-0.026499999999999968,0.6226,0.6491
-2025-09-09 15:33:58.633393,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,-0.027800000000000047,0.75,0.7778
 2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Kevin Stefanski,-0.027999999999999997,0.1538,0.1818
 2025-09-09 16:38:52.864371,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,-0.029000000000000026,0.4255,0.4545
 2025-09-10 02:00:28.587007,Tournament Match-Ups - Tournament Match-Up - M. Penge vs S. Lowry - Tournament Match-Up,Marco Penge,-0.030299999999999994,0.4348,0.4651
@@ -86,7 +82,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Daboll,-0.043800000000000006,0.1667,0.2105
 2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Jonathan Gannon,-0.04440000000000001,0.0667,0.1111
 2025-09-09 16:38:53.114128,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,-0.04630000000000001,0.3704,0.4167
-2025-09-09 15:33:58.422847,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.048100000000000004,0.0769,0.125
 2025-09-09 16:38:52.927917,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,Yes,-0.04849999999999999,0.1333,0.1818
 2025-09-09 16:38:52.867858,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,-0.0509,0.0667,0.1176
 2025-09-09 18:38:35.030087,NFL Specials - Next NFL Head Coach to Permanently Leave Post - Proposition,Brian Callahan,-0.0509,0.0667,0.1176

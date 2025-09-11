@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-11 08:37:36.921669,Copa do Brasil - Copa do Brasil 2025 - Futures - Winner,Fluminense,0.1556,0.2667,0.1111
+2025-09-11 11:28:49.075682,MLB Series Prices - MLB Series Prices - 4 Game Series,Tie,0.11559999999999998,0.3509,0.2353
 2025-09-11 05:32:39.315089,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,No,0.11010000000000003,0.4,0.2899
 2025-09-11 06:44:02.159880,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,0.08330000000000004,0.875,0.7917
 2025-09-11 05:32:39.385744,AL West - AL West 2025 - AL West Winner,Houston Astros,0.05449999999999999,0.6,0.5455
@@ -59,3 +60,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-11 05:32:39.385744,AL West - AL West 2025 - AL West Winner,Seattle Mariners,-0.0711,0.4167,0.4878
 2025-09-11 05:32:39.315089,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,Yes,-0.11110000000000009,0.6667,0.7778
 2025-09-11 10:34:59.927397,MLB Series Prices - MLB Series Prices - 4 Game Series,Tie,-0.11559999999999998,0.2353,0.3509
+2025-09-11 11:28:49.079367,MLB Series Prices - MLB Series Prices - 4 Game Series,Tie,-0.11559999999999998,0.2353,0.3509

@@ -3,10 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 09:31:21.054990,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 69.5,0.14260000000000006,0.5348,0.3922
 2025-09-12 09:31:21.037251,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 69.5,0.12380000000000002,0.5238,0.4
 2025-09-12 09:31:21.041688,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,0.11560000000000004,0.5238,0.4082
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Chanettee Wannasaen,0.09340000000000001,0.1,0.0066
 2025-09-12 10:34:43.069850,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2029 or later,0.0857,0.8,0.7143
 2025-09-12 09:31:21.050548,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 69.5,0.08030000000000004,0.5348,0.4545
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Nelly Korda,0.07450000000000001,0.1333,0.0588
 2025-09-12 05:32:39.190985,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,No,0.07440000000000002,0.5744,0.5
 2025-09-12 08:56:19.965468,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.07089999999999999,0.2632,0.1923
 2025-09-12 05:32:39.215032,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.06670000000000004,0.4,0.3333
@@ -17,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 04:34:40.070736,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.04820000000000002,0.6226,0.5744
 2025-09-12 05:32:39.163506,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,0.0474,0.2326,0.1852
 2025-09-12 07:28:39.853104,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,Scottie Scheffler,0.045499999999999985,0.5455,0.5
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Sei Young Kim,0.0448,0.0833,0.0385
 2025-09-12 05:32:39.257177,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,0.043399999999999994,0.3333,0.2899
 2025-09-12 04:34:40.046079,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.03570000000000001,0.2857,0.25
 2025-09-12 10:34:44.070186,BMW PGA Championship - 2/3 Balls - 2nd Round 3-Balls - J. Rose / T. Fleetwood / B. Horschel - 2nd Round 3-Balls,Justin Rose,0.034499999999999975,0.3571,0.3226
@@ -29,54 +26,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 04:34:39.350829,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.026900000000000007,0.2174,0.1905
 2025-09-12 05:32:39.201264,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,Yes,0.025499999999999967,0.4255,0.4
 2025-09-12 10:34:43.069850,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2027,0.024999999999999994,0.125,0.1
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,A Lim Kim,0.024299999999999995,0.0588,0.0345
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Shane Steichen,0.0242,0.0909,0.0667
 2025-09-12 05:32:39.180708,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,0.0242,0.0909,0.0667
-2025-09-12 04:34:40.448915,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,Scottie Scheffler,0.023799999999999988,0.5,0.4762
-2025-09-12 05:32:39.160035,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Falcons To Make the Playoffs,Yes,0.023799999999999988,0.3571,0.3333
 2025-09-12 05:32:39.204668,To Make the Playoffs - To Make the Playoffs 2025-26 - Jacksonville Jaguars To Make the Playoffs,Yes,0.023799999999999988,0.5,0.4762
 2025-09-12 13:36:23.388852,Boxing Lines - Matthew Boreland vs Ruadhan Farrell - To Win the Bout,Matthew Boreland,0.023799999999999988,0.3571,0.3333
+2025-09-12 05:32:39.160035,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Falcons To Make the Playoffs,Yes,0.023799999999999988,0.3571,0.3333
+2025-09-12 04:34:40.448915,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,Scottie Scheffler,0.023799999999999988,0.5,0.4762
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Brian Schottenheimer,0.023200000000000002,0.0526,0.0294
 2025-09-12 12:55:34.625497,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - R. Palmer / V. Whaley / H. Buckley - 2nd Round 3-Balls,Vince Whaley,0.02200000000000002,0.5348,0.5128
-2025-09-12 12:55:34.621114,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - C. Reavie / J. Dufner / S. Ryder - 2nd Round 3-Balls,Chez Reavie,0.021999999999999964,0.3077,0.2857
 2025-09-12 12:55:34.634160,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Hubbard / C. Young - 2nd Round 3-Balls,Carson Young,0.021999999999999964,0.3077,0.2857
+2025-09-12 12:55:34.621114,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - C. Reavie / J. Dufner / S. Ryder - 2nd Round 3-Balls,Chez Reavie,0.021999999999999964,0.3077,0.2857
 2025-09-12 05:32:39.525237,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,Jeremy Smith,0.021699999999999997,0.4762,0.4545
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Patty Tavatanakit,0.021199999999999997,0.0278,0.0066
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jenny Bae,0.021199999999999997,0.0278,0.0066
 2025-09-12 05:32:39.187595,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,No,0.020699999999999996,0.4651,0.4444
 2025-09-12 08:56:21.171781,Round Match-Ups - 2nd Round Match Up - R. Henley v S. Scheffler - 2nd Round Match Up ,Scottie Scheffler,0.020299999999999985,0.6429,0.6226
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Matt LaFleur,0.02020000000000001,0.1111,0.0909
-2025-09-12 14:34:03.355875,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 69.5,0.01970000000000005,0.5652,0.5455
-2025-09-12 14:34:03.383920,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
 2025-09-12 04:34:40.679228,Match-Ups - 2nd Round Match-Ups - R. McIlroy v J. Rahm - Requests,Rory McIIroy,0.01970000000000005,0.5652,0.5455
+2025-09-12 14:34:03.383920,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Under 70.5,0.01970000000000005,0.5652,0.5455
+2025-09-12 14:34:03.355875,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 69.5,0.01970000000000005,0.5652,0.5455
 2025-09-12 12:55:34.704255,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - Q. Cummins / T. Rosenmueller / G. Wiebe - 2nd Round 3-Balls,Quade Cummins,0.018900000000000028,0.4444,0.4255
 2025-09-12 09:31:20.505319,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.017800000000000038,0.8095,0.7917
 2025-09-12 05:32:39.242999,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,No,0.0174,0.25,0.2326
 2025-09-12 13:36:23.406579,Boxing Lines - Ivan Dychko vs Jermaine Franklin Jr - To Win the Bout,Ivan Dychko,0.017299999999999982,0.5917,0.5744
 2025-09-12 13:36:23.428750,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.017299999999999982,0.303,0.2857
 2025-09-12 03:40:04.093404,BKFC 80: Perdomo vs Adams 2 - Leonardo Perdomo vs Arnold Adams - To Win the Bout,Arnold Adams,0.016700000000000007,0.1,0.0833
-2025-09-12 05:32:39.184169,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,0.016699999999999993,0.2667,0.25
 2025-09-12 05:32:39.145323,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),0.016699999999999993,0.2667,0.25
 2025-09-12 06:43:03.872585,Elite Boxing - Saul 'Canelo' Alvarez vs Terence Crawford - To Win the Bout,Terence Crawford,0.016699999999999993,0.4167,0.4
-2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jim Harbaugh,0.016600000000000004,0.0833,0.0667
+2025-09-12 05:32:39.184169,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,0.016699999999999993,0.2667,0.25
 2025-09-12 13:36:23.689979,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - A. Albertson / T. Dickson / J. Koivun - 2nd Round 3-Balls,Taylor Dickson,0.016600000000000004,0.1905,0.1739
+2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jim Harbaugh,0.016600000000000004,0.0833,0.0667
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Tomlin,0.0157,0.0435,0.0278
 2025-09-12 14:34:03.244665,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - M. McNealy / A. Bhatia / M. Homa - 2nd Round 3-Balls,Akshay Bhatia,0.015400000000000025,0.4,0.3846
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean McVay,0.014099999999999998,0.0435,0.0294
 2025-09-12 05:32:39.537547,BKFC 80: Perdomo vs Adams 2 - Yoel Romero vs Theo Doukas - To Win the Bout,Theo Doukas,0.013999999999999999,0.0909,0.0769
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Peiyun Chien,0.0139,0.0179,0.004
 2025-09-12 04:34:40.021839,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Green Bay Packers,0.013899999999999996,0.125,0.1111
 2025-09-12 05:32:39.090954,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.013799999999999923,0.6364,0.6226
 2025-09-12 05:32:39.100707,NFC East - NFC East 2025-26 - NFC East Winner,Philadelphia Eagles,0.012299999999999978,0.6552,0.6429
-2025-09-12 05:32:39.197866,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2025-09-12 05:32:39.264110,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,0.012199999999999989,0.5122,0.5
-2025-09-12 05:32:39.170363,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,Yes,0.011700000000000016,0.2222,0.2105
+2025-09-12 05:32:39.197866,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2025-09-12 04:34:40.041822,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Green Bay Packers,0.011700000000000016,0.2222,0.2105
+2025-09-12 05:32:39.170363,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,Yes,0.011700000000000016,0.2222,0.2105
 2025-09-12 12:55:34.436042,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.011699999999999988,0.2857,0.274
 2025-09-12 13:36:23.402236,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,0.0116,0.4878,0.4762
 2025-09-12 06:43:04.024080,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,Jeremy Smith,0.0116,0.4878,0.4762
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Kum-Kang Park,0.0113,0.0141,0.0028
 2025-09-12 06:43:03.604325,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Nick Bosa (SF),0.011099999999999999,0.1111,0.1
+2025-09-12 15:30:59.314909,BKFC 80: Perdomo vs Adams 2 - Wayna Reid vs Paulo Games - To Win the Bout,Wayna Reid,0.011099999999999999,0.9,0.8889
+2025-09-12 15:30:59.301888,BKFC 80: Perdomo vs Adams 2 - Edgard Plazaola vs Gary Fox - To Win the Bout,Edgard Plazaola,0.011099999999999999,0.9,0.8889
 2025-09-12 05:32:39.100707,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,0.010099999999999998,0.3226,0.3125
 2025-09-12 14:34:03.244665,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - M. McNealy / A. Bhatia / M. Homa - 2nd Round 3-Balls,Max Homa,-0.010099999999999998,0.3125,0.3226
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Raheem Morris,-0.010100000000000001,0.0244,0.0345
@@ -86,7 +80,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 04:34:39.350829,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.010499999999999982,0.2,0.2105
 2025-09-12 06:43:03.609742,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Aidan Hutchinson (DET),-0.010499999999999982,0.2,0.2105
 2025-09-12 04:34:40.448915,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,Russell Henley,-0.010699999999999987,0.3226,0.3333
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Madelene Sagstrom,-0.0108,0.0044,0.0152
 2025-09-12 05:32:39.170363,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,No,-0.01090000000000002,0.8462,0.8571
 2025-09-12 05:32:39.521074,BKFC 80: Perdomo vs Adams 2 - Edgard Plazaola vs Gary Fox - To Win the Bout,Edgard Plazaola,-0.011099999999999999,0.8889,0.9
 2025-09-12 05:32:39.250204,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,Yes,-0.011499999999999955,0.6552,0.6667
@@ -99,53 +92,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 06:43:03.598292,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Abdul Carter (NYG),-0.012699999999999989,0.3509,0.3636
 2025-09-12 12:55:34.704255,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - Q. Cummins / T. Rosenmueller / G. Wiebe - 2nd Round 3-Balls,Thomas Rosenmueller,-0.012800000000000034,0.5,0.5128
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Dan Quinn,-0.012999999999999998,0.0164,0.0294
-2025-09-12 03:40:04.093404,BKFC 80: Perdomo vs Adams 2 - Leonardo Perdomo vs Arnold Adams - To Win the Bout,Leonardo Perdomo,-0.0131,0.9524,0.9655
-2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Dave Canales,-0.0131,0.0345,0.0476
 2025-09-12 13:36:23.428750,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.0131,0.7647,0.7778
+2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Dave Canales,-0.0131,0.0345,0.0476
+2025-09-12 03:40:04.093404,BKFC 80: Perdomo vs Adams 2 - Leonardo Perdomo vs Arnold Adams - To Win the Bout,Leonardo Perdomo,-0.0131,0.9524,0.9655
 2025-09-12 06:43:03.872585,Elite Boxing - Saul 'Canelo' Alvarez vs Terence Crawford - To Win the Bout,Saul 'Canelo' Alvarez,-0.013299999999999979,0.6296,0.6429
 2025-09-12 12:55:34.634160,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Hubbard / C. Young - 2nd Round 3-Balls,Joel Dahmen,-0.013800000000000034,0.3636,0.3774
 2025-09-12 10:34:43.069850,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2026,-0.013899999999999996,0.1111,0.125
 2025-09-12 06:43:03.609742,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,J.J. McCarthy (MIN),-0.013899999999999996,0.1111,0.125
 2025-09-12 06:43:03.609742,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Nick Chubb (HOU),-0.014099999999999994,0.0526,0.0667
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Miyu Yamashita,-0.014100000000000001,0.0385,0.0526
 2025-09-12 07:28:39.853104,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,J J Spaun,-0.014300000000000035,0.2597,0.274
 2025-09-12 04:34:40.070736,NFC North - NFC North 2025-26 - NFC North Winner,Chicago Bears,-0.014399999999999996,0.0625,0.0769
 2025-09-12 05:32:39.180708,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,No,-0.014499999999999957,0.9756,0.9901
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jin Young Ko,-0.014599999999999998,0.005,0.0196
 2025-09-12 10:34:44.070186,BMW PGA Championship - 2/3 Balls - 2nd Round 3-Balls - J. Rose / T. Fleetwood / B. Horschel - 2nd Round 3-Balls,Billy Horschel,-0.01469999999999999,0.2353,0.25
 2025-09-12 14:34:03.051836,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.014700000000000046,0.75,0.7647
 2025-09-12 05:32:39.242999,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,-0.015100000000000002,0.8182,0.8333
 2025-09-12 08:56:19.965468,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Rhyne Howard (ATL),-0.015300000000000001,0.0435,0.0588
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Megan Khang,-0.015499999999999998,0.0123,0.0278
 2025-09-12 12:55:34.436042,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.015899999999999914,0.7778,0.7937
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Hye Jin Choi,-0.0159,0.0164,0.0323
 2025-09-12 05:32:39.525237,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,David Simpson,-0.016100000000000003,0.5917,0.6078
+2025-09-12 08:56:19.965468,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Allisha Gray (ATL),-0.016699999999999993,0.05,0.0667
 2025-09-12 12:55:34.621114,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - C. Reavie / J. Dufner / S. Ryder - 2nd Round 3-Balls,Jason Dufner,-0.016699999999999993,0.25,0.2667
 2025-09-12 08:56:21.171781,Round Match-Ups - 2nd Round Match Up - R. Henley v S. Scheffler - 2nd Round Match Up ,Russell Henley,-0.016699999999999993,0.4,0.4167
-2025-09-12 08:56:19.965468,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Allisha Gray (ATL),-0.016699999999999993,0.05,0.0667
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jin Hee Im,-0.0171,0.0025,0.0196
 2025-09-12 06:43:04.024080,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,David Simpson,-0.017299999999999982,0.5744,0.5917
 2025-09-12 13:36:23.402236,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Ishmael Davis,-0.017299999999999982,0.5744,0.5917
 2025-09-12 04:34:40.070736,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,-0.0174,0.2326,0.25
 2025-09-12 06:43:03.598292,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Mykel Williams (SF),-0.01759999999999999,0.1,0.1176
 2025-09-12 09:31:20.520236,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.017900000000000027,0.8571,0.875
 2025-09-12 05:32:39.184169,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,-0.018199999999999994,0.8,0.8182
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Lydia Ko,-0.0189,0.0196,0.0385
 2025-09-12 06:43:03.586483,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.0189,0.0196,0.0385
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Minjee Lee,-0.019099999999999992,0.0476,0.0667
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Dan Campbell,-0.019099999999999995,0.0244,0.0435
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Rose Zhang,-0.0194,0.005,0.0244
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kyle Shanahan,-0.0203,0.0385,0.0588
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Hyo Joo Kim,-0.0206,0.0179,0.0385
 2025-09-12 04:34:40.080699,NFC East - NFC East 2025-26 - NFC East Winner,Washington Commanders,-0.020799999999999985,0.3125,0.3333
 2025-09-12 05:32:39.187595,To Make the Playoffs - To Make the Playoffs 2025-26 - Denver Broncos To Make the Playoffs,Yes,-0.022600000000000064,0.6,0.6226
 2025-09-12 06:43:03.592809,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.0232,0.0435,0.0667
 2025-09-12 05:32:39.160035,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Falcons To Make the Playoffs,No,-0.0232,0.7101,0.7333
 2025-09-12 05:32:39.201264,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,No,-0.023799999999999932,0.6429,0.6667
 2025-09-12 04:34:40.679228,Match-Ups - 2nd Round Match-Ups - R. McIlroy v J. Rahm - Requests,Jon Rahm,-0.023799999999999988,0.4762,0.5
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Andrea Lee,-0.023799999999999998,0.004,0.0278
-2025-09-12 10:34:44.070186,BMW PGA Championship - 2/3 Balls - 2nd Round 3-Balls - J. Rose / T. Fleetwood / B. Horschel - 2nd Round 3-Balls,Tommy Fleetwood,-0.023800000000000043,0.5,0.5238
 2025-09-12 14:34:03.383920,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Over 70.5,-0.023800000000000043,0.5,0.5238
+2025-09-12 10:34:44.070186,BMW PGA Championship - 2/3 Balls - 2nd Round 3-Balls - J. Rose / T. Fleetwood / B. Horschel - 2nd Round 3-Balls,Tommy Fleetwood,-0.023800000000000043,0.5,0.5238
 2025-09-12 14:34:03.355875,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 69.5,-0.023800000000000043,0.5,0.5238
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Ben Johnson,-0.0242,0.0667,0.0909
 2025-09-12 05:32:39.145323,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),-0.025400000000000006,0.0833,0.1087
@@ -155,17 +138,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-12 05:32:39.177165,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,-0.02750000000000008,0.6154,0.6429
 2025-09-12 04:34:40.046079,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Philadelphia Eagles,-0.02779999999999999,0.2222,0.25
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jonathan Gannon,-0.027800000000000005,0.0833,0.1111
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jeeno Thitikul,-0.027800000000000005,0.0833,0.1111
 2025-09-12 06:43:03.592809,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Ja'Marr Chase (CIN),-0.028399999999999995,0.0625,0.0909
 2025-09-12 07:28:39.853104,Procore Championship - 2/3 Balls - 2nd Round 3-Balls - S. Scheffler / J.J. Spaun / R. Henley - 2nd Round 3-Balls,Russell Henley,-0.028500000000000025,0.2941,0.3226
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Ayaka Furue,-0.029500000000000002,0.0028,0.0323
-2025-09-12 03:04:39.601224,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Akie Iwai,-0.029700000000000004,0.0179,0.0476
 2025-09-12 09:31:20.505319,AL East - AL East 2025 - AL East Winner,Boston Red Sox,-0.029799999999999993,0.0952,0.125
-2025-09-12 06:43:03.609742,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Daniel Jones (IND),-0.030699999999999998,0.0526,0.0833
 2025-09-12 04:34:40.046079,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Washington Commanders,-0.030699999999999998,0.0526,0.0833
+2025-09-12 06:43:03.609742,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Daniel Jones (IND),-0.030699999999999998,0.0526,0.0833
 2025-09-12 06:43:03.604325,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Jared Verse (LAR),-0.03270000000000001,0.0625,0.0952
-2025-09-12 04:34:40.395684,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,Jeremy Smith,-0.033299999999999996,0.4545,0.4878
 2025-09-12 05:32:39.239441,To Make the Playoffs - To Make the Playoffs 2025-26 - New York Jets To Make the Playoffs,No,-0.033299999999999996,0.9,0.9333
+2025-09-12 04:34:40.395684,BKFC 80: Perdomo vs Adams 2 - Jeremy Smith vs David Simpson - To Win the Bout,Jeremy Smith,-0.033299999999999996,0.4545,0.4878
 2025-09-12 04:34:40.070736,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.033300000000000024,0.1667,0.2
 2025-09-12 10:34:43.069850,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2028,-0.033399999999999985,0.1333,0.1667
 2025-09-12 06:43:03.580825,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,-0.0334,0.0435,0.0769

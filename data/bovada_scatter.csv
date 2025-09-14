@@ -10,14 +10,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-13 20:29:31.485668,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 68.5,0.052200000000000024,0.6078,0.5556
 2025-09-13 22:30:38.160796,77th Primetime Emmy Awards - Best Comedy Actor  - Winner,Seth Rogan - The Studio,0.04290000000000005,0.9,0.8571
 2025-09-13 23:27:12.069457,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Fernando Vargas,0.0363,0.303,0.2667
+2025-09-14 04:34:13.694399,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayern Munich,0.03420000000000001,0.9231,0.8889
+2025-09-14 04:34:13.703545,Serie A - Italy Serie A 2025/26 - Winner,Juventus,0.033399999999999985,0.1667,0.1333
 2025-09-13 18:35:30.101355,Boxing Lines - Tyrone McKenna vs Dylan Moran - To Win the Bout,Tyrone McKenna,0.03259999999999996,0.7826,0.75
+2025-09-14 04:34:13.708069,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,0.0321,0.0909,0.0588
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Yealimi Noh,0.030600000000000002,0.0323,0.0017
+2025-09-14 04:34:13.703545,Serie A - Italy Serie A 2025/26 - Winner,Napoli,0.030299999999999994,0.4651,0.4348
 2025-09-13 23:27:10.887057,77th Primetime Emmy Awards - Best Comedy Actress - Winner,Jean Smart - Hacks,0.029299999999999993,0.9524,0.9231
+2025-09-14 04:34:13.856740,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.026500000000000024,0.3774,0.3509
 2025-09-13 21:45:58.548807,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Raiko Santana,0.02560000000000001,0.3333,0.3077
 2025-09-13 23:27:10.937004,77th Primetime Emmy Awards - Best Supporting Drama Actor - Winner,Tramell Tillman - Severance,0.023800000000000043,0.5238,0.5
 2025-09-13 22:30:38.156587,77th Primetime Emmy Awards - Best Anthology Actress - Winner,Cristin Milioti - The Penguin,0.022600000000000064,0.6226,0.6
 2025-09-13 23:27:12.053024,Boxing Lines - Ivan Dychko vs Jermaine Franklin Jr - To Win the Bout,Jermaine Franklin Jr,0.020699999999999996,0.4651,0.4444
-2025-09-13 16:32:32.331533,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Lester Martinez,0.019699999999999995,0.4545,0.4348
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jeeno Thitikul,0.018400000000000027,0.3125,0.2941
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Bianca Pagdanganan,0.0177,0.0217,0.004
 2025-09-13 23:27:10.854534,77th Primetime Emmy Awards - Best Supporting Comedy Actress - Winner,Catherine O'Hara (The Studio),0.016699999999999993,0.2667,0.25
@@ -34,22 +38,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-13 18:35:30.117600,Boxing Lines - Ivan Dychko vs Jermaine Franklin Jr - To Win the Bout,Jermaine Franklin Jr,-0.010099999999999998,0.4444,0.4545
 2025-09-13 22:30:39.347141,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,Liam Paro,-0.010199999999999987,0.9231,0.9333
 2025-09-14 02:08:00.958671,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Lester Martinez,-0.010599999999999998,0.4545,0.4651
-2025-09-13 17:27:06.461216,Boxing Lines - Jacob Bank vs Tyron Zeuge - To Win the Bout,Jacob Bank,-0.011099999999999999,0.8889,0.9
 2025-09-13 23:27:12.065429,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Lester Martinez,-0.011099999999999999,0.4651,0.4762
 2025-09-13 18:35:30.105370,Boxing Lines - Ishmael Davis vs Caoimhin Agyarko - To Win the Bout,Caoimhin Agyarko,-0.011099999999999999,0.4651,0.4762
+2025-09-13 17:27:06.461216,Boxing Lines - Jacob Bank vs Tyron Zeuge - To Win the Bout,Jacob Bank,-0.011099999999999999,0.8889,0.9
 2025-09-13 17:27:06.493360,Boxing Lines - Serhii Bohachuk vs Brandon Adams  - To Win the Bout,Brandon Adams,-0.011700000000000016,0.2105,0.2222
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Maja Stark,-0.0118,0.0099,0.0217
 2025-09-13 22:30:38.160796,77th Primetime Emmy Awards - Best Comedy Actor  - Winner,Martin Short - Only Murders In The Building,-0.012899999999999995,0.1538,0.1667
 2025-09-14 02:08:00.962684,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.014700000000000046,0.75,0.7647
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Jennifer Kupcho,-0.015399999999999999,0.0025,0.0179
-2025-09-13 16:32:32.265520,Elite Boxing - Naoya Inoue vs Murodjon Akhmadaliev - To Win the Bout,Murodjon Akhmadaliev,-0.02049999999999999,0.1333,0.1538
+2025-09-14 04:34:13.694399,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Borussia Dortmund,-0.016600000000000004,0.0667,0.0833
+2025-09-14 04:34:13.694399,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Eintracht Frankfurt,-0.0168,0.0217,0.0385
 2025-09-13 23:27:10.937004,77th Primetime Emmy Awards - Best Supporting Drama Actor - Winner,Walton Goggins - The White Lotus,-0.021699999999999997,0.4545,0.4762
-2025-09-13 16:32:32.331533,Boxing Lines - Christian Mbilli vs Lester Martinez - To Win the Bout,Christian Mbilli,-0.02180000000000004,0.6078,0.6296
 2025-09-13 23:27:12.053024,Boxing Lines - Ivan Dychko vs Jermaine Franklin Jr - To Win the Bout,Ivan Dychko,-0.022600000000000064,0.6,0.6226
 2025-09-13 21:45:58.548807,Boxing Lines - Steven Nelson vs Raiko Santana - To Win the Bout,Steven Nelson,-0.022800000000000042,0.7333,0.7561
 2025-09-13 23:27:10.899488,77th Primetime Emmy Awards - Best Drama Actor - Winner,Gary Oldman - Slow Horses,-0.024299999999999995,0.0345,0.0588
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Olivia Cowan,-0.0244,0.0079,0.0323
+2025-09-14 04:34:13.856740,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Chelsea,-0.0267,0.0909,0.1176
 2025-09-13 18:35:30.101355,Boxing Lines - Tyrone McKenna vs Dylan Moran - To Win the Bout,Dylan Moran,-0.030799999999999994,0.2817,0.3125
+2025-09-14 04:34:13.703545,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,-0.031399999999999983,0.2353,0.2667
 2025-09-13 21:45:58.692109,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Lottie Woad,-0.03439999999999999,0.0323,0.0667
 2025-09-13 23:27:12.069457,Boxing Lines - Callum Walsh vs Fernando Vargas - To Win the Bout,Callum Walsh,-0.0353,0.7647,0.8
 2025-09-13 23:27:10.941143,77th Primetime Emmy Awards - Best Supporting Drama Actress - Winner,Carrie Coon - The White Lotus,-0.03639999999999999,0.6,0.6364

@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-15 19:25:52.464619,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,Liam Paro,0.018100000000000005,0.9412,0.9231
 2025-09-15 16:38:49.643376,Boxing Lines - Oscar Collazo vs Jayson Vayson - To Win the Bout,Jayson Vayson,0.01759999999999999,0.1176,0.1
 2025-09-15 22:31:38.852108,MLB Series Prices - MLB Series Price September 15 - 18 - 4 Games Series,Tie,0.015400000000000025,0.4,0.3846
-2025-09-15 15:33:01.385472,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Nasa Hataoka,0.015300000000000001,0.0588,0.0435
 2025-09-15 23:27:42.048754,Regular Season Series Prices - 2025-26 Western Conference Series Matchups - Golden State Warriors vs Minnesota Timberwolves,Minnesota Timberwolves,0.014200000000000101,0.6296,0.6154
 2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Arsenal,0.013899999999999996,0.125,0.1111
 2025-09-15 20:32:17.639827,NFL Weekly Specials - NFL MNF Specials - Requests & Specials ,"J. Herbert, CJ Stroud & B. Mayfield Each 10+Rushing Yds in Each Half",0.012299999999999991,0.1176,0.1053
@@ -14,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.010899999999999993,0.1538,0.1429
 2025-09-15 23:27:42.107117,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.010899999999999993,0.1429,0.1538
 2025-09-15 16:38:49.643376,Boxing Lines - Oscar Collazo vs Jayson Vayson - To Win the Bout,Oscar Collazo,-0.011199999999999988,0.9412,0.9524
-2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,-0.011199999999999995,0.0476,0.0588
 2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Nottingham Forest,-0.011199999999999995,0.0476,0.0588
+2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,-0.011199999999999995,0.0476,0.0588
 2025-09-16 02:01:02.448087,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,-0.011199999999999995,0.0476,0.0588
 2025-09-15 17:30:31.636106,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),-0.011899999999999994,0.0714,0.0833
 2025-09-15 21:28:47.959996,MLB Series Prices - MLB Series Price September 15 - 18 - 4 Games Series,Tie,-0.015400000000000025,0.3846,0.4

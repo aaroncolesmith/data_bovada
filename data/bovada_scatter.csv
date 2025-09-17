@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-09-17 09:32:35.524132,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.16849999999999998,0.6923,0.5238
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Arsenal,0.15090000000000003,0.8,0.6491
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Marseille,0.13990000000000002,0.7143,0.5744
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Real Madrid,0.13329999999999997,0.7333,0.6
@@ -11,12 +12,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Villarreal,0.061999999999999944,0.6364,0.5744
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Monaco,0.061999999999999944,0.6364,0.5744
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Borussia Dortmund,0.057699999999999974,0.75,0.6923
-2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Juventus,0.057699999999999974,0.75,0.6923
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,FC Barcelona,0.057699999999999974,0.75,0.6923
+2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Juventus,0.057699999999999974,0.75,0.6923
 2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Arsenal,0.05710000000000001,0.2,0.1429
 2025-09-17 06:44:21.348375,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.05679999999999999,0.1818,0.125
-2025-09-17 08:37:42.953125,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,0.05559999999999998,0.5,0.4444
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Chelsea,0.05559999999999998,0.5556,0.5
+2025-09-17 08:37:42.953125,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,0.05559999999999998,0.5,0.4444
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Galatasaray,0.05080000000000007,0.5744,0.5236
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Newcastle United,0.04760000000000009,0.7143,0.6667
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Liverpool,0.04760000000000009,0.7143,0.6667
@@ -29,6 +30,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Atalanta,0.029799999999999938,0.6667,0.6369
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,0.029299999999999993,0.0769,0.0476
 2025-09-17 08:37:42.953125,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,PSV Eindhoven,0.028000000000000004,0.0476,0.0196
+2025-09-17 09:32:37.099740,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Dharringarra Trewhella,0.027800000000000047,0.7778,0.75
 2025-09-17 05:32:40.546136,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Dharringarra Trewhella,0.027800000000000047,0.75,0.7222
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Paris Saint-Germain,0.025600000000000067,0.6923,0.6667
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Ajax,0.023800000000000043,0.5238,0.5
@@ -44,18 +46,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Dusan Vlahovic (Juventus),0.0189,0.0385,0.0196
 2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,FC Barcelona,0.01820000000000002,0.2,0.1818
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Brighton & Hove Albion,0.018099999999999998,0.0769,0.0588
-2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Liverpool,0.0179,0.1429,0.125
 2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Arsenal,0.0179,0.1429,0.125
+2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Liverpool,0.0179,0.1429,0.125
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Napoli,0.01759999999999995,0.6667,0.6491
+2025-09-17 10:35:33.768282,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Lachlan O'Shea,0.017299999999999982,0.303,0.2857
 2025-09-17 07:29:05.180361,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.015400000000000025,0.2857,0.2703
+2025-09-17 10:35:33.474459,World Politics - Seychelles Presidential Election - Proposition,Dr Patrick Herminie,0.015100000000000002,0.8333,0.8182
 2025-09-17 06:44:21.318317,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.014499999999999957,0.9901,0.9756
 2025-09-17 04:46:24.159137,WNBA Championship - WNBA Championship 2025 - Championship Winner,Seattle Storm,0.0139,0.0196,0.0057
 2025-09-17 09:32:36.961165,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jayden Maiava (USC),0.0131,0.0476,0.0345
 2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayer Leverkusen,0.012899999999999998,0.0278,0.0149
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Inter Milan,0.012199999999999989,0.6491,0.6369
-2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,0.011199999999999995,0.0588,0.0476
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Nottingham Forest,0.011199999999999995,0.0588,0.0476
 2025-09-17 08:37:42.953125,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Club Brugge,0.011199999999999995,0.0588,0.0476
+2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Fulham,0.011199999999999995,0.0588,0.0476
 2025-09-17 08:37:42.953125,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Slavia Prague,0.011099999999999999,0.1111,0.1
 2025-09-17 09:32:35.521198,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.010899999999999993,0.1538,0.1429
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Wolverhampton Wanderers,0.010600000000000002,0.0323,0.0217
@@ -66,18 +70,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 08:37:44.233545,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Haynes King (GT),-0.010300000000000002,0.0141,0.0244
 2025-09-17 09:32:35.524132,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Anders Dreyer,-0.0109,0.004,0.0149
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Hugo Ekitike (Liverpool),-0.011199999999999995,0.0476,0.0588
-2025-09-17 09:32:35.521198,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,FC Copenhagen,-0.011199999999999995,0.0476,0.0588
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Raphinha (FC Barcelona),-0.011199999999999995,0.0476,0.0588
+2025-09-17 09:32:35.521198,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Seattle Sounders,-0.011199999999999995,0.0476,0.0588
 2025-09-17 08:37:44.233545,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jayden Maiava (USC),-0.0131,0.0345,0.0476
-2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Eintracht Frankfurt,-0.013899999999999996,0.1111,0.125
 2025-09-17 09:32:35.527471,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.013899999999999996,0.1111,0.125
+2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Eintracht Frankfurt,-0.013899999999999996,0.1111,0.125
 2025-09-17 09:32:35.524132,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Evander Ferreira,-0.014099999999999998,0.0244,0.0385
 2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Juventus,-0.014499999999999999,0.0149,0.0294
+2025-09-17 10:35:33.474459,World Politics - Seychelles Presidential Election - Proposition,Marco Francis,-0.014899999999999997,0.0476,0.0625
 2025-09-17 07:29:05.175400,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,-0.015300000000000001,0.0323,0.0476
 2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Chelsea,-0.018099999999999998,0.0588,0.0769
-2025-09-17 06:44:21.298218,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,-0.01820000000000002,0.1818,0.2
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Borussia Dortmund,-0.01820000000000002,0.1818,0.2
+2025-09-17 06:44:21.298218,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,-0.01820000000000002,0.1818,0.2
 2025-09-17 09:32:35.530425,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Orlando City,-0.0189,0.0196,0.0385
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Newcastle United,-0.019000000000000017,0.2667,0.2857
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Viktor Gyokeres (Arsenal),-0.019099999999999992,0.0476,0.0667
@@ -87,13 +92,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 09:32:35.530425,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.021999999999999964,0.2857,0.3077
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.022199999999999998,0.2,0.2222
 2025-09-17 06:44:21.323336,AL West - AL West 2025 - AL West Winner,Texas Rangers,-0.022400000000000003,0.0099,0.0323
-2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Bayern Munich,-0.02310000000000001,0.0769,0.1
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Ajax,-0.02310000000000001,0.0769,0.1
+2025-09-17 08:37:42.966104,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Bayern Munich,-0.02310000000000001,0.0769,0.1
 2025-09-17 08:37:42.959575,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Chelsea,-0.023799999999999988,0.4762,0.5
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Harry Kane (Bayern Munich),-0.0242,0.0667,0.0909
 2025-09-17 09:32:35.530425,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Philadelphia Union,-0.025499999999999967,0.4,0.4255
 2025-09-17 08:37:42.956366,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Paris Saint-Germain,-0.026500000000000024,0.3509,0.3774
 2025-09-17 09:32:37.099740,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Lachlan O'Shea,-0.02679999999999999,0.2857,0.3125
+2025-09-17 10:35:33.474459,World Politics - Seychelles Presidential Election - Proposition,Wavel Ramkalawan,-0.02779999999999999,0.2222,0.25
 2025-09-17 04:46:24.159137,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.027800000000000005,0.0833,0.1111
 2025-09-17 08:37:42.949514,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Erling Haaland (Man City),-0.031799999999999995,0.1111,0.1429
 2025-09-17 05:32:40.546136,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Lachlan O'Shea,-0.032299999999999995,0.3125,0.3448

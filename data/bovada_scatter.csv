@@ -7,11 +7,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,0.029299999999999993,0.0769,0.0476
 2025-09-17 05:32:40.546136,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Dharringarra Trewhella,0.027800000000000047,0.75,0.7222
 2025-09-17 06:44:21.323336,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.023799999999999932,0.6667,0.6429
+2025-09-17 07:29:05.175400,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Seattle Mariners,0.022199999999999998,0.2222,0.2
 2025-09-17 04:46:24.159137,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.02079999999999993,0.5556,0.5348
 2025-09-16 20:33:22.299892,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Carson Beck (MIA),0.019699999999999995,0.125,0.1053
 2025-09-17 04:46:23.681739,EFL Cup - EFL Cup 2025/26 - Winner,Brighton & Hove Albion,0.018099999999999998,0.0769,0.0588
 2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Liverpool,0.0179,0.1429,0.125
 2025-09-17 05:32:39.210608,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Arsenal,0.0179,0.1429,0.125
+2025-09-17 07:29:05.180361,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.015400000000000025,0.2857,0.2703
 2025-09-17 06:44:21.318317,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.014499999999999957,0.9901,0.9756
 2025-09-17 04:46:24.159137,WNBA Championship - WNBA Championship 2025 - Championship Winner,Seattle Storm,0.0139,0.0196,0.0057
 2025-09-16 20:33:22.299892,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jayden Maiava (USC),0.0131,0.0476,0.0345
@@ -23,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-16 21:29:02.044715,Nationwide Children's Hospital Championship - Nationwide Children's Hospital Championship - Winner,John Vanderlaan,0.0102,0.0152,0.005
 2025-09-17 06:44:21.298218,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,0.010099999999999998,0.1053,0.0952
 2025-09-16 20:33:22.571626,Pure Insurance Championship - Pure Insurance Championship - Winner,Joe Durant,-0.0114,0.005,0.0164
+2025-09-17 07:29:05.175400,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Texas Rangers,-0.015300000000000001,0.0323,0.0476
 2025-09-17 06:44:21.298218,World Series Winner - World Series 2025 - Winner - World Series Winner,Los Angeles Dodgers,-0.01820000000000002,0.1818,0.2
 2025-09-17 06:44:21.323336,AL West - AL West 2025 - AL West Winner,Texas Rangers,-0.022400000000000003,0.0099,0.0323
 2025-09-17 04:46:24.159137,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,-0.027800000000000005,0.0833,0.1111

@@ -46,7 +46,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 08:38:23.725876,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.03839999999999999,0.6875,0.6491
 2025-09-18 06:44:11.555001,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,James Madison,0.03620000000000001,0.4444,0.4082
 2025-09-18 08:38:23.622487,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Palmeiras,0.03570000000000001,0.2857,0.25
-2025-09-17 23:29:22.116089,Boxing Lines - Floyd Masson vs Dharmender Grewal - To Win the Bout,Dharmender Grewal,0.035699999999999996,0.0833,0.0476
 2025-09-18 05:32:55.808447,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),0.035699999999999954,0.75,0.7143
 2025-09-18 03:43:06.717088,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Bayern Munich,0.03420000000000001,0.1111,0.0769
 2025-09-18 10:35:14.466587,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,0.03410000000000002,0.7674,0.7333
@@ -77,8 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 05:32:55.586496,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,0.02260000000000001,0.4,0.3774
 2025-09-18 05:32:55.580847,NFC East - NFC East 2025-26 - NFC East Winner,Dallas Cowboys,0.02239999999999999,0.1176,0.0952
 2025-09-18 08:38:23.706954,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,Ajax,0.02200000000000002,0.7143,0.6923
-2025-09-18 08:38:23.456233,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,0.021999999999999964,0.3077,0.2857
 2025-09-18 06:44:11.506708,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Green Bay Packers,0.021999999999999964,0.3077,0.2857
+2025-09-18 08:38:23.456233,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,0.021999999999999964,0.3077,0.2857
 2025-09-18 03:43:06.723723,UEFA Champions League - UEFA Champions League 2025/26 - Top Team in League Stage - La Liga,FC Barcelona,0.02190000000000003,0.5455,0.5236
 2025-09-18 10:35:14.473708,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,No,0.02079999999999993,0.5556,0.5348
 2025-09-18 05:32:54.839424,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.020699999999999996,0.2381,0.2174
@@ -90,26 +89,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 05:32:55.554032,AFC South - AFC South 2025-26 - AFC South Winner,Indianapolis Colts,0.018100000000000005,0.4348,0.4167
 2025-09-18 08:38:23.680014,First Division A - Belgium First Division A 2025/26 - Winner,Royal Charleroi,0.018099999999999998,0.0769,0.0588
 2025-09-18 06:44:11.506708,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Philadelphia Eagles,0.016699999999999993,0.2667,0.25
-2025-09-18 08:38:23.703857,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Feyenoord,0.016699999999999993,0.2667,0.25
-2025-09-18 03:43:06.713843,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Paris Saint-Germain,0.016699999999999993,0.2667,0.25
 2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Green Bay Packers,0.016699999999999993,0.2667,0.25
+2025-09-18 03:43:06.713843,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Paris Saint-Germain,0.016699999999999993,0.2667,0.25
+2025-09-18 08:38:23.703857,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Feyenoord,0.016699999999999993,0.2667,0.25
 2025-09-18 05:32:55.575201,NFC South - NFC South 2025-26 - NFC South Winner,Atlanta Falcons,0.016400000000000026,0.339,0.3226
-2025-09-18 08:38:23.618564,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Vitor Roque,0.015300000000000001,0.0476,0.0323
 2025-09-18 05:32:55.098745,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),0.015300000000000001,0.0476,0.0323
+2025-09-18 08:38:23.618564,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Vitor Roque,0.015300000000000001,0.0476,0.0323
 2025-09-18 08:38:23.834253,Copa America Futures - Copa America 2028 - Winner,Colombia,0.015100000000000002,0.1818,0.1667
 2025-09-18 08:38:23.543358,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Cole Palmer (Chelsea),0.014100000000000001,0.0526,0.0385
 2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Ajax,0.014099999999999998,0.0435,0.0294
+2025-09-18 05:32:55.528640,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Jacksonville Jaguars,0.014099999999999998,0.0435,0.0294
 2025-09-18 08:38:23.543358,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Khvicha Kvaratskhelia (PSG),0.014099999999999998,0.0385,0.0244
 2025-09-18 05:32:55.533440,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Indianapolis Colts,0.014099999999999998,0.0435,0.0294
-2025-09-18 05:32:55.528640,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Jacksonville Jaguars,0.014099999999999998,0.0435,0.0294
-2025-09-17 23:29:20.772445,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayern Munich,0.013999999999999999,0.0909,0.0769
 2025-09-18 08:38:23.543358,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Mohamed Salah (Liverpool),0.013999999999999999,0.0909,0.0769
 2025-09-18 05:32:55.548836,AFC North - AFC North 2025-26 - AFC North Winner,Cincinnati Bengals,0.013899999999999996,0.125,0.1111
 2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Minnesota Vikings,0.0131,0.0476,0.0345
 2025-09-18 05:32:54.839424,WNBA Championship - WNBA Championship 2025 - Championship Winner,Atlanta Dream,0.011900000000000008,0.0952,0.0833
-2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Olympiakos,0.011199999999999995,0.0588,0.0476
 2025-09-18 08:38:23.447180,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,New York City FC,0.011199999999999995,0.0588,0.0476
-2025-09-17 23:29:22.138692,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,Liam Paro,0.011199999999999988,0.9524,0.9412
+2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Olympiakos,0.011199999999999995,0.0588,0.0476
 2025-09-18 02:00:26.461015,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,David Papot,0.011099999999999999,0.1111,0.1
 2025-09-18 05:32:55.528640,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Indianapolis Colts,0.0109,0.0526,0.0417
 2025-09-18 08:38:23.453370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,0.010899999999999993,0.1538,0.1429
@@ -119,17 +116,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 05:32:55.569728,NFC North - NFC North 2025-26 - NFC North Winner,Minnesota Vikings,0.010099999999999998,0.125,0.1149
 2025-09-18 10:35:14.402109,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,Yes,0.010000000000000009,0.9048,0.8948
 2025-09-18 05:32:55.098745,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Jonquel Jones (NYL),-0.010100000000000001,0.0244,0.0345
-2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Washington Commanders,-0.0102,0.0667,0.0769
 2025-09-18 02:00:25.281955,Primera A - Colombia Primera A 2025 - Winner,América de Cali,-0.0102,0.0667,0.0769
+2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Washington Commanders,-0.0102,0.0667,0.0769
 2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Qarabag FK,-0.0102,0.0667,0.0769
 2025-09-18 05:32:55.533440,AFC Championship - AFC Playoffs No. 1 Seeded Team 2025-26 - #1 AFC Seed,Los Angeles Chargers,-0.010899999999999993,0.1429,0.1538
 2025-09-18 02:00:25.281955,Primera A - Colombia Primera A 2025 - Winner,Independiente Medellín,-0.011099999999999999,0.1,0.1111
+2025-09-18 02:00:25.281955,Primera A - Colombia Primera A 2025 - Winner,Millonarios,-0.011099999999999999,0.1,0.1111
 2025-09-18 08:38:23.456233,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Charlotte FC,-0.011099999999999999,0.1,0.1111
 2025-09-18 08:38:23.622487,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,São Paulo,-0.011099999999999999,0.1,0.1111
-2025-09-18 02:00:25.281955,Primera A - Colombia Primera A 2025 - Winner,Millonarios,-0.011099999999999999,0.1,0.1111
 2025-09-18 06:44:10.364996,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,PSV Eindhoven,-0.011199999999999995,0.0476,0.0588
 2025-09-18 06:44:11.572074,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Eastern Michigan,-0.011200000000000002,0.0132,0.0244
-2025-09-17 23:29:20.772445,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayer Leverkusen,-0.011399999999999997,0.0164,0.0278
 2025-09-18 03:43:06.717088,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Atlético Madrid,-0.012100000000000001,0.0123,0.0244
 2025-09-18 05:32:55.586496,NFC West - NFC West 2025-26 - NFC West Winner,Los Angeles Rams,-0.012699999999999989,0.3509,0.3636
 2025-09-18 10:35:14.380177,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,-0.012899999999999995,0.1538,0.1667
@@ -153,11 +149,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 08:38:23.703857,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,-0.016699999999999937,0.5833,0.6
 2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Pafos FC,-0.016700000000000007,0.0833,0.1
 2025-09-18 06:44:10.364996,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,FC Barcelona,-0.016700000000000048,0.7333,0.75
-2025-09-17 23:29:22.138692,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,David Papot,-0.01759999999999999,0.1,0.1176
 2025-09-18 03:43:06.713843,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Atlético Madrid,-0.018099999999999998,0.0588,0.0769
 2025-09-18 08:38:23.680014,First Division A - Belgium First Division A 2025/26 - Winner,Genk,-0.018099999999999998,0.0588,0.0769
 2025-09-18 06:44:11.572074,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Western Michigan,-0.018099999999999998,0.0345,0.0526
-2025-09-17 23:29:20.772445,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Chelsea,-0.018099999999999998,0.0588,0.0769
 2025-09-18 08:38:23.459061,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.01820000000000002,0.1818,0.2
 2025-09-18 06:44:11.572074,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Buffalo,-0.01820000000000002,0.1818,0.2
 2025-09-18 08:38:23.459061,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,-0.018900000000000028,0.4255,0.4444
@@ -166,35 +160,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-18 06:44:10.361796,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Olympiakos,-0.02260000000000001,0.3774,0.4
 2025-09-18 10:35:14.473708,To Make the Playoffs - To Make the Playoffs 2025-26 - Washington Commanders To Make the Playoffs,Yes,-0.022600000000000064,0.5122,0.5348
 2025-09-18 08:38:23.456233,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Columbus Crew,-0.0228,0.0066,0.0294
-2025-09-18 03:43:06.717088,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Manchester City,-0.02310000000000001,0.0769,0.1
 2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Tampa Bay Buccaneers,-0.02310000000000001,0.0769,0.1
+2025-09-18 03:43:06.717088,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Manchester City,-0.02310000000000001,0.0769,0.1
 2025-09-18 10:35:14.438045,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,Yes,-0.02360000000000001,0.3846,0.4082
 2025-09-18 03:06:55.056940,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,-0.023799999999999988,0.4762,0.5
 2025-09-18 06:44:10.361796,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Ajax,-0.023800000000000043,0.5,0.5238
 2025-09-18 08:38:23.622487,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Estudiantes de La Plata,-0.0245,0.0588,0.0833
-2025-09-17 23:29:22.116089,Boxing Lines - Floyd Masson vs Dharmender Grewal - To Win the Bout,Floyd Masson,-0.024599999999999955,0.9655,0.9901
 2025-09-18 10:35:14.376518,To Make the Playoffs - To Make the Playoffs 2025-26 - Carolina Panthers To Make the Playoffs,Yes,-0.024999999999999994,0.1,0.125
-2025-09-18 10:35:14.463039,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.02739999999999998,0.7059,0.7333
 2025-09-18 05:32:55.554032,AFC South - AFC South 2025-26 - AFC South Winner,Houston Texans,-0.02739999999999998,0.2667,0.2941
+2025-09-18 10:35:14.463039,To Make the Playoffs - To Make the Playoffs 2025-26 - Seattle Seahawks To Make the Playoffs,No,-0.02739999999999998,0.7059,0.7333
 2025-09-18 08:38:23.618564,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Jose Flaco Lopez,-0.02779999999999999,0.2222,0.25
 2025-09-18 06:44:10.364996,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Borussia Dortmund,-0.027999999999999997,0.1538,0.1818
-2025-09-18 06:44:10.364996,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Olympiakos,-0.028199999999999996,0.0385,0.0667
 2025-09-18 08:38:23.622487,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Vélez Sarsfield,-0.028199999999999996,0.0385,0.0667
+2025-09-18 06:44:10.364996,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Olympiakos,-0.028199999999999996,0.0385,0.0667
 2025-09-18 05:32:54.843442,WNBA Championship - WNBA Championship 2025 - Team to Reach Finals,Indiana Fever,-0.0286,0.0714,0.1
 2025-09-18 10:35:14.430890,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Dolphins To Make the Playoffs,Yes,-0.028799999999999992,0.125,0.1538
 2025-09-18 03:43:06.723723,UEFA Champions League - UEFA Champions League 2025/26 - Top Team in League Stage - La Liga,Villarreal,-0.0294,0.0294,0.0588
 2025-09-18 05:32:55.538793,NFC Championship - NFC Championship 2025-26 - NFC Championship Winner,Detroit Lions,-0.029799999999999993,0.0952,0.125
-2025-09-18 05:32:55.808447,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.030299999999999994,0.3333,0.3636
 2025-09-18 10:35:14.459431,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,No,-0.030299999999999994,0.3333,0.3636
+2025-09-18 05:32:55.808447,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.030299999999999994,0.3333,0.3636
 2025-09-18 05:32:55.098745,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),-0.03059999999999999,0.2326,0.2632
 2025-09-18 03:43:06.717088,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Chelsea,-0.031,0.0278,0.0588
+2025-09-18 08:38:23.453370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.031799999999999995,0.1111,0.1429
+2025-09-18 10:35:14.369275,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.031799999999999995,0.1111,0.1429
 2025-09-18 06:44:11.506708,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Tampa Bay Buccaneers,-0.031799999999999995,0.1111,0.1429
 2025-09-18 10:35:14.470157,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.031799999999999995,0.1111,0.1429
-2025-09-18 10:35:14.369275,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,-0.031799999999999995,0.1111,0.1429
-2025-09-18 08:38:23.453370,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Columbus Crew,-0.031799999999999995,0.1111,0.1429
 2025-09-18 06:44:11.572074,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Central Michigan,-0.0321,0.0588,0.0909
-2025-09-18 03:43:06.726752,UEFA Champions League - UEFA Champions League 2025/26 - Top Team in League Stage - Premier League,Newcastle United,-0.0334,0.0435,0.0769
 2025-09-18 06:44:11.555001,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Appalachian State,-0.0334,0.0435,0.0769
+2025-09-18 03:43:06.726752,UEFA Champions League - UEFA Champions League 2025/26 - Top Team in League Stage - Premier League,Newcastle United,-0.0334,0.0435,0.0769
 2025-09-18 08:38:23.706954,Eredivisie - Netherlands Eredivisie 2025/26 - Top 3 Finish,FC Utrecht,-0.03420000000000001,0.0769,0.1111
 2025-09-18 10:35:14.466587,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,-0.0348,0.2985,0.3333
 2025-09-18 08:38:23.546904,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,-0.03489999999999999,0.4651,0.5

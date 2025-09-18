@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 22:29:24.414430,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Under 49.5,0.017299999999999982,0.5917,0.5744
 2025-09-17 23:29:20.772445,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Bayern Munich,0.013999999999999999,0.0909,0.0769
 2025-09-17 19:25:33.120534,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Dharringarra Trewhella,0.0131,0.7778,0.7647
-2025-09-17 22:29:24.510291,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Mavericks - To Make the Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2025-09-17 22:29:24.540710,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Heat - To Make the Playoffs,Yes,0.012199999999999989,0.5122,0.5
+2025-09-17 22:29:24.510291,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Mavericks - To Make the Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2025-09-17 23:29:22.138692,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,Liam Paro,0.011199999999999988,0.9524,0.9412
 2025-09-18 02:00:26.461015,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,David Papot,0.011099999999999999,0.1111,0.1
 2025-09-17 22:29:24.419413,Sacramento Kings - Regular Season Wins 2025-26 - Sacramento Kings - Regular Season Wins,Over 35.5,0.01100000000000001,0.5348,0.5238
@@ -34,6 +34,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-17 19:25:33.120534,Boxing Lines - Lachlan O'Shea vs Dharringarra Trewhella  - To Win the Bout,Lachlan O'Shea,-0.017299999999999982,0.2857,0.303
 2025-09-17 23:29:22.138692,Boxing Lines - Liam Paro vs David Papot - To Win the Bout,David Papot,-0.01759999999999999,0.1,0.1176
 2025-09-17 23:29:20.772445,UEFA Champions League - UEFA Champions League 2025/26 - Winner,Chelsea,-0.018099999999999998,0.0588,0.0769
+2025-09-18 03:06:55.056940,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,-0.023799999999999988,0.4762,0.5
 2025-09-17 23:29:22.116089,Boxing Lines - Floyd Masson vs Dharmender Grewal - To Win the Bout,Floyd Masson,-0.024599999999999955,0.9655,0.9901
 2025-09-17 22:29:24.429433,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Over 48.5,-0.047099999999999975,0.4651,0.5122
 2025-09-17 22:29:24.404460,Minnesota Timberwolves - Regular Season Wins 2025-26 - Minnesota Timberwolves - Regular Season Wins,Over 50.5,-0.05860000000000004,0.4762,0.5348

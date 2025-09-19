@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 20:31:54.710872,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,0.05860000000000004,0.5348,0.4762
 2025-09-19 20:31:54.710872,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Pafos FC,0.058300000000000005,0.125,0.0667
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Villarreal,0.05590000000000006,0.6923,0.6364
-2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Real Madrid,0.055900000000000005,0.3636,0.3077
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Paris Saint-Germain,0.055900000000000005,0.3636,0.3077
+2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Real Madrid,0.055900000000000005,0.3636,0.3077
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Liverpool,0.055499999999999994,0.8333,0.7778
 2025-09-19 14:34:25.223773,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),0.050000000000000044,0.8,0.75
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,FC Copenhagen,0.048099999999999976,0.4255,0.3774
@@ -33,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Benfica,0.039600000000000024,0.4651,0.4255
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Arsenal,0.033299999999999996,0.8333,0.8
 2025-09-19 09:36:30.975721,UEFA Champions League - UEFA Champions League 2025/26 - Top Goalscorer,Marcus Rashford (FC Barcelona),0.03270000000000001,0.0476,0.0149
+2025-09-19 21:27:41.879646,Boxing Lines - Fabian Diaz vs Dorian Mendez - To Win the Bout,Fabian Diaz,0.03259999999999996,0.6552,0.6226
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Galatasaray,0.032400000000000005,0.0476,0.0152
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Union Saint-Gilloise,0.0321,0.0909,0.0588
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Eintracht Frankfurt,0.031799999999999995,0.1429,0.1111
@@ -44,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 20:31:56.328320,Boxing Lines - Fabian Diaz vs Dorian Mendez - To Win the Bout,Dorian Mendez,0.027700000000000002,0.4444,0.4167
 2025-09-19 14:34:25.160146,National League Winner - MLB 2025 National League  - MLB 2025 National League Winner,Philadelphia Phillies,0.02679999999999999,0.3125,0.2857
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Club Brugge,0.0245,0.0833,0.0588
-2025-09-19 09:36:30.992349,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,FC Barcelona,0.022199999999999998,0.2222,0.2
 2025-09-19 09:36:30.995928,UEFA Champions League - UEFA Champions League 2025/26 - Nationality of Winner,Germany,0.022199999999999998,0.1333,0.1111
+2025-09-19 09:36:30.992349,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,FC Barcelona,0.022199999999999998,0.2222,0.2
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bayer Leverkusen,0.02200000000000002,0.7143,0.6923
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Club Brugge,0.0203,0.0588,0.0385
 2025-09-19 20:31:54.723890,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Manchester City,0.02020000000000001,0.1111,0.0909
@@ -67,7 +68,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 12:58:54.857481,Boxing Lines - Olivia Curry vs Kaye Scott - To Win the Bout,Kaye Scott,0.012199999999999989,0.5122,0.5
 2025-09-19 11:27:59.115131,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Sara Bailey,0.012199999999999989,0.5,0.4878
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Monaco,0.012100000000000001,0.0244,0.0123
-2025-09-19 08:38:16.586287,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Sara Bailey,0.0116,0.4878,0.4762
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Sporting CP,0.011099999999999999,0.1111,0.1
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Kairat Almaty,0.011099999999999999,0.4762,0.4651
 2025-09-19 15:34:37.743911,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,0.0109,0.0526,0.0417
@@ -80,8 +80,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 09:36:30.989087,UEFA Champions League - UEFA Champions League 2025/26 - To Reach the Final,Galatasaray,-0.0118,0.0099,0.0217
 2025-09-19 15:34:37.743911,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.012100000000000001,0.0123,0.0244
 2025-09-19 12:58:54.882197,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Sara Bailey,-0.012199999999999989,0.4878,0.5
-2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Monaco,-0.012700000000000045,0.6364,0.6491
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Tottenham Hotspur,-0.012700000000000045,0.6364,0.6491
+2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Monaco,-0.012700000000000045,0.6364,0.6491
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Chelsea,-0.012700000000000045,0.6364,0.6491
 2025-09-19 20:31:54.723890,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Paris Saint-Germain,-0.012899999999999995,0.1538,0.1667
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Olympiakos,-0.013800000000000034,0.3636,0.3774
@@ -92,17 +92,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 15:34:37.743911,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.01419999999999999,0.3704,0.3846
 2025-09-19 18:40:27.970254,Boxing Lines - Giovanni Marquez vs Wesley Ferrer - To Win the Bout,Wesley Ferrer,-0.015100000000000002,0.1667,0.1818
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,PSV Eindhoven,-0.015300000000000001,0.0323,0.0476
-2025-09-19 09:36:31.044405,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.016600000000000004,0.0667,0.0833
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Pafos FC,-0.016600000000000004,0.0667,0.0833
+2025-09-19 09:36:31.044405,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.016600000000000004,0.0667,0.0833
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Inter Milan,-0.016699999999999937,0.5833,0.6
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Atlético Madrid,-0.016699999999999993,0.25,0.2667
-2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Paris Saint-Germain,-0.016700000000000048,0.7333,0.75
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.016700000000000048,0.7333,0.75
-2025-09-19 08:38:16.586287,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Evelin Nazarena Bermudez,-0.017299999999999982,0.5744,0.5917
-2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Union Saint-Gilloise,-0.017400000000000002,0.0149,0.0323
+2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Paris Saint-Germain,-0.016700000000000048,0.7333,0.75
 2025-09-19 09:36:30.992349,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Napoli,-0.017400000000000002,0.0149,0.0323
-2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Athletic Bilbao,-0.01759999999999995,0.6491,0.6667
+2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Union Saint-Gilloise,-0.017400000000000002,0.0149,0.0323
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Atalanta,-0.01759999999999995,0.6491,0.6667
+2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Athletic Bilbao,-0.01759999999999995,0.6491,0.6667
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Arsenal,-0.018199999999999994,0.8,0.8182
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,FC Copenhagen,-0.018200000000000004,0.0294,0.0476
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,FC Copenhagen,-0.018200000000000004,0.0294,0.0476
@@ -113,8 +112,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 09:36:30.992349,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Bayern Munich,-0.02020000000000001,0.0909,0.1111
 2025-09-19 12:58:54.861770,Boxing Lines - Brandon Moore vs DeAndre Savage - To Win the Bout,DeAndre Savage,-0.02049999999999999,0.1333,0.1538
 2025-09-19 10:35:36.203945,NFL Weekly Specials - NFL Week 3 Leaders - Highest Scoring Team,TB Buccaneers,-0.022000000000000006,0.0833,0.1053
-2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bayer Leverkusen,-0.02200000000000002,0.6923,0.7143
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Marseille,-0.02200000000000002,0.6923,0.7143
+2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bayer Leverkusen,-0.02200000000000002,0.6923,0.7143
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Marseille,-0.02310000000000001,0.0769,0.1
 2025-09-19 11:27:59.087768,Boxing Lines - Olivia Curry vs Kaye Scott - To Win the Bout,Kaye Scott,-0.023800000000000043,0.5,0.5238
 2025-09-19 20:31:56.328320,Boxing Lines - Fabian Diaz vs Dorian Mendez - To Win the Bout,Fabian Diaz,-0.026499999999999968,0.6226,0.6491
@@ -127,6 +126,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 09:36:31.048361,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,São Paulo,-0.03330000000000001,0.0667,0.1
 2025-09-19 20:31:54.717427,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.034100000000000005,0.0909,0.125
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Kairat Almaty,-0.035699999999999996,0.0476,0.0833
+2025-09-19 21:27:41.879646,Boxing Lines - Fabian Diaz vs Dorian Mendez - To Win the Bout,Dorian Mendez,-0.03620000000000001,0.4082,0.4444
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bayern Munich,-0.03640000000000004,0.3636,0.4
 2025-09-19 20:31:54.714176,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Manchester City,-0.03640000000000004,0.3636,0.4
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Club Brugge,-0.0377,0.0149,0.0526

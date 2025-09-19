@@ -18,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Galatasaray,0.032400000000000005,0.0476,0.0152
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Eintracht Frankfurt,0.031799999999999995,0.1429,0.1111
 2025-09-19 13:38:43.294747,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.030399999999999983,0.5652,0.5348
-2025-09-19 06:44:17.760103,Boxing Lines - Adriana Pineiro vs Gloria Munguilla - To Win the Bout,Gloria Munguilla,0.030299999999999994,0.4651,0.4348
 2025-09-19 14:34:25.154886,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,0.028799999999999992,0.1538,0.125
 2025-09-19 09:36:32.625534,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.02859999999999996,0.6364,0.6078
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Slavia Prague,0.027999999999999997,0.1818,0.1538
@@ -34,7 +33,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 10:35:36.203945,NFL Weekly Specials - NFL Week 3 Leaders - Highest Scoring Team,DAL Cowboys,0.01830000000000001,0.0952,0.0769
 2025-09-19 18:40:27.970254,Boxing Lines - Giovanni Marquez vs Wesley Ferrer - To Win the Bout,Giovanni Marquez,0.01760000000000006,0.9,0.8824
 2025-09-19 09:36:31.044405,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,0.014800000000000035,0.6226,0.6078
-2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),0.01469999999999999,0.25,0.2353
 2025-09-19 12:58:54.861770,Boxing Lines - Brandon Moore vs DeAndre Savage - To Win the Bout,Brandon Moore,0.014000000000000012,0.9231,0.9091
 2025-09-19 09:36:30.992349,UEFA Champions League - UEFA Champions League 2025/26 - League Stage Winner,Manchester City,0.013999999999999999,0.0909,0.0769
 2025-09-19 14:34:25.206764,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Tarik Skubal (DET),0.013599999999999945,0.993,0.9794
@@ -59,8 +57,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 14:34:25.206764,Cy Young - AL Cy Young 2025 - American League Cy Young Winner,Garrett Crochet (BOS),-0.013999999999999999,0.0769,0.0909
 2025-09-19 15:34:37.743911,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.01419999999999999,0.3704,0.3846
 2025-09-19 18:40:27.970254,Boxing Lines - Giovanni Marquez vs Wesley Ferrer - To Win the Bout,Wesley Ferrer,-0.015100000000000002,0.1667,0.1818
-2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jordan Love (GB),-0.015700000000000006,0.1176,0.1333
-2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),-0.016600000000000004,0.0667,0.0833
 2025-09-19 09:36:30.979353,UEFA Champions League - UEFA Champions League 2025/26 - To Finish Bottom in League Stage,Pafos FC,-0.016600000000000004,0.0667,0.0833
 2025-09-19 09:36:31.044405,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Andre Silva,-0.016600000000000004,0.0667,0.0833
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Borussia Dortmund,-0.016700000000000048,0.7333,0.75
@@ -77,7 +73,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 11:27:59.087768,Boxing Lines - Olivia Curry vs Kaye Scott - To Win the Bout,Kaye Scott,-0.023800000000000043,0.5,0.5238
 2025-09-19 14:34:25.154886,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,-0.0267,0.0909,0.1176
 2025-09-19 09:36:32.625534,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,-0.029000000000000026,0.4255,0.4545
-2025-09-19 06:44:17.760103,Boxing Lines - Adriana Pineiro vs Gloria Munguilla - To Win the Bout,Adriana Pineiro,-0.02960000000000007,0.6,0.6296
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Napoli,-0.030299999999999994,0.3333,0.3636
 2025-09-19 14:34:25.154886,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Detroit Tigers,-0.031700000000000006,0.1905,0.2222
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Slavia Prague,-0.031799999999999995,0.1111,0.1429
@@ -94,8 +89,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 14:34:25.223773,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.063,0.2703,0.3333
 2025-09-19 13:38:43.289558,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.06459999999999999,0.9231,0.9877
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Monaco,-0.066,0.0769,0.1429
-2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bodø/Glimt,-0.06669999999999998,0.2,0.2667
 2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,PSV Eindhoven,-0.06669999999999998,0.2,0.2667
+2025-09-19 09:36:30.982593,UEFA Champions League - UEFA Champions League 2025/26 - To Finish 9-24 in League Stage,Bodø/Glimt,-0.06669999999999998,0.2,0.2667
 2025-09-19 13:38:43.294747,AL West - AL West 2025 - AL West Winner,Houston Astros,-0.07440000000000002,0.5,0.5744
 2025-09-19 09:36:30.985806,UEFA Champions League - UEFA Champions League 2025/26 - Top 8 Finish in League Stage,Bayer Leverkusen,-0.07500000000000001,0.125,0.2
 2025-09-19 13:38:43.299905,NL West - NL West 2025 - NL West Winner,San Diego Padres,-0.07579999999999999,0.0909,0.1667

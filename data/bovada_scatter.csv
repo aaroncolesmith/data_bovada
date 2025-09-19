@@ -8,9 +8,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 05:32:34.497915,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Sara Bailey,0.04139999999999999,0.4762,0.4348
 2025-09-19 05:32:33.517585,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.0398,0.3846,0.3448
 2025-09-18 22:30:46.337302,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Sara Bailey,0.033299999999999996,0.4878,0.4545
+2025-09-19 06:44:17.760103,Boxing Lines - Adriana Pineiro vs Gloria Munguilla - To Win the Bout,Gloria Munguilla,0.030299999999999994,0.4651,0.4348
 2025-09-19 05:32:33.419847,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Harris Dickinson,0.029299999999999993,0.0769,0.0476
 2025-09-19 05:32:34.333511,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Dolphins To Make the Playoffs,No,0.025899999999999923,0.9671,0.9412
-2025-09-18 18:43:19.319620,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,0.025499999999999967,0.4255,0.4
 2025-09-19 05:32:34.576652,Open de France - 2/3 Balls - 2nd Round 3-Balls - C. Conners / L. Canter / V. Perez - 2nd Round 3-Balls,Corey Conners,0.022699999999999998,0.4878,0.4651
 2025-09-19 04:35:12.555193,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,0.02100000000000002,0.6364,0.6154
 2025-09-19 04:35:12.555193,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.0204,0.0244,0.004
@@ -19,19 +19,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 04:35:13.550911,Boxing Lines - Adriana Pineiro vs Gloria Munguilla - To Win the Bout,Gloria Munguilla,0.018100000000000005,0.4348,0.4167
 2025-09-19 04:35:13.204777,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,0.016799999999999926,0.9259,0.9091
 2025-09-19 04:35:13.600125,Boxing Lines - Oscar Collazo vs Jayson Vayson - To Win the Bout,Jayson Vayson,0.015700000000000006,0.1333,0.1176
+2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Josh Allen (BUF),0.01469999999999999,0.25,0.2353
 2025-09-19 05:32:34.580713,Open de France - 2/3 Balls - 2nd Round 3-Balls - A. Saddier / T. Detry / R. Fox - 2nd Round 3-Balls,Thomas Detry,0.013800000000000034,0.3774,0.3636
 2025-09-19 05:32:34.513990,Boxing Lines - Breyon Gorham vs Yomar Alamo - To Win the Bout,Yomar Alamo,0.012899999999999995,0.1667,0.1538
 2025-09-19 04:35:12.775120,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Sabrina Ionescu (NYL),-0.010100000000000001,0.0244,0.0345
-2025-09-19 05:32:34.279348,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,No,-0.0102,0.0667,0.0769
 2025-09-19 04:35:13.591425,Boxing Lines - Gabriela Fundora vs Alexas Kubicki - To Win the Bout,Alexas Kubicki,-0.0102,0.0667,0.0769
+2025-09-19 05:32:34.279348,To Make the Playoffs - To Make the Playoffs 2025-26 - Buffalo Bills To Make the Playoffs,No,-0.0102,0.0667,0.0769
 2025-09-18 23:28:16.672198,Boxing Lines - Brandon Moore vs DeAndre Savage - To Win the Bout,DeAndre Savage,-0.010899999999999993,0.1429,0.1538
 2025-09-19 04:35:13.204777,AFC East - AFC East 2025-26 - AFC East Winner,Miami Dolphins,-0.012599999999999998,0.0152,0.0278
 2025-09-18 21:29:52.471529,Boxing Lines - Brandon Moore vs DeAndre Savage - To Win the Bout,DeAndre Savage,-0.012899999999999995,0.1538,0.1667
 2025-09-18 21:29:52.484443,Boxing Lines - Breyon Gorham vs Yomar Alamo - To Win the Bout,Yomar Alamo,-0.012899999999999995,0.1538,0.1667
-2025-09-19 05:32:34.189889,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,South Florida,-0.0131,0.2222,0.2353
 2025-09-19 04:35:12.775120,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),-0.0131,0.0345,0.0476
+2025-09-19 05:32:34.189889,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,South Florida,-0.0131,0.2222,0.2353
 2025-09-19 05:32:34.580713,Open de France - 2/3 Balls - 2nd Round 3-Balls - A. Saddier / T. Detry / R. Fox - 2nd Round 3-Balls,Adrien Saddier,-0.013300000000000034,0.3571,0.3704
 2025-09-19 04:35:12.555193,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.014399999999999996,0.0625,0.0769
+2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jordan Love (GB),-0.015700000000000006,0.1176,0.1333
+2025-09-19 06:44:17.487796,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Jayden Daniels (WAS),-0.016600000000000004,0.0667,0.0833
 2025-09-19 05:32:34.189889,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,UTSA,-0.016600000000000004,0.0667,0.0833
 2025-09-19 04:35:13.204777,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,-0.016700000000000007,0.0833,0.1
 2025-09-19 04:35:13.600125,Boxing Lines - Oscar Collazo vs Jayson Vayson - To Win the Bout,Oscar Collazo,-0.018100000000000005,0.9231,0.9412
@@ -39,7 +42,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-19 05:32:34.189889,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Army,-0.0203,0.0385,0.0588
 2025-09-19 05:32:33.517585,WNBA Championship - WNBA Championship 2025 - Championship Winner,New York Liberty,-0.0208,0.0417,0.0625
 2025-09-19 05:32:33.517585,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.02100000000000002,0.6154,0.6364
-2025-09-18 18:43:19.319620,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,No,-0.023799999999999932,0.6429,0.6667
+2025-09-19 05:32:34.333511,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Dolphins To Make the Playoffs,Yes,-0.024999999999999994,0.1,0.125
+2025-09-19 06:44:17.760103,Boxing Lines - Adriana Pineiro vs Gloria Munguilla - To Win the Bout,Adriana Pineiro,-0.02960000000000007,0.6,0.6296
 2025-09-18 22:30:46.337302,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Evelin Nazarena Bermudez,-0.033399999999999985,0.5744,0.6078
 2025-09-19 05:32:34.497915,Boxing Lines - Sara Bailey vs Evelin Nazarena Bermudez - To Win the Bout,Evelin Nazarena Bermudez,-0.037900000000000045,0.5917,0.6296
 2025-09-19 05:32:34.477894,Boxing Lines - Olivia Curry vs Kaye Scott - To Win the Bout,Olivia Curry,-0.04620000000000002,0.5455,0.5917

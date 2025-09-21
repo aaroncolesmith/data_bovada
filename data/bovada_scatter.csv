@@ -3,6 +3,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 06:41:05.406396,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.254,0.4762,0.2222
 2025-09-21 06:41:05.417010,AL West - AL West 2025 - AL West Winner,Seattle Mariners,0.20240000000000002,0.9524,0.75
 2025-09-21 13:31:42.195388,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Vancouver Whitecaps,0.1745,0.6,0.4255
+2025-09-21 13:31:42.186045,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.11250000000000004,0.8,0.6875
 2025-09-21 06:41:05.468747,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.10010000000000002,0.3704,0.2703
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Mike Weir,0.0994,0.1429,0.0435
 2025-09-21 09:28:18.935400,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Texas Tech,0.09719999999999998,0.3077,0.2105
@@ -19,15 +20,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 09:28:18.947767,Conferences - Big Ten Conference Championship 2025-26 - Big Ten Conference Championship Game Winner,Indiana,0.0373,0.0667,0.0294
 2025-09-21 09:28:18.935400,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,TCU,0.035,0.16,0.125
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Mario Tiziani,0.0344,0.0476,0.0132
-2025-09-21 06:41:05.445884,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.030899999999999983,0.2941,0.2632
 2025-09-21 08:33:42.084208,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",0.030899999999999983,0.2941,0.2632
+2025-09-21 06:41:05.445884,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.030899999999999983,0.2941,0.2632
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Oklahoma,0.02840000000000001,0.1053,0.0769
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas A&M,0.028399999999999995,0.0909,0.0625
 2025-09-21 13:31:42.192466,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,0.02560000000000001,0.3333,0.3077
 2025-09-21 05:32:06.169365,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayern Munich,0.0242,0.9333,0.9091
 2025-09-21 05:32:06.164789,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,0.023800000000000043,0.5238,0.5
-2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Stockport County,0.02310000000000001,0.1,0.0769
 2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Bradford City,0.02310000000000001,0.1,0.0769
+2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Stockport County,0.02310000000000001,0.1,0.0769
 2025-09-21 06:41:04.166413,National League - England National League 2025/26 - Winner,Carlisle United,0.022199999999999998,0.2222,0.2
 2025-09-21 13:31:42.192466,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,0.021999999999999964,0.3077,0.2857
 2025-09-21 09:28:18.935400,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Iowa State,0.0203,0.1379,0.1176
@@ -38,7 +39,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 06:41:05.384775,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.0179,0.1429,0.125
 2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Salford City,0.016700000000000007,0.1,0.0833
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Doug Barron,0.016600000000000004,0.0345,0.0179
-2025-09-21 02:16:56.354631,NBL - Australia NBL 2025/26 - Outright,SE Melbourne Phoenix,0.016600000000000004,0.0833,0.0667
 2025-09-21 05:32:06.182962,Ligue 1 - France Ligue 1 2025/26 - Winner,Lyon,0.015300000000000001,0.0588,0.0435
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Mississippi,0.014899999999999997,0.0625,0.0476
 2025-09-21 05:32:06.315251,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.01479999999999998,0.3922,0.3774
@@ -47,27 +47,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 09:28:18.935400,Conferences - Big 12 Conference Championship 2025-26 - Big 12 Conference Championship Game Winner,Kansas,0.014399999999999996,0.0769,0.0625
 2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Oldham Athletic,0.014099999999999998,0.0385,0.0244
 2025-09-21 08:33:42.205724,Pure Insurance Championship - Pure Insurance Championship - Winner,Vijay Singh,0.013999999999999999,0.0909,0.0769
-2025-09-21 02:16:56.354631,NBL - Australia NBL 2025/26 - Outright,Brisbane Bullets,0.013999999999999999,0.0909,0.0769
 2025-09-21 08:33:41.729813,National Championship - National Championship 2025-26 - National Championship Game Winner ,Missouri,0.013,0.0196,0.0066
 2025-09-21 06:41:05.395807,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Cleveland Guardians,0.012499999999999997,0.0625,0.05
 2025-09-21 11:24:55.595097,AL East - AL East 2025 - AL East Winner,New York Yankees,0.012200000000000016,0.2083,0.1961
 2025-09-21 05:32:06.160744,Championship - England Championship 2025/26 - Winner 2025/26,Hull City,0.011699999999999999,0.0196,0.0079
 2025-09-21 05:32:06.178472,Serie A - Italy Serie A 2025/26 - Winner,Napoli,0.0116,0.4878,0.4762
-2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Barnet,0.011199999999999995,0.0588,0.0476
 2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Stevenage,0.011199999999999995,0.0588,0.0476
-2025-09-21 13:31:42.189588,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Chicago Fire,0.011199999999999995,0.0588,0.0476
 2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Cambridge United,0.011199999999999995,0.0588,0.0476
-2025-09-21 05:32:06.160744,Championship - England Championship 2025/26 - Winner 2025/26,Bristol City,0.011199999999999995,0.0588,0.0476
+2025-09-21 13:31:42.189588,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Chicago Fire,0.011199999999999995,0.0588,0.0476
+2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Barnet,0.011199999999999995,0.0588,0.0476
 2025-09-21 09:28:18.992735,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Marcel Reed (TAM),0.011199999999999995,0.0588,0.0476
+2025-09-21 05:32:06.160744,Championship - England Championship 2025/26 - Winner 2025/26,Bristol City,0.011199999999999995,0.0588,0.0476
 2025-09-21 05:32:06.315251,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,0.011099999999999999,0.4762,0.4651
 2025-09-21 13:31:42.183173,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Philadelphia Union,0.011099999999999999,0.1111,0.1
-2025-09-21 08:33:42.205724,Pure Insurance Championship - Pure Insurance Championship - Winner,Mike Weir,0.010899999999999993,0.1538,0.1429
 2025-09-21 08:33:42.205724,Pure Insurance Championship - Pure Insurance Championship - Winner,Stewart Cink,0.010899999999999993,0.1538,0.1429
 2025-09-21 05:32:06.160744,Championship - England Championship 2025/26 - Winner 2025/26,Coventry City,0.010899999999999993,0.1538,0.1429
+2025-09-21 08:33:42.205724,Pure Insurance Championship - Pure Insurance Championship - Winner,Mike Weir,0.010899999999999993,0.1538,0.1429
 2025-09-21 08:33:41.787220,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,Syracuse,0.0102,0.0152,0.005
 2025-09-21 09:28:18.992735,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Haynes King (GT),0.010100000000000001,0.0345,0.0244
-2025-09-21 08:33:41.729813,National Championship - National Championship 2025-26 - National Championship Game Winner ,Miami Florida,-0.0102,0.0667,0.0769
 2025-09-21 05:32:06.169365,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Borussia Dortmund,-0.0102,0.0667,0.0769
+2025-09-21 08:33:41.729813,National Championship - National Championship 2025-26 - National Championship Game Winner ,Miami Florida,-0.0102,0.0667,0.0769
 2025-09-21 13:31:42.192466,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,New York City FC,-0.0102,0.0667,0.0769
 2025-09-21 13:31:42.183173,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Minnesota United,-0.0102,0.0667,0.0769
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Freddie Jacobson,-0.0103,0.002,0.0123
@@ -84,8 +83,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Swindon Town,-0.013899999999999996,0.1111,0.125
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Justin Leonard,-0.014099999999999994,0.0526,0.0667
 2025-09-21 06:41:04.130607,League Two - England League Two 2025/26 - Winner,Crewe Alexandra,-0.014099999999999994,0.0526,0.0667
-2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Wigan Athletic,-0.014099999999999998,0.0244,0.0385
 2025-09-21 09:28:18.992735,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Arch Manning (TEX),-0.014099999999999998,0.0244,0.0385
+2025-09-21 06:41:04.125418,League One - England League One 2025/26 - Winner,Wigan Athletic,-0.014099999999999998,0.0244,0.0385
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Stuart Appleby,-0.014400000000000001,0.002,0.0164
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas,-0.01469999999999999,0.2353,0.25
 2025-09-21 08:33:41.787220,Conferences - ACC Conference Championship 2025-26 - ACC Championship Game Winner,SMU,-0.015300000000000001,0.0435,0.0588
@@ -97,8 +96,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Florida,-0.0182,0.0141,0.0323
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Stephen Ames,-0.0184,0.0033,0.0217
 2025-09-21 09:28:18.992735,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Garrett Nussmeier (LSU),-0.019000000000000003,0.0435,0.0625
-2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Georgia,-0.019000000000000017,0.2667,0.2857
 2025-09-21 06:41:04.166413,National League - England National League 2025/26 - Winner,York City,-0.019000000000000017,0.2667,0.2857
+2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Georgia,-0.019000000000000017,0.2667,0.2857
 2025-09-21 05:32:06.160744,Championship - England Championship 2025/26 - Winner 2025/26,Stoke City,-0.0203,0.0385,0.0588
 2025-09-21 06:41:05.395807,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Houston Astros,-0.0203,0.1176,0.1379
 2025-09-21 05:32:06.164789,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,-0.02169999999999994,0.5238,0.5455
@@ -113,7 +112,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Auburn,-0.029700000000000004,0.0179,0.0476
 2025-09-21 08:33:42.084208,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.030500000000000083,0.7826,0.8131
 2025-09-21 09:28:18.939487,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,LSU,-0.031,0.1429,0.1739
-2025-09-21 02:16:56.354631,NBL - Australia NBL 2025/26 - Outright,Cairns Taipans,-0.032900000000000006,0.0385,0.0714
 2025-09-21 08:33:41.729813,National Championship - National Championship 2025-26 - National Championship Game Winner ,LSU,-0.03330000000000001,0.0667,0.1
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Retief Goosen,-0.0335,0.005,0.0385
 2025-09-21 06:41:05.599021,Pure Insurance Championship - Pure Insurance Championship - Winner,Matt Gogel,-0.0365,0.002,0.0385

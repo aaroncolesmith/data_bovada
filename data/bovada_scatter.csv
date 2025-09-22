@@ -29,14 +29,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester United,0.030299999999999994,0.3636,0.3333
 2025-09-22 03:17:01.539415,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Fulham,0.028600000000000014,0.3922,0.3636
 2025-09-22 03:49:14.531470,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Crystal Palace,0.028199999999999996,0.0667,0.0385
-2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Crystal Palace,0.027800000000000005,0.1111,0.0833
 2025-09-22 03:17:01.368805,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,0.027800000000000005,0.1111,0.0833
+2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Crystal Palace,0.027800000000000005,0.1111,0.0833
 2025-09-22 02:16:30.325560,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.0262,0.0385,0.0123
 2025-09-22 03:17:01.495385,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.02560000000000001,0.3333,0.3077
 2025-09-22 03:17:01.495385,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.023799999999999988,0.1667,0.1429
 2025-09-22 02:16:30.537273,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Kelsey Mitchell (IND),0.022400000000000003,0.0323,0.0099
-2025-09-22 02:16:30.262520,Regular Season Series Prices - 2025-26 Inter-Conference Series Matchups - San Antonio Spurs vs Philadelphia 76ers,San Antonio Spurs,0.022199999999999998,0.3448,0.3226
 2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Manchester City,0.022199999999999998,0.8889,0.8667
+2025-09-22 02:16:30.262520,Regular Season Series Prices - 2025-26 Inter-Conference Series Matchups - San Antonio Spurs vs Philadelphia 76ers,San Antonio Spurs,0.022199999999999998,0.3448,0.3226
 2025-09-22 02:16:30.297609,Regular Season Series Prices - 2025-26 Eastern Conference Series Matchups - Cleveland Cavaliers vs New York Knicks,Cleveland Cavaliers,0.02079999999999993,0.5556,0.5348
 2025-09-22 03:17:01.533188,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,West Ham United,0.02020000000000001,0.1111,0.0909
 2025-09-22 03:49:14.531470,Premier League Futures/Specials - English Premier League 2025/26 - Top 4 Finish,Newcastle United,0.020100000000000007,0.25,0.2299
@@ -48,15 +48,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-22 03:17:01.495385,Ligue 2 - France Ligue 2 2025/26 - Winner,Red Star,0.016600000000000004,0.0833,0.0667
 2025-09-21 18:37:53.177975,American League Winner - MLB 2025 American League - MLB 2025 American League Winner,Boston Red Sox,0.015899999999999997,0.1111,0.0952
 2025-09-22 03:17:01.364354,Serie A - Italy Serie A 2025/26 - Winner,AS Roma,0.015700000000000006,0.1333,0.1176
+2025-09-22 05:33:12.834395,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Minnesota Vikings,0.0153,0.0294,0.0141
+2025-09-22 05:33:12.844880,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Buffalo Bills,0.014900000000000024,0.3226,0.3077
 2025-09-22 03:49:14.537707,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Fulham,0.01440000000000001,0.1053,0.0909
-2025-09-22 02:16:30.286810,Regular Season Series Prices - 2025-26 Western Conference Series Matchups - San Antonio Spurs vs Los Angeles Clippers,Los Angeles Clippers,0.014200000000000101,0.6296,0.6154
 2025-09-22 02:16:30.276806,Regular Season Series Prices - 2025-26 Western Conference Series Matchups - Los Angeles Lakers vs Denver Nuggets,Denver Nuggets,0.014200000000000101,0.6296,0.6154
+2025-09-22 02:16:30.286810,Regular Season Series Prices - 2025-26 Western Conference Series Matchups - San Antonio Spurs vs Los Angeles Clippers,Los Angeles Clippers,0.014200000000000101,0.6296,0.6154
+2025-09-22 05:33:12.844880,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Indianapolis Colts,0.014099999999999994,0.0667,0.0526
 2025-09-22 03:49:14.537707,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Manchester City,0.014000000000000012,0.9231,0.9091
 2025-09-22 03:17:01.533188,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Brentford,0.013999999999999999,0.0909,0.0769
-2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Tottenham Hotspur,0.013800000000000034,0.3774,0.3636
 2025-09-22 03:17:01.536298,Premier League Futures/Specials - English Premier League 2025/26 - Top 2 Finish,Manchester City,0.013800000000000034,0.3774,0.3636
-2025-09-22 03:49:14.537707,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Bournemouth,0.0131,0.2353,0.2222
+2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Tottenham Hotspur,0.013800000000000034,0.3774,0.3636
+2025-09-22 05:33:12.844880,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Baltimore Ravens,0.013600000000000001,0.3077,0.2941
 2025-09-22 03:17:01.364354,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,0.0131,0.2353,0.2222
+2025-09-22 03:49:14.537707,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Bournemouth,0.0131,0.2353,0.2222
 2025-09-22 03:49:14.537707,Premier League Futures/Specials - English Premier League 2025/26 - Top 6 Finish,Leeds United,0.012700000000000003,0.0323,0.0196
 2025-09-22 02:16:30.537273,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Courtney Williams (MIN),0.012700000000000003,0.0323,0.0196
 2025-09-22 02:16:29.927023,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,0.010899999999999993,0.1538,0.1429
@@ -67,23 +71,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-22 02:16:30.325560,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,-0.0102,0.0667,0.0769
 2025-09-22 02:16:30.270268,Regular Season Series Prices - 2025-26 Western Conference Series Matchups - Houston Rockets vs Oklahoma City Thunder,Houston Rockets,-0.010599999999999998,0.4545,0.4651
 2025-09-22 03:17:01.364354,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.010899999999999993,0.1429,0.1538
-2025-09-22 02:16:29.927023,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.011099999999999999,0.1,0.1111
 2025-09-22 03:17:01.518891,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Ahli,-0.011099999999999999,0.1,0.1111
+2025-09-22 02:16:29.927023,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.011099999999999999,0.1,0.1111
 2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Nottingham Forest,-0.011199999999999995,0.0476,0.0588
 2025-09-22 03:17:01.364354,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.0116,0.4762,0.4878
 2025-09-22 02:16:30.252654,Regular Season Series Prices - 2025-26 Inter-Conference Series Matchups - Houston Rockets vs Atlanta Hawks,Atlanta Hawks,-0.011700000000000016,0.2105,0.2222
+2025-09-22 05:33:12.834395,Super Bowl Winner - Super Bowl LX 2026 - Super Bowl LX 2026 Winner,Tampa Bay Buccaneers,-0.0131,0.0345,0.0476
 2025-09-22 02:16:30.307403,Regular Season Series Prices - 2025-26 Eastern Conference Series Matchups - New York Knicks vs Philadelphia 76ers,Philadelphia 76ers,-0.01319999999999999,0.25,0.2632
 2025-09-22 03:17:01.533188,Premier League Futures/Specials - English Premier League 2025/26 - To Finish Bottom,Burnley,-0.013800000000000034,0.3636,0.3774
 2025-09-22 02:16:30.294362,Regular Season Series Prices - 2025-26 Eastern Conference Series Matchups - Cleveland Cavaliers vs Detroit Pistons,Detroit Pistons,-0.013899999999999968,0.2564,0.2703
 2025-09-22 03:49:14.528300,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Arsenal,-0.013899999999999996,0.1111,0.125
 2025-09-22 02:16:30.077370,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Chelsea,-0.014100000000000001,0.0385,0.0526
 2025-09-22 03:17:01.539415,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Chelsea,-0.01419999999999999,0.9709,0.9851
+2025-09-22 05:33:12.844880,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,-0.014399999999999996,0.0625,0.0769
 2025-09-22 03:17:01.350581,La Liga - Spain La Liga 2025/26 - Winner,Athletic Bilbao,-0.0145,0.0099,0.0244
 2025-09-22 02:16:30.262520,Regular Season Series Prices - 2025-26 Inter-Conference Series Matchups - San Antonio Spurs vs Philadelphia 76ers,Philadelphia 76ers,-0.01469999999999999,0.2353,0.25
 2025-09-22 02:16:30.246095,Regular Season Series Prices - 2025-26 Inter-Conference Series Matchups - Denver Nuggets vs Orlando Magic,Denver Nuggets,-0.014900000000000024,0.3077,0.3226
 2025-09-22 03:49:14.528300,Premier League Futures/Specials - English Premier League 2025/26 - Not to Finish in Top 4,Newcastle United,-0.015100000000000002,0.8182,0.8333
-2025-09-22 03:17:01.355251,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayer Leverkusen,-0.015300000000000001,0.0435,0.0588
 2025-09-22 03:17:01.539415,Premier League Futures/Specials - English Premier League 2025/26 - Top 10 Finish,Wolverhampton Wanderers,-0.015300000000000001,0.0323,0.0476
+2025-09-22 03:17:01.355251,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayer Leverkusen,-0.015300000000000001,0.0435,0.0588
 2025-09-22 03:49:14.534584,Premier League Futures/Specials - English Premier League 2025/26 - Top 5 Finish,Everton,-0.016600000000000004,0.0667,0.0833
 2025-09-22 02:16:30.307403,Regular Season Series Prices - 2025-26 Eastern Conference Series Matchups - New York Knicks vs Philadelphia 76ers,Tie,-0.017299999999999982,0.4082,0.4255
 2025-09-21 20:31:12.509494,NBL - Australia NBL 2025/26 - Outright,Sydney Kings,-0.0174,0.2,0.2174

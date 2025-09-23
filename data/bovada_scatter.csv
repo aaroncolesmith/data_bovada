@@ -9,6 +9,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.515837,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Marseille,0.09089999999999998,0.6364,0.5455
 2025-09-23 08:38:16.490448,Serie A - Italy Serie A 2025/26 - Top 4 Finish,AS Roma,0.07619999999999999,0.4762,0.4
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Portsmouth,0.07500000000000001,0.2,0.125
+2025-09-23 20:33:50.893552,Player Points - Rasmus Hojgaard Points - Rasmus Hojgaard Points,Under & Exactly 1,0.07119999999999993,0.6364,0.5652
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Blackburn Rovers,0.06670000000000001,0.2,0.1333
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Middlesbrough,0.0635,0.2857,0.2222
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Birmingham City,0.0595,0.5833,0.5238
@@ -16,9 +17,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.495172,Liga MX - Liga MX Apertura 2025 - Winner,Cruz Azul,0.055800000000000016,0.2857,0.2299
 2025-09-23 08:38:16.724622,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Deportivo Riestra,0.052300000000000006,0.1111,0.0588
 2025-09-23 08:38:16.721374,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Barracas Central,0.052000000000000005,0.1429,0.0909
+2025-09-23 20:33:49.871368,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Reed Sheppard (HOU),0.048799999999999996,0.0667,0.0179
 2025-09-23 08:38:16.490448,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Como,0.048100000000000004,0.2299,0.1818
-2025-09-23 09:33:10.315292,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,0.048100000000000004,0.125,0.0769
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Hull City,0.048100000000000004,0.125,0.0769
+2025-09-23 09:33:10.315292,Brasileirão Série A - Brazil Serie A 2025 - Winner,Cruzeiro MG,0.048100000000000004,0.125,0.0769
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Birmingham City,0.047599999999999976,0.3333,0.2857
 2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Metz,0.045499999999999985,0.5455,0.5
 2025-09-23 08:38:16.724622,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Vélez Sarsfield,0.044499999999999984,0.2667,0.2222
@@ -43,8 +45,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Millwall,0.02020000000000001,0.1111,0.0909
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Preston North End,0.02020000000000001,0.1111,0.0909
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Norwich City,0.019099999999999992,0.0667,0.0476
-2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Wrexham,0.019099999999999992,0.0667,0.0476
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Blackburn Rovers,0.019099999999999992,0.0667,0.0476
+2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Wrexham,0.019099999999999992,0.0667,0.0476
 2025-09-23 14:35:39.534976,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.018900000000000028,0.4444,0.4255
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Hull City,0.018200000000000004,0.0476,0.0294
 2025-09-23 08:38:16.487401,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Sassuolo,0.0179,0.1429,0.125
@@ -53,36 +55,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.487401,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Pisa,0.017600000000000005,0.3509,0.3333
 2025-09-23 08:38:16.484369,Serie A - Italy Serie A 2025/26 - To Be Relegated,Udinese,0.01759999999999999,0.1176,0.1
 2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Atlético Lanús,0.016700000000000007,0.1,0.0833
+2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Millwall,0.016699999999999993,0.2667,0.25
 2025-09-23 18:43:28.078138,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,0.016699999999999993,0.4167,0.4
 2025-09-23 14:35:39.521135,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.016699999999999993,0.2667,0.25
-2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Millwall,0.016699999999999993,0.2667,0.25
 2025-09-23 08:38:16.515837,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Strasbourg,0.015700000000000006,0.1333,0.1176
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Watford,0.015100000000000002,0.1818,0.1667
 2025-09-23 09:33:11.770035,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.014700000000000046,0.7647,0.75
 2025-09-23 12:58:30.595277,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Mississippi,0.014399999999999996,0.0769,0.0625
-2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Unión de Santa Fe,0.014099999999999998,0.0385,0.0244
 2025-09-23 08:38:16.484369,Serie A - Italy Serie A 2025/26 - To Be Relegated,Lazio,0.014099999999999998,0.0385,0.0244
+2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Unión de Santa Fe,0.014099999999999998,0.0385,0.0244
 2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Rosario Central,0.014099999999999994,0.0667,0.0526
 2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Estudiantes de La Plata,0.013999999999999999,0.0909,0.0769
+2025-09-23 20:33:50.519976,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.013999999999999999,0.0909,0.0769
 2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Brest,0.013899999999999996,0.125,0.1111
 2025-09-23 08:38:16.487401,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Cremonese,0.013899999999999996,0.125,0.1111
-2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Ipswich Town,0.013800000000000034,0.3774,0.3636
 2025-09-23 08:38:16.484369,Serie A - Italy Serie A 2025/26 - To Be Relegated,Sassuolo,0.013800000000000034,0.3774,0.3636
+2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Ipswich Town,0.013800000000000034,0.3774,0.3636
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,West Bromwich Albion,0.013,0.0196,0.0066
 2025-09-23 08:38:16.495172,Liga MX - Liga MX Apertura 2025 - Winner,Deportivo Toluca,0.012899999999999995,0.1667,0.1538
 2025-09-23 08:38:16.509513,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Ansu Fati (Monaco),0.012100000000000001,0.0244,0.0123
-2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Atlético Bucaramanga,0.011199999999999995,0.0588,0.0476
-2025-09-23 08:38:16.480953,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lorenzo Lucca (Napoli),0.011199999999999995,0.0588,0.0476
 2025-09-23 08:38:16.721374,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Racing Club,0.011199999999999995,0.0588,0.0476
+2025-09-23 08:38:16.480953,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Lorenzo Lucca (Napoli),0.011199999999999995,0.0588,0.0476
+2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Atlético Bucaramanga,0.011199999999999995,0.0588,0.0476
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Swansea City,0.011099999999999999,0.1111,0.1
+2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Queens Park Rangers,0.011099999999999999,0.1111,0.1
 2025-09-23 19:27:14.793756,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.011099999999999999,0.2778,0.2667
 2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Millonarios,0.011099999999999999,0.1111,0.1
 2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Independiente Medellín,0.011099999999999999,0.1111,0.1
-2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Queens Park Rangers,0.011099999999999999,0.1111,0.1
-2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Swansea City,0.0102,0.0769,0.0667
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Millwall,0.0102,0.0769,0.0667
-2025-09-23 08:38:16.509513,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Pierre-Emerick Aubameyang (Marseille),0.0102,0.0769,0.0667
 2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,América de Cali,0.0102,0.0769,0.0667
+2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Swansea City,0.0102,0.0769,0.0667
+2025-09-23 08:38:16.509513,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Pierre-Emerick Aubameyang (Marseille),0.0102,0.0769,0.0667
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Portsmouth,-0.010100000000000001,0.0244,0.0345
 2025-09-23 19:27:14.793756,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,-0.010500000000000065,0.7895,0.8
 2025-09-23 13:40:53.707170,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.010699999999999932,0.5348,0.5455
@@ -92,16 +95,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Swansea City,-0.011199999999999995,0.0476,0.0588
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Sheffield United,-0.011199999999999995,0.0476,0.0588
 2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lens,-0.011699999999999999,0.0079,0.0196
-2025-09-23 08:38:16.724622,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Godoy Cruz,-0.012100000000000001,0.0123,0.0244
 2025-09-23 08:38:16.506409,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Nice,-0.012100000000000001,0.0123,0.0244
+2025-09-23 08:38:16.724622,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Godoy Cruz,-0.012100000000000001,0.0123,0.0244
 2025-09-23 14:35:39.530403,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.012199999999999989,0.5,0.5122
 2025-09-23 19:27:14.772254,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,-0.012700000000000045,0.6364,0.6491
 2025-09-23 09:33:11.808828,Lacoste Ladies Open De France - Lacoste Ladies Open De France - Winner,Chiara Tamburlini,-0.012899999999999995,0.1538,0.1667
 2025-09-23 14:35:39.534976,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
-2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lyon,-0.013899999999999996,0.1111,0.125
 2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Vélez Sarsfield,-0.013899999999999996,0.1111,0.125
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Wrexham,-0.013899999999999996,0.1111,0.125
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Bristol City,-0.013899999999999996,0.1111,0.125
+2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lyon,-0.013899999999999996,0.1111,0.125
 2025-09-23 08:38:16.480953,Serie A - Italy Serie A 2025/26 - Top Goalscorer,Moise Kean (Fiorentina),-0.013999999999999999,0.0769,0.0909
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Bristol City,-0.013999999999999999,0.0769,0.0909
 2025-09-23 08:38:16.724622,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone B Winner - Clausura 2025,Gimnasia La Plata,-0.014499999999999999,0.0149,0.0294
@@ -115,23 +118,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 14:35:39.521135,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,-0.018199999999999994,0.8,0.8182
 2025-09-23 08:38:16.484369,Serie A - Italy Serie A 2025/26 - To Be Relegated,Genoa,-0.01820000000000002,0.1818,0.2
 2025-09-23 08:38:16.721374,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Boca Juniors,-0.019000000000000017,0.2667,0.2857
-2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lorient,-0.020100000000000007,0.2299,0.25
 2025-09-23 08:38:16.721374,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Zone A Winner - Clausura 2025,Estudiantes de La Plata,-0.020100000000000007,0.2299,0.25
-2025-09-23 08:38:16.498319,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,German Berterame,-0.020100000000000007,0.2299,0.25
 2025-09-23 08:38:16.498319,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Angel Sepuvelda,-0.020100000000000007,0.2299,0.25
+2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lorient,-0.020100000000000007,0.2299,0.25
+2025-09-23 08:38:16.498319,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,German Berterame,-0.020100000000000007,0.2299,0.25
+2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Stoke City,-0.02020000000000001,0.0909,0.1111
+2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Portsmouth,-0.02020000000000001,0.0909,0.1111
 2025-09-23 08:38:16.509513,Ligue 1 - France Ligue 1 2025/26 - Top Goalscorer,Goncalo Ramos (PSG),-0.02020000000000001,0.0909,0.1111
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Leicester City,-0.02020000000000001,0.0909,0.1111
-2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Portsmouth,-0.02020000000000001,0.0909,0.1111
-2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Stoke City,-0.02020000000000001,0.0909,0.1111
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Norwich City,-0.02020000000000001,0.0909,0.1111
 2025-09-23 08:38:16.506409,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Lyon,-0.02049999999999999,0.1333,0.1538
 2025-09-23 08:38:16.484369,Serie A - Italy Serie A 2025/26 - To Be Relegated,Lecce,-0.021699999999999997,0.4545,0.4762
 2025-09-23 08:38:16.490448,Serie A - Italy Serie A 2025/26 - Top 4 Finish,Juventus,-0.02200000000000002,0.6923,0.7143
 2025-09-23 08:38:16.487401,Serie A - Italy Serie A 2025/26 - To Finish Bottom,Hellas Verona,-0.022199999999999998,0.2,0.2222
-2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.02310000000000001,0.0769,0.1
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Derby County,-0.02310000000000001,0.0769,0.1
-2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,-0.023799999999999988,0.1429,0.1667
+2025-09-23 09:33:10.477626,Primera A - Colombia Primera A 2025 - Winner,Independiente Santa Fe,-0.02310000000000001,0.0769,0.1
 2025-09-23 08:38:16.407188,Championship - England Championship 2025/26 - To Be Relegated,Preston North End,-0.023799999999999988,0.1429,0.1667
+2025-09-23 08:38:16.718042,Liga Profesional de Fútbol - Argentina Liga Profesional de Futbol - Clausura 2025 Futures - Winner,Boca Juniors,-0.023799999999999988,0.1429,0.1667
 2025-09-23 18:43:28.194588,Player Points - Justin Rose Points - Justin Rose Points,Under & Exactly 1,-0.023799999999999988,0.4762,0.5
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Norwich City,-0.0242,0.0667,0.0909
 2025-09-23 08:38:16.495172,Liga MX - Liga MX Apertura 2025 - Winner,CF Pachuca,-0.024999999999999994,0.1,0.125
@@ -169,6 +172,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 08:38:16.410134,Championship - England Championship 2025/26 - Top 2 Finish,Southampton,-0.0632,0.1667,0.2299
 2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Angers,-0.06789999999999996,0.5238,0.5917
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Southampton,-0.07440000000000002,0.5,0.5744
+2025-09-23 20:33:50.893552,Player Points - Rasmus Hojgaard Points - Rasmus Hojgaard Points,Over 1,-0.07450000000000001,0.4255,0.5
 2025-09-23 08:38:16.512800,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,AJ Auxerre,-0.08330000000000001,0.1667,0.25
 2025-09-23 08:38:16.404203,Championship - England Championship 2025/26 - To Be Promoted,Southampton,-0.09689999999999999,0.2667,0.3636
 2025-09-23 08:38:16.413164,Championship - England Championship 2025/26 - Top 6 Finish,Leicester City,-0.09689999999999999,0.2667,0.3636

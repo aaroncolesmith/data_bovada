@@ -1,206 +1,116 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-09-22 11:28:21.524959,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,0.23450000000000001,0.3774,0.1429
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Robert Jenrick,0.1587,0.4444,0.2857
 2025-09-22 20:33:12.100015,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Daniel Jones (IND),0.1515,0.3333,0.1818
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Melbourne United,0.12119999999999997,0.6667,0.5455
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Memphis,0.09720000000000001,0.2222,0.125
-2025-09-22 11:28:21.892127,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,0.07939999999999997,0.5556,0.4762
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Carson Schwesinger (CLE),0.0769,0.1538,0.0769
 2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Shane Steichen,0.0673,0.2778,0.2105
 2025-09-22 21:28:08.948519,Houston Rockets - Regular Season Wins 2025-26 - Houston Rockets - Regular Season Wins,Under 54.5,0.057699999999999974,0.5455,0.4878
-2025-09-22 13:00:12.637762,CFL Futures - Grey Cup - Grey Cup Winner 2025,British Columbia Lions,0.056400000000000006,0.1333,0.0769
 2025-09-22 20:33:11.987578,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,0.04909999999999999,0.1667,0.1176
 2025-09-22 20:33:12.473972,Player Points - Matt Fitzpatrick Points - Matt Fitzpatrick Points,Over 1.5,0.04849999999999999,0.5833,0.5348
 2025-09-22 17:30:12.098765,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.045499999999999985,0.5455,0.5
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Vanessa Nakate,0.0448,0.0833,0.0385
-2025-09-22 11:28:21.758027,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,FC Porto,0.044399999999999995,0.4444,0.4
 2025-09-22 18:40:47.598962,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Western Michigan,0.04239999999999999,0.0769,0.0345
 2025-09-22 18:40:47.598962,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Miami Ohio,0.0417,0.125,0.0833
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Western Kentucky,0.04099999999999998,0.3077,0.2667
 2025-09-22 21:28:08.642098,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.03889999999999999,0.1818,0.1429
 2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean McDermott,0.0384,0.0769,0.0385
 2025-09-22 20:33:12.076789,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jaxson Dart (NYG),0.037500000000000006,0.1,0.0625
-2025-09-22 11:28:21.999981,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,0.03640000000000004,0.4,0.3636
 2025-09-22 20:33:11.997164,AFC East - AFC East 2025-26 - AFC East Winner,New England Patriots,0.035699999999999996,0.0833,0.0476
 2025-09-22 17:30:12.063006,AL East - AL East 2025 - AL East Winner,New York Yankees,0.033300000000000024,0.2,0.1667
 2025-09-22 20:33:11.972769,National Championship - National Championship 2025-26 - National Championship Game Winner ,Miami Florida,0.03330000000000001,0.1,0.0667
 2025-09-22 20:33:11.972769,National Championship - National Championship 2025-26 - National Championship Game Winner ,LSU,0.03330000000000001,0.1,0.0667
-2025-09-22 13:00:11.196269,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Los Angeles FC,0.03330000000000001,0.1,0.0667
 2025-09-22 18:40:47.598962,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Bowling Green,0.03270000000000001,0.0952,0.0625
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Diego State,0.03219999999999999,0.0667,0.0345
-2025-09-22 13:00:11.208080,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Los Angeles FC,0.0321,0.0909,0.0588
 2025-09-22 18:40:47.581555,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,James Madison,0.031799999999999995,0.4762,0.4444
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Louisiana Tech,0.031399999999999983,0.2667,0.2353
 2025-09-22 20:33:12.110946,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Carson Beck (MIA),0.02850000000000001,0.0952,0.0667
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Los Angeles FC,0.027999999999999997,0.1818,0.1538
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Sviatlana Tsikhanouskaya,0.027999999999999997,0.0625,0.0345
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,South Florida,0.02779999999999999,0.25,0.2222
 2025-09-22 18:40:47.999917,Player Points - J J Spaun Points - J J Spaun Points,Over 1,0.026499999999999968,0.5917,0.5652
 2025-09-22 16:39:31.725104,Player Points - Ben Griffin Points - Ben Griffin Points,Over 1,0.026499999999999968,0.5917,0.5652
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Club Brugge,0.02560000000000001,0.3333,0.3077
 2025-09-22 14:35:58.416590,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Pope Leo XIV,0.02560000000000001,0.3333,0.3077
 2025-09-22 20:33:12.110946,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.025300000000000003,0.1429,0.1176
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Austin FC,0.0242,0.0909,0.0667
 2025-09-22 20:33:11.481798,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),0.0242,0.0909,0.0667
 2025-09-22 20:33:11.997164,AFC East - AFC East 2025-26 - AFC East Winner,Buffalo Bills,0.023900000000000032,0.9804,0.9565
-2025-09-22 13:41:14.458544,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.023799999999999988,0.5,0.4762
 2025-09-22 21:28:08.593754,Western Conference - Western Conference 2025-26 - Conference Winner,Denver Nuggets,0.023799999999999988,0.1667,0.1429
 2025-09-22 23:28:19.558267,Serie A - Italy Serie A 2025/26 - Winner,Napoli,0.023799999999999988,0.5,0.4762
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Andrew Mukaba,0.022099999999999998,0.0385,0.0164
-2025-09-22 11:28:21.772315,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.02200000000000002,0.7143,0.6923
 2025-09-22 20:33:11.492712,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Kevin Durant (HOU),0.022000000000000006,0.1053,0.0833
 2025-09-22 20:33:12.006745,NFC North - NFC North 2025-26 - NFC North Winner,Green Bay Packers,0.02180000000000004,0.6296,0.6078
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Xavier Watts (ATL),0.021199999999999997,0.0278,0.0066
-2025-09-22 11:28:22.721417,World Politics - Next World Leader To Leave - Next World Leader To Leave,Vladimir Putin (Russia),0.02020000000000001,0.1111,0.0909
 2025-09-22 20:33:11.370365,Western Conference - Western Conference 2025-26 - Conference Winner,Los Angeles Lakers,0.02020000000000001,0.1111,0.0909
 2025-09-22 22:31:49.517667,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Reed Sheppard (HOU),0.020000000000000004,0.0323,0.0123
 2025-09-22 19:26:47.672498,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jonathan Taylor (IND),0.01820000000000002,0.2,0.1818
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Jacksonville State,0.01820000000000002,0.2,0.1818
 2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,0.018200000000000004,0.0476,0.0294
 2025-09-22 20:33:12.021256,NFC West - NFC West 2025-26 - NFC West Winner,Seattle Seahawks,0.0179,0.1429,0.125
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jihaad Campbell (PHI),0.0179,0.1429,0.125
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Nick Emmanwori (SEA),0.017800000000000003,0.0244,0.0066
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Union Saint-Gilloise,0.017600000000000005,0.3509,0.3333
 2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kyle Shanahan,0.016700000000000007,0.1,0.0833
 2025-09-22 17:30:12.052442,National League Winner - MLB 2025 National League  - National League Winner,Milwaukee Brewers,0.015899999999999997,0.2381,0.2222
 2025-09-22 21:28:08.593754,Western Conference - Western Conference 2025-26 - Conference Winner,Oklahoma City Thunder,0.015400000000000025,0.4,0.3846
 2025-09-22 18:40:47.581555,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Texas State,0.015100000000000002,0.1818,0.1667
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,New Mexico,0.014900000000000004,0.0345,0.0196
 2025-09-22 18:40:47.646869,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Micah Parsons (GB),0.01469999999999999,0.25,0.2353
 2025-09-22 20:33:12.076789,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),0.014399999999999996,0.0769,0.0625
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Julian Assange,0.014099999999999998,0.0385,0.0244
-2025-09-22 11:28:21.999981,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Harris Dickinson,0.013999999999999999,0.0909,0.0769
 2025-09-22 20:33:11.347761,NBA Championship Winner - Championship 2025-26 - Champion,Denver Nuggets,0.013899999999999996,0.125,0.1111
-2025-09-22 19:26:47.672498,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.013899999999999996,0.125,0.1111
 2025-09-22 23:28:19.563032,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,0.013899999999999996,0.125,0.1111
-2025-09-22 11:28:22.677957,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,0.0131,0.2353,0.2222
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Utah State,0.0131,0.0476,0.0345
+2025-09-22 19:26:47.672498,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Puka Nacua (LAR),0.013899999999999996,0.125,0.1111
 2025-09-22 14:35:58.416590,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Benjamin Netanyahu,0.0131,0.0476,0.0345
-2025-09-22 11:28:22.712770,World Politics - Seychelles Presidential Election - Proposition,Wavel Ramkalawan,0.0131,0.2353,0.2222
 2025-09-22 19:26:47.655559,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Justin Herbert (LAC),0.012899999999999995,0.1667,0.1538
 2025-09-22 21:28:08.993395,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Rockets - To Make the Playoffs,No,0.011900000000000008,0.0952,0.0833
 2025-09-22 17:30:12.036057,World Series Winner - World Series 2025 - Winner - World Series Winner,Seattle Mariners,0.011899999999999994,0.16,0.1481
-2025-09-22 15:33:51.549374,Point Match-Ups - Tournament Points Match-Up - J J Spaun vs S. Straka - Tournament Points Match-Up,Sepp Straka,0.011600000000000055,0.5238,0.5122
 2025-09-22 15:33:51.562311,Point Match-Ups - Tournament Points Match-Up - R. Henley vs T. Hatton - Tournament Points Match-Up,Russell Henley,0.011600000000000055,0.5238,0.5122
+2025-09-22 15:33:51.549374,Point Match-Ups - Tournament Points Match-Up - J J Spaun vs S. Straka - Tournament Points Match-Up,Sepp Straka,0.011600000000000055,0.5238,0.5122
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Demetrius Knight,0.011200000000000002,0.0244,0.0132
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,International Court of Justice (ICJ),0.011199999999999995,0.0588,0.0476
-2025-09-22 13:00:12.637762,CFL Futures - Grey Cup - Grey Cup Winner 2025,Winnipeg Blue Bombers,0.011199999999999995,0.0588,0.0476
 2025-09-22 19:26:47.672498,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),0.011199999999999995,0.0435,0.0323
 2025-09-22 23:28:19.495051,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,0.011099999999999999,0.1111,0.1
 2025-09-22 15:33:51.527759,Point Match-Ups - Tournament Points Match-Up - B. DeChambeau vs R. McIlroy - Tournament Points Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2025-09-22 20:33:11.972769,National Championship - National Championship 2025-26 - National Championship Game Winner ,Ohio State,0.010899999999999993,0.1538,0.1429
-2025-09-22 20:33:12.110946,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.0102,0.0769,0.0667
-2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Macdonald,0.0102,0.0769,0.0667
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Gent,0.0102,0.0769,0.0667
 2025-09-22 17:30:12.047148,American League Winner - MLB 2025 American League - American League Winner,Cleveland Guardians,0.0102,0.0769,0.0667
 2025-09-22 20:33:12.088768,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jalon Walker (ATL),0.0102,0.0769,0.0667
-2025-09-22 11:28:22.702557,UK General Election - Most Seats After Next General Election - Most Seats,Reform,0.010099999999999998,0.5556,0.5455
+2025-09-22 20:33:12.110946,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.0102,0.0769,0.0667
+2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Macdonald,0.0102,0.0769,0.0667
 2025-09-22 15:33:51.562311,Point Match-Ups - Tournament Points Match-Up - R. Henley vs T. Hatton - Tournament Points Match-Up,Tyrrell Hatton,-0.010099999999999998,0.5455,0.5556
 2025-09-22 15:33:51.549374,Point Match-Ups - Tournament Points Match-Up - J J Spaun vs S. Straka - Tournament Points Match-Up,J J Spaun,-0.010099999999999998,0.5455,0.5556
 2025-09-22 14:35:58.416590,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,Elon Musk,-0.0102,0.0667,0.0769
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Royal Charleroi,-0.0102,0.0667,0.0769
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,UTEP,-0.0102,0.0667,0.0769
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Sam Houston State,-0.010300000000000002,0.0141,0.0244
-2025-09-22 13:41:14.414766,National League Winner - MLB 2025 National League  - National League Winner,Milwaukee Brewers,-0.010399999999999993,0.2222,0.2326
+2025-09-23 02:00:49.254957,Outrights - Tour de France 2026 - Tour de France Winner,Remco Evenepoel,-0.0102,0.0667,0.0769
 2025-09-22 15:33:51.527759,Point Match-Ups - Tournament Points Match-Up - B. DeChambeau vs R. McIlroy - Tournament Points Match-Up,Bryson DeChambeau,-0.010699999999999932,0.5348,0.5455
 2025-09-22 20:33:11.543484,Exact Matchup - Exact Matchup 2025-26 - Exact Matchup,New York Knicks vs Houston Rockets,-0.010700000000000001,0.0278,0.0385
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Adelaide 36ers,-0.010800000000000032,0.726,0.7368
-2025-09-22 13:00:11.196269,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Vancouver Whitecaps,-0.010899999999999993,0.1429,0.1538
 2025-09-22 20:33:12.100015,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Trevor Lawrence (JAX),-0.011099999999999999,0.1,0.1111
-2025-09-22 13:41:14.409513,American League Winner - MLB 2025 American League - American League Winner,Boston Red Sox,-0.011099999999999999,0.1,0.1111
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Seattle Sounders,-0.011099999999999999,0.1,0.1111
-2025-09-22 11:28:21.999981,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Theo James,-0.011099999999999999,0.1,0.1111
 2025-09-22 18:40:47.581555,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,Appalachian State,-0.011199999999999995,0.0323,0.0435
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Colorado State,-0.011199999999999995,0.0476,0.0588
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Sydney Kings,-0.011699999999999933,0.7143,0.726
 2025-09-22 20:33:12.071026,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Brian Daboll,-0.0118,0.0099,0.0217
 2025-09-22 21:28:08.642098,Southwest Division - Southwest Division 2025-26 - Division Winner,New Orleans Pelicans,-0.012100000000000001,0.0123,0.0244
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Hawaii,-0.012800000000000002,0.0217,0.0345
 2025-09-22 23:28:19.558267,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,-0.0131,0.2222,0.2353
-2025-09-22 13:41:14.480520,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.013300000000000034,0.3571,0.3704
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Real Salt Lake,-0.014099999999999998,0.0244,0.0385
 2025-09-22 23:28:19.563032,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,-0.01429999999999998,0.8948,0.9091
 2025-09-22 17:30:12.036057,World Series Winner - World Series 2025 - Winner - World Series Winner,Philadelphia Phillies,-0.014800000000000008,0.1739,0.1887
-2025-09-22 16:39:31.781389,Player Points - Robert MacIntyre Points - Robert MacIntyre Points,Over 1,-0.014800000000000035,0.6078,0.6226
 2025-09-22 16:39:31.763980,Player Points - Ludvig Aberg Points - Ludvig Aberg Points,Over 1.5,-0.014800000000000035,0.6078,0.6226
+2025-09-22 16:39:31.781389,Player Points - Robert MacIntyre Points - Robert MacIntyre Points,Over 1,-0.014800000000000035,0.6078,0.6226
 2025-09-22 21:28:08.757768,Multiple Chances - Multiple Chances 2025-26 - Multiple Chances,Orlando Magic OR Houston Rockets,-0.015100000000000002,0.1667,0.1818
-2025-09-22 11:28:22.712770,World Politics - Seychelles Presidential Election - Proposition,Dr Patrick Herminie,-0.015100000000000002,0.8182,0.8333
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Jeremy Hunt,-0.015300000000000001,0.0323,0.0476
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Rishi Sunak,-0.015300000000000001,0.0323,0.0476
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Suella Braverman,-0.015300000000000001,0.0323,0.0476
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Victoria Atkins,-0.015300000000000001,0.0323,0.0476
 2025-09-22 17:30:12.063006,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.015699999999999936,0.8667,0.8824
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Anderlecht,-0.015700000000000006,0.1176,0.1333
 2025-09-22 17:30:12.047148,American League Winner - MLB 2025 American League - American League Winner,Seattle Mariners,-0.01579999999999998,0.3175,0.3333
 2025-09-22 16:39:31.759556,Player Points - Justin Thomas Points - Justin Thomas Points,Over 1.5,-0.016100000000000003,0.5917,0.6078
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,San Jose State,-0.016600000000000004,0.0667,0.0833
 2025-09-22 20:33:12.076789,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),-0.016699999999999993,0.25,0.2667
-2025-09-22 11:28:21.772315,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,-0.017600000000000005,0.3333,0.3509
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Navy,-0.0179,0.125,0.1429
-2025-09-22 13:00:11.196269,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,San Diego FC,-0.0179,0.125,0.1429
-2025-09-22 11:28:21.999981,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.0179,0.125,0.1429
-2025-09-22 11:28:21.892127,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Avatar: Fire & Ash,-0.018099999999999998,0.0588,0.0769
 2025-09-22 20:33:11.992363,AFC South - AFC South 2025-26 - AFC South Winner,Jacksonville Jaguars,-0.018799999999999983,0.3448,0.3636
-2025-09-22 11:28:22.702557,UK General Election - Most Seats After Next General Election - Most Seats,Labour,-0.018799999999999983,0.3448,0.3636
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Army,-0.0189,0.0196,0.0385
 2025-09-22 20:33:12.100015,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Christian McCaffrey (SF),-0.018900000000000028,0.4255,0.4444
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Tom Tugendhat,-0.019000000000000003,0.0435,0.0625
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,East Carolina,-0.019099999999999992,0.0476,0.0667
 2025-09-22 20:33:11.370365,Western Conference - Western Conference 2025-26 - Conference Winner,Minnesota Timberwolves,-0.01949999999999999,0.0714,0.0909
 2025-09-22 17:30:12.098765,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.01970000000000005,0.5455,0.5652
 2025-09-22 20:33:11.481798,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Scoot Henderson (POR),-0.019800000000000005,0.0278,0.0476
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,San Diego FC,-0.020100000000000007,0.2299,0.25
-2025-09-22 11:28:21.528480,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Vancouver Whitecaps,-0.020100000000000007,0.2299,0.25
-2025-09-22 11:28:21.892127,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sinners,-0.02020000000000001,0.0909,0.1111
-2025-09-22 13:00:11.208080,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,Minnesota United,-0.02020000000000001,0.0909,0.1111
-2025-09-22 11:28:21.733997,First Division A - Belgium First Division A 2025/26 - Winner,Genk,-0.0203,0.0385,0.0588
 2025-09-22 21:28:08.757768,Multiple Chances - Multiple Chances 2025-26 - Multiple Chances,Philadelphia 76ers OR Houston Rockets,-0.02049999999999999,0.1333,0.1538
 2025-09-22 21:28:08.757768,Multiple Chances - Multiple Chances 2025-26 - Multiple Chances,Boston Celtics OR Houston Rockets,-0.02049999999999999,0.1333,0.1538
 2025-09-22 14:35:59.156026,US Presidential Election 2028 - US Presidential Election 2028 - Odds to Win - Winner,JD Vance,-0.021999999999999964,0.2857,0.3077
 2025-09-22 21:28:08.757768,Multiple Chances - Multiple Chances 2025-26 - Multiple Chances,New York Knicks OR Houston Rockets,-0.022199999999999998,0.2,0.2222
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Middle Tennessee State,-0.023200000000000002,0.0294,0.0526
 2025-09-22 17:30:12.052442,National League Winner - MLB 2025 National League  - National League Winner,Philadelphia Phillies,-0.023400000000000032,0.2941,0.3175
 2025-09-22 18:40:47.999917,Player Points - J J Spaun Points - J J Spaun Points,Under & Exactly 1,-0.023799999999999988,0.4762,0.5
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Boris Johnson,-0.024999999999999994,0.1,0.125
-2025-09-22 13:00:11.208080,MLS - USA MLS - 2025 MLS Season Futures - MLS Western Conference Winner,San Diego FC,-0.026500000000000024,0.3509,0.3774
-2025-09-22 13:41:14.167494,Conferences - Mountain West Conference Championship 2025-26 - Mountain West Conference Championship Game Winner,Air Force,-0.0282,0.0244,0.0526
 2025-09-22 20:33:12.006745,NFC North - NFC North 2025-26 - NFC North Winner,Detroit Lions,-0.029299999999999993,0.2564,0.2857
-2025-09-22 13:00:12.637762,CFL Futures - Grey Cup - Grey Cup Winner 2025,Toronto Argonauts,-0.029299999999999993,0.0476,0.0769
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Priti Patel,-0.030199999999999998,0.0323,0.0625
-2025-09-22 11:28:22.721417,World Politics - Next World Leader To Leave - Next World Leader To Leave,Volodymyr Zelenskyy (Ukraine),-0.030299999999999994,0.3333,0.3636
-2025-09-22 11:28:21.758027,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,-0.030299999999999994,0.3333,0.3636
 2025-09-22 16:39:31.803139,Player Points - Sepp Straka Points - Sepp Straka Points,Over 1,-0.030399999999999983,0.5348,0.5652
 2025-09-22 16:39:31.820345,Player Points - Viktor Hovland Points - Viktor Hovland Points,Over 1.5,-0.03090000000000004,0.5917,0.6226
-2025-09-22 13:41:14.419845,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.031799999999999995,0.4444,0.4762
 2025-09-22 14:35:58.416590,Time Person of the Year - Time Person Of The Year 2025 - Time Person 2025,AI/Artificial Intelligence,-0.03570000000000001,0.25,0.2857
 2025-09-22 20:33:12.021256,NFC West - NFC West 2025-26 - NFC West Winner,San Francisco 49ers,-0.03600000000000003,0.4878,0.5238
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Liberty,-0.03670000000000001,0.1538,0.1905
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Claire Coutinho,-0.0384,0.0385,0.0769
 2025-09-22 20:33:12.100015,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Dak Prescott (DAL),-0.03889999999999999,0.1429,0.1818
-2025-09-22 13:00:12.464165,Conferences - Conference USA Championship 2025-26 - Conference USA Championship Game Winner,Florida International,-0.04120000000000001,0.0588,0.1
 2025-09-22 20:33:11.370365,Western Conference - Western Conference 2025-26 - Conference Winner,Houston Rockets,-0.04169999999999999,0.125,0.1667
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Perth Wildcats,-0.04279999999999995,0.5128,0.5556
 2025-09-22 16:39:31.824664,Player Points - Xander Schauffele Points - Xander Schauffele Points,Over 2,-0.043399999999999994,0.5122,0.5556
 2025-09-22 21:28:08.642098,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.044500000000000095,0.7333,0.7778
-2025-09-22 13:00:12.637762,CFL Futures - Grey Cup - Grey Cup Winner 2025,Calgary Stampeders,-0.044800000000000006,0.1905,0.2353
 2025-09-22 20:33:11.347761,NBA Championship Winner - Championship 2025-26 - Champion,Houston Rockets,-0.048100000000000004,0.0769,0.125
 2025-09-22 16:39:31.807446,Player Points - Shane Lowry Points - Shane Lowry Points,Over 1,-0.04820000000000002,0.5744,0.6226
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,James Cleverly,-0.04999999999999999,0.2,0.25
 2025-09-22 21:28:08.948519,Houston Rockets - Regular Season Wins 2025-26 - Houston Rockets - Regular Season Wins,Over 54.5,-0.05059999999999998,0.5238,0.5744
 2025-09-22 16:39:31.768409,Player Points - Matt Fitzpatrick Points - Matt Fitzpatrick Points,Over 1.5,-0.05689999999999995,0.5348,0.5917
-2025-09-22 13:41:14.458544,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.05740000000000001,0.5652,0.6226
 2025-09-22 20:33:12.473972,Player Points - Matt Fitzpatrick Points - Matt Fitzpatrick Points,Under & Exactly 1.5,-0.05860000000000004,0.4762,0.5348
-2025-09-22 11:28:22.707712,UK Party Leaders - Next Conservative Leader After Kemi Badenoch - Next Conservative Leader,Nigel Farage,-0.06620000000000001,0.0588,0.125
 2025-09-22 18:40:47.581555,Conferences - Sun Belt Conference Championship 2025-26 - Sun Belt Conference Championship Game Winner,South Alabama,-0.0708,0.0625,0.1333
-2025-09-22 13:00:12.456071,Conferences - American Athletic Conference Championship 2025-26 - American Athletic Conference Championship Game Winner,Tulane,-0.08329999999999999,0.25,0.3333
-2025-09-22 11:28:21.892127,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Hamnet,-0.08549999999999996,0.2222,0.3077
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Yulia Navalnaya,-0.10669999999999999,0.16,0.2667
-2025-09-22 11:28:21.524959,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Sam Surridge,-0.1167,0.1333,0.25
-2025-09-22 11:28:21.524959,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,-0.13330000000000009,0.6667,0.8
 2025-09-22 18:40:47.598962,Conferences - MAC Championship 2025-26 - MAC Championship Game Winner,Toledo,-0.14139999999999997,0.2222,0.3636
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Tasmania JackJumpers,-0.392,0.3448,0.7368
 2025-09-22 20:33:11.282188,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Donald Trump,-0.41269999999999996,0.1429,0.5556
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Brisbane Bullets,-0.4749,0.3077,0.7826
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,SE Melbourne Phoenix,-0.48250000000000004,0.3175,0.8
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,Cairns Taipans,-0.5936999999999999,0.2,0.7937
-2025-09-22 11:28:22.279106,NBL - Australia NBL 2025/26 - To Make Top 4,New Zealand Breakers,-0.737,0.1333,0.8703

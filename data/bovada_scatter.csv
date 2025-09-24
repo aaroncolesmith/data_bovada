@@ -14,8 +14,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.03709999999999991,0.6667,0.6296
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.0348,0.3333,0.2985
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.0321,0.0909,0.0588
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.030299999999999994,0.3636,0.3333
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.030299999999999994,0.3636,0.3333
+2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.030299999999999994,0.3636,0.3333
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Forest Green Rovers,0.029299999999999993,0.9524,0.9231
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,New York Yankees,0.02779999999999999,0.25,0.2222
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,York City,0.026499999999999968,0.6491,0.6226
@@ -36,6 +36,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Boston Red Sox,0.011099999999999999,0.1111,0.1
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,AS Nancy-Lorraine,0.010700000000000001,0.0385,0.0278
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Mets,0.010700000000000001,0.0385,0.0278
+2025-09-24 17:31:55.538997,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September","AS Roma, Betis and Celtic Each to Score 1+ Goals",0.010699999999999932,0.5455,0.5348
 2025-09-24 08:40:32.450386,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.010099999999999998,0.6774,0.6875
 2025-09-24 08:40:30.815890,La Liga - Spain La Liga 2025/26 - To Be Relegated,Girona,-0.010099999999999998,0.4444,0.4545
 2025-09-24 08:40:31.034419,First Division A - Belgium First Division A 2025/26 - Winner,Gent,-0.0102,0.0667,0.0769
@@ -43,14 +44,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,-0.010700000000000001,0.0278,0.0385
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.010899999999999993,0.1429,0.1538
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.011099999999999999,0.1,0.1111
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.011199999999999995,0.0476,0.0588
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
+2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
+2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.011199999999999995,0.0476,0.0588
 2025-09-24 11:27:21.202764,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.011299999999999977,0.7561,0.7674
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.011400000000000007,0.1176,0.129
 2025-09-24 08:40:32.445337,National League Winner - MLB 2025 National League  - National League Winner,Cincinnati Reds,-0.014099999999999998,0.0244,0.0385
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Woking,-0.014099999999999998,0.0244,0.0385
 2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Aaron Blair (Eastleigh),-0.014100000000000001,0.0385,0.0526
+2025-09-24 17:31:57.002181,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.01419999999999999,0.3704,0.3846
 2025-09-24 07:31:13.042651,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.015199999999999991,0.7674,0.7826
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Detroit Tigers,-0.01759999999999999,0.1,0.1176
@@ -59,9 +61,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Southend Utd,-0.019000000000000017,0.2667,0.2857
 2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Luke Armstrong (Carlisle),-0.019099999999999992,0.0476,0.0667
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,-0.020100000000000007,0.75,0.7701
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Southend Utd,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.02020000000000001,0.0909,0.1111
+2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.0203,0.0385,0.0588
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,-0.0203,0.0385,0.0588
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.0242,0.0667,0.0909

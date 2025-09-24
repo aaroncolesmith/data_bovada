@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-09-24 02:02:16.978883,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.23299999999999998,0.6875,0.4545
 2025-09-23 20:33:50.893552,Player Points - Rasmus Hojgaard Points - Rasmus Hojgaard Points,Under & Exactly 1,0.07119999999999993,0.6364,0.5652
 2025-09-23 20:33:49.871368,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Reed Sheppard (HOU),0.048799999999999996,0.0667,0.0179
 2025-09-23 18:43:28.194588,Player Points - Justin Rose Points - Justin Rose Points,Over 1,0.026499999999999968,0.5917,0.5652
@@ -7,22 +8,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 14:35:39.534976,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.018900000000000028,0.4444,0.4255
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Jeremiah Smith (OSU),0.018099999999999998,0.0769,0.0588
 2025-09-23 21:29:02.269075,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Luka Doncic (LAL),0.0174,0.25,0.2326
-2025-09-23 14:35:39.521135,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.016699999999999993,0.2667,0.25
 2025-09-23 18:43:28.078138,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,0.016699999999999993,0.4167,0.4
+2025-09-23 14:35:39.521135,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.016699999999999993,0.2667,0.25
 2025-09-23 21:29:02.855143,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,LSU,0.015899999999999997,0.1538,0.1379
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Garrett Nussmeier (LSU),0.015300000000000001,0.0588,0.0435
-2025-09-23 12:58:30.595277,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Mississippi,0.014399999999999996,0.0769,0.0625
 2025-09-23 20:33:50.519976,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dante Moore (ORE),0.013999999999999999,0.0909,0.0769
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Fernando Mendoza (IND),0.013899999999999996,0.125,0.1111
 2025-09-23 21:29:02.305901,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Matas Buzelis (CHI),0.012600000000000007,0.0714,0.0588
 2025-09-23 19:27:14.793756,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Bilal Fawaz,0.011099999999999999,0.2778,0.2667
 2025-09-23 19:27:14.793756,Boxing Lines - Junaid Bostan vs Bilal Fawaz - To Win the Bout,Junaid Bostan,-0.010500000000000065,0.7895,0.8
-2025-09-23 13:40:53.707170,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.010699999999999932,0.5348,0.5455
-2025-09-23 13:40:53.707170,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),-0.010699999999999932,0.5348,0.5455
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Dylan Raiola (NEB),-0.012100000000000001,0.0123,0.0244
 2025-09-23 14:35:39.530403,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.012199999999999989,0.5,0.5122
 2025-09-23 19:27:14.772254,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,-0.012700000000000045,0.6364,0.6491
 2025-09-23 21:29:02.855143,Conferences - SEC Conference Championship 2025-26 - SEC Championship Game Winner,Texas,-0.0131,0.2222,0.2353
+2025-09-24 02:02:16.580146,Los Angeles Lakers - LeBron James (LAL) - Regular Season Specials 2025-26 - LeBron James (LAL) - Specials,LeBron James To Score 10+ Points in Each Regular Season Game Played,-0.013799999999999923,0.6226,0.6364
 2025-09-23 14:35:39.534976,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Behren Morton (TTU),-0.014400000000000003,0.0179,0.0323
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,DJ Lagway (FLA),-0.014599999999999998,0.005,0.0196
@@ -35,3 +34,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-23 14:35:39.583398,Main Markets - Ryder Cup 2025 - Winner,Europe,-0.029600000000000015,0.3704,0.4
 2025-09-23 21:29:02.912761,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,Devon Dampier (UTH),-0.0347,0.0179,0.0526
 2025-09-23 20:33:50.893552,Player Points - Rasmus Hojgaard Points - Rasmus Hojgaard Points,Over 1,-0.07450000000000001,0.4255,0.5
+2025-09-24 02:02:16.978883,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.24499999999999994,0.3704,0.6154

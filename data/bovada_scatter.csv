@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.040999999999999925,0.7333,0.6923
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,York City,0.03849999999999998,0.9333,0.8948
 2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.03709999999999991,0.6667,0.6296
+2025-09-24 18:39:08.093062,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September",21+ Total Goals Scored,0.03480000000000005,0.5348,0.5
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.0348,0.3333,0.2985
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.0321,0.0909,0.0588
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.030299999999999994,0.3636,0.3333
@@ -31,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Seattle Mariners,0.016400000000000026,0.339,0.3226
 2025-09-24 08:40:32.445337,National League Winner - MLB 2025 National League  - National League Winner,New York Mets,0.01580000000000001,0.0714,0.0556
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Rochdale,0.015699999999999936,0.8824,0.8667
+2025-09-24 18:39:09.562337,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.014900000000000024,0.3226,0.3077
 2025-09-24 08:40:32.450386,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.01419999999999999,0.3846,0.3704
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Reims,0.012899999999999995,0.1667,0.1538
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Boston Red Sox,0.011099999999999999,0.1111,0.1
@@ -44,9 +46,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,-0.010700000000000001,0.0278,0.0385
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.010899999999999993,0.1429,0.1538
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.011099999999999999,0.1,0.1111
-2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
 2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
 2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.011199999999999995,0.0476,0.0588
+2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
 2025-09-24 11:27:21.202764,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.011299999999999977,0.7561,0.7674
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.011400000000000007,0.1176,0.129
 2025-09-24 08:40:32.445337,National League Winner - MLB 2025 National League  - National League Winner,Cincinnati Reds,-0.014099999999999998,0.0244,0.0385
@@ -54,6 +56,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Aaron Blair (Eastleigh),-0.014100000000000001,0.0385,0.0526
 2025-09-24 17:31:57.002181,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.01419999999999999,0.3704,0.3846
 2025-09-24 07:31:13.042651,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.015199999999999991,0.7674,0.7826
+2025-09-24 18:39:09.562337,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,-0.015800000000000036,0.7403,0.7561
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Detroit Tigers,-0.01759999999999999,0.1,0.1176
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.018200000000000004,0.0294,0.0476
@@ -64,8 +67,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Southend Utd,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.02020000000000001,0.0909,0.1111
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.0203,0.0385,0.0588
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,-0.0203,0.0385,0.0588
+2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.0203,0.0385,0.0588
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.0242,0.0667,0.0909
 2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),-0.025499999999999967,0.4,0.4255
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,-0.026500000000000024,0.3509,0.3774
@@ -75,8 +78,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.03260000000000007,0.7674,0.8
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.03330000000000001,0.0667,0.1
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.034100000000000005,0.0909,0.125
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.03420000000000001,0.0769,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.03420000000000001,0.0769,0.1111
+2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.03420000000000001,0.0769,0.1111
 2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.034499999999999975,0.3226,0.3571
 2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,-0.0348,0.4,0.4348
 2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Carlisle United,-0.03640000000000004,0.3636,0.4

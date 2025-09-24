@@ -16,8 +16,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,York City,0.03849999999999998,0.9333,0.8948
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.0348,0.3333,0.2985
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.0321,0.0909,0.0588
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.030299999999999994,0.3636,0.3333
 2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.030299999999999994,0.3636,0.3333
+2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.030299999999999994,0.3636,0.3333
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Forest Green Rovers,0.029299999999999993,0.9524,0.9231
 2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,New York Yankees,0.02779999999999999,0.25,0.2222
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,York City,0.026499999999999968,0.6491,0.6226
@@ -50,9 +50,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,-0.010700000000000001,0.0278,0.0385
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.010899999999999993,0.1429,0.1538
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.011099999999999999,0.1,0.1111
+2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
 2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.011199999999999995,0.0476,0.0588
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Detroit Tigers,-0.011199999999999995,0.0476,0.0588
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
+2025-09-24 11:27:21.202764,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.011299999999999977,0.7561,0.7674
 2025-09-24 07:31:13.017244,World Series Winner - World Series 2025 - Winner - World Series Winner,Milwaukee Brewers,-0.011400000000000007,0.1176,0.129
 2025-09-24 02:02:16.580146,Los Angeles Lakers - LeBron James (LAL) - Regular Season Specials 2025-26 - LeBron James (LAL) - Specials,LeBron James To Score 10+ Points in Each Regular Season Game Played,-0.013799999999999923,0.6226,0.6364
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Woking,-0.014099999999999998,0.0244,0.0385
@@ -69,8 +70,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Southend Utd,-0.02020000000000001,0.0909,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.02020000000000001,0.0909,0.1111
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,-0.0203,0.0385,0.0588
 2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.0203,0.0385,0.0588
+2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,-0.0203,0.0385,0.0588
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.0242,0.0667,0.0909
 2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),-0.025499999999999967,0.4,0.4255
 2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,-0.026500000000000024,0.3509,0.3774
@@ -81,8 +82,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.03260000000000007,0.7674,0.8
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.03330000000000001,0.0667,0.1
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.034100000000000005,0.0909,0.125
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.03420000000000001,0.0769,0.1111
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.03420000000000001,0.0769,0.1111
+2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.03420000000000001,0.0769,0.1111
 2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.034499999999999975,0.3226,0.3571
 2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Carlisle United,-0.03640000000000004,0.3636,0.4
 2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Altrincham,-0.04040000000000002,0.1818,0.2222

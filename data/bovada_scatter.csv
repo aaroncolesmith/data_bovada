@@ -1,91 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Forest Green Rovers,0.09230000000000005,0.6923,0.6
 2025-09-24 16:39:58.444493,Daily Soccer Specials - La Liga Daily Specials - La Liga Daily Specials,4+ Total Saves in Each Game,0.08779999999999999,0.6,0.5122
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Hartlepool United,0.0842,0.3509,0.2667
-2025-09-24 08:40:32.460567,NL West - NL West 2025 - NL West Winner,San Diego Padres,0.0708,0.1333,0.0625
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Boreham Wood,0.067,0.4444,0.3774
 2025-09-24 20:33:09.253030,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.06359999999999999,0.8039,0.7403
 2025-09-24 16:39:58.444493,Daily Soccer Specials - La Liga Daily Specials - La Liga Daily Specials,5+ Total Saves in Each Game,0.05790000000000001,0.3704,0.3125
-2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Ollie Pearce (York),0.055800000000000016,0.2857,0.2299
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Troyes,0.05550000000000002,0.2222,0.1667
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Forest Green Rovers,0.04760000000000003,0.5238,0.4762
-2025-09-24 08:40:30.819170,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.045499999999999985,0.5,0.4545
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Kylian Mbappe (Real Madrid),0.040999999999999925,0.7333,0.6923
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,York City,0.03849999999999998,0.9333,0.8948
+2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,0.03760000000000008,0.8667,0.8291
 2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.03709999999999991,0.6667,0.6296
 2025-09-24 18:39:08.093062,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September",21+ Total Goals Scored,0.03480000000000005,0.5348,0.5
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Tamworth FC,0.0348,0.3333,0.2985
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Morecambe,0.0321,0.0909,0.0588
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Saint-Étienne,0.030299999999999994,0.3636,0.3333
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Rochdale,0.030299999999999994,0.3636,0.3333
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Forest Green Rovers,0.029299999999999993,0.9524,0.9231
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,New York Yankees,0.02779999999999999,0.25,0.2222
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,York City,0.026499999999999968,0.6491,0.6226
-2025-09-24 08:40:30.808908,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Atlético Madrid,0.025499999999999967,0.4255,0.4
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Forest Green Rovers,0.021999999999999964,0.3077,0.2857
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,York City,0.021699999999999997,0.4762,0.4545
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,York City,0.019000000000000017,0.2857,0.2667
-2025-09-24 08:40:30.815890,La Liga - Spain La Liga 2025/26 - To Be Relegated,Levante,0.018900000000000028,0.4444,0.4255
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Guingamp,0.018099999999999998,0.0769,0.0588
-2025-09-24 08:40:30.808908,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Villarreal,0.016699999999999993,0.2667,0.25
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Scunthorpe United,0.016699999999999937,0.6,0.5833
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Seattle Mariners,0.016400000000000026,0.339,0.3226
+2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.02250000000000002,0.2857,0.2632
 2025-09-24 20:33:09.249105,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,0.015899999999999997,0.2381,0.2222
-2025-09-24 08:40:32.445337,National League Winner - MLB 2025 National League  - National League Winner,New York Mets,0.01580000000000001,0.0714,0.0556
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Rochdale,0.015699999999999936,0.8824,0.8667
 2025-09-24 18:39:09.562337,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.014900000000000024,0.3226,0.3077
-2025-09-24 08:40:32.450386,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.01419999999999999,0.3846,0.3704
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Reims,0.012899999999999995,0.1667,0.1538
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Boston Red Sox,0.011099999999999999,0.1111,0.1
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,AS Nancy-Lorraine,0.010700000000000001,0.0385,0.0278
 2025-09-24 17:31:55.538997,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September","AS Roma, Betis and Celtic Each to Score 1+ Goals",0.010699999999999932,0.5455,0.5348
-2025-09-24 08:40:30.815890,La Liga - Spain La Liga 2025/26 - To Be Relegated,Girona,-0.010099999999999998,0.4444,0.4545
-2025-09-24 08:40:32.450386,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.010099999999999998,0.6774,0.6875
-2025-09-24 08:40:31.034419,First Division A - Belgium First Division A 2025/26 - Winner,Gent,-0.0102,0.0667,0.0769
-2025-09-24 08:40:32.455400,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.010400000000000076,0.7674,0.7778
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Brackley Town,-0.010899999999999993,0.1429,0.1538
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Braintree Town,-0.011099999999999999,0.1,0.1111
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Scunthorpe United,-0.011199999999999995,0.0476,0.0588
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),-0.011199999999999995,0.0476,0.0588
 2025-09-24 11:27:21.202764,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.011299999999999977,0.7561,0.7674
 2025-09-24 20:33:09.245118,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,-0.011499999999999955,0.6552,0.6667
-2025-09-24 08:40:32.445337,National League Winner - MLB 2025 National League  - National League Winner,Cincinnati Reds,-0.014099999999999998,0.0244,0.0385
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Woking,-0.014099999999999998,0.0244,0.0385
-2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Aaron Blair (Eastleigh),-0.014100000000000001,0.0385,0.0526
 2025-09-24 17:31:57.002181,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.01419999999999999,0.3704,0.3846
 2025-09-24 18:39:09.562337,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,-0.015800000000000036,0.7403,0.7561
 2025-09-24 20:33:09.249105,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,-0.017100000000000004,0.8291,0.8462
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.0174,0.2326,0.25
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Detroit Tigers,-0.01759999999999999,0.1,0.1176
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Altrincham,-0.018200000000000004,0.0294,0.0476
-2025-09-24 08:40:30.819170,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Athletic Bilbao,-0.018900000000000028,0.4255,0.4444
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Southend Utd,-0.019000000000000017,0.2667,0.2857
-2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Luke Armstrong (Carlisle),-0.019099999999999992,0.0476,0.0667
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Southend Utd,-0.020100000000000007,0.75,0.7701
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Southend Utd,-0.02020000000000001,0.0909,0.1111
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Wealdstone,-0.02020000000000001,0.0909,0.1111
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Solihull Moors,-0.02020000000000001,0.0909,0.1111
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.0203,0.0385,0.0588
-2025-09-24 08:40:31.044063,Ligue 2 - France Ligue 2 2025/26 - Winner,Montpellier,-0.0203,0.0385,0.0588
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Tamworth FC,-0.0242,0.0667,0.0909
-2025-09-24 08:40:31.159923,National League - England National League 2025/26 - Top Goalscorer,Regan Linney (Carlisle),-0.025499999999999967,0.4,0.4255
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Southend Utd,-0.026500000000000024,0.3509,0.3774
-2025-09-24 08:40:32.440284,American League Winner - MLB 2025 American League - American League Winner,Houston Astros,-0.027700000000000002,0.0556,0.0833
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Boston United,-0.029299999999999993,0.0476,0.0769
-2025-09-24 08:40:30.808908,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,-0.029899999999999982,0.2,0.2299
-2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.03260000000000007,0.7674,0.8
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Yeovil Town,-0.03330000000000001,0.0667,0.1
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Eastleigh,-0.034100000000000005,0.0909,0.125
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Aldershot Town,-0.03420000000000001,0.0769,0.1111
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Gateshead,-0.03420000000000001,0.0769,0.1111
-2025-09-24 08:40:32.482173,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),-0.034499999999999975,0.3226,0.3571
+2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,-0.0260999999999999,0.7778,0.8039
 2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,-0.0348,0.4,0.4348
-2025-09-24 08:40:31.163409,National League - England National League 2025/26 - To Be Promoted,Carlisle United,-0.03640000000000004,0.3636,0.4
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Altrincham,-0.04040000000000002,0.1818,0.2222
-2025-09-24 08:40:31.169738,National League - England National League 2025/26 - Top 7 Finish,Sutton United,-0.04120000000000001,0.0588,0.1
-2025-09-24 08:40:31.166573,National League - England National League 2025/26 - Top 3 Finish,Carlisle United,-0.04760000000000003,0.4762,0.5238
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Raphinha (Barcelona),-0.052000000000000005,0.0909,0.1429
-2025-09-24 08:40:32.460567,NL West - NL West 2025 - NL West Winner,Los Angeles Dodgers,-0.055499999999999994,0.9375,0.993
+2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.038099999999999995,0.2,0.2381
 2025-09-24 20:33:09.253030,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,-0.05940000000000001,0.2632,0.3226
-2025-09-24 08:40:31.156728,National League - England National League 2025/26 - Winner,Carlisle United,-0.06840000000000002,0.1538,0.2222
-2025-09-24 08:40:30.812352,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Robert Lewandowski (Barcelona),-0.07779999999999998,0.2299,0.3077

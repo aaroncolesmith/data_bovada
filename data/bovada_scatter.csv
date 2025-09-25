@@ -3,8 +3,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 03:11:14.820846,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.1875,0.875,0.6875
 2025-09-25 06:45:29.141509,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),0.14259999999999995,0.6774,0.5348
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Los Angeles Lakers,0.131,0.7674,0.6364
-2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Los Angeles Lakers,0.11219999999999997,0.5122,0.4
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Toronto Raptors,0.11219999999999997,0.5122,0.4
+2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Los Angeles Lakers,0.11219999999999997,0.5122,0.4
 2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Toronto Raptors,0.10070000000000001,0.7674,0.6667
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Dallas Mavericks,0.0948,0.6296,0.5348
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Los Angeles Lakers,0.08970000000000003,0.2564,0.1667
@@ -37,7 +37,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,New Yorks Knicks,0.039600000000000024,0.4651,0.4255
 2025-09-25 07:31:27.214410,To Win X+ Games - To Win X+ Games 2025-26 - To Win 65+ Regular Season Games,New York Knicks,0.0384,0.0769,0.0385
 2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Denver Nuggets,0.038099999999999995,0.2381,0.2
-2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,0.03760000000000008,0.8667,0.8291
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Sacramento Kings,0.037599999999999995,0.1429,0.1053
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Minnesota Timberwolves,0.03689999999999999,0.3226,0.2857
 2025-09-25 02:11:36.231018,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Under 47.5,0.03600000000000003,0.5238,0.4878
@@ -48,9 +47,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 06:45:29.147751,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.034499999999999975,0.3571,0.3226
 2025-09-25 05:33:32.449691,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Draymond Green (GSW),0.0344,0.0588,0.0244
 2025-09-25 02:11:35.986695,Southeast Division - Southeast Division 2025-26 - Division Winner,Atlanta Hawks,0.03370000000000001,0.3846,0.3509
-2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Atlanta Hawks,0.0334,0.0769,0.0435
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jordan Clarkson (NYK),0.0334,0.0769,0.0435
+2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Atlanta Hawks,0.0334,0.0769,0.0435
 2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Shai Gilgeous-Alexander (OKC),0.033300000000000024,0.2,0.1667
+2025-09-25 09:33:15.209988,Coppa Italia - Coppa Italia 2025/26 - Winner,Juventus,0.031799999999999995,0.1429,0.1111
 2025-09-25 02:11:36.200637,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Over 32.5,0.03179999999999994,0.5556,0.5238
 2025-09-25 02:11:35.965505,Atlantic Division - Atlantic Division 2025-26 - Division Winner,New York Knicks,0.031400000000000095,0.7647,0.7333
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Payton Pritchard (BOS),0.0312,0.0435,0.0123
@@ -64,9 +64,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Phoenix Suns,0.028600000000000014,0.3922,0.3636
 2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Mike Brown,0.028399999999999995,0.0909,0.0625
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Memphis Grizzlies,0.028199999999999996,0.0667,0.0385
-2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.027999999999999997,0.1818,0.1538
 2025-09-25 02:11:36.014492,Groups - Western Groups 2025-26 - West Group C Winner,San Antonio Spurs,0.027999999999999997,0.1818,0.1538
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Orlando Magic,0.027999999999999997,0.1818,0.1538
+2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.027999999999999997,0.1818,0.1538
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Detroit Pistons,0.027700000000000002,0.0833,0.0556
 2025-09-25 07:31:27.214410,To Win X+ Games - To Win X+ Games 2025-26 - To Win 65+ Regular Season Games,Denver Nuggets,0.027700000000000002,0.0833,0.0556
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Phoenix Suns,0.027600000000000013,0.2381,0.2105
@@ -79,13 +79,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Chicago Bulls,0.026100000000000012,0.2,0.1739
 2025-09-25 07:31:26.770958,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Shai Gilgeous-Alexander (OKC),0.026000000000000023,0.2857,0.2597
 2025-09-25 02:11:36.454314,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.025300000000000003,0.1429,0.1176
-2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Golden State Warriors,0.024,0.0625,0.0385
 2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Joe Mazzulla,0.024,0.0625,0.0385
+2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Golden State Warriors,0.024,0.0625,0.0385
 2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Kenny Atkinson,0.0233,0.0385,0.0152
-2025-09-25 02:11:36.397455,To Make the Playoffs - To Make the Playoffs 2025-26 - Toronto Raptors - To Make the Playoffs,Yes,0.022699999999999998,0.4878,0.4651
 2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Over 48.5,0.022699999999999998,0.4878,0.4651
+2025-09-25 02:11:36.397455,To Make the Playoffs - To Make the Playoffs 2025-26 - Toronto Raptors - To Make the Playoffs,Yes,0.022699999999999998,0.4878,0.4651
 2025-09-25 06:45:29.123665,AL East - AL East 2025 - AL East Winner,New York Yankees,0.022600000000000064,0.5348,0.5122
-2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.02250000000000002,0.2857,0.2632
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Aston Villa,0.022199999999999998,0.1333,0.1111
 2025-09-25 02:11:35.970295,Central Division - Central Division 2025-26 - Division Winner,Cleveland Cavaliers,0.022199999999999998,0.8,0.7778
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Boston Celtics,0.021699999999999997,0.4762,0.4545
@@ -109,21 +108,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.214410,To Win X+ Games - To Win X+ Games 2025-26 - To Win 65+ Regular Season Games,Orlando Magic,0.0168,0.0385,0.0217
 2025-09-25 05:33:32.444304,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Jalen Brunson (NYK),0.016700000000000007,0.1,0.0833
 2025-09-25 02:11:36.000927,Groups - Eastern Groups 2025-26 - East Group B Winner,Philadelphia 76ers,0.016699999999999993,0.2667,0.25
-2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat New York Knicks,0.016600000000000004,0.0833,0.0667
 2025-09-25 06:45:27.957512,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Cade Cunningham (DET),0.016600000000000004,0.0833,0.0667
+2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat New York Knicks,0.016600000000000004,0.0833,0.0667
 2025-09-25 02:11:36.336685,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,No,0.01579999999999998,0.3333,0.3175
 2025-09-25 06:45:27.939383,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.01579999999999998,0.3333,0.3175
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jabari Smith Jr. (HOU),0.0157,0.0435,0.0278
-2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Memphis Grizzlies,0.015100000000000002,0.8333,0.8182
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Orlando Magic,0.015100000000000002,0.8333,0.8182
+2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Memphis Grizzlies,0.015100000000000002,0.8333,0.8182
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Golden State Warriors,0.014800000000000008,0.1481,0.1333
 2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,New York Knicks,0.014600000000000057,0.7368,0.7222
 2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,JB Bickerstaff,0.014399999999999996,0.0769,0.0625
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Oklahoma City Thunder,0.014399999999999968,0.9375,0.9231
+2025-09-25 09:33:15.209988,Coppa Italia - Coppa Italia 2025/26 - Winner,Como,0.014099999999999998,0.0435,0.0294
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Chicago Bulls,0.013999999999999999,0.0909,0.0769
-2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Bologna,0.013999999999999999,0.0909,0.0769
+2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2025-09-25 02:11:35.997737,Groups - Eastern Groups 2025-26 - East Group A Winner,Toronto Raptors,0.013899999999999996,0.125,0.1111
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Amen Thompson (HOU),0.013899999999999996,0.125,0.1111
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,San Antonio Spurs,0.013899999999999996,0.125,0.1111
@@ -136,18 +136,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:26.787825,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Nikola Jokic (DEN),0.012899999999999995,0.1667,0.1538
 2025-09-25 02:11:35.970295,Central Division - Central Division 2025-26 - Division Winner,Detroit Pistons,0.012899999999999995,0.1667,0.1538
 2025-09-25 06:45:27.957512,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Joel Embiid (PHI),0.012499999999999997,0.0625,0.05
-2025-09-25 07:31:27.218007,To Win X+ Games - To Win X+ Games 2025-26 - To Win 70+ Regular Season Games,Oklahoma City Thunder,0.012299999999999991,0.1176,0.1053
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Newcastle United,0.012299999999999991,0.1176,0.1053
+2025-09-25 07:31:27.218007,To Win X+ Games - To Win X+ Games 2025-26 - To Win 70+ Regular Season Games,Oklahoma City Thunder,0.012299999999999991,0.1176,0.1053
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Toronto Raptors,0.012199999999999989,0.5122,0.5
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jared McCain (PHI),0.0121,0.0556,0.0435
 2025-09-25 06:45:27.957512,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Trae Young (ATL),0.011899999999999994,0.0833,0.0714
 2025-09-25 02:11:36.319783,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bulls - To Make the Playoffs,Yes,0.011700000000000016,0.2222,0.2105
 2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Minnesota Timberwolves,0.011600000000000055,0.5238,0.5122
 2025-09-25 06:45:27.957512,Eastern Conference Finals MVP - Eastern Conference Finals MVP 2025-2026 - ECF MVP ,Evan Mobley (CLE),0.011199999999999995,0.0588,0.0476
-2025-09-25 07:31:26.770958,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Luka Doncic (LAL),0.011199999999999995,0.0588,0.0476
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,FC Basel,0.011199999999999995,0.0435,0.0323
-2025-09-25 06:45:29.129474,Winning League - World Series 2025 - Winning League - Winning League,American League,0.011099999999999999,0.4762,0.4651
+2025-09-25 07:31:26.770958,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Luka Doncic (LAL),0.011199999999999995,0.0588,0.0476
 2025-09-25 07:31:27.184656,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Chicago Bulls,0.011099999999999999,0.9,0.8889
+2025-09-25 06:45:29.129474,Winning League - World Series 2025 - Winning League - Winning League,American League,0.011099999999999999,0.4762,0.4651
 2025-09-25 02:11:36.210612,Utah Jazz - Regular Season Wins 2025-26 - Utah Jazz - Regular Season Wins,Over 18.5,0.01100000000000001,0.5348,0.5238
 2025-09-25 02:11:36.449448,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.01100000000000001,0.5348,0.5238
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Detroit Pistons,0.01090000000000002,0.8571,0.8462
@@ -157,20 +157,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 02:11:36.306255,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Hawks - To Make the Playoffs,No,0.010499999999999982,0.2105,0.2
 2025-09-25 02:11:36.000927,Groups - Eastern Groups 2025-26 - East Group B Winner,Boston Celtics,0.010499999999999982,0.2105,0.2
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Boston Celtics,0.0102,0.0769,0.0667
-2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Evan Mobley (CLE),0.010100000000000001,0.0345,0.0244
-2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,James Harden (LAC),0.010100000000000001,0.0217,0.0116
 2025-09-25 07:31:27.210602,To Win X+ Games - To Win X+ Games 2025-26 - To Win 60+ Regular Season Games,Philadelphia 76ers,0.010100000000000001,0.0345,0.0244
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,James Harden (LAC),0.010100000000000001,0.0217,0.0116
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Evan Mobley (CLE),0.010100000000000001,0.0345,0.0244
+2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),0.010099999999999998,0.1212,0.1111
 2025-09-25 07:31:27.188422,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Chicago Bulls,0.010099999999999998,0.6875,0.6774
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,L.A. Clippers,0.010099999999999998,0.3226,0.3125
-2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),0.010099999999999998,0.1212,0.1111
 2025-09-25 02:11:36.175569,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Over 40.5,0.010099999999999998,0.5556,0.5455
 2025-09-25 06:45:29.105655,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.010399999999999993,0.2222,0.2326
 2025-09-25 06:45:27.939383,Regular Season MVP - Regular Season MVP 2025-26 - Regular Season MVP,Nikola Jokic (DEN),-0.010599999999999998,0.2597,0.2703
 2025-09-25 02:11:36.210612,Utah Jazz - Regular Season Wins 2025-26 - Utah Jazz - Regular Season Wins,Under 18.5,-0.010699999999999932,0.5348,0.5455
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Portland Trail Blazers,-0.010699999999999987,0.3226,0.3333
 2025-09-25 02:11:36.319783,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bulls - To Make the Playoffs,No,-0.01090000000000002,0.8462,0.8571
-2025-09-25 02:11:35.986695,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,-0.011099999999999999,0.1,0.1111
 2025-09-25 07:31:27.180941,To Win X+ Games - To Win X+ Games 2025-26 - To Win 20+ Regular Season Games,Utah Jazz,-0.011099999999999999,0.4651,0.4762
+2025-09-25 02:11:35.986695,Southeast Division - Southeast Division 2025-26 - Division Winner,Miami Heat,-0.011099999999999999,0.1,0.1111
 2025-09-25 06:45:29.093694,World Series Winner - World Series 2025 - Winner - World Series Winner,Houston Astros,-0.011399999999999997,0.0164,0.0278
 2025-09-25 02:11:36.175569,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Under 40.5,-0.011600000000000055,0.5122,0.5238
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.0714,0.0833
@@ -178,16 +178,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Donovan Mitchell (CLE),-0.012300000000000005,0.093,0.1053
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Bradley Beal (LAC),-0.012600000000000007,0.0588,0.0714
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,Los Angeles Lakers,-0.012699999999999989,0.3509,0.3636
-2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jalen Green (PHX),-0.012700000000000003,0.0196,0.0323
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jared McCain (PHI),-0.012700000000000003,0.0196,0.0323
+2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jalen Green (PHX),-0.012700000000000003,0.0196,0.0323
 2025-09-25 02:11:35.936446,Western Conference - Western Conference 2025-26 - Conference Winner,Denver Nuggets,-0.012899999999999995,0.1538,0.1667
 2025-09-25 05:33:32.444304,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.0131,0.0345,0.0476
 2025-09-25 02:11:36.336685,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,Yes,-0.013500000000000068,0.7333,0.7468
 2025-09-25 02:11:37.042319,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,-0.013799999999999923,0.6226,0.6364
 2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Boston Celtics,-0.013899999999999996,0.16,0.1739
 2025-09-25 07:31:27.188422,To Win X+ Games - To Win X+ Games 2025-26 - To Win 30+ Regular Season Games ,Miami Heat,-0.014000000000000012,0.9091,0.9231
-2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Feyenoord,-0.014099999999999998,0.0294,0.0435
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jaylen Wells (MEM),-0.014099999999999998,0.0244,0.0385
+2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Feyenoord,-0.014099999999999998,0.0294,0.0435
 2025-09-25 08:39:41.609174,Serie A - Serie A 2025/26 - Winner,Napoli,-0.014100000000000001,0.0385,0.0526
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Los Angeles Clippers,-0.014399999999999996,0.1961,0.2105
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Tottenham Hotspur,-0.01440000000000001,0.0909,0.1053
@@ -198,10 +198,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Portalnd Trail Blazers,-0.015700000000000006,0.1176,0.1333
 2025-09-25 07:31:26.770958,Finals MVP - NBA Finals MVP 2025-26 - Finals MVP,Kevin Durant (HOU),-0.01580000000000001,0.0556,0.0714
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Anfernee Simons (BOS),-0.016600000000000004,0.0667,0.0833
-2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Washington Wizards,-0.016699999999999993,0.05,0.0667
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,L.A. Clippers,-0.016699999999999993,0.4,0.4167
-2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
+2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Washington Wizards,-0.016699999999999993,0.05,0.0667
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Andrew Nembhard (IND),-0.016700000000000007,0.0833,0.1
+2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
 2025-09-25 07:31:26.787825,Western Conference Finals MVP - Western Conference Finals MVP 2025-2026 - WCF MVP,Kevin Durant (HOU),-0.016700000000000007,0.0833,0.1
 2025-09-25 06:45:29.105655,American League Winner - MLB 2025 American League - American League Winner,Houston Astros,-0.017099999999999997,0.0385,0.0556
 2025-09-25 02:11:36.360290,To Make the Playoffs - To Make the Playoffs 2025-26 - Milwaukee Bucks - To Make the Playoffs,Yes,-0.017300000000000093,0.697,0.7143
@@ -209,8 +209,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Atlanta Hawks,-0.01760000000000006,0.8824,0.9
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Crvena Zvezda,-0.017800000000000003,0.0066,0.0244
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Chicago Bulls,-0.01809999999999995,0.339,0.3571
-2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Indiana Pacers,-0.018100000000000005,0.2041,0.2222
 2025-09-25 02:11:35.979781,Pacific Division - Pacific Division 2025-26 - Division Winner,L.A. Clippers,-0.018100000000000005,0.4167,0.4348
+2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Indiana Pacers,-0.018100000000000005,0.2041,0.2222
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Phoenix Suns,-0.01830000000000001,0.0769,0.0952
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Golden State Warriors,-0.01859999999999995,0.8333,0.8519
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Philadephia 76ers,-0.018900000000000028,0.4255,0.4444
@@ -221,8 +221,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 05:33:32.449691,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Evan Mobley (CLE),-0.0213,0.0556,0.0769
 2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,Portland Trail Blazers,-0.02169999999999994,0.5238,0.5455
 2025-09-25 08:39:41.609174,Serie A - Serie A 2025/26 - Winner,Virtus Bologna,-0.021999999999999964,0.2857,0.3077
-2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Max Christie (DAL),-0.022099999999999998,0.0164,0.0385
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Oklahoma City Thunder,-0.022099999999999998,0.0164,0.0385
+2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Max Christie (DAL),-0.022099999999999998,0.0164,0.0385
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Miami Heat,-0.022600000000000064,0.5122,0.5348
 2025-09-25 02:11:36.387361,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,No,-0.02310000000000001,0.8519,0.875
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jalen Johnson (ATL),-0.023200000000000002,0.0244,0.0476
@@ -231,16 +231,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Orlando Magic,-0.023799999999999988,0.1429,0.1667
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Matas Buzelis (CHI),-0.0238,0.0476,0.0714
 2025-09-25 02:11:35.975096,Northwest Division - Northwest Division 2025-26 - Division Winner,Oklahoma City Thunder,-0.023800000000000043,0.8095,0.8333
-2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Bennedict Mathurin (IND),-0.024299999999999995,0.0526,0.0769
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Celtic,-0.024299999999999995,0.0345,0.0588
+2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Bennedict Mathurin (IND),-0.024299999999999995,0.0526,0.0769
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,-0.0245,0.0588,0.0833
 2025-09-25 08:39:41.609174,Serie A - Serie A 2025/26 - Winner,Trapani,-0.024999999999999994,0.1,0.125
 2025-09-25 07:31:27.203282,To Win X+ Games - To Win X+ Games 2025-26 - To Win 50+ Regular Season Games,Cleveland Cavaliers,-0.025000000000000022,0.875,0.9
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Sacramento Kings,-0.025300000000000003,0.1176,0.1429
-2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Under 48.5,-0.025599999999999956,0.5744,0.6
 2025-09-25 02:11:36.397455,To Make the Playoffs - To Make the Playoffs 2025-26 - Toronto Raptors - To Make the Playoffs,No,-0.025599999999999956,0.5744,0.6
+2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Under 48.5,-0.025599999999999956,0.5744,0.6
 2025-09-25 07:31:27.192113,To Win X+ Games - To Win X+ Games 2025-26 - To Win 35+ Regular Season Games,New Orleans Pelicans,-0.02560000000000001,0.3077,0.3333
-2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,-0.0260999999999999,0.7778,0.8039
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Oklahoma City Thunder,-0.026499999999999968,0.6226,0.6491
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Indiana Pacers,-0.027700000000000002,0.4167,0.4444
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Milwaukee Bucks,-0.027800000000000005,0.0833,0.1111
@@ -252,9 +251,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 02:11:36.260990,Washington Wizards - Regular Season Wins 2025-26 - Washington Wizards - Regular Season Wins,Under 21.5,-0.03049999999999997,0.5348,0.5653
 2025-09-25 07:31:27.184656,To Win X+ Games - To Win X+ Games 2025-26 - To Win 25+ Regular Season Games,Utah Jazz,-0.031200000000000006,0.2041,0.2353
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Atlanta Hawks,-0.032299999999999995,0.3125,0.3448
+2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Los Angeles Clippers,-0.033299999999999996,0.8667,0.9
 2025-09-25 02:11:36.200637,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Under 32.5,-0.033299999999999996,0.5122,0.5455
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Golden State Warriors,-0.033299999999999996,0.4545,0.4878
-2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Los Angeles Clippers,-0.033299999999999996,0.8667,0.9
 2025-09-25 02:11:36.139936,Winning Division - Winning Division 2025-26 - Winning Division ,Southwest,-0.033399999999999985,0.1333,0.1667
 2025-09-25 06:45:27.981228,Most Improved Player of the Year - Most Improved Player of the Year 2025-26 - MIP,Jonathan Kuminga (GSW),-0.0347,0.0278,0.0625
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Memphis Grizzlies,-0.03480000000000005,0.5,0.5348
@@ -263,7 +262,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.199568,To Win X+ Games - To Win X+ Games 2025-26 - To Win 45+ Regular Season Games,Boston Celtics,-0.03640000000000004,0.3636,0.4
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Portland Trail Blazers,-0.03739999999999999,0.2703,0.3077
 2025-09-25 06:45:29.147751,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.03749999999999998,0.7299,0.7674
-2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.038099999999999995,0.2,0.2381
 2025-09-25 07:31:27.206957,To Win X+ Games - To Win X+ Games 2025-26 - To Win 55+ Regular Season Games,Cleveland Cavaliers,-0.03959999999999997,0.6429,0.6825
 2025-09-25 02:11:36.271035,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 27.5,-0.04139999999999999,0.5238,0.5652
 2025-09-25 02:11:36.346889,To Make the Playoffs - To Make the Playoffs 2025-26 - L.A. Clippers - To Make the Playoffs,Yes,-0.04160000000000008,0.7917,0.8333
@@ -282,6 +280,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Detroit Pistons,-0.061,0.339,0.4
 2025-09-25 07:31:27.195863,To Win X+ Games - To Win X+ Games 2025-26 - To Win 40+ Regular Season Games,Sacramento Kings,-0.06120000000000003,0.2778,0.339
 2025-09-25 02:11:36.394104,To Make the Playoffs - To Make the Playoffs 2025-26 - San Antonio Spurs - To Make the Playoffs,No,-0.06230000000000002,0.3922,0.4545
+2025-09-25 08:39:42.954196,Point Match-Ups - Tournament Points Match-Up - C. Young v S. Straka - Requests,Cam Young,-0.06659999999999999,0.6667,0.7333
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Los Angeles Lakers,-0.06670000000000004,0.3333,0.4
 2025-09-25 07:31:27.223320,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Indiana Pacers,-0.06779999999999997,0.4878,0.5556
 2025-09-25 07:31:27.228356,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,New Orleans Pelicans,-0.06820000000000001,0.1818,0.25

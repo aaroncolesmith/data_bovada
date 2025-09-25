@@ -1,41 +1,49 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 03:11:14.825772,AL East - AL East 2025 - AL East Winner,New York Yankees,0.2092,0.5122,0.303
 2025-09-25 03:11:14.820846,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.1875,0.875,0.6875
-2025-09-24 16:39:58.444493,Daily Soccer Specials - La Liga Daily Specials - La Liga Daily Specials,4+ Total Saves in Each Game,0.08779999999999999,0.6,0.5122
 2025-09-24 20:33:09.253030,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.06359999999999999,0.8039,0.7403
 2025-09-25 02:11:36.394104,To Make the Playoffs - To Make the Playoffs 2025-26 - San Antonio Spurs - To Make the Playoffs,Yes,0.062000000000000055,0.6774,0.6154
-2025-09-24 16:39:58.444493,Daily Soccer Specials - La Liga Daily Specials - La Liga Daily Specials,5+ Total Saves in Each Game,0.05790000000000001,0.3704,0.3125
 2025-09-25 02:11:35.979781,Pacific Division - Pacific Division 2025-26 - Division Winner,Los Angeles Lakers,0.04410000000000003,0.3774,0.3333
 2025-09-25 02:11:36.346889,To Make the Playoffs - To Make the Playoffs 2025-26 - L.A. Clippers - To Make the Playoffs,No,0.04140000000000002,0.274,0.2326
 2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,0.03760000000000008,0.8667,0.8291
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Sacramento Kings,0.037599999999999995,0.1429,0.1053
-2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.03709999999999991,0.6667,0.6296
 2025-09-25 02:11:36.231018,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Under 47.5,0.03600000000000003,0.5238,0.4878
 2025-09-24 18:39:08.093062,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September",21+ Total Goals Scored,0.03480000000000005,0.5348,0.5
 2025-09-25 02:11:36.260990,Washington Wizards - Regular Season Wins 2025-26 - Washington Wizards - Regular Season Wins,Over 21.5,0.03480000000000005,0.5348,0.5
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Nick Nurse,0.0347,0.0625,0.0278
+2025-09-25 05:33:32.449691,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Draymond Green (GSW),0.0344,0.0588,0.0244
 2025-09-25 02:11:35.986695,Southeast Division - Southeast Division 2025-26 - Division Winner,Atlanta Hawks,0.03370000000000001,0.3846,0.3509
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jordan Clarkson (NYK),0.0334,0.0769,0.0435
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Shai Gilgeous-Alexander (OKC),0.033300000000000024,0.2,0.1667
 2025-09-25 02:11:36.200637,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Over 32.5,0.03179999999999994,0.5556,0.5238
 2025-09-25 02:11:35.965505,Atlantic Division - Atlantic Division 2025-26 - Division Winner,New York Knicks,0.031400000000000095,0.7647,0.7333
 2025-09-25 02:11:36.139936,Winning Division - Winning Division 2025-26 - Winning Division ,Northwest,0.030299999999999994,0.4651,0.4348
-2025-09-25 02:11:36.014492,Groups - Western Groups 2025-26 - West Group C Winner,San Antonio Spurs,0.027999999999999997,0.1818,0.1538
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Tyronn Lue,0.030199999999999998,0.0625,0.0323
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Mike Brown,0.028399999999999995,0.0909,0.0625
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Manchester City,0.027999999999999997,0.1818,0.1538
+2025-09-25 02:11:36.014492,Groups - Western Groups 2025-26 - West Group C Winner,San Antonio Spurs,0.027999999999999997,0.1818,0.1538
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Detroit Pistons,0.027700000000000002,0.0833,0.0556
 2025-09-25 02:11:36.387361,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,Yes,0.026900000000000007,0.2174,0.1905
 2025-09-25 02:11:36.454314,Western Conference - To Participate in Western Conference Play-in Tournament 2025-26 - To Participate in Western Conference Play-in Tournament,Houston Rockets,0.025300000000000003,0.1429,0.1176
-2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Over 48.5,0.022699999999999998,0.4878,0.4651
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Joe Mazzulla,0.024,0.0625,0.0385
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Kenny Atkinson,0.0233,0.0385,0.0152
 2025-09-25 02:11:36.397455,To Make the Playoffs - To Make the Playoffs 2025-26 - Toronto Raptors - To Make the Playoffs,Yes,0.022699999999999998,0.4878,0.4651
+2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Over 48.5,0.022699999999999998,0.4878,0.4651
 2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.02250000000000002,0.2857,0.2632
-2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Aston Villa,0.022199999999999998,0.1333,0.1111
 2025-09-25 02:11:35.970295,Central Division - Central Division 2025-26 - Division Winner,Cleveland Cavaliers,0.022199999999999998,0.8,0.7778
+2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Aston Villa,0.022199999999999998,0.1333,0.1111
 2025-09-25 02:11:36.271035,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Under 27.5,0.02169999999999994,0.5455,0.5238
 2025-09-25 02:11:36.380544,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia 76ers - To Make the Playoffs,No,0.02100000000000002,0.3846,0.3636
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Naz Reid (MIN),0.02020000000000001,0.1111,0.0909
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Erik Spoelstra,0.019800000000000005,0.0476,0.0278
 2025-09-25 02:11:36.360290,To Make the Playoffs - To Make the Playoffs 2025-26 - Milwaukee Bucks - To Make the Playoffs,No,0.019500000000000017,0.3704,0.3509
 2025-09-25 02:11:35.918283,In-Season Tournament Cup - In-Season Tournament Cup Winner 2025-26 - NBA Cup Winner,Houston Rockets,0.01949999999999999,0.0909,0.0714
 2025-09-25 02:11:37.042319,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Jake Paul,0.018900000000000028,0.4444,0.4255
-2025-09-25 02:11:35.992934,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.01820000000000002,0.2,0.1818
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Rick Carlisle,0.0189,0.0385,0.0196
 2025-09-25 02:11:35.975096,Northwest Division - Northwest Division 2025-26 - Division Winner,Denver Nuggets,0.01820000000000002,0.2,0.1818
+2025-09-25 02:11:35.992934,Southwest Division - Southwest Division 2025-26 - Division Winner,San Antonio Spurs,0.01820000000000002,0.2,0.1818
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Jalen Williams (OKC),0.017100000000000004,0.0323,0.0152
+2025-09-25 05:33:32.444304,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Jalen Brunson (NYK),0.016700000000000007,0.1,0.0833
 2025-09-25 02:11:36.000927,Groups - Eastern Groups 2025-26 - East Group B Winner,Philadelphia 76ers,0.016699999999999993,0.2667,0.25
 2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat New York Knicks,0.016600000000000004,0.0833,0.0667
 2025-09-24 20:33:09.249105,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,0.015899999999999997,0.2381,0.2222
@@ -43,6 +51,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Jabari Smith Jr. (HOU),0.0157,0.0435,0.0278
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
 2025-09-24 18:39:09.562337,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,0.014900000000000024,0.3226,0.3077
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,JB Bickerstaff,0.014399999999999996,0.0769,0.0625
 2025-09-25 02:11:36.119185,Exact Result - Exact Result 2025-26 - Exact Result,Oklahoma City Thunder to beat Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Bologna,0.013999999999999999,0.0909,0.0769
 2025-09-25 02:11:35.997737,Groups - Eastern Groups 2025-26 - East Group A Winner,Toronto Raptors,0.013899999999999996,0.125,0.1111
@@ -55,12 +64,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,FC Basel,0.011199999999999995,0.0435,0.0323
 2025-09-25 02:11:36.449448,Eastern Conference - To Participate in Eastern Conference Play-in Tournament 2025-26 - To Participate in Eastern Conference Play-in Tournament,Miami Heat,0.01100000000000001,0.5348,0.5238
 2025-09-25 02:11:36.210612,Utah Jazz - Regular Season Wins 2025-26 - Utah Jazz - Regular Season Wins,Over 18.5,0.01100000000000001,0.5348,0.5238
+2025-09-25 05:33:32.449691,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Anthony Davis (DAL),0.010700000000000001,0.0385,0.0278
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Norman Powell (MIA),0.010700000000000001,0.0385,0.0278
-2025-09-24 17:31:55.538997,"Daily Soccer Specials - Europa League Specials - Wednesday, 24th September - Europa League Specials - Wednesday, 24th September","AS Roma, Betis and Celtic Each to Score 1+ Goals",0.010699999999999932,0.5455,0.5348
 2025-09-25 02:11:36.306255,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Hawks - To Make the Playoffs,No,0.010499999999999982,0.2105,0.2
 2025-09-25 02:11:36.000927,Groups - Eastern Groups 2025-26 - East Group B Winner,Boston Celtics,0.010499999999999982,0.2105,0.2
-2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),0.010099999999999998,0.1212,0.1111
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Evan Mobley (CLE),0.010100000000000001,0.0345,0.0244
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,James Harden (LAC),0.010100000000000001,0.0217,0.0116
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,L.A. Clippers,0.010099999999999998,0.3226,0.3125
+2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,De'Andre Hunter (CLE),0.010099999999999998,0.1212,0.1111
 2025-09-25 02:11:36.175569,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Over 40.5,0.010099999999999998,0.5556,0.5455
 2025-09-25 02:11:36.210612,Utah Jazz - Regular Season Wins 2025-26 - Utah Jazz - Regular Season Wins,Under 18.5,-0.010699999999999932,0.5348,0.5455
 2025-09-25 02:11:36.319783,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bulls - To Make the Playoffs,No,-0.01090000000000002,0.8462,0.8571
@@ -68,13 +79,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-24 20:33:09.245118,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,-0.011499999999999955,0.6552,0.6667
 2025-09-25 02:11:36.175569,Boston Celtics - Regular Season Wins 2025-26 - Boston Celtics - Regular Season Wins,Under 40.5,-0.011600000000000055,0.5122,0.5238
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.0714,0.0833
+2025-09-25 05:33:32.406296,In-Season Tournament MVP - In-Season Tournament Cup MVP 2025-26 - Cup MVP,Donovan Mitchell (CLE),-0.012300000000000005,0.093,0.1053
 2025-09-25 04:35:51.245538,6th Man of the Year - 6th Man of the Year 2025-26 - 6th Man of the Year,Bradley Beal (LAC),-0.012600000000000007,0.0588,0.0714
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,Los Angeles Lakers,-0.012699999999999989,0.3509,0.3636
 2025-09-25 02:11:35.936446,Western Conference - Western Conference 2025-26 - Conference Winner,Denver Nuggets,-0.012899999999999995,0.1538,0.1667
+2025-09-25 05:33:32.444304,Clutch Player of the Year - Clutch Player of the Year 2025-26 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.0131,0.0345,0.0476
 2025-09-25 02:11:36.336685,To Make the Playoffs - To Make the Playoffs 2025-26 - Golden State Warriors - To Make the Playoffs,Yes,-0.013500000000000068,0.7333,0.7468
 2025-09-25 02:11:37.042319,Exhibition Fights - Gervonta Davis vs Jake Paul - To Win the Bout,Gervonta Davis,-0.013799999999999923,0.6226,0.6364
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Feyenoord,-0.014099999999999998,0.0294,0.0435
-2025-09-24 17:31:57.002181,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.01419999999999999,0.3704,0.3846
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Tottenham Hotspur,-0.01440000000000001,0.0909,0.1053
 2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,New York Knicks,-0.01469999999999999,0.2353,0.25
 2025-09-25 02:11:35.936446,Western Conference - Western Conference 2025-26 - Conference Winner,Oklahoma City Thunder,-0.015400000000000025,0.3846,0.4
@@ -83,27 +95,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-25 02:11:36.011313,Groups - Western Groups 2025-26 - West Group B Winner,New Orleans Pelicans,-0.016700000000000007,0.0833,0.1
 2025-09-24 20:33:09.249105,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,-0.017100000000000004,0.8291,0.8462
 2025-09-25 02:11:36.360290,To Make the Playoffs - To Make the Playoffs 2025-26 - Milwaukee Bucks - To Make the Playoffs,Yes,-0.017300000000000093,0.697,0.7143
+2025-09-25 05:33:32.422396,Coach of the Year - Coach of the Year 2025-26 - COTY,Ime Udoka,-0.01759999999999999,0.1,0.1176
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Crvena Zvezda,-0.017800000000000003,0.0066,0.0244
 2025-09-25 02:11:35.979781,Pacific Division - Pacific Division 2025-26 - Division Winner,L.A. Clippers,-0.018100000000000005,0.4167,0.4348
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Phoenix Suns,-0.01830000000000001,0.0769,0.0952
 2025-09-25 02:11:35.992934,Southwest Division - Southwest Division 2025-26 - Division Winner,Houston Rockets,-0.018999999999999906,0.7143,0.7333
 2025-09-25 02:11:35.986695,Southeast Division - Southeast Division 2025-26 - Division Winner,Orlando Magic,-0.020299999999999985,0.6226,0.6429
+2025-09-25 05:33:32.449691,Defensive Player of the Year - Defensive Player of the Year 2025-26 - DPOY,Evan Mobley (CLE),-0.0213,0.0556,0.0769
 2025-09-25 02:11:36.387361,To Make the Playoffs - To Make the Playoffs 2025-26 - Portland Trail Blazers - To Make the Playoffs,No,-0.02310000000000001,0.8519,0.875
 2025-09-25 02:11:36.380544,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia 76ers - To Make the Playoffs,Yes,-0.023399999999999976,0.6825,0.7059
-2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Orlando Magic,-0.023799999999999988,0.1429,0.1667
 2025-09-25 02:11:36.134875,Winning State - Winning State 2025-26 - Winning State,Texas,-0.023799999999999988,0.1429,0.1667
+2025-09-25 02:11:35.928248,Eastern Conference - Eastern Conference 2025-26 - Conference Winner,Orlando Magic,-0.023799999999999988,0.1429,0.1667
 2025-09-25 02:11:35.975096,Northwest Division - Northwest Division 2025-26 - Division Winner,Oklahoma City Thunder,-0.023800000000000043,0.8095,0.8333
 2025-09-24 23:28:17.550339,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Celtic,-0.024299999999999995,0.0345,0.0588
 2025-09-24 23:28:17.530280,EFL Cup - EFL Cup 2025/26 - Winner,Crystal Palace,-0.0245,0.0588,0.0833
-2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Under 48.5,-0.025599999999999956,0.5744,0.6
 2025-09-25 02:11:36.397455,To Make the Playoffs - To Make the Playoffs 2025-26 - Toronto Raptors - To Make the Playoffs,No,-0.025599999999999956,0.5744,0.6
+2025-09-25 02:11:36.246004,Los Angeles Lakers - Regular Season Wins 2025-26 - Los Angeles Lakers - Regular Season Wins,Under 48.5,-0.025599999999999956,0.5744,0.6
 2025-09-24 21:28:29.786122,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,-0.0260999999999999,0.7778,0.8039
 2025-09-25 02:11:36.008076,Groups - Western Groups 2025-26 - West Group A Winner,Oklahoma City Thunder,-0.026499999999999968,0.6226,0.6491
 2025-09-25 02:11:36.231018,L.A. Clippers - Regular Season Wins 2025-26 - L.A. Clippers ,Over 47.5,-0.028900000000000037,0.5455,0.5744
 2025-09-25 02:11:36.260990,Washington Wizards - Regular Season Wins 2025-26 - Washington Wizards - Regular Season Wins,Under 21.5,-0.03049999999999997,0.5348,0.5653
 2025-09-25 02:11:36.200637,Chicago Bulls - Regular Season Wins 2025-26 - Chicago Bulls - Regular Season Wins,Under 32.5,-0.033299999999999996,0.5122,0.5455
 2025-09-25 02:11:36.139936,Winning Division - Winning Division 2025-26 - Winning Division ,Southwest,-0.033399999999999985,0.1333,0.1667
-2025-09-24 16:39:59.902595,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,-0.0348,0.4,0.4348
 2025-09-24 21:28:29.781977,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.038099999999999995,0.2,0.2381
 2025-09-25 02:11:36.271035,Charlotte Hornets - Regular Season Wins 2025-26 - Charlotte Hornets - Regular Season Wins,Over 27.5,-0.04139999999999999,0.5238,0.5652
 2025-09-25 02:11:36.346889,To Make the Playoffs - To Make the Playoffs 2025-26 - L.A. Clippers - To Make the Playoffs,Yes,-0.04160000000000008,0.7917,0.8333

@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 14:33:01.767992,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.7507,0.9412,0.1905
 2025-09-26 14:33:01.779913,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.4,0.9,0.5
 2025-09-26 09:32:44.628157,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Jose Flaco Lopez,0.3834000000000001,0.5652,0.1818
-2025-09-26 06:44:00.078792,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,0.1799,0.3704,0.1905
 2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Paulinho,0.1731,0.25,0.0769
 2025-09-26 10:36:22.131315,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Lionel Messi,0.16660000000000008,0.8333,0.6667
 2025-09-26 14:33:01.792002,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.13649999999999995,0.7917,0.6552
@@ -14,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 09:32:44.632040,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Palmeiras,0.059099999999999986,0.3448,0.2857
 2025-09-26 09:32:44.632040,Copa Libertadores - Copa Libertadores 2025 - Futures - Winner,Liga de Quito,0.052000000000000005,0.1429,0.0909
 2025-09-26 07:30:29.647885,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.04290000000000005,0.6429,0.6
-2025-09-26 06:44:00.083647,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.03479999999999994,0.6,0.5652
 2025-09-26 08:40:03.745391,Matches - Day 1 Foursomes - DeChambeau / Thomas v Rahm / Hatton - Day 1 Foursomes,Rahm / Hatton,0.031799999999999995,0.4762,0.4444
 2025-09-26 09:32:44.611878,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Lyon,0.028799999999999992,0.1538,0.125
 2025-09-26 14:33:01.762031,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,No,0.02870000000000006,0.8113,0.7826
@@ -23,24 +21,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 07:30:29.948385,Matches - Day 1 Foursomes - Scheffler / Henley v Aberg / Fitzpatrick - Day 1 Foursomes,Scheffler / Henley,0.022600000000000064,0.6226,0.6
 2025-09-26 09:32:44.608606,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,Braga,0.021999999999999964,0.3077,0.2857
 2025-09-26 18:40:13.222195,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.02080000000000004,0.6875,0.6667
-2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,João Pedro,0.020100000000000007,0.25,0.2299
 2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,German Berterame,0.020100000000000007,0.25,0.2299
+2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,João Pedro,0.020100000000000007,0.25,0.2299
 2025-09-26 09:32:44.608606,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,FC Porto,0.018299999999999983,0.6552,0.6369
 2025-09-26 07:30:29.960746,Matches - Day 1 Foursomes - Schauffele / Cantlay v MacIntyre / Hovland - Day 1 Foursomes,MacIntyre / Hovland,0.016699999999999993,0.4167,0.4
-2025-09-26 10:36:22.134614,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.016699999999999993,0.2667,0.25
 2025-09-26 14:33:01.786020,To Make The Playoffs - Houston Astros To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.016699999999999993,0.2667,0.25
+2025-09-26 10:36:22.134614,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,Inter Miami,0.016699999999999993,0.2667,0.25
 2025-09-26 09:32:44.608606,UEFA Europa League - UEFA Europa League 2025/26 - Top 8 Finish in League Stage,VfB Stuttgart,0.015400000000000025,0.4,0.3846
 2025-09-26 09:32:44.615129,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,VfB Stuttgart,0.014100000000000001,0.0526,0.0385
-2025-09-26 06:44:00.073922,National League Winner - MLB 2025 National League  - National League Winner,New York Mets,0.013999999999999999,0.0909,0.0769
 2025-09-26 09:32:44.611878,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,VfB Stuttgart,0.013999999999999999,0.0909,0.0769
 2025-09-26 09:32:44.615129,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,Lyon,0.013999999999999999,0.0909,0.0769
 2025-09-26 10:36:22.128402,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,Inter Miami,0.012899999999999995,0.1667,0.1538
 2025-09-26 14:33:01.863240,Boxing Lines - Naomy Valle vs Federica Macri - To Win the Bout,Federica Macri,0.011899999999999994,0.25,0.2381
 2025-09-26 07:30:29.940306,Matches - Day 1 Foursomes - DeChambeau / Thomas v Rahm / Hatton - Day 1 Foursomes,DeChambeau / Thomas,0.0116,0.4878,0.4762
 2025-09-26 09:32:44.628157,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Vitor Roque,0.011199999999999995,0.0588,0.0476
-2025-09-26 09:32:44.615129,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Porto,0.011099999999999999,0.1111,0.1
 2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,Tigres UANL,0.011099999999999999,0.1111,0.1
 2025-09-26 09:32:44.605347,UEFA Europa League - UEFA Europa League 2025/26 - Winner,AS Roma,0.011099999999999999,0.1111,0.1
+2025-09-26 09:32:44.615129,UEFA Europa League - UEFA Europa League 2025/26 - League Stage Winner,FC Porto,0.011099999999999999,0.1111,0.1
 2025-09-26 12:58:44.893741,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,0.01090000000000002,0.8571,0.8462
 2025-09-26 07:30:29.940306,Matches - Day 1 Foursomes - DeChambeau / Thomas v Rahm / Hatton - Day 1 Foursomes,Tie,0.010899999999999993,0.1538,0.1429
 2025-09-26 09:32:44.605347,UEFA Europa League - UEFA Europa League 2025/26 - Winner,Lyon,0.0102,0.0769,0.0667
@@ -53,14 +50,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 12:58:44.893741,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.011700000000000016,0.2105,0.2222
 2025-09-26 09:32:44.743879,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Hilal,-0.012299999999999978,0.3448,0.3571
 2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Diber Cambindo,-0.0131,0.0345,0.0476
-2025-09-26 06:44:00.073922,National League Winner - MLB 2025 National League  - National League Winner,Arizona Diamondbacks,-0.0131,0.0033,0.0164
 2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Alexis Vega,-0.0131,0.0345,0.0476
 2025-09-26 12:58:44.835435,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.013299999999999979,0.6296,0.6429
 2025-09-26 14:33:01.762031,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.013899999999999968,0.2564,0.2703
-2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,Pumas UNAM,-0.014099999999999998,0.0244,0.0385
 2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,Tijuana,-0.014099999999999998,0.0244,0.0385
-2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Nicolas Ibanez,-0.014100000000000001,0.0385,0.0526
+2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,Pumas UNAM,-0.014099999999999998,0.0244,0.0385
 2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Helinho,-0.014100000000000001,0.0385,0.0526
+2025-09-26 08:40:01.782410,Liga MX - Liga MX Apertura 2025 - Top Goalscorer,Nicolas Ibanez,-0.014100000000000001,0.0385,0.0526
 2025-09-26 10:36:22.128402,MLS - USA MLS - 2025 MLS Season Futures - MLS Cup Winner,New York City FC,-0.015300000000000001,0.0435,0.0588
 2025-09-26 09:32:44.611878,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Aston Villa,-0.016699999999999993,0.25,0.2667
 2025-09-26 09:32:44.743879,Professional League - Saudi Arabia Professional League 2025/26 - Winner,Al Ahli,-0.016700000000000007,0.0833,0.1
@@ -84,7 +80,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 10:36:22.134614,MLS - USA MLS - 2025 MLS Season Futures - To Reach the MLS Cup Final,New York City FC,-0.031799999999999995,0.1111,0.1429
 2025-09-26 09:32:44.611878,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,AS Roma,-0.03259999999999999,0.2,0.2326
 2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,CF Monterrey,-0.033300000000000024,0.1667,0.2
-2025-09-26 06:44:00.083647,AL East - AL East 2025 - AL East Winner,New York Yankees,-0.03489999999999999,0.4651,0.5
 2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,Cruz Azul,-0.03570000000000001,0.25,0.2857
 2025-09-26 09:32:44.611878,UEFA Europa League - UEFA Europa League 2025/26 - To Reach the Final,Nottingham Forest,-0.04040000000000002,0.1818,0.2222
 2025-09-26 08:40:01.779276,Liga MX - Liga MX Apertura 2025 - Winner,CF Pachuca,-0.04120000000000001,0.0588,0.1
@@ -100,6 +95,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 14:33:01.792002,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.126,0.274,0.4
 2025-09-26 09:32:44.628157,Copa Libertadores - Copa Libertadores 2025 - Futures - Top Goalscorer,Adrian  Martinez,-0.14640000000000003,0.4762,0.6226
 2025-09-26 10:36:22.131315,MLS - USA MLS - 2025 MLS Season Futures - MLS Golden Boot,Denis Bouanga,-0.1552,0.2222,0.3774
-2025-09-26 06:44:00.078792,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,-0.18269999999999997,0.6923,0.875
 2025-09-26 14:33:01.779913,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.3985000000000001,0.1667,0.5652
 2025-09-26 14:33:01.767992,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.75,0.125,0.875

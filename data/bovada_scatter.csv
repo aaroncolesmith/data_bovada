@@ -19,17 +19,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 19:24:25.705205,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,0.021700000000000053,0.7778,0.7561
 2025-09-27 12:52:35.227397,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Matty Hill,0.02079999999999993,0.5556,0.5348
 2025-09-27 16:34:27.546432,BKFC 81: DeGale vs Floyd - Jonny Graham vs Navid Mansouri - To Win the Bout,Jonny Graham,0.019600000000000006,0.3226,0.303
-2025-09-27 09:28:36.546411,Super Lig - Turkey Super Lig 2025/26 - Winner,Galatasaray,0.018999999999999906,0.7333,0.7143
 2025-09-27 16:34:27.512746,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.018900000000000028,0.4444,0.4255
 2025-09-27 19:24:25.745924,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,0.018900000000000028,0.4444,0.4255
-2025-09-27 09:28:38.130015,BKB 46: Empire State Brawl - Alexey Kiser vs Maurice Morris - To Win the Bout,Maurice Morris,0.01880000000000004,0.5744,0.5556
 2025-09-27 16:34:27.508684,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,Arslanbek Makhmudov,0.01880000000000004,0.5744,0.5556
 2025-09-27 15:28:55.275405,Boxing Lines - Jeremy Hill vs Cristian Cruz Chacon - To Win the Bout,Cristian Cruz Chacon,0.018500000000000016,0.2817,0.2632
-2025-09-27 21:27:35.094658,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Anthony Soto,0.01759999999999999,0.1176,0.1
 2025-09-27 15:28:55.287677,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Anthony Soto,0.01759999999999999,0.1176,0.1
+2025-09-27 21:27:35.094658,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Anthony Soto,0.01759999999999999,0.1176,0.1
+2025-09-27 22:31:02.331813,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.01750000000000007,0.8214,0.8039
 2025-09-27 20:31:01.461284,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,0.017299999999999982,0.303,0.2857
 2025-09-27 16:34:27.443382,Boxing Lines - Loick Lahaie vs Rufus-Venice Camara-Macauley - To Win the Bout,Rufus-Venice Camara-Macauley,0.016600000000000004,0.0833,0.0667
-2025-09-27 09:28:38.043123,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,0.014900000000000024,0.3226,0.3077
 2025-09-27 14:29:52.129491,BKFC 81: DeGale vs Floyd - Jonny Graham vs Navid Mansouri - To Win the Bout,Navid Mansouri,0.014700000000000046,0.7647,0.75
 2025-09-27 11:24:56.481308,FIBA Champions League - FIBA Champions League 2025/26 - Outright,Chalon/Saone,0.014499999999999999,0.0294,0.0149
 2025-09-27 20:31:01.469318,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.014399999999999968,0.8039,0.7895
@@ -40,8 +38,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 18:37:29.732748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.013799999999999923,0.6364,0.6226
 2025-09-27 14:29:52.137659,BKFC 81: DeGale vs Floyd - Matt Floyd vs James Degale - To Win the Bout,Matt Floyd,0.013300000000000034,0.3704,0.3571
 2025-09-27 17:28:13.296476,BKFC 81: DeGale vs Floyd - Matt Floyd vs James Degale - To Win the Bout,Matt Floyd,0.012299999999999978,0.3571,0.3448
-2025-09-27 17:28:13.251574,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5,0.4878
 2025-09-27 19:24:25.741815,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5,0.4878
+2025-09-27 17:28:13.251574,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5,0.4878
 2025-09-27 14:29:52.091832,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5122,0.5
 2025-09-27 18:37:29.716649,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Cristobal Llorente Campoy,0.011700000000000016,0.2222,0.2105
 2025-09-27 16:34:27.476089,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.011699999999999933,0.7895,0.7778
@@ -51,34 +49,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 14:29:52.113076,BKFC 81: DeGale vs Floyd - Aaron Chalmers vs Jack Fincham - To Win the Bout,Aaron Chalmers,0.011099999999999999,0.7333,0.7222
 2025-09-27 14:29:52.079146,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Nathaniel Collins,0.01090000000000002,0.8571,0.8462
 2025-09-27 19:24:25.680877,Boxing Lines - Javon Walton vs Anthony Mora - To Win the Bout,Javon Walton,0.01090000000000002,0.8571,0.8462
-2025-09-27 16:34:27.534289,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Matty Hill,0.010099999999999998,0.5556,0.5455
 2025-09-27 16:34:27.538323,BKFC 81: DeGale vs Floyd - Danny Moir vs Gaz Corran - To Win the Bout,Danny Moir,0.010099999999999998,0.3226,0.3125
+2025-09-27 16:34:27.534289,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Matty Hill,0.010099999999999998,0.5556,0.5455
 2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Joshua Kevin Anton,0.010099999999999998,0.5556,0.5455
-2025-09-27 14:29:52.121264,BKFC 81: DeGale vs Floyd - Danny Moir vs Gaz Corran - To Win the Bout,Danny Moir,-0.010099999999999998,0.3125,0.3226
 2025-09-27 14:29:52.117172,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Matty Hill,-0.010099999999999998,0.5455,0.5556
+2025-09-27 14:29:52.121264,BKFC 81: DeGale vs Floyd - Danny Moir vs Gaz Corran - To Win the Bout,Danny Moir,-0.010099999999999998,0.3125,0.3226
 2025-09-27 11:24:56.481308,FIBA Champions League - FIBA Champions League 2025/26 - Outright,Joventut Badalona,-0.0102,0.0667,0.0769
 2025-09-27 18:37:29.716649,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Nathaniel Collins,-0.01090000000000002,0.8462,0.8571
 2025-09-27 16:34:27.530257,BKFC 81: DeGale vs Floyd - Aaron Chalmers vs Jack Fincham - To Win the Bout,Aaron Chalmers,-0.011099999999999999,0.7222,0.7333
 2025-09-27 21:27:35.094658,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Mazlum Akdeniz,-0.011199999999999988,0.9412,0.9524
 2025-09-27 15:28:55.287677,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Mazlum Akdeniz,-0.011199999999999988,0.9412,0.9524
 2025-09-27 14:29:52.113076,BKFC 81: DeGale vs Floyd - Aaron Chalmers vs Jack Fincham - To Win the Bout,Jack Fincham,-0.01150000000000001,0.3333,0.3448
-2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.011600000000000055,0.5122,0.5238
 2025-09-27 16:34:27.534289,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Andy Thornton,-0.011600000000000055,0.5122,0.5238
-2025-09-27 19:24:25.680877,Boxing Lines - Javon Walton vs Anthony Mora - To Win the Bout,Anthony Mora,-0.011700000000000016,0.2105,0.2222
+2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.011600000000000055,0.5122,0.5238
 2025-09-27 14:29:52.079146,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Cristobal Llorente Campoy,-0.011700000000000016,0.2105,0.2222
+2025-09-27 19:24:25.680877,Boxing Lines - Javon Walton vs Anthony Mora - To Win the Bout,Anthony Mora,-0.011700000000000016,0.2105,0.2222
 2025-09-27 18:37:29.728710,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.012199999999999989,0.4878,0.5
 2025-09-27 20:31:01.453251,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.012199999999999989,0.5,0.5122
 2025-09-27 20:31:01.461284,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,-0.0131,0.7647,0.7778
 2025-09-27 14:29:52.137659,BKFC 81: DeGale vs Floyd - Matt Floyd vs James Degale - To Win the Bout,James Degale,-0.013599999999999945,0.6923,0.7059
-2025-09-27 16:34:27.512746,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
 2025-09-27 19:24:25.745924,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
+2025-09-27 16:34:27.512746,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
 2025-09-27 14:29:52.145801,BKFC 81: DeGale vs Floyd - Travis Dickinson vs Dawid Oskar - To Win the Bout,Travis Dickinson,-0.013800000000000034,0.3636,0.3774
 2025-09-27 16:34:27.427048,Boxing Lines - Amanda Galle vs Alondra Yamile Hernandez Mendoza - To Win the Bout,Alondra Yamile Hernandez Mendoza,-0.013899999999999996,0.1111,0.125
 2025-09-27 15:28:55.246586,Boxing Lines - Amanda Galle vs Alondra Yamile Hernandez Mendoza - To Win the Bout,Amanda Galle,-0.014100000000000001,0.9333,0.9474
 2025-09-27 20:31:01.469318,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,-0.014600000000000002,0.2632,0.2778
 2025-09-27 16:34:27.443382,Boxing Lines - Loick Lahaie vs Rufus-Venice Camara-Macauley - To Win the Bout,Loick Lahaie,-0.014900000000000024,0.9655,0.9804
-2025-09-27 09:28:38.043123,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,-0.015800000000000036,0.7403,0.7561
 2025-09-27 17:28:13.296476,BKFC 81: DeGale vs Floyd - Matt Floyd vs James Degale - To Win the Bout,James Degale,-0.01629999999999998,0.7059,0.7222
+2025-09-27 22:31:02.331813,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,-0.01629999999999998,0.2469,0.2632
 2025-09-27 11:24:56.481308,FIBA Champions League - FIBA Champions League 2025/26 - Outright,Alba Berlin,-0.016700000000000007,0.0833,0.1
 2025-09-27 16:34:27.467989,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Anthony Soto,-0.01759999999999999,0.1,0.1176
 2025-09-27 12:52:35.222872,BKFC 81: DeGale vs Floyd - Aaron Chalmers vs Jack Fincham - To Win the Bout,Aaron Chalmers,-0.018100000000000005,0.7222,0.7403
@@ -93,11 +91,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 12:52:35.227397,BKFC 81: DeGale vs Floyd - Andy Thornton vs Matty Hill - To Win the Bout,Andy Thornton,-0.022600000000000064,0.5122,0.5348
 2025-09-27 14:29:52.141740,BKFC 81: DeGale vs Floyd - Mikey Henderson vs Benjamin Lowe - To Win the Bout,Benjamin Lowe,-0.022699999999999998,0.4651,0.4878
 2025-09-27 16:34:27.508684,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.024399999999999977,0.4878,0.5122
-2025-09-27 09:28:38.130015,BKB 46: Empire State Brawl - Alexey Kiser vs Maurice Morris - To Win the Bout,Alexey Kiser,-0.024399999999999977,0.4878,0.5122
 2025-09-27 16:34:27.546432,BKFC 81: DeGale vs Floyd - Jonny Graham vs Navid Mansouri - To Win the Bout,Navid Mansouri,-0.02440000000000009,0.7403,0.7647
 2025-09-27 16:34:27.558634,BKFC 81: DeGale vs Floyd - Mikey Henderson vs Benjamin Lowe - To Win the Bout,Mikey Henderson,-0.025599999999999956,0.5744,0.6
 2025-09-27 16:34:27.554546,BKFC 81: DeGale vs Floyd - Matt Floyd vs James Degale - To Win the Bout,Matt Floyd,-0.02560000000000001,0.3448,0.3704
-2025-09-27 09:28:36.546411,Super Lig - Turkey Super Lig 2025/26 - Winner,Fenerbahce,-0.02560000000000001,0.3077,0.3333
 2025-09-27 11:24:57.575351,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.029799999999999993,0.0952,0.125
 2025-09-27 14:29:52.066713,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,-0.03689999999999999,0.2857,0.3226
 2025-09-27 15:28:55.362612,BKFC 81: DeGale vs Floyd - Joe Lister vs Sean Weir - To Win the Bout,Joe Lister,-0.03710000000000002,0.6552,0.6923

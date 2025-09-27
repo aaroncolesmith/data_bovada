@@ -1,51 +1,70 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 04:35:00.436746,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.2906,0.4082,0.1176
 2025-09-27 04:35:00.436746,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.2615,0.5556,0.2941
+2025-09-27 06:37:46.490156,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.12259999999999999,0.5,0.3774
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,0.08079999999999998,0.6364,0.5556
+2025-09-27 06:37:46.474598,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.047799999999999954,0.6774,0.6296
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Hamnet,0.044499999999999984,0.2667,0.2222
 2025-09-27 04:35:00.237870,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,0.030299999999999994,0.6667,0.6364
+2025-09-27 06:37:46.506031,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.02560000000000001,0.3704,0.3448
+2025-09-27 06:37:46.698424,Matches - Day 2 Foursomes - DeChambeau / Young v Fitzpatrick / Aberg - Day 2 Foursomes,DeChambeau / Young,0.023800000000000043,0.5238,0.5
 2025-09-26 21:27:41.697409,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Anthony Cuba,0.022600000000000064,0.6226,0.6
+2025-09-27 06:37:46.464393,National League Winner - MLB 2025 National League  - National League Winner,Cincinnati Reds,0.021799999999999996,0.0435,0.0217
+2025-09-27 06:37:46.665312,BKFC 81: DeGale vs Floyd - Mikey Henderson vs Benjamin Lowe - To Win the Bout,Benjamin Lowe,0.021699999999999997,0.4762,0.4545
 2025-09-26 18:40:13.222195,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.02080000000000004,0.6875,0.6667
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Bride,0.0206,0.0385,0.0179
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sinners,0.02020000000000001,0.1111,0.0909
+2025-09-27 06:37:46.567349,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,0.018900000000000028,0.4444,0.4255
+2025-09-27 06:37:46.722913,Matches - Day 2 Foursomes - Henley / Scheffler v MacIntyre / Hovland - Day 2 Foursomes,Henley / Scheffler,0.01880000000000004,0.5652,0.5464
 2025-09-27 01:57:35.504770,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,0.015800000000000036,0.7561,0.7403
 2025-09-26 22:31:48.512296,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,0.014900000000000024,0.3226,0.3077
 2025-09-27 01:57:35.442277,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,0.01479999999999998,0.3922,0.3774
 2025-09-26 23:27:51.532986,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayern Munich,0.014000000000000012,0.9231,0.9091
 2025-09-27 01:57:35.484170,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Anthony Cuba,0.013799999999999923,0.6364,0.6226
 2025-09-27 05:31:12.102268,Matches - Day 2 Foursomes - DeChambeau / Young v Fitzpatrick / Aberg - Day 2 Foursomes,DeChambeau / Young,0.012199999999999989,0.5,0.4878
+2025-09-27 06:37:46.448884,World Series Winner - World Series 2025 - Winner - World Series Winner,Cincinnati Reds,0.011200000000000002,0.0244,0.0132
 2025-09-26 23:27:52.881952,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Seattle Seahawks,0.010700000000000001,0.0385,0.0278
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Nouvelle Vague,-0.010100000000000001,0.0244,0.0345
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sentimental Value,-0.0102,0.0667,0.0769
 2025-09-26 18:40:13.230393,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.010499999999999982,0.2,0.2105
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Wicked: For Good,-0.011199999999999995,0.0476,0.0588
-2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The History of Sound,-0.012700000000000003,0.0196,0.0323
+2025-09-27 06:37:46.448884,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Mets,-0.011500000000000003,0.0385,0.05
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Ella McCay,-0.012700000000000003,0.0196,0.0323
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The History of Sound,-0.012700000000000003,0.0196,0.0323
+2025-09-27 06:37:46.567349,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Anthony Cuba,-0.013799999999999923,0.6226,0.6364
 2025-09-26 23:27:51.567504,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,-0.013899999999999996,0.1111,0.125
-2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Life of Chuck,-0.014100000000000001,0.0385,0.0526
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Bugonia,-0.014100000000000001,0.0385,0.0526
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Life of Chuck,-0.014100000000000001,0.0385,0.0526
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,"Sorry, Baby",-0.014100000000000001,0.0385,0.0526
+2025-09-27 06:37:46.722913,Matches - Day 2 Foursomes - Henley / Scheffler v MacIntyre / Hovland - Day 2 Foursomes,MacIntyre / Hovland,-0.01419999999999999,0.3704,0.3846
 2025-09-26 23:27:52.881952,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Arizona Cardinals,-0.014199999999999999,0.0152,0.0294
-2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,A Big Bold Beautiful Journey,-0.014900000000000004,0.0196,0.0345
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Roofman,-0.014900000000000004,0.0196,0.0345
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,A Big Bold Beautiful Journey,-0.014900000000000004,0.0196,0.0345
 2025-09-27 01:57:35.504770,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,-0.014900000000000024,0.3077,0.3226
 2025-09-27 01:57:35.442277,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,-0.01539999999999997,0.6721,0.6875
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,"Die, My Love",-0.0157,0.0278,0.0435
 2025-09-26 22:31:48.512296,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,-0.015800000000000036,0.7403,0.7561
-2025-09-27 01:57:35.484170,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.018900000000000028,0.4255,0.4444
+2025-09-27 06:37:46.665312,BKFC 81: DeGale vs Floyd - Mikey Henderson vs Benjamin Lowe - To Win the Bout,Mikey Henderson,-0.016100000000000003,0.5917,0.6078
+2025-09-27 06:37:46.459332,American League Winner - MLB 2025 American League - American League Winner,Houston Astros,-0.0168,0.0217,0.0385
+2025-09-27 06:37:46.698424,Matches - Day 2 Foursomes - DeChambeau / Young v Fitzpatrick / Aberg - Day 2 Foursomes,Fitzpatrick / Aberg,-0.017299999999999982,0.4082,0.4255
 2025-09-27 05:31:12.102268,Matches - Day 2 Foursomes - DeChambeau / Young v Fitzpatrick / Aberg - Day 2 Foursomes,Fitzpatrick / Aberg,-0.018900000000000028,0.4255,0.4444
+2025-09-27 01:57:35.484170,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.018900000000000028,0.4255,0.4444
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Anemone,-0.019099999999999995,0.0244,0.0435
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Caught Stealing,-0.019099999999999995,0.0244,0.0435
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Highest 2 Lowest,-0.019800000000000005,0.0278,0.0476
-2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Smashing Machine,-0.0203,0.0385,0.0588
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,After the Hunt,-0.0203,0.0385,0.0588
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Smashing Machine,-0.0203,0.0385,0.0588
 2025-09-26 21:27:41.697409,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.020699999999999996,0.4444,0.4651
 2025-09-26 18:40:13.222195,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,-0.02260000000000001,0.3774,0.4
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Lost Bus,-0.023200000000000002,0.0244,0.0476
 2025-09-27 04:35:00.436746,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.023899999999999998,0.0196,0.0435
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Mother Mary,-0.023899999999999998,0.0196,0.0435
+2025-09-27 06:37:46.464393,National League Winner - MLB 2025 National League  - National League Winner,New York Mets,-0.0242,0.0667,0.0909
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Weapons,-0.028000000000000004,0.0196,0.0476
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,F1,-0.0282,0.0244,0.0526
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Materialists,-0.0283,0.0152,0.0435
+2025-09-27 06:37:46.506031,ROY - NL ROY 2025 - National League Rookie of the Year,Cade Horton (CHC),-0.03290000000000004,0.697,0.7299
 2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Ballad of a Small Player,-0.0384,0.0385,0.0769
+2025-09-27 06:37:46.474598,AL East - AL East 2025 - AL East Winner,New York Yankees,-0.05020000000000002,0.3846,0.4348
+2025-09-27 06:37:46.490156,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.11219999999999997,0.5652,0.6774
 2025-09-27 04:35:00.436746,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.505,0.1176,0.6226

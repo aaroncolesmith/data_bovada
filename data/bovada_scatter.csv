@@ -2,28 +2,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-26 14:33:01.767992,To Make The Playoffs - Cleveland Guardians To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.7507,0.9412,0.1905
 2025-09-26 14:33:01.779913,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.4,0.9,0.5
 2025-09-26 14:33:01.792002,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.13649999999999995,0.7917,0.6552
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,0.08079999999999998,0.6364,0.5556
 2025-09-26 14:33:01.773961,To Make The Playoffs - Arizona Diamondbacks To Make The Playoffs - 2025 - To Make The Playoffs ,No,0.059699999999999975,0.993,0.9333
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Hamnet,0.044499999999999984,0.2667,0.2222
 2025-09-26 14:33:01.762031,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,No,0.02870000000000006,0.8113,0.7826
 2025-09-26 21:27:41.697409,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Anthony Cuba,0.022600000000000064,0.6226,0.6
 2025-09-26 18:40:13.222195,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,0.02080000000000004,0.6875,0.6667
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Bride,0.0206,0.0385,0.0179
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sinners,0.02020000000000001,0.1111,0.0909
 2025-09-26 14:33:01.786020,To Make The Playoffs - Houston Astros To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.016699999999999993,0.2667,0.25
+2025-09-27 01:57:35.504770,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,0.015800000000000036,0.7561,0.7403
 2025-09-26 22:31:48.512296,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,0.014900000000000024,0.3226,0.3077
+2025-09-27 01:57:35.442277,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,0.01479999999999998,0.3922,0.3774
 2025-09-26 23:27:51.532986,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayern Munich,0.014000000000000012,0.9231,0.9091
+2025-09-27 01:57:35.484170,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Anthony Cuba,0.013799999999999923,0.6364,0.6226
 2025-09-26 14:33:01.863240,Boxing Lines - Naomy Valle vs Federica Macri - To Win the Bout,Federica Macri,0.011899999999999994,0.25,0.2381
-2025-09-26 12:58:44.893741,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Sean McComb,0.01090000000000002,0.8571,0.8462
 2025-09-26 23:27:52.881952,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Seattle Seahawks,0.010700000000000001,0.0385,0.0278
 2025-09-26 16:38:04.095762,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,-0.010099999999999998,0.3125,0.3226
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Nouvelle Vague,-0.010100000000000001,0.0244,0.0345
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sentimental Value,-0.0102,0.0667,0.0769
 2025-09-26 18:40:13.230393,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.010499999999999982,0.2,0.2105
 2025-09-26 14:33:01.863240,Boxing Lines - Naomy Valle vs Federica Macri - To Win the Bout,Naomy Valle,-0.01089999999999991,0.8182,0.8291
 2025-09-26 16:38:04.074735,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.011099999999999999,0.4651,0.4762
-2025-09-26 12:58:44.893741,Boxing Lines - Ben Crocker vs Sean McComb - To Win the Bout,Ben Crocker,-0.011700000000000016,0.2105,0.2222
-2025-09-26 12:58:44.835435,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,-0.013299999999999979,0.6296,0.6429
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Wicked: For Good,-0.011199999999999995,0.0476,0.0588
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The History of Sound,-0.012700000000000003,0.0196,0.0323
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Ella McCay,-0.012700000000000003,0.0196,0.0323
 2025-09-26 14:33:01.762031,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.013899999999999968,0.2564,0.2703
 2025-09-26 23:27:51.567504,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,-0.013899999999999996,0.1111,0.125
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,"Sorry, Baby",-0.014100000000000001,0.0385,0.0526
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Bugonia,-0.014100000000000001,0.0385,0.0526
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Life of Chuck,-0.014100000000000001,0.0385,0.0526
 2025-09-26 23:27:52.881952,NFC Championship - NFC Playoffs No. 1 Seeded Team 2025-26 - #1 NFC Seed,Arizona Cardinals,-0.014199999999999999,0.0152,0.0294
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Roofman,-0.014900000000000004,0.0196,0.0345
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,A Big Bold Beautiful Journey,-0.014900000000000004,0.0196,0.0345
+2025-09-27 01:57:35.504770,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,-0.014900000000000024,0.3077,0.3226
+2025-09-27 01:57:35.442277,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Tysie Gallagher,-0.01539999999999997,0.6721,0.6875
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,"Die, My Love",-0.0157,0.0278,0.0435
 2025-09-26 22:31:48.512296,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,-0.015800000000000036,0.7403,0.7561
+2025-09-27 01:57:35.484170,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.018900000000000028,0.4255,0.4444
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Caught Stealing,-0.019099999999999995,0.0244,0.0435
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Anemone,-0.019099999999999995,0.0244,0.0435
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Highest 2 Lowest,-0.019800000000000005,0.0278,0.0476
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,After the Hunt,-0.0203,0.0385,0.0588
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Smashing Machine,-0.0203,0.0385,0.0588
 2025-09-26 21:27:41.697409,Boxing Lines - Jorge De Jesus vs Anthony Cuba - To Win the Bout,Jorge De Jesus,-0.020699999999999996,0.4444,0.4651
 2025-09-26 18:40:13.222195,Boxing Lines - Tysie Gallagher vs Ellie Hellewell - To Win the Bout,Ellie Hellewell,-0.02260000000000001,0.3774,0.4
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Lost Bus,-0.023200000000000002,0.0244,0.0476
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Mother Mary,-0.023899999999999998,0.0196,0.0435
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Weapons,-0.028000000000000004,0.0196,0.0476
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,F1,-0.0282,0.0244,0.0526
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Materialists,-0.0283,0.0152,0.0435
+2025-09-27 01:57:34.091819,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,The Ballad of a Small Player,-0.0384,0.0385,0.0769
 2025-09-26 14:33:01.773961,To Make The Playoffs - Arizona Diamondbacks To Make The Playoffs - 2025 - To Make The Playoffs ,Yes,-0.07450000000000001,0.0588,0.1333
 2025-09-26 14:33:01.792002,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.126,0.274,0.4
 2025-09-26 14:33:01.779913,To Make The Playoffs - Detroit Tigers To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.3985000000000001,0.1667,0.5652

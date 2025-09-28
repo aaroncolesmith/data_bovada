@@ -8,6 +8,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-28 03:47:07.238338,Player Points - Ludvig Aberg Points - Ludvig Aberg Points,Exactly & Under 1.5,0.17820000000000003,0.6226,0.4444
 2025-09-28 03:47:07.233986,Player Points - Justin Thomas Points - Justin Thomas Points,Exactly & Under 1.5,0.17510000000000003,0.6296,0.4545
 2025-09-28 03:47:06.065124,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Las Vegas Aces vs Minnesota Lynx,0.11850000000000001,0.1852,0.0667
+2025-09-28 06:40:36.159182,MVP - AL MVP 2025 - American League MVP,Aaron Judge (NYY),0.11539999999999995,0.6154,0.5
+2025-09-28 06:40:36.141420,AL East - AL East 2025 - AL East Winner,Toronto Blue Jays,0.10999999999999999,0.7874,0.6774
+2025-09-28 06:40:36.176516,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,No,0.1068,0.7222,0.6154
+2025-09-28 06:40:36.170756,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,Yes,0.1068,0.7222,0.6154
+2025-09-28 06:40:36.135817,AL Central - AL Central 2025 - AL Central Winner,Cleveland Guardians,0.07309999999999994,0.7874,0.7143
 2025-09-28 03:47:06.068537,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Las Vegas Aces To Beat Minnesota Lynx,0.06309999999999999,0.0909,0.0278
 2025-09-28 03:47:06.068537,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Las Vegas Aces,0.05650000000000001,0.1,0.0435
 2025-09-28 03:47:07.251516,Player Points - Robert MacIntyre Points - Robert MacIntyre Points,Exactly & Under 1,0.05559999999999998,0.5,0.4444
@@ -20,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-28 03:47:06.068537,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Phoenix Mercury To Beat Indiana Fever,0.03219999999999999,0.0667,0.0345
 2025-09-28 03:47:07.269073,Player Points - Sepp Straka Points - Sepp Straka Points,Over 1,0.03179999999999994,0.5556,0.5238
 2025-09-28 03:47:06.286650,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Kayla McBride (MIN),0.029700000000000004,0.0476,0.0179
+2025-09-28 06:40:36.165041,ROY - NL ROY 2025 - National League Rookie of the Year,Drake Baldwin (ATL),0.029600000000000015,0.4,0.3704
 2025-09-28 03:47:06.286650,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Courtney Williams (MIN),0.0294,0.0588,0.0294
 2025-09-28 02:17:43.126649,Point Match-Ups - Tournament Points Match-Up - J J Spaun vs S. Straka - Tournament Points Match-Up,J J Spaun,0.028900000000000037,0.5744,0.5455
 2025-09-28 05:31:42.031660,Ligue 1 - France Ligue 1 2025/26 - Winner,Paris Saint-Germain,0.028299999999999992,0.9231,0.8948
@@ -39,30 +45,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 20:31:01.461284,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,0.017299999999999982,0.303,0.2857
 2025-09-28 03:47:06.065124,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Phoenix Mercury,0.016600000000000004,0.0833,0.0667
 2025-09-27 20:31:01.469318,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Kim Clavel,0.014399999999999968,0.8039,0.7895
-2025-09-27 18:37:29.732748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,0.013799999999999923,0.6364,0.6226
 2025-09-28 05:31:42.009393,Championship - England Championship 2025/26 - Winner 2025/26,Middlesbrough,0.012899999999999995,0.1667,0.1538
+2025-09-28 05:31:43.701810,Matches - Day 3 Singles - S. Burns / R. MacIntyre - Day 3 Singles,Robert MacIntyre,0.012199999999999989,0.5,0.4878
 2025-09-28 03:47:07.269073,Player Points - Sepp Straka Points - Sepp Straka Points,Exactly & Under 1,0.012199999999999989,0.5122,0.5
 2025-09-27 19:24:25.741815,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5,0.4878
-2025-09-28 05:31:43.701810,Matches - Day 3 Singles - S. Burns / R. MacIntyre - Day 3 Singles,Robert MacIntyre,0.012199999999999989,0.5,0.4878
-2025-09-27 18:37:29.716649,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Cristobal Llorente Campoy,0.011700000000000016,0.2222,0.2105
 2025-09-28 05:31:42.151470,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Crystal Palace,0.0116,0.0141,0.0025
+2025-09-28 06:40:36.124409,American League Winner - MLB 2025 American League - American League Winner,Seattle Mariners,0.01150000000000001,0.3448,0.3333
 2025-09-27 19:24:25.680877,Boxing Lines - Javon Walton vs Anthony Mora - To Win the Bout,Javon Walton,0.01090000000000002,0.8571,0.8462
 2025-09-28 05:31:42.018037,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Bayern Munich,0.010199999999999987,0.9333,0.9231
-2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Joshua Kevin Anton,0.010099999999999998,0.5556,0.5455
 2025-09-28 05:31:43.668874,Matches - Day 3 Singles - .J.J. Spaun / S. Straka - Day 3 Singles,J.J. Spaun,0.010099999999999998,0.5556,0.5455
-2025-09-28 05:31:43.660806,Matches - Day 3 Singles - X. Schauffele / J. Rahm - Day 3 Singles,Xander Schauffele,-0.010099999999999998,0.4444,0.4545
+2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Joshua Kevin Anton,0.010099999999999998,0.5556,0.5455
 2025-09-28 05:31:43.701810,Matches - Day 3 Singles - S. Burns / R. MacIntyre - Day 3 Singles,Sam Burns,-0.010099999999999998,0.5455,0.5556
+2025-09-28 05:31:43.660806,Matches - Day 3 Singles - X. Schauffele / J. Rahm - Day 3 Singles,Xander Schauffele,-0.010099999999999998,0.4444,0.4545
 2025-09-28 05:31:42.009393,Championship - England Championship 2025/26 - Winner 2025/26,Southampton,-0.0102,0.0667,0.0769
 2025-09-28 02:17:43.135638,Day 3 - Day 3  - Day 3 Winner,USA,-0.010699999999999932,0.5348,0.5455
-2025-09-27 18:37:29.716649,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Nathaniel Collins,-0.01090000000000002,0.8462,0.8571
 2025-09-27 21:27:35.094658,Boxing Lines - Mazlum Akdeniz vs Anthony Soto - To Win the Bout,Mazlum Akdeniz,-0.011199999999999988,0.9412,0.9524
 2025-09-27 19:24:25.697068,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.011600000000000055,0.5122,0.5238
 2025-09-27 19:24:25.680877,Boxing Lines - Javon Walton vs Anthony Mora - To Win the Bout,Anthony Mora,-0.011700000000000016,0.2105,0.2222
-2025-09-27 18:37:29.728710,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,-0.012199999999999989,0.4878,0.5
-2025-09-28 05:31:43.668874,Matches - Day 3 Singles - .J.J. Spaun / S. Straka - Day 3 Singles,Sepp Straka,-0.012199999999999989,0.4878,0.5
-2025-09-28 05:31:42.027195,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.012199999999999989,0.4878,0.5
-2025-09-27 20:31:01.453251,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.012199999999999989,0.5,0.5122
 2025-09-28 03:47:07.273443,Player Points - Xander Schauffele Points - Xander Schauffele Points,Exactly & Under 2,-0.012199999999999989,0.5,0.5122
+2025-09-27 20:31:01.453251,Boxing Lines - Joshua Kevin Anton vs Isaias Lucero - To Win the Bout,Isaias Lucero,-0.012199999999999989,0.5,0.5122
+2025-09-28 05:31:42.027195,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.012199999999999989,0.4878,0.5
+2025-09-28 05:31:43.668874,Matches - Day 3 Singles - .J.J. Spaun / S. Straka - Day 3 Singles,Sepp Straka,-0.012199999999999989,0.4878,0.5
 2025-09-28 03:47:06.068537,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Indiana Fever To Beat Phoenix Mercury,-0.012800000000000002,0.0217,0.0345
 2025-09-27 20:31:01.461284,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Emiliano Moreno,-0.0131,0.7647,0.7778
 2025-09-27 19:24:25.745924,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Alexis Barriere,-0.013799999999999923,0.6226,0.6364
@@ -71,10 +74,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-27 22:31:02.331813,Boxing Lines - Sol Cudos vs Kim Clavel - To Win the Bout,Sol Cudos,-0.01629999999999998,0.2469,0.2632
 2025-09-28 03:47:06.286650,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Kelsey Mitchell (IND),-0.016600000000000004,0.0179,0.0345
 2025-09-28 05:31:42.018037,1. Bundesliga - Germany Bundesliga 2025/26 - Winner,Borussia Dortmund,-0.016700000000000007,0.0833,0.1
-2025-09-27 18:37:29.732748,Boxing Lines - Alexis Barriere vs Guido Vianello - To Win the Bout,Guido Vianello,-0.018900000000000028,0.4255,0.4444
+2025-09-28 06:40:36.112768,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Mets,-0.0168,0.0217,0.0385
 2025-09-28 05:31:42.031660,Ligue 1 - France Ligue 1 2025/26 - Winner,Monaco,-0.02020000000000001,0.0909,0.1111
 2025-09-28 05:31:42.009393,Championship - England Championship 2025/26 - Winner 2025/26,Birmingham City,-0.02020000000000001,0.0909,0.1111
 2025-09-27 19:24:25.705205,Boxing Lines - Emiliano Moreno vs Raul Garcia - To Win the Bout,Raul Garcia,-0.021999999999999964,0.2857,0.3077
+2025-09-28 06:40:36.130309,National League Winner - MLB 2025 National League  - National League Winner,New York Mets,-0.0232,0.0435,0.0667
 2025-09-28 05:31:43.644396,Matches - Day 3 Singles - S. Scheffler / R. McIIroy - Day 3 Singles,Rory McIIroy,-0.023800000000000043,0.5,0.5238
 2025-09-28 05:31:43.620492,Matches - Day 3 Singles - C. Young / J. Rose - Day 3 Singles,Justin Rose,-0.025000000000000022,0.4878,0.5128
 2025-09-28 05:31:43.628243,Matches - Day 3 Singles - J. Thomas / T. Fleetwood - Day 3 Singles,Justin Thomas,-0.033299999999999996,0.4545,0.4878
@@ -88,8 +92,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-28 03:47:07.242716,Player Points - Patrick Cantlay Points - Patrick Cantlay Points,Over 2,-0.05059999999999998,0.5238,0.5744
 2025-09-28 03:47:06.068537,WNBA Championship - WNBA Championship 2025 - Finals Exact Outcome,Minnesota Lynx To Beat Indiana Fever,-0.0552,0.0217,0.0769
 2025-09-28 03:47:07.251516,Player Points - Robert MacIntyre Points - Robert MacIntyre Points,Over 1,-0.08389999999999997,0.5652,0.6491
+2025-09-28 06:40:36.135817,AL Central - AL Central 2025 - AL Central Winner,Detroit Tigers,-0.0842,0.2667,0.3509
 2025-09-28 05:31:42.151470,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.09830000000000005,0.4255,0.5238
 2025-09-28 03:47:06.065124,WNBA Championship - WNBA Championship 2025 - Finals Exact Matchup,Indiana Fever vs Minnesota Lynx,-0.1006,0.0244,0.125
+2025-09-28 06:40:36.176516,To Make The Playoffs - New York Mets To Make The Playoffs - 2025 - To Make The Playoffs,Yes,-0.10970000000000002,0.3448,0.4545
+2025-09-28 06:40:36.170756,To Make The Playoffs - Cincinnati Reds To Make The Playoffs - 2025 - To Make The Playoffs,No,-0.10970000000000002,0.3448,0.4545
+2025-09-28 06:40:36.159182,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.11070000000000002,0.4545,0.5652
+2025-09-28 06:40:36.141420,AL East - AL East 2025 - AL East Winner,New York Yankees,-0.1179,0.2667,0.3846
 2025-09-28 03:47:07.238338,Player Points - Ludvig Aberg Points - Ludvig Aberg Points,Over 1.5,-0.17820000000000003,0.4444,0.6226
 2025-09-28 03:47:07.233986,Player Points - Justin Thomas Points - Justin Thomas Points,Over 1.5,-0.20159999999999995,0.4348,0.6364
 2025-09-28 02:17:43.130746,Point Match-Ups - Tournament Points Match-Up - P. Cantlay vs L. Aberg - Tournament Points Match-Up,Ludvig Aberg,-0.20950000000000002,0.2667,0.4762

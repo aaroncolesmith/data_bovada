@@ -3,32 +3,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 02:08:47.216528,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win American League Undefeated,No,0.9097,0.9722,0.0625
 2025-09-29 02:08:47.220192,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win National League Undefeated,No,0.9097,0.9722,0.0625
 2025-09-28 22:31:32.295647,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),0.13140000000000002,0.4255,0.2941
+2025-09-29 03:14:15.726675,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.11119999999999997,0.5556,0.4444
+2025-09-29 03:14:16.577202,Winning Division - World Series 2025 - Winning Division - Winning Division,AL East,0.11069999999999999,0.303,0.1923
+2025-09-29 03:14:16.577202,Winning Division - World Series 2025 - Winning Division - Winning Division,NL Central,0.06590000000000001,0.2326,0.1667
+2025-09-29 03:14:16.562361,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,0.0635,0.2857,0.2222
 2025-09-28 22:31:32.065391,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,0.0573,0.0769,0.0196
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,AC Milan,0.05550000000000002,0.2222,0.1667
 2025-09-28 23:28:29.887372,La Liga - Spain La Liga 2025/26 - Winner,FC Barcelona,0.037800000000000056,0.5833,0.5455
 2025-09-28 22:31:32.065391,WNBA Championship - WNBA Championship 2025 - Championship Winner,Phoenix Mercury,0.03620000000000001,0.4444,0.4082
+2025-09-29 03:14:16.572050,Winning League - World Series 2025 - Winning League - Winning League,American League,0.035999999999999976,0.5122,0.4762
 2025-09-28 23:28:30.088260,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.0348,0.4348,0.4
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,AS Roma,0.034100000000000005,0.125,0.0909
 2025-09-28 22:31:32.295647,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Kelsey Mitchell (IND),0.029700000000000004,0.0476,0.0179
-2025-09-28 14:28:43.297091,Matches - Day 3 Singles - .J.J. Spaun / S. Straka - Day 3 Singles,J.J. Spaun,0.027700000000000058,0.5833,0.5556
+2025-09-29 03:14:15.948127,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),0.029000000000000026,0.4545,0.4255
 2025-09-29 02:08:46.064515,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,0.025600000000000067,0.6923,0.6667
+2025-09-29 03:14:16.552234,World Series Winner - World Series 2025 - Winner - World Series Winner,Toronto Blue Jays,0.024999999999999994,0.125,0.1
 2025-09-28 22:31:32.295647,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Satou Sabally (PHO),0.024299999999999995,0.0769,0.0526
-2025-09-28 14:28:43.369808,Futures - The Open Championship 2026 - Winner,Tommy Fleetwood,0.011199999999999995,0.0588,0.0476
-2025-09-28 14:28:43.281398,Matches - Day 3 Singles - P. Cantlay / L. Aberg - Day 3 Singles,Patrick Cantlay,0.010099999999999998,0.5556,0.5455
+2025-09-29 03:14:15.948127,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.022699999999999998,0.4878,0.4651
+2025-09-29 03:14:16.567233,National League Winner - MLB 2025 National League  - National League Winner,Philadelphia Phillies,0.020799999999999985,0.3333,0.3125
+2025-09-29 03:14:16.567233,National League Winner - MLB 2025 National League  - National League Winner,Cincinnati Reds,0.014899999999999997,0.0625,0.0476
+2025-09-29 03:14:16.567233,National League Winner - MLB 2025 National League  - National League Winner,Milwaukee Brewers,0.01469999999999999,0.25,0.2353
 2025-09-28 15:28:23.551740,MVP - AL MVP 2025 - American League MVP,Cal Raleigh (SEA),-0.011099999999999999,0.4651,0.4762
-2025-09-28 14:28:43.250936,Matches - Day 3 Singles - C. Young / J. Rose - Day 3 Singles,Justin Rose,-0.0116,0.4762,0.4878
-2025-09-28 14:28:43.281398,Matches - Day 3 Singles - P. Cantlay / L. Aberg - Day 3 Singles,Ludvig Aberg,-0.012199999999999989,0.4878,0.5
 2025-09-28 22:31:32.065391,WNBA Championship - WNBA Championship 2025 - Championship Winner,Minnesota Lynx,-0.012299999999999991,0.1053,0.1176
+2025-09-29 03:14:16.562361,American League Winner - MLB 2025 American League - American League Winner,New York Yankees,-0.012500000000000011,0.2439,0.2564
+2025-09-29 03:14:15.948127,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Satou Sabally (PHO),-0.014399999999999996,0.0625,0.0769
 2025-09-28 23:28:30.088260,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Manchester City,-0.015100000000000002,0.1667,0.1818
+2025-09-29 03:14:16.552234,World Series Winner - World Series 2025 - Winner - World Series Winner,New York Yankees,-0.015700000000000006,0.1176,0.1333
+2025-09-29 03:14:16.577202,Winning Division - World Series 2025 - Winning Division - Winning Division,AL Central,-0.015899999999999997,0.0952,0.1111
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,Lazio,-0.0165,0.0079,0.0244
+2025-09-29 03:14:15.726675,WNBA Championship - WNBA Championship 2025 - Championship Winner,Indiana Fever,-0.018099999999999998,0.0588,0.0769
+2025-09-29 03:14:15.726675,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.021699999999999997,0.4545,0.4762
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,Juventus,-0.022199999999999998,0.1111,0.1333
-2025-09-28 14:28:43.297091,Matches - Day 3 Singles - .J.J. Spaun / S. Straka - Day 3 Singles,Sepp Straka,-0.022699999999999998,0.4651,0.4878
 2025-09-28 23:28:29.887372,La Liga - Spain La Liga 2025/26 - Winner,Real Madrid,-0.031799999999999995,0.4444,0.4762
+2025-09-29 03:14:16.572050,Winning League - World Series 2025 - Winning League - Winning League,National League,-0.03610000000000002,0.5556,0.5917
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,Napoli,-0.043399999999999994,0.4444,0.4878
+2025-09-29 03:14:16.577202,Winning Division - World Series 2025 - Winning Division - Winning Division,AL West,-0.04620000000000002,0.1538,0.2
 2025-09-28 23:28:30.088260,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Liverpool,-0.048099999999999976,0.3774,0.4255
 2025-09-28 23:28:29.901318,Serie A - Italy Serie A 2025/26 - Winner,Inter Milan,-0.06669999999999998,0.2,0.2667
 2025-09-28 22:31:32.065391,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,-0.07939999999999997,0.4762,0.5556
+2025-09-29 03:14:16.577202,Winning Division - World Series 2025 - Winning Division - Winning Division,NL West,-0.1005,0.1852,0.2857
 2025-09-28 22:31:32.295647,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),-0.10930000000000001,0.4651,0.5744
-2025-09-29 02:08:47.216528,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win American League Undefeated,Yes,-0.9097,0.0625,0.9722
 2025-09-29 02:08:47.220192,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win National League Undefeated,Yes,-0.9097,0.0625,0.9722
+2025-09-29 02:08:47.216528,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win American League Undefeated,Yes,-0.9097,0.0625,0.9722
 2025-09-29 02:08:47.223625,MLB Postseason Specials - Postseason 2025 Specials - Any Team to win World Series Undefeated,Yes,-0.9706,0.0244,0.995

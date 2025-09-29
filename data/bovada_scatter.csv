@@ -9,8 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Miguel Angel Jimenez,0.10980000000000001,0.1111,0.0013
 2025-09-29 10:37:19.651039,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,Yes,0.10300000000000009,0.8,0.697
 2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Aidan Hutchinson (DET),0.09720000000000001,0.2222,0.125
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Atlético Madrid,0.09689999999999999,0.7333,0.6364
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Julian Alvarez (Atletico Madrid),0.0953,0.1429,0.0476
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jihaad Campbell (PHI),0.09240000000000001,0.2353,0.1429
 2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Myles Garrett (CLE),0.0889,0.2222,0.1333
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Abdul Carter (NYG),0.08340000000000003,0.4167,0.3333
@@ -25,131 +23,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),0.0726,0.3226,0.25
 2025-09-29 10:37:19.662367,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,Yes,0.0726,0.75,0.6774
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Hyo Joo Kim,0.06899999999999999,0.0769,0.0079
-2025-09-29 08:44:05.371161,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lyon,0.06670000000000004,0.4,0.3333
 2025-09-29 10:37:19.695802,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,No,0.06589999999999999,0.2985,0.2326
 2025-09-29 10:37:19.632225,To Make the Playoffs - To Make the Playoffs 2025-26 - Detroit Lions To Make the Playoffs,Yes,0.06490000000000007,0.7619,0.697
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Hye Jin Choi,0.0642,0.0667,0.0025
 2025-09-29 10:37:19.654803,To Make the Playoffs - To Make the Playoffs 2025-26 - Las Vegas Raiders To Make the Playoffs,No,0.06290000000000007,0.9091,0.8462
 2025-09-29 10:37:19.617524,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,No,0.062100000000000044,0.8182,0.7561
 2025-09-29 10:37:19.602173,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,No,0.0615,0.1905,0.129
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Angers,0.0595,0.5833,0.5238
 2025-09-29 09:35:48.933007,Taylor Swift Specials - Taylor Swift Bachelorette Party Location - Which Continent,Asia,0.05710000000000001,0.2,0.1429
 2025-09-29 10:37:19.613740,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,Yes,0.05630000000000002,0.2381,0.1818
 2025-09-29 09:35:49.850231,Mayoral Elections - Next Mayor of New York - Winner,Zohran Mamdani,0.05559999999999998,0.8889,0.8333
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Girona,0.05559999999999998,0.5,0.4444
-2025-09-29 08:44:05.324980,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Heidenheim,0.05449999999999999,0.4545,0.4
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Brooke Henderson,0.052599999999999994,0.0667,0.0141
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steven Alker,0.052000000000000005,0.1429,0.0909
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Liam Coen,0.052000000000000005,0.1429,0.0909
-2025-09-29 08:44:05.301139,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Atlético Madrid,0.05070000000000002,0.4762,0.4255
-2025-09-29 08:44:05.361504,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Lyon,0.04849999999999999,0.1818,0.1333
 2025-09-29 10:37:19.598363,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Falcons To Make the Playoffs,Yes,0.048099999999999976,0.4255,0.3774
-2025-09-29 08:44:05.371161,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Marseille,0.04760000000000009,0.7143,0.6667
 2025-09-29 10:37:19.692217,To Make the Playoffs - To Make the Playoffs 2025-26 - Pittsburgh Steelers To Make the Playoffs,Yes,0.04760000000000003,0.5238,0.4762
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Villarreal,0.045499999999999985,0.5455,0.5
 2025-09-29 14:36:02.822297,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",0.04459999999999997,0.3571,0.3125
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Freddie Jacobson,0.044300000000000006,0.0476,0.0033
 2025-09-29 10:37:19.658585,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,No,0.0421,0.2273,0.1852
 2025-09-29 10:37:19.673797,To Make the Playoffs - To Make the Playoffs 2025-26 - New England Patriots To Make the Playoffs,Yes,0.04099999999999998,0.3636,0.3226
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,St. Pauli,0.04099999999999998,0.3077,0.2667
 2025-09-29 09:35:50.001584,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Dak Prescott (DAL),0.04040000000000002,0.2222,0.1818
 2025-09-29 10:37:19.636068,To Make the Playoffs - To Make the Playoffs 2025-26 - Green Bay Packers To Make the Playoffs,No,0.03950000000000001,0.25,0.2105
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Omarion Hampton (LAC),0.03889999999999999,0.1818,0.1429
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Metz,0.037800000000000056,0.5833,0.5455
 2025-09-29 10:37:19.688638,To Make the Playoffs - To Make the Playoffs 2025-26 - Philadelphia Eagles To Make the Playoffs,Yes,0.03749999999999998,0.9375,0.9
 2025-09-29 09:35:48.759639,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,PSV Eindhoven,0.03639999999999999,0.6364,0.6
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Rayo Vallecano,0.03570000000000001,0.2857,0.25
 2025-09-29 10:37:19.703017,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,No,0.03409999999999999,0.2667,0.2326
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,AJ Auxerre,0.033300000000000024,0.2,0.1667
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Zach Bauchou,0.032400000000000005,0.0476,0.0152
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Darren Clarke,0.03219999999999999,0.0667,0.0345
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Eibar,0.0321,0.0909,0.0588
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Thomas Bjorn,0.032,0.0345,0.0025
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Christian McCaffrey (SF),0.031799999999999995,0.1429,0.1111
-2025-09-29 08:44:05.318677,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,Borussia Dortmund,0.03179999999999994,0.5556,0.5238
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Chandler Blanchet,0.030299999999999997,0.0435,0.0132
 2025-09-29 09:35:48.856567,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Animal Appearance Specials ,Any Animal as ring bearer,0.030299999999999994,0.3333,0.303
 2025-09-29 09:35:48.784161,Super League - Switzerland Super League 2025/26 - Winner,Young Boys,0.030299999999999994,0.3636,0.3333
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Nick Sirianni,0.030199999999999998,0.0625,0.0323
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Satou Sabally (PHO),0.028399999999999995,0.0909,0.0625
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Emilio Gonzalez,0.0279,0.0345,0.0066
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Alavés,0.02779999999999999,0.25,0.2222
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Bayer Leverkusen,0.025600000000000067,0.6923,0.6667
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jaxson Dart (NYG),0.024999999999999994,0.125,0.1
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Celta de Vigo,0.024999999999999994,0.125,0.1
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Oviedo,0.023800000000000043,0.5238,0.5
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Le Havre,0.023800000000000043,0.5238,0.5
 2025-09-29 09:35:48.968614,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,Donald Trump,0.023799999999999988,0.1667,0.1429
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Paul Stankowski,0.0234,0.0244,0.001
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Burgos,0.0232,0.0667,0.0435
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Nasa Hataoka,0.0232,0.0667,0.0435
 2025-09-29 09:35:48.740052,First Division A - Belgium First Division A 2025/26 - Winner,Union Saint-Gilloise,0.02260000000000001,0.4,0.3774
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.02169999999999994,0.5455,0.5238
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,James Cook (BUF),0.0203,0.0588,0.0385
-2025-09-29 08:44:05.324980,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Hoffenheim,0.020299999999999985,0.9615,0.9412
 2025-09-29 09:35:49.855498,Governor Races - Virginia - Winner,Republicans,0.02020000000000001,0.1111,0.0909
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Borussia Mönchengladbach,0.020100000000000007,0.25,0.2299
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Derrick Harmon (PIT),0.019499999999999997,0.0294,0.0099
 2025-09-29 10:37:19.621248,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,No,0.019499999999999962,0.9286,0.9091
 2025-09-29 10:37:19.639866,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,Yes,0.019000000000000017,0.2857,0.2667
-2025-09-29 08:44:05.301139,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Villarreal,0.019000000000000017,0.2857,0.2667
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,RB Leipzig,0.018900000000000028,0.4444,0.4255
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Mark Hensby,0.0189,0.0385,0.0196
 2025-09-29 09:35:49.886524,World Politics - Next World Leader To Leave - Next World Leader To Leave,Anthony Albanese (Australia),0.0189,0.0385,0.0196
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Betis,0.01820000000000002,0.2,0.1818
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Osasuna,0.01820000000000002,0.2,0.1818
 2025-09-29 09:35:48.968614,Nobel Prizes - Nobel Peace Prize 2025 - Nobel Peace Prize,International Court of Justice (ICJ),0.018099999999999998,0.0769,0.0588
 2025-09-29 09:35:49.886524,World Politics - Next World Leader To Leave - Next World Leader To Leave,Xavier Milei (Argentina),0.018099999999999998,0.0769,0.0588
-2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Kevin Dougherty,0.0179,0.0278,0.0099
 2025-09-29 10:37:19.666234,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Dolphins To Make the Playoffs,Yes,0.0179,0.129,0.1111
+2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Kevin Dougherty,0.0179,0.0278,0.0099
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Steve Flesch,0.017499999999999998,0.0179,0.0004
 2025-09-29 16:32:18.633146,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,0.017299999999999982,0.303,0.2857
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Pontus Nyholm,0.017100000000000004,0.0323,0.0152
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,VfB Stuttgart,0.016699999999999993,0.2667,0.25
-2025-09-29 08:44:05.318677,1. Bundesliga - Germany Bundesliga 2025/26 - Winner without Bayern Munich,Bayer Leverkusen,0.016699999999999993,0.2667,0.25
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Zecheng Dou,0.015499999999999998,0.0278,0.0123
-2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean McVay,0.015300000000000001,0.0588,0.0435
 2025-09-29 09:35:48.740052,First Division A - Belgium First Division A 2025/26 - Winner,Mechelen,0.015300000000000001,0.0588,0.0435
+2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean McVay,0.015300000000000001,0.0588,0.0435
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Austin Smotherman,0.014900000000000004,0.0345,0.0196
-2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Ross Steelman,0.014599999999999998,0.0278,0.0132
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Hank Lebioda,0.014599999999999998,0.0196,0.005
+2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Ross Steelman,0.014599999999999998,0.0278,0.0132
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Brian Daboll,0.0145,0.0244,0.0099
-2025-09-29 08:44:05.321724,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Jonathan Burkardt (Eintracht Frankfurt),0.014099999999999998,0.0385,0.0244
 2025-09-29 10:37:19.643603,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,No,0.014000000000000012,0.3125,0.2985
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Austin Hitt,0.0139,0.0179,0.004
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Eintracht Frankfurt,0.013800000000000034,0.3774,0.3636
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Matt Gogel,0.0138,0.0217,0.0079
-2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Michael Wright,0.0137,0.0141,0.0004
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Boo Weekley,0.0137,0.0141,0.0004
+2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Michael Wright,0.0137,0.0141,0.0004
 2025-09-29 14:36:02.798080,National League Winner - MLB 2025 National League  - National League Winner,Los Angeles Dodgers,0.013500000000000012,0.2667,0.2532
-2025-09-29 15:33:15.699512,World Series - World Series MVP 2025 - World Series MVP,Eugenio Suarez (SEA),0.013400000000000002,0.0244,0.011
 2025-09-29 17:31:22.702395,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.013400000000000002,0.0244,0.011
+2025-09-29 15:33:15.699512,World Series - World Series MVP 2025 - World Series MVP,Eugenio Suarez (SEA),0.013400000000000002,0.0244,0.011
 2025-09-29 15:33:15.730745,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.0131,0.7778,0.7647
 2025-09-29 09:35:48.784161,Super League - Switzerland Super League 2025/26 - Winner,St. Gallen,0.012899999999999995,0.1667,0.1538
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Borussia Dortmund,0.012899999999999912,0.8462,0.8333
 2025-09-29 09:35:48.764596,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Sporting CP,0.012699999999999989,0.3636,0.3509
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Augsburg,0.012699999999999989,0.3636,0.3509
 2025-09-29 15:33:15.748208,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5122,0.5
 2025-09-29 17:31:23.153496,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.012199999999999989,0.5122,0.5
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Jeffrey Kang,0.0121,0.0141,0.002
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim O'Neal,0.0118,0.0123,0.0005
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jonathan Taylor (IND),0.011700000000000016,0.2222,0.2105
 2025-09-29 10:37:19.624878,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,Yes,0.011700000000000016,0.2222,0.2105
-2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.011600000000000055,0.5238,0.5122
 2025-09-29 09:35:49.860760,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Democrat,0.011600000000000055,0.5238,0.5122
+2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.011600000000000055,0.5238,0.5122
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Brett Quigley,0.0116,0.0141,0.0025
 2025-09-29 19:27:15.307356,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,0.011399999999999997,0.0278,0.0164
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Heath Slocum,0.0112,0.0132,0.002
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Lamine Yamal (Barcelona),0.011199999999999995,0.0588,0.0476
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,FC Andorra,0.011199999999999995,0.0588,0.0476
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ferran Torres (Barcelona),0.011199999999999995,0.0588,0.0476
 2025-09-29 14:36:03.108962,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Freddie Jacobson,0.011199999999999995,0.0588,0.0476
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Getafe,0.011099999999999999,0.1111,0.1
-2025-09-29 09:35:48.952921,83rd Golden Globe Awards - Podcast of the Year - Winner,Good Hang Amy Poehler,0.011099999999999999,0.1111,0.1
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Leganés,0.011099999999999999,0.1111,0.1
 2025-09-29 09:35:48.958538,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Theo James,0.011099999999999999,0.1111,0.1
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Wolfsburg,0.010899999999999993,0.1538,0.1429
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Mainz,0.010899999999999993,0.1538,0.1429
+2025-09-29 09:35:48.952921,83rd Golden Globe Awards - Podcast of the Year - Winner,Good Hang Amy Poehler,0.011099999999999999,0.1111,0.1
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,John VanDerLaan,0.010600000000000002,0.0323,0.0217
 2025-09-29 20:30:38.405773,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.010599999999999998,0.4651,0.4545
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.010599999999999998,0.4651,0.4545
@@ -158,119 +117,85 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 09:35:48.740052,First Division A - Belgium First Division A 2025/26 - Winner,Gent,0.0102,0.0769,0.0667
 2025-09-29 09:35:48.784161,Super League - Switzerland Super League 2025/26 - Winner,FC Zürich,0.0102,0.0769,0.0667
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),0.010100000000000001,0.0345,0.0244
-2025-09-29 08:44:05.321724,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Karim Adeyemi (Borussia Dortmund),0.010100000000000001,0.0345,0.0244
-2025-09-29 08:44:05.361504,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Marseille,0.010099999999999998,0.4545,0.4444
 2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.010099999999999998,0.5455,0.5556
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.010100000000000001,0.0244,0.0345
 2025-09-29 14:36:02.798080,National League Winner - MLB 2025 National League  - National League Winner,Philadelphia Phillies,-0.010699999999999987,0.3226,0.3333
 2025-09-29 10:37:19.624878,To Make the Playoffs - To Make the Playoffs 2025-26 - Dallas Cowboys To Make the Playoffs,No,-0.01090000000000002,0.8462,0.8571
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Werder Bremen,-0.011099999999999999,0.1,0.1111
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Hoffenheim,-0.011099999999999999,0.1,0.1111
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Sevilla,-0.011199999999999995,0.0476,0.0588
-2025-09-29 08:44:05.371161,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Rennes,-0.011199999999999995,0.0476,0.0588
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Nelson Ledesma,-0.0112,0.004,0.0152
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Shad Tuten,-0.011200000000000002,0.0132,0.0244
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Rod Pampling,-0.0113,0.0066,0.0179
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tyler Warren (IND),-0.011900000000000008,0.0833,0.0952
 2025-09-29 09:35:49.860760,US Presidential Election 2028 - US Presidential Election 2028 - Winning Party - Winning Party,Republican,-0.012199999999999989,0.5,0.5122
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Gonzalo Garcia (Real Madrid),-0.013,0.0066,0.0196
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Will Johnson (ARI),-0.0131,0.0345,0.0476
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Mike Vrabel,-0.0131,0.0345,0.0476
-2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jaxon Smith-Njigba (SEA),-0.0131,0.0345,0.0476
-2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,T.J. Watt (PIT),-0.0131,0.0345,0.0476
 2025-09-29 16:32:18.633146,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,-0.0131,0.7647,0.7778
+2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,T.J. Watt (PIT),-0.0131,0.0345,0.0476
+2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jaxon Smith-Njigba (SEA),-0.0131,0.0345,0.0476
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Ryan Burnett,-0.013499999999999998,0.0044,0.0179
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Mitchell Meissner,-0.013699999999999999,0.0141,0.0278
 2025-09-29 14:36:02.793597,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.013899999999999968,0.2564,0.2703
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Real Valladolid,-0.013899999999999996,0.1111,0.125
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Sevilla,-0.013899999999999996,0.1111,0.125
 2025-09-29 09:35:48.958538,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.013899999999999996,0.1111,0.125
-2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Martha Hunt,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.958538,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.013999999999999999,0.0769,0.0909
-2025-09-29 09:35:48.759639,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,AZ Alkmaar,-0.013999999999999999,0.0769,0.0909
-2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Abigail Anderson,-0.013999999999999999,0.0769,0.0909
-2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Ashley Avignone,-0.013999999999999999,0.0769,0.0909
-2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Emma Stone,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Karlie Kloss,-0.013999999999999999,0.0769,0.0909
+2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Ashley Avignone,-0.013999999999999999,0.0769,0.0909
+2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Abigail Anderson,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Kayla Nicole,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Keleigh Teller,-0.013999999999999999,0.0769,0.0909
-2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Lena Dunham,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Kylie Kelce,-0.013999999999999999,0.0769,0.0909
+2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Lena Dunham,-0.013999999999999999,0.0769,0.0909
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Tree Paine,-0.013999999999999999,0.0769,0.0909
-2025-09-29 08:44:05.321724,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Patrik Schick (Bayer Leverkusen),-0.013999999999999999,0.0769,0.0909
-2025-09-29 08:44:05.324980,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,FC Köln,-0.014000000000000012,0.9091,0.9231
+2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Martha Hunt,-0.013999999999999999,0.0769,0.0909
+2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Emma Stone,-0.013999999999999999,0.0769,0.0909
+2025-09-29 09:35:48.759639,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,AZ Alkmaar,-0.013999999999999999,0.0769,0.0909
 2025-09-29 10:37:19.706654,To Make the Playoffs - To Make the Playoffs 2025-26 - Tennessee Titans To Make the Playoffs,Yes,-0.014099999999999994,0.0526,0.0667
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Sporting Gijón,-0.014099999999999998,0.0294,0.0435
-2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,-0.014099999999999998,0.0244,0.0385
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Ante Budimir (Osasuna),-0.014099999999999998,0.0244,0.0385
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Mike Green (BAL),-0.014099999999999998,0.0294,0.0435
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,VfB Stuttgart,-0.014099999999999998,0.0244,0.0385
-2025-09-29 08:44:05.301139,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Getafe,-0.014099999999999998,0.0244,0.0385
+2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Jason Caron,-0.014099999999999998,0.0244,0.0385
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Travis Hunter (JAX),-0.014400000000000003,0.0179,0.0323
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Jahmyr Gibbs (DET),-0.014899999999999997,0.0476,0.0625
 2025-09-29 10:37:19.666234,To Make the Playoffs - To Make the Playoffs 2025-26 - Miami Dolphins To Make the Playoffs,No,-0.014900000000000024,0.9375,0.9524
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Omarion Hampton (LAC),-0.015100000000000002,0.1667,0.1818
-2025-09-29 08:44:05.324980,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,Borussia Mönchengladbach,-0.015100000000000002,0.8182,0.8333
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Savannah Grewal,-0.0154,0.001,0.0164
 2025-09-29 09:35:50.035179,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.015400000000000025,0.2703,0.2857
 2025-09-29 10:37:19.621248,To Make the Playoffs - To Make the Playoffs 2025-26 - Cleveland Browns To Make the Playoffs,Yes,-0.015899999999999997,0.1379,0.1538
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Yuna Nishimura,-0.016,0.0036,0.0196
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Lamar Jackson (BAL),-0.0165,0.0079,0.0244
-2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),-0.016600000000000004,0.0667,0.0833
 2025-09-29 09:35:50.035179,American League Winner - MLB 2025 American League - American League Winner,New York Yankees,-0.016600000000000004,0.2273,0.2439
+2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),-0.016600000000000004,0.0667,0.0833
 2025-09-29 09:35:48.843415,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Hamnet,-0.016699999999999993,0.25,0.2667
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Betis,-0.017099999999999997,0.0123,0.0294
 2025-09-29 15:33:15.730745,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.017299999999999982,0.2857,0.303
 2025-09-29 10:37:19.643603,To Make the Playoffs - To Make the Playoffs 2025-26 - Indianapolis Colts To Make the Playoffs,Yes,-0.01739999999999997,0.75,0.7674
 2025-09-29 10:37:19.639866,To Make the Playoffs - To Make the Playoffs 2025-26 - Houston Texans To Make the Playoffs,No,-0.017400000000000082,0.7826,0.8
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Nantes,-0.017600000000000005,0.3333,0.3509
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Josh Teater,-0.017800000000000003,0.0066,0.0244
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Freiburg,-0.0179,0.125,0.1429
-2025-09-29 08:44:05.321724,1. Bundesliga - Germany Bundesliga 2025/26 - Top Goalscorer,Serhou Guirassy (Borussia Dortmund),-0.0179,0.125,0.1429
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,Union Berlin,-0.018099999999999998,0.0588,0.0769
 2025-09-29 09:35:48.740052,First Division A - Belgium First Division A 2025/26 - Winner,Sint-Truiden,-0.018200000000000004,0.0294,0.0476
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Levante,-0.018900000000000028,0.4255,0.4444
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Getafe,-0.019099999999999992,0.0476,0.0667
 2025-09-29 09:35:48.784161,Super League - Switzerland Super League 2025/26 - Winner,FC Thun,-0.019099999999999992,0.0476,0.0667
 2025-09-29 09:35:48.843415,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,Sinners,-0.02020000000000001,0.0909,0.1111
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lyon,-0.02020000000000001,0.0909,0.1111
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Kyle Westmoreland,-0.021199999999999997,0.0066,0.0278
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Yuri Yoshida,-0.021300000000000003,0.011,0.0323
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.02169999999999994,0.5238,0.5455
-2025-09-29 08:44:05.558835,LaLiga 2 - Spain La Liga 2 2025/26 - Winner,Deportivo La Coruña,-0.022199999999999998,0.2,0.2222
 2025-09-29 09:35:48.958538,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Callum Turner,-0.022199999999999998,0.2,0.2222
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jacory Croskey-Merritt (WAS),-0.022400000000000003,0.0099,0.0323
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Zoë Kravitz,-0.02310000000000001,0.0769,0.1
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Hoffenheim,-0.02310000000000001,0.0769,0.1
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Real Sociedad,-0.02310000000000001,0.0769,0.1
 2025-09-29 09:35:49.855498,Governor Races - Virginia - Winner,Democrats,-0.0232,0.9524,0.9756
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Matt LaFleur,-0.0232,0.0435,0.0667
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Mason Graham (CLE),-0.023200000000000002,0.0294,0.0526
 2025-09-29 09:35:48.759639,Eredivisie - Netherlands Eredivisie 2025/26 - Winner,Ajax,-0.023799999999999988,0.1429,0.1667
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),-0.02410000000000001,0.2985,0.3226
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Real Sociedad,-0.0242,0.0667,0.0909
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Paris FC,-0.0242,0.0667,0.0909
 2025-09-29 09:35:49.844938,Donald Trump Specials - Trump President Exit Date - Trump Exit Date,2025,-0.0242,0.0667,0.0909
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Yu Liu,-0.0257,0.0066,0.0323
 2025-09-29 13:01:31.999992,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Nick Gabrelcik,-0.026600000000000002,0.0079,0.0345
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Auston Kim,-0.0275,0.011,0.0385
 2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Micah Parsons (GB),-0.02779999999999999,0.2222,0.25
 2025-09-29 09:35:48.740052,First Division A - Belgium First Division A 2025/26 - Winner,Royal Charleroi,-0.028199999999999996,0.0385,0.0667
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Celta de Vigo,-0.028199999999999996,0.0385,0.0667
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,CeeDee Lamb (DAL),-0.0286,0.0099,0.0385
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Sean McDermott,-0.029299999999999993,0.0476,0.0769
-2025-09-29 08:44:05.330956,1. Bundesliga - Germany Bundesliga 2025/26 - Top 4 Finish,FC Köln,-0.029299999999999993,0.0476,0.0769
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Stephen Ames,-0.029700000000000004,0.0179,0.0476
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Polly Mack,-0.029800000000000004,0.0025,0.0323
 2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Maxx Crosby (LV),-0.0309,0.0217,0.0526
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Tim Petrovic,-0.0319,0.0066,0.0385
-2025-09-29 08:44:05.304356,La Liga - Spain La Liga 2025/26 - Top Goalscorer,Raphinha (Barcelona),-0.0321,0.0588,0.0909
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Derrick Henry (BAL),-0.03219999999999999,0.0345,0.0667
 2025-09-29 09:35:49.850231,Mayoral Elections - Next Mayor of New York - Winner,Curtis Sliwa,-0.033,0.0196,0.0526
 2025-09-29 10:37:19.703017,To Make the Playoffs - To Make the Playoffs 2025-26 - Tampa Bay Buccaneers To Make the Playoffs,Yes,-0.033299999999999996,0.8,0.8333
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Kyle Shanahan,-0.03330000000000001,0.0667,0.1
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Brest,-0.034100000000000005,0.0909,0.125
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Y E Yang,-0.03439999999999999,0.0323,0.0667
 2025-09-29 09:35:49.995591,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Will Anderson (HOU),-0.035699999999999996,0.0476,0.0833
 2025-09-29 09:35:48.958538,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,-0.03640000000000004,0.3636,0.4
@@ -280,13 +205,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Cam Skattebo (NYG),-0.0398,0.0435,0.0833
 2025-09-29 10:37:19.565228,Offensive Player of the Year - Offensive Player of the Year 2025-26 - Offensive Player of the Year,Saquon Barkley (PHI),-0.0398,0.0435,0.0833
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Shane Steichen,-0.04040000000000002,0.1818,0.2222
-2025-09-29 08:44:05.371161,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Lille,-0.04169999999999999,0.125,0.1667
 2025-09-29 10:37:19.658585,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Chargers To Make the Playoffs,Yes,-0.042099999999999915,0.8403,0.8824
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Jalon Walker (ATL),-0.04239999999999999,0.0345,0.0769
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,Shemar Stewart (CIN),-0.04329999999999999,0.0476,0.0909
-2025-09-29 08:44:05.327960,1. Bundesliga - Germany Bundesliga 2025/26 - To Be Relegated,Heidenheim,-0.04409999999999992,0.6226,0.6667
-2025-09-29 14:36:02.822297,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.04410000000000003,0.7059,0.75
 2025-09-29 09:35:48.764596,Primeira Liga - Portugal Primeira Liga 2025/26 - Winner,Benfica,-0.04410000000000003,0.3333,0.3774
+2025-09-29 14:36:02.822297,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.04410000000000003,0.7059,0.75
 2025-09-29 09:35:48.496219,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,Inter Miami,-0.044499999999999984,0.2222,0.2667
 2025-09-29 10:37:19.598363,To Make the Playoffs - To Make the Playoffs 2025-26 - Atlanta Falcons To Make the Playoffs,No,-0.04459999999999997,0.6429,0.6875
 2025-09-29 10:37:19.571068,Defensive Rookie of the Year - Defensive Rookie of the Year 2025-26 - Defensive Rookie of the Year,James Pearce Jr. (ATL),-0.044599999999999994,0.0323,0.0769
@@ -295,21 +218,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 09:35:49.886524,World Politics - Next World Leader To Leave - Next World Leader To Leave,Volodymyr Zelenskyy (Ukraine),-0.047599999999999976,0.2857,0.3333
 2025-09-29 09:35:48.849340,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Who will catch the wedding bouquet?,Selena Gomez,-0.048100000000000004,0.0769,0.125
 2025-09-29 09:35:48.853022,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials -  When will They Get Married,On Or Before December 31 2025,-0.0491,0.0278,0.0769
-2025-09-29 08:44:05.324980,1. Bundesliga - Germany Bundesliga 2025/26 - Not to be Relegated,St. Pauli,-0.050000000000000044,0.75,0.8
 2025-09-29 09:35:48.784161,Super League - Switzerland Super League 2025/26 - Winner,FC Basel,-0.05070000000000002,0.4255,0.4762
 2025-09-29 09:35:50.001584,Comeback Player of the Year - Comeback Player of the Year 2025-26 - Comeback Player of the Year,Trevor Lawrence (JAX),-0.052399999999999995,0.0385,0.0909
 2025-09-29 09:35:50.381185,LOTTE Championship - LOTTE Championship - Winner,Peiyun Chien,-0.053099999999999994,0.0057,0.0588
 2025-09-29 09:35:48.856567,Taylor Swift Specials - Taylor Swift / Travis Kelce Wedding Specials - Animal Appearance Specials ,"Taylor’s cats (Meredith, Olivia, Benjamin) to appear at the Wedding or Reception",-0.05559999999999998,0.5,0.5556
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Espanyol,-0.05559999999999998,0.1111,0.1667
 2025-09-29 09:35:48.843415,98th Academy Awards - 2026 Oscars - Best Picture - Best Picture,One Battle After Another,-0.05590000000000006,0.6364,0.6923
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),-0.056900000000000006,0.4082,0.4651
-2025-09-29 08:44:05.301139,La Liga - Spain La Liga 2025/26 - Winner without Real Madrid & FC Barcelona,Athletic Bilbao,-0.05710000000000001,0.1429,0.2
 2025-09-29 10:37:19.617524,To Make the Playoffs - To Make the Playoffs 2025-26 - Cincinnati Bengals To Make the Playoffs,Yes,-0.057699999999999974,0.25,0.3077
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tetairoa McMillan (CAR),-0.058300000000000005,0.0667,0.125
 2025-09-29 10:37:19.558360,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tyler Warren (IND),-0.058599999999999985,0.0952,0.1538
 2025-09-29 10:37:19.613740,To Make the Playoffs - To Make the Playoffs 2025-26 - Chicago Bears To Make the Playoffs,No,-0.0596000000000001,0.8261,0.8857
 2025-09-29 10:37:19.602173,To Make the Playoffs - To Make the Playoffs 2025-26 - Baltimore Ravens To Make the Playoffs,Yes,-0.0625,0.875,0.9375
-2025-09-29 08:44:05.368039,Ligue 1 - France Ligue 1 2025/26 - To Be Relegated,Lorient,-0.0632,0.1667,0.2299
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Vijay Singh,-0.0635,0.0476,0.1111
 2025-09-29 10:37:19.695802,To Make the Playoffs - To Make the Playoffs 2025-26 - San Francisco 49ers To Make the Playoffs,Yes,-0.06590000000000007,0.7674,0.8333
 2025-09-29 09:35:49.989162,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Jim Harbaugh,-0.0666,0.0667,0.1333
@@ -324,10 +243,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 10:37:19.662367,To Make the Playoffs - To Make the Playoffs 2025-26 - Los Angeles Rams To Make the Playoffs,No,-0.0797,0.3125,0.3922
 2025-09-29 09:35:49.850231,Mayoral Elections - Next Mayor of New York - Winner,Andrew Cuomo,-0.09240000000000001,0.1429,0.2353
 2025-09-29 10:37:19.651039,To Make the Playoffs - To Make the Playoffs 2025-26 - Kansas City Chiefs To Make the Playoffs,No,-0.10370000000000001,0.2667,0.3704
-2025-09-29 08:44:05.307675,La Liga - Spain La Liga 2025/26 - To Be Relegated,Elche,-0.10769999999999996,0.2,0.3077
-2025-09-29 08:44:05.361504,Ligue 1 - France Ligue 1 2025/26 - Winner without PSG,Monaco,-0.11110000000000003,0.3333,0.4444
-2025-09-29 08:44:05.371161,Ligue 1 - France Ligue 1 2025/26 - Top 3 Finish,Monaco,-0.11430000000000007,0.6,0.7143
-2025-09-29 08:44:05.310737,La Liga - Spain La Liga 2025/26 - Top 4 Finish,Athletic Bilbao,-0.11780000000000002,0.3077,0.4255
 2025-09-29 10:37:19.670007,To Make the Playoffs - To Make the Playoffs 2025-26 - Minnesota Vikings To Make the Playoffs,Yes,-0.1225,0.2857,0.4082
 2025-09-29 09:35:48.496219,MLS - USA MLS - 2025 MLS Season Futures - MLS Eastern Conference Winner,FC Cincinnati,-0.125,0.125,0.25
 2025-09-29 09:35:50.374928,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Bob Estes,-0.2568,0.0099,0.2667

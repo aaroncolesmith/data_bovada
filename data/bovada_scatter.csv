@@ -1,12 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Jaxson Dart (NYG),0.07500000000000001,0.2,0.125
-2025-09-29 14:36:02.822297,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,"Yes (COL, MIL, SD, SEA, TB)",0.04459999999999997,0.3571,0.3125
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Satou Sabally (PHO),0.028399999999999995,0.0909,0.0625
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.02169999999999994,0.5455,0.5238
+2025-09-30 03:08:03.040783,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.021299999999999986,0.8039,0.7826
+2025-09-30 03:08:01.516823,Premier League Futures/Specials - English Premier League 2025/26 - Winner,Arsenal,0.019699999999999995,0.4545,0.4348
+2025-09-30 03:08:02.396848,Pacific Division - Golden State Warriors - Regular Season Specials 2025-26 - Golden State Warriors - Regular Season Specials,St. Curry to average 25+ PPG & GS Warriors to win 50+ Regular Season games,0.01820000000000002,0.2,0.1818
 2025-09-29 22:28:55.709136,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.017899999999999916,0.7826,0.7647
 2025-09-29 16:32:18.633146,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,0.017299999999999982,0.303,0.2857
+2025-09-30 03:08:03.085558,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,0.01680000000000001,0.2273,0.2105
 2025-09-29 22:28:55.713370,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Cristobal Llorente Campoy,0.015899999999999997,0.2381,0.2222
-2025-09-29 14:36:02.798080,National League Winner - MLB 2025 National League  - National League Winner,Los Angeles Dodgers,0.013500000000000012,0.2667,0.2532
 2025-09-29 17:31:22.702395,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.013400000000000002,0.0244,0.011
 2025-09-29 15:33:15.699512,World Series - World Series MVP 2025 - World Series MVP,Eugenio Suarez (SEA),0.013400000000000002,0.0244,0.011
 2025-09-29 15:33:15.730745,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.0131,0.7778,0.7647
@@ -14,22 +16,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 15:33:15.748208,Boxing Lines - David Allen vs Arslanbek Makhmudov - To Win the Bout,David Allen,0.012199999999999989,0.5122,0.5
 2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.011600000000000055,0.5238,0.5122
 2025-09-29 19:27:15.307356,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,0.011399999999999997,0.0278,0.0164
-2025-09-29 14:36:03.108962,Constellation Furyk & Friends - Constellation Furyk & Friends - Winner,Freddie Jacobson,0.011199999999999995,0.0588,0.0476
-2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.010599999999999998,0.4651,0.4545
 2025-09-29 20:30:38.405773,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.010599999999999998,0.4651,0.4545
+2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.010599999999999998,0.4651,0.4545
 2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.010099999999999998,0.5455,0.5556
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Matthew Golden (GB),-0.010100000000000001,0.0244,0.0345
-2025-09-29 14:36:02.798080,National League Winner - MLB 2025 National League  - National League Winner,Philadelphia Phillies,-0.010699999999999987,0.3226,0.3333
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Tyler Warren (IND),-0.011900000000000008,0.0833,0.0952
 2025-09-29 16:32:18.633146,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,-0.0131,0.7647,0.7778
-2025-09-29 14:36:02.793597,American League Winner - MLB 2025 American League - American League Winner,Toronto Blue Jays,-0.013899999999999968,0.2564,0.2703
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Omarion Hampton (LAC),-0.015100000000000002,0.1667,0.1818
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Quinshon Judkins (CLE),-0.016600000000000004,0.0667,0.0833
+2025-09-30 03:08:03.085558,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,-0.016799999999999926,0.8403,0.8571
 2025-09-29 22:28:55.713370,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Nathaniel Collins,-0.017100000000000004,0.8291,0.8462
 2025-09-29 15:33:15.730745,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.017299999999999982,0.2857,0.303
+2025-09-30 03:08:03.040783,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.018500000000000016,0.2632,0.2817
 2025-09-29 22:28:55.709136,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.021299999999999986,0.2817,0.303
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.02169999999999994,0.5238,0.5455
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Emeka Egbuka (TB),-0.02410000000000001,0.2985,0.3226
-2025-09-29 14:36:02.822297,First Time Winner - World Series 2025 - First Time Winner - First Time Winner,No,-0.04410000000000003,0.7059,0.75
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),-0.056900000000000006,0.4082,0.4651
 2025-09-29 15:33:15.278162,Offensive Rookie of the Year - Offensive Rookie of the Year 2025-26 - Offensive Rookie of the Year,Ashton Jeanty (LV),-0.06669999999999998,0.2,0.2667

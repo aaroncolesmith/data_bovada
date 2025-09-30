@@ -1,4 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2025-09-30 05:33:33.556238,AFC North - AFC North 2025-26 - AFC North Winner,Pittsburgh Steelers,0.055900000000000005,0.3226,0.2667
+2025-09-30 05:33:33.640999,Defensive Player of the Year - Defensive Player of the Year 2025-26 - Defensive Player of the Year,Nik Bonitto (DEN),0.037500000000000006,0.1,0.0625
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Satou Sabally (PHO),0.028399999999999995,0.0909,0.0625
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.02169999999999994,0.5455,0.5238
 2025-09-30 03:08:03.040783,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.021299999999999986,0.8039,0.7826
@@ -7,16 +9,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2025-09-29 22:28:55.709136,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Willy Hutchinson,0.017899999999999916,0.7826,0.7647
 2025-09-30 03:08:03.085558,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Fabio Wardley,0.01680000000000001,0.2273,0.2105
 2025-09-29 22:28:55.713370,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Cristobal Llorente Campoy,0.015899999999999997,0.2381,0.2222
-2025-09-29 17:31:22.702395,Awards - Heisman Trophy Winner 2025-26 - Heisman Trophy,John Mateer (OU),0.013400000000000002,0.0244,0.011
-2025-09-29 17:31:23.153496,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.012199999999999989,0.5122,0.5
+2025-09-30 05:33:33.538173,AFC Championship - AFC Championship 2025-26 - AFC Championship Winner,Denver Broncos,0.014399999999999996,0.0769,0.0625
 2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Louie Odoherty,0.011600000000000055,0.5238,0.5122
 2025-09-29 19:27:15.307356,LOTTE Championship - LOTTE Championship - Winner,Nataliya Guseva,0.011399999999999997,0.0278,0.0164
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,A'ja Wilson (LVA),0.010599999999999998,0.4651,0.4545
 2025-09-29 20:30:38.405773,WNBA Championship - WNBA Championship 2025 - Championship Winner,Las Vegas Aces,0.010599999999999998,0.4651,0.4545
 2025-09-29 18:43:37.451758,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.010099999999999998,0.5455,0.5556
+2025-09-30 05:33:33.618154,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Aaron Glenn,-0.010100000000000001,0.0116,0.0217
+2025-09-30 05:33:33.618154,Coach of the Year - Coach of the Year 2025-26 - Coach of the Year,Zac Taylor,-0.015499999999999998,0.0123,0.0278
 2025-09-30 03:08:03.085558,Boxing Lines - Joseph Parker vs Fabio Wardley - To Win the Bout,Joseph Parker,-0.016799999999999926,0.8403,0.8571
 2025-09-29 22:28:55.713370,Boxing Lines - Nathaniel Collins vs Cristobal Llorente Campoy - To Win the Bout,Nathaniel Collins,-0.017100000000000004,0.8291,0.8462
 2025-09-30 03:08:03.040783,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.018500000000000016,0.2632,0.2817
 2025-09-29 22:28:55.709136,Boxing Lines - Willy Hutchinson vs Mark Jeffers - To Win the Bout,Mark Jeffers,-0.021299999999999986,0.2817,0.303
 2025-09-29 20:30:39.729912,Boxing Lines - Regan Glackin vs Louie Odoherty - To Win the Bout,Regan Glackin,-0.02169999999999994,0.5238,0.5455
+2025-09-30 05:33:33.556238,AFC North - AFC North 2025-26 - AFC North Winner,Baltimore Ravens,-0.043200000000000016,0.6491,0.6923
 2025-09-29 20:30:38.623626,WNBA Awards - Finals MVP 2025 - Finals MVP 2025,Alyssa Thomas (PHO),-0.056900000000000006,0.4082,0.4651
